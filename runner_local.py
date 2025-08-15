@@ -1,3 +1,4 @@
+# runner_local.py
 import json, os, subprocess, sys, time, csv, shutil, re
 from pathlib import Path
 
@@ -5,8 +6,10 @@ PROJECT_DIR = Path(__file__).parent
 CONFIG_FILE = PROJECT_DIR / "config.py"
 ONE_LOCATION_SCRIPT = PROJECT_DIR / "places_one_location.py"
 LOCATIONS_CSV = PROJECT_DIR / "locations.csv"
-DEDUPE_FILE = PROJECT_DIR / "state_dedupe.jsonl"   # persistent across runs
-OUTPUT_DIR = PROJECT_DIR / "outputs"               # where we store the CSVs
+
+DEDUPE_FILE = PROJECT_DIR / "state_dedupe.jsonl"   # place_id persistence
+CURSOR_FILE = PROJECT_DIR / "cursor.json"          # remembers row index across runs
+OUTPUT_DIR = PROJECT_DIR / "outputs"
 
 OUTPUT_DIR.mkdir(exist_ok=True)
 
@@ -41,73 +44,158 @@ def append_seen_ids(path: Path, place_ids):
         for pid in place_ids:
             f.write(json.dumps({"place_id": pid}) + "\n")
 
+def load_locations():
+    """
+    Supports either:
+      1) location,radius_miles
+      2) state,city,radius_miles   (recommended)
+    Returns a list of tuples: (location_string, radius_float)
+    """
+    rows = []
+    with open(LOCATIONS_CSV, newline="") as f:
+        sniffer = csv.Sniffer()
+        sample = f.read(2048)
+        f.seek(0)
+        has_header = sniffer.has_header(sample)
+        dialect = sniffer.sniff(sample)
+        reader = csv.reader(f, dialect)
+        header = next(reader) if has_header else None
+
+        def norm_header(h):
+            return [c.strip().lower() for c in h] if h else []
+
+        h = norm_header(header)
+        for cols in reader:
+            if not cols:
+                continue
+            if h:
+                m = {h[i]: (cols[i].strip() if i < len(cols) else "") for i in range(len(h))}
+                if "location" in m and "radius_miles" in m:
+                    loc = m["location"]
+                    try:
+                        radius = float(m["radius_miles"])
+                    except:
+                        continue
+                elif all(k in m for k in ("state", "city", "radius_miles")):
+                    st = m["state"][:2].upper()
+                    city = m["city"]
+                    loc = f"{city}, {st}"
+                    try:
+                        radius = float(m["radius_miles"])
+                    except:
+                        continue
+                else:
+                    continue
+            else:
+                radius_str = cols[-1].strip()
+                loc = ",".join(c.strip() for c in cols[:-1]).strip()
+                try:
+                    radius = float(radius_str)
+                except:
+                    continue
+            if loc:
+                rows.append((loc, radius))
+    return rows
+
+def load_cursor(total_count: int):
+    """Return starting index; reset if file missing or total changed."""
+    if not CURSOR_FILE.exists():
+        return 0
+    try:
+        obj = json.loads(CURSOR_FILE.read_text())
+        idx = int(obj.get("index", 0))
+        prev_total = int(obj.get("total", total_count))
+        if prev_total != total_count or idx < 0 or idx >= total_count:
+            return 0
+        return idx
+    except Exception:
+        return 0
+
+def save_cursor(index: int, total_count: int):
+    CURSOR_FILE.write_text(json.dumps({"index": index, "total": total_count}))
+
 def set_config(location: str, radius_miles: float):
     txt = CONFIG_FILE.read_text()
-    # Replace only LOCATION and RADIUS_MILES lines; leave everything else intact
     def repl_line(src, key, val):
         pattern = rf'^{key}\s*=\s*.*?$'
-        if isinstance(val, str):
-            new = f'{key} = "{val}"'
-        else:
-            new = f'{key} = {val}'
+        new = f'{key} = "{val}"' if isinstance(val, str) else f'{key} = {val}'
         return re.sub(pattern, new, src, flags=re.MULTILINE)
-
     txt = repl_line(txt, "LOCATION", location)
     txt = repl_line(txt, "RADIUS_MILES", float(radius_miles))
     CONFIG_FILE.write_text(txt)
 
-def run_one(location: str, radius: float, seen_before: set):
+def run_one(location: str, radius: float):
     set_config(location, radius)
-    # Run your existing script (unchanged)
     proc = subprocess.run([sys.executable, str(ONE_LOCATION_SCRIPT)], check=False)
     if proc.returncode != 0:
         print(f"Run failed for {location} ({radius} mi)")
         return set()
 
-    # Build expected filenames
-    city = location.split(",")[0].strip()
-    st = location.split(",")[-1].strip()[:2].upper()
-    suppliers = f"{st} Suppliers - {city} {st} - {int(radius)} Miles Radius.csv"
-    retailers = f"{st} Retailers - {city} {st} - {int(radius)} Miles Radius.csv"
+    # Move any "* Miles Radius.csv" to outputs/
+    created = []
+    for p in PROJECT_DIR.glob("* Miles Radius.csv"):
+        created.append(p)
+        shutil.move(str(p), OUTPUT_DIR / p.name)
 
-    supp_path = PROJECT_DIR / suppliers
-    ret_path  = PROJECT_DIR / retailers
+    if not created:
+        print("No CSVs found in project root after run.")
 
-    # Gather new place_ids found in this run
-    new_ids = extract_place_ids_from_csv(supp_path) | extract_place_ids_from_csv(ret_path)
+    # harvest place_ids from moved CSVs
+    new_ids = set()
+    for p in created:
+        moved = OUTPUT_DIR / p.name
+        new_ids |= extract_place_ids_from_csv(moved)
 
-    # Move outputs into /outputs for easier tracking
-    if supp_path.exists():
-        shutil.move(str(supp_path), OUTPUT_DIR / supp_path.name)
-    if ret_path.exists():
-        shutil.move(str(ret_path), OUTPUT_DIR / ret_path.name)
-
-    # polite pacing
-    time.sleep(3)
+    time.sleep(2)  # be polite
     return new_ids
 
 def main():
+    BATCH_SIZE = int(os.getenv("BATCH_SIZE", "5"))
+
+    locations = load_locations()
+    total = len(locations)
+    if total == 0:
+        print("locations.csv is empty or malformed.")
+        sys.exit(0)
+
+    start_idx = load_cursor(total)
+    print(f"Total locations: {total}. Starting at index: {start_idx}. Batch size: {BATCH_SIZE}")
+
+    # progress: how many batches to finish a full pass (rough)
+    batches_left = (total - start_idx + BATCH_SIZE - 1) // BATCH_SIZE
+    print(f"Approx. batches to finish current pass: {batches_left}")
+
     seen = load_seen_ids(DEDUPE_FILE)
     print(f"Loaded {len(seen)} deduped place_ids.")
 
-    # Process a small batch per run (tune BATCH_SIZE via env if desired)
-    BATCH_SIZE = int(os.getenv("BATCH_SIZE", "5"))
     processed = 0
+    idx = start_idx
+    new_ids_total = 0
 
-    with open(LOCATIONS_CSV) as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            if processed >= BATCH_SIZE:
-                break
-            location = row["location"].strip()
-            radius = float(row["radius_miles"])
-            print(f"=== Running {location} ({radius} mi) ===")
-            new_ids = run_one(location, radius, seen)
-            new_unique = new_ids - seen
-            append_seen_ids(DEDUPE_FILE, new_unique)
-            seen |= new_ids
-            processed += 1
-            print(f"Added {len(new_unique)} new ids; total seen {len(seen)}.")
+    while processed < BATCH_SIZE:
+        loc, radius = locations[idx]
+        print(f"=== [{idx+1}/{total}] {loc} ({radius} mi) ===")
+
+        new_ids = run_one(loc, radius)
+        new_unique = new_ids - seen
+        append_seen_ids(DEDUPE_FILE, new_unique)
+        seen |= new_ids
+        processed += 1
+        new_ids_total += len(new_unique)
+
+        # advance cursor
+        idx = (idx + 1) % total
+
+    # save next starting index
+    save_cursor(idx, total)
+
+    # final progress summary
+    completed = (idx if idx != 0 else total)
+    print(f"\n--- Progress Summary ---")
+    print(f"Processed this run: {processed} locations")
+    print(f"New unique Place IDs this run: {new_ids_total}")
+    print(f"Next start index: {idx}  (completed {completed}/{total} = {completed/total:.1%} of the list)")
+    print(f"Outputs: see ./outputs/")
 
 if __name__ == "__main__":
     main()
