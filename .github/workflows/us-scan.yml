@@ -6,18 +6,16 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write            # allow committing outputs back to the repo
+  contents: write
 
 jobs:
   scan:
     runs-on: ubuntu-latest
     env:
-      BATCH_SIZE: "5"        # process N locations per run; tune to control cost
+      BATCH_SIZE: "5"       # process N locations per run to control cost
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -33,15 +31,7 @@ jobs:
         env:
           GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
         run: |
-          python - <<'PY'
-import re, pathlib, os
-p = pathlib.Path("config.py")
-s = p.read_text()
-new_line = f'API_KEY = "{os.environ["GOOGLE_MAPS_API_KEY"]}"'
-s = re.sub(r'^API_KEY\\s*=\\s*.*?$', new_line, s, flags=re.M)
-p.write_text(s)
-print("API key injected.")
-PY
+          python -c "import re, pathlib, os; p=pathlib.Path('config.py'); s=p.read_text(); s=re.sub(r'^API_KEY\\s*=\\s*.*?$', f'API_KEY = \"{os.environ.get(\"GOOGLE_MAPS_API_KEY\",\"\")}\"', s, flags=re.M); p.write_text(s); print('API key injected.')"
 
       - name: Run batch
         run: python runner_local.py
@@ -49,4 +39,7 @@ PY
       - name: Commit outputs and dedupe
         run: |
           git config user.name  "github-actions[bot]"
-          git config user.email "github-actio
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add outputs/*.csv state_dedupe.jsonl || true
+          git commit -m "Automated batch $(date -u +'%Y-%m-%d %H:%M:%S') UTC" || echo "Nothing to commit"
+          git push
