@@ -2,17 +2,17 @@ name: US Places Scan
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # every 6 hours; adjust as you like
-  workflow_dispatch:        # allow manual run
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:
 
 permissions:
-  contents: write           # needed to commit outputs/dedupe back to repo
+  contents: write            # allow committing outputs back to the repo
 
 jobs:
   scan:
     runs-on: ubuntu-latest
     env:
-      BATCH_SIZE: "5"       # process 5 locations per run to keep costs low
+      BATCH_SIZE: "5"        # process N locations per run; tune to control cost
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -33,12 +33,12 @@ jobs:
         env:
           GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
         run: |
-          # Replace the API_KEY line in config.py with the secret at runtime
-          python - << 'PY'
+          python - <<'PY'
 import re, pathlib, os
 p = pathlib.Path("config.py")
 s = p.read_text()
-s = re.sub(r'^API_KEY\s*=\s*.*?$', f'API_KEY = "{os.environ["GOOGLE_MAPS_API_KEY"]}"', s, flags=re.M)
+new_line = f'API_KEY = "{os.environ["GOOGLE_MAPS_API_KEY"]}"'
+s = re.sub(r'^API_KEY\\s*=\\s*.*?$', new_line, s, flags=re.M)
 p.write_text(s)
 print("API key injected.")
 PY
@@ -49,7 +49,4 @@ PY
       - name: Commit outputs and dedupe
         run: |
           git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add outputs/*.csv state_dedupe.jsonl || true
-          git commit -m "Automated batch $(date -u +'%Y-%m-%d %H:%M:%S') UTC" || echo "Nothing to commit"
-          git push
+          git config user.email "github-actio
