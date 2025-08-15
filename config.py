@@ -1,6 +1,3 @@
-# === Google Maps / Places ===
-API_KEY = "AIzaSyDz8VRZGrPVuoEkUlAxHzyLtCr7tb3d0Kc"
-
 # === Location run settings (one location at a time) ===
 # Example: "Shelton, CT" or "Hartford, CT"
 LOCATION = "Northwood, NH"
