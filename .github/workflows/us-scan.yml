@@ -1,8 +1,8 @@
 name: US Places Scan
 
 on:
-  schedule:
-    - cron: "0 */6 * * *"   # every 6 hours
+  #schedule:
+  #  - cron: "0 */6 * * *"   # every 6 hours
   workflow_dispatch:
 
 permissions:
@@ -27,11 +27,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Inject API key into config.py
-        env:
-          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
-        run: |
-          python -c "import re, pathlib, os; p=pathlib.Path('config.py'); s=p.read_text(); s=re.sub(r'^API_KEY\\s*=\\s*.*?$', f'API_KEY = \"{os.environ.get(\"GOOGLE_MAPS_API_KEY\",\"\")}\"', s, flags=re.M); p.write_text(s); print('API key injected.')"
+      # - name: Inject API key into config.py
+      #   env:
+      #     GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
+      #   run: |
+      #     python -c "import re, pathlib, os; p=pathlib.Path('config.py'); s=p.read_text(); s=re.sub(r'^API_KEY\\s*=\\s*.*?$', f'API_KEY = \"{os.environ.get(\"GOOGLE_MAPS_API_KEY\",\"\")}\"', s, flags=re.M); p.write_text(s); print('API key injected.')"
 
       - name: Run batch
         run: python runner_local.py
