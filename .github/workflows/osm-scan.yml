@@ -2,7 +2,7 @@ name: OSM Places Scan
 
 on:
   schedule:
-    - cron: "0 */3 * * *"   # every 6 hours; adjust if you like
+    - cron: "0 */6 * * *"   # every 6 hours; adjust if you like
   workflow_dispatch:
 
 permissions:
