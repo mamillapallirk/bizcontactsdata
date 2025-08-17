@@ -1,7 +1,5 @@
 import re
 import time
-import math
-import json
 import requests
 import pandas as pd
 from typing import List, Dict, Tuple, Any
@@ -43,7 +41,7 @@ def build_output_filenames(location: str, radius_miles: float) -> Tuple[str, str
 
 # -------- Geocoding (Nominatim) --------
 def geocode_nominatim(q: str) -> Tuple[Any, Any]:
-    """Free OSM geocoder. Be polite: max 1 req/sec."""
+    """Free OSM geocoder. Be polite: max ~1 req/sec."""
     url = "https://nominatim.openstreetmap.org/search"
     headers = {"User-Agent": NOMINATIM_USER_AGENT}
     params = {
@@ -52,7 +50,7 @@ def geocode_nominatim(q: str) -> Tuple[Any, Any]:
         "countrycodes": "us",
         "limit": 1,
         "addressdetails": 0,
-        "email": NOMINATIM_EMAIL,  # optional
+        "email": NOMINATIM_EMAIL,
     }
     r = requests.get(url, headers=headers, params=params, timeout=30)
     r.raise_for_status()
@@ -65,19 +63,11 @@ def geocode_nominatim(q: str) -> Tuple[Any, Any]:
     lon = float(data[0]["lon"])
     return lat, lon
 
-# -------- Overpass Queries --------
+# -------- Overpass (with backoff) --------
 def overpass_query(lat: float, lon: float, radius_m: int, tags: List[Tuple[str, str]]) -> List[Dict]:
-    """
-    Query OSM for a list of (key, value) tag pairs within a radius.
-    We fetch nodes, ways, and relations and return JSON elements.
-    """
-    # Build QL for all tags in one go (union of many nwr queries)
     parts = []
     for k, v in tags:
-        # around: radius,lat,lon
-        # nwr = nodes/ways/relations
         parts.append(f'nwr["{k}"="{v}"](around:{radius_m},{lat},{lon});')
-
     ql = f"""
     [out:json][timeout:180];
     (
@@ -85,10 +75,26 @@ def overpass_query(lat: float, lon: float, radius_m: int, tags: List[Tuple[str, 
     );
     out center tags;
     """
-    r = requests.post(OVERPASS_URL, data={"data": ql}, timeout=180)
-    r.raise_for_status()
-    data = r.json()
-    return data.get("elements", [])
+    backoff = 5
+    for attempt in range(8):  # up to ~8 retries with exponential backoff
+        r = requests.post(OVERPASS_URL, data={"data": ql}, timeout=180)
+        if r.status_code == 200:
+            try:
+                return r.json().get("elements", [])
+            except Exception:
+                print("[Overpass] JSON parse error; returning empty result")
+                return []
+        if r.status_code in (429, 502, 503, 504):
+            wait = int(r.headers.get("Retry-After", backoff))
+            print(f"[Overpass] {r.status_code} throttled/overloaded. Sleeping {wait}s...")
+            time.sleep(wait)
+            backoff = min(backoff * 2, 120)
+            continue
+        print(f"[Overpass] HTTP {r.status_code}: {r.text[:200]}")
+        time.sleep(3)
+        r.raise_for_status()
+    print("[Overpass] Max retries exceeded; returning empty result.")
+    return []
 
 def extract_center(el: Dict) -> Tuple[Any, Any]:
     if "lat" in el and "lon" in el:
@@ -99,7 +105,6 @@ def extract_center(el: Dict) -> Tuple[Any, Any]:
 
 def extract_address(el: Dict) -> str:
     tags = el.get("tags", {})
-    # Prefer 'addr:full' if present, else construct from parts
     if "addr:full" in tags:
         return tags["addr:full"]
     parts = []
@@ -121,33 +126,25 @@ def extract_phone(tags: Dict) -> str:
 def extract_website(tags: Dict) -> str:
     return tags.get("contact:website") or tags.get("website") or ""
 
-def infer_segment_and_naics(name: str, tags: Dict, kv_pair: Tuple[str, str]) -> Tuple[str, str]:
-    """
-    Decide 'retail' vs 'wholesale' and a NAICS code.
-    Priority:
-      1) Wholesale if explicit wholesale tags or name mentions wholesale/distributor
-      2) Else map by (k,v) to retail NAICS
-      3) Fallback: retail, no NAICS
-    """
-    k, v = kv_pair
-    blob = f"{name or ''} { ' '.join([f'{kk}={vv}' for kk,vv in tags.items()]) }".lower()
+def infer_segment_and_naics(name: str, tags: Dict, kv_pair: Tuple[str, str] | None, hint_segment: str) -> Tuple[str, str]:
+    k, v = kv_pair if kv_pair else ("", "")
+    blob = f"{name or ''} " + " ".join([f"{kk}={vv}" for kk, vv in tags.items()])
+    blob_l = blob.lower()
 
-    # wholesale signal (via specific tags)
-    if k == "shop" and v == "wholesale":
-        naics = infer_wholesale_naics(blob)
-        return "wholesale", naics
-
-    if "wholesale" in blob or "distributor" in blob or "merchant wholesaler" in blob:
-        naics = infer_wholesale_naics(blob)
-        return "wholesale", naics
+    # wholesale signal
+    if (k == "shop" and v == "wholesale") or "wholesale" in blob_l or "distributor" in blob_l or "merchant wholesaler" in blob_l:
+        return "wholesale", infer_wholesale_naics(blob_l)
 
     # retail by type mapping
-    naics = OSM_TO_NAICS_RETAIL.get((k, v), "")
-    return "retail", naics
+    if (k, v) in OSM_TO_NAICS_RETAIL:
+        return "retail", OSM_TO_NAICS_RETAIL[(k, v)]
 
-def infer_wholesale_naics(blob: str) -> str:
+    # fallback to hinted segment
+    return hint_segment, ""
+
+def infer_wholesale_naics(blob_l: str) -> str:
     for key, code in WHOLESALE_KEYWORD_TO_NAICS:
-        if key in blob:
+        if key in blob_l:
             return code
     return DEFAULT_WHOLESALE_NAICS
 
@@ -157,6 +154,21 @@ def element_uid(el: Dict) -> str:
     i = el.get("id")
     return f"{t}_{i}"
 
+def detect_matched_kv(tags: Dict) -> Tuple[str, str] | None:
+    for k, v in WHOLESALE_OSM_TAGS + RETAIL_OSM_TAGS:
+        if tags.get(k) == v:
+            return (k, v)
+    if tags.get("shop") == "wholesale":
+        return ("shop", "wholesale")
+    return None
+
+def build_type_string(tags: Dict) -> str:
+    keep = []
+    for key in ["shop", "amenity", "wholesale", "industry", "product", "brand", "operator"]:
+        if key in tags:
+            keep.append(f"{key}={tags[key]}")
+    return ", ".join(keep)
+
 # -------- Pipeline --------
 def run_one_location_osm(location: str, radius_miles: float) -> pd.DataFrame:
     radius_m = miles_to_meters(radius_miles)
@@ -165,7 +177,6 @@ def run_one_location_osm(location: str, radius_miles: float) -> pd.DataFrame:
         print(f"❌ Could not find coordinates for {location}")
         return pd.DataFrame()
 
-    # Collect retail + wholesale separately, dedupe by OSM element id
     seen_ids = set()
     rows = []
 
@@ -196,14 +207,13 @@ def parse_elements(elements: List[Dict], location: str, hint_segment: str, seen_
         phone = extract_phone(tags)
         website = extract_website(tags)
 
-        # determine which (k,v) matched (approx): try to find a known pair in tags
         kv_pair = detect_matched_kv(tags)
-        segment, naics = infer_segment_and_naics(name, tags, kv_pair) if kv_pair else (hint_segment, "")
+        segment, naics = infer_segment_and_naics(name, tags, kv_pair, hint_segment)
 
         parsed.append({
             "Location": location,
-            "Search Keyword": "",  # OSM approach doesn't use the same keyword list; can leave blank
-            "Segment": segment,    # 'wholesale' or 'retail'
+            "Search Keyword": "",
+            "Segment": segment,
             "NAICS Code": naics,
             "Business Name": name,
             "Address": address,
@@ -211,30 +221,12 @@ def parse_elements(elements: List[Dict], location: str, hint_segment: str, seen_
             "Website": website,
             "Latitude": lat,
             "Longitude": lon,
-            "Rating": "",              # OSM doesn't have ratings
-            "User Ratings": "",        # OSM doesn't have ratings
-            "Place ID": uid,           # Use OSM uid for dedupe
+            "Rating": "",
+            "User Ratings": "",
+            "Place ID": uid,            # OSM UID for dedupe
             "Types": build_type_string(tags),
         })
     return parsed
-
-def detect_matched_kv(tags: Dict) -> Tuple[str, str] | None:
-    # Try to detect which configured tag matched (priority: wholesale, then retail)
-    for k, v in WHOLESALE_OSM_TAGS + RETAIL_OSM_TAGS:
-        if tags.get(k) == v:
-            return (k, v)
-    # Also treat generic wholesale if present
-    if "shop" in tags and tags.get("shop") == "wholesale":
-        return ("shop", "wholesale")
-    return None
-
-def build_type_string(tags: Dict) -> str:
-    # Condense a few informative tags
-    keep = []
-    for key in ["shop", "amenity", "wholesale", "industry", "product", "brand", "operator"]:
-        if key in tags:
-            keep.append(f"{key}={tags[key]}")
-    return ", ".join(keep)
 
 # -------- Main --------
 def main():

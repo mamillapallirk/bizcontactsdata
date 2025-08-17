@@ -10,26 +10,25 @@ NOMINATIM_EMAIL = "you@example.com"
 OVERPASS_URL = "https://overpass-api.de/api/interpreter"
 
 # ---------------------------------------------------------------------
-# RETAIL: tightly focused on grocery/supermarket, dairy, flowers,
-# personal care, department/general stores, fruits/vegetables, alcohol
+# RETAIL: grocery/supermarket, dairy, flowers, personal care,
+# department/general stores, fruit/veg, alcohol
 # ---------------------------------------------------------------------
-# These are (key, value) pairs exactly as OSM tags are stored.
 RETAIL_OSM_TAGS = [
-    # Grocery & supermarket core
+    # Grocery & supermarkets
     ("shop", "supermarket"),
     ("shop", "grocery"),
     ("shop", "convenience"),
 
     # Fruits & vegetables
-    ("shop", "greengrocer"),   # fruit & veg markets
+    ("shop", "greengrocer"),
 
-    # Specialty foods (closest NAICS mapped below)
+    # Specialty foods
     ("shop", "organic"),
     ("shop", "dairy"),
     ("shop", "cheese"),
     ("shop", "chocolate"),
     ("shop", "confectionery"),
-    ("shop", "butcher"),       # meat markets
+    ("shop", "butcher"),
 
     # Flowers
     ("shop", "florist"),
@@ -38,7 +37,7 @@ RETAIL_OSM_TAGS = [
     ("shop", "cosmetics"),
     ("shop", "perfumery"),
     ("shop", "beauty"),
-    ("shop", "chemist"),       # drugstore (UK tagging)
+    ("shop", "chemist"),
     ("shop", "health_food"),
 
     # Department / general
@@ -57,13 +56,12 @@ RETAIL_OSM_TAGS = [
 # ---------------------------------------------------------------------
 # WHOLESALE / SUPPLIERS:
 # OSM commonly uses shop=wholesale plus a subtag 'wholesale=*'
-# We search both the explicit shop tag and the wholesale subtag values.
+# Search both explicit shop tag and wholesale subtag values.
 # ---------------------------------------------------------------------
 WHOLESALE_OSM_TAGS = [
-    # Generic wholesale
     ("shop", "wholesale"),
 
-    # Food & beverage wholesale specializations (via 'wholesale=*' subtag)
+    # Food & beverage wholesale specializations
     ("wholesale", "food"),
     ("wholesale", "groceries"),
     ("wholesale", "beverages"),
@@ -80,72 +78,61 @@ WHOLESALE_OSM_TAGS = [
     ("wholesale", "cosmetics"),
     ("wholesale", "health_products"),
     ("wholesale", "chemicals"),
-
-    # Distribution hubs (optional; can be noisy)
-    # ("industrial", "warehouse"),
+    # ("industrial", "warehouse"),  # optional/noisy
 ]
 
 # ---------------------------------------------------------------------
-# NAICS mapping for RETAIL tags
-# (Most commonly used U.S. NAICS 2017/2022 approximations)
+# NAICS mapping for RETAIL tags (approximate 2017/2022)
 # ---------------------------------------------------------------------
 OSM_TO_NAICS_RETAIL = {
-    ("shop", "supermarket"): "445110",         # Supermarkets and Other Grocery (except Convenience) Stores
+    ("shop", "supermarket"): "445110",
     ("shop", "grocery"): "445110",
-    ("shop", "convenience"): "445120",         # Convenience Stores
-
-    ("shop", "greengrocer"): "445230",         # Fruit and Vegetable Markets
-
-    ("shop", "organic"): "445110",             # Often grocery-style organic stores
-    ("shop", "dairy"): "445299",               # All Other Specialty Food Stores
+    ("shop", "convenience"): "445120",
+    ("shop", "greengrocer"): "445230",
+    ("shop", "organic"): "445110",
+    ("shop", "dairy"): "445299",
     ("shop", "cheese"): "445299",
-    ("shop", "chocolate"): "445292",           # Confectionery and Nut Stores
+    ("shop", "chocolate"): "445292",
     ("shop", "confectionery"): "445292",
-    ("shop", "butcher"): "445210",             # Meat Markets
-
-    ("shop", "florist"): "453110",             # Florists
-
-    ("shop", "cosmetics"): "446120",           # Cosmetics, Beauty Supplies, and Perfume Stores
+    ("shop", "butcher"): "445210",
+    ("shop", "florist"): "453110",
+    ("shop", "cosmetics"): "446120",
     ("shop", "perfumery"): "446120",
     ("shop", "beauty"): "446120",
-    ("shop", "chemist"): "446110",             # Pharmacies and Drug Stores
-    ("shop", "health_food"): "446191",         # Food (Health) Supplement Stores
-
-    ("shop", "department_store"): "452210",    # Department Stores
-    ("shop", "general"): "452319",             # All Other General Merchandise Stores
-    ("shop", "variety_store"): "452319",       # Dollar/variety stores
-
-    ("shop", "alcohol"): "445310",             # Beer, Wine, and Liquor Stores
+    ("shop", "chemist"): "446110",
+    ("shop", "health_food"): "446191",
+    ("shop", "department_store"): "452210",
+    ("shop", "general"): "452319",
+    ("shop", "variety_store"): "452319",
+    ("shop", "alcohol"): "445310",
     ("shop", "beverages"): "445310",
     ("shop", "wine"): "445310",
     ("shop", "beer"): "445310",
-    ("shop", "tobacco"): "453991",             # Tobacco Stores (older NAICS; acceptable)
+    ("shop", "tobacco"): "453991",
 }
 
 # ---------------------------------------------------------------------
-# Wholesale NAICS inference:
-# We infer 42xxxx codes from keywords (name/tags blob) when wholesale is detected
+# Wholesale NAICS inference (keywords -> 42xxxx)
 # ---------------------------------------------------------------------
 WHOLESALE_KEYWORD_TO_NAICS = [
-    ("frozen", "424420"),      # Packaged Frozen Food
-    ("dairy", "424430"),       # Dairy Product
-    ("seafood", "424460"),     # Fish and Seafood
+    ("frozen", "424420"),
+    ("dairy", "424430"),
+    ("seafood", "424460"),
     ("fish", "424460"),
-    ("meat", "424470"),        # Meat and Meat Product
+    ("meat", "424470"),
     ("poultry", "424470"),
-    ("fruit", "424480"),       # Fresh Fruit and Vegetable
+    ("fruit", "424480"),
     ("vegetable", "424480"),
     ("produce", "424480"),
-    ("grocery", "424410"),     # General Line Grocery
+    ("grocery", "424410"),
     ("general line", "424410"),
     ("food service", "424410"),
-    ("beverage", "424490"),    # fallback for beverages unless alcohol explicitly matched above
-    ("alcohol", "424820"),     # Wine & Distilled Alcoholic Beverage (if you want finer granularity)
+    ("beverage", "424490"),
+    ("alcohol", "424820"),
     ("wine", "424820"),
-    ("beer", "424810"),        # Beer and Ale Merchant Wholesalers
-    ("cosmetic", "424210"),    # Drugs and Druggists' Sundries (approx for personal care wholesale)
+    ("beer", "424810"),
+    ("cosmetic", "424210"),
     ("health", "424210"),
-    ("chemical", "424690"),    # Other Chemical and Allied Products
+    ("chemical", "424690"),
 ]
-# A safe default if none of the keywords matched but wholesale is certain:
-DEFAULT_WHOLESALE_NAICS = "424490"            # Other Grocery and Related Products
+DEFAULT_WHOLESALE_NAICS = "424490"
