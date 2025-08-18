@@ -1,0 +1,428 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Hesperia, CA",,retail,446120,Natural Nails & Spa,"12223 Highland Ave, Etiwanda, CA, 91739",+1 909 463 7039,,34.1342399,-117.5385525,,,n_519579477,shop=beauty
+"Hesperia, CA",,retail,445120,Arco,,,,34.2237944,-117.4034603,,,n_572572143,"shop=convenience, amenity=fuel, brand=Arco"
+"Hesperia, CA",,retail,445120,Shell,,,,34.2241177,-117.4028321,,,n_572572147,"shop=convenience, amenity=fuel, brand=Shell"
+"Hesperia, CA",,retail,445120,7-Eleven,,,,34.1916076,-117.360445,,,n_572572194,"shop=convenience, amenity=fuel, brand=7-Eleven"
+"Hesperia, CA",,retail,445120,Chevron,,,,34.1361476,-117.1935993,,,n_1295131161,"shop=convenience, amenity=fuel, brand=Chevron"
+"Hesperia, CA",,retail,445110,Stater Bros.,"4059 Phelan Road, Phelan, CA, 92371",+1 760-868-2315,https://www.staterbros.com/stores/116,34.4249352,-117.5735989,,,n_1322962116,"shop=supermarket, brand=Stater Bros."
+"Hesperia, CA",,retail,445120,ampm,,,,34.4268446,-117.573103,,,n_1335188234,"shop=convenience, brand=ampm"
+"Hesperia, CA",,retail,445120,,,,,34.4258578,-117.5719925,,,n_1335188617,shop=convenience
+"Hesperia, CA",,retail,445110,Stater Bros.,"15235 Hook Boulevard, Victorville, CA, 92394",+1 760-243-5533,https://www.staterbros.com/stores/123,34.5201818,-117.331506,,,n_1337616247,"shop=supermarket, brand=Stater Bros."
+"Hesperia, CA",,retail,445120,Mobil,,,,34.0666316,-117.324869,,,n_1339197354,"shop=convenience, amenity=fuel, brand=Mobil"
+"Hesperia, CA",,retail,452210,Target,"12795 Main Street, Hesperia, CA, 92345",+1 760-949-3062,https://www.target.com/sl/hesperia/2468,34.4244908,-117.383687,,,n_1353398300,"shop=department_store, brand=Target"
+"Hesperia, CA",,retail,445120,Food Mart,,,,34.4426432,-117.647481,,,n_1363218973,"shop=convenience, brand=Chevron"
+"Hesperia, CA",,retail,452210,JCPenney,"14370 Bear Valley Road, Victorville, CA, 92392",+1 760-241-3111,https://www.jcpenney.com/locations/ca/victorville/clothing-stores-victorville-ca-217.html,34.4723253,-117.349473,,,n_1374300865,"shop=department_store, brand=JCPenney"
+"Hesperia, CA",,retail,446120,Five Star Nails & Spa,"12721 Main Street, Hesperia, CA, 92344",,,34.4263269,-117.3854644,,,n_1377259222,shop=beauty
+"Hesperia, CA",,retail,445110,Stater Bros.,"14466 Main Street, Hesperia, CA, 92345",+1 760-244-2299,https://www.staterbros.com/stores/122,34.428241,-117.348279,,,n_1380549829,"shop=supermarket, brand=Stater Bros."
+"Hesperia, CA",,retail,445120,Rosa's Market - Deli,,,,34.1428984,-117.4012769,,,n_1475531211,shop=convenience
+"Hesperia, CA",,retail,445110,Jensen's,,,,34.2473097,-117.2087379,,,n_2580087339,shop=supermarket
+"Hesperia, CA",,retail,445120,7-Eleven Store No. 23818,"24156 Lake Drive, Crestline, 92325",(909) 338-5224,https://www.7-eleven.com/,34.243914,-117.2765884,,,n_2789455453,shop=convenience
+"Hesperia, CA",,retail,445310,B & L Liquors,"23851 Lake Drive, Crestline, 92325",(909) 338-2511,,34.2429712,-117.2829248,,,n_2789484255,shop=alcohol
+"Hesperia, CA",,retail,445120,Fawnskin Market,"39187 North Shore Drive, Fawnskin, 92333",,,34.2691878,-116.9469479,,,n_2847597677,shop=convenience
+"Hesperia, CA",,retail,446110,Rite Aid,"15331 Baseline Avenue, Fontana, CA, 92336",(909) 574-2831,https://www.riteaid.com/locations/ca/fontana/15331-baseline-avenue.html,34.1208161,-117.4703,,,n_3360124567,"shop=chemist, brand=Rite Aid"
+"Hesperia, CA",,retail,452319,Lighthouse General Store,,,https://www.bigbearlighthouseresort.com/,34.2617796,-116.9175585,,,n_3367436539,shop=general
+"Hesperia, CA",,retail,445110,Walmart Neighborhood Market,,,,34.1343361,-117.241934,,,n_3458864932,"shop=supermarket, brand=Walmart"
+"Hesperia, CA",,retail,445120,Jensen's,"31987 Hilltop Blvd, Running Springs, CA, 92382",909-867-2228,,34.2042129,-117.105387,,,n_3683209505,shop=convenience
+"Hesperia, CA",,retail,446120,Sam I am Beauty Supply & Salon,"17914 Foothill Boulevard, Fontana, CA, 92335",,,34.1068911,-117.413614,,,n_3714105710,"shop=beauty, operator=Samuel Konadu"
+"Hesperia, CA",,retail,445120,Circle K,"20920 Bear Valley Road, Apple Valley, CA, 92308",+1 760-240-3537,,34.4719288,-117.2073355,,,n_4636881834,"shop=convenience, brand=Circle K"
+"Hesperia, CA",,retail,452210,Ross,"12791 Main Street, Hesperia, CA, 92344",+1 760-948-0170,https://www.rossstores.com/,34.4237325,-117.384286,,,n_4949969721,"shop=department_store, brand=Ross"
+"Hesperia, CA",,retail,452210,Marshalls,,,,34.4231646,-117.3846189,,,n_4949969722,"shop=department_store, brand=Marshalls"
+"Hesperia, CA",,retail,445110,Stater Bros.,"3633 Highland Avenue, Highland, CA, 92346",+1 909-864-0122,https://www.staterbros.com/stores/58,34.1343034,-117.2077413,,,n_5355805499,"shop=supermarket, brand=Stater Bros."
+"Hesperia, CA",,retail,445110,Food 4 Less,"26529 Highland Avenue, Highland, 92346",,,34.1343346,-117.225236,,,n_5355835998,"shop=supermarket, brand=Food 4 Less"
+"Hesperia, CA",,retail,452210,Big Lots,"26545 Highland Avenue, Highland, 92346",,,34.1344273,-117.224498,,,n_5355844208,"shop=department_store, brand=Big Lots"
+"Hesperia, CA",,retail,446120,Total Nails & Spa,"707 W 2nd Street, San Bernardino, CA, 92401",(909) 888-0348,,34.1024488,-117.299217,,,n_5835005198,shop=beauty
+"Hesperia, CA",,retail,445110,Food 4 Less,"14738 La Paz Drive, Victorville, CA, 92392",,,34.51939,-117.3145208,,,n_6223961760,"shop=supermarket, brand=Food 4 Less"
+"Hesperia, CA",,retail,452319,Dollar Tree,"14792 La Paz Drive, Victorville, CA, 92395",,https://www.dollartree.com/locations/ca/victorville/1855/,34.5202562,-117.3157731,,,n_6283729350,"shop=variety_store, brand=Dollar Tree"
+"Hesperia, CA",,retail,452210,Big Lots,"14790 La Paz Drive, Victorville, CA, 92395",+1 760-243-9596,https://local.biglots.com/ca/victorville/14790-la-paz-dr,34.5200507,-117.3154003,,,n_6283729351,"shop=department_store, brand=Big Lots"
+"Hesperia, CA",,retail,453991,VV Smoke Shop,"14516 7th Street, Victorville, CA, 92395",,,34.5146954,-117.3165186,,,n_6292300618,shop=tobacco
+"Hesperia, CA",,retail,446120,Desert Nails & Spa,"14520 7th Street, Victorville, CA, 92395",,,34.5147834,-117.3164344,,,n_6292300619,shop=beauty
+"Hesperia, CA",,retail,452319,Dollar General,"14532 7th Street, Victorville, CA, 92395",,,34.5149614,-117.3162734,,,n_6292300620,"shop=variety_store, brand=Dollar General"
+"Hesperia, CA",,retail,452210,Macy's,"14580 Bear Valley Road, Victorville, CA, 92392",+1 760-493-3300,https://www.macys.com/stores/ca/victorville/mall-of-victor-valley_557.html,34.4744969,-117.3451321,,,n_6351553571,"shop=department_store, brand=Macy's"
+"Hesperia, CA",,retail,445110,Naturalia,,,,34.3862722,-117.383329,,,n_6422126581,"shop=supermarket, brand=Naturalia"
+"Hesperia, CA",,retail,445292,See's Candies,,,,34.1334563,-117.3945428,,,n_6520281463,"shop=confectionery, brand=See's Candies"
+"Hesperia, CA",,retail,445110,Lucerne Valley Market and Hardware,,,,34.4406496,-116.9450629,,,n_6689581888,shop=supermarket
+"Hesperia, CA",,retail,445110,Mother's Nutritional Center,,,,34.1197828,-117.3140732,,,n_7341735632,shop=supermarket
+"Hesperia, CA",,retail,445110,El Super,,,,34.1227,-117.3215781,,,n_7341735650,shop=supermarket
+"Hesperia, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/san-bernardino-ca-pharmacies/1564-w-base-line-st-san-bernardino-ca-92411/storeid=9664,34.1226853,-117.3208757,,,n_7341735651,"shop=chemist, brand=CVS Pharmacy"
+"Hesperia, CA",,retail,446120,Rosy Nails,,,,34.1226186,-117.3222119,,,n_7341735655,shop=beauty
+"Hesperia, CA",,retail,446120,Stylish Eyebrows,,,,34.121656,-117.3212901,,,n_7341735663,shop=beauty
+"Hesperia, CA",,retail,445110,Jimmy's Food Store,,,,34.1217115,-117.3235343,,,n_7341735665,shop=supermarket
+"Hesperia, CA",,retail,445110,Aldi,"27641 San Bernardino Avenue, Redlands, CA, 92374-5045",+1 833-479-7040,https://stores.aldi.us/ca/redlands/27641-san-bernardino-ave,34.0759387,-117.2025701,,,n_7391083062,"shop=supermarket, brand=Aldi"
+"Hesperia, CA",,retail,445310,Mountain Top Liquor,,,,34.3903542,-117.5754217,,,n_7432007239,shop=alcohol
+"Hesperia, CA",,retail,445110,Jensen's Minute Shoppe,,,,34.2543017,-117.1731436,,,n_7737339887,shop=supermarket
+"Hesperia, CA",,retail,445110,Stater Bros.,"28100 California 189, Lake Arrowhead, CA, 92352",+1 909-337-5854,https://www.staterbros.com/stores/92,34.2505706,-117.190455,,,n_7737522586,"shop=supermarket, brand=Stater Bros."
+"Hesperia, CA",,retail,445110,La Esperanza Ranch Market,"1208 West 5th Street, San Bernardino, CA, 92411",,,34.1087446,-117.3119375,,,n_7819449759,shop=supermarket
+"Hesperia, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/hesperia/14519-main-st-ste-a-27678,34.4264423,-117.345993,,,n_8157221942,"shop=convenience, brand=7-Eleven"
+"Hesperia, CA",,retail,445120,,,,,34.5268247,-117.214173,,,n_8419770478,shop=convenience
+"Hesperia, CA",,retail,452210,Ross,"20352 Highway 18, Apple Valley, CA, 92307-6196",+1 760-961-2183,,34.5269536,-117.2158147,,,n_8419806018,"shop=department_store, brand=Ross"
+"Hesperia, CA",,retail,452319,Dollar Tree,"20346 Happy Trails Highway, Apple Valley, CA, 92307;92307-2937",,,34.5271609,-117.2161921,,,n_8419806019,"shop=variety_store, brand=Dollar Tree"
+"Hesperia, CA",,retail,445120,7-Eleven,"17710 Foothill Boulevard, Fontana, CA, 92335",+1 909-823-3321,https://www.7-eleven.com/locations/ca/fontana/17710-foothill-blvd-18975,34.1071758,-117.418062,,,n_8540531746,"shop=convenience, brand=7-Eleven"
+"Hesperia, CA",,retail,445310,,,,,34.4699768,-117.3409411,,,n_8555622101,shop=alcohol
+"Hesperia, CA",,retail,445110,ALDI,"18667 Bear Valley Road, Hesperia, CA, 92345-5077",+1 833-479-7097,https://stores.aldi.us/ca/hesperia/18667-bear-valley-rd,34.470114,-117.2572732,,,n_8665015117,"shop=supermarket, brand=ALDI"
+"Hesperia, CA",,retail,445110,Aldi,"13360 Main Street, Hesperia, CA, 92345-9137",+1 714-888-4323,https://stores.aldi.us/ca/hesperia/13360-main-st,34.4278039,-117.371932,,,n_8665021116,"shop=supermarket, brand=Aldi"
+"Hesperia, CA",,retail,445120,Circle K,,,,34.1062,-117.453247,,,n_8678959036,"shop=convenience, brand=Circle K"
+"Hesperia, CA",,retail,445120,7-Eleven,"16701 Arrow Boulevard, Fontana, CA, 92335",+1 909-428-7913,https://www.7-eleven.com/locations/ca/fontana/16701-arrow-blvd-36032,34.0988658,-117.4396699,,,n_8682332357,"shop=convenience, brand=7-Eleven"
+"Hesperia, CA",,retail,446120,Cal Nails,"16960 Foothill Boulevard, Fontana, CA, 92335",,,34.1079529,-117.4340298,,,n_8796763199,shop=beauty
+"Hesperia, CA",,retail,446120,Kim Beauty Supply,"16960 Foothill Boulevard, Fontana, CA, 92335",,,34.1079416,-117.4338989,,,n_8796763200,shop=beauty
+"Hesperia, CA",,retail,445110,Smart & Final,,,,34.4699226,-117.3335698,,,n_8963373599,"shop=supermarket, brand=Smart & Final"
+"Hesperia, CA",,retail,445310,,,,,34.1296107,-117.4319593,,,n_8971495001,shop=alcohol
+"Hesperia, CA",,retail,445210,,,,,34.1290815,-117.4323753,,,n_8971495003,shop=butcher
+"Hesperia, CA",,retail,453991,Tobacco & Water,"8256 Sierra Avenue, Fontana, CA, 92335",,,34.1038644,-117.4367813,,,n_8995148182,shop=tobacco
+"Hesperia, CA",,retail,446120,Hello Nail & Spa,"8248 Sierra Avenue, Fontana, CA, 92335",,,34.103994,-117.436778,,,n_8995148185,shop=beauty
+"Hesperia, CA",,retail,445120,ExtraMile,,,,34.1060489,-117.3971602,,,n_9016094016,"shop=convenience, brand=ExtraMile"
+"Hesperia, CA",,retail,452319,99 Cents Only Stores,,,https://locations.99only.com/ca/rialto/discount-store-123.html,34.1056181,-117.3972434,,,n_9016113317,"shop=variety_store, brand=99 Cents Only Stores"
+"Hesperia, CA",,retail,445310,,,,,34.109241,-117.4355236,,,n_9016208782,shop=alcohol
+"Hesperia, CA",,retail,452319,Family Dollar,,,,34.0912294,-117.4346667,,,n_9016281495,"shop=variety_store, brand=Family Dollar"
+"Hesperia, CA",,retail,446120,La Tapatia Health & Beauty,"8188 Sierra Avenue, Fontana, CA, 92335",,,34.1051941,-117.4363509,,,n_9055163981,shop=beauty
+"Hesperia, CA",,retail,445120,Speedway,"13539 Baseline Avenue, Fontana, CA, 92336",,https://www.speedway.com/locations/CA/Fontana/13539-Baseline-Ave,34.1207104,-117.5111292,,,n_9178417830,"shop=convenience, brand=Speedway"
+"Hesperia, CA",,retail,452319,Dollar Tree,"12160 Hesperia Road, Victorville, CA, 92395",,https://www.dollartree.com/locations/ca/victorville/1504/,34.4722751,-117.2928828,,,n_9262017323,"shop=variety_store, brand=Dollar Tree"
+"Hesperia, CA",,retail,452210,Ross,"17222 Bear Valley Road, Victorville, CA, 92395",+1 760-843-5649,,34.4720702,-117.2873719,,,n_9262036293,"shop=department_store, brand=Ross"
+"Hesperia, CA",,retail,445120,Stevies Snack Shop,"1170 West 3rd Street, San Bernardino, CA, 92410",,,34.1042465,-117.3099064,,,n_9269297056,shop=convenience
+"Hesperia, CA",,retail,446120,Glamour Nail Lounge,"14350 Bear Valley Road, Victorville, CA, 92392",,,34.4710437,-117.3503544,,,n_9281605968,shop=beauty
+"Hesperia, CA",,retail,452319,Dollar Tree,"11930 Amargosa Road, Victorville, CA, 92392",,https://www.dollartree.com/locations/ca/victorville/5764/,34.4673715,-117.3511985,,,n_9313331929,"shop=variety_store, brand=Dollar Tree"
+"Hesperia, CA",,retail,445120,Shell,,,,34.1063633,-117.4179159,,,n_9865465678,"shop=convenience, brand=Shell"
+"Hesperia, CA",,retail,446120,Allure Nails & Spa,,,,34.0774044,-117.3709463,,,n_9892963019,shop=beauty
+"Hesperia, CA",,retail,452210,Ross,"1610 South Riverside Avenue, Rialto, CA, 92376-7739",+1 909-562-0122,,34.072052,-117.3718733,,,n_9892963089,"shop=department_store, brand=Ross"
+"Hesperia, CA",,retail,452210,dd's Discounts,,,,34.0717039,-117.3716071,,,n_9892963090,"shop=department_store, brand=dd's Discounts"
+"Hesperia, CA",,retail,446120,Kelly Nails & Spa,,,,34.0724372,-117.369519,,,n_9892963185,shop=beauty
+"Hesperia, CA",,retail,446120,KD Nail Supply,,,,34.0724359,-117.369596,,,n_9892963186,shop=beauty
+"Hesperia, CA",,retail,452319,Two Brothers Smoke Shop,,,,34.0724372,-117.369653,,,n_9892963187,shop=general
+"Hesperia, CA",,retail,446120,Nails and Spa,,,,34.0836263,-117.2972957,,,n_10055733713,shop=beauty
+"Hesperia, CA",,retail,445292,See's Candies,,,,34.0848513,-117.2970137,,,n_10055751127,"shop=confectionery, brand=See's Candies"
+"Hesperia, CA",,retail,445292,Sue's Candy,,,,34.0849053,-117.297424,,,n_10055751134,shop=confectionery
+"Hesperia, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/colton/202-n-mt-vernon-avenue-33604,34.0657138,-117.3130202,,,n_10155998963,"shop=convenience, brand=7-Eleven"
+"Hesperia, CA",,retail,445120,7-Eleven,,,,34.1687751,-117.3163472,,,n_10159050756,"shop=convenience, brand=7-Eleven"
+"Hesperia, CA",,retail,445120,Express Market,,,,34.1756596,-117.2895192,,,n_10159050786,shop=convenience
+"Hesperia, CA",,retail,452319,Dollar General,"Lucerne Valley, CA, 92356",,https://www.dollargeneral.com/store-directory/ca/lucerne-valley/14280,34.4444394,-116.9533338,,,n_10210817431,"shop=variety_store, brand=Dollar General"
+"Hesperia, CA",,retail,445310,Foothill Liquor,,,,34.1065152,-117.3771027,,,n_10235032126,shop=alcohol
+"Hesperia, CA",,retail,453110,The Flower Spot,"134 South Willow Avenue, Rialto, CA",+1 909-990-0073,,34.0992327,-117.3750799,,,n_10235754321,shop=florist
+"Hesperia, CA",,retail,445120,7-Eleven,"285 West Foothill Boulevard, Rialto, CA, 92376-5029",+1 909-877-1439,https://www.7-eleven.com/locations/ca/rialto/285-w.-foothill-blvd-20222,34.106317,-117.374422,,,n_10235754325,"shop=convenience, brand=7-Eleven"
+"Hesperia, CA",,retail,445120,Andy's Mart,,,,34.1061976,-117.3794917,,,n_10236014074,shop=convenience
+"Hesperia, CA",,retail,452319,Fontana Crystal Shop,"8558 Sierra Avenue, Fontana, CA, 92335",,,34.0982012,-117.4359433,,,n_10603509491,shop=general
+"Hesperia, CA",,retail,452319,Jess Tax Service,"8566 Sierra Avenue, Fontana, CA, 92335",,,34.0980987,-117.4359391,,,n_10603509494,shop=general
+"Hesperia, CA",,retail,446120,The Perfume Shop,,,,34.0850957,-117.2976349,,,n_10617375630,shop=perfumery
+"Hesperia, CA",,retail,446120,Bath & Body Works,,,,34.0854077,-117.2971773,,,n_10950130679,"shop=cosmetics, brand=Bath & Body Works"
+"Hesperia, CA",,retail,446120,Summer Nails & Spa,935 West Foothill Boulevard,+1 909-644-0424,,34.105918,-117.3884732,,,n_11091789798,shop=beauty
+"Hesperia, CA",,retail,446120,Blue Jay Nails & Spa,,,,34.2456744,-117.210261,,,n_11272941350,shop=beauty
+"Hesperia, CA",,retail,446191,Health Habitat,,,,34.2464696,-117.2101885,,,n_11272945473,shop=health_food
+"Hesperia, CA",,retail,445120,ampm,,,,34.106038,-117.4190347,,,n_11273337970,"shop=convenience, brand=ampm"
+"Hesperia, CA",,retail,453991,,,,,34.1068696,-117.4764529,,,n_11328972636,shop=tobacco
+"Hesperia, CA",,retail,453110,Kince Wedding Decor,"913 West Foothill Boulevard, Rialto, CA, 92376",,,34.1059278,-117.3887773,,,n_11501567303,shop=florist
+"Hesperia, CA",,retail,453991,Y & M Smoke Shop,"1055 North Mount Vernon Avenue, Colton, CA, 92324",+1 909 4221800,https://www.yandmsmokeshop.com/,34.0755322,-117.3142207,,,n_11733815620,"shop=tobacco, operator=Yaser Ghreir"
+"Hesperia, CA",,retail,445110,Albertsons,"11358 Kenyon Way, Rancho Cucamonga, CA, 91701",+1 909-941-7166,https://local.albertsons.com/ca/rancho-cucamonga/11358-kenyon-way.html,34.1354126,-117.5574085,,,n_11809317207,"shop=supermarket, brand=Albertsons"
+"Hesperia, CA",,retail,445110,Stater Bros. Markets,"444 East Baseline Street, San Bernardino, CA, 92410",+1 909-889-6270,https://www.staterbros.com/stores/2,34.1221927,-117.2758318,,,n_11809317224,"shop=supermarket, brand=Stater Bros."
+"Hesperia, CA",,retail,445110,Stater Bros. Markets,"1522 East Highland Avenue, San Bernardino, CA, 92404",+1 909-882-3214,https://www.staterbros.com/stores/24,34.1368811,-117.2541087,,,n_11809317225,"shop=supermarket, brand=Stater Bros."
+"Hesperia, CA",,retail,445110,Stater Bros. Markets 40th Street,"161 East 40th Street, San Bernardino, CA, 92404",+1 909-882-2678,https://www.staterbros.com/stores/36,34.163803,-117.2827669,,,n_11809317226,"shop=supermarket, brand=Stater Bros."
+"Hesperia, CA",,retail,445110,Stater Bros. Markets,"977 Kendall Drive, San Bernardino, CA, 92407",+1 909-882-0461,https://www.staterbros.com/stores/107,34.1629971,-117.305638,,,n_11809317228,"shop=supermarket, brand=Stater Bros."
+"Hesperia, CA",,retail,445110,Stater Bros. Markets,"571 East Foothill Boulevard, Rialto, CA, 92376",+1 909-874-5195,https://www.staterbros.com/stores/12,34.1053989,-117.3600706,,,n_11809317229,"shop=supermarket, brand=Stater Bros."
+"Hesperia, CA",,retail,445110,Sprouts Farmers Market,"1524 South Riverside Avenue, Rialto, CA, 92376",+1 840-220-4266,https://www.sprouts.com/store/ca/rialto/riverside-ave/,34.0737183,-117.3722781,,,n_11809317231,"shop=supermarket, brand=Sprouts Farmer Market"
+"Hesperia, CA",,retail,446120,Lady Nails Spa,"16075 Foothill Blvd, #I, Fontana, CA, 92335",+1 909-356-4140,https://ladynailsspa.com,34.1052818,-117.4545671,,,n_11860328595,shop=beauty
+"Hesperia, CA",,retail,446120,,,,,34.1348401,-117.4350543,,,n_11968521247,shop=beauty
+"Hesperia, CA",,retail,446120,,,,,34.1382185,-117.4443962,,,n_12064492881,shop=beauty
+"Hesperia, CA",,retail,445120,,,,,34.4085273,-117.3984996,,,n_12101445817,shop=convenience
+"Hesperia, CA",,retail,446120,Ulta Beauty,"15248 Summit Avenue, Fontana, CA, 92336",,https://www.ulta.com/stores/fontana-ca-1300#,34.1525078,-117.4747179,,,n_12230729399,"shop=cosmetics, brand=Ulta Beauty"
+"Hesperia, CA",,retail,452319,Five Below,"15234 Summit Avenue, Fontana, CA, 92336",,https://locations.fivebelow.com/ca/fontana/15234-summit-ave,34.1525282,-117.474463,,,n_12230729400,"shop=variety_store, brand=Five Below"
+"Hesperia, CA",,retail,445110,Cardenas,"15555 Main Street, Hesperia, CA, 92345",+17609479615,,34.4231317,-117.3236458,,,n_12874231213,"shop=supermarket, brand=Cardenas"
+"Hesperia, CA",,retail,453991,Smoke 4 Less,"20162 Outer Hwy 18 North, Apple Valley, CA, 92307",+1 760-946-4060,,34.5292592,-117.2235526,,,n_12949988278,shop=tobacco
+"Hesperia, CA",,retail,446120,Spa Vital,"20162 Outer Hwy 18 North, Apple Valley, CA, 92307",+1 760-242-2258,,34.5291138,-117.2233251,,,n_12949988279,shop=beauty
+"Hesperia, CA",,retail,446120,Sadie J's Beauty Supply,"20162 Outer Hwy 18 North, Apple Valley, CA, 92307",+1 760-240-9637,,34.5291028,-117.2230968,,,n_12949988282,shop=beauty
+"Hesperia, CA",,retail,446120,,,,,34.122843,-117.1939832,,,n_12974351882,shop=beauty
+"Hesperia, CA",,retail,453991,Catalyst Cannabis,"506 Inland Center Drive, 92408",+1-909-375-0480,https://catalyst-cannabis.com/dispensary-locations/san-bernardino-dispensary,34.091895,-117.2948458,,,n_12996670501,shop=tobacco
+"Hesperia, CA",,retail,446120,Holy Nails,"13622 Bear Valley Road, Victorville, CA, 92392",+1 760-951-7109,,34.4715058,-117.3662059,,,n_13026351316,shop=beauty
+"Hesperia, CA",,retail,453991,Victorville Smoke Shop,"13622 Bear Valley Road, Victorville, CA, 92392",+1 760-955-2800,,34.4714373,-117.3662019,,,n_13026351317,shop=tobacco
+"Hesperia, CA",,retail,446120,Oasis Hair Salon,"13622 Bear Valley Road, Victorville, CA, 92392",,,34.471276,-117.3662003,,,n_13026351319,shop=beauty
+"Hesperia, CA",,retail,453110,Conroy's Flowers,"12426 Amargosa Road, Victorville, CA, 92392",,,34.4764563,-117.3424031,,,n_13028361681,shop=florist
+"Hesperia, CA",,retail,445110,Sprouts Farmers Market,"12450 Amargosa Road, Victorville, CA, 92392",,,34.4771845,-117.3432165,,,n_13028361694,"shop=supermarket, brand=Sprouts Farmers Market"
+"Hesperia, CA",,retail,446120,Hair Emporium,"12475 Mariposa Road, Victorville, CA, 92392",,,34.4775523,-117.3396647,,,n_13028417248,shop=beauty
+"Hesperia, CA",,retail,446120,Eyebrows R Us,"12130 Hesperia Road, Victorville, CA, 92395",,,34.4716142,-117.2926052,,,n_13030190753,shop=beauty
+"Hesperia, CA",,retail,446120,Top Nails,"20920 Bear Valley Road, Apple Valley, CA, 92308",+1 760-961-0894,,34.4719311,-117.2071131,,,n_13031158945,shop=beauty
+"Hesperia, CA",,retail,453991,Uptown Smoke & Vape,"20920 Bear Valley Road, Apple Valley, CA, 92308",,,34.4719304,-117.2070219,,,n_13031158946,shop=tobacco
+"Hesperia, CA",,retail,445120,Maverik,"12970 Mariposa Road, Victorville, CA, 92395",,,34.4860847,-117.3332646,,,n_13048061576,"shop=convenience, brand=Maverik"
+"Hesperia, CA",,retail,445110,Silver Lakes Market,,,,34.7441984,-117.3351752,,,n_13049136450,shop=supermarket
+"Hesperia, CA",,retail,445120,7-Eleven,"15760 Ranchero Road, Hesperia, CA, 92345",+1 760-244-8004,https://www.7-eleven.com/locations/ca/hesperia/15760-ranchero-rd-39978,34.3838462,-117.3190402,,,n_13051328191,"shop=convenience, brand=7-Eleven"
+"Hesperia, CA",,retail,452319,Family Dollar,"15385 Main Street, Hesperia, CA, 92345",,,34.4257489,-117.3278923,,,n_13074909408,"shop=variety_store, brand=Family Dollar"
+"Hesperia, CA",,retail,445120,ampm,"14920 Main Street, Hesperia, CA, 92345",+1 714-381-1586,https://www.ampm.com/,34.4276096,-117.3381567,,,n_13074909418,"shop=convenience, brand=ampm"
+"Hesperia, CA",,retail,453991,OG Vape & Glass,"21699 Yucca Loma Road, Apple Valley, CA, 92307",,,34.4992519,-117.1904768,,,n_13076720690,shop=tobacco
+"Hesperia, CA",,retail,445110,Target,"20288 Happy Trails Highway, Apple Valley, CA, 92307;92307-2937",,,34.5276375,-117.2167969,,,n_13076782294,"shop=supermarket, brand=Target"
+"Hesperia, CA",,retail,452210,Kohl's,"27540 West Lugonia Avenue, Redlands, CA, 92374",+1 909-307-2056,https://www.kohls.com/stores/ca/redlands-631.shtml,34.073261,-117.2028192,,,w_34316413,"shop=department_store, brand=Kohl's"
+"Hesperia, CA",,retail,445110,Ralphs,"12201 Highland Avenue, Etiwanda, CA, 91739",+1 909-646-9356,https://www.ralphs.com/stores/grocery/ca/rancho-cucamonga/day-creek-village/703/00700,34.135028,-117.5393458,,,w_41939516,"shop=supermarket, brand=Ralphs"
+"Hesperia, CA",,retail,452210,Target,"27420 West Lugonia Avenue, Redlands, CA, 92374-2041",+1 909-307-1602,https://www.target.com/sl/redlands/1869,34.0723837,-117.2075272,,,w_46933038,"shop=department_store, brand=Target"
+"Hesperia, CA",,retail,445110,Guadalajara Meat Market,"15547 7th Street, Victorville, CA, 92395",,,34.534281,-117.2946211,,,w_109431512,shop=grocery
+"Hesperia, CA",,retail,445120,7-Eleven,"12750 Main Street, Hesperia, CA, 92344",+1 800-255-0711,https://www.7-eleven.com/locations/ca/hesperia/12750-main-st-43099,34.4272698,-117.38451,,,w_121951884,"shop=convenience, brand=7-Eleven"
+"Hesperia, CA",,retail,445120,America's Fuel Depot,"12720 Main Street, Hesperia, CA, 92344",,,34.4270011,-117.3857105,,,w_121951891,shop=convenience
+"Hesperia, CA",,retail,452210,Target,"15321 Palmdale Road, Victorville, CA, 92392-2403",,http://www.target.com/sl/victorville-target-store/276#?afid=storeloc&cpng=CA&Inm=victorville_276,34.5059403,-117.3292692,,,w_122304255,"shop=department_store, brand=Target"
+"Hesperia, CA",,retail,445120,Food Store,"15445 Palmdale Road, Victorville, CA, 92392",,,34.5065982,-117.3270729,,,w_122304264,shop=convenience
+"Hesperia, CA",,retail,445110,WinCo Foods,"15350 Roy Rogers Drive, Victorville, CA, 93533",,https://www.wincofoods.com/stores/win-co-foods-victorville-67/4758,34.5232004,-117.3293161,,,w_123539779,"shop=supermarket, brand=WinCo Foods"
+"Hesperia, CA",,retail,446110,Walgreens,"15318 Roy Rogers Drive, Victorville, CA, 93534",,https://www.walgreens.com/locator/walgreens-15318+roy+rogers+dr-victorville-ca-92394/id=12576,34.5220336,-117.3296463,,,w_123908868,"shop=chemist, brand=Walgreens"
+"Hesperia, CA",,retail,446110,Walgreens,"13655 Bear Valley Road, Victorville, CA, 92392",,https://www.walgreens.com/locator/walgreens-13655+bear+valley+rd-victorville-ca-92392/id=9254,34.4698279,-117.3650024,,,w_124298002,"shop=chemist, brand=Walgreens"
+"Hesperia, CA",,retail,445120,ampm,"13660 Bear Valley Road, Victorville, CA, 92392",,,34.4708523,-117.3649687,,,w_124298024,"shop=convenience, brand=ampm"
+"Hesperia, CA",,retail,445120,Shell,"13100 Main Street, Hesperia, CA, 92345",+1 760-947-6411,https://find.shell.com/us/fuel/10006319-13100-main-st/en_US,34.4273333,-117.3770426,,,w_124953404,"shop=convenience, brand=Shell"
+"Hesperia, CA",,retail,452210,Kohl's,"14305 Bear Valley Road, Victorville, CA, 92392",,,34.4680072,-117.3534042,,,w_127118930,"shop=department_store, brand=Kohl's"
+"Hesperia, CA",,retail,445120,The Depot,"12080 Amargosa Road, Victorville, CA, 92392",,,34.4696779,-117.3490705,,,w_127119186,shop=convenience
+"Hesperia, CA",,retail,446110,Walgreens,"17383 Main Street, Hesperia, CA, 92345",,https://www.walgreens.com/locator/walgreens-17383+main+st-hesperia-ca-92345/id=2223,34.4181882,-117.2838551,,,w_129035626,"shop=chemist, brand=Walgreens"
+"Hesperia, CA",,retail,446110,Rite Aid,"17441 Main Street, Hesperia, CA, 92345",,https://www.riteaid.com/locations/ca/hesperia/17441-main-street.html,34.4179047,-117.282657,,,w_129035629,"shop=chemist, brand=Rite Aid"
+"Hesperia, CA",,retail,445110,Stater Bros.,"14168 US 395, Adelanto, CA, 92301",+1 760-246-7705,https://www.staterbros.com/stores/176,34.5079209,-117.4015807,,,w_129388885,"shop=supermarket, brand=Stater Bros."
+"Hesperia, CA",,retail,445120,ampm,,,,34.5062185,-117.398826,,,w_129481376,"shop=convenience, brand=ampm"
+"Hesperia, CA",,retail,445110,Vons,"7390 Cherry Avenue, Fontana, CA, 92336",+1 909-429-3928,https://local.vons.com/ca/fontana/7390-cherry-ave.html,34.1198545,-117.4904199,,,w_131505634,"shop=supermarket, brand=Vons"
+"Hesperia, CA",,retail,445110,Vons,"17390 Main Street, 92345",,https://local.vons.com/ca/hesperia-2371.html,34.4204375,-117.2832937,,,w_131541451,"shop=supermarket, brand=Vons"
+"Hesperia, CA",,retail,445110,Vons,"12199 Hesperia Road, Victorville, CA, 92392",+1 760-241-2288,https://local.vons.com/ca/victorville/12199-hesperia-rd.html,34.4725764,-117.2896514,,,w_133790019,"shop=supermarket, brand=Vons"
+"Hesperia, CA",,retail,452210,Target,"15272 Summit Avenue, Fontana, CA, 92336",+1 909-463-9872,https://www.target.com/sl/fontana-north/1958,34.1526106,-117.4724869,,,w_133828007,"shop=department_store, brand=Target"
+"Hesperia, CA",,retail,445110,Ralphs,"16225 Sierra Lakes Parkway, Fontana, CA, 92336",+1 909-357-2525,https://www.ralphs.com/stores/grocery/ca/fontana/sierra-lakes-village/703/00113,34.1376872,-117.450548,,,w_133828036,"shop=supermarket, brand=Ralphs"
+"Hesperia, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/fontana/16975-sierra-lakes-ave-34470,34.1391632,-117.4344909,,,w_133828074,"shop=convenience, brand=7-Eleven"
+"Hesperia, CA",,retail,445120,ampm,"12122 Mariposa Road, Victorville, CA, 92395",+1 760 241 9405,,34.4708629,-117.3434077,,,w_160379160,"shop=convenience, brand=ampm"
+"Hesperia, CA",,retail,445110,Albertsons,"7201 Boulder Avenue, Highland, CA, 92346",+1 909-425-9100,https://local.albertsons.com/ca/highland/7201-boulder-ave.html,34.1238447,-117.193607,,,w_208956864,"shop=supermarket, brand=Albertsons"
+"Hesperia, CA",,retail,445230,,,,,34.2099341,-117.085837,,,w_210116317,shop=greengrocer
+"Hesperia, CA",,retail,445230,,,,,34.2093939,-117.0861164,,,w_210116322,shop=greengrocer
+"Hesperia, CA",,retail,445230,jerky,,,,34.2101781,-117.0856702,,,w_210116323,shop=greengrocer
+"Hesperia, CA",,retail,445230,,,,,34.2100595,-117.085749,,,w_210116330,shop=greengrocer
+"Hesperia, CA",,retail,445110,VILLAGE MARKET,,,,34.2087397,-117.1148476,,,w_238796867,shop=supermarket
+"Hesperia, CA",,retail,445120,Rocket,"14921 Bear Valley Road, Hesperia, CA, 92345",,,34.4698459,-117.338276,,,w_244550366,"shop=convenience, brand=Rocket"
+"Hesperia, CA",,retail,452210,Target,"20288 Happy Trails Highway, Apple Valley, CA, 92307;92307-2937",+1-760-240-7654,https://www.target.com/sl/apple-valley-north/2260,34.5279784,-117.2171786,,,w_261745202,"shop=department_store, brand=Target"
+"Hesperia, CA",,retail,445110,ALDI,"4020 Highland Avenue, Highland, CA, 92346-2637",+1 909-543-0758,https://stores.aldi.us/ca/highland/4020-highland-ave,34.1374634,-117.1985117,,,w_270782774,"shop=supermarket, brand=ALDI"
+"Hesperia, CA",,retail,445110,Walmart Supercenter,"4210 Highland Avenue, Highland, CA, 92346",+1 909-425-8846,https://www.walmart.com/store/1914-highland-ca,34.1376488,-117.1947957,,,w_270782816,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Hesperia, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-12184+palmdale+rd-victorville-ca-92392/id=12862,34.5072707,-117.3988236,,,w_285802633,"shop=chemist, brand=Walgreens"
+"Hesperia, CA",,retail,445110,Walmart Supercenter,"12234 Palmdale Road, Victorville, CA, 92392",+1 760-493-3047,https://www.walmart.com/store/4392-victorville-ca,34.5093194,-117.3969033,,,w_285802634,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Hesperia, CA",,retail,445120,Jimmy's Food & Liquor,,,,34.091734,-117.4462323,,,w_286828604,shop=convenience
+"Hesperia, CA",,retail,452319,99 Cents Only Stores,,,https://locations.99only.com/ca/sanbernardino/discount-store-356.html,34.1179394,-117.2767423,,,w_347004895,"shop=variety_store, brand=99 Cents Only Stores"
+"Hesperia, CA",,retail,445110,El Super,"263 East 9th Street, San Bernardino, CA, 92401",,https://elsupermarkets.com/store/san-bernardino-9th/,34.1146565,-117.2800086,,,w_347005019,"shop=supermarket, brand=El Super"
+"Hesperia, CA",,retail,452210,TJ Maxx,27651 D San Bernardino Avenue,,,34.074353,-117.2035383,,,w_355517562,"shop=department_store, brand=TJ Maxx"
+"Hesperia, CA",,retail,445120,7-Eleven,"2384 Arden Avenue, San Bernardino, CA, 92404",+1 909-936-9651,https://www.7-eleven.com/locations/ca/san-bernardino/2384-arden-ave-13954,34.1379565,-117.2354055,,,w_356387333,"shop=convenience, brand=7-Eleven"
+"Hesperia, CA",,retail,445110,Stater Bros.,"1085 West Highland Avenue, San Bernardino, CA, 92405",+1 909-886-1517,https://www.staterbros.com/stores/8,34.1349855,-117.3081445,,,w_364800563,"shop=supermarket, brand=Stater Bros."
+"Hesperia, CA",,retail,445120,Todds Market Food Store,"1605 East Victoria Avenue, San Bernardino, CA, 92408",,,34.0738759,-117.2521639,,,w_384118599,shop=convenience
+"Hesperia, CA",,retail,452210,Ross,"27651 San Bernardino Avenue, Redlands, CA, 92374",+1 909-792-3149,https://www.rossstores.com/,34.074354,-117.2029064,,,w_402061570,"shop=department_store, brand=Ross"
+"Hesperia, CA",,retail,445120,Circle K,"8324 CA-138, Phelan, CA, 92371",,,34.312103,-117.4780662,,,w_412099841,"shop=convenience, brand=Circle K"
+"Hesperia, CA",,retail,445120,Shell,"14909 Cajon Boulevard, Phelan, CA, 92371",,,34.3112676,-117.4775934,,,w_412099847,"shop=convenience, brand=Shell"
+"Hesperia, CA",,retail,452210,JCPenney,"10000 Alabama Street, Redlands, CA, 92374",,,34.0713329,-117.211687,,,w_417497903,"shop=department_store, brand=JCPenney"
+"Hesperia, CA",,retail,445110,Walmart Supercenter,"13401 Main Street, Hesperia, CA, 92345",+1 760-948-4851,https://www.walmart.com/store/4340-hesperia-ca,34.4242014,-117.3700005,,,w_422118419,"shop=supermarket, brand=Walmart"
+"Hesperia, CA",,retail,445310,Rubin Market,"7980 Sierra Avenue, Fontana, CA, 92336",,,34.1088854,-117.436327,,,w_443679374,shop=alcohol
+"Hesperia, CA",,retail,445110,Hiep Thanh,,,,34.1144074,-117.2791218,,,w_450839639,shop=supermarket
+"Hesperia, CA",,retail,445120,7-Eleven,"17979 us highway 18, Apple Valley, CA, 92307",+1 760-242-8110,https://www.7-eleven.com/locations/ca/apple-valley/17979-outer-highway-18-25984,34.5395526,-117.2717987,,,w_460848067,"shop=convenience, brand=7-Eleven"
+"Hesperia, CA",,retail,445120,ampm,"15333 Rancherias Road, Apple Valley, CA, 92307",+1 760-242-5513,,34.5301019,-117.2249197,,,w_460848365,"shop=convenience, brand=ampm"
+"Hesperia, CA",,retail,452210,Walmart,"20251 Happy Trails Highway, Apple Valley, CA, 92307",+1 760-946-2030,https://www.walmart.com/store/2333-apple-valley-ca,34.5255371,-117.223089,,,w_460848367,"shop=department_store, brand=Walmart, operator=Walmart"
+"Hesperia, CA",,retail,445110,Albertsons,"20261 Happy Trails Highway, Apple Valley, CA, 92307",+1 760-242-3660,https://local.albertsons.com/ca/apple-valley/20261-hwy-18.html,34.525087,-117.2202543,,,w_460848368,"shop=supermarket, brand=Albertsons"
+"Hesperia, CA",,retail,445120,7-Eleven,"21718 Bear Valley Road, Apple Valley, CA",,https://www.7-eleven.com/locations/ca/apple-valley/21718-bear-valley-rd-23008,34.4720272,-117.1898542,,,w_460849802,"shop=convenience, brand=7-Eleven"
+"Hesperia, CA",,retail,445110,Stater Bros.,"12253 Apple Valley Road, Apple Valley, CA, 92308",+1 760-240-2214,https://www.staterbros.com/stores/178,34.474058,-117.2404648,,,w_460849804,"shop=supermarket, brand=Stater Bros."
+"Hesperia, CA",,retail,452210,Target,"19201 Bear Valley Road, Apple Valley, CA, 92308-6763",+1 760-247-4111,https://www.target.com/sl/apple-valley/939,34.4686141,-117.2434708,,,w_460850832,"shop=department_store, brand=Target"
+"Hesperia, CA",,retail,452319,99 Cents Only Stores,,,https://locations.99only.com/ca/applevalley/discount-store-254.html,34.4687639,-117.244906,,,w_460850833,"shop=variety_store, brand=99 Cents Only Stores"
+"Hesperia, CA",,retail,445110,WinCo Foods,,,,34.4679908,-117.2476538,,,w_460850836,"shop=supermarket, brand=WinCo Foods"
+"Hesperia, CA",,retail,445120,ampm,"3892 Sierra Avenue, Fontana, CA, 92336",,,34.1825235,-117.4378388,,,w_468218143,"shop=convenience, brand=ampm, operator=AMPM"
+"Hesperia, CA",,retail,452210,Big Lots,"21640 Bear Valley Road, Apple Valley, CA, 92308",+1 760-961-0051,https://local.biglots.com/ca/apple-valley/21640-bear-valley-rd,34.4729488,-117.1911999,,,w_473795886,"shop=department_store, brand=Big Lots"
+"Hesperia, CA",,retail,445110,Stater Bros.,"21602 Bear Valley Road, Apple Valley, CA, 92308",+1 760-240-3124,https://www.staterbros.com/stores/110,34.4729521,-117.1922677,,,w_479415412,"shop=supermarket, brand=Stater Bros."
+"Hesperia, CA",,retail,445110,Grocery Outlet,,,,34.2476477,-117.2068575,,,w_481332585,"shop=supermarket, brand=Grocery Outlet"
+"Hesperia, CA",,retail,445120,Food Mart,"12130 Bear Valley Road, Victorville, CA, 92392",,,34.4710099,-117.3987768,,,w_489088324,shop=convenience
+"Hesperia, CA",,retail,445110,Stater Bros.,"28988 Greenspot Road, Highland, CA, 92346",+1 909-863-7600,https://www.staterbros.com/stores/182,34.1112011,-117.1721237,,,w_492429778,"shop=supermarket, brand=Stater Bros."
+"Hesperia, CA",,retail,445110,Vallarta,"12351 Mariposa Road, Victorville, CA, 92395",+1 760-243-1246,https://vallartasupermarkets.com/store-locations/vallarta-supermarkets-local-grocery-store-in-victorville-22/,34.4751946,-117.3393499,,,w_493394583,"shop=supermarket, brand=Vallarta"
+"Hesperia, CA",,retail,445110,Food 4 Less,"20801 Bear Valley Road, Apple Valley, CA, 92308",+1 760-247–4990,https://www.food4less.com/stores/grocery/ca/apple-valley/kiowa-square/704/00782?cid=loc_70400782_fb,34.4701316,-117.2090667,,,w_494068973,"shop=supermarket, brand=Food 4 Less"
+"Hesperia, CA",,retail,452319,Dollar General,"20834 Outer Bear Valley Road, Apple Valley, CA, 92308",+1 760-503-5595,https://www.dollargeneral.com/store-directory/ca/apple-valley/14805,34.4720498,-117.2089729,,,w_494073089,"shop=variety_store, brand=Dollar General"
+"Hesperia, CA",,retail,445120,Circle K,"18465 Outer Hwy 18 South, Apple Valley, CA, 92307",,,34.5388462,-117.2613875,,,w_494580914,"shop=convenience, brand=Circle K"
+"Hesperia, CA",,retail,445310,Cost Less Liquors,,,,34.4707901,-117.2073755,,,w_494674986,shop=alcohol
+"Hesperia, CA",,retail,445120,ampm,"20815 Bear Valley Outerhighway South, Apple Valley, CA, 92308",,,34.470932,-117.2082867,,,w_494676594,"shop=convenience, brand=ampm"
+"Hesperia, CA",,retail,445310,,,,,34.4708737,-117.2034828,,,w_494679049,shop=alcohol
+"Hesperia, CA",,retail,445120,,"22488 Happy Trails Highway, Apple Valley, CA, 92307",+1 760-240-3885,,34.5012323,-117.1734697,,,w_494683747,shop=convenience
+"Hesperia, CA",,retail,452319,Absolute Dollar,"21738 Outer Hwy 18 North, Apple Valley, CA, 92307",,https://www.absolutedollarstore.com/,34.5012369,-117.1895932,,,w_495150503,shop=variety_store
+"Hesperia, CA",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ca/apple-valley/12997,34.4984804,-117.1908115,,,w_495829352,"shop=variety_store, brand=Dollar General"
+"Hesperia, CA",,retail,445120,,,,,34.4717984,-117.2448598,,,w_495844199,shop=convenience
+"Hesperia, CA",,retail,446110,Walgreens,"21650 Outer Hwy 18 North, Apple Valley, CA, 92307",+1 760-240-0866,https://www.walgreens.com/locator/walgreens-21650+us+highway+18-apple+valley-ca-92307/id=12332,34.5014647,-117.191255,,,w_495903746,"shop=chemist, brand=Walgreens"
+"Hesperia, CA",,retail,445120,Panther Express,,,,34.1471334,-117.5732341,,,w_501598204,shop=convenience
+"Hesperia, CA",,retail,445310,Barrel House Liquor,,,,34.5374173,-117.2946362,,,w_505516858,shop=alcohol
+"Hesperia, CA",,retail,445120,ampm,"16869 D Street, Victorville, CA, 92395",,,34.536353,-117.2936077,,,w_505517170,"shop=convenience, brand=ampm"
+"Hesperia, CA",,retail,445210,,,,,34.5001672,-117.184905,,,w_511268986,shop=butcher
+"Hesperia, CA",,retail,445310,,,,,34.5011017,-117.1863252,,,w_512620886,shop=alcohol
+"Hesperia, CA",,retail,445120,Shell,"17918 Bear Valley Road, Victorville, CA, 92395",,https://locations.deltaco.com/us/ca/victorville/17918-bear-valley-rd,34.4717015,-117.2721102,,,w_516882314,"shop=convenience, brand=Shell"
+"Hesperia, CA",,retail,445110,Walmart Supercenter,"1366 South Riverside Avenue, Rialto, CA, 92376",+1 909-546-3491,https://www.walmart.com/store/1862-rialto-ca,34.076325,-117.3736491,,,w_538449879,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Hesperia, CA",,retail,452210,Walmart,"17251 Foothill Boulevard, Fontana, CA, 92335",+1 909-355-6922,https://www.walmart.com/store/1756-fontana-ca,34.1056669,-117.4281189,,,w_538699210,"shop=department_store, brand=Walmart, operator=Walmart"
+"Hesperia, CA",,retail,452319,Family Dollar,"27356 Baseline Street, Highland, 92346",,,34.1217423,-117.2071949,,,w_556284692,"shop=variety_store, brand=Family Dollar"
+"Hesperia, CA",,retail,445110,Smart & Final,"27550 Base Line Street, Highland, 92346",,,34.1221818,-117.2036859,,,w_556284694,"shop=supermarket, brand=Smart & Final"
+"Hesperia, CA",,retail,445310,,,,,34.120599,-117.2257786,,,w_556499978,shop=alcohol
+"Hesperia, CA",,retail,445310,,,,,34.1246527,-117.2267375,,,w_556499986,shop=alcohol
+"Hesperia, CA",,retail,445310,Desert Liquor,"22020 Rusty Court, Apple Valley, CA, 92308",,,34.4719024,-117.1831667,,,w_560419791,shop=alcohol
+"Hesperia, CA",,retail,445110,Ralphs,"4444 University Parkway, San Bernardino, CA, 92407",+1 909-880-2253,https://www.ralphs.com/stores/grocery/ca/san-bernardino/university-town-center/703/00753,34.1696593,-117.334344,,,w_561419832,"shop=supermarket, brand=Ralphs"
+"Hesperia, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/fontana/15264-summit-ave-33656,34.1498682,-117.4732719,,,w_586387342,"shop=convenience, brand=7-Eleven"
+"Hesperia, CA",,retail,445110,Stater Bros.,"15222 Summit Avenue, Fontana, CA, 92336",+1 909-463-2490,https://www.staterbros.com/stores/175,34.1513396,-117.4755223,,,w_586387348,"shop=supermarket, brand=Stater Bros."
+"Hesperia, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/fontana/5189/,34.1521129,-117.475353,,,w_586387350,"shop=variety_store, brand=Dollar Tree"
+"Hesperia, CA",,retail,452210,Ross,"15254 Summit Avenue, Fontana, CA, 92336",,https://www.rossstores.com/store-locator/,34.1527158,-117.4740648,,,w_586387354,"shop=department_store, brand=Ross"
+"Hesperia, CA",,retail,445310,,"Main Street, Hesperia, CA, 92345",,,34.4198611,-117.2923105,,,w_606154119,shop=alcohol
+"Hesperia, CA",,retail,445110,Stater Bros.,"16904 Main Street, Hesperia, CA, 92345",+1 760-244-1503,https://www.staterbros.com/stores/190,34.422036,-117.2944012,,,w_606154121,"shop=supermarket, brand=Stater Bros."
+"Hesperia, CA",,retail,445120,U-Save Market,"13708 Hesperia Road, Victorville, CA, 92395",,,34.5002646,-117.2940482,,,w_668188562,shop=convenience
+"Hesperia, CA",,retail,445120,ExtraMile,"14796 La Paz Drive, Victorville, CA, 92395",,,34.5202592,-117.3165842,,,w_671007872,"shop=convenience, brand=ExtraMile"
+"Hesperia, CA",,retail,452319,99 Cents Only Stores,"14670 7th Street, Victorville, CA, 92395",,https://locations.99only.com/ca/victorville/discount-store-93.html,34.5182977,-117.3127935,,,w_671007900,"shop=variety_store, brand=99 Cents Only Stores"
+"Hesperia, CA",,retail,445120,G&M,"14689 La Paz Drive, Victorville, CA, 92395",,,34.5181771,-117.3160728,,,w_671755712,shop=convenience
+"Hesperia, CA",,retail,452210,dd's Discounts,"V 7th Street, Victorville, CA, 92395",,,34.5168431,-117.314644,,,w_671941479,"shop=department_store, brand=dd's Discounts"
+"Hesperia, CA",,retail,445110,Mother's Nutritional Center,"14595 7th Street, Victorville, CA, 92395",,,34.5160038,-117.3130666,,,w_671941483,shop=supermarket
+"Hesperia, CA",,retail,452210,Walmart,"4001 Hallmark Parkway, San Bernardino, CA, 92407",+1 909-880-4038,https://www.walmart.com/store/3276-san-bernardino-ca,34.1653849,-117.3361201,,,w_696219254,"shop=department_store, brand=Walmart, operator=Walmart"
+"Hesperia, CA",,retail,445110,Grocery Outlet,,,,34.131545,-117.3932611,,,w_696230883,"shop=supermarket, brand=Grocery Outlet"
+"Hesperia, CA",,retail,445120,7-Eleven,,,,34.1341136,-117.3927372,,,w_696230887,"shop=convenience, brand=7-Eleven"
+"Hesperia, CA",,retail,445120,Chevron,"13188 Main Street, Hesperia, CA, 92345",+1 760-948-6800,,34.4273421,-117.3757633,,,w_696775705,"shop=convenience, brand=Chevron"
+"Hesperia, CA",,retail,445120,Depot 5,"13187 Main Street, Hesperia, CA, 92345",+1 760-948-8180,,34.4260986,-117.3761449,,,w_696775707,shop=convenience
+"Hesperia, CA",,retail,445210,Apple Valley Carniceria,"22142 Happy Trails Highway, Apple Valley, CA, 92307",,,34.5009487,-117.1810565,,,w_705059485,shop=butcher
+"Hesperia, CA",,retail,445120,Dino Mart,"32787 Highway 18, Lucerne Valley, CA, 92356",,,34.4433929,-116.950091,,,w_712559140,shop=convenience
+"Hesperia, CA",,retail,445120,Good Shop,,,,34.4435808,-116.9505841,,,w_712559145,shop=convenience
+"Hesperia, CA",,retail,453991,Smoke Club XXI,,,,34.4441265,-116.9474118,,,w_713414052,shop=tobacco
+"Hesperia, CA",,retail,445120,Chevron,,,,34.1217948,-117.4879907,,,w_722615100,"shop=convenience, brand=Chevron"
+"Hesperia, CA",,retail,445310,Grand Liquor Food Mart,,,,34.1858164,-117.4396049,,,w_744742914,"shop=alcohol, brand=Valero"
+"Hesperia, CA",,retail,445110,Jensen's Foods,"1340 State Highway 2, Wrightwood, CA, 92397",,https://wrightwood.jensensfoods.com/locations/wrightwood/,34.3610115,-117.631971,,,w_759728064,"shop=supermarket, operator=Jensen's Foods"
+"Hesperia, CA",,retail,445110,Superior Grocers,"1108 West 2nd Street, San Bernardino, CA, 92410",,https://superiorgrocers.com/location/san-bernardino/,34.1032899,-117.3083033,,,w_775464555,"shop=supermarket, brand=Superior Grocers"
+"Hesperia, CA",,retail,446110,Walgreens,,,,34.120821,-117.3145056,,,w_784953001,"shop=chemist, brand=Walgreens"
+"Hesperia, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/san-bernardino/1583-w-baseline-street-37036,34.1209127,-117.3219237,,,w_784953009,"shop=convenience, brand=7-Eleven"
+"Hesperia, CA",,retail,445310,P & K Liquor,,,,34.1197277,-117.3136582,,,w_785476274,shop=alcohol
+"Hesperia, CA",,retail,445310,,,,,34.0998671,-117.3334384,,,w_817997222,shop=alcohol
+"Hesperia, CA",,retail,446110,Walgreens,"16108 Foothill Boulevard, Fontana, CA, 92335",,https://www.walgreens.com/locator/walgreens-16108+foothill+blvd-fontana-ca-92335/id=5372,34.1071934,-117.4530022,,,w_820063228,"shop=chemist, brand=Walgreens"
+"Hesperia, CA",,retail,445120,ampm,"542 Mount Vernon Avenue, San Bernardino, CA, 92411",,,34.1090906,-117.31423,,,w_837021012,"shop=convenience, brand=ampm"
+"Hesperia, CA",,retail,446110,CVS Pharmacy,"7170 Day Creek Boulevard, Rancho Cucamonga, CA, 91739",,https://www.cvs.com/store-locator/rancho-cucamonga-ca-pharmacies/7170-day-creek-blvd-rancho-cucamonga-ca-91739/storeid=10805,34.1233395,-117.5373241,,,w_858692935,"shop=chemist, brand=CVS Pharmacy"
+"Hesperia, CA",,retail,445110,Stater Bros.,"7200 Day Creek Boulevard, Rancho Cucamonga, CA, 91739",+1 909-646-1148,https://www.staterbros.com/stores/200/,34.1229483,-117.5386608,,,w_858692937,"shop=supermarket, brand=Stater Bros."
+"Hesperia, CA",,retail,445120,,"92344 Mariposa Road, Hesperia, CA, 92344",,,34.3602252,-117.4343392,,,w_876412637,shop=convenience
+"Hesperia, CA",,retail,445120,ExtraMile,"14250 Bear Valley Road, Victorville, CA, 92392",,,34.4709019,-117.3528219,,,w_876416806,"shop=convenience, brand=ExtraMile"
+"Hesperia, CA",,retail,445120,Mobil Mart,"14714 Bear Valley Road, Victorville, CA, 92395",+1 760 952 9922,https://www.exxon.com/en/find-station/mobil-victorville-ca-armagoilinc-200309702,34.4708583,-117.3424306,,,w_876417447,"shop=convenience, brand=Mobil Mart"
+"Hesperia, CA",,retail,445120,Circle K,"15289 Nisqualli Road, Victorvill, CA, 92395",,,34.4844254,-117.3306188,,,w_876418865,"shop=convenience, brand=Circle K"
+"Hesperia, CA",,retail,445120,B Food Mart,"15482 Palmdale Road, Victorville, CA, 92392",,,34.5074194,-117.3265078,,,w_876420554,shop=convenience
+"Hesperia, CA",,retail,445120,Circle K,"14511 Palmdale Road, Victorville, CA, 92392",+1 760-962-1818,https://www.circlek.com/store-locator/US/victorville/14511-palmdale-rd/2706017,34.5061434,-117.346268,,,w_876420557,"shop=convenience, brand=Circle K"
+"Hesperia, CA",,retail,445120,ampm,"14475 Palmdale Road, Victorville, CA, 92392",,,34.5060977,-117.3474212,,,w_876420559,"shop=convenience, brand=ampm"
+"Hesperia, CA",,retail,445120,Shop 'N' Go,"14518 Main Street, Hesperia, CA, 92345",+1-760-956-6600,,34.4272522,-117.3460023,,,w_877755276,shop=convenience
+"Hesperia, CA",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ca/san-bernardino/13638,34.1021832,-117.2791037,,,w_897330045,"shop=variety_store, brand=Dollar General"
+"Hesperia, CA",,retail,445120,Mobil Mart,"16088 La Paz Drive, Victorville, CA, 92395",,,34.529395,-117.313346,,,w_904282325,"shop=convenience, brand=Mobil Mart"
+"Hesperia, CA",,retail,445110,Food 4 Less,"16266 Bear Valley Road, Victorville, CA, 92392",,,34.4717902,-117.3088379,,,w_905306680,"shop=supermarket, brand=Food 4 Less"
+"Hesperia, CA",,retail,445110,Goodwin & Sons Market,"24089 Lake Gregory Drive, Crestline, CA, 92325",+19093381705,https://www.goodwinsmarket.com/,34.2433162,-117.2769676,,,w_911759878,shop=supermarket
+"Hesperia, CA",,retail,445120,,,,,34.5797789,-117.4129587,,,w_913915199,shop=convenience
+"Hesperia, CA",,retail,445110,Smart & Final,"17000 Foothill Boulevard, Fontana, CA, 92335",,https://www.smartandfinal.com/stores/fontana-353/7951,34.1074629,-117.4331648,,,w_919656950,"shop=supermarket, brand=Smart & Final, operator=Grupo Comercial Chedraui"
+"Hesperia, CA",,retail,445110,El Super,"16950 Foothill Boulevard, Fontana, CA, 92335",,https://elsupermarkets.com/fontana-16950-foothill-blvd-ca-92335/,34.1081531,-117.4344813,,,w_919656951,"shop=supermarket, brand=El Super, operator=Grupo Comercial Chedraui"
+"Hesperia, CA",,retail,452210,Big Lots,"17575 Foothill Boulevard, Fontana, CA, 92336",+1 909-355-0763,https://local.biglots.com/ca/fontana/17575-foothill-blvd,34.1060564,-117.4210954,,,w_919661388,"shop=department_store, brand=Big Lots"
+"Hesperia, CA",,retail,445110,Stater Bros.,"8228 Sierra Avenue, Fontana, CA, 92335",+1 909-427-8200,https://www.staterbros.com/stores/5,34.1043074,-117.4369544,,,w_919662580,"shop=supermarket, brand=Stater Bros."
+"Hesperia, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-16145+sierra+lakes+pkwy-fontana-ca-92336/id=9588,34.1385169,-117.4528193,,,w_921518245,"shop=chemist, brand=Walgreens"
+"Hesperia, CA",,retail,445110,Sprouts Farmers Market,"16964 South Highland Avenue, Fontana, CA, 92336",+1 909-320-5360,https://www.sprouts.com/store/ca/fontana/fontana/,34.1352204,-117.4348726,,,w_922322516,"shop=supermarket, brand=Sprouts Farmers Market"
+"Hesperia, CA",,retail,445120,Circle K,,,,34.1071734,-117.4352174,,,w_924596732,"shop=convenience, brand=Circle K"
+"Hesperia, CA",,retail,445120,Shell,,,,34.1069364,-117.4464489,,,w_924646265,"shop=convenience, brand=Shell"
+"Hesperia, CA",,retail,445110,Cardenas,,,,34.10791,-117.4512905,,,w_924649723,"shop=supermarket, brand=Cardenas"
+"Hesperia, CA",,retail,445110,Stater Bros.,"18140 Arrow Boulevard, Fontana, CA, 92335",+1 909-427-8208,https://www.staterbros.com/stores/95,34.1009726,-117.4087382,,,w_924662586,"shop=supermarket, brand=Stater Bros."
+"Hesperia, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/fontana/18091-arrow-blvd-17813,34.0991127,-117.4100638,,,w_924662977,"shop=convenience, brand=7-Eleven"
+"Hesperia, CA",,retail,445120,ampm,,,,34.1207304,-117.435115,,,w_926632581,"shop=convenience, brand=ampm"
+"Hesperia, CA",,retail,445110,ALDI,"630 West Foothill Boulevard, Rialto, CA, 92376-4861",+1 909-741-6764,https://stores.aldi.us/ca/rialto/630-w-foothill-blvd,34.1074614,-117.3824566,,,w_935076858,"shop=supermarket, brand=ALDI"
+"Hesperia, CA",,retail,445110,Superior Grocers,"Foothill Boulevard, Fontana, CA, 92335",,,34.1052203,-117.4551643,,,w_936617860,"shop=supermarket, brand=Superior Grocers"
+"Hesperia, CA",,retail,452319,,,,,34.1075094,-117.4543019,,,w_936618516,shop=variety_store
+"Hesperia, CA",,retail,453110,,,,,34.1063485,-117.4333032,,,w_937017167,shop=florist
+"Hesperia, CA",,retail,445210,,,,,34.1069366,-117.4193571,,,w_944173647,shop=butcher
+"Hesperia, CA",,retail,453110,Nichols Florist,"8620 Sierra Avenue, Fontana, CA, 92335",,https://www.nicholsflorist.com/,34.0971884,-117.4360844,,,w_948970880,shop=florist
+"Hesperia, CA",,retail,446120,I Lash Nails & Spa,"8600 Sierra Avenue, Fontana, CA, 92335",,https://ilashnailsspa.business.site,34.0973162,-117.4360892,,,w_948970882,shop=beauty
+"Hesperia, CA",,retail,446110,Finley's Rexall Drug,"8554 Sierra Avenue, Fontana, CA, 92335",1+909-822-2288,https://www.finleysrexalldrugs.com/,34.0982563,-117.4360278,,,w_948970891,"shop=chemist, brand=Good Neighbor Pharmacy, operator=good neighbor pharmacy"
+"Hesperia, CA",,retail,446110,CVS Pharmacy,"16049 Baseline Avenue, Fontana, CA, 92336",,https://www.cvs.com/store-locator/fontana-ca-pharmacies/16049-baseline-avenue-1-fontana-ca-92336/storeid=11035,34.1207461,-117.4542887,,,w_972186972,"shop=chemist, brand=CVS Pharmacy"
+"Hesperia, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-1280+w+foothill+blvd-rialto-ca-92376/id=9105,34.1073419,-117.3958514,,,w_974211271,"shop=chemist, brand=Walgreens"
+"Hesperia, CA",,retail,445120,Circle K,"11724 Air Expressway, Adelanto, CA, 92301",,https://www.circlek.com/store-locator/US/adelanto/11724-airbase-rd/2708644,34.5723742,-117.4085991,,,w_977015212,"shop=convenience, brand=Circle K"
+"Hesperia, CA",,retail,452319,Dollar General,"11746 Air Expressway, Adelanto, CA, 92301",,https://www.dollargeneral.com/store-directory/ca/adelanto/15199,34.5724994,-117.4080086,,,w_977015214,"shop=variety_store, brand=Dollar General"
+"Hesperia, CA",,retail,445120,7-Eleven,"16925 Randall Avenue, Fontana, CA, 92335-5860",+1 909-822-8863,https://www.7-eleven.com/locations/ca/fontana/16925-randall-ave-13976,34.084529,-117.435096,,,w_978621785,"shop=convenience, brand=7-Eleven"
+"Hesperia, CA",,retail,445310,,,,,34.0837057,-117.4361278,,,w_978621798,shop=alcohol
+"Hesperia, CA",,retail,445120,ampm,,,,34.0925579,-117.436229,,,w_979750971,"shop=convenience, brand=ampm"
+"Hesperia, CA",,retail,445120,76,,,,34.0917567,-117.4351945,,,w_979750995,"shop=convenience, brand=76"
+"Hesperia, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/fontana/7285-citrus-ave-38160,34.1217792,-117.4531867,,,w_979757051,"shop=convenience, brand=7-Eleven"
+"Hesperia, CA",,retail,445120,Shell,,,,34.0990888,-117.4404262,,,w_979969944,"shop=convenience, brand=Shell"
+"Hesperia, CA",,retail,445120,7-Eleven,"17305 Arrow Boulevard, Fontana, CA, 92335-3950",+1 909-823-5435,https://www.7-eleven.com/locations/ca/fontana/17305-arrow-blvd-25806,34.0990477,-117.426658,,,w_979969961,"shop=convenience, brand=7-Eleven"
+"Hesperia, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/rialto/1276-w-baseline-rd-33442,34.1219597,-117.3960922,,,w_979981308,"shop=convenience, brand=7-Eleven"
+"Hesperia, CA",,retail,446110,Rite Aid,,,,34.1363897,-117.2411113,,,w_990598329,"shop=chemist, brand=Rite Aid"
+"Hesperia, CA",,retail,452319,CrazyBoss,,,,34.1378704,-117.2455985,,,w_990598336,shop=variety_store
+"Hesperia, CA",,retail,445110,Walmart Supercenter,"11896 Amargosa Road, Victorville, CA, 92392",+1 760-951-5005,https://www.walmart.com/store/1588-victorville-ca,34.46512,-117.3544287,,,w_1008760751,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Hesperia, CA",,retail,445120,Beyond Food Mart,"12675 Main Street, Hesperia, CA, 92345",,,34.4259328,-117.3880783,,,w_1014500071,shop=convenience
+"Hesperia, CA",,retail,445120,Helendale Market,"26428 National Trails Highway, Helendale, CA",,,34.7304123,-117.3275806,,,w_1017858366,shop=convenience
+"Hesperia, CA",,retail,445110,Food 4 Less,,,,34.1080188,-117.3991171,,,w_1021351057,"shop=supermarket, brand=Food 4 Less, operator=Kroger"
+"Hesperia, CA",,retail,445120,Speedway,"18083 Foothill Boulevard, Fontana, CA, 92335",,https://www.speedway.com/locations/CA/Fontana/18083-FOOTHILL-BLVD,34.1063182,-117.4099854,,,w_1021351238,"shop=convenience, brand=Speedway, operator=7-Eleven"
+"Hesperia, CA",,retail,445110,Walmart Neighborhood Market,"300 West Baseline Road, Rialto, CA, 92376",+1 909-546-3019,https://www.walmart.com/store/3131-rialto-ca,34.122785,-117.3742024,,,w_1021371729,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Hesperia, CA",,retail,445110,Stater Bros.,"168 East Baseline Road, Rialto, CA, 92376",+1 909-875-4471,https://www.staterbros.com/stores/43,34.1227925,-117.3692934,,,w_1021371730,"shop=supermarket, brand=Stater Bros."
+"Hesperia, CA",,retail,452210,Big Lots,"155 East Baseline Road, Rialto, CA, 92376",+1 909-875-1730,https://local.biglots.com/ca/rialto/155-e-base-line-rd?,34.1206541,-117.369239,,,w_1021371731,"shop=department_store, brand=Big Lots"
+"Hesperia, CA",,retail,445110,Superior Grocers,,,https://superiorgrocers.com/location/rialto/,34.1199418,-117.3717061,,,w_1021371732,"shop=supermarket, brand=Superior Grocers"
+"Hesperia, CA",,retail,445110,Stater Bros.,"1045 Bloomington Avenue, Bloomington, CA, 92316",+1 909-877-0090,https://www.staterbros.com/stores/61/,34.0744753,-117.3894906,,,w_1024115752,"shop=supermarket, brand=Stater Bros."
+"Hesperia, CA",,retail,445120,,,,,34.5089798,-117.3985233,,,w_1059903707,shop=convenience
+"Hesperia, CA",,retail,445120,,,,,34.5073596,-117.4176385,,,w_1059905934,shop=convenience
+"Hesperia, CA",,retail,445120,JAS Gas and Food Mart,"15603 7th Street, Victorville, CA, 92395",,https://www.exxon.com/en/find-station/mobil-victorville-ca-jasgasandfoodmart-200324793,34.5354095,-117.2933704,,,w_1060895443,shop=convenience
+"Hesperia, CA",,retail,445120,Chevron,"12925 Hesperia Road, Victorville, CA, 92392",,,34.4860624,-117.2894953,,,w_1061461640,"shop=convenience, brand=Chevron"
+"Hesperia, CA",,retail,445120,ampm,"12890 Hesperia Road, Victorville, CA, 92392",,,34.4850341,-117.2908694,,,w_1061461652,"shop=convenience, brand=ampm"
+"Hesperia, CA",,retail,445120,Fastrip,"17223 Main Street, Hesperia, CA, 92345",,https://fastrip.com/,34.4191011,-117.2874742,,,w_1062141667,shop=convenience
+"Hesperia, CA",,retail,445120,76,"17465 Main Street, Hesperia, CA, 92345",,https://www.76.com/station/U76-HESPERIA-76-0000859763?refer=psx_76,34.4181016,-117.282055,,,w_1062141672,"shop=convenience, brand=76"
+"Hesperia, CA",,retail,445120,Shell,"16337 Main Street, Hesperia, CA, 92345",,,34.4218053,-117.3063336,,,w_1062141689,"shop=convenience, brand=Shell"
+"Hesperia, CA",,retail,445120,Sinclair,"16307 Main Street, Hesperia, CA, 92345",,,34.4219896,-117.3071075,,,w_1062141693,"shop=convenience, brand=Sinclair"
+"Hesperia, CA",,retail,445310,Hesperia Liquor,"16233 Main Street, Hesperia, CA, 92345",,,34.4222196,-117.3086408,,,w_1062141697,shop=alcohol
+"Hesperia, CA",,retail,445120,Main Street Gas & Mart,"16400 Main Street, Hesperia, CA, 92345",,,34.4224032,-117.3050235,,,w_1062147132,shop=convenience
+"Hesperia, CA",,retail,445120,Fastrip,"16117 Main Street, Hesperia, CA, 92345",,,34.4225953,-117.3114416,,,w_1062147145,shop=convenience
+"Hesperia, CA",,retail,445120,Chevron,"15933 Main Street, Hesperia, CA, 92345",,,34.4231346,-117.3152429,,,w_1062147165,"shop=convenience, brand=Chevron"
+"Hesperia, CA",,retail,445120,Chevron,"15320 Bear Valley Road, Victorville, CA, 92395",,,34.4712672,-117.3294178,,,w_1062978755,"shop=convenience, brand=Chevron"
+"Hesperia, CA",,retail,445120,Hesperia Gas & Mart,"15515 Bear Valley Road, Hesperia, CA, 92345",,,34.4701376,-117.3248018,,,w_1062978768,shop=convenience
+"Hesperia, CA",,retail,445110,WinCo Foods,"14338 Foothill Boulevard, Fontana, CA, 92335",,https://www.wincofoods.com/stores/win-co-foods-fontana-33/4723,34.1073737,-117.4920579,,,w_1064175491,"shop=supermarket, brand=WinCo Foods"
+"Hesperia, CA",,retail,445120,ampm,,,,34.1344608,-117.3713147,,,w_1064232354,"shop=convenience, brand=ampm"
+"Hesperia, CA",,retail,445120,ampm,"11711 Air Expressway, Adelanto, CA, 92301",,,34.5713751,-117.4085841,,,w_1064344735,"shop=convenience, brand=ampm"
+"Hesperia, CA",,retail,445120,Mojave Gas Mart,"15322 Village Drive, Victorville, CA, 92394",,,34.5292436,-117.3187147,,,w_1064370378,shop=convenience
+"Hesperia, CA",,retail,445120,Circle K,"15825 Mojave Drive, Victorville, CA, 92394",,,34.5282463,-117.3190446,,,w_1064370385,"shop=convenience, brand=Circle K"
+"Hesperia, CA",,retail,445310,Mojave Market and Liquor,"15745 Mojave Drive, Victorville, CA, 92394",,,34.528465,-117.3205756,,,w_1064370388,shop=alcohol
+"Hesperia, CA",,retail,452319,Dollar Tree,"16953 Sierra Lakes Parkway, Fontana, CA, 92336",,https://www.dollartree.com/locations/ca/fontana/4014/,34.1380356,-117.4344349,,,w_1064794426,"shop=variety_store, brand=Dollar Tree"
+"Hesperia, CA",,retail,445120,ampm,,,,34.1343048,-117.4530942,,,w_1064798652,"shop=convenience, brand=ampm"
+"Hesperia, CA",,retail,445310,,,,,34.135593,-117.4577213,,,w_1064798653,shop=alcohol
+"Hesperia, CA",,retail,445120,ampm,,,,34.0927044,-117.3709294,,,w_1065762855,"shop=convenience, brand=ampm"
+"Hesperia, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-550+s+riverside+ave-rialto-ca-92376/id=5555,34.0911049,-117.3709789,,,w_1065762856,"shop=chemist, brand=Walgreens"
+"Hesperia, CA",,retail,445110,El Super,,,https://elsupermarkets.com/store/rialto/,34.0917203,-117.3685846,,,w_1065762857,"shop=supermarket, operator=Chedraui USA"
+"Hesperia, CA",,retail,445120,Circle K,"11490 Fashion Court, Hesperia, CA, 92344",,,34.3823761,-117.4122507,,,w_1066127427,"shop=convenience, brand=Circle K"
+"Hesperia, CA",,retail,445120,Chevron,"11510 Fashion Court, Hesperia, CA, 92344",,,34.3823414,-117.4104354,,,w_1066127431,"shop=convenience, brand=Chevron"
+"Hesperia, CA",,retail,445120,ampm,"12078 Three Flags Road, Hesperia, CA, 92345",,,34.4108874,-117.3999797,,,w_1066130705,"shop=convenience, brand=ampm"
+"Hesperia, CA",,retail,445120,Chevron,"13601 Apple Valley Road, Apple Valley, CA, 92308",,,34.4996752,-117.2418259,,,w_1066424925,"shop=convenience, brand=Chevron"
+"Hesperia, CA",,retail,445120,ExtraMile,"92377 North Riverside Avenue, Rialto, CA, 92377",,https://www.chevronextramile.com/station-finder/2035-n-riverside-ave-rialto-ca-92377-id375738/,34.1375726,-117.3700943,,,w_1071229351,"shop=convenience, brand=ExtraMile"
+"Hesperia, CA",,retail,445120,,,,,34.1071538,-117.4897744,,,w_1071242617,shop=convenience
+"Hesperia, CA",,retail,445120,76,,,,34.1208986,-117.4529722,,,w_1075286466,"shop=convenience, brand=76"
+"Hesperia, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/rialto/1384-s-riverside-ave-38051,34.0763665,-117.3707611,,,w_1079194954,"shop=convenience, brand=7-Eleven"
+"Hesperia, CA",,retail,445120,USA Gasoline,"111 West Valley Boulevard, Rialto, CA, 92376",,https://usa-gasoline-rialto.edan.io/,34.0701027,-117.3707242,,,w_1079194976,shop=convenience
+"Hesperia, CA",,retail,445120,ExtraMile,,,,34.0701334,-117.3695834,,,w_1079194977,"shop=convenience, brand=ExtraMile"
+"Hesperia, CA",,retail,445120,Circle K,,,,34.1072978,-117.3939936,,,w_1079199878,"shop=convenience, brand=Circle K"
+"Hesperia, CA",,retail,452210,Target,"499 West Orange Show Road, San Bernardino, CA, 92408-2029",+1 909-381-3391,https://www.target.com/sl/orange-show/188,34.0782622,-117.2922264,,,w_1081955919,"shop=department_store, brand=Target"
+"Hesperia, CA",,retail,445120,,,,,34.1347784,-117.4192935,,,w_1085709259,shop=convenience
+"Hesperia, CA",,retail,445120,7-Eleven,"16975 Sierra Lakes Parkway, Fontana, CA, 92336",,https://www.7-eleven.com/locations/ca/fontana/16975-sierra-lakes-ave-34470,34.1384877,-117.4324108,,,w_1102479393,"shop=convenience, brand=7-Eleven"
+"Hesperia, CA",,retail,445120,Chevron,"13302 Ranchero Road, Oak Hills, CA, 92344",,,34.3837132,-117.3720976,,,w_1105950623,"shop=convenience, brand=Chevron"
+"Hesperia, CA",,retail,445120,ampm,,,,34.1366599,-117.336225,,,w_1120038018,"shop=convenience, brand=ampm"
+"Hesperia, CA",,retail,445120,,,,,34.0844759,-117.3711353,,,w_1126824920,shop=convenience
+"Hesperia, CA",,retail,452319,Five Below,,+1 909-822-8036,https://locations.fivebelow.com/ca/rialto/1275-west-renaissance-parkway,34.1330457,-117.3968793,,,w_1136131890,"shop=variety_store, brand=Five Below"
+"Hesperia, CA",,retail,452210,Ross,"1235 Renaissance Parkway, Rialto, CA, 92376",+1 909-350-0201,,34.1323048,-117.3956996,,,w_1136132224,"shop=department_store, brand=Ross"
+"Hesperia, CA",,retail,452210,Macy's,,,,34.0849936,-117.2985656,,,w_1139106967,"shop=department_store, brand=Macy's"
+"Hesperia, CA",,retail,452210,JCPenney,,,,34.0834247,-117.2979333,,,w_1139106968,"shop=department_store, brand=JCPenney"
+"Hesperia, CA",,retail,445110,Amazon Fresh,"16188 South Highland Avenue, Fontana, CA, 92336",,https://www.amazon.com/fmc/m/30003175?almBrandId=QW1hem9uIEZyZXNo,34.1353449,-117.451128,,,w_1182593473,"shop=supermarket, brand=Amazon Fresh"
+"Hesperia, CA",,retail,445120,,,,,34.7318197,-117.327431,,,w_1185616345,shop=convenience
+"Hesperia, CA",,retail,445120,Chevron,,,,34.1070298,-117.379379,,,w_1206318828,"shop=convenience, brand=Chevron"
+"Hesperia, CA",,retail,445120,Pilot,,,,34.1377696,-117.4197591,,,w_1213187145,"shop=convenience, brand=Pilot"
+"Hesperia, CA",,retail,452319,Family Dollar,,,,34.120798,-117.309753,,,w_1221725027,"shop=variety_store, brand=Family Dollar"
+"Hesperia, CA",,retail,445120,7-Eleven,,,,34.0774032,-117.3887592,,,w_1230788050,"shop=convenience, brand=7-Eleven"
+"Hesperia, CA",,retail,445120,Jacksons,"2281 West Casmalia Street, Rialto, CA, 92377",,https://app.jacksons.com/location,34.1380001,-117.4179201,,,w_1288822961,"shop=convenience, brand=Jacksons"
+"Hesperia, CA",,retail,445120,,,,,34.0770177,-117.2083291,,,w_1305783096,shop=convenience
+"Hesperia, CA",,retail,445110,Stater Bros.,"151 East Valley Boulevard, Colton, CA, 92324",,https://www.staterbros.com/stores/3/,34.0675068,-117.323289,,,w_1320660634,"shop=supermarket, brand=Stater Bros."
+"Hesperia, CA",,retail,445110,Aldi,"15080 Summit Avenue, Fontana, CA, 92336",+1 909-862-4260,https://stores.aldi.us/ca/fontana/15080-summit-ave,34.149691,-117.4755089,,,w_1321735069,"shop=supermarket, brand=Aldi"
+"Hesperia, CA",,retail,452210,Burlington,"15058 Summit Avenue, Fontana, CA, 92336",,https://stores.burlington.com/ca/fontana/1418/,34.1496354,-117.4761504,,,w_1321735071,"shop=department_store, brand=Burlington"
+"Hesperia, CA",,retail,452210,Marshalls,"15022 Summit Avenue, Fontana, CA, 92336",,https://www.marshalls.com/us/store/stores/Fontana-CA-92336/469/aboutstore#:,34.1495333,-117.4770271,,,w_1321735073,"shop=department_store, brand=Marshalls"
+"Hesperia, CA",,retail,452210,Kohl's,"14960 Summit Avenue, Fontana, CA, 92336",,https://www.kohls.com/stores/ca/fontana-602.shtml,34.1494833,-117.478291,,,w_1321735075,"shop=department_store, brand=Kohl's"
+"Hesperia, CA",,retail,445120,Rocket,"15680 Roy Rogers Drive, Victorville, CA, 92394",,,34.5221459,-117.3243478,,,w_1329141693,"shop=convenience, brand=Rocket"
+"Hesperia, CA",,retail,445120,,,,,34.1218609,-117.3829449,,,w_1333974133,shop=convenience
+"Hesperia, CA",,retail,445120,,,,,34.427199,-117.45158,,,w_1354663507,shop=convenience
+"Hesperia, CA",,retail,446110,Walgreens,"15480 Main Street, Hesperia, CA, 92345",,,34.4259931,-117.3252417,,,w_1354672280,"shop=chemist, brand=Walgreens"
+"Hesperia, CA",,retail,446110,Rite Aid,"15510 Main Street, Hesperia, CA, 92345",,,34.4256995,-117.3242758,,,w_1354672281,"shop=chemist, brand=Rite Aid"
+"Hesperia, CA",,retail,445120,A Mart & Gas,"15773 Main Street, Hesperia, CA, 92345",,,34.42361,-117.318426,,,w_1354672746,shop=convenience
+"Hesperia, CA",,retail,445120,76,,,,34.1364218,-117.2730315,,,w_1355440139,"shop=convenience, brand=76"
+"Hesperia, CA",,retail,445120,7-Eleven,"15730 Roy Rogers Drive, Victorville, CA, 92394",,,34.5221083,-117.323103,,,w_1355636538,"shop=convenience, brand=7-Eleven"
+"Hesperia, CA",,retail,445120,Travel Shop,"16850 Stoddard Wells Road, Victorville, CA, 92394",,,34.5560879,-117.2895421,,,w_1360624459,shop=convenience
+"Hesperia, CA",,retail,445120,Rocket,"17876 Bear Valley Road, Victorville, CA, 92395",,,34.4716868,-117.2733075,,,w_1361093003,"shop=convenience, brand=Rocket"
+"Hesperia, CA",,retail,445120,Rocket,"12905 Hesperia Road, Victorville, CA, 92395",,,34.4850134,-117.289361,,,w_1361093430,"shop=convenience, brand=Rocket"
+"Hesperia, CA",,retail,445120,,,,,34.0918887,-117.4397707,,,w_1361166447,shop=convenience
+"Hesperia, CA",,retail,445120,ampm,"16081 Bear Valley Road, Hesperia, CA, 92345",,,34.4701113,-117.3128109,,,w_1384356032,"shop=convenience, brand=ampm"
+"Hesperia, CA",,retail,445120,ampm,"14352 7th Street, Victorville, CA, 92395",,,34.511916,-117.3189255,,,w_1384542644,"shop=convenience, brand=ampm"
+"Hesperia, CA",,retail,445120,Circle K,"16528 Bear Valley Road, Victorville, CA, 92395",,,34.471799,-117.3029141,,,w_1387162597,"shop=convenience, brand=Circle K"
+"Hesperia, CA",,retail,445120,,,,,34.0883479,-117.4531288,,,w_1393204347,shop=convenience
+"Hesperia, CA",,retail,445120,,,,,34.0876587,-117.4539995,,,w_1393204348,shop=convenience
+"Hesperia, CA",,retail,445210,Overland Meat Company,"18841 Outer Hwy 18 South, Apple Valley, CA, 92307",,,34.5369958,-117.2525519,,,w_1393591817,shop=butcher
+"Hesperia, CA",,retail,445120,ampm,"16251 D Street, Victorville, CA, 92394",,,34.5462052,-117.3020973,,,w_1408228336,"shop=convenience, brand=ampm"
+"Hesperia, CA",,retail,445120,Beyond Food Mart,"15290 Mojave Drive, Victorville, CA, 92394",,,34.5292749,-117.3308066,,,w_1409925796,shop=convenience
+"Hesperia, CA",,retail,445120,Luna Market,"13343 Blue Star Memorial Highway, Victorville, CA, 92392",,,34.4917904,-117.3986507,,,w_1410030276,shop=convenience
+"Hesperia, CA",,retail,445120,Central Market,"22520 Bear Valley Road, Apple Valley, CA, 92308",,,34.4723775,-117.1720838,,,w_1410870088,shop=convenience
+"Hesperia, CA",,retail,445120,Tripco,"13730 Apple Valley Road, Apple Valley, CA, 92307",,,34.5007453,-117.2433282,,,w_1415724063,shop=convenience
+"Hesperia, CA",,retail,445120,Uncle Albert's Mart,"20091 Bear Valley Road, Apple Valley, CA, 92308",,,34.4705483,-117.2258323,,,w_1416795146,shop=convenience
+"Hesperia, CA",,retail,445120,Rocket,"13724 Bear Valley Road, Victorville, CA, 92392",,,34.4707351,-117.3639802,,,w_1417415298,"shop=convenience, brand=Rocket"
+"Hesperia, CA",,retail,445120,Tripco Mart,"15708 Ranchero Road, Hesperia, CA, 92345",,,34.3838512,-117.3202998,,,w_1420299256,shop=convenience
+"Hesperia, CA",,retail,445120,,,,,34.135491,-117.5374346,,,r_7298786,"shop=convenience, amenity=fuel"
+"Hesperia, CA",,retail,445310,,,,,34.1212478,-117.5326074,,,r_9896917,shop=wine
+"Hesperia, CA",,retail,445310,Grand Liquor & Market,"15355 Rancherias Road, Apple Valley, CA, 92307",+1 760-946-1940,,34.530302,-117.2251028,,,r_19283670,shop=alcohol
+"Hesperia, CA",,retail,453991,Blazers Smoke Shop II,"20152 Outer Hwy 18 North, Apple Valley, CA, 92307",+1 760-553-5672,,34.5295987,-117.2248103,,,r_19283672,shop=tobacco
+"Hesperia, CA",,retail,446120,Luxury Pedicure,"13782 Bear Valley Road, Victorville, CA, 92392",,,34.4716936,-117.3625187,,,r_19389208,shop=beauty
+"Hesperia, CA",,retail,445110,Stater Bros.,"13760 Bear Valley Road, Victorville, CA, 92392",+1 760-241-8924,https://www.staterbros.com/stores/118,34.4718324,-117.3629824,,,r_19389210,"shop=supermarket, brand=Stater Bros."
+"Hesperia, CA",,retail,446120,La Piña Loca,"13790 Bear Valley Road, Victorville, CA, 92392",,,34.4711658,-117.3623405,,,r_19389637,"shop=beauty, amenity=ice_cream"
+"Hesperia, CA",,retail,446120,Wink N Pink Beauty Supply,"13790 Bear Valley Road, Victorville, CA, 92392",+1 760-596-1309,,34.4715118,-117.3623422,,,r_19389642,shop=beauty
+"Hesperia, CA",,retail,453991,Popeye's Smoke Shop,"1370 Bear Valley Road, Victorville, CA, 92392",+1 760-951-1829,,34.4715689,-117.3623432,,,r_19389643,shop=tobacco
+"Hesperia, CA",,retail,446120,Brow Art,"13790 Bear Valley Road, Victorville, CA, 92392",+1 760-951-0500,,34.4712234,-117.362341,,,r_19390069,shop=beauty
+"Hesperia, CA",,retail,445110,Superior Grocers,"13650 Bear Valley Road, Victorville, CA, 92392",+1 760-210-8989,https://superiorgrocers.com/,34.4718273,-117.3657984,,,r_19391638,"shop=supermarket, brand=Superior Grocers"
+"Hesperia, CA",,retail,446120,Cali Beauty Supply,"14676 7th Street, Victorville, CA, 92395",,,34.5180777,-117.312441,,,r_19456398,shop=beauty

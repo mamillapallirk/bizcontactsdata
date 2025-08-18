@@ -1,0 +1,23 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Lake Davis, CA",,retail,445120,Satley Food Store,,,,39.6153092,-120.4256111,,,n_1818064718,shop=convenience
+"Lake Davis, CA",,retail,445110,Sierra City Store,,,,39.565626,-120.63623,,,n_3628053293,shop=supermarket
+"Lake Davis, CA",,retail,445120,,,,,39.8103661,-120.4691146,,,n_9378058189,shop=convenience
+"Lake Davis, CA",,retail,445120,,,,,39.8121445,-120.4659392,,,n_9378058190,shop=convenience
+"Lake Davis, CA",,retail,445120,Sierra Express,,,,39.8121573,-120.4659554,,,n_11402215869,shop=convenience
+"Lake Davis, CA",,retail,445120,Wild Plum Provisions Store,,,,39.5684734,-120.6264801,,,n_12222723893,shop=convenience
+"Lake Davis, CA",,retail,445120,Higgin's Market,,,,39.5656553,-120.6349282,,,n_12222735721,shop=convenience
+"Lake Davis, CA",,retail,445120,Bassett's Station General Store,"100 Gold Lake Highway, Sierra City, CA, 96125",+1-530-862-1297,https://bassettsstation.com/store/,39.6176337,-120.591611,,,w_168647521,shop=convenience
+"Lake Davis, CA",,retail,445110,Leonard's Grocery,"Loyalton, CA, 96118",,,39.6754895,-120.242079,,,w_265614925,shop=supermarket
+"Lake Davis, CA",,retail,445120,,,,,40.1281535,-120.2538914,,,w_441554528,shop=convenience
+"Lake Davis, CA",,retail,452319,Graeagle Store,CA,,,39.7661421,-120.6183788,,,w_499397802,shop=general
+"Lake Davis, CA",,retail,445120,Hallelujah Junction Market,,,,39.7746595,-120.0367055,,,w_883617701,shop=convenience
+"Lake Davis, CA",,retail,452319,Dollar General,"543 West Sierra Avenue, Portola, CA, 96122",,https://www.dollargeneral.com/store-directory/ca/portola/16097,39.8079325,-120.4756948,,,w_1052260897,"shop=variety_store, brand=Dollar General"
+"Lake Davis, CA",,retail,445110,Leonard's,,,,39.810508,-120.4706336,,,w_1052260902,shop=supermarket
+"Lake Davis, CA",,retail,445110,,,,,39.8106089,-120.4679305,,,w_1052260904,shop=supermarket
+"Lake Davis, CA",,retail,445110,Sav Mor,,,,39.9347376,-120.9034621,,,w_1337767701,shop=supermarket
+"Lake Davis, CA",,retail,452319,Dollar General,,,,39.9346519,-120.9042,,,w_1337767706,"shop=variety_store, brand=Dollar General"
+"Lake Davis, CA",,retail,445110,Grocery Outlet,,,,39.9353168,-120.9089066,,,w_1337767710,"shop=supermarket, brand=Grocery Outlet"
+"Lake Davis, CA",,retail,452319,Little-Lots General Merchandise,,,,39.9337579,-120.9022567,,,w_1339598043,shop=general
+"Lake Davis, CA",,retail,446120,1st and Main Salon,,,,39.9337087,-120.8986716,,,w_1340641776,shop=beauty
+"Lake Davis, CA",,retail,446120,Pineapple Tanning Salon,,,,39.933626,-120.8948247,,,w_1340641787,shop=beauty
+"Lake Davis, CA",,retail,445210,George's Custom Meats,,,,39.9430179,-120.8762412,,,w_1340649711,shop=butcher

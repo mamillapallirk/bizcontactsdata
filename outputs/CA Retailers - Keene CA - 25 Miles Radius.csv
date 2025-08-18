@@ -1,0 +1,38 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Keene, CA",,retail,445120,Texaco,,,,35.1426802,-118.449464,,,n_956932003,"shop=convenience, amenity=fuel, brand=Texaco"
+"Keene, CA",,retail,445120,Chevron,,,,35.1272922,-118.413633,,,n_957107122,"shop=convenience, amenity=fuel, brand=Chevron"
+"Keene, CA",,retail,445120,,,,,35.1302326,-118.4346717,,,n_957107248,"shop=convenience, amenity=fuel, brand=Stop N Save Gas"
+"Keene, CA",,retail,445120,Chevron,,,,35.1316787,-118.446229,,,n_957107365,"shop=convenience, amenity=fuel, brand=Chevron"
+"Keene, CA",,retail,445120,Love's,,+1 661 823 1484,https://www.loves.com/locations/392,35.1260996,-118.408018,,,n_957482077,"shop=convenience, brand=Love's"
+"Keene, CA",,retail,445120,Mountain Village,,,,35.1323033,-118.452687,,,n_961008565,"shop=convenience, amenity=fuel, brand=Shell"
+"Keene, CA",,retail,445120,,,,,35.2663663,-118.915147,,,n_1659685749,shop=convenience
+"Keene, CA",,retail,445120,Fastrip,,,,35.26166,-118.9140134,,,n_1659685781,shop=convenience
+"Keene, CA",,retail,445110,County Fair Market,,,,35.2603549,-118.913783,,,n_1659685806,shop=supermarket
+"Keene, CA",,retail,445120,,,,,35.2598991,-118.9149977,,,n_1659685812,shop=convenience
+"Keene, CA",,retail,445110,Albertsons,"775 South Tucker Road, Tehachapi, CA, 93561",+1 661-823-7090,https://local.albertsons.com/ca/tehachapi/775-s-tucker-rd.html,35.125645,-118.469385,,,n_2955459533,"shop=supermarket, brand=Albertsons"
+"Keene, CA",,retail,445110,Save Mart,"841 Tucker Road, Tehachapi, CA, 93561",,,35.1227278,-118.468393,,,n_3146557159,"shop=supermarket, brand=Save Mart"
+"Keene, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/tehachapi/2430/,35.1226128,-118.4669952,,,n_3699391918,"shop=variety_store, brand=Dollar Tree"
+"Keene, CA",,retail,445110,Walmart Neighborhood Market,"5037 East Brundage Lane, Bakersfield, CA, 93307",+1 661-448-8147,https://www.walmart.com/store/3141-bakersfield-ca,35.3533911,-118.947655,,,n_4093403024,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Keene, CA",,retail,445230,Murray Family Farms,,,https://www.murrayfamilyfarms.org/,35.2949141,-118.753957,,,n_4938688126,shop=greengrocer
+"Keene, CA",,retail,445120,AM/PM,,,,35.0580438,-118.1749452,,,n_6772533795,shop=convenience
+"Keene, CA",,retail,445110,Robert's Market,,,,35.3418772,-118.9316768,,,n_8229031554,shop=supermarket
+"Keene, CA",,retail,445120,,,,,35.0632806,-118.1766293,,,n_9175586356,shop=convenience
+"Keene, CA",,retail,445120,Speedway,"8200 Kimber Avenue, Bakersfield, CA, 93307",,https://www.speedway.com/locations/CA/Bakersfield/8200-KIMBER-AVE,35.3512226,-118.9132,,,n_9178725741,"shop=convenience, brand=Speedway"
+"Keene, CA",,retail,445120,,,,,35.375842,-118.9138149,,,n_9571829824,shop=convenience
+"Keene, CA",,retail,445120,Shell Shop,,,,35.054517,-118.1738146,,,n_10015208957,"shop=convenience, brand=Shell Shop"
+"Keene, CA",,retail,445110,Stater Bros. Markets,"16920 California 14, Mojave, CA, 93501",+1 661-824-2719,https://www.staterbros.com/stores/102,35.0680665,-118.1736645,,,n_11651078049,"shop=supermarket, brand=Stater Bros."
+"Keene, CA",,retail,445120,,,,,35.1271131,-118.4153518,,,n_12100208434,shop=convenience
+"Keene, CA",,retail,445299,Mountain Priory Cheese,"17831 Water Canyon Road, Tehachapi, CA, 93561",,https://cheese.norbertinecanonesses.org/,35.0749981,-118.5010266,,,n_12660693463,shop=cheese
+"Keene, CA",,retail,445120,Countryside Market,,,,35.4070406,-118.8600254,,,n_12705215866,shop=convenience
+"Keene, CA",,retail,445110,Dollar General Market,"2900 Niles Street, Bakersfield, CA, 93306",,https://www.dollargeneral.com/store-directory/ca/bakersfield/13226,35.3772605,-118.9537975,,,w_59690396,"shop=supermarket, brand=Dollar General"
+"Keene, CA",,retail,445110,,,,,35.398849,-118.9515561,,,w_59795363,shop=supermarket
+"Keene, CA",,retail,445120,ampm,"4800 Fairfax Road, Bakersfield, 93306",,,35.3973275,-118.9304417,,,w_59814935,"shop=convenience, brand=ampm"
+"Keene, CA",,retail,445110,,,,,35.3014562,-118.9939755,,,w_59982360,shop=supermarket
+"Keene, CA",,retail,452210,Kmart,"710 West Tehachapi Boulevard, Tehachapi, CA, 93561",661-822-7496,https://www.kmart.com/stores/california/tehachapi/4751.html,35.1313187,-118.4585977,,,w_100949450,"shop=department_store, brand=Kmart"
+"Keene, CA",,retail,445120,,,,,35.3980523,-118.8799732,,,w_312003616,shop=convenience
+"Keene, CA",,retail,445110,Walmart Supercenter,"400 Tucker Road, Tehachapi, CA, 93561",+1 661-825-2258,https://www.walmart.com/store/4317-tehachapi-ca,35.1288547,-118.4657866,,,w_621272554,"shop=supermarket, brand=Walmart"
+"Keene, CA",,retail,445110,Dollar General Market,"Tehachapi, CA",+1 661-750-0166,https://www.dollargeneral.com/store-directory/ca/tehachapi/14138,35.1218841,-118.4669406,,,w_667544693,"shop=supermarket, brand=Dollar General"
+"Keene, CA",,retail,445110,Robert's Market,"1467 South Fairfax Road, Bakersfield, CA, 93307",,,35.3418511,-118.9316811,,,w_884912885,shop=supermarket
+"Keene, CA",,retail,445120,,,,,35.2095081,-118.8416543,,,w_1113237332,shop=convenience
+"Keene, CA",,retail,446110,CVS Pharmacy,"6500 Niles Street, Bakersfield, CA, 93306",,https://www.cvs.com/store-locator/bakersfield-ca-pharmacies/6500-niles-street-bakersfield-ca-93306/storeid=7001,35.3766579,-118.9307755,,,w_1230928880,"shop=chemist, brand=CVS Pharmacy"
+"Keene, CA",,retail,452319,Dollar General,"1811 Morning Drive, Bakersfield, CA, 93306",,https://www.dollargeneral.com/store-directory/ca/bakersfield/17387,35.375394,-118.9135263,,,w_1230929630,"shop=variety_store, brand=Dollar General"

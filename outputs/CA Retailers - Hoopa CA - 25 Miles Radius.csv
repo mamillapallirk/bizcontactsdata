@@ -1,0 +1,41 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Hoopa, CA",,retail,445310,Libation Wine Bar & Shop,"761 8th Street, Arcata, CA, 95521",+1 (707) 499-7335,,40.8680614,-124.0866846,,,n_761654384,shop=wine
+"Hoopa, CA",,retail,445110,Murphy's,"100 Alliance, 95503",,https://www.murphysmarkets.net/,40.8844162,-124.0909244,,,n_1979018863,shop=supermarket
+"Hoopa, CA",,retail,445120,Roger's Market,"791 School Road, McKinleyville, CA, 95519",(707) 839-3866,,40.9342246,-124.120388,,,n_2107762096,shop=convenience
+"Hoopa, CA",,retail,445310,Cask & Flask Liquors,"1523 City Center Road, McKinleyville, CA, 95519",(707) 839-2048,,40.9438505,-124.1027519,,,n_3793533813,shop=alcohol
+"Hoopa, CA",,retail,453991,Thunderbird Intertribal Discount Center,,,,41.064956,-123.6856049,,,n_4270192569,shop=tobacco
+"Hoopa, CA",,retail,445110,Ray's Food Place,,,,41.0630259,-123.68692,,,n_4270192572,"shop=supermarket, brand=Ray's Food Place"
+"Hoopa, CA",,retail,446120,Carol's Country Curl,,,,40.9394236,-123.6299626,,,n_4270230307,shop=beauty
+"Hoopa, CA",,retail,445110,Rays Food Place,,,,40.9401086,-123.6328482,,,n_4270230309,shop=supermarket
+"Hoopa, CA",,retail,445110,Orleans Market,,,,41.3020359,-123.5398022,,,n_4270977723,shop=supermarket
+"Hoopa, CA",,retail,445110,Eureka Natural Foods,"2165 Central Avenue, McKinleyville, 95519",(707) 839-3636,https://www.eurekanaturalfoods.com,40.9448341,-124.0999683,,,n_4987263453,shop=supermarket
+"Hoopa, CA",,retail,445110,Pearson's Grocery,,(530) 625-4173,,41.1846369,-123.705266,,,n_5266338926,shop=supermarket
+"Hoopa, CA",,retail,445120,College Creek Marketplace,,,,40.8740161,-124.0798697,,,n_5267116512,shop=convenience
+"Hoopa, CA",,retail,445120,Giant’s Cupboard,,,,40.8786764,-124.0785718,,,n_5271013151,shop=convenience
+"Hoopa, CA",,retail,445292,Cook N Sugar Candy and Kitchen,,,,40.8698243,-124.0870986,,,n_6298486744,shop=confectionery
+"Hoopa, CA",,retail,445310,Liquor Still,,,,40.9046063,-124.0816616,,,n_7895856992,shop=alcohol
+"Hoopa, CA",,retail,445110,Grocery Outlet,,,,40.9338587,-124.100402,,,n_9231441153,"shop=supermarket, brand=Grocery Outlet"
+"Hoopa, CA",,retail,445110,River Song Grocery and Market,,,,40.9405932,-123.6299788,,,n_11803534226,shop=supermarket
+"Hoopa, CA",,retail,445110,Wildberries Marketplace,"747 13th Street, CA",,https://www.wildberries.com/,40.8717172,-124.08534,,,w_42121635,shop=supermarket
+"Hoopa, CA",,retail,445110,North Coast Co-op,"811 I Street, Arcata, CA, 95521",(707) 822-5947,https://www.northcoast.coop/,40.8690422,-124.0887834,,,w_42168946,shop=supermarket
+"Hoopa, CA",,retail,446110,Rite Aid,,,,40.9332239,-124.1013168,,,w_64932167,"shop=chemist, amenity=pharmacy, brand=Rite Aid"
+"Hoopa, CA",,retail,445110,Safeway,"1503 City Center Road, McKinleyville, CA, 95519",+1 707-840-9770,https://local.safeway.com/safeway/ca/mckinleyville/1503-city-ctr-rd.html,40.9436859,-124.1031283,,,w_252695693,"shop=supermarket, brand=Safeway"
+"Hoopa, CA",,retail,445110,Murphy's Market,,,https://www.murphysmarkets.net/,41.0608646,-124.140533,,,w_409186947,shop=supermarket
+"Hoopa, CA",,retail,445110,Salmon River Outpost,"99531 CA-96, Somes Bar, CA, 95568",+15304693350,http://salmon-river-outpost.jany.io,41.3828167,-123.4936149,,,w_417414546,shop=supermarket
+"Hoopa, CA",,retail,445310,Moonstone Crossing Winery,,(707) 845-5492,https://www.moonstonecrossing.com/#modern-organic-thai,41.0590004,-124.1426604,,,w_454607144,shop=wine
+"Hoopa, CA",,retail,445120,Aztec Grill,"101 Main Street, Trinidad, CA, 95570",,https://www.yelp.com/biz/aztec-grill-trinidad-5,41.0618713,-124.1406837,,,w_454607254,shop=convenience
+"Hoopa, CA",,retail,453991,BigFish Vapor Lab,"774 9th Street, Arcata, CA, 95521",+1 707-672-5255,https://bigfishvaporlab.com/,40.8692072,-124.0864483,,,w_470145059,shop=tobacco
+"Hoopa, CA",,retail,445310,Arcata Liquors,"786 9th Street, Arcata, CA, 95521",+1 707-822-0414,,40.8692479,-124.086625,,,w_470145062,shop=alcohol
+"Hoopa, CA",,retail,445110,Orick Market,"121175 Highway 101, Orick, CA, 95555",,,41.2905031,-124.0575586,,,w_550433802,shop=supermarket
+"Hoopa, CA",,retail,445110,Murphy's Market,"785 Bayside Road, Arcata, CA, 95521",,,40.8583521,-124.0728571,,,w_580609198,shop=supermarket
+"Hoopa, CA",,retail,446120,Young Nails,"923 H Street, Arcata, CA, 95521",+1 (707) 840-6068,,40.8693226,-124.0869232,,,w_672450000,shop=beauty
+"Hoopa, CA",,retail,446110,CVS Pharmacy,"600 F Street, Arcata, CA, 95521",+1 (707) 822-2479,https://www.cvs.com/store-locator/arcata-ca-pharmacies/600-f-st-arcata-ca-95521/storeid=9482,40.8657241,-124.0852648,,,w_672472075,"shop=chemist, brand=CVS Pharmacy"
+"Hoopa, CA",,retail,445110,Safeway,"600 F Street, Arcata, CA, 95521",+1 707-822-5217,https://local.safeway.com/safeway/ca/arcata/600-f-st.html,40.865909,-124.0839548,,,w_672472077,"shop=supermarket, brand=Safeway"
+"Hoopa, CA",,retail,453991,Pacific Paradise Vape Shop,"1087 H Street, Arcata, CA, 95521",+1 (707) 822-7143,,40.8705139,-124.0864648,,,w_672575035,shop=tobacco
+"Hoopa, CA",,retail,446110,Barnes Arcata Family Drug,"1080 G Street, Arcata, CA, 95521",+1 (707) 822-1717,,40.8701581,-124.0850205,,,w_672613129,shop=chemist
+"Hoopa, CA",,retail,445120,Food Mart,,,,40.873128,-124.0845772,,,w_672613144,"shop=convenience, brand=Shell"
+"Hoopa, CA",,retail,445310,The Hutch,,,,40.8747293,-124.0833459,,,w_672613160,shop=alcohol
+"Hoopa, CA",,retail,445110,Ray's Food Place,,,,40.9032259,-124.0817205,,,w_846292756,"shop=supermarket, brand=Ray's Food Place"
+"Hoopa, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/arcata/1845/,40.9038569,-124.081727,,,w_846292758,"shop=variety_store, brand=Dollar Tree"
+"Hoopa, CA",,retail,445120,Chevron,,,,40.9045797,-124.0824722,,,w_846309457,"shop=convenience, brand=Chevron"
+"Hoopa, CA",,retail,445120,McKinleyville Mini Mart,"2698 Central Avenue, McKinleyville, CA, 95519",(707) 839-2661,https://www.76.com/station/U76-MCKINLEYVILLE-MINI-MART-0000808405?refer=psx_76,40.9544766,-124.1013392,,,w_872148857,shop=convenience

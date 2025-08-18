@@ -1,0 +1,12 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"McArthur, CA",,retail,445110,Ray's Food Place,,,,41.0275532,-121.4223949,,,n_9550208955,"shop=supermarket, brand=Ray's Food Place"
+"McArthur, CA",,retail,445120,Sportman's Liquor Mini-mart,,,,41.0073249,-121.4369593,,,n_11380235166,shop=convenience
+"McArthur, CA",,retail,445120,KOA Camp Store,,,,40.7408935,-121.4692693,,,n_12918135186,"shop=convenience, operator=KOA"
+"McArthur, CA",,retail,445110,Safeway,"37264 Main Street, Burney, CA, 96013",+1 530-335-3212,https://local.safeway.com/safeway/ca/burney/37264-main-st.html,40.8843726,-121.6592649,,,w_107938010,"shop=supermarket, brand=Safeway, operator=Safeway Inc"
+"McArthur, CA",,retail,446110,Rite Aid,"37435 Main Street, Burney, CA, 96013",,https://www.riteaid.com/locations/ca/burney/37435-main-street.html,40.8886442,-121.6530044,,,w_223947438,"shop=chemist, brand=Rite Aid"
+"McArthur, CA",,retail,445110,Grocery Outlet,,,,40.8900378,-121.6523552,,,w_507825231,"shop=supermarket, brand=Grocery Outlet"
+"McArthur, CA",,retail,452319,The Red Barn,"656-890 Highway 299 E, Bieber, CA, 96009",+15302945565,,41.1322895,-121.1305501,,,w_691546560,shop=general
+"McArthur, CA",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ca/fall-river-mills/16240,41.03045,-121.419909,,,w_854057965,"shop=variety_store, brand=Dollar General"
+"McArthur, CA",,retail,452319,Pot Luck Trading Post,,,,40.8820294,-121.6712117,,,w_1037242943,shop=general
+"McArthur, CA",,retail,453991,Smoke Shop,,,,40.8821119,-121.6687333,,,w_1392906649,shop=tobacco
+"McArthur, CA",,retail,445110,Big Valley Market,"101 Bridge Street, CA",,,41.1211654,-121.1439347,,,w_1420288463,shop=supermarket

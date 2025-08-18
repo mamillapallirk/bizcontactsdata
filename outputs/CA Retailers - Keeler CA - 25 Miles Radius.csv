@@ -1,0 +1,10 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Keeler, CA",,retail,445120,Lee's Frontier General Store,"South Main Street, Lone Pine, CA, 93545",,,36.5839401,-118.057986,,,n_5790650273,shop=convenience
+"Keeler, CA",,retail,446120,,,,,36.6059935,-118.0637503,,,n_9423839442,shop=beauty
+"Keeler, CA",,retail,445120,Boulder Creek Store,"Lone Pine, CA, 93545",,,36.5432346,-118.0466123,,,n_9487454376,"shop=convenience, operator=Boulder Creek RV Resort"
+"Keeler, CA",,retail,445120,Panamint Springs General Store,"40440 CA 190, Panamint Springs, CA, 93522",+1-775-482-7680,https://www.panamintsprings.com/services/gas-station-general-store,36.3391247,-117.4676456,,,w_222149842,"shop=convenience, operator=Panamint Springs Resort"
+"Keeler, CA",,retail,445120,Mobil Mart,"601 South Highway 395, Olancha, CA, 93549",,,36.2740257,-118.0027778,,,w_295189462,"shop=convenience, brand=Mobil Mart, operator=mobil"
+"Keeler, CA",,retail,452319,General Store,,,,36.5379069,-117.7948999,,,w_496761826,shop=general
+"Keeler, CA",,retail,445120,Lone Pine Market,"119 South Main Street, Lone Pine, CA, 93545",,,36.6052946,-118.0635378,,,w_558815750,shop=convenience
+"Keeler, CA",,retail,445120,,"380 North Main Street, Lone Pine, CA, 93545",,,36.6075327,-118.0639248,,,w_558815757,shop=convenience
+"Keeler, CA",,retail,445120,Whitney Portal Store,,,,36.5868294,-118.2408731,,,w_813748453,"shop=convenience, amenity=restaurant"

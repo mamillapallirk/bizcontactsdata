@@ -1,0 +1,756 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"El Verano, CA",,retail,445110,Raley's,"890 Southampton Road, Benicia, CA, 94510",707-746-1203,https://www.raleys.com/,38.0665187,-122.167967,,,n_598055156,"shop=supermarket, brand=Raley's"
+"El Verano, CA",,retail,452210,Target,"1400 Fitzgerald Drive, Pinole, CA, 94564-2250",+1 510-222-0558,https://www.target.com/sl/pinole/737,37.987691,-122.309059,,,n_599880223,"shop=department_store, brand=Target"
+"El Verano, CA",,retail,445110,Safeway,"50 Solano Square, Benicia, CA, 94510",+1 707-745-4047,https://local.safeway.com/safeway/ca/benicia/50-solano-sq.html,38.0547702,-122.15572,,,n_698082170,"shop=supermarket, brand=Safeway, operator=Safeway"
+"El Verano, CA",,retail,452210,Kohl's,"5010 Northgate Drive, San Rafael, CA, 94903",+1 415-507-9707,https://www.kohls.com/stores/ca/sanrafael-1379.shtml,38.0038554,-122.5458012,,,n_1053609171,"shop=department_store, brand=Kohl's, operator=Kohl's"
+"El Verano, CA",,retail,452210,Macy's,,,https://www.macys.com/stores/ca/sanrafael/northgate_327.html,38.0047204,-122.5435471,,,n_1053612077,"shop=department_store, brand=Macy's"
+"El Verano, CA",,retail,445110,Lucky,,,,37.9904404,-122.302537,,,n_1140673872,"shop=supermarket, brand=Lucky"
+"El Verano, CA",,retail,445110,Grocery Outlet,,,,37.9902136,-122.308104,,,n_1140673927,"shop=supermarket, brand=Grocery Outlet"
+"El Verano, CA",,retail,445310,Scribe,"2300 Napa Road, Sonoma, 95476",,,38.2762673,-122.4153287,,,n_1316301025,shop=wine
+"El Verano, CA",,retail,445120,ExtraMile,,,,37.9958498,-122.2852402,,,n_1321091248,"shop=convenience, brand=ExtraMile"
+"El Verano, CA",,retail,445110,Whole Foods Market,"3682 Bel Aire Plaza, Napa, CA, 94558",+1 707-224-6300,https://www.wholefoodsmarket.com/stores/napa,38.3232512,-122.3063419,,,n_1347464430,"shop=supermarket, brand=Whole Foods Market"
+"El Verano, CA",,retail,445110,Trader Joe's,"3654 Bel Aire Plaza, Napa, CA, 94558",+1 707-256-0806,https://locations.traderjoes.com/ca/napa/128/,38.3227883,-122.3059235,,,n_1347464433,"shop=supermarket, brand=Trader Joe's"
+"El Verano, CA",,retail,445299,Cowgirl Creamery,,,,38.0681541,-122.807124,,,n_1437562644,shop=cheese
+"El Verano, CA",,retail,453110,L.V. Flowers,"8295 Old Redwood Highway, Cotati, CA, 94931",+1-707-794-9575,https://shoplvflowers.com,38.3248594,-122.7050636,,,n_1440595756,shop=florist
+"El Verano, CA",,retail,445110,Oliver's Market,"540 East Cotati Avenue, Cotati",,,38.3279016,-122.6983501,,,n_1455515190,shop=supermarket
+"El Verano, CA",,retail,452210,Ross,"Rohnert Park, CA, 94928",+1 707-585-3759,,38.3459738,-122.7063009,,,n_1458396305,"shop=department_store, brand=Ross"
+"El Verano, CA",,retail,445120,,"8492 Gravenstein Hwy, 94931",,,38.3314541,-122.7163478,,,n_1543286975,shop=convenience
+"El Verano, CA",,retail,445110,Raley's,,,,38.2483898,-122.6285402,,,n_1640374730,"shop=supermarket, brand=Raley's"
+"El Verano, CA",,retail,445110,Mollie Stone's,270 Bon Air Center,,,37.9457131,-122.5242641,,,n_1746210514,shop=supermarket
+"El Verano, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/rohnert-park/1868/,38.3664591,-122.7151501,,,n_1747730491,"shop=variety_store, brand=Dollar Tree"
+"El Verano, CA",,retail,445310,Sebastiani Vineyards and Winery,"389 Fourth Street East, Sonoma, 95476",+1 707 933 3230,,38.293364,-122.449264,,,n_1834642932,shop=alcohol
+"El Verano, CA",,retail,445120,Wagon Wheel Liquors,,,,38.4452133,-122.7390596,,,n_1840518746,shop=convenience
+"El Verano, CA",,retail,445120,Chevron,,,,38.0949246,-122.2288446,,,n_1861486372,"shop=convenience, brand=Chevron"
+"El Verano, CA",,retail,445120,Ben's Food & Liquor,,,,38.0946002,-122.2281094,,,n_1861493139,shop=convenience
+"El Verano, CA",,retail,452210,dd's Discounts,,,,38.1040392,-122.2307137,,,n_1861502515,"shop=department_store, brand=dd's Discounts"
+"El Verano, CA",,retail,445110,Cardenas,,,,38.1038261,-122.231081,,,n_1861502536,"shop=supermarket, brand=Cardenas"
+"El Verano, CA",,retail,446120,Orchid Nails and Spa,,,,38.1049112,-122.2311349,,,n_1862633028,shop=beauty
+"El Verano, CA",,retail,445120,Cigarettes 4 Less,,,,38.1048239,-122.2310622,,,n_1862633074,shop=convenience
+"El Verano, CA",,retail,445110,Whole Foods Market,"790 De Long Avenue, Novato, CA, 94945",+1 415-878-0455,https://www.wholefoodsmarket.com/stores/novato,38.1058658,-122.566106,,,n_1908427786,"shop=supermarket, brand=Whole Foods Market"
+"El Verano, CA",,retail,445110,Fairfax Market,2040 Sir Francis Drake Boulevard,,,37.9883736,-122.590597,,,n_1937575078,shop=supermarket
+"El Verano, CA",,retail,445110,United Market,"100 Red Hill Avenue, 94960",,https://www.unitedmarkets.com/,37.9769358,-122.5534189,,,n_1937605734,shop=supermarket
+"El Verano, CA",,retail,445120,Shell,,,,37.970825,-122.520772,,,n_1937623298,"shop=convenience, brand=Shell"
+"El Verano, CA",,retail,445120,ampm,,,,37.9904868,-122.3353295,,,n_2013493265,"shop=convenience, brand=ampm"
+"El Verano, CA",,retail,446110,CVS Pharmacy,"365 East Washington Street, Petaluma, CA, 94952",,https://www.cvs.com/store-locator/petaluma-ca-pharmacies/365-e-washington-st-petaluma-ca-94952/storeid=9480,38.2386173,-122.6377987,,,n_2059143287,"shop=chemist, amenity=pharmacy, brand=CVS Pharmacy"
+"El Verano, CA",,retail,445120,Food Mart,,,,38.2357321,-122.6217565,,,n_2253307419,shop=convenience
+"El Verano, CA",,retail,445120,Valero Food Shop,,,,38.3318402,-122.7146382,,,n_2253307453,shop=convenience
+"El Verano, CA",,retail,445110,FoodMaxx,,,,38.1234059,-122.236462,,,n_2264170931,"shop=supermarket, brand=FoodMaxx"
+"El Verano, CA",,retail,445110,Raley's,,,,38.2574839,-122.0660105,,,n_2589909684,"shop=supermarket, brand=Raley's"
+"El Verano, CA",,retail,452210,TJ Maxx,,,,38.215332,-122.1417063,,,n_2589929166,"shop=department_store, brand=TJ Maxx"
+"El Verano, CA",,retail,452210,Marshalls,,,,38.1337123,-122.2196958,,,n_2638103317,"shop=department_store, brand=Marshalls"
+"El Verano, CA",,retail,452210,Ross,"133 Plaza Drive, Vallejo, CA, 94591",+1 707-552-9565,,38.1326326,-122.2203904,,,n_2638103319,"shop=department_store, brand=Ross"
+"El Verano, CA",,retail,452319,Broadway Market,"Sonoma, 95476",,,38.275435,-122.460743,,,n_2792019738,shop=general
+"El Verano, CA",,retail,445110,Whole Foods Market,"201 West Napa Street, Sonoma, CA, 95476",+1 707-938-8500,https://www.wholefoodsmarket.com/stores/sonoma,38.291356,-122.462555,,,n_2793710092,"shop=supermarket, brand=Whole Foods Market"
+"El Verano, CA",,retail,445230,Watmaugh Strawberry Stand,"Sonoma, 95476",,,38.261237,-122.482478,,,n_2793898368,shop=greengrocer
+"El Verano, CA",,retail,445310,Anaba Winery,Sonoma,,,38.236552,-122.462365,,,n_2793899645,shop=wine
+"El Verano, CA",,retail,445120,Bonneau Market,Sonoma,,,38.235947,-122.461675,,,n_2793899760,shop=convenience
+"El Verano, CA",,retail,445310,Gloria Ferrer ,Sonoma,,,38.223907,-122.471311,,,n_2793900062,"shop=wine, brand=Frexinet"
+"El Verano, CA",,retail,445310,Jacuzzi Family Winery,Sonoma,,,38.214709,-122.45398,,,n_2793907100,shop=wine
+"El Verano, CA",,retail,445310,Viansa Winery,Sonoma,,,38.208406,-122.451795,,,n_2794039180,shop=wine
+"El Verano, CA",,retail,445310,Ram's Gate,,,,38.1741237,-122.4504414,,,n_2794072011,shop=wine
+"El Verano, CA",,retail,445310,Envolve Winery,,+1 (707) 939-5385,http://envolvewinery.com,38.291373,-122.457177,,,n_2795258469,shop=alcohol
+"El Verano, CA",,retail,445310,Sonoma Enoteca,"35 East Napa Street, Sonoma, CA, 95476",+1 (707) 935-1200,http://www.sonoma-enoteca.com/,38.291698,-122.456943,,,n_2795259169,shop=alcohol
+"El Verano, CA",,retail,445310,Nicholson Ranch,Sonoma,,,38.255065,-122.391245,,,n_2795277969,shop=wine
+"El Verano, CA",,retail,445310,Domaine Carneros,,,,38.255478,-122.351414,,,n_2795282869,"shop=wine, brand=Tattinger"
+"El Verano, CA",,retail,445310,Cuvaison ,,,,38.250786,-122.34732,,,n_2795290369,shop=wine
+"El Verano, CA",,retail,445310,Madonna Winery,,,,38.255822,-122.341286,,,n_2795292869,shop=wine
+"El Verano, CA",,retail,445299,Vella Cheese Co.,"315 2nd Street East, Sonoma, 95476",+1 800 848-0505,https://vellacheese.com/,38.2950362,-122.454065,,,n_2795641535,shop=cheese
+"El Verano, CA",,retail,445310,Westwood Winery,"East Napa Street, Sonoma, 95476",+1 707 933-7837,https://westwoodwine.com/,38.2917561,-122.4574483,,,n_2796493911,shop=alcohol
+"El Verano, CA",,retail,445310,Valley of the Moon Winery,Sonoma,,,38.340479,-122.506519,,,n_2797582871,shop=wine
+"El Verano, CA",,retail,445110,Sonoma Market,"Sonoma, 95476",,,38.293324,-122.468686,,,n_2797601769,shop=supermarket
+"El Verano, CA",,retail,445310,Valley Wine Shack,"Sonoma, 95476",,,38.292803,-122.469228,,,n_2797606669,shop=wine
+"El Verano, CA",,retail,445120,Town Market,,,,38.1044143,-122.2380254,,,n_2805280721,shop=convenience
+"El Verano, CA",,retail,445120,7-Eleven,"2835 Georgia Street, Vallejo, CA, 94591-6503",+1 707-648-2805,https://www.7-eleven.com/locations/ca/vallejo/2835-georgia-st-14133,38.0996339,-122.2239494,,,n_2805280723,"shop=convenience, brand=7-Eleven"
+"El Verano, CA",,retail,445110,Raley's,"Fulton Road, Santa Rosa",,,38.4540842,-122.7713992,,,n_2821699301,"shop=supermarket, brand=Raley's"
+"El Verano, CA",,retail,445120,7-Eleven,"150 Bolinas Road, Fairfax, CA, 94930-1902",+1 415-457-2282,https://www.7-eleven.com/locations/ca/fairfax/150-bolinas-rd-15957,37.9850455,-122.591197,,,n_2823083001,"shop=convenience, brand=7-Eleven"
+"El Verano, CA",,retail,445230,Saetern Strawberry Field,,,,38.261251,-122.482459,,,n_2823987402,shop=greengrocer
+"El Verano, CA",,retail,445310,Bump Wine Cellars,"Sonoma, 95476",+1 (707) 228-9214,http://bumpwine.com,38.29151,-122.458159,,,n_2827321202,shop=alcohol
+"El Verano, CA",,retail,445310,Moondance Cellars,"Arnold Drive, Glen Ellen",,,38.354191,-122.524229,,,n_2828175601,shop=wine
+"El Verano, CA",,retail,445310,Eric Ross Winery,,,,38.354119,-122.5248,,,n_2828176401,shop=wine
+"El Verano, CA",,retail,445120,7-Eleven,"292 North San Pedro Road, San Rafael, CA, 94903-2857",+1 415-472-3579,https://www.7-eleven.com/locations/ca/san-rafael/292-n.-san-pedro-rd-14146,38.0057919,-122.5185748,,,n_2838230570,"shop=convenience, brand=7-Eleven"
+"El Verano, CA",,retail,446120,Salon Novo,"651 1st Street West, Sonoma, 95476",,https://salonnovo.com/,38.2893674,-122.4596007,,,n_2854385631,shop=beauty
+"El Verano, CA",,retail,445310,Two Amigos Wines,,+1 (707) 799-7146,https://twoamigoswines.com/,38.2916365,-122.4572182,,,n_2854407167,shop=alcohol
+"El Verano, CA",,retail,445299,Epicurean Connection,"122 West Napa Street, Sonoma, 95476",+1 (707) 935-7960,http://theepicureanconnection.com,38.2921805,-122.4595554,,,n_2854410999,shop=cheese
+"El Verano, CA",,retail,445110,Safeway,"389 South McDowell Boulevard, Petaluma, CA, 94954",+1 707-766-9097,https://local.safeway.com/safeway/ca/petaluma/389-s-mcdowell-blvd.html,38.2489174,-122.6219218,,,n_2857441206,"shop=supermarket, brand=Safeway"
+"El Verano, CA",,retail,445310,Hawkes Vineyards and Winery,"383 1st Street West, Sonoma, 95476",+1 (707) 938-7620,https://www.hawkeswine.com/,38.2941916,-122.4587511,,,n_2857481366,shop=alcohol
+"El Verano, CA",,retail,445310,Spann Vineyards Tasting Room,,+1 (707) 933-8343,https://spannvineyards.com/,38.2916927,-122.4565077,,,n_2858533567,shop=alcohol
+"El Verano, CA",,retail,445310,Charles Creek Vineyard Tasting Room & Gallery,"483 1st Street West, Sonoma, 95476",+1 (707) 935-3848,http://charlescreek.com,38.2923805,-122.4590825,,,n_2858610176,shop=alcohol
+"El Verano, CA",,retail,445310,Kamen Estate Wines,,+1 (707) 938-7292,https://kamenwines.com/,38.2916706,-122.4564759,,,n_2858636999,shop=alcohol
+"El Verano, CA",,retail,445310,Bryter Estates,,+1 (707) 501-8757,https://bryter.com/,38.291511,-122.4572582,,,n_2858952947,shop=alcohol
+"El Verano, CA",,retail,445310,Adobe Road Winery,"481 1st Street West, Sonoma, 95476",+1-707-939-9099,https://www.adoberoadwines.com/,38.2925274,-122.4590637,,,n_2859092140,shop=alcohol
+"El Verano, CA",,retail,445310,Highway 12 Winery,"498 1st Street East, Sonoma, 95476",+1 (707) 938-8091,http://www.highway12wines.com/,38.2920058,-122.4564765,,,n_2859120357,shop=alcohol
+"El Verano, CA",,retail,445310,Haywood Estate Winery,,+1 (707) 933-3001,http://haywoodwinery.com,38.2917542,-122.4572489,,,n_2859249324,shop=alcohol
+"El Verano, CA",,retail,445310,MacLaren Tasting Lounge,,+1 (707) 938-7490,https://maclarenwine.com/,38.2913832,-122.4573041,,,n_2859254191,shop=alcohol
+"El Verano, CA",,retail,445310,Bedrock Wine Company,"554 Michael Drive, Sonoma, 95476",+1 (707) 364-8763,https://bedrockwineco.com/,38.3069768,-122.468844,,,n_2859368040,shop=alcohol
+"El Verano, CA",,retail,445310,Wine Country Connect,"1055 Broadway, Sonoma, 95476",+1 (707) 938-8485,https://www.winecountryconnect.com/,38.2820047,-122.4598573,,,n_2860207043,shop=alcohol
+"El Verano, CA",,retail,446120,The Spa at The Lodge Sonoma,"1325 Broadway, Sonoma, 95476",+1 (707) 931-3434,https://www.thespaatthelodge.com,38.2774674,-122.463173,,,n_2875670876,shop=beauty
+"El Verano, CA",,retail,446120,Grapevine Skin Care & Waxing,"461 7th Street West, Sonoma, 95476",+1 (707) 815-8914,,38.2939863,-122.471659,,,n_2875680939,shop=beauty
+"El Verano, CA",,retail,446120,Keri Halasz,"454 West Napa Street, Sonoma, 95476",+1 (707) 225-4683,http://healingartenergy.com,38.2931432,-122.4668807,,,n_2875693224,shop=beauty
+"El Verano, CA",,retail,446120,Amber Rose Advanced Skin Care,"500 West Spain Street, Sonoma, CA, 95476",+1 (707) 246-4397,https://amberroseskincare.com/,38.2941684,-122.468767,,,n_2875698463,shop=beauty
+"El Verano, CA",,retail,446120,Catalina Skin and Body,"535 1st Street West, Sonoma, 95476",+1 (707) 933-3860,http://catalinasspa.com,38.2915968,-122.4593609,,,n_2877161342,shop=beauty
+"El Verano, CA",,retail,446120,Butterfly Kisses Beauty Studio,"21 Patten Street, Sonoma, 95476",+1 (707) 363-4512,http://butterflysonoma.com,38.2898453,-122.4574497,,,n_2877166893,shop=beauty
+"El Verano, CA",,retail,446120,Salon Sabrina,"702 Broadway, Sonoma, 95476",+1 (707) 996-2771,http://www.salonsabrinaonline.com/,38.2881989,-122.4580802,,,n_2877173239,shop=beauty
+"El Verano, CA",,retail,446120,Blush A Day Spa,"561 Broadway, Sonoma, 95476",+1 (707) 935-0116,http://blushspasonoma.com,38.2908195,-122.458676,,,n_2882072920,shop=beauty
+"El Verano, CA",,retail,446120,Sonoma Holistic Spa,"525 3rd Street West, Sonoma, 95476",+1 (415) 717-3106,http://sonomaholisticspa.com,38.29185,-122.4638882,,,n_2882100459,shop=beauty
+"El Verano, CA",,retail,446120,Leticia’s Salon,"21 Patten Street, Sonoma, 95476",+1 (707) 996-1063,,38.2898584,-122.4574984,,,n_2882129068,shop=beauty
+"El Verano, CA",,retail,446120,Personal Image Hair & Skin Care,"563 5th Street West, Sonoma, 95476",,,38.2916416,-122.4687309,,,n_2882359513,shop=beauty
+"El Verano, CA",,retail,446120,CC Beauty Salon,"18615 Sonoma Highway, Sonoma, 95476",+1 (707) 935-8329,http://ccbeautysalon.com,38.3084794,-122.4778248,,,n_2882365404,shop=beauty
+"El Verano, CA",,retail,446120,Body Karma,"19310 Sonoma Highway, Sonoma, 95476",+1 (707) 935-5855,http://www.bodykarma.biz/,38.2980984,-122.4743617,,,n_2882381387,shop=beauty
+"El Verano, CA",,retail,446120,Maxwell Nails Salon,"19205 Sonoma Highway, Sonoma, CA, 95476",+1 (707) 933-3838,https://maxwellnailssalonsonoma.com/,38.2991789,-122.4760752,,,n_2882761560,shop=beauty
+"El Verano, CA",,retail,446120,Nails Pro,"201 West Napa Street, Sonoma, 95476",+1 (707) 939-9753,,38.2921837,-122.4622284,,,n_2882768202,shop=beauty
+"El Verano, CA",,retail,446120,Bianchi Grazia Hair & Makeup Salon,"248 West Napa Street, Sonoma, 95476",+1 (707) 996-6002,http://bianchi-salon.com,38.29255,-122.4621884,,,n_2882775824,shop=beauty
+"El Verano, CA",,retail,446120,S. Cutright Salon,"686 West Napa Street, Sonoma, 95476",+1 (707) 939-1761,,38.293459,-122.4713693,,,n_2882784697,shop=beauty
+"El Verano, CA",,retail,446120,Amma Touch,"19343 Sonoma Highway, Sonoma, 95476",+1 (707) 367-2894,http://ammatouch.abmp.com/,38.2972416,-122.4758956,,,n_2882835687,shop=beauty
+"El Verano, CA",,retail,446120,Sonoma Nails,,,,38.3034775,-122.4756639,,,n_2882933844,shop=beauty
+"El Verano, CA",,retail,446120,Colleens Bodywork,"811 West Napa Street, Sonoma, 95476",+1 (707) 939-9156,http://sonomadeeptissuemassage.com,38.2931669,-122.4734424,,,n_2882938319,shop=beauty
+"El Verano, CA",,retail,446120,Healing Tree of Sonoma,"772 West Napa Street, Sonoma, 95476",+1 (707) 299-9655,http://healingtreeofsonoma.com,38.2936074,-122.4728751,,,n_2882941726,shop=beauty
+"El Verano, CA",,retail,446120,Koko’s Of Sonoma,"678 Broadway, Sonoma, 95476",+1 (707) 933-9004,http://kokosofsonoma.com,38.2887558,-122.4579133,,,n_2882943158,shop=beauty
+"El Verano, CA",,retail,446120,Bohemian Boudoir,"461 7th Street West, Sonoma, 95476",+1 (415) 572-4745,http://thebohemianboudoir.com,38.2940847,-122.4716517,,,n_2882952807,shop=beauty
+"El Verano, CA",,retail,446120,Freedom Therapy Myofascial Release,"19343 Sonoma Highway, Sonoma, 95476",+1 (707) 933-7815,https://www.freedomtherapy.net/default.html,38.2972166,-122.4759366,,,n_2882958804,shop=beauty
+"El Verano, CA",,retail,446120,Beautiful Nails,"539 Broadway, Sonoma, 95476",+1 (707) 996-2417,http://beautifulnailsonoma.wix.com/beautifulnailsonoma,38.2911289,-122.4582544,,,n_2882963133,shop=beauty
+"El Verano, CA",,retail,446120,Happy Nails,"721 West Napa Street, Sonoma, 95476",+1 (707) 939-8262,,38.29315,-122.47216,,,n_2882965522,shop=beauty
+"El Verano, CA",,retail,446120,The Pampered Pout,"678 Broadway, Sonoma, 95476",+1 (707) 938-9396,,38.2887653,-122.4579649,,,n_2882971397,shop=beauty
+"El Verano, CA",,retail,446120,City’s Nails,"808 West Napa Street, Sonoma, 95476",+1 (707) 996-8182,,38.2938137,-122.4732788,,,n_2882993576,shop=beauty
+"El Verano, CA",,retail,446120,Trinity Day Spa,"27 East Napa Street, Sonoma, 95476",+1 (707) 326-2762,http://sonomadayspaandsalon.com,38.2912868,-122.4572351,,,n_2883001509,shop=beauty
+"El Verano, CA",,retail,446120,Sun Seekers,"595 5th Street West, Sonoma, 95476",+1 (707) 996-0317,,38.2913526,-122.4686049,,,n_2883003464,shop=beauty
+"El Verano, CA",,retail,445310,BevMo!,"401 Kenilworth Drive, Petaluma, 94952",+1-707-241-9705,https://bevmo.com/,38.2419672,-122.6233241,,,n_2946858342,"shop=alcohol, brand=BevMo!"
+"El Verano, CA",,retail,445120,7-Eleven,"124 Petaluma Boulevard South, Petaluma, CA, 94952-3033",+1 707-778-3448,https://www.7-eleven.com/locations/ca/petaluma/124-petaluma-blvd-s-18019,38.2323665,-122.6374294,,,n_3121139941,"shop=convenience, brand=7-Eleven"
+"El Verano, CA",,retail,445120,7-Eleven,"1760 Piner Road, Santa Rosa, CA, 95403",+1 707-527-5713,https://www.7-eleven.com/locations/ca/santa-rosa/1760-piner-rd-34334,38.4688321,-122.7435391,,,n_3280806587,"shop=convenience, brand=7-Eleven"
+"El Verano, CA",,retail,445110,Carniceria El Brinquito,"17380 Sonoma Highway, Sonoma, CA, 95476",,,38.3198633,-122.4862731,,,n_3534520165,shop=supermarket
+"El Verano, CA",,retail,445110,Carniceria La Favorita,"17484 Sonoma Highway, Sonoma, CA, 95476",707-938-9607,,38.3186485,-122.4852867,,,n_3534530264,shop=supermarket
+"El Verano, CA",,retail,445210,Belcampo Butchery,,,,37.9468466,-122.5087471,,,n_3681610425,shop=butcher
+"El Verano, CA",,retail,446120,International Orange,"2421 Larkspur Landing Circle, Larkspur, CA, 94939",,,37.9468894,-122.5089637,,,n_3684650494,shop=beauty
+"El Verano, CA",,retail,445310,Materra | Cunat Family Vineyards,,,http://www.materrawines.com/,38.3621152,-122.3111949,,,n_3711387003,shop=wine
+"El Verano, CA",,retail,445110,Nob Hill,"611 Trancas St, Napa, CA, 94558",(707) 224-8583,,38.3241936,-122.2859373,,,n_3715624080,"shop=supermarket, operator=Raley's"
+"El Verano, CA",,retail,445110,Lucky,"1312 Trancas St, Napa, CA, 94558",+1 (707) 255-7767,https://www.luckysupermarkets.com/stores/5055,38.3234529,-122.301783,,,n_3715632816,"shop=supermarket, brand=Lucky"
+"El Verano, CA",,retail,446120,,,,,38.2897418,-122.0323392,,,n_3748098517,shop=beauty
+"El Verano, CA",,retail,445310,Pax Tasting Room & Winery,,,,38.4038613,-122.8214676,,,n_3896746642,shop=wine
+"El Verano, CA",,retail,445110,Sebastopol Community Market,"6762 #100 Sebastopol Avenue, 95472",+17073966690,https://www.cmnaturalfoods.com/,38.403178,-122.8200165,,,n_3896748305,shop=supermarket
+"El Verano, CA",,retail,445310,Macphail Tasting Lounge,,,,38.4037624,-122.8204355,,,n_3896765617,shop=wine
+"El Verano, CA",,retail,445110,F.E.E.D. Sonoma,,,,38.4033929,-122.8213721,,,n_3896775014,shop=supermarket
+"El Verano, CA",,retail,445310,Spirit Works Distillery,6790 McKinley Street,+1 707-634-4793,https://www.spiritworksdistillery.com/,38.4045567,-122.8218035,,,n_3896784887,shop=alcohol
+"El Verano, CA",,retail,446120,The Soap Cauldron,,,,38.4039774,-122.821238,,,n_3896793727,shop=cosmetics
+"El Verano, CA",,retail,452210,Kohl's,"1363 North McDowell Boulevard, Petaluma, CA, 94954",+1 707-782-9849,https://www.kohls.com/stores/ca/petaluma-760.shtml,38.2721831,-122.6662915,,,n_4067075770,"shop=department_store, brand=Kohl's"
+"El Verano, CA",,retail,445110,Whole Foods Market,"390 Coddingtown Mall, Santa Rosa, CA, 95401",+1 707-542-7411,https://www.wholefoodsmarket.com/stores/coddingtown,38.4580607,-122.7315092,,,n_4139597432,"shop=supermarket, brand=Whole Foods Market"
+"El Verano, CA",,retail,452210,Target,"950 Coddingtown, Santa Rosa, CA, 95401",+1 707-596-5587,https://www.target.com/sl/santa-rosa-north/2804,38.4571172,-122.729859,,,n_4139597433,"shop=department_store, brand=Target"
+"El Verano, CA",,retail,445110,Whole Foods Market,"1181 Yulupa Avenue, Santa Rosa, CA, 95405",+1 707-575-7915,https://www.wholefoodsmarket.com/stores/santarosa,38.4423572,-122.6745352,,,n_4139597434,"shop=supermarket, brand=Whole Foods Market"
+"El Verano, CA",,retail,445110,Trader Joe's,"1350 Gateway Boulevard, Fairfield, CA, 94533",+1 707-434-0144,https://locations.traderjoes.com/ca/fairfield/101/,38.2640861,-122.053199,,,n_4141972189,"shop=supermarket, brand=Trader Joe's"
+"El Verano, CA",,retail,445310,Kwik-Pik,,,,38.363446,-122.708843,,,n_4161700435,shop=beverages
+"El Verano, CA",,retail,445110,Sprouts Farmers Market,"Petaluma, CA, 94952",+1 707-789-4976,https://www.sprouts.com/store/ca/petaluma/kenilworth-dr/,38.2428372,-122.623738,,,n_4328478797,"shop=supermarket, brand=Sprouts Farmers Market"
+"El Verano, CA",,retail,452210,Target,"401 Kenilworth Drive, Petaluma, CA, 94952-3413",+1 707-775-6322,https://www.target.com/sl/petaluma/2601,38.245373,-122.626678,,,n_4328478801,"shop=department_store, brand=Target"
+"El Verano, CA",,retail,445310,st. clement vineyards,,,,38.5188428,-122.4919358,,,n_4343788389,shop=alcohol
+"El Verano, CA",,retail,445110,Raley's,,,,38.3466318,-122.7072359,,,n_4383361894,"shop=supermarket, brand=Raley's"
+"El Verano, CA",,retail,445110,Trader Joe's,"2052 Redwood Highway, Greenbrae, CA, 94904",+1 415-945-7955,https://locations.traderjoes.com/ca/greenbrae/235/,37.937841,-122.5149545,,,n_4413356502,"shop=supermarket, brand=Trader Joe's"
+"El Verano, CA",,retail,445310,BevMo!,,,https://bevmo.com/,37.9369182,-122.5158808,,,n_4413436091,"shop=alcohol, brand=BevMo!"
+"El Verano, CA",,retail,452210,Ross,"75 Bellam Road, San Rafael, CA, 94901",+1 415-453-4471,,37.9600663,-122.507408,,,n_4413896191,"shop=department_store, brand=Ross"
+"El Verano, CA",,retail,452319,Dollar Tree,Francisco Boulevard West,,https://www.dollartree.com/locations/ca/san-rafael/4724/,37.9607614,-122.5106962,,,n_4414210989,"shop=variety_store, brand=Dollar Tree"
+"El Verano, CA",,retail,445110,Woodlands Market,"735 College Avenue, Kentfield, CA, 94904",(415) 457-8160,https://www.woodlandsmarket.com/market/kentfield/,37.9522715,-122.550052,,,n_4414235693,shop=supermarket
+"El Verano, CA",,retail,445110,Trader Joe's,"337 Third Street, San Rafael, CA, 94901",+1 415-454-9530,https://locations.traderjoes.com/ca/san-rafael/61/,37.969678,-122.5165256,,,n_4415509691,"shop=supermarket, brand=Trader Joe's"
+"El Verano, CA",,retail,445110,Jasmine Market Mediterranean Groceries,307 Third Street,(415) 459-4866,,37.9694361,-122.5160416,,,n_4415550492,shop=supermarket
+"El Verano, CA",,retail,446120,Montecito Nails,"249 Third Street, 94901",(415) 456-5888,,37.9693671,-122.5158606,,,n_4426957189,shop=beauty
+"El Verano, CA",,retail,445110,Bolinas ave Market & Liquor,,,,37.9697304,-122.5613371,,,n_4461102492,shop=supermarket
+"El Verano, CA",,retail,445110,Quick n Easy Grocery Wine & Liquor,,,,37.9767904,-122.5647479,,,n_4461136092,shop=supermarket
+"El Verano, CA",,retail,445110,Andronico's Community Market,,,https://local.andronicos.com/ca/san-anselmo/100-center-blvd.html,37.9770272,-122.5631007,,,n_4461164689,"shop=supermarket, brand=Andronico's"
+"El Verano, CA",,retail,446120,Harmony Beauty Bar,"730 San Anselmo Avenue, 94965",(415) 524-8866,,37.976456,-122.5634322,,,n_4461164690,shop=cosmetics
+"El Verano, CA",,retail,446120,Tito Beauty Salon,703 Sir Francis Drake Boulevard,(415) 454-8486,,37.9774975,-122.5633934,,,n_4461164790,shop=cosmetics
+"El Verano, CA",,retail,445310,Ludwig's,"431 San Anselmo Avenue, San Anselmo, CA, 94960",,https://ludwigsfinewine.com,37.9743173,-122.562483,,,n_4461175389,shop=alcohol
+"El Verano, CA",,retail,445120,Fast and Easy Mart,"2550 Guerneville Road, Santa Rosa, CA, 95403",,,38.4520878,-122.77113,,,n_4501787866,shop=convenience
+"El Verano, CA",,retail,446120,Fulton Nails,"2550 Guerneville Road, Santa Rosa, CA, 95403",,,38.4520857,-122.771792,,,n_4501787872,shop=beauty
+"El Verano, CA",,retail,445310,United Liquors,1110 Magnolia Avenue,,,37.9472527,-122.5465677,,,n_4501831692,shop=alcohol
+"El Verano, CA",,retail,452319,Dollar Tree,455 Entrada Drive,,https://www.dollartree.com/locations/ca/novato/3480/,38.0688788,-122.540616,,,n_4527820397,"shop=variety_store, brand=Dollar Tree"
+"El Verano, CA",,retail,453110,Natalie and Daria's Flowers and Gifts,479 Entrada Drive,,https://www.natalieanddarias.com/,38.0687415,-122.5415146,,,n_4527820400,shop=florist
+"El Verano, CA",,retail,446120,Ulta Beauty,"1725 Trancas Street, Napa, CA, 94558",+1 707-224-1117,https://www.ulta.com/stores/napa-ca-648,38.3205387,-122.3064942,,,n_4588450155,"shop=cosmetics, brand=Ulta Beauty"
+"El Verano, CA",,retail,445310,BevMo!,,,,38.3215705,-122.30045,,,n_4588462326,"shop=alcohol, brand=BevMo!"
+"El Verano, CA",,retail,445292,See's Candies,"1301 Trancas Street, Napa, CA",,,38.3223328,-122.300243,,,n_4588462328,"shop=confectionery, brand=See's Candies"
+"El Verano, CA",,retail,452210,Marshalls,,,,38.2863039,-122.273581,,,n_4589631152,"shop=department_store, brand=Marshalls"
+"El Verano, CA",,retail,445120,7-Eleven,"2906 First Street, Napa, CA, 94558-5529",+1 707-252-0288,https://www.7-eleven.com/locations/ca/napa/2906-first-st-14138,38.3012926,-122.3107291,,,n_4610544343,"shop=convenience, brand=7-Eleven"
+"El Verano, CA",,retail,445120,Kwikee Mart,,,,38.3156127,-122.2973371,,,n_4612232971,shop=convenience
+"El Verano, CA",,retail,446120,Imola Nail Spa,,,,38.281042,-122.2926389,,,n_4615542650,shop=beauty
+"El Verano, CA",,retail,445120,Valencia,,,,38.2814304,-122.2926399,,,n_4615542657,shop=convenience
+"El Verano, CA",,retail,445110,Grocery Outlet,,,,38.2809103,-122.290877,,,n_4615542659,"shop=supermarket, brand=Grocery Outlet"
+"El Verano, CA",,retail,445120,7-Eleven,"1136 Imola Avenue, Napa, CA, 94559-4237",+1 707-224-6788,https://www.7-eleven.com/locations/ca/napa/1136-imola-ave-14152,38.2803293,-122.2653634,,,n_4623128061,"shop=convenience, brand=7-Eleven"
+"El Verano, CA",,retail,445310,Saddleback Cellars,"7802 Money Road, 94558",7079441305,,38.4493933,-122.3882718,,,n_4629515789,shop=wine
+"El Verano, CA",,retail,446120,Allure Nail & Massage,,,,38.3231957,-122.2994422,,,n_4636874578,shop=beauty
+"El Verano, CA",,retail,445120,7-Eleven,"29 Rio del Mar, American Canyon, CA, 94503",+1 707-642-4748,https://www.7-eleven.com/locations/ca/american-canyon/29-rio-del-mar-16640,38.1793938,-122.255827,,,n_4650632313,"shop=convenience, brand=7-Eleven"
+"El Verano, CA",,retail,445120,Thai Market,"American Canyon, CA, 94503",,,38.1773916,-122.255065,,,n_4650632314,shop=convenience
+"El Verano, CA",,retail,445120,AC Food and Liquor,"American Canyon, CA, 94503",,,38.1772708,-122.255049,,,n_4650632315,shop=convenience
+"El Verano, CA",,retail,445110,Lucky,,,,38.4426503,-122.6861153,,,n_4726772297,"shop=supermarket, brand=Lucky"
+"El Verano, CA",,retail,452210,JCPenney,"Solano Mall, Fairfield, CA, 94533",,,38.2603424,-122.051404,,,n_4747926439,"shop=department_store, brand=JCPenney"
+"El Verano, CA",,retail,452210,Sears,"Solano Mall, Fairfield, CA, 94533",,,38.2596547,-122.0528598,,,n_4747933229,"shop=department_store, brand=Sears"
+"El Verano, CA",,retail,452210,Macy's,"Solano Mall, Fairfield, CA, 94533",,https://www.macys.com/stores/ca/fairfield/solano-town-center_326.html,38.2597684,-122.055306,,,n_4747933347,"shop=department_store, brand=Macy's"
+"El Verano, CA",,retail,445310,BevMo!,"1545 Holiday Lane, Fairfield, CA, 94534",,,38.2603159,-122.061703,,,n_4747942462,"shop=alcohol, brand=BevMo!"
+"El Verano, CA",,retail,445110,FoodMaxx,"1955 West Texas Street, Fairfield, CA, 94533",,,38.2479744,-122.0642653,,,n_4747961243,"shop=supermarket, brand=FoodMaxx"
+"El Verano, CA",,retail,452210,Napa Premium Outlets,"629 Factory Stores Drive, CA, 94558",+17072269876,https://www.premiumoutlets.com/,38.2960716,-122.3030827,,,n_4783421225,shop=department_store
+"El Verano, CA",,retail,445110,Sprouts Farmers Market,"1300 Pinole Valley Road, Pinole, CA, 94564",+1 510-640-8111,https://www.sprouts.com/store/ca/pinole/pinole-valley-rd/,37.9996551,-122.287196,,,n_4812364281,"shop=supermarket, brand=Sprouts Farmers Market"
+"El Verano, CA",,retail,445230,Saturday Farmers Market,Larkspur Landing Circle,,,37.9465465,-122.5085752,,,n_4812872622,shop=greengrocer
+"El Verano, CA",,retail,453110,San Marin Flowers,"117 San Marin Drive, Novato, CA, 94945",,,38.1226673,-122.603699,,,n_5178905274,shop=florist
+"El Verano, CA",,retail,446120,Nail Care,,,,38.122661,-122.6037566,,,n_5178905275,shop=beauty
+"El Verano, CA",,retail,445110,Harvest Market,,,,38.1226968,-122.603007,,,n_5178905281,shop=supermarket
+"El Verano, CA",,retail,453110,Rafael Florist,,,,37.9728092,-122.5259164,,,n_5266999347,shop=florist
+"El Verano, CA",,retail,445210,Willowside Meats Inc.,"3421 Guerneville Road, Santa Rosa, CA",,,38.4530245,-122.8020879,,,n_5280245772,shop=butcher
+"El Verano, CA",,retail,445299,Bohemian Creamery,,,,38.4262676,-122.8381765,,,n_5282338977,shop=cheese
+"El Verano, CA",,retail,446120,Nails By Kim,"1555 Fourth Street, San Rafael, CA",,https://nailsbykimsalon.wixsite.com/nailsbykimsalon,37.9737899,-122.5358429,,,n_5288534159,shop=beauty
+"El Verano, CA",,retail,446120,Lash Art Brow,"1563 Fourth Street, San Rafael",,https://lashartbrow.com,37.9738107,-122.5361184,,,n_5288534161,shop=beauty
+"El Verano, CA",,retail,452210,Walmart,"1400 Hilltop Mall Road, Richmond, CA, 94806",+1 510-669-1342,https://www.walmart.com/store/3455-richmond-ca,37.9799,-122.3284,,,n_5315598298,"shop=department_store, brand=Walmart, operator=Walmart"
+"El Verano, CA",,retail,446120,Sephora,,,,38.0891636,-122.5522278,,,n_5331538680,"shop=cosmetics, brand=Sephora"
+"El Verano, CA",,retail,445292,See's Candies,,,,38.0910852,-122.5540834,,,n_5331554973,"shop=confectionery, brand=See's Candies"
+"El Verano, CA",,retail,445310,BevMo!,,,,38.0921458,-122.5545851,,,n_5331561041,"shop=alcohol, brand=BevMo!"
+"El Verano, CA",,retail,446120,Fingers & Toes,324 Bon Air Center,,,37.9453682,-122.5230081,,,n_5333490806,shop=beauty
+"El Verano, CA",,retail,446120,The Style Bar,316 Bon Air Center,,,37.945445,-122.5231928,,,n_5333498329,shop=beauty
+"El Verano, CA",,retail,452319,Mercadito Roseland,,,,38.4304994,-122.7290856,,,n_5406279286,shop=variety_store
+"El Verano, CA",,retail,445110,Imwalle Gardens,"685 West 3rd Street, Santa Rosa, CA, 95401",,,38.4336678,-122.7311992,,,n_5406291085,shop=supermarket
+"El Verano, CA",,retail,452210,JCPenney,"800 Coddingtown Center, 95401",,http://jcpenny.com,38.457022,-122.7315511,,,n_5421846521,"shop=department_store, brand=JCPenney"
+"El Verano, CA",,retail,445110,Seafood City Market,"3495 Sonoma Boulevard, 94590",7076541972,http://www.seafoodcity.com,38.122467,-122.2575771,,,n_5474696349,shop=supermarket
+"El Verano, CA",,retail,445120,Okbah Grocery Shop,1500B Marin Street,,,38.1101221,-122.2563354,,,n_5474741635,shop=convenience
+"El Verano, CA",,retail,445120,Okbah Grocery Shop,Marin Street,,,38.1101399,-122.2563354,,,n_5485101725,shop=convenience
+"El Verano, CA",,retail,445210,Sanoma Meat Market,"2723 Sonoma Boulevard, 94590",707-648-7933,,38.1117534,-122.254761,,,n_5487078024,shop=butcher
+"El Verano, CA",,retail,445120,Village Market Groceries,"2314 Sonoma Boulevard, 94590",707-554-3576,,38.107364,-122.2545743,,,n_5495209222,shop=convenience
+"El Verano, CA",,retail,445120,7-Eleven,"1095 Magazine Street, Vallejo, CA, 94591-8275",+1 707-644-3212,https://www.7-eleven.com/locations/ca/vallejo/1095-magazine-st-16743,38.0846119,-122.2316582,,,n_5499607846,"shop=convenience, brand=7-Eleven"
+"El Verano, CA",,retail,445120,Okbah Groceries,"1500B Marin Street, 94590",,,38.1101409,-122.2563234,,,n_5506626421,shop=convenience
+"El Verano, CA",,retail,452319,Dollar Tree,"3475 Sonoma Boulevard, 94590",707-648-9788,,38.1217281,-122.2571966,,,n_5507277622,"shop=variety_store, brand=Dollar Tree, operator=Dollar Tree"
+"El Verano, CA",,retail,445120,Village Market,"Sonoma Boulevard, 94590",,,38.107411,-122.25465,,,n_5507277626,shop=convenience
+"El Verano, CA",,retail,445210,Sanoma Meat Market,"2723 Sonoma Boulevard, 94590",,,38.111722,-122.2549,,,n_5507277722,shop=butcher
+"El Verano, CA",,retail,452319,Dollar Tree,"938 Admiral Callaghan Lane, 94591",707-557-4358,https://www.dollartree.com/locations/ca/vallejo/4131/,38.1330067,-122.2211937,,,n_5536296826,"shop=variety_store, brand=Dollar Tree, operator=Dollar Tree"
+"El Verano, CA",,retail,446120,Soft Shell - Skin and Spa,,,,38.2334396,-122.6408155,,,n_5538996262,shop=cosmetics
+"El Verano, CA",,retail,446120,Blush,,,,38.2346284,-122.6417537,,,n_5538996263,shop=cosmetics
+"El Verano, CA",,retail,445120,,,,,38.3383674,-122.2599194,,,n_5569989027,shop=convenience
+"El Verano, CA",,retail,445120,Spanish Flat Country Store & Deli,"4318 Knoxville Road, 94558",7079661600,,38.5334367,-122.2273067,,,n_5678599527,shop=convenience
+"El Verano, CA",,retail,445120,Discount Cigarettes,"601 Tennessee Street, 94590",,,38.1096282,-122.2528726,,,n_5716128221,shop=convenience
+"El Verano, CA",,retail,445310,Bartholomew Park Winery,,,,38.3018036,-122.424994,,,n_5840686185,shop=wine
+"El Verano, CA",,retail,445310,Lake Sonoma Winery,,,,38.2932058,-122.4594255,,,n_5842698988,shop=wine
+"El Verano, CA",,retail,446120,US-Nails,2013A Novato Boulevard,,,38.1111454,-122.5919388,,,n_5914430173,shop=beauty
+"El Verano, CA",,retail,445292,Cravin's Candy Emporium,"151 Petaluma Boulevard South, Petaluma, CA, 94952",(707) 773-7374,https://cravinscandy.com/sweet-shop-in-petaluma/,38.2329851,-122.6374613,,,n_6126045867,shop=confectionery
+"El Verano, CA",,retail,445110,Nugget Markets,"470 Ignacio Boulevard, Novato, CA, 94949",+1-415-883-4600,https://www.nuggetmarket.com/locations/novato/,38.0673861,-122.5429813,,,n_6292714427,shop=supermarket
+"El Verano, CA",,retail,445310,Napa General Store,94599,,,38.2961093,-122.2825449,,,n_6331604891,shop=wine
+"El Verano, CA",,retail,445310,Back Room Wines,"1000 Main Street, 94559",,,38.2994495,-122.2852957,,,n_6331612787,shop=wine
+"El Verano, CA",,retail,445120,J & L Market,,,,38.0526346,-122.2134118,,,n_6419899344,shop=convenience
+"El Verano, CA",,retail,452210,LeBallister's,"1250 Sebastopol Road, 95472",,,38.4276652,-122.7336339,,,n_6423552386,shop=department_store
+"El Verano, CA",,retail,445292,,,,,38.4023682,-122.8198937,,,n_6494409863,shop=chocolate
+"El Verano, CA",,retail,445110,Community Market,1899 Mendocino Avenue,7075461806,https://www.cmnaturalfoods.com,38.4587923,-122.7178105,,,n_6494887198,shop=supermarket
+"El Verano, CA",,retail,453110,Mirage Florist,,,,38.4408999,-122.7127387,,,n_6496491410,shop=florist
+"El Verano, CA",,retail,446120,Santa Rosa Nail Salon,"624 4th Street, Santa Rosa, CA",,,38.4407446,-122.7131053,,,n_6496491416,shop=beauty
+"El Verano, CA",,retail,446120,Exclusive Spa,,,,38.4408421,-122.714119,,,n_6496550867,shop=beauty
+"El Verano, CA",,retail,446120,Luscious Lashes By Heather,"589 Mendocino Avenue, Santa Rosa, CA, 95401",,,38.4446242,-122.7173265,,,n_6507894314,shop=cosmetics
+"El Verano, CA",,retail,446120,Lotus Beauty Bar,"307 D Street, Santa Rosa, CA, 95404",,,38.441414,-122.7126894,,,n_6522450243,shop=beauty
+"El Verano, CA",,retail,445120,The Inverness Store,,,,38.096806,-122.8516348,,,n_6534579074,shop=convenience
+"El Verano, CA",,retail,446120,Waxing,1945 Mendocino Avenue,,,38.4591227,-122.7181726,,,n_6543760925,shop=beauty
+"El Verano, CA",,retail,445310,Southern Glazer's Wine & Spirits,,,,38.3462969,-122.7225421,,,n_6583064351,shop=wine
+"El Verano, CA",,retail,446120,MAC Cosmetics,,,,38.2950227,-122.3031739,,,n_6606294975,"shop=cosmetics, brand=MAC Cosmetics"
+"El Verano, CA",,retail,452210,Macy's,,,https://www.macys.com/stores/ca/santarosa/coddingtown-shopping-center_330.html,38.4576987,-122.7281318,,,n_6654609859,"shop=department_store, brand=Macy's"
+"El Verano, CA",,retail,445230,,,,,38.4967819,-122.7738727,,,n_6685474704,shop=greengrocer
+"El Verano, CA",,retail,445310,The Grog Shop,2296 Santa Rosa Avenue,,,38.4166584,-122.7131349,,,n_6690235286,shop=alcohol
+"El Verano, CA",,retail,445310,Chateau St. Jean Winery,,,,38.4270132,-122.546863,,,n_6699423996,shop=wine
+"El Verano, CA",,retail,445310,Ledson Winery & Vineyards,,,,38.4420521,-122.5863189,,,n_6699429890,shop=wine
+"El Verano, CA",,retail,446120,Bella Capelli,,,,38.4464539,-122.7407722,,,n_6725758422,shop=beauty
+"El Verano, CA",,retail,446120,Nail Art & Spa,"1009 West College Avenue, Santa Rosa, CA, 95401",,,38.4463001,-122.7403293,,,n_6725758427,shop=beauty
+"El Verano, CA",,retail,445110,Safeway,"1211 West College Avenue, Santa Rosa, CA, 95401",+1 707-546-6877,https://local.safeway.com/safeway/ca/santa-rosa/1211-w-college-ave.html,38.4463273,-122.7414687,,,n_6725758428,"shop=supermarket, brand=Safeway"
+"El Verano, CA",,retail,445120,Harry's Market,,,,38.442092,-122.7308483,,,n_6751139420,shop=convenience
+"El Verano, CA",,retail,445310,Campus Market,1880-A Mendocino Avenue,,,38.458149,-122.7167907,,,n_6751194912,shop=alcohol
+"El Verano, CA",,retail,446120,Royal Nails & Spa,,,,38.4557123,-122.716966,,,n_6751939935,shop=beauty
+"El Verano, CA",,retail,446120,Lucky Nail Spa,1880-1A Mendocino Avenue,,,38.4580945,-122.7167574,,,n_6751939959,shop=beauty
+"El Verano, CA",,retail,445310,Mayacamas,1256 1st Street,,,38.2983293,-122.2878961,,,n_6762934309,shop=wine
+"El Verano, CA",,retail,446120,Tracy Nail Spa,,,,38.3451315,-122.7105084,,,n_6813394543,shop=beauty
+"El Verano, CA",,retail,446120,Ulta Beauty,"361 Coddingtown Center, Santa Rosa, CA, 95401",+1 707-710-9413,https://www.ulta.com/stores/santa-rosa-ca-1290,38.4581757,-122.73094,,,n_6814805597,"shop=beauty, brand=Ulta Beauty"
+"El Verano, CA",,retail,445310,Vezer Family Vineyard,"5071 Suisun Valley Road, Fairfield, CA, 94534",707 422 8025,https://www.vezerfamilyvineyard.com/,38.2942743,-122.1209711,,,n_6907745577,shop=wine
+"El Verano, CA",,retail,445310,Vezer Family Vineyard,"2522 Mankas Corner Road, Fairfield, CA, 94534",+1 707 429 3958,https://www.vezerfamilyvineyard.com/,38.2860808,-122.1076244,,,n_6907745578,shop=wine
+"El Verano, CA",,retail,445310,Rock Creek Vineyard,"4610 Green Valley Road, Fairfield, CA, 94534",+1 707 864 2471,https://rockcreekvineyard.com/,38.2680937,-122.1634895,,,n_6907745579,shop=wine
+"El Verano, CA",,retail,445310,GV Cellars,"1635 Mason Road, Fairfield, CA, 94534",+1 707 864 2089,https://www.gvcellars.com/,38.2429011,-122.1689571,,,n_6907745580,shop=wine
+"El Verano, CA",,retail,445310,Galvan Family Cellars,"499 Edison Court, Fairfield, CA, 94534",+1 707 864 3606,http://www.galvanwine.com/,38.2054258,-122.1421686,,,n_6907745581,shop=wine
+"El Verano, CA",,retail,445310,Wooden Valley Winery,"4756 Suisun Valley Road, Fairfield, CA, 94534",+1 707 864 0730,https://www.woodenvalley.com/,38.2768146,-122.1131887,,,n_6907753793,shop=wine
+"El Verano, CA",,retail,445310,Tolenas Vineyards and Winery,"4185 Chadbourne Road, Fairfield, CA, 94534",+1 707 372 1434,https://www.tolenaswinery.com/,38.2451215,-122.0845856,,,n_6907753794,shop=wine
+"El Verano, CA",,retail,445310,Tenbrink Vineyards,"4185 Chadbourne Road, Fairfield, CA, 94534",+1 707 480 7334,http://www.tenbrinkvineyards.com,38.2451794,-122.0845856,,,n_6907753795,shop=wine
+"El Verano, CA",,retail,445310,Suisun Valley Filling Station,"2529 Mankas Corner Road, Fairfield, CA, 94534",+1 707 863 1555,https://www.suisunvalleyfillingstation.com/,38.2861334,-122.1066977,,,n_6907753796,shop=wine
+"El Verano, CA",,retail,445310,Suisun Creek Winery,"2434 Morrison Lane, Fairfield, CA, 94534",+1 805 704 2822,https://www.suisuncreekwinery.com/,38.2664553,-122.1147531,,,n_6907753797,shop=wine
+"El Verano, CA",,retail,445310,Seven Artisans Winery,"4341 Abernathy Road, Fairfield, CA, 94534",+1 707 771 0911,https://www.sevenartisanswinery.com/,38.2541305,-122.092761,,,n_6907753798,shop=wine
+"El Verano, CA",,retail,445310,Mangels Vineyards,"4529 Suisun Valley Road, Fairfield, CA, 94534",+1 707 410 5392,https://www.mangelsvineyards.com,38.2648727,-122.1138619,,,n_6907753799,shop=wine
+"El Verano, CA",,retail,445310,BackRoad Vines,"2323 Julian Lane, Fairfield, CA, 94534",707 759 0185,https://backroadvines.com/,38.2869513,-122.1206398,,,n_6907753800,shop=wine
+"El Verano, CA",,retail,445310,BackRoad Vines,"2221 Julian Lane, Fairfield, CA, 94534",707 759 0185,https://backroadvines.com/,38.2862239,-122.1287133,,,n_6907753801,shop=wine
+"El Verano, CA",,retail,445292,See's Candies,,,,38.4576946,-122.7304637,,,n_6940020986,"shop=confectionery, brand=See's Candies"
+"El Verano, CA",,retail,446120,Bath & Body Works,,,,38.457653,-122.7306383,,,n_6940021044,"shop=cosmetics, brand=Bath & Body Works"
+"El Verano, CA",,retail,445310,,,,,38.4377178,-122.768967,,,n_6953057487,shop=alcohol
+"El Verano, CA",,retail,445120,Speedway Express,,,https://www.speedway.com/locations/CA/Santa-Rosa/300-College-Ave,38.4454569,-122.722199,,,n_6967913831,"shop=convenience, brand=Speedway"
+"El Verano, CA",,retail,446120,Eyebrow Hub,,,,38.2809368,-122.2902997,,,n_7012409218,shop=beauty
+"El Verano, CA",,retail,453991,Cigarettes & More,,,,38.2809428,-122.2903589,,,n_7012409219,shop=tobacco
+"El Verano, CA",,retail,445120,,,,,38.5261012,-122.7868821,,,n_7012806520,shop=convenience
+"El Verano, CA",,retail,445120,Speedway,,,https://www.speedway.com/locations/CA/Petaluma/2601-Lakeville-Hwy,38.2340394,-122.6039407,,,n_7012927627,"shop=convenience, brand=Speedway"
+"El Verano, CA",,retail,445120,Loop,,,,38.3219283,-122.3025118,,,n_7015452107,shop=convenience
+"El Verano, CA",,retail,445120,Speedway,"603 Lincoln Avenue, Napa, CA, 94558",,https://www.speedway.com/locations/CA/Napa/603-LINCOLN-AVE,38.3098215,-122.2824686,,,n_7015459768,"shop=convenience, brand=Speedway"
+"El Verano, CA",,retail,446120,Terrace Day Spa,,,,38.2973352,-122.2697397,,,n_7015867104,shop=beauty
+"El Verano, CA",,retail,446120,,,,,38.3193962,-122.2982954,,,n_7016076621,shop=beauty
+"El Verano, CA",,retail,445310,Benovia Winery,,,,38.4774865,-122.7977057,,,n_7025044486,shop=wine
+"El Verano, CA",,retail,446120,Ulta Beauty,"147 Plaza Drive, Vallejo, CA, 94591",+1 707-644-4262,https://web.facebook.com/Ulta-Beauty-1760767710890300/,38.1346119,-122.2191807,,,n_7060534515,"shop=cosmetics, brand=Ulta Beauty"
+"El Verano, CA",,retail,446120,Eyebrow Hub,,,,38.2573165,-122.6507615,,,n_7111736478,shop=beauty
+"El Verano, CA",,retail,452210,Saks Fifth Avenue,,,,38.2576823,-122.6504459,,,n_7111736481,"shop=department_store, brand=Saks Fifth Avenue"
+"El Verano, CA",,retail,445310,far niente,,,,38.4257786,-122.4031476,,,n_7146807587,shop=wine
+"El Verano, CA",,retail,445120,ExtraMile,,,,38.1844865,-122.2542366,,,n_7147570778,"shop=convenience, brand=ExtraMile"
+"El Verano, CA",,retail,445310,Louis martini vinery,,,,38.4913162,-122.4523637,,,n_7148119485,shop=wine
+"El Verano, CA",,retail,445310,Buena Vista Winery,,,,38.2995389,-122.4218914,,,n_7215682787,shop=wine
+"El Verano, CA",,retail,445120,Chevron,,,,38.0072626,-122.5446529,,,n_7237642908,"shop=convenience, brand=Chevron"
+"El Verano, CA",,retail,445120,Shell,,,,38.0068073,-122.543841,,,n_7237642910,"shop=convenience, brand=Shell"
+"El Verano, CA",,retail,445120,,,,,37.960432,-122.5041521,,,n_7237645758,shop=convenience
+"El Verano, CA",,retail,445120,,,,,37.9774095,-122.5623995,,,n_7237665295,shop=convenience
+"El Verano, CA",,retail,445120,Chevron,,,,37.9955953,-122.5345179,,,n_7240950633,"shop=convenience, brand=Chevron"
+"El Verano, CA",,retail,445120,Chevron,,,,37.9713035,-122.5192923,,,n_7240980688,"shop=convenience, brand=Chevron"
+"El Verano, CA",,retail,445120,7-Eleven,"1208 Tennessee Street, Vallejo, CA, 94590-4624",+1 707-552-0307,https://www.7-eleven.com/locations/ca/vallejo/1208-tennessee-st-16729,38.1101943,-122.242552,,,n_7264190757,"shop=convenience, brand=7-Eleven"
+"El Verano, CA",,retail,453110,,,,,38.2496351,-122.0618915,,,n_7281575694,shop=florist
+"El Verano, CA",,retail,445120,,,,,38.2497386,-122.0564051,,,n_7281575707,shop=convenience
+"El Verano, CA",,retail,445120,,,,,38.1407984,-122.2312029,,,n_7285402563,shop=convenience
+"El Verano, CA",,retail,445120,,,,,38.1238192,-122.227318,,,n_7287005431,shop=convenience
+"El Verano, CA",,retail,445120,ExtraMile,,,,38.1229576,-122.2523132,,,n_7289205531,"shop=convenience, brand=ExtraMile"
+"El Verano, CA",,retail,445120,,,,,38.1111598,-122.5696334,,,n_7292605189,shop=convenience
+"El Verano, CA",,retail,445110,Oliver's Market,560 Montecito Boulevard,,,38.4748102,-122.6734976,,,n_7335765567,shop=supermarket
+"El Verano, CA",,retail,446120,Avalon Nails,,,,38.4636558,-122.7180447,,,n_7420054355,shop=beauty
+"El Verano, CA",,retail,445120,,,,,38.445571,-122.75185,,,n_7621320906,shop=convenience
+"El Verano, CA",,retail,445110,Grocery Outlet,,,,38.3472765,-122.7108445,,,n_7654719029,"shop=supermarket, brand=Grocery Outlet"
+"El Verano, CA",,retail,446120,Touch Lash & Body Studio,,,,38.4399996,-122.7153289,,,n_7698063580,shop=beauty
+"El Verano, CA",,retail,446120,Todays Nails,511 4th Street,,,38.4400141,-122.7152913,,,n_7698063582,shop=beauty
+"El Verano, CA",,retail,445110,Pacific Market,"550 Gravenstein Highway North, 95472",,,38.4056261,-122.8380252,,,n_7755160085,shop=supermarket
+"El Verano, CA",,retail,445310,MD Liquor & Food,500 A Mission Boulevard,,,38.4597551,-122.674992,,,n_7775976321,shop=alcohol
+"El Verano, CA",,retail,453991,Underground Smoke Shop,,,,38.4597316,-122.7335641,,,n_7995465834,shop=tobacco
+"El Verano, CA",,retail,446120,Super Nails II,,,,38.4598079,-122.7332858,,,n_7995530967,shop=beauty
+"El Verano, CA",,retail,446120,Shear Vision,,,,38.4597938,-122.7335031,,,n_7995580618,shop=beauty
+"El Verano, CA",,retail,445110,Marinwood Market,,,,38.0326369,-122.5389255,,,n_8109278669,shop=supermarket
+"El Verano, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/santa-rosa-ca-pharmacies/950-coddingtown-center-santa-rosa-ca-95401/storeid=17646,38.4567116,-122.730168,,,n_8196850361,"shop=chemist, brand=CVS Pharmacy, operator=Target"
+"El Verano, CA",,retail,446120,,,,,38.2495811,-122.0443908,,,n_8203897850,shop=beauty
+"El Verano, CA",,retail,445110,Penzeys Spices,Farmers Lane,,,38.4432908,-122.6866812,,,n_8244013280,shop=supermarket
+"El Verano, CA",,retail,452210,Ross,"800 Farmer's Lane, Santa Rosa, CA, 95405",+1 707-575-1690,,38.443027,-122.686389,,,n_8244013286,"shop=department_store, brand=Ross"
+"El Verano, CA",,retail,446120,MeSpa,728 Farmers Lane,,,38.4434064,-122.6867407,,,n_8244013301,shop=beauty
+"El Verano, CA",,retail,445292,See's Candies,,,,38.4442593,-122.686792,,,n_8244038062,"shop=confectionery, brand=See's Candies"
+"El Verano, CA",,retail,446120,Silvia's Beauty Salon,,,,38.4307279,-122.7277569,,,n_8279815721,shop=beauty
+"El Verano, CA",,retail,452319,Rancho Nicasio General Store,,,,38.0622276,-122.698437,,,n_8329546040,shop=general
+"El Verano, CA",,retail,446120,Star Salon & Spa,"566 East Cotati Avenue, Cotati",,,38.3282562,-122.6975075,,,n_8358762176,shop=beauty
+"El Verano, CA",,retail,445110,Safeway,"950 Las Gallinas Avenue, San Rafael, CA, 94903",+1 415-479-6111,https://local.safeway.com/safeway/ca/san-rafael/950-las-gallinas-ave.html,38.0085575,-122.548221,,,n_8366092942,"shop=supermarket, brand=Safeway"
+"El Verano, CA",,retail,445310,Wine & Spirits,,,,38.0080952,-122.5476615,,,n_8366092963,shop=alcohol
+"El Verano, CA",,retail,446120,Hand and Stone,,,,38.0080494,-122.54759,,,n_8366092966,shop=beauty
+"El Verano, CA",,retail,452319,Dollar Tree,"3080 Marlow Road, Santa Rosa, 95403",,https://www.dollartree.com/locations/ca/santa-rosa/5851/,38.4660948,-122.7498018,,,n_8413857643,"shop=variety_store, brand=Dollar Tree"
+"El Verano, CA",,retail,446110,Rite Aid,"1551 Farmers Lane, Santa Rosa, 95405",,,38.4341348,-122.6901526,,,n_8413866565,"shop=chemist, brand=Rite Aid"
+"El Verano, CA",,retail,445120,7-Eleven,"2700 Yulupa Avenue, Santa Rosa, 95405",,,38.4282789,-122.6678583,,,n_8413868206,"shop=convenience, brand=7-Eleven"
+"El Verano, CA",,retail,445310,Cannadale,"4036 Montgomery Drive, Santa Rosa, 95405",,,38.4531924,-122.6727003,,,n_8413869635,shop=beverages
+"El Verano, CA",,retail,446110,CVS Pharmacy,"2700 Yulupa Avenue, Santa Rosa, 95405",,,38.4273201,-122.6671219,,,n_8413902288,"shop=chemist, brand=CVS Pharmacy"
+"El Verano, CA",,retail,446120,Twyla & Co.,"606 5th Street, Santa Rosa, 95404",,,38.4411621,-122.714077,,,n_8413917003,shop=beauty
+"El Verano, CA",,retail,452319,Dollar Tree,"2747 Yulupa Avenue, Santa Rosa, 95405",,,38.4265501,-122.6687231,,,n_8413935453,"shop=variety_store, brand=Dollar Tree"
+"El Verano, CA",,retail,446120,Nails 4 U,"467 Stony Point Road, Santa Rosa, 95401",,,38.4335219,-122.7437097,,,n_8413936527,shop=beauty
+"El Verano, CA",,retail,445110,Asian Food Market,"3080 Marlow Road, Santa Rosa, 95403",+1 707-540-0499,,38.4662021,-122.7497212,,,n_8413939021,shop=supermarket
+"El Verano, CA",,retail,445120,Ochoa's Mexican Restaurant,"3080 Marlow Road, Santa Rosa, 95403",+1 707-575-1728,,38.4660146,-122.7499014,,,n_8413939022,"shop=convenience, amenity=restaurant"
+"El Verano, CA",,retail,446120,My Lovely Nails,"3080 Marlow Road, Santa Rosa, 95403",+1 707-569-8846,,38.4660153,-122.7499565,,,n_8413939078,shop=beauty
+"El Verano, CA",,retail,446120,Blue Polish,"608 5th Street, Santa Rosa, 95404",,,38.4411829,-122.71402,,,n_8413946937,shop=beauty
+"El Verano, CA",,retail,445310,Wally's Liquor & Deli,"3088 Marlow Road, Santa Rosa, 95403",,,38.4668771,-122.7501873,,,n_8413949252,"shop=alcohol, brand=BevMo!"
+"El Verano, CA",,retail,453110,Northgate Florist,,,,38.0188478,-122.5378253,,,n_8421888438,shop=florist
+"El Verano, CA",,retail,445310,G Liquors,1910 Sir Francis Drake Boulevard,+1-415-459-2040,https://g-liquor-wine.business.site/,37.987432,-122.588411,,,n_8481756554,shop=alcohol
+"El Verano, CA",,retail,445310,Russian river vinery,,,,38.4660532,-122.8837633,,,n_8594362117,shop=wine
+"El Verano, CA",,retail,452210,Big Lots,"1551 Sycamore Avenue, Hercules, CA, 94547",+1 510-245-0103,https://local.biglots.com/ca/hercules/1551-sycamore-ave,38.0109549,-122.2702652,,,n_8855191146,"shop=department_store, brand=Big Lots"
+"El Verano, CA",,retail,445120,Tower Market,,,,38.1823183,-122.137753,,,n_8887777728,shop=convenience
+"El Verano, CA",,retail,445110,Andy's Sun Valley Market,"2202 5th Avenue, San Rafael, CA, 94901",+14154565731,https://www.andyslocalmarket.com/,37.9821747,-122.5477545,,,n_8955947961,shop=supermarket
+"El Verano, CA",,retail,445120,Food Mart,,,,38.2396197,-122.6341828,,,n_9029645417,shop=convenience
+"El Verano, CA",,retail,452319,McCormick's Mercantile,,,,38.3639007,-122.524279,,,n_9082649252,shop=variety_store
+"El Verano, CA",,retail,445310,Talisman Wines Tasting Room,,,,38.3636326,-122.5242891,,,n_9082649253,shop=wine
+"El Verano, CA",,retail,446120,,,,,38.3067186,-122.3028103,,,n_9147158059,shop=beauty
+"El Verano, CA",,retail,446120,Eyebrow Hub,"173 Admiral Callaghan Lane;Plaza Drive, 94591",7079174053,https://www.americasbest.com/,38.1329049,-122.221272,,,n_9147329296,shop=beauty
+"El Verano, CA",,retail,445310,Long Meadow Ranch General Store,,,,38.5011657,-122.4633139,,,n_9178837116,shop=wine
+"El Verano, CA",,retail,445120,Speedway,"2601 El Portal Drive, San Pablo, CA, 94806",+1 510 233 2962,https://www.speedway.com/locations/CA/San-Pablo/2601-ROAD-20,37.9635712,-122.3383759,,,n_9181521455,"shop=convenience, brand=Speedway"
+"El Verano, CA",,retail,445120,Speedway,"500 Appian Way, El Sobrante, CA, 94803",,,37.9793013,-122.2955481,,,n_9181546719,"shop=convenience, brand=Speedway"
+"El Verano, CA",,retail,446110,Rite Aid,"60 Solano Square, Benicia, CA, 94510",707-746-0229,https://www.riteaid.com/locations/ca/benicia/60-solano-square.html,38.0545825,-122.1552593,,,n_9258688693,"shop=chemist, brand=Rite Aid, operator=Riteaid"
+"El Verano, CA",,retail,445110,Grocery Outlet,,,,38.2593539,-122.0351753,,,n_9326692009,"shop=supermarket, brand=Grocery Outlet"
+"El Verano, CA",,retail,445110,Smart & Final,,,,38.2751985,-122.0359625,,,n_9326694355,"shop=supermarket, brand=Smart & Final"
+"El Verano, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/fairfield-ca-pharmacies/300-travis-blvd-fairfield-ca-94533/storeid=9371,38.2591854,-122.0360819,,,n_9326697705,"shop=chemist, amenity=pharmacy, brand=CVS Pharmacy"
+"El Verano, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/fairfield-ca-pharmacies/300-travis-blvd-fairfield-ca-94533/storeid=9371,38.2591032,-122.0360363,,,n_9326697706,"shop=chemist, brand=CVS Pharmacy"
+"El Verano, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/fairfield/2341/,38.2737372,-122.0358619,,,n_9326717041,"shop=variety_store, brand=Dollar Tree"
+"El Verano, CA",,retail,446120,JWskin Electrolysis,"1000 5th Avenue, San Rafael, CA, 94901",+ 1 (415) 260-2149,https://jwskin.com,37.9741904,-122.5270209,,,n_9357443875,shop=beauty
+"El Verano, CA",,retail,445120,ExtraMile,,,,38.325101,-122.286067,,,n_9395814795,"shop=convenience, brand=ExtraMile"
+"El Verano, CA",,retail,452319,99 Cents Only Stores,,+17075538509,https://locations.99only.com/ca/vallejo/discount-store-232.html,38.1046184,-122.2158894,,,n_9461916668,"shop=variety_store, brand=99 Cents Only Stores"
+"El Verano, CA",,retail,446110,Walgreens,,+17075575974,https://www.walgreens.com/locator/walgreens-2647+springs+rd-vallejo-ca-94591/id=2575,38.1054648,-122.2072295,,,n_9461916813,"shop=chemist, brand=Walgreens"
+"El Verano, CA",,retail,445120,7-Eleven,"2580 Springs Road, Vallejo, CA, 94591-5613",+1 707-648-3058,https://www.7-eleven.com/locations/ca/vallejo/2580-springs-rd-14148,38.1062455,-122.2094593,,,n_9461916827,"shop=convenience, brand=7-Eleven"
+"El Verano, CA",,retail,445120,Safeway Convenience Store,,,,38.0133434,-122.2728024,,,n_9550280845,shop=convenience
+"El Verano, CA",,retail,445120,,,,,38.0040963,-122.3045128,,,n_9571508928,shop=convenience
+"El Verano, CA",,retail,445120,ExtraMile,"Fairfield, CA, 94534",,,38.2214121,-122.1296851,,,n_9610159598,"shop=convenience, brand=ExtraMile"
+"El Verano, CA",,retail,445120,Loop,,,,38.138718,-122.2556192,,,n_9727895570,shop=convenience
+"El Verano, CA",,retail,446120,Maintain Youth,,,,38.3004472,-122.2936219,,,n_9760704117,shop=beauty
+"El Verano, CA",,retail,445110,Lucky,,,,38.2454624,-122.6431783,,,n_9776991701,"shop=supermarket, brand=Lucky, operator=Lucky Stores"
+"El Verano, CA",,retail,446120,Proud Brow,"156 East Napa Street, Sonoma, CA, 95476",+1 707-690-7610,https://www.proudbrow.com,38.2918806,-122.455389,,,n_9803290431,shop=beauty
+"El Verano, CA",,retail,445110,Spice 4 Less,"1349 Oliver Road, 94534",,,38.256579,-122.0681602,,,n_9869339317,shop=supermarket
+"El Verano, CA",,retail,453110,Sister,"931 1st Street, 94510",,https://www.dolfloral.com/,38.052083,-122.1571002,,,n_9875701917,shop=florist
+"El Verano, CA",,retail,445230,Sepay Groves,"364 1st Street, 94510",707-434-8222,https://sepayoliveoil.com,38.0469426,-122.1603856,,,n_9875720717,shop=greengrocer
+"El Verano, CA",,retail,453110,,,,,38.1061468,-122.2182775,,,n_9877085851,shop=florist
+"El Verano, CA",,retail,446120,PowerMD,"206 Bon Air Center, Greenbrae, CA, 94904",+1 415 785 7995,https://www.powermd.com,37.9460366,-122.5251793,,,n_9903825668,shop=beauty
+"El Verano, CA",,retail,446120,Jenny's Nail & Hair Salon,,,,38.3462077,-122.7106664,,,n_9950241305,shop=beauty
+"El Verano, CA",,retail,453110,Atrellis,,,,38.5480814,-122.8158,,,n_9953513043,shop=florist
+"El Verano, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/rohnert-park-ca-pharmacies/6378-commerce-blvd-rohnert-park-ca-94928/storeid=9928,38.3463171,-122.708544,,,n_9953621785,"shop=chemist, brand=CVS Pharmacy"
+"El Verano, CA",,retail,445110,Grocery Outlet,,,,38.3198916,-122.3107833,,,n_9960511440,"shop=supermarket, brand=Grocery Outlet"
+"El Verano, CA",,retail,445120,7-Eleven,"985 Lincoln Avenue, Napa, CA, 94558-5059",+1 707-226-7168,https://www.7-eleven.com/locations/ca/napa/985-lincoln-ave-18813,38.3086155,-122.2927376,,,n_9966877629,"shop=convenience, brand=7-Eleven"
+"El Verano, CA",,retail,445310,,,,,38.3096344,-122.2862891,,,n_9966877632,shop=alcohol
+"El Verano, CA",,retail,445110,Lola’s Market,,,,38.2883254,-122.3094774,,,n_9966907834,shop=supermarket
+"El Verano, CA",,retail,445120,Circle K,,,,38.2497877,-122.0528601,,,n_10062517905,"shop=convenience, brand=Circle K"
+"El Verano, CA",,retail,445110,Safeway,"701 Sonoma Mountain Parkway, Petaluma, CA, 94954",+1 707-765-1198,https://local.safeway.com/safeway/ca/petaluma/701-sonoma-mountain-pkwy.html,38.2697049,-122.6389113,,,n_10091245942,"shop=supermarket, brand=Safeway"
+"El Verano, CA",,retail,445310,,,,,38.4886223,-122.4487035,,,n_10110630180,shop=wine
+"El Verano, CA",,retail,453110,Morning Glory Florist,"1721 Grant Ave, Novato, CA, 94945",+1 415-897-8964,https://morninggloryflorist.com,38.1081539,-122.579623,,,n_10242200705,"shop=florist, operator=Purushottam Pandey"
+"El Verano, CA",,retail,452210,TJ Maxx,"588 Francisco Boulevard West, San Rafael, CA, 94901",,,37.9635533,-122.5142157,,,n_10268093842,"shop=department_store, brand=TJ Maxx"
+"El Verano, CA",,retail,445310,Smith-Madrone Winery,"4022 Spring Mountain Road, 94574",,,38.531392,-122.5563546,,,n_10272389009,shop=wine
+"El Verano, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/petaluma-ca-pharmacies/291-n-mcdowell-blvd-petaluma-ca-94954/storeid=9163,38.2511618,-122.631316,,,n_10617038992,"shop=chemist, amenity=pharmacy, brand=CVS Pharmacy"
+"El Verano, CA",,retail,445230,Jupiter Foods,,,,38.2342401,-122.6401464,,,n_10617075322,shop=greengrocer
+"El Verano, CA",,retail,445120,7-Eleven,"2255 Tennessee Street, Vallejo, CA, 94591",+1 707-561-0940,https://www.7-eleven.com/locations/ca/vallejo/2255-tennessee-st-39058,38.1091881,-122.2278529,,,n_10698712447,"shop=convenience, brand=7-Eleven"
+"El Verano, CA",,retail,445310,Vintner's Collective,"1245 Main Street, Napa, CA, 94559",,,38.3010916,-122.2872434,,,n_10760283653,shop=wine
+"El Verano, CA",,retail,446120,Ulta Beauty,"1216 Fitzgerald Drive, Pinole, CA, 94564",+1 510-262-9541,https://www.ulta.com/stores/pinole-ca-1051,37.984986,-122.3131905,,,n_10858725621,"shop=beauty, brand=Ulta Beauty"
+"El Verano, CA",,retail,445310,BevMo!,,,,37.9848923,-122.3129864,,,n_10858725622,"shop=alcohol, brand=BevMo!"
+"El Verano, CA",,retail,452210,TJ Maxx,,,,37.9847074,-122.3126969,,,n_10858725623,"shop=department_store, brand=TJ Maxx"
+"El Verano, CA",,retail,452210,Burlington,"1350 Fitzgerald Drive, Pinole, CA, 94564",+1 510-669-0159,https://stores.burlington.com/ca/pinole/769,37.9856921,-122.3113471,,,n_10858725625,"shop=department_store, brand=Burlington"
+"El Verano, CA",,retail,445110,FoodMaxx,,,,37.9866913,-122.310321,,,n_10858725629,"shop=supermarket, brand=FoodMaxx"
+"El Verano, CA",,retail,446110,Rite Aid,,,https://www.riteaid.com/locations/ca/hercules/1560-sycamore-avenue.html,38.0090501,-122.2721488,,,n_10859130297,"shop=chemist, brand=Rite Aid"
+"El Verano, CA",,retail,445120,Napa Valley Olive Oil Manufacturing Company,,,,38.5034401,-122.4610087,,,n_10896618175,shop=convenience
+"El Verano, CA",,retail,445292,Woodhouse,,,,38.5049669,-122.4700734,,,n_10896898683,shop=chocolate
+"El Verano, CA",,retail,445120,Oakville Grocery,,,,38.4373043,-122.4029791,,,n_10896929485,shop=convenience
+"El Verano, CA",,retail,445292,Kollar Chocolates,,,https://kollarchocolates.com/,38.4017064,-122.3621497,,,n_10897249378,shop=chocolate
+"El Verano, CA",,retail,446120,Ulta Beauty,"401 Kenilworth Drive, Petaluma, CA, 94952",+1 707-763-3074,https://www.ulta.com/stores/petaluma-ca-606,38.2447015,-122.6259691,,,n_10940414510,"shop=cosmetics, brand=Ulta Beauty"
+"El Verano, CA",,retail,445120,7-Eleven,"1925 Sierra Avenue, Napa, CA, 94558",+1 707-253-7046,https://www.7-eleven.com/locations/ca/napa/1925-sierra-ave-14129,38.3270796,-122.3128757,,,n_11014367260,"shop=convenience, brand=7-Eleven"
+"El Verano, CA",,retail,453991,San Rafael Smoke Shop,"2222 Fourth Street, San Rafael, CA, 94901",+1-415-459-9949,https://sanrafaelsmokeshopca.com,37.9766089,-122.550048,,,n_11081278891,shop=tobacco
+"El Verano, CA",,retail,446120,Relax Nails & Spa,,,,38.2637568,-122.0504066,,,n_11100437775,shop=beauty
+"El Verano, CA",,retail,446120,Pro Nails,762-A Admiral Callaghan Lane,,,38.1246775,-122.2267276,,,n_11147725086,"shop=beauty, brand=Pro Nails"
+"El Verano, CA",,retail,445210,The Fatted Calf,"644 1st Street, Napa, CA, 94559",+1-707-256-3684,https://fattedcalf.com/locations/napa-store,38.3014228,-122.2820141,,,n_11157745538,shop=butcher
+"El Verano, CA",,retail,445310,Oxbow Cheese & Wine,,+1-707-257-5200,https://www.oxbowwine.com/,38.301861,-122.2818274,,,n_11157745539,shop=wine
+"El Verano, CA",,retail,445310,Napa Valley Distillery,,,https://www.napadistillery.com,38.3016784,-122.2814762,,,n_11157745549,shop=alcohol
+"El Verano, CA",,retail,445120,Discount Cigarettes,,,,38.1338808,-122.2213862,,,n_11173253438,shop=convenience
+"El Verano, CA",,retail,446120,Deja Vu,"974 Gravenstein Highway S, Santa Rosa, CA, 95472",+1-707-824-8437,,38.3917824,-122.8180128,,,n_11280711501,shop=beauty
+"El Verano, CA",,retail,446120,Bellas Beauty Salon,,+1 707-528-3832,,38.4294059,-122.7287144,,,n_11294621599,shop=beauty
+"El Verano, CA",,retail,446120,,,,,38.0904365,-122.5550617,,,n_11296244957,shop=beauty
+"El Verano, CA",,retail,445110,Grocery Outlet,,,,37.9597203,-122.5080891,,,n_11296250849,"shop=supermarket, brand=Grocery Outlet"
+"El Verano, CA",,retail,445292,Steinhouse,631 4th Street,+1 707-852-4083,,38.4410389,-122.7131248,,,n_11298770862,shop=chocolate
+"El Verano, CA",,retail,445310,CS Liquor Mart,,,,38.4320672,-122.7426018,,,n_11298956343,shop=alcohol
+"El Verano, CA",,retail,446120,Perfect Nails,"795 Gravenstein Highway S, Sebastopol, CA, 95472",+1-707-824-8513,,38.3947775,-122.8182704,,,n_11308756581,shop=beauty
+"El Verano, CA",,retail,445120,M D Market,,,,38.4268071,-122.7406479,,,n_11319421474,shop=convenience
+"El Verano, CA",,retail,445120,Home Body Refill,144 Weeks Way,+1 707-861-9479,https://homebodyrefill.com/,38.4029067,-122.8242321,,,n_11320027240,shop=convenience
+"El Verano, CA",,retail,445110,168 Market,"765 Sereno Drive, Vallejo, CA, 94589",+1 707-339-8899,https://www.168markets.com/,38.1271105,-122.2533395,,,n_11329957256,shop=supermarket
+"El Verano, CA",,retail,445110,Smart & Final Extra!,,,https://smartandfinal.com/,38.1280402,-122.2564681,,,n_11330013076,"shop=supermarket, brand=Smart & Final"
+"El Verano, CA",,retail,445110,Whole Foods Market,"6910 McKinley Street, Sebastopol, CA, 95472",+1 707-829-9801,https://www.wholefoodsmarket.com/stores/sebastopol,38.4038177,-122.824025,,,n_11367874834,"shop=supermarket, brand=Whole Foods Market"
+"El Verano, CA",,retail,445110,Molsberry’s Market,,,,38.5016047,-122.7513416,,,n_11372187158,shop=supermarket
+"El Verano, CA",,retail,445120,Cotati Market,Old Redwood Highway,,,38.324961,-122.705201,,,n_11378580369,shop=convenience
+"El Verano, CA",,retail,446120,D'Best Nail Salon,"961 Gravenstein Highway, Sebastopol, CA, 95472",+1-707-827-6461,https://dbestnailspasebastopol.com/,38.391405,-122.8167497,,,n_11427800201,shop=beauty
+"El Verano, CA",,retail,445110,Food Barn,,,,38.127596,-122.2503036,,,n_11461014444,shop=supermarket
+"El Verano, CA",,retail,452210,Big Lots,"1500 Oliver Road, Fairfield, CA, 94534",+1 707-430-5085,https://local.biglots.com/ca/fairfield/1500-oliver-rd,38.2598541,-122.0682517,,,n_11474794997,"shop=department_store, brand=Big Lots"
+"El Verano, CA",,retail,452210,dd's Discounts,,,,38.2747048,-122.0356596,,,n_11548913634,"shop=department_store, brand=dd's Discounts"
+"El Verano, CA",,retail,452319,99 Cents Only Stores,,,,38.2749212,-122.0356527,,,n_11548913635,"shop=variety_store, brand=99 Cents Only Stores"
+"El Verano, CA",,retail,445120,ampm,,,,38.2711431,-122.0346619,,,n_11548913647,"shop=convenience, brand=ampm"
+"El Verano, CA",,retail,445310,Etude Winery,"1280 Cuttings Wharf Road, Napa, CA, 94559",+17072575782,https://www.etudewines.com/,38.2460939,-122.314712,,,n_11685818210,"shop=wine, operator=Etude Winery"
+"El Verano, CA",,retail,445310,Migration Winery,"1451 Stanly Lane, Napa, CA, 94559",,https://www.migrationwines.com,38.2445583,-122.293676,,,n_11686015337,"shop=wine, operator=Duckhorn Wine Company"
+"El Verano, CA",,retail,453110,Papillon Floral Design,"109 4th Street, Santa Rosa, CA, 95401",+17073037228,https://papillonfloral.com/,38.437696,-122.7204591,,,n_11693542635,shop=florist
+"El Verano, CA",,retail,445310,4th Street cellars,"127 4th Street, Santa Rosa, CA, 95401",+17078062779,http://4thstreetcellars.com/,38.4379377,-122.7198957,,,n_11693569610,shop=wine
+"El Verano, CA",,retail,445110,Bret Harte Super Grocery,,,,37.9629387,-122.5203578,,,n_11742852412,shop=supermarket
+"El Verano, CA",,retail,445120,Power Market,,,,38.2435996,-122.1227452,,,n_11776507190,shop=convenience
+"El Verano, CA",,retail,445292,Cartoon Candy Kitchen,,,,38.1384607,-122.2333444,,,n_11820323682,shop=confectionery
+"El Verano, CA",,retail,445292,Sonoma Chocolatiers,,+1 707-829-1181,,38.4035552,-122.8247668,,,n_11853262059,shop=chocolate
+"El Verano, CA",,retail,445110,Lucky,,,,38.3002767,-122.4766881,,,n_11863327449,"shop=supermarket, brand=Lucky"
+"El Verano, CA",,retail,445110,Grocery Outlet,,,,37.9616469,-122.3468963,,,n_11880170970,shop=supermarket
+"El Verano, CA",,retail,445310,Prohibido Wines,"1446 Industrial Avenue, Sebastopol, CA, 95472",,,38.3854064,-122.8113991,,,n_11892725368,shop=wine
+"El Verano, CA",,retail,445120,7-Eleven,"167 Pleasant Hill Avenue, Sebastopol, CA, 95472-4040",+1 707-823-2320,https://www.7-eleven.com/locations/ca/sebastopol/167-pleasant-hill-ave-16885,38.3992001,-122.8394065,,,n_12001843175,"shop=convenience, brand=7-Eleven"
+"El Verano, CA",,retail,445230,Jewels of the Forest,,,,38.3990911,-122.8390396,,,n_12001843192,shop=greengrocer
+"El Verano, CA",,retail,446120,Ulta Beauty,,,,38.091825,-122.5540104,,,n_12092605220,"shop=cosmetics, brand=Ulta Beauty"
+"El Verano, CA",,retail,446120,LaserAway,,,,38.0919377,-122.5541395,,,n_12092605221,"shop=beauty, brand=LaserAway"
+"El Verano, CA",,retail,446110,Walgreens,"15650 San Pablo Avenue, San Pablo, CA, 94806",,,37.9913948,-122.3315685,,,n_12109639059,"shop=chemist, brand=Walgreens"
+"El Verano, CA",,retail,445120,7-Eleven,,,,38.2329362,-122.6107612,,,n_12117681668,"shop=convenience, brand=7-Eleven"
+"El Verano, CA",,retail,445120,Lazzini's Market,,,,38.4314976,-122.6799256,,,n_12118885375,shop=convenience
+"El Verano, CA",,retail,446120,Julie's Nails,,,,38.0047616,-122.290562,,,n_12228367639,shop=beauty
+"El Verano, CA",,retail,445120,J & A Middle Eastern Goods,"8274 Old Redwood Highway, Cotati, CA, 94931",,,38.3246458,-122.7043852,,,n_12244927820,shop=convenience
+"El Verano, CA",,retail,453110,Flowers Not to Reason Why,,,https://www.pressdemocrat.com/article/news/benefield-why-this-former-hollywood-actor-now-sells-flowers-out-of-his-ca/,38.3268301,-122.7043877,,,n_12244992500,"shop=florist, operator=Michael Larrain"
+"El Verano, CA",,retail,445120,Dollar Tree,640 East Cotati Avenue,,,38.3288315,-122.6975122,,,n_12246421387,shop=convenience
+"El Verano, CA",,retail,445120,Martha's Market & Deli,,,,38.334198,-122.7388025,,,n_12272074076,shop=convenience
+"El Verano, CA",,retail,445110,Raley's,"3360 San Pablo Dam Road, San Pablo, CA, 94806",+1 510-222-5935,https://www.raleys.com/store/321,37.9618438,-122.3250715,,,n_12316321383,"shop=supermarket, brand=Raley's"
+"El Verano, CA",,retail,445110,Food 4 Less,,,,38.2635699,-122.0355155,,,n_12345229724,"shop=supermarket, brand=Food 4 Less"
+"El Verano, CA",,retail,445310,Bottle Barn,"3331-A Industrial Drive, Santa Rosa, CA, 95403",+17075281161,,38.4761855,-122.740476,,,n_12383975627,shop=alcohol
+"El Verano, CA",,retail,445310,Sips,94510,415-963-2292,https://sendsips.com/,38.0502693,-122.1580369,,,n_12470316701,shop=alcohol
+"El Verano, CA",,retail,446120,Gaia Nails,"834 Southampton Road, 94510",,,38.0658827,-122.1658659,,,n_12477123602,shop=beauty
+"El Verano, CA",,retail,445299,Valley Ford Cheese and Creamery,,,,38.3180281,-122.9240312,,,n_12481046927,shop=cheese
+"El Verano, CA",,retail,445120,Penngrove Market,,,,38.2964569,-122.6662294,,,n_12507513514,shop=convenience
+"El Verano, CA",,retail,445120,Come N Go,,,,38.1063967,-122.2171366,,,n_12517663646,shop=convenience
+"El Verano, CA",,retail,452319,Dollar Tree,,,,38.1051839,-122.2153017,,,n_12517678077,"shop=variety_store, brand=Dollar Tree"
+"El Verano, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/pinole/2869-pinole-valley-rd-14206,37.9936727,-122.2851102,,,n_12538748158,"shop=convenience, brand=7-Eleven"
+"El Verano, CA",,retail,452319,Dollar Tree,,,,37.9910743,-122.300574,,,n_12657704701,"shop=variety_store, brand=Dollar Tree"
+"El Verano, CA",,retail,453110,French Florist,"1270 Broadway, Sonoma, CA, 95476",+1-707-998-8995,https://www.frenchflorist.com/,38.2782432,-122.4595876,,,n_12800040120,shop=florist
+"El Verano, CA",,retail,446120,Lift Aesthetics,"1834 1st Street, Napa, CA, 94559",,https://liftaesthetics.com/,38.2977525,-122.294048,,,n_12849584447,shop=beauty
+"El Verano, CA",,retail,445110,,,,,37.9556283,-122.35733,,,n_12950509033,shop=supermarket
+"El Verano, CA",,retail,452319,Dollar Tree,,,,38.3488973,-122.7106302,,,n_12974462630,"shop=variety_store, brand=Dollar Tree"
+"El Verano, CA",,retail,446120,Calistoga Spa Hot Springs Spa,,,https://www.calistogaspa.com/,38.579026,-122.5770208,,,n_12999590139,shop=beauty
+"El Verano, CA",,retail,446120,,,,https://www.drwspa.com/,38.5804584,-122.5783538,,,n_12999590190,"shop=beauty, operator=Dr. Wilkinson's Backyard Resort & Mineral Springs"
+"El Verano, CA",,retail,446120,Mount View Hotel Spa,,,,38.5797228,-122.5791664,,,n_12999601131,shop=beauty
+"El Verano, CA",,retail,446120,The Face Place,"6914 Sebastopol Avenue, Sebastopol, CA, 95472",+1-707-823-7546,https://www.thefaceplaceskincare.com/,38.4026284,-122.8231818,,,n_13020155459,shop=beauty
+"El Verano, CA",,retail,445110,Lucky,"1761 Grant Avenue, 94945",1-415-897-4891,https://luckysupermarkets.com/stores/732,38.1087429,-122.5802735,,,n_13075467702,shop=supermarket
+"El Verano, CA",,retail,445110,Lucky,,,,38.0077732,-122.2703954,,,w_31963450,"shop=supermarket, brand=Lucky"
+"El Verano, CA",,retail,445110,Safeway,"709 Lincoln Road West, Vallejo, CA, 94590",+1 707-643-2172,https://local.safeway.com/safeway/ca/vallejo/709-lincoln-rd-w.html,38.0989849,-122.2305851,,,w_40167304,"shop=supermarket, brand=Safeway"
+"El Verano, CA",,retail,452210,Target,"904 Admiral Callaghan Lane, Vallejo, CA, 94591",(707) 642-0419,https://www.target.com/sl/vallejo/331,38.1317158,-122.2226158,,,w_59441205,"shop=department_store, brand=Target, operator=Target"
+"El Verano, CA",,retail,452210,Kohl's,"1190 Admiral Callaghan Lane, Vallejo, CA, 94591",+1 707-649-9851,https://www.kohls.com/stores/ca/vallejo-763.shtml,38.1346883,-122.2129307,,,w_59441210,"shop=department_store, brand=Kohl's"
+"El Verano, CA",,retail,445110,Whole Foods Market,"340 3rd Street, San Rafael, CA, 94901",+1 415-451-6333,https://www.wholefoodsmarket.com/stores/sanrafael,37.9713331,-122.5168325,,,w_68666009,"shop=supermarket, brand=Whole Foods Market"
+"El Verano, CA",,retail,445310,ingelnook,"Rutherford, CA, 94573",,,38.4544606,-122.4312088,,,w_79879635,shop=wine
+"El Verano, CA",,retail,445292,Jelly Belly Tours,"1 Jelly Belly Lane, Fairfield, CA, 94533",,,38.2387529,-122.0773555,,,w_80573879,shop=confectionery
+"El Verano, CA",,retail,445110,Safeway,"103 West American Canyon Road, American Canyon, CA, 94503",+1 707-649-5150,https://local.safeway.com/safeway/ca/american-canyon/103-american-canyon-rd.html,38.1646333,-122.2550806,,,w_91532996,"shop=supermarket, brand=Safeway"
+"El Verano, CA",,retail,445110,Walmart Supercenter,"7011 Main Street, American Canyon, CA, 94503",+1 707-557-4393,https://www.walmart.com/store/1651-american-canyon-ca,38.1830695,-122.252621,,,w_91533001,"shop=supermarket, brand=Walmart, operator=Walmart"
+"El Verano, CA",,retail,445110,United Markets,,,,37.9706233,-122.5198115,,,w_106211449,shop=supermarket
+"El Verano, CA",,retail,445310,Bevbox,,,,38.0952433,-122.2309712,,,w_106479433,"shop=alcohol, brand=Bevbox"
+"El Verano, CA",,retail,445120,Power Market,,,,38.093778,-122.2285912,,,w_106479476,shop=convenience
+"El Verano, CA",,retail,445310,Artesa Vineyards & Winery,"1345 Henry Road, Napa, CA, 94559",,,38.2690889,-122.3563396,,,w_117047467,shop=wine
+"El Verano, CA",,retail,445110,Trader Joe's,"2742 Pinole Valley Road, Pinole, CA, 94564",+1 510-222-3501,https://locations.traderjoes.com/ca/pinole/230/,37.9952633,-122.2868266,,,w_117316157,"shop=supermarket, brand=Trader Joe's"
+"El Verano, CA",,retail,445110,Grocery Outlet,"80 East Washington Street, Petaluma, CA, 94952",,,38.2362593,-122.6379414,,,w_124315742,"shop=supermarket, brand=Grocery Outlet"
+"El Verano, CA",,retail,445299,Marin French Cheese Company,,,https://marinfrenchcheese.com/,38.1376106,-122.7100083,,,w_130552643,shop=cheese
+"El Verano, CA",,retail,452210,Target,"475 Rohnert Park Expressway West, Rohnert Park, CA, 94928-7907",+1 707-586-2901,https://www.target.com/sl/rohnert-park/852,38.3462078,-122.720291,,,w_132296596,"shop=department_store, brand=Target"
+"El Verano, CA",,retail,445110,FoodMaxx,"605 Rohnert Park Expressway, Rohnert Park, CA, 94928",707-584-1200,,38.3483791,-122.7251194,,,w_132301661,"shop=supermarket, brand=FoodMaxx, operator=Save Mart Supermarkets"
+"El Verano, CA",,retail,445120,,"1440 East Washington Street, Petaluma, CA",,,38.2504519,-122.6241088,,,w_151324673,shop=convenience
+"El Verano, CA",,retail,445310,Silver Oak,,,,38.4404806,-122.3810141,,,w_158820938,shop=wine
+"El Verano, CA",,retail,445120,,,,,38.2738108,-122.6794888,,,w_162162134,shop=convenience
+"El Verano, CA",,retail,452210,Target,"4000 Bel Aire Plaza, Napa, CA, 94558-2835",+1 707-225-3016,https://www.target.com/sl/napa-north/1438,38.3224745,-122.3082177,,,w_165338469,"shop=department_store, brand=Target"
+"El Verano, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/benicia-ca-pharmacies/2100-columbus-pkwy-benicia-ca-94510/storeid=9761,38.0811494,-122.1928554,,,w_174866378,"shop=chemist, brand=CVS Pharmacy"
+"El Verano, CA",,retail,446110,Rite Aid,"2021 Solano Avenue, Vallejo, CA, 94590",7075521476,https://www.riteaid.com/locations/ca/vallejo/2021-solano-avenue.html,38.1043871,-122.2323031,,,w_175581278,"shop=chemist, brand=Rite Aid"
+"El Verano, CA",,retail,445120,Wagon Wheel Liquors,,,,38.1117246,-122.22893,,,w_175985862,shop=convenience
+"El Verano, CA",,retail,445110,Grocery Outlet,"66 Admiral Callaghan Lane, Vallejo, CA, 94591",,,38.1116334,-122.2280278,,,w_175985869,"shop=supermarket, brand=Grocery Outlet"
+"El Verano, CA",,retail,445110,Grocery Outlet,"401 Marin Street, 94590",7076487041,https://groceryoutlet.com/,38.0994804,-122.2574131,,,w_176087764,"shop=supermarket, brand=Grocery Outlet, operator=Grocery Outlet"
+"El Verano, CA",,retail,445110,Safeway,"9080 Brooks Road South, Windsor, CA, 95492",+1 707-837-2000,https://local.safeway.com/safeway/ca/windsor/9080-brooks-rd.html,38.5516719,-122.8062645,,,w_193849645,"shop=supermarket, brand=Safeway"
+"El Verano, CA",,retail,445110,Petaluma Market,CA,+1-707-762-5464,http://petalumamarket.com/,38.233873,-122.6430011,,,w_195463336,shop=supermarket
+"El Verano, CA",,retail,445120,,,,,38.3310164,-122.7146364,,,w_215919572,shop=convenience
+"El Verano, CA",,retail,445110,Walmart Neighborhood Market,"501 Sereno Drive, Vallejo, CA, 94589",+1 707-653-1058,https://www.walmart.com/store/5609-vallejo-ca,38.1264462,-122.2543758,,,w_223212124,"shop=supermarket, brand=Walmart, operator=Walmart"
+"El Verano, CA",,retail,445110,Safeway,"5051 Business Center Drive, Fairfield, CA, 94533",+1 707-863-4160,https://local.safeway.com/safeway/ca/fairfield/5051-business-ctr-dr.html,38.216955,-122.1411395,,,w_233927732,"shop=supermarket, brand=Safeway"
+"El Verano, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/fairfield-ca-pharmacies/5059-business-center-dr-fairfield-ca-94534/storeid=3075,38.2157201,-122.1413966,,,w_233927733,"shop=chemist, brand=CVS Pharmacy"
+"El Verano, CA",,retail,445110,Safeway,"774 Admiral Callaghan Lane, Vallejo, CA, 94591",+1 707-554-8035,https://local.safeway.com/safeway/ca/vallejo/774-admiral-callaghan-ln.html,38.1253891,-122.2265464,,,w_238540423,"shop=supermarket, brand=Safeway"
+"El Verano, CA",,retail,445110,Safeway,"122 Robles Way, Vallejo, CA, 94591",+1 707-554-4467,https://local.safeway.com/safeway/ca/vallejo/122-robles-dr.html,38.0845607,-122.2102407,,,w_238542978,"shop=supermarket, brand=Safeway"
+"El Verano, CA",,retail,445110,Safeway,"477 West Napa Street, Sonoma, CA, 95476",+1 707-996-0633,https://local.safeway.com/safeway/ca/sonoma/477-w-napa-st.html,38.2915817,-122.467579,,,w_239147331,"shop=supermarket, brand=Safeway"
+"El Verano, CA",,retail,445110,Safeway,"406 North Main Street, Sebastopol, CA, 95472",+1 707-823-1101,https://local.safeway.com/safeway/ca/sebastopol/406-n-main-st.html,38.4044502,-122.8271465,,,w_239147937,"shop=supermarket, brand=Safeway"
+"El Verano, CA",,retail,445110,Safeway,"1799 Marlow Road, Santa Rosa, CA, 95401",+1 707-528-3062,https://local.safeway.com/safeway/ca/santa-rosa/1799-marlow-rd.html,38.4520732,-122.7528834,,,w_239269692,"shop=supermarket, brand=Safeway"
+"El Verano, CA",,retail,445110,Safeway,"100 Calistoga Road, Santa Rosa, CA, 95409",+1 707-539-1711,https://local.safeway.com/safeway/ca/santa-rosa/100-calistoga-rd.html,38.4656455,-122.6516114,,,w_239269953,"shop=supermarket, brand=Safeway"
+"El Verano, CA",,retail,445110,Safeway,"2300 Mendocino Avenue, Santa Rosa, CA, 95403",+1 707-569-3100,https://local.safeway.com/safeway/ca/santa-rosa/2300-mendocino-ave.html,38.4636998,-122.7173554,,,w_239271710,"shop=supermarket, brand=Safeway"
+"El Verano, CA",,retail,445120,Safeway Convenience Store,"2200 Mendocino Avenue, CA",,,38.4615457,-122.7168011,,,w_239271717,shop=convenience
+"El Verano, CA",,retail,445110,Safeway,"2751 4th Street, Santa Rosa, CA, 95404",+1 707-522-1455,https://local.safeway.com/safeway/ca/santa-rosa/2751-4th-st.html,38.4509471,-122.6910553,,,w_239271868,"shop=supermarket, brand=Safeway"
+"El Verano, CA",,retail,445110,Safeway,"2785 Yulupa Avenue, Santa Rosa, CA, 95405",+1 707-524-4646,https://local.safeway.com/safeway/ca/santa-rosa/2785-yulupa-ave.html,38.4257579,-122.6685025,,,w_239272192,"shop=supermarket, brand=Safeway"
+"El Verano, CA",,retail,445110,Safeway,"700 B Street, San Rafael, CA, 94901",+1 415-456-1453,https://local.safeway.com/safeway/ca/san-rafael/700-b-st.html,37.9702712,-122.5291874,,,w_239392950,"shop=supermarket, brand=Safeway"
+"El Verano, CA",,retail,445110,Safeway,"838 Sir Francis Drake Boulevard, San Anselmo, CA, 94960",+1 415-456-9157,https://local.safeway.com/safeway/ca/san-anselmo/838-sir-francis-drake.html,37.9807013,-122.5641076,,,w_239960993,"shop=supermarket, brand=Safeway"
+"El Verano, CA",,retail,445110,Safeway,"1026 Hunt Avenue, Saint Helena, CA, 94574",+1 707-968-3620,https://local.safeway.com/safeway/ca/saint-helena/1026-hunt-ave.html,38.5059052,-122.468016,,,w_239963987,"shop=supermarket, brand=Safeway"
+"El Verano, CA",,retail,445110,Safeway,"6340 Commerce Boulevard, Rohnert Park, CA, 94928",+1 707-584-8942,https://local.safeway.com/safeway/ca/rohnert-park/6340-commerce-blvd.html,38.3475854,-122.7083897,,,w_240069022,"shop=supermarket, brand=Safeway"
+"El Verano, CA",,retail,445110,Safeway,"605 Parker Avenue, 94572",,,38.0296853,-122.2656415,,,w_240070072,"shop=supermarket, brand=Safeway"
+"El Verano, CA",,retail,445110,Safeway,"900 Diablo Avenue, Novato, CA, 94947",+1 415-898-1503,https://local.safeway.com/safeway/ca/novato/900-diablo-ave.html,38.1037513,-122.5716587,,,w_252233215,"shop=supermarket, brand=Safeway"
+"El Verano, CA",,retail,445110,Safeway,"5720 Nave Drive, Novato, CA, 94949",+1 415-881-9256,https://local.safeway.com/safeway/ca/novato/5720-nave-dr.html,38.0623303,-122.5320208,,,w_252234112,"shop=supermarket, brand=Safeway"
+"El Verano, CA",,retail,452210,Ross,"3331 Jefferson Street, Napa, CA, 94558",+1 707-258-2100,,38.3213504,-122.3011331,,,w_252236171,"shop=department_store, brand=Ross"
+"El Verano, CA",,retail,445110,Safeway,"3375 Jefferson Street, Napa, CA, 94558",+1 707-225-3037,https://local.safeway.com/safeway/ca/napa/3375-jefferson-st.html,38.3211507,-122.301819,,,w_252236175,"shop=supermarket, brand=Safeway"
+"El Verano, CA",,retail,452210,Target,"2059 Cadenasso Drive, Fairfield, CA, 94533",+1 707-426-1105,https://www.target.com/sl/fairfield/675,38.2464498,-122.068839,,,w_252833854,"shop=department_store, brand=Target"
+"El Verano, CA",,retail,452210,Cost Plus World Market,,,,38.2622859,-122.0581626,,,w_252835343,shop=department_store
+"El Verano, CA",,retail,445110,Walmart Supercenter,"2701 North Texas Street, Fairfield, CA, 94533",+1 707-428-4792,https://www.walmart.com/store/2048-fairfield-ca,38.2791081,-122.0353714,,,w_252835625,"shop=supermarket, brand=Walmart, operator=Walmart"
+"El Verano, CA",,retail,445110,Raley's,,,,38.2887554,-122.0327513,,,w_252836950,"shop=supermarket, brand=Raley's"
+"El Verano, CA",,retail,445110,Safeway,"2401 Waterman Boulevard, Fairfield, CA, 94533",+1 707-427-5640,https://local.safeway.com/safeway/ca/fairfield/2401-waterman-dr.html,38.2716298,-122.0529763,,,w_253285341,"shop=supermarket, brand=Safeway"
+"El Verano, CA",,retail,446120,Cheveux Salon,"156 East Napa Street, Sonoma, CA, 95476",+1 (707) 935-0322,https://cheveuxsalonsonoma.com/,38.2918893,-122.4553947,,,w_274867029,shop=beauty
+"El Verano, CA",,retail,446120,Nails by Elaina,"566 1st Street West, Sonoma, CA, 95476",+1 (707) 996-6717,,38.2908829,-122.4589852,,,w_274894772,shop=beauty
+"El Verano, CA",,retail,445310,Walt Wines,"380 1st Street West, Sonoma, CA, 95476",+1-707-933-4440,https://www.waltwines.com/,38.2943037,-122.4582859,,,w_281888638,shop=alcohol
+"El Verano, CA",,retail,445310,Sojourn Cellars,"141 East Napa Street, Sonoma, CA, 95476",+1 (707) 938-7212,http://sojourncellars.com,38.2914569,-122.455721,,,w_281910269,shop=alcohol
+"El Verano, CA",,retail,445310,Roche Winery,"122 West Spain Street, Sonoma, CA, 95476",+1 (707) 935-7115,https://www.rochewinery.com/,38.2940476,-122.4591055,,,w_281910675,shop=alcohol
+"El Verano, CA",,retail,445310,R2 Wine Company,"654 Broadway, Sonoma, CA, 95476",+1 (707) 933-1330,http://r2winecompany.com,38.2891334,-122.4579686,,,w_281968522,shop=alcohol
+"El Verano, CA",,retail,445110,Trader Joe's,"169 North McDowell Boulevard, Petaluma, CA, 94954",+1 707-769-2782,https://locations.traderjoes.com/ca/petaluma/107/,38.2488022,-122.6294005,,,w_281971263,"shop=supermarket, brand=Trader Joe's"
+"El Verano, CA",,retail,445120,Food Mart,,,,38.2987283,-122.4759349,,,w_282925147,shop=convenience
+"El Verano, CA",,retail,445310,Clos du Val Winery,"5330 Silverado Trail, Napa, CA, 94558",,,38.3880182,-122.3129076,,,w_283009806,shop=wine
+"El Verano, CA",,retail,445310,Wilibees Wines & Spirits,"309 Lakeville Street, Petaluma, CA, 94952",,https://wilibees.com/,38.2370421,-122.6333983,,,w_283538784,shop=alcohol
+"El Verano, CA",,retail,445110,Palace Market,"11300 Shoreline Highway, 94956",+1 415 663 1016,https://palacemarket.com/,38.0685327,-122.8060008,,,w_284068422,shop=supermarket
+"El Verano, CA",,retail,446120,Kristin Maze Salon,"337 West Napa Street, Sonoma, CA, 95476",+1 (707) 938-4648,http://kristinmazesalon.com,38.2923376,-122.4644129,,,w_284469624,shop=beauty
+"El Verano, CA",,retail,446120,Pierrette’s of Sonoma,"688 Broadway, Sonoma, CA, 95476",+1 (707) 939-3551,http://pierrettesofsonoma.com,38.2885989,-122.4580471,,,w_284553899,shop=beauty
+"El Verano, CA",,retail,452319,Toby's Feed Barn,11250 Shoreline Highway,+14156631223,http://www.tobysfeedbarn.com/,38.0680397,-122.8053123,,,w_287207097,shop=general
+"El Verano, CA",,retail,445310,Clos Pegase,,,,38.572358,-122.555396,,,w_288264134,shop=wine
+"El Verano, CA",,retail,445110,Cal Mart,"1491 Lincoln Avenue, Calistoga, CA, 94515",(707) 942-6271,https://calmartnv.com/,38.5803144,-122.5790064,,,w_288264957,shop=supermarket
+"El Verano, CA",,retail,445120,Arco,,,,38.5808792,-122.5961949,,,w_288672033,shop=convenience
+"El Verano, CA",,retail,446120,Indian Springs Spa,,,,38.581817,-122.5749,,,w_288675819,"shop=beauty, operator=Indian Springs Resort and Spa"
+"El Verano, CA",,retail,445120,Valley Ford Market,"14400 Valley Ford Road, CA",,https://www.facebook.com/Valley-Ford-Market-113950725333267/timeline/,38.3183298,-122.924628,,,w_311573034,shop=convenience
+"El Verano, CA",,retail,445120,,,,,38.154264,-122.2543856,,,w_317150994,shop=convenience
+"El Verano, CA",,retail,445110,Browns Valley Market;Brown's Valley Market/Meat,"3263 Browns Valley Road, Napa, CA, 94558",(707) 253-1873;+011 (707) 253-1873,https://www.brownsvalleymeat.com/,38.3043017,-122.3296116,,,w_324607234,shop=supermarket
+"El Verano, CA",,retail,446110,Rite Aid,,,https://www.riteaid.com/locations/ca/san-rafael/1500-northgate-mall.html,38.0053144,-122.5425238,,,w_330380049,"shop=chemist, brand=Rite Aid"
+"El Verano, CA",,retail,445120,,"101 North McDowell Boulevard, Petaluma, CA",,,38.2491697,-122.6266567,,,w_330700935,shop=convenience
+"El Verano, CA",,retail,445120,ExtraMile,,,,38.2812148,-122.2747543,,,w_348383463,"shop=convenience, brand=ExtraMile"
+"El Verano, CA",,retail,445120,7-Eleven,"1704 East Cotati Avenue, Rohnert Park, CA, 94928",,https://www.7-eleven.com/locations/ca/rohnert-park/1704-e-cotati-ave-33389,38.3354795,-122.6764229,,,w_362165776,"shop=convenience, brand=7-Eleven"
+"El Verano, CA",,retail,452319,Dollar Tree,"3060 Travis Boulevard, Fairfield, CA, 94534",,https://www.dollartree.com/locations/ca/fairfield/5973/,38.2595715,-122.0668031,,,w_374980109,"shop=variety_store, brand=Dollar Tree"
+"El Verano, CA",,retail,445120,,,,,38.2587958,-122.065533,,,w_374980114,shop=convenience
+"El Verano, CA",,retail,445120,ExtraMile,"2990 Travis Boulevard, CA",,,38.258707,-122.0645123,,,w_374980130,"shop=convenience, brand=ExtraMile"
+"El Verano, CA",,retail,445120,Flying A,,,,38.4546361,-122.6719755,,,w_375039966,shop=convenience
+"El Verano, CA",,retail,452210,Walmart,"4625 Redwood Drive, Rohnert Park, CA, 94928",+1 707-586-3717,https://www.walmart.com/store/1755-rohnert-park-ca,38.3674602,-122.7164254,,,w_375827044,"shop=department_store, brand=Walmart, operator=Walmart"
+"El Verano, CA",,retail,445310,Cline Cellars,,,https://clinecellars.com/,38.2139291,-122.4578322,,,w_380187072,shop=wine
+"El Verano, CA",,retail,445120,Kenwood Super Gas,"8850 Sonoma Highway, Kenwood, CA, 95452",+1-707-833-1121,,38.4203395,-122.5526389,,,w_381407922,shop=convenience
+"El Verano, CA",,retail,452210,Target,"1980 Santa Rosa Avenue, Santa Rosa, CA, 95407",+1 707-575-0665,https://www.target.com/sl/santa-rosa-south/937,38.4171928,-122.7088847,,,w_383762842,"shop=department_store, brand=Target"
+"El Verano, CA",,retail,452210,Marshalls,"1966 Santa Rosa Avenue, CA",,,38.4185228,-122.7092257,,,w_383762844,"shop=department_store, brand=Marshalls"
+"El Verano, CA",,retail,445310,BevMo!,,,,38.4173226,-122.7115676,,,w_383771713,"shop=alcohol, brand=BevMo!"
+"El Verano, CA",,retail,445110,Trader Joe's,"2100 Santa Rosa Avenue, Santa Rosa, CA, 95407",+1 707-535-0788,https://locations.traderjoes.com/ca/santa-rosa/178/,38.4174898,-122.7120042,,,w_383771714,"shop=supermarket, brand=Trader Joe's"
+"El Verano, CA",,retail,446120,Ulta Beauty,"2080 Kawana Springs Road, Santa Rosa, CA, 95407",+1 707-542-1042,https://www.ulta.com/stores/santa-rosa-ca-433,38.4177715,-122.7113208,,,w_383771718,"shop=cosmetics, brand=Ulta Beauty"
+"El Verano, CA",,retail,445310,Santa Rosa Food & Liquor,,,,38.4214249,-122.7131052,,,w_383772259,shop=alcohol
+"El Verano, CA",,retail,445120,Valero,,,,38.0065609,-122.544106,,,w_394588028,"shop=convenience, brand=Valero"
+"El Verano, CA",,retail,445120,,,,,38.0069565,-122.5449757,,,w_394588034,shop=convenience
+"El Verano, CA",,retail,446120,,,,,37.9571105,-122.5490492,,,w_399681604,shop=beauty
+"El Verano, CA",,retail,445120,7-Eleven,"703 B Street, San Rafael, CA, 94901-3807",+1 415-457-3455,https://www.7-eleven.com/locations/ca/san-rafael/703-b-st-14139,37.9705592,-122.5302932,,,w_402943780,"shop=convenience, brand=7-Eleven"
+"El Verano, CA",,retail,445120,Corner Mart,,,,38.1006523,-122.2418749,,,w_403542799,shop=convenience
+"El Verano, CA",,retail,445110,Sunshine Foods,"1115 Main Street, St. Helena, CA, 94574",707-963-7070,https://www.sunshinefoodsmarket.com/,38.502723,-122.4676863,,,w_419633525,shop=supermarket
+"El Verano, CA",,retail,445120,,,,,38.4454909,-122.7293236,,,w_419873674,shop=convenience
+"El Verano, CA",,retail,446120,,,,,38.2965458,-122.2872227,,,w_421698360,shop=beauty
+"El Verano, CA",,retail,445299,Nicasio Valley Cheese Company,5300 Nicasio Valley Road,,https://nicasiocheese.com/,38.0658859,-122.702055,,,w_422719498,shop=cheese
+"El Verano, CA",,retail,445230,Andy's Produce Market,"1691 Gravenstein Highway North, Sebastopol, CA, 95472",+17078238661,https://andysproduce.com/,38.4210284,-122.845502,,,w_424475197,shop=greengrocer
+"El Verano, CA",,retail,445110,Good Earth Natural Foods,,,,37.9862728,-122.5832156,,,w_430389365,shop=supermarket
+"El Verano, CA",,retail,445120,Diekmann's General Store,CA,,,38.246436,-122.9051989,,,w_451682598,shop=convenience
+"El Verano, CA",,retail,445120,Asia Mart,"2481 Guerneville Road, Santa Rosa, CA, 95403",,,38.4529354,-122.7685606,,,w_453443178,shop=convenience
+"El Verano, CA",,retail,445120,ampm,,,,38.4521177,-122.7703345,,,w_453443188,"shop=convenience, brand=ampm"
+"El Verano, CA",,retail,445110,Raley's,"8852 Lakewood Drive, 95492",,,38.5488993,-122.8047768,,,w_455247969,"shop=supermarket, brand=Raley's"
+"El Verano, CA",,retail,445120,Alco's Famous Market Deli & Bakery,,,,38.0674314,-122.5391317,,,w_456527337,shop=convenience
+"El Verano, CA",,retail,445110,Lucky,,,,38.4702767,-122.7197228,,,w_461489097,"shop=supermarket, brand=Lucky"
+"El Verano, CA",,retail,445110,Glen Ellen Village Market,Glen Ellen,,,38.3622252,-122.525472,,,w_462437504,shop=supermarket
+"El Verano, CA",,retail,446110,Walgreens,"Trancas Street, Napa, CA",707-257-1154,https://www.walgreens.com/locator/walgreens-1685+trancas+st-napa-ca-94558/id=11822,38.321551,-122.3053891,,,w_463715635,"shop=chemist, brand=Walgreens"
+"El Verano, CA",,retail,445110,Raley's,"217 Soscol Avenue, Napa, CA, 94559",(707) 224-7897,https://www.raleys.com/stores/raleys-soscol-napa-california/,38.2835215,-122.2776254,,,w_463914691,"shop=supermarket, brand=Raley's"
+"El Verano, CA",,retail,452210,Target,"205 Soscol Avenue, Napa, CA, 94559",+1 707-224-1058,https://www.target.com/sl/napa/1026,38.2822009,-122.2775837,,,w_463914693,"shop=department_store, brand=Target"
+"El Verano, CA",,retail,445310,Val’s,,,,38.2815609,-122.2738664,,,w_463914695,shop=alcohol
+"El Verano, CA",,retail,445110,Cardenas,"330 Bellam Boulevard, San Rafael, CA, 94901",+1-415-578-3971,,37.9613234,-122.5000115,,,w_464683137,"shop=supermarket, brand=Cardenas"
+"El Verano, CA",,retail,445110,Lucky,"2355 California Blvd, Napa, CA, 94558",(707) 256-3407,https://luckysupermarkets.com/stores/730,38.3058596,-122.3033721,,,w_466311895,"shop=supermarket, brand=Lucky"
+"El Verano, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/napa/5987/,38.320296,-122.298486,,,w_466311901,"shop=variety_store, brand=Dollar Tree"
+"El Verano, CA",,retail,445120,Speedway,,,https://www.speedway.com/locations/CA/Napa/1300-Trancas-St,38.3230344,-122.3008568,,,w_466427171,"shop=convenience, brand=Speedway"
+"El Verano, CA",,retail,446110,Rite Aid,,,https://www.riteaid.com/locations/ca/napa/1203-west-imola-avenue.html,38.2813744,-122.2898885,,,w_466822193,"shop=chemist, brand=Rite Aid"
+"El Verano, CA",,retail,445120,,,,,38.2813865,-122.2932104,,,w_466822199,shop=convenience
+"El Verano, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/napa-ca-pharmacies/291-s-coombs-st-napa-ca-94559/storeid=7141,38.2822084,-122.2895391,,,w_466822205,"shop=chemist, brand=CVS Pharmacy"
+"El Verano, CA",,retail,445110,Walmart Supercenter,"681 Lincoln Avenue, Napa, CA, 94558",+1 707-224-8797,https://www.walmart.com/store/2925-napa-ca,38.3090089,-122.2832863,,,w_467338277,"shop=supermarket, brand=Walmart, operator=Walmart"
+"El Verano, CA",,retail,445120,ExtraMile,,,,38.3098858,-122.2846993,,,w_467480221,"shop=convenience, brand=ExtraMile"
+"El Verano, CA",,retail,445120,Fairview Market & Deli,"1017 Coombsville Road, Napa, CA, 94558",,,38.2972439,-122.2691966,,,w_467711691,shop=convenience
+"El Verano, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/napa-ca-pharmacies/675-trancas-st-napa-ca-94558/storeid=1804,38.3238121,-122.2876098,,,w_469515171,"shop=chemist, brand=CVS Pharmacy"
+"El Verano, CA",,retail,445120,7-Eleven,"1670 Silverado Trail, Napa, CA, 94559-1412",+1 707-255-5110,https://www.7-eleven.com/locations/ca/napa/1670-silverado-trail-14131,38.3109907,-122.276053,,,w_469516118,"shop=convenience, brand=7-Eleven"
+"El Verano, CA",,retail,445110,Food Barn,,,,37.9595365,-122.3573805,,,w_479032667,shop=supermarket
+"El Verano, CA",,retail,445120,,,,,37.9455752,-122.5212912,,,w_513824740,shop=convenience
+"El Verano, CA",,retail,452210,Target,"125 Shoreline Parkway, San Rafael, CA, 94901",+1 415-299-6112,https://www.target.com/sl/san-rafael/2772,37.9554477,-122.4913164,,,w_516103958,"shop=department_store, brand=Target, operator=Target"
+"El Verano, CA",,retail,445120,Loop,2085 Novato Boulevard,,,38.1117331,-122.5934556,,,w_530134499,shop=convenience
+"El Verano, CA",,retail,446120,Pure Skin,"420 College Avenue, CA",,,38.4455241,-122.7196773,,,w_544656803,shop=beauty
+"El Verano, CA",,retail,445310,Wilibees,"700 3rd Street, CA",,,38.4403607,-122.7113023,,,w_545103164,shop=alcohol
+"El Verano, CA",,retail,445120,,,,,38.1108257,-122.5683396,,,w_549965158,shop=convenience
+"El Verano, CA",,retail,445110,Trader Joe's,"7514 Redwood Boulevard, Novato, CA, 94945",+1 415-898-9359,https://locations.traderjoes.com/ca/novato/198/,38.1117888,-122.5679215,,,w_549965159,"shop=supermarket, brand=Trader Joe's"
+"El Verano, CA",,retail,445120,,,,,38.3207058,-122.3096453,,,w_550180914,shop=convenience
+"El Verano, CA",,retail,445120,,,,,38.4379983,-122.7259885,,,w_565716118,shop=convenience
+"El Verano, CA",,retail,445110,Oliver's Market,"9230 Old Redwood Highway, Windsor, CA, 95492",(707) 687-2050,https://www.oliversmarket.com/store/windsor/,38.5491717,-122.8112678,,,w_566904684,"shop=supermarket, operator=Oliver's Market"
+"El Verano, CA",,retail,446110,CVS Pharmacy,"1193 Admiral Callaghan Lane, Vallejo, CA, 94591",,https://www.cvs.com/store-locator/vallejo-ca-pharmacies/1193-admiral-callaghan-lane-vallejo-ca-94591/storeid=9927,38.1368029,-122.2142112,,,w_567961769,"shop=chemist, brand=CVS Pharmacy"
+"El Verano, CA",,retail,445120,9th St Market,,,,38.441904,-122.7237611,,,w_568852355,shop=convenience
+"El Verano, CA",,retail,445120,FairWest Grocery,,,,38.2308875,-122.6495691,,,w_574272647,shop=convenience
+"El Verano, CA",,retail,445120,,"4691 Bodega Avenue, Petaluma, CA",,,38.2542555,-122.7036143,,,w_577617426,shop=convenience
+"El Verano, CA",,retail,445120,Food Mart,,,,37.9739705,-122.5401614,,,w_585777682,shop=convenience
+"El Verano, CA",,retail,445120,Valero,,,,37.9706898,-122.5186613,,,w_585777703,"shop=convenience, brand=Valero"
+"El Verano, CA",,retail,445120,ExtraMile,,,,37.9711267,-122.5181848,,,w_585777709,"shop=convenience, brand=ExtraMile"
+"El Verano, CA",,retail,446110,CVS Pharmacy,"6877 Sebastopol Avenue, Sebastopol, CA, 95472",,https://www.cvs.com/store-locator/sebastopol-ca-pharmacies/6877-sebastopol-ave-sebastopol-ca-95472/storeid=9872,38.4020441,-122.8223487,,,w_586437025,"shop=chemist, brand=CVS Pharmacy"
+"El Verano, CA",,retail,445110,Grocery Outlet,,,,38.4444694,-122.7039683,,,w_613968207,"shop=supermarket, brand=Grocery Outlet"
+"El Verano, CA",,retail,445110,Sprouts Farmers Market,"655 Irwin Street, San Rafael, CA, 94901",+1 415-524-1159,https://www.sprouts.com/store/ca/san-rafael/irwin-st/,37.9686971,-122.5231615,,,w_616957560,"shop=supermarket, brand=Sprouts Farmers Market"
+"El Verano, CA",,retail,453110,Grohe Florist,,,,38.4528387,-122.7042382,,,w_624276970,shop=florist
+"El Verano, CA",,retail,452210,Kohl's,"1116 1st Street, Napa, CA, 94559",+1 707-226-2109,https://www.kohls.com/stores/ca/napa-1371.shtml,38.2994212,-122.2869801,,,w_626734127,"shop=department_store, brand=Kohl's"
+"El Verano, CA",,retail,453991,Bargain city gifts and smoke,"1831 Guerneville Road, Santa Rosa, CA, 95403",,,38.4528677,-122.7505081,,,w_631617449,shop=tobacco
+"El Verano, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/santa-rosa/1950-guerneville-rd-35353,38.4520533,-122.7507078,,,w_631617485,"shop=convenience, brand=7-Eleven"
+"El Verano, CA",,retail,445120,Circle K,,,,38.23519,-122.2635308,,,w_634348887,"shop=convenience, brand=Circle K"
+"El Verano, CA",,retail,445120,Valero,,,,38.458931,-122.6754993,,,w_637961679,"shop=convenience, brand=Valero"
+"El Verano, CA",,retail,452210,Coast Guard Exchange,"599 Tomales Road, Petaluma, CA",,https://shopcgx.com/store-locations.html,38.2491136,-122.7962323,,,w_638301568,"shop=department_store, operator=Coast Guard Exchange System"
+"El Verano, CA",,retail,445230,,,,,38.4291609,-122.7110487,,,w_653671254,shop=greengrocer
+"El Verano, CA",,retail,446120,Beauty Connection Plus,,,,38.4196685,-122.7138639,,,w_653671304,"shop=beauty, brand=Ulta Beauty"
+"El Verano, CA",,retail,446120,,"2560 Mendocino Avenue, CA",,,38.465801,-122.719172,,,w_655791573,shop=beauty
+"El Verano, CA",,retail,445310,The Rhine House,"2000 Main Street, CA",,,38.5101146,-122.4799031,,,w_665716395,shop=wine
+"El Verano, CA",,retail,445120,7-Eleven,"18011 Railroad Avenue, El Verano, CA, 95476-4225",+1 707-996-3344,https://www.7-eleven.com/locations/ca/sonoma/18000-railroad-ave-14140,38.3117574,-122.4917546,,,w_671179598,"shop=convenience, brand=7-Eleven"
+"El Verano, CA",,retail,445120,ExtraMile,,,,38.2931222,-122.0331637,,,w_679418170,"shop=convenience, brand=ExtraMile"
+"El Verano, CA",,retail,446110,CVS Pharmacy,"3340 North Texas Street, Fairfield, CA, 94533",,https://www.cvs.com/store-locator/cvs-pharmacy-address/3340+North+Texas+Street-Fairfield-CA-94533/storeid=9712,38.2914405,-122.0333667,,,w_679418174,"shop=chemist, brand=CVS Pharmacy"
+"El Verano, CA",,retail,445120,ampm,,,,38.29471,-122.0323908,,,w_679418176,"shop=convenience, brand=ampm"
+"El Verano, CA",,retail,445110,Walmart Neighborhood Market,"901 Golf Course Drive, Rohnert Park, CA, 94928",+1 707-540-9303,https://www.walmart.com/store/2468-rohnert-park-ca,38.3614308,-122.6926046,,,w_685884968,"shop=supermarket, brand=Walmart Neighborhood Market, operator=Walmart"
+"El Verano, CA",,retail,452210,Walmart,"6650 Hembree Lane, Windsor, CA, 95492",+1 707-836-7200,https://www.walmart.com/store/2553-windsor-ca,38.5287128,-122.7901715,,,w_688064714,"shop=department_store, brand=Walmart, operator=Walmart"
+"El Verano, CA",,retail,452210,Ross,"1300 Gateway Boulevard, Fairfield, CA, 94533",+1 707-399-8425,,38.263007,-122.0505619,,,w_689052619,"shop=department_store, brand=Ross"
+"El Verano, CA",,retail,445110,Fircrest Market,"998 Gravenstein Highway, Sebastopol, CA",823-9171,,38.3907121,-122.817251,,,w_691908409,"shop=supermarket, operator=Fircrest Market, Inc"
+"El Verano, CA",,retail,446110,Rite Aid,"218 North Main Street, Sebastopol, CA",,https://www.riteaid.com/locations/ca/sebastopol/218-north-main-street.html,38.4033658,-122.8260125,,,w_691923987,"shop=chemist, brand=Rite Aid"
+"El Verano, CA",,retail,446110,Rite Aid,"910 Diablo Avenue, Novato, CA, 94947",,https://locations.riteaid.com/locations/ca/novato/910-diablo-avenue.html,38.1028651,-122.5721158,,,w_692054378,"shop=chemist, brand=Rite Aid"
+"El Verano, CA",,retail,446120,Beauty Nails,,,,38.1021145,-122.5714344,,,w_692054393,shop=beauty
+"El Verano, CA",,retail,453991,Speciality Tobacco Outlet,,,,38.1020686,-122.5714713,,,w_692054394,shop=tobacco
+"El Verano, CA",,retail,445120,Chevron,"701 Mendocino Avenue, CA",,,38.4461098,-122.7183534,,,w_692359096,"shop=convenience, brand=Chevron"
+"El Verano, CA",,retail,452210,Big Lots,"2055 Mendocino Avenue, Santa Rosa, CA, 95401",+1 707-523-1720,https://local.biglots.com/ca/santa-rosa/2055-mendocino-ave,38.4596258,-122.718438,,,w_692359223,"shop=department_store, brand=Big Lots"
+"El Verano, CA",,retail,445210,Golden Gate Meat Company North,,,,38.427318,-122.7141912,,,w_693686560,shop=butcher
+"El Verano, CA",,retail,445110,Trader Joe's,"3225 Cleveland Avenue, Santa Rosa, CA, 95403",+1 707-525-1406,https://locations.traderjoes.com/ca/santa-rosa/75/,38.4735338,-122.7322846,,,w_697053159,"shop=supermarket, brand=Trader Joe's"
+"El Verano, CA",,retail,445310,,,,,38.2953694,-122.2888359,,,w_698093671,shop=alcohol
+"El Verano, CA",,retail,445110,College Market,,,,38.5708438,-122.4436039,,,w_699523292,"shop=supermarket, operator=Howell Mountain Enterprises"
+"El Verano, CA",,retail,445110,Whole Foods Market,"621 East Washington Street, Petaluma, CA, 94952",+1 707-762-9352,https://www.wholefoodsmarket.com/stores/petaluma,38.241263,-122.6346391,,,w_704223446,"shop=supermarket, brand=Whole Foods Market"
+"El Verano, CA",,retail,445120,Chevron,"9120 Old Redwood Highway, Windsor, CA",,,38.5484109,-122.8104587,,,w_704441357,"shop=convenience, brand=Chevron"
+"El Verano, CA",,retail,445120,Shell,,,,38.4528333,-122.7521619,,,w_720095247,"shop=convenience, brand=Shell"
+"El Verano, CA",,retail,452210,Marshalls,,,,38.0895863,-122.5525497,,,w_721067074,"shop=department_store, brand=Marshalls"
+"El Verano, CA",,retail,452210,Target,"200 Vintage Way, Novato, CA, 94945-5005",+1 415-892-3313,https://www.target.com/sl/novato/692,38.0903126,-122.55295,,,w_721067075,"shop=department_store, brand=Target"
+"El Verano, CA",,retail,452210,Ross,"104 Vintage Way, Novato, CA, 94945",+1 415-898-6466,,38.0913414,-122.5536135,,,w_721067077,"shop=department_store, brand=Ross"
+"El Verano, CA",,retail,452210,Sports Basement,,,,38.092597,-122.5547792,,,w_721067081,shop=department_store
+"El Verano, CA",,retail,445120,Redwood Market,,,,38.4528659,-122.7506843,,,w_722992797,shop=convenience
+"El Verano, CA",,retail,445110,Lola's Supermarket,,,,38.4311238,-122.7245014,,,w_735374053,shop=supermarket
+"El Verano, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/santa-rosa/370-sebastopol-rd-39331,38.4303854,-122.7248459,,,w_735374055,"shop=convenience, brand=7-Eleven"
+"El Verano, CA",,retail,445120,Chevron,,,,38.4290666,-122.7410507,,,w_735374097,"shop=convenience, brand=Chevron"
+"El Verano, CA",,retail,453110,Valencia Florist,"955 Stony Point Road, Santa Rosa, CA, 95407",+1-707-575-8474,,38.4266297,-122.7416787,,,w_735374106,shop=florist
+"El Verano, CA",,retail,445110,,,,,38.4296145,-122.7276246,,,w_735387831,shop=supermarket
+"El Verano, CA",,retail,445120,,,,,38.2515574,-122.069997,,,w_741037006,shop=convenience
+"El Verano, CA",,retail,445110,Smart & Final Extra!,,,,38.2532407,-122.6377968,,,w_742236149,"shop=supermarket, brand=Smart & Final"
+"El Verano, CA",,retail,445120,Stop n Save,,,,38.4200307,-122.768624,,,w_742747788,shop=convenience
+"El Verano, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-210+american+canyon+rd-american+canyon-ca-94503/id=11365,38.164963,-122.2517605,,,w_765266506,"shop=chemist, brand=Walgreens"
+"El Verano, CA",,retail,445120,7-Eleven,"218 American Canyon Road, American Canyon, CA, 94503",+1 707-557-1302,https://www.7-eleven.com/locations/ca/american-canyon/218-american-canyon-rd-35704,38.1651659,-122.2507093,,,w_765266507,"shop=convenience, brand=7-Eleven"
+"El Verano, CA",,retail,445120,,"275 Aviation Boulevard, Santa Rosa, CA",,,38.5107069,-122.7803502,,,w_765866716,shop=convenience
+"El Verano, CA",,retail,452210,Kohl's,"3746 Airway Drive, Santa Rosa, CA, 95403",+1 707-566-9880,https://www.kohls.com/stores/ca/santarosa-980.shtml,38.4808959,-122.7375323,,,w_766089390,"shop=department_store, brand=Kohl's"
+"El Verano, CA",,retail,445310,Gary's Wine and Marketplace,,+1 707 5317660,https://garyswine.com/pages/garys-napa-valley,38.4887485,-122.4505325,,,w_766414075,shop=alcohol
+"El Verano, CA",,retail,445120,ExtraMile,,,,38.5056581,-122.4702323,,,w_766794121,"shop=convenience, brand=ExtraMile"
+"El Verano, CA",,retail,445120,Sam's Market,"1500 Humboldt Street, Santa Rosa, CA, 95404",,,38.4548609,-122.714197,,,w_774897576,shop=convenience
+"El Verano, CA",,retail,446110,Walgreens,"820 Sir Francis Drake Blvd., 94960",,,37.9796876,-122.5642922,,,w_775824759,"shop=chemist, brand=Walgreens"
+"El Verano, CA",,retail,446110,CVS Pharmacy,,,,37.9712845,-122.5191226,,,w_776069621,"shop=chemist, brand=CVS Pharmacy"
+"El Verano, CA",,retail,445120,C Market,,,,38.4615388,-122.714783,,,w_777207307,shop=convenience
+"El Verano, CA",,retail,445120,Circle K,,,,38.2496814,-122.0604527,,,w_779804856,"shop=convenience, brand=Circle K"
+"El Verano, CA",,retail,445120,Benton Market,"801 Benton Street, Santa Rosa, CA, 95404",,,38.4479024,-122.7131925,,,w_780096590,shop=convenience
+"El Verano, CA",,retail,446110,Walgreens,"Redwood Street, 94590",,https://www.walgreens.com/locator/walgreens-1050+redwood+st-vallejo-ca-94590/id=3171,38.1231528,-122.2501776,,,w_780579571,"shop=chemist, brand=Walgreens"
+"El Verano, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/novato/4393/,38.1020313,-122.5710552,,,w_781352590,"shop=variety_store, brand=Dollar Tree"
+"El Verano, CA",,retail,445110,Oliver's Market,"461 Stony Point Road, Santa Rosa, CA, 95401",707-284-3530,https://www.oliversmarket.com/,38.4325706,-122.7439287,,,w_782531858,"shop=supermarket, operator=Oliver's Market"
+"El Verano, CA",,retail,445110,FoodMaxx,"2055 Sebastopol Road, Santa Rosa, CA, 95407",,,38.4273247,-122.7436085,,,w_782888806,"shop=supermarket, brand=FoodMaxx"
+"El Verano, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/santa-rosa/2162/,38.4279533,-122.7436819,,,w_782888807,"shop=variety_store, brand=Dollar Tree"
+"El Verano, CA",,retail,452210,Ross,"2015 Sebastopol Road, Santa Rosa, CA, 95407-6787",+1 707-546-6123,,38.4283608,-122.7437803,,,w_782888808,"shop=department_store, brand=Ross"
+"El Verano, CA",,retail,452210,Big Lots,"565 Rohnert Park Expressway, Rohnert Park, CA, 94928",+1 707-206-9770,https://local.biglots.com/ca/rohnert-park/565-rohnert-park-expressway,38.3466556,-122.7234081,,,w_784083452,"shop=department_store, brand=Big Lots"
+"El Verano, CA",,retail,452319,Dollar Tree,,,https://locations.dollartree.com/ca/rohnert-park/415-rohnert-park-expy-w,38.346468,-122.7190679,,,w_784084058,"shop=variety_store, brand=99 Cents Only Stores"
+"El Verano, CA",,retail,452210,Burlington,,,,38.3464955,-122.7181323,,,w_784084059,"shop=department_store, brand=Burlington"
+"El Verano, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/santa-rosa-ca-pharmacies/463-stony-point-rd-santa-rosa-ca-95401/storeid=9946,38.4330495,-122.7440169,,,w_784304818,"shop=chemist, brand=CVS Pharmacy"
+"El Verano, CA",,retail,445110,,"1583 Sebastopol Road, Santa Rosa, CA, 95407",,,38.4280008,-122.7372327,,,w_796747827,shop=supermarket
+"El Verano, CA",,retail,445120,Food Mart,"9033 Old Redwood Highway, Windsor, CA, 95492",707-836-8255,,38.547727,-122.8106628,,,w_812794038,shop=convenience
+"El Verano, CA",,retail,445120,7-Eleven,"5300 Old Redwood Highway, Petaluma, CA, 94954-1165",+1 707-795-7117,https://www.7-eleven.com/locations/ca/petaluma/5300-old-redwood-hwy-24323,38.2757459,-122.6686019,,,w_815580999,"shop=convenience, brand=7-Eleven"
+"El Verano, CA",,retail,445120,Circle K,,,,38.4762887,-122.7333821,,,w_824511816,"shop=convenience, brand=Circle K"
+"El Verano, CA",,retail,445120,Valero,,,,38.4349002,-122.6869607,,,w_854048069,"shop=convenience, brand=Valero"
+"El Verano, CA",,retail,445110,La Morenita 2,"17400 Sonoma Highway, Sonoma, CA, 95476",+1-707-935-7450,,38.3194845,-122.4860795,,,w_859096191,shop=supermarket
+"El Verano, CA",,retail,445310,BR Cohn Winery,"15000 Sonoma Highway, Glen Ellen, CA",,,38.3493718,-122.5017308,,,w_860897445,shop=wine
+"El Verano, CA",,retail,445110,Glen Ellen Grocery,"13710 Arnold Drive, Glen Ellen, CA",,,38.3630607,-122.5247571,,,w_860910164,shop=supermarket
+"El Verano, CA",,retail,445120,,,,,37.9384537,-122.5149715,,,w_904575206,shop=convenience
+"El Verano, CA",,retail,446120,Lush,,,,38.4394114,-122.7161809,,,w_904932722,"shop=cosmetics, brand=Lush"
+"El Verano, CA",,retail,446120,Sephora,,,,38.4392968,-122.7160963,,,w_904932723,"shop=cosmetics, brand=Sephora"
+"El Verano, CA",,retail,446120,Perfumes Unlimited,,,,38.4391126,-122.7162436,,,w_904932730,shop=perfumery
+"El Verano, CA",,retail,446120,Bath & Body Works,,,,38.4385899,-122.7166711,,,w_904932757,"shop=cosmetics, brand=Bath & Body Works"
+"El Verano, CA",,retail,445292,Rocky Mountain Chocolate Factory,,,,38.4391083,-122.7167974,,,w_904932766,"shop=confectionery, brand=Rocky Mountain Chocolate Factory"
+"El Verano, CA",,retail,445120,Mall Market,,,,38.4391745,-122.7167164,,,w_904932767,shop=convenience
+"El Verano, CA",,retail,446120,bareMinerals,,,,38.4391285,-122.716701,,,w_904932768,"shop=cosmetics, brand=bareMinerals"
+"El Verano, CA",,retail,452210,Macy's,,,https://www.macys.com/stores/ca/santarosa/santa-rosa-plaza_325.html,38.4405259,-122.7170466,,,w_904932788,"shop=department_store, brand=Macy's"
+"El Verano, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/vallejo-ca-pharmacies/3678-sonoma-blvd-vallejo-ca-94590/storeid=9832,38.1243611,-122.2537234,,,w_911550091,"shop=chemist, brand=CVS Pharmacy"
+"El Verano, CA",,retail,452319,99 Cents Only Stores,"3684 Sonoma Boulevard, 94590",,https://locations.99only.com/ca/vallejo/discount-store-410.html,38.1248858,-122.2537897,,,w_911550092,"shop=variety_store, brand=99 Cents Only Stores"
+"El Verano, CA",,retail,452210,Food Mart,,,,37.9514402,-122.5499754,,,w_943150108,shop=department_store
+"El Verano, CA",,retail,445110,Andy's Local Market,"75 Loch Lomond Drive, San Rafael, CA, 94901",+1  415 456-5730,https://www.andyslocalmarket.com/,37.9732239,-122.484162,,,w_949138556,shop=supermarket
+"El Verano, CA",,retail,445110,Safeway,"4080 San Pablo Avenue, Hercules, CA, 94547",+1 510-322-9030,https://local.safeway.com/safeway/ca/hercules/4080-san-pablo-ave.html,38.0147879,-122.2716612,,,w_956949440,"shop=supermarket, brand=Safeway"
+"El Verano, CA",,retail,445120,Woodacre Country Market & Deli,"175 San Geronimo Valley Drive, Woodacre, CA, 94973",,,38.0129283,-122.6434647,,,w_965747255,shop=convenience
+"El Verano, CA",,retail,445120,Lagunitas Market,"7290 Sir Francis Drake Blvd., CA, 94938",,,38.0124228,-122.7016969,,,w_968293937,shop=convenience
+"El Verano, CA",,retail,445110,Smart & Final,"935 Andersen Drive, CA, 94901",4152590285,https://www.smartandfinal.com/,37.9572944,-122.5067867,,,w_970694206,"shop=supermarket, brand=Smart & Final"
+"El Verano, CA",,retail,445120,Circle K,CA,,,37.9610756,-122.504967,,,w_970695776,"shop=convenience, brand=Circle K"
+"El Verano, CA",,retail,445120,Ray's Food Center,,,,38.4145945,-122.7238071,,,w_1019285482,shop=convenience
+"El Verano, CA",,retail,445120,,"7898 Old Redwood Highway, Cotati, CA",,,38.3287845,-122.7078733,,,w_1019309958,shop=convenience
+"El Verano, CA",,retail,445120,Gas & Mart,,,,38.4240271,-122.712858,,,w_1019327728,shop=convenience
+"El Verano, CA",,retail,446120,Lashey Lady,"645 South Main Street, Sebastopol, CA",+1-707-827-3720,,38.3966208,-122.8209513,,,w_1019483831,shop=beauty
+"El Verano, CA",,retail,445120,Redwood Market,,,,38.4049999,-122.8127096,,,w_1019503235,shop=convenience
+"El Verano, CA",,retail,445120,,,,,38.3882816,-122.8146876,,,w_1019686028,shop=convenience
+"El Verano, CA",,retail,445120,Bonneau,"19080 Arnold Drive, Sonoma, CA",,,38.2980278,-122.4921232,,,w_1019846211,shop=convenience
+"El Verano, CA",,retail,445230,Bill's Farm Basket,"10315 Bodega Highway, Sebastopol, CA",,,38.3919055,-122.8787791,,,w_1020133678,shop=greengrocer
+"El Verano, CA",,retail,445299,Blue Goat,"380 Bohemian Highway, Freestone, CA, 95472",+1-707-874-6200,https://www.bluegoatshop.com/,38.3719938,-122.916976,,,w_1020138290,shop=cheese
+"El Verano, CA",,retail,445120,Bonfare Market,,,https://www.bonfaremarkets.com/,38.1229879,-122.2269134,,,w_1026255065,shop=convenience
+"El Verano, CA",,retail,445120,7-Eleven,,,,38.1453044,-122.234875,,,w_1034400852,"shop=convenience, brand=7-Eleven"
+"El Verano, CA",,retail,445120,Fast & Easy Mart,,,,38.5754108,-122.5801433,,,w_1039231278,shop=convenience
+"El Verano, CA",,retail,445120,76,,,,38.5755445,-122.580715,,,w_1039231280,"shop=convenience, brand=76"
+"El Verano, CA",,retail,445310,judds Hill,,,,38.339299,-122.279717,,,w_1042675605,shop=wine
+"El Verano, CA",,retail,445120,,,,,38.2128355,-122.139265,,,w_1043828261,shop=convenience
+"El Verano, CA",,retail,445120,,,,,38.203038,-122.1579745,,,w_1043828288,shop=convenience
+"El Verano, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/fairfield/4449-central-place-34158,38.22051,-122.126553,,,w_1044322927,"shop=convenience, brand=7-Eleven"
+"El Verano, CA",,retail,445120,Shell,,,,38.221381,-122.1281415,,,w_1044323187,"shop=convenience, brand=Shell"
+"El Verano, CA",,retail,445120,ampm,,,,38.221948,-122.127156,,,w_1044323190,"shop=convenience, brand=ampm"
+"El Verano, CA",,retail,445120,,,,,38.221886,-122.126263,,,w_1044323192,shop=convenience
+"El Verano, CA",,retail,445120,Jolly King Neighborhood Store Liquor and Food,"730 5th Street, Fairfield, CA, 94533",,,38.250039,-122.060506,,,w_1046339241,shop=convenience
+"El Verano, CA",,retail,453991,U Know Smoke Shop,,,,38.1053785,-122.2379605,,,w_1059650129,shop=tobacco
+"El Verano, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/san-rafael-ca-pharmacies/442-las-gallinas-ave-san-rafael-ca-94903/storeid=9529,38.0048412,-122.540944,,,w_1124568735,"shop=chemist, brand=CVS Pharmacy"
+"El Verano, CA",,retail,445310,Mumm,"8445 Silverado Trail South, Rutherford, CA, 94573",+1 707 9677700,,38.4791751,-122.3944988,,,w_1139100933,shop=wine
+"El Verano, CA",,retail,446120,Baths At Romans Spa,,,,38.5798821,-122.5800528,,,w_1146343802,shop=beauty
+"El Verano, CA",,retail,445120,Shell,,,,38.361636,-122.7148757,,,w_1167478118,"shop=convenience, brand=Shell"
+"El Verano, CA",,retail,445110,Scotty's Market,,,,38.013244,-122.5600559,,,w_1176614086,shop=supermarket
+"El Verano, CA",,retail,445120,7-Eleven,,,,38.2223561,-122.2619681,,,w_1198861706,"shop=convenience, brand=7-Eleven"
+"El Verano, CA",,retail,445120,Circle K,"360 Napa Junction Road, American Canyon, CA, 95403",,,38.1850978,-122.2562362,,,w_1200737953,"shop=convenience, brand=Circle K"
+"El Verano, CA",,retail,445110,Super La Favorita,"1950 North Texas Street, Fairfield, CA, 94533",+1 707-427-8767,,38.2637635,-122.0331859,,,w_1204763939,shop=supermarket
+"El Verano, CA",,retail,445292,Coaster Candy,,,,38.1370758,-122.2322908,,,w_1272944547,shop=confectionery
+"El Verano, CA",,retail,445310,,,,,38.4320351,-122.7425694,,,w_1301422313,shop=alcohol
+"El Verano, CA",,retail,446120,,,,,38.1090463,-122.2378881,,,w_1365648097,shop=beauty
+"El Verano, CA",,retail,452319,Dollar General,,,,38.1091915,-122.2377052,,,w_1365648098,"shop=variety_store, brand=Dollar General"
+"El Verano, CA",,retail,445120,,,,,38.0975269,-122.2563059,,,w_1371289650,shop=convenience
+"El Verano, CA",,retail,445120,,,,,38.1326823,-122.2570377,,,w_1372800789,shop=convenience
+"El Verano, CA",,retail,445310,M&M Liquors,,,,38.0878113,-122.2439185,,,w_1374480273,shop=alcohol
+"El Verano, CA",,retail,445120,La Rosa Market,,,,38.0887577,-122.2440249,,,w_1374480282,shop=convenience
+"El Verano, CA",,retail,445120,ExtraMile,,,,38.0964795,-122.2536277,,,w_1374487014,"shop=convenience, brand=ExtraMile"
+"El Verano, CA",,retail,445310,Calistoga Depot Wine & Spirits Merchant,,,,38.5796879,-122.5775822,,,w_1414675892,shop=alcohol

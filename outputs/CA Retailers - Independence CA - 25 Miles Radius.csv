@@ -1,0 +1,15 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Independence, CA",,retail,445110,Carrolls Market,,,,37.1656987,-118.2893348,,,n_1941035623,shop=supermarket
+"Independence, CA",,retail,445120,Lee's Frontier General Store,"South Main Street, Lone Pine, CA, 93545",,,36.5839401,-118.057986,,,n_5790650273,shop=convenience
+"Independence, CA",,retail,446120,,,,,36.6059935,-118.0637503,,,n_9423839442,shop=beauty
+"Independence, CA",,retail,445120,Boulder Creek Store,"Lone Pine, CA, 93545",,,36.5432346,-118.0466123,,,n_9487454376,"shop=convenience, operator=Boulder Creek RV Resort"
+"Independence, CA",,retail,445120,,,,,36.8362145,-118.2297392,,,n_9891749996,shop=convenience
+"Independence, CA",,retail,452319,Glacier Lodge General Store,,,,37.1238193,-118.4369306,,,n_11081478910,shop=general
+"Independence, CA",,retail,445120,Shell,,,,37.1658247,-118.2899523,,,n_11115142340,"shop=convenience, brand=Shell"
+"Independence, CA",,retail,445120,High Country Market,,,,37.1664454,-118.2900078,,,w_502245538,shop=convenience
+"Independence, CA",,retail,445120,Lone Pine Market,"119 South Main Street, Lone Pine, CA, 93545",,,36.6052946,-118.0635378,,,w_558815750,shop=convenience
+"Independence, CA",,retail,445120,,"380 North Main Street, Lone Pine, CA, 93545",,,36.6075327,-118.0639248,,,w_558815757,shop=convenience
+"Independence, CA",,retail,445120,Mobil Mart,,,,37.1692671,-118.2892102,,,w_725696726,"shop=convenience, brand=Mobil Mart"
+"Independence, CA",,retail,445120,,,,,36.801975,-118.1987247,,,w_750996447,"shop=convenience, amenity=shower"
+"Independence, CA",,retail,445120,Shell,"350 South Edwards Street, Independence, CA, 93526",+1 7608782172,,36.800119,-118.1977025,,,w_759758837,"shop=convenience, brand=Shell"
+"Independence, CA",,retail,445120,Whitney Portal Store,,,,36.5868294,-118.2408731,,,w_813748453,"shop=convenience, amenity=restaurant"

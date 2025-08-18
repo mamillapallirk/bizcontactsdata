@@ -1,0 +1,6 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Fort Bidwell, CA",,retail,445120,FastBreak,"1206 South G Street, Lakeview, OR, 97630",,,42.1731151,-120.347699,,,n_6157509505,"shop=convenience, brand=FastBreak"
+"Fort Bidwell, CA",,retail,445120,Coyote Quick Stop,,,,42.1923032,-120.3462711,,,n_6157555658,shop=convenience
+"Fort Bidwell, CA",,retail,453110,Back Yard Florist,,,,42.1900043,-120.3461486,,,n_6157555660,shop=florist
+"Fort Bidwell, CA",,retail,445120,Rabbit Traxx,"580 Patterson Street, Cedarville, CA, 96104",,,41.5290487,-120.1822592,,,n_8686131317,"shop=convenience, amenity=fuel"
+"Fort Bidwell, CA",,retail,445110,Safeway,"244 North F Street, Lakeview, OR, 97630",+1 541-947-2324,https://local.safeway.com/safeway/or/lakeview/244-n-f-st.html,42.1917703,-120.3452678,,,w_457223557,"shop=supermarket, brand=Safeway"

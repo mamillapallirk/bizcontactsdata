@@ -1,0 +1,560 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Piñon Hills, CA",,retail,446120,Natural Nails & Spa,"12223 Highland Ave, Etiwanda, CA, 91739",+1 909 463 7039,,34.1342399,-117.5385525,,,n_519579477,shop=beauty
+"Piñon Hills, CA",,retail,445120,Arrow Liquor,,,,34.1015596,-117.7933772,,,n_537193217,shop=convenience
+"Piñon Hills, CA",,retail,445120,Arco,,,,34.2237944,-117.4034603,,,n_572572143,"shop=convenience, amenity=fuel, brand=Arco"
+"Piñon Hills, CA",,retail,445120,Shell,,,,34.2241177,-117.4028321,,,n_572572147,"shop=convenience, amenity=fuel, brand=Shell"
+"Piñon Hills, CA",,retail,445120,7-Eleven,,,,34.1916076,-117.360445,,,n_572572194,"shop=convenience, amenity=fuel, brand=7-Eleven"
+"Piñon Hills, CA",,retail,445120,Circle K,,,,34.1219656,-117.592998,,,n_588149661,"shop=convenience, amenity=fuel, brand=Circle K"
+"Piñon Hills, CA",,retail,445110,Stater Bros.,"9750 19th Street, Rancho Cucamonga, CA, 91737",+1 909-989-4908,https://www.staterbros.com/stores/78,34.1341172,-117.5925666,,,n_588149667,"shop=supermarket, brand=Stater Bros."
+"Piñon Hills, CA",,retail,446120,Bath & Body Works,,,,34.1089201,-117.570698,,,n_1158422184,"shop=cosmetics, brand=Bath & Body Works"
+"Piñon Hills, CA",,retail,453110,T. Austin Florist,,,,34.108863,-117.5708836,,,n_1158422891,shop=florist
+"Piñon Hills, CA",,retail,445120,7-Eleven,"8118 Masi Drive, Rancho Cucamonga, CA, 91730-3902",+1 909-941-4400,https://www.7-eleven.com/locations/ca/rancho-cucamonga/8118-masi-dr-39209,34.105532,-117.5497614,,,n_1158471096,"shop=convenience, brand=7-Eleven"
+"Piñon Hills, CA",,retail,445310,,,,,34.1067504,-117.5252332,,,n_1158745841,shop=alcohol
+"Piñon Hills, CA",,retail,445120,Arrow & Grove Market & Liquor,,,,34.0996552,-117.6283052,,,n_1167574731,shop=convenience
+"Piñon Hills, CA",,retail,445110,Stater Bros.,"4059 Phelan Road, Phelan, CA, 92371",+1 760-868-2315,https://www.staterbros.com/stores/116,34.4249352,-117.5735989,,,n_1322962116,"shop=supermarket, brand=Stater Bros."
+"Piñon Hills, CA",,retail,445120,ampm,,,,34.4268446,-117.573103,,,n_1335188234,"shop=convenience, brand=ampm"
+"Piñon Hills, CA",,retail,445120,,,,,34.4258578,-117.5719925,,,n_1335188617,shop=convenience
+"Piñon Hills, CA",,retail,445110,Stater Bros.,"15235 Hook Boulevard, Victorville, CA, 92394",+1 760-243-5533,https://www.staterbros.com/stores/123,34.5201818,-117.331506,,,n_1337616247,"shop=supermarket, brand=Stater Bros."
+"Piñon Hills, CA",,retail,452210,Target,"12795 Main Street, Hesperia, CA, 92345",+1 760-949-3062,https://www.target.com/sl/hesperia/2468,34.4244908,-117.383687,,,n_1353398300,"shop=department_store, brand=Target"
+"Piñon Hills, CA",,retail,445120,Food Mart,,,,34.4426432,-117.647481,,,n_1363218973,"shop=convenience, brand=Chevron"
+"Piñon Hills, CA",,retail,452210,JCPenney,"14370 Bear Valley Road, Victorville, CA, 92392",+1 760-241-3111,https://www.jcpenney.com/locations/ca/victorville/clothing-stores-victorville-ca-217.html,34.4723253,-117.349473,,,n_1374300865,"shop=department_store, brand=JCPenney"
+"Piñon Hills, CA",,retail,446120,Five Star Nails & Spa,"12721 Main Street, Hesperia, CA, 92344",,,34.4263269,-117.3854644,,,n_1377259222,shop=beauty
+"Piñon Hills, CA",,retail,445110,Stater Bros.,"14466 Main Street, Hesperia, CA, 92345",+1 760-244-2299,https://www.staterbros.com/stores/122,34.428241,-117.348279,,,n_1380549829,"shop=supermarket, brand=Stater Bros."
+"Piñon Hills, CA",,retail,445120,Rosa's Market - Deli,,,,34.1428984,-117.4012769,,,n_1475531211,shop=convenience
+"Piñon Hills, CA",,retail,445120,The Quarter Market,,,,34.0953863,-117.7197339,,,n_1634477787,shop=convenience
+"Piñon Hills, CA",,retail,445110,Vons,"435 West Foothill Boulevard, Glendora, CA, 91741",+1 626-963-2913,https://local.vons.com/ca/glendora/435-w-foothill-blvd.html,34.1373253,-117.871569,,,n_1956776715,"shop=supermarket, brand=Vons"
+"Piñon Hills, CA",,retail,445120,Joshua Market,,,,34.5427175,-117.9743011,,,n_2730589380,shop=convenience
+"Piñon Hills, CA",,retail,445310,B & L Liquors,"23851 Lake Drive, Crestline, 92325",(909) 338-2511,,34.2429712,-117.2829248,,,n_2789484255,shop=alcohol
+"Piñon Hills, CA",,retail,446110,Rite Aid,"15331 Baseline Avenue, Fontana, CA, 92336",(909) 574-2831,https://www.riteaid.com/locations/ca/fontana/15331-baseline-avenue.html,34.1208161,-117.4703,,,n_3360124567,"shop=chemist, brand=Rite Aid"
+"Piñon Hills, CA",,retail,446120,Divaa Beauty & Threading Studio,"9622 Base Line Road, Rancho cucamonga, CA, 91730",,,34.1223831,-117.595243,,,n_3972510645,shop=beauty
+"Piñon Hills, CA",,retail,452210,Target,"2462 Foothill Boulevard, La Verne, CA, 91750-3056",+1 909-593-2421,https://www.target.com/sl/laverne/226,34.1095009,-117.7596954,,,n_4285399489,"shop=department_store, brand=Target"
+"Piñon Hills, CA",,retail,445120,ExtraMile,,,,34.5587886,-118.0460861,,,n_4367365959,"shop=convenience, brand=ExtraMile"
+"Piñon Hills, CA",,retail,446120,Sunny Nail Spa,,,,34.5589011,-118.0464894,,,n_4367365976,shop=beauty
+"Piñon Hills, CA",,retail,445292,Sinfully Sweet Apple Company,"181 North 2nd Avenue, Upland, CA, 91786",+1-909-596-9327,https://sinfullysweetgourmettreats.com/,34.0957397,-117.6486726,,,n_4530064278,shop=confectionery
+"Piñon Hills, CA",,retail,452210,Ross,"12791 Main Street, Hesperia, CA, 92344",+1 760-948-0170,https://www.rossstores.com/,34.4237325,-117.384286,,,n_4949969721,"shop=department_store, brand=Ross"
+"Piñon Hills, CA",,retail,452210,Marshalls,,,,34.4231646,-117.3846189,,,n_4949969722,"shop=department_store, brand=Marshalls"
+"Piñon Hills, CA",,retail,445120,7-Eleven,"660 East Foothill Boulevard, San Dimas, CA, 91773-1207",+1 909-599-2805,https://www.7-eleven.com/locations/ca/san-dimas/660-e-foothill-blvd-17210,34.1221231,-117.794637,,,n_5280907221,"shop=convenience, brand=7-Eleven"
+"Piñon Hills, CA",,retail,445299,Cheese Cave,,,,34.0970839,-117.7180842,,,n_5703393544,shop=cheese
+"Piñon Hills, CA",,retail,445110,ALDI,"2268 Foothill Boulevard, La Verne, CA, 91750-2944",+1 909-447-9986,https://stores.aldi.us/ca/la-verne/2268-foothill-blvd,34.1112641,-117.7628001,,,n_6193416147,"shop=supermarket, brand=ALDI"
+"Piñon Hills, CA",,retail,452319,Dollar Tree,"1475 Foothill Boulevard, La Verne, CA, 91750",,https://www.dollartree.com/locations/ca/la-verne/5257/,34.1180069,-117.7753418,,,n_6193759371,"shop=variety_store, brand=Dollar Tree"
+"Piñon Hills, CA",,retail,453991,Samer Smoke Shop,"1463 Foothill Boulevard, La Verne, CA, 91750",,,34.1184249,-117.7753674,,,n_6193759374,shop=tobacco
+"Piñon Hills, CA",,retail,445110,Sprouts Farmers Market,"1375 Foothill Boulevard, La Verne, CA, 91750",+1 909-582-2836,https://www.sprouts.com/store/ca/la-verne/la-verne/,34.1187895,-117.7775267,,,n_6195711532,"shop=supermarket, brand=Sprouts Farmers Market"
+"Piñon Hills, CA",,retail,445120,Villa's Market,"1912 East Arrow Highway, La Verne, CA, 91750",,,34.0984735,-117.7748497,,,n_6196309907,shop=convenience
+"Piñon Hills, CA",,retail,445310,A & C Liquor Store,"3836 Emerald Avenue, La Verne, CA, 91750",,,34.1151368,-117.7677149,,,n_6198775197,shop=alcohol
+"Piñon Hills, CA",,retail,452210,Big Lots,"1955 Foothill Boulevard, La Verne, CA, 91750",+1 909-596-5765,https://local.biglots.com/ca/la-verne/1955-foothill-blvd,34.11515,-117.766717,,,n_6198775202,"shop=department_store, brand=Big Lots"
+"Piñon Hills, CA",,retail,446120,Red Persimmon Spa & Nail,"1570 Foothill Boulevard, La Verne, CA, 91750",,,34.1150138,-117.7741981,,,n_6199322620,shop=beauty
+"Piñon Hills, CA",,retail,446191,Nature's Way Health Foods Center,"1512 Foothill Boulevard, La Verne, CA, 91750",,,34.1150399,-117.7752578,,,n_6199329084,shop=health_food
+"Piñon Hills, CA",,retail,445110,Food 4 Less,"14738 La Paz Drive, Victorville, CA, 92392",,,34.51939,-117.3145208,,,n_6223961760,"shop=supermarket, brand=Food 4 Less"
+"Piñon Hills, CA",,retail,452319,Dollar Tree,"14792 La Paz Drive, Victorville, CA, 92395",,https://www.dollartree.com/locations/ca/victorville/1855/,34.5202562,-117.3157731,,,n_6283729350,"shop=variety_store, brand=Dollar Tree"
+"Piñon Hills, CA",,retail,452210,Big Lots,"14790 La Paz Drive, Victorville, CA, 92395",+1 760-243-9596,https://local.biglots.com/ca/victorville/14790-la-paz-dr,34.5200507,-117.3154003,,,n_6283729351,"shop=department_store, brand=Big Lots"
+"Piñon Hills, CA",,retail,453991,VV Smoke Shop,"14516 7th Street, Victorville, CA, 92395",,,34.5146954,-117.3165186,,,n_6292300618,shop=tobacco
+"Piñon Hills, CA",,retail,446120,Desert Nails & Spa,"14520 7th Street, Victorville, CA, 92395",,,34.5147834,-117.3164344,,,n_6292300619,shop=beauty
+"Piñon Hills, CA",,retail,452319,Dollar General,"14532 7th Street, Victorville, CA, 92395",,,34.5149614,-117.3162734,,,n_6292300620,"shop=variety_store, brand=Dollar General"
+"Piñon Hills, CA",,retail,452210,Macy's,"14580 Bear Valley Road, Victorville, CA, 92392",+1 760-493-3300,https://www.macys.com/stores/ca/victorville/mall-of-victor-valley_557.html,34.4744969,-117.3451321,,,n_6351553571,"shop=department_store, brand=Macy's"
+"Piñon Hills, CA",,retail,445110,Naturalia,,,,34.3862722,-117.383329,,,n_6422126581,"shop=supermarket, brand=Naturalia"
+"Piñon Hills, CA",,retail,453991,,,,,34.1079474,-117.5349945,,,n_6533290741,shop=tobacco
+"Piñon Hills, CA",,retail,446120,,,,,34.1079556,-117.5349013,,,n_6533290742,shop=beauty
+"Piñon Hills, CA",,retail,445292,See's Candies,,,,34.1114826,-117.5355257,,,n_6533290752,"shop=confectionery, brand=See's Candies"
+"Piñon Hills, CA",,retail,446120,Ulta Beauty,"1229 South Lone Hill Avenue, Glendora, CA, 91740",+1 909-592-5393,https://www.ulta.com/stores/glendora-ca-452,34.1164835,-117.833283,,,n_6562143455,"shop=beauty, brand=Ulta Beauty"
+"Piñon Hills, CA",,retail,452210,Kohl's,"1225 South Lone Hill Avenue, Glendora, CA, 91740",+1 909-592-6960,https://www.kohls.com/stores/ca/glendora-595.shtml,34.1171053,-117.8333285,,,n_6562143456,"shop=department_store, brand=Kohl's"
+"Piñon Hills, CA",,retail,445110,ALDI,"1251 South Lone Hill Avenue, Glendora, CA, 91740-4507",+1 909-294-3915,https://stores.aldi.us/ca/glendora/1251-s-lone-hill-ave,34.1172285,-117.8305927,,,n_6562143458,"shop=supermarket, brand=ALDI"
+"Piñon Hills, CA",,retail,445110,Ralphs,"7369 Milliken Avenue, Rancho Cucamonga, CA, 91730",+1 909-944-4827,https://www.ralphs.com/stores/details/703/00013,34.1199104,-117.5570447,,,n_6641488598,"shop=supermarket, brand=Ralphs"
+"Piñon Hills, CA",,retail,445110,Stater Bros.,"37218 47th Street East, Palmdale, CA, 93552",+1 661-285-9184,https://www.staterbros.com/stores/145,34.5592187,-118.043715,,,n_6811714627,"shop=supermarket, brand=Stater Bros."
+"Piñon Hills, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/palmdale/4235/,34.5571978,-118.0469896,,,n_6811714631,"shop=variety_store, brand=Dollar Tree"
+"Piñon Hills, CA",,retail,446120,ilo Collective,,,,34.0943729,-117.7212389,,,n_7020769173,shop=beauty
+"Piñon Hills, CA",,retail,446120,Joy Nails & Spa,"7379 Milliken Avenue, Rancho Cucamonga, CA, 91730",+1-909-945-3595,https://joy-nails-spa.business.site/,34.1196676,-117.5575789,,,n_7159357434,shop=beauty
+"Piñon Hills, CA",,retail,446110,Rite Aid,"7339 Milliken Avenue, Rancho Cucamonga, CA, 91730",+1-909-944-3543,https://www.riteaid.com/locations/ca/rancho-cucamonga/7339-milliken-ave.html,34.1204184,-117.5563129,,,n_7159357440,"shop=chemist, brand=Rite Aid"
+"Piñon Hills, CA",,retail,453991,Rancho Cucamonga Smoke Shop,"7349 Milliken Avenue, Rancho Cucamonga, CA, 91730",+1-909-466-6445,,34.1203129,-117.5565744,,,n_7159357442,shop=tobacco
+"Piñon Hills, CA",,retail,446120,,"10590 Base Line Road, Rancho Cucamonga, CA, 91701",+1-909-945-1679,,34.121886,-117.5740525,,,n_7159440853,"shop=beauty, operator=Sue's Nails"
+"Piñon Hills, CA",,retail,446120,Red Persimmon Nails & Spa,"7211 Haven Avenue, Rancho Cucamonga, CA, 91701",+1-909-466-7675,,34.1234347,-117.5739265,,,n_7159440862,shop=beauty
+"Piñon Hills, CA",,retail,445120,7-Eleven,"7900 Haven Avenue, Rancho Cucamonga, CA, 91730",+1-909-948-1400,https://www.7-eleven.com/locations/ca/rancho-cucamonga/7900-haven-ave-39590,34.110262,-117.5764955,,,n_7168500065,"shop=convenience, brand=7-Eleven"
+"Piñon Hills, CA",,retail,446120,Bella Vous,"7890 Haven Avenue, Rancho Cucamonga, CA, 91730",+1-909-941-9885,https://www.bellavouspa.com/rancho-cucamonga,34.1103597,-117.5771876,,,n_7168500069,shop=beauty
+"Piñon Hills, CA",,retail,446120,Sakura Foot Spa,"7890 Haven Avenue, Rancho Cucamonga, CA, 91730",,,34.1109271,-117.5768348,,,n_7170868967,shop=beauty
+"Piñon Hills, CA",,retail,445120,Circle K,"10550 Town Center Drive, Rancho Cucamonga, CA, 91730",,https://www.circlek.com/store-locator/US/rancho-cucamonga/10550-town-center-dr/2709480,34.1109604,-117.5754093,,,n_7170868988,"shop=convenience, brand=Circle K"
+"Piñon Hills, CA",,retail,446110,CVS Pharmacy,"7911 Haven Avenue, Rancho Cucamonga, CA, 91730",+1-909-581-1966,https://www.cvs.com/store-locator/cvs-pharmacy-address/7911+Haven+Avenue-Rancho+Cucamonga-CA-91730/storeid=9724,34.1100032,-117.575192,,,n_7170868990,"shop=chemist, brand=CVS Pharmacy"
+"Piñon Hills, CA",,retail,453110,1-800-Flowers - Conroy's,"7957 Haven Avenue, Rancho Cucamonga, CA, 91730",+1-909-980-6614,https://www.conroyflowersranchocucamonga.com/,34.1093614,-117.5752175,,,n_7170869005,shop=florist
+"Piñon Hills, CA",,retail,445120,Circle K,"La Verne, CA, 91750",,,34.0996504,-117.7700705,,,n_7265084063,"shop=convenience, brand=Circle K"
+"Piñon Hills, CA",,retail,445310,3rd Street Wine Shop,"2142 3rd Street, La Verne, CA, 91750",,,34.1001492,-117.7693884,,,n_7281508440,shop=wine
+"Piñon Hills, CA",,retail,445310,Mountain Top Liquor,,,,34.3903542,-117.5754217,,,n_7432007239,shop=alcohol
+"Piñon Hills, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/hesperia/14519-main-st-ste-a-27678,34.4264423,-117.345993,,,n_8157221942,"shop=convenience, brand=7-Eleven"
+"Piñon Hills, CA",,retail,446120,Golden Nails,,,,34.105834,-117.6722455,,,n_8252652758,shop=beauty
+"Piñon Hills, CA",,retail,446120,Bella Beauty Supply,,,,34.1057242,-117.6722451,,,n_8252652762,shop=beauty
+"Piñon Hills, CA",,retail,446120,Lovely Nails & Spa,,,,34.1065979,-117.6555478,,,n_8508191695,shop=beauty
+"Piñon Hills, CA",,retail,446120,Aayna Threading,,,,34.1081198,-117.6533316,,,n_8508191713,shop=beauty
+"Piñon Hills, CA",,retail,446120,Theory Nail Lounge,,,,34.108109,-117.6539045,,,n_8508199422,shop=beauty
+"Piñon Hills, CA",,retail,446120,Couture Salon Studios,,,,34.1081129,-117.6541851,,,n_8508199423,shop=beauty
+"Piñon Hills, CA",,retail,446120,Fabulous Nails & Spa,,909-360-8333,,34.1074946,-117.6501872,,,n_8508245321,shop=beauty
+"Piñon Hills, CA",,retail,445310,,,,,34.4699768,-117.3409411,,,n_8555622101,shop=alcohol
+"Piñon Hills, CA",,retail,446120,Red Persimmon Nails & Spa,,,,34.1335566,-117.6383476,,,n_8576368849,shop=beauty
+"Piñon Hills, CA",,retail,445110,ALDI,"18667 Bear Valley Road, Hesperia, CA, 92345-5077",+1 833-479-7097,https://stores.aldi.us/ca/hesperia/18667-bear-valley-rd,34.470114,-117.2572732,,,n_8665015117,"shop=supermarket, brand=ALDI"
+"Piñon Hills, CA",,retail,445110,Aldi,"13360 Main Street, Hesperia, CA, 92345-9137",+1 714-888-4323,https://stores.aldi.us/ca/hesperia/13360-main-st,34.4278039,-117.371932,,,n_8665021116,"shop=supermarket, brand=Aldi"
+"Piñon Hills, CA",,retail,445110,ALDI,"11070 Foothill Boulevard, Rancho Cucamonga, CA, 91730-3821",+1 909-372-0072,https://stores.aldi.us/ca/rancho-cucamonga/11070-foothill-blvd,34.1079371,-117.5638668,,,n_8665273305,"shop=supermarket, brand=ALDI"
+"Piñon Hills, CA",,retail,445110,Smart & Final,,,,34.4699226,-117.3335698,,,n_8963373599,"shop=supermarket, brand=Smart & Final"
+"Piñon Hills, CA",,retail,445310,,,,,34.1296107,-117.4319593,,,n_8971495001,shop=alcohol
+"Piñon Hills, CA",,retail,445210,,,,,34.1290815,-117.4323753,,,n_8971495003,shop=butcher
+"Piñon Hills, CA",,retail,446120,Deluxe Nails,"12859 Foothill Boulevard, Rancho Cucamonga, CA, 91739",,,34.1050618,-117.5251086,,,n_8989613043,shop=beauty
+"Piñon Hills, CA",,retail,452210,Macy's,"1293 East 19th Street, Upland, CA, 91784",,,34.1329339,-117.6334175,,,n_9108580935,"shop=department_store, brand=Macy's"
+"Piñon Hills, CA",,retail,446120,Facelogic,,,,34.133061,-117.6314393,,,n_9108580940,shop=beauty
+"Piñon Hills, CA",,retail,452319,Five Below,,+1 909-608-9221,https://locations.fivebelow.com/ca/upland/1263-e-19th-street,34.1325614,-117.6337133,,,n_9108580946,"shop=variety_store, brand=Five Below"
+"Piñon Hills, CA",,retail,446120,European Wax Center,,,https://locations.waxcenter.com/ca/upland/upland-claremont-0990.html,34.1219759,-117.692752,,,n_9146898581,"shop=beauty, brand=European Wax Center"
+"Piñon Hills, CA",,retail,446120,Organic Nail Spa,,,,34.12293,-117.693195,,,n_9146898589,shop=beauty
+"Piñon Hills, CA",,retail,453991,Smokin' Hot,,,,34.1066112,-117.6394446,,,n_9153462065,shop=tobacco
+"Piñon Hills, CA",,retail,445120,Circle K,,,,34.107496,-117.6420352,,,n_9153475513,"shop=convenience, brand=Circle K"
+"Piñon Hills, CA",,retail,446120,Pro Best Nails,,,,34.1075017,-117.6422319,,,n_9153475514,shop=beauty
+"Piñon Hills, CA",,retail,446120,Bee Polished Nails & Spa,,,,34.1075018,-117.6430805,,,n_9153486120,shop=cosmetics
+"Piñon Hills, CA",,retail,453991,Smoker's Boutique,,,,34.1074968,-117.6435851,,,n_9153486127,shop=tobacco
+"Piñon Hills, CA",,retail,453991,Smoke & Vape Max,,,,34.1076128,-117.6289026,,,n_9153499729,shop=tobacco
+"Piñon Hills, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/upland/5754/,34.1081547,-117.6315706,,,n_9153499743,"shop=variety_store, brand=Dollar Tree"
+"Piñon Hills, CA",,retail,453991,Up In Smoke,,,,34.1058889,-117.6291985,,,n_9153537199,shop=tobacco
+"Piñon Hills, CA",,retail,445110,GK Market & Liquor,,,,34.1058507,-117.6287774,,,n_9153537203,shop=supermarket
+"Piñon Hills, CA",,retail,453991,Lava Hookah Lounge,,,,34.107904,-117.6653844,,,n_9166216502,shop=tobacco
+"Piñon Hills, CA",,retail,446120,Mane Salon,,,,34.1079045,-117.665182,,,n_9166216505,shop=beauty
+"Piñon Hills, CA",,retail,446120,Body Centre Spa,,,,34.1079063,-117.6650528,,,n_9166216507,shop=beauty
+"Piñon Hills, CA",,retail,453991,Smoke & Dreams,,,,34.1078191,-117.6645958,,,n_9166216514,shop=tobacco
+"Piñon Hills, CA",,retail,446120,Smart Set,,,,34.1079785,-117.6644451,,,n_9166228417,shop=beauty
+"Piñon Hills, CA",,retail,446120,Ni Spa,,,,34.1079779,-117.664236,,,n_9166228420,shop=beauty
+"Piñon Hills, CA",,retail,446120,Val African Hair Braiding,,,,34.1079776,-117.6640966,,,n_9166228422,shop=beauty
+"Piñon Hills, CA",,retail,446120,Village Salon,,,,34.1079761,-117.66378,,,n_9166228425,shop=beauty
+"Piñon Hills, CA",,retail,445230,India Bazaar,,,,34.1076602,-117.6635403,,,n_9166228431,shop=greengrocer
+"Piñon Hills, CA",,retail,453991,E-Cig City,,,,34.1085248,-117.6712832,,,n_9166250265,shop=tobacco
+"Piñon Hills, CA",,retail,446120,Hannah's Nails & Spa,,,,34.1085239,-117.6713396,,,n_9166250266,shop=beauty
+"Piñon Hills, CA",,retail,445230,H Foodmart,,,,34.1079762,-117.6658104,,,n_9166250316,shop=greengrocer
+"Piñon Hills, CA",,retail,446120,Tammy Nails,,,,34.1018501,-117.6697772,,,n_9166414211,shop=beauty
+"Piñon Hills, CA",,retail,446120,,,,,34.1017991,-117.6697758,,,n_9166414212,shop=beauty
+"Piñon Hills, CA",,retail,445120,Shop & Go Market,,,,34.1016469,-117.6697778,,,n_9166414215,shop=convenience
+"Piñon Hills, CA",,retail,446120,,,,,34.1004893,-117.6697081,,,n_9166423724,shop=beauty
+"Piñon Hills, CA",,retail,445120,A2Z,,,,34.1004354,-117.6697089,,,n_9166423725,shop=convenience
+"Piñon Hills, CA",,retail,446120,The Curling Iron,,,,34.1003042,-117.6695981,,,n_9166423727,shop=beauty
+"Piñon Hills, CA",,retail,453991,,,,,34.1003017,-117.669414,,,n_9166423728,shop=tobacco
+"Piñon Hills, CA",,retail,453991,,"1630 West Foothill Boulevard, Upland, CA, 91786",,,34.1061239,-117.6817764,,,n_9166423878,shop=tobacco
+"Piñon Hills, CA",,retail,446120,Venus Nail Lounge,"1630 West Foothill Boulevard, Upland, CA, 91786",,,34.1061234,-117.6818454,,,n_9166423879,shop=beauty
+"Piñon Hills, CA",,retail,446120,New Image Salon,"1630 West Foothill Boulevard, Upland, CA, 91786",,,34.106123,-117.6819145,,,n_9166423880,shop=beauty
+"Piñon Hills, CA",,retail,446120,Spoil Me Nail Spa,,,,34.1076865,-117.682552,,,n_9166423906,shop=beauty
+"Piñon Hills, CA",,retail,445120,76,,,,34.1075606,-117.6814595,,,n_9166423916,"shop=convenience, brand=76"
+"Piñon Hills, CA",,retail,445120,Speedway,"13539 Baseline Avenue, Fontana, CA, 92336",,https://www.speedway.com/locations/CA/Fontana/13539-Baseline-Ave,34.1207104,-117.5111292,,,n_9178417830,"shop=convenience, brand=Speedway"
+"Piñon Hills, CA",,retail,445120,Speedway,"9280 Haven Avenue, Rancho Cucamonga, CA, 91730",,https://www.speedway.com/locations/CA/Rancho-Cucamonga/9280-Haven-Ave,34.0850723,-117.5762194,,,n_9178424755,"shop=convenience, brand=Speedway"
+"Piñon Hills, CA",,retail,446120,Regal Nails,,,,34.5563957,-118.042692,,,n_9178440424,shop=beauty
+"Piñon Hills, CA",,retail,445310,Bourbon Street Liquor,,,,34.1234873,-117.6719051,,,n_9191852483,shop=alcohol
+"Piñon Hills, CA",,retail,446120,,,,,34.1233058,-117.6718988,,,n_9191852485,shop=beauty
+"Piñon Hills, CA",,retail,446120,,,,,34.121817,-117.670854,,,n_9191852490,shop=beauty
+"Piñon Hills, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/claremont/6189/,34.0898382,-117.7180583,,,n_9208059510,"shop=variety_store, brand=Dollar Tree"
+"Piñon Hills, CA",,retail,452319,Dollar Tree,"12160 Hesperia Road, Victorville, CA, 92395",,https://www.dollartree.com/locations/ca/victorville/1504/,34.4722751,-117.2928828,,,n_9262017323,"shop=variety_store, brand=Dollar Tree"
+"Piñon Hills, CA",,retail,452210,Ross,"17222 Bear Valley Road, Victorville, CA, 92395",+1 760-843-5649,,34.4720702,-117.2873719,,,n_9262036293,"shop=department_store, brand=Ross"
+"Piñon Hills, CA",,retail,446120,Glamour Nail Lounge,"14350 Bear Valley Road, Victorville, CA, 92392",,,34.4710437,-117.3503544,,,n_9281605968,shop=beauty
+"Piñon Hills, CA",,retail,446120,Red Persimmon Nails and Spa,,,,34.5746147,-118.0460086,,,n_9288402051,shop=beauty
+"Piñon Hills, CA",,retail,445310,Golden Star Vineyards,"36043 106th Street East, Littlerock, CA, 93543",,https://www.goldenstarvineyards.com,34.536703,-117.9432243,,,n_9310146668,shop=wine
+"Piñon Hills, CA",,retail,452319,Dollar Tree,"11930 Amargosa Road, Victorville, CA, 92392",,https://www.dollartree.com/locations/ca/victorville/5764/,34.4673715,-117.3511985,,,n_9313331929,"shop=variety_store, brand=Dollar Tree"
+"Piñon Hills, CA",,retail,446120,Face Appeal Beauty,,,,34.0854868,-117.6686168,,,n_9622610839,shop=beauty
+"Piñon Hills, CA",,retail,446120,Stacy's Lashes Nails & Spa,,,,34.0854815,-117.6692504,,,n_9622610843,shop=beauty
+"Piñon Hills, CA",,retail,453991,Upscale Vapes,,,,34.0865154,-117.6691709,,,n_9622610853,shop=tobacco
+"Piñon Hills, CA",,retail,452319,Dollar Tree,,,,34.0895135,-117.738694,,,n_9668817783,"shop=variety_store, brand=Dollar Tree"
+"Piñon Hills, CA",,retail,446120,Bath & Body Works,,,,34.1164669,-117.8368345,,,n_9836402429,"shop=cosmetics, brand=Bath & Body Works"
+"Piñon Hills, CA",,retail,445110,Trader Joe's,"475 West Foothill Boulevard, Claremont, CA, 91711",+1 909-625-8784,https://locations.traderjoes.com/ca/claremont/214/,34.1073555,-117.7219566,,,n_9902961324,"shop=supermarket, brand=Trader Joe's"
+"Piñon Hills, CA",,retail,446120,,,,,34.1078628,-117.7348897,,,n_9904993079,shop=beauty
+"Piñon Hills, CA",,retail,446120,,,,,34.1078614,-117.7346491,,,n_9904993082,shop=beauty
+"Piñon Hills, CA",,retail,445110,Stater Bros.,"1055 West Foothill Boulevard, Claremont, CA, 91711",+1 909-624-0619,https://www.staterbros.com/stores/49,34.1079945,-117.7355023,,,n_9904993083,"shop=supermarket, brand=Stater Bros."
+"Piñon Hills, CA",,retail,445310,,,,,34.1078651,-117.7350611,,,n_9904993085,shop=alcohol
+"Piñon Hills, CA",,retail,446120,ST Nail Lounge,"327 East Foothill Boulevard, Pomona, CA",+1-909-645-1688,,34.1080093,-117.742819,,,n_9915401897,shop=beauty
+"Piñon Hills, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/pomona/5392/,34.1077338,-117.7438684,,,n_9915401903,"shop=variety_store, brand=Dollar Tree"
+"Piñon Hills, CA",,retail,446120,Genesis Beauty Supply,,,,34.5577361,-118.0474012,,,n_10013741916,shop=beauty
+"Piñon Hills, CA",,retail,446120,Lotus Nails,,,,34.1285156,-117.8508685,,,n_10223989297,shop=beauty
+"Piñon Hills, CA",,retail,453991,Pomona Smoke & Vape,,,,34.0894202,-117.738522,,,n_10312305607,shop=tobacco
+"Piñon Hills, CA",,retail,446120,Lux threading,"288 South Mountain Avenue, Upland, CA",,,34.0905709,-117.669848,,,n_10703113211,shop=beauty
+"Piñon Hills, CA",,retail,453110,Glendora Florist,"234 North Glendora Avenue, Glendora, CA, 91741",,,34.1394284,-117.8652696,,,n_10800277549,"shop=florist, operator=Glendora Florist"
+"Piñon Hills, CA",,retail,446120,,,,,34.1154677,-117.7685986,,,n_11488301333,shop=beauty
+"Piñon Hills, CA",,retail,446120,Salon Couture,3847 Emerald Avenue,,,34.1156377,-117.768512,,,n_11488301337,shop=beauty
+"Piñon Hills, CA",,retail,453110,,,,,34.1139188,-117.7657577,,,n_11492268545,shop=florist
+"Piñon Hills, CA",,retail,446120,Shang Nail,,,,34.1072542,-117.733152,,,n_11492296208,shop=beauty
+"Piñon Hills, CA",,retail,446120,,,,,34.1076146,-117.7306699,,,n_11492296216,shop=beauty
+"Piñon Hills, CA",,retail,446120,Be Rosie Salon,,,,34.1076173,-117.7305797,,,n_11492296217,shop=beauty
+"Piñon Hills, CA",,retail,446120,Vincent Nails & Spa,,,,34.5740694,-118.0430729,,,n_11660434001,shop=beauty
+"Piñon Hills, CA",,retail,452319,Five Below,"2444 Foothill Boulevard, La Verne, CA, 91750",+1 909-392-7896,https://locations.fivebelow.com/ca/la-verne/2444-foothill-boulevard,34.1099421,-117.7603738,,,n_11663856406,"shop=variety_store, brand=Five Below"
+"Piñon Hills, CA",,retail,445110,Stater Bros. Markets,"1830 East Route 66, Glendora, CA, 91740",+1 626-963-0513,https://www.staterbros.com/stores/6,34.127077,-117.8301564,,,n_11663856407,"shop=supermarket, brand=Stater Bros."
+"Piñon Hills, CA",,retail,452319,Dollar Tree,"156 East Bonita Avenue, San Dimas, CA, 91773-3080",+1 909-962-5158,https://www.dollartree.com/locations/ca/san-dimas/2883/,34.1059405,-117.8053488,,,n_11663856408,"shop=variety_store, brand=Dollar Tree"
+"Piñon Hills, CA",,retail,445292,Chocolate Bash,,,,34.0942668,-117.7195253,,,n_11806510816,shop=chocolate
+"Piñon Hills, CA",,retail,446120,Claremont Nails,,1-909-447-5576,,34.089496,-117.7183619,,,n_11806510821,shop=beauty
+"Piñon Hills, CA",,retail,453991,Smokeology,,,,34.0896072,-117.7182213,,,n_11806510824,shop=tobacco
+"Piñon Hills, CA",,retail,446120,Lashes Lounge,,,,34.089637,-117.7181834,,,n_11806510825,shop=beauty
+"Piñon Hills, CA",,retail,446120,Jazziana's Beauty Salon,,,,34.0882606,-117.697493,,,n_11808524211,shop=beauty
+"Piñon Hills, CA",,retail,446120,10Der Touch,,,,34.088219,-117.6978127,,,n_11808524213,shop=beauty
+"Piñon Hills, CA",,retail,446120,Rheeya's Organic Beauty,,,,34.0882446,-117.6972843,,,n_11808524216,shop=beauty
+"Piñon Hills, CA",,retail,445120,Mountain View Market & Liquor,,,,34.0883546,-117.6978221,,,n_11808524219,shop=convenience
+"Piñon Hills, CA",,retail,445110,Sprouts Farmers Market,"6753 Carnelian Street, Rancho Cucamonga, CA, 91701",+1 909-296-3094,https://www.sprouts.com/store/ca/rancho-cucamonga/alta-loma/,34.131587,-117.614893,,,n_11809317205,"shop=supermarket, brand=Sprouts Farmer Market"
+"Piñon Hills, CA",,retail,445110,Albertsons,"11358 Kenyon Way, Rancho Cucamonga, CA, 91701",+1 909-941-7166,https://local.albertsons.com/ca/rancho-cucamonga/11358-kenyon-way.html,34.1354126,-117.5574085,,,n_11809317207,"shop=supermarket, brand=Albertsons"
+"Piñon Hills, CA",,retail,445310,BevMo!,,,,34.089973,-117.6684966,,,n_11810608579,"shop=alcohol, brand=BevMo!"
+"Piñon Hills, CA",,retail,446120,Savy Nail Spa,,,,34.0889444,-117.6687568,,,n_11810608588,shop=beauty
+"Piñon Hills, CA",,retail,446120,Super Lashes,,,,34.0935352,-117.6889366,,,n_11812753068,shop=beauty
+"Piñon Hills, CA",,retail,446120,Idol Nails & Spa,,,,34.0931213,-117.6883581,,,n_11813013974,shop=beauty
+"Piñon Hills, CA",,retail,446120,Montclair Nails,,,,34.0871136,-117.6881654,,,n_11813013988,shop=beauty
+"Piñon Hills, CA",,retail,446120,La Bella Salon Suites,,,,34.0868343,-117.688356,,,n_11813013990,shop=beauty
+"Piñon Hills, CA",,retail,446120,Supreme Suites,,,,34.0896609,-117.6868274,,,n_11813014008,shop=beauty
+"Piñon Hills, CA",,retail,446120,Alyssa's Eyelash,,,,34.0896636,-117.6870142,,,n_11813014010,shop=beauty
+"Piñon Hills, CA",,retail,446120,,,,,34.0900301,-117.6885194,,,n_11813014022,shop=beauty
+"Piñon Hills, CA",,retail,446120,2nd Avenue Salon,,,,34.0977577,-117.6486122,,,n_11827110566,shop=beauty
+"Piñon Hills, CA",,retail,446120,Studio M,,,,34.0981884,-117.6482933,,,n_11827120172,shop=beauty
+"Piñon Hills, CA",,retail,445292,Halgren's Chocolates,,,,34.1076328,-117.6289523,,,n_11829581125,shop=chocolate
+"Piñon Hills, CA",,retail,446120,Angel's Nail Lounge,,,,34.1077259,-117.6289583,,,n_11829581127,shop=beauty
+"Piñon Hills, CA",,retail,446120,Bassett Salon Studios,,,,34.1081525,-117.6314548,,,n_11829581130,shop=beauty
+"Piñon Hills, CA",,retail,446120,Super Q Lashes,,,,34.1080959,-117.6319758,,,n_11829581132,shop=beauty
+"Piñon Hills, CA",,retail,446120,3D Nails,,,,34.1080964,-117.6320596,,,n_11829581133,shop=beauty
+"Piñon Hills, CA",,retail,446120,The Nail Loft,,,,34.0821577,-117.6891851,,,n_11840696382,shop=beauty
+"Piñon Hills, CA",,retail,446120,The One Lash,,,,34.0819681,-117.6891845,,,n_11840696385,shop=beauty
+"Piñon Hills, CA",,retail,445210,La Carniceria,,,,34.0818418,-117.6891841,,,n_11840696387,shop=butcher
+"Piñon Hills, CA",,retail,446120,Vas X Salon,,,,34.1053445,-117.6888877,,,n_11840749404,shop=beauty
+"Piñon Hills, CA",,retail,446120,Luna Nails & Spa,,,,34.1051466,-117.6891776,,,n_11840749407,shop=beauty
+"Piñon Hills, CA",,retail,445310,Sam's Market & Liquor,,,,34.1051499,-117.6894059,,,n_11840749410,shop=alcohol
+"Piñon Hills, CA",,retail,445310,Lucky Liquor,,,,34.0891545,-117.6723202,,,n_11849283498,shop=alcohol
+"Piñon Hills, CA",,retail,453991,Heavy Clouds,,,,34.0891542,-117.6722496,,,n_11849283499,shop=tobacco
+"Piñon Hills, CA",,retail,446120,Divinity Salon,,,,34.0891529,-117.6718962,,,n_11849283503,shop=beauty
+"Piñon Hills, CA",,retail,446120,A Lash Studio,,,,34.0891523,-117.6717549,,,n_11849283505,shop=beauty
+"Piñon Hills, CA",,retail,446120,US Nails & Spa,,,,34.089165,-117.6714792,,,n_11849283507,shop=beauty
+"Piñon Hills, CA",,retail,446120,Optima Salon Suites,,,,34.0893701,-117.6715545,,,n_11849283511,shop=beauty
+"Piñon Hills, CA",,retail,446120,,,,,34.1348401,-117.4350543,,,n_11968521247,shop=beauty
+"Piñon Hills, CA",,retail,445120,,,,,34.1070715,-117.6130918,,,n_11977953771,shop=convenience
+"Piñon Hills, CA",,retail,446120,Upland Nails,,,,34.0932267,-117.6693934,,,n_12048711569,shop=beauty
+"Piñon Hills, CA",,retail,446120,I Lash Plus,,,,34.0933309,-117.6693276,,,n_12048711571,shop=beauty
+"Piñon Hills, CA",,retail,453991,Vape & Glass Station,,,,34.0935756,-117.669196,,,n_12048711574,shop=tobacco
+"Piñon Hills, CA",,retail,446120,Sarah's Avon,,,,34.0937886,-117.6691945,,,n_12048711578,"shop=cosmetics, brand=Avon"
+"Piñon Hills, CA",,retail,445110,Grocery Outlet,"176 South Mountain Avenue, Upland, CA, 91786",+1 909-949-6155,,34.0929752,-117.6694657,,,n_12048711582,"shop=supermarket, brand=Grocery Outlet"
+"Piñon Hills, CA",,retail,452319,Dollar Tree,"180 South Mountain Avenue, Upland, CA, 91786-6256",+1 909-660-6790,https://www.dollartree.com/locations/ca/upland/3440/,34.0927559,-117.6694551,,,n_12048711583,"shop=variety_store, brand=Dollar Tree"
+"Piñon Hills, CA",,retail,446120,,,,,34.1382185,-117.4443962,,,n_12064492881,shop=beauty
+"Piñon Hills, CA",,retail,445120,Daiso,,,,34.1188026,-117.7780433,,,n_12074384010,shop=convenience
+"Piñon Hills, CA",,retail,445110,Seafood City,"11098 Foothill Boulevard, Rancho Cucamonga, CA, 91730",,https://www.seafoodcity.com/store-locations/rancho-cucamonga/,34.1078331,-117.5626304,,,n_12082770030,"shop=supermarket, brand=Seafood City"
+"Piñon Hills, CA",,retail,446120,Bonjour Nail Bar,"11096 Foothill Boulevard, Rancho Cucamonga, CA, 91730",,,34.1069109,-117.5617808,,,n_12082791605,shop=beauty
+"Piñon Hills, CA",,retail,445120,,,,,34.5435125,-118.0360472,,,n_12100285732,shop=convenience
+"Piñon Hills, CA",,retail,445120,,,,,34.4085273,-117.3984996,,,n_12101445817,shop=convenience
+"Piñon Hills, CA",,retail,446120,Ulta Beauty,"15248 Summit Avenue, Fontana, CA, 92336",,https://www.ulta.com/stores/fontana-ca-1300#,34.1525078,-117.4747179,,,n_12230729399,"shop=cosmetics, brand=Ulta Beauty"
+"Piñon Hills, CA",,retail,452319,Five Below,"15234 Summit Avenue, Fontana, CA, 92336",,https://locations.fivebelow.com/ca/fontana/15234-summit-ave,34.1525282,-117.474463,,,n_12230729400,"shop=variety_store, brand=Five Below"
+"Piñon Hills, CA",,retail,446120,Royal Nail & Spa,"8110 Milliken Avenue, Rancho Cucamonga, CA, 91730",,,34.1053155,-117.5583159,,,n_12319298118,shop=beauty
+"Piñon Hills, CA",,retail,446120,,,,,34.1375342,-117.5742571,,,n_12319703174,shop=beauty
+"Piñon Hills, CA",,retail,445110,Trader Joe's,"6401 Haven Avenue, Rancho Cucamonga, CA, 91737",+1 909-476-1410,https://locations.traderjoes.com/ca/rancho-cucamonga/217/,34.1378465,-117.5741225,,,n_12319703175,"shop=supermarket, brand=Trader Joe's"
+"Piñon Hills, CA",,retail,452319,Daiso Japan,"6401 Haven Avenue, Rancho Cucamonga, CA, 91737",+1 909-204-4393,,34.1376862,-117.5741176,,,n_12319703176,"shop=variety_store, brand=Daiso"
+"Piñon Hills, CA",,retail,445120,,,,,34.0922736,-117.5938597,,,n_12319769207,shop=convenience
+"Piñon Hills, CA",,retail,452319,Miniso,"Montclair, CA, 91763",,,34.0870012,-117.6941665,,,n_12365985330,"shop=variety_store, brand=Miniso"
+"Piñon Hills, CA",,retail,452319,Tokyo Japanese Lifestyle,"Montclair, CA, 91763",,,34.0869599,-117.692045,,,n_12365985352,shop=variety_store
+"Piñon Hills, CA",,retail,445292,Rocky Mountain Chocolate Factory,"Montclair, CA, 91763",,,34.0866145,-117.6931906,,,n_12365985360,"shop=confectionery, brand=Rocky Mountain Chocolate Factory"
+"Piñon Hills, CA",,retail,446120,Bath & Body Works,"Montclair, CA, 91763",,,34.0864904,-117.6941218,,,n_12365985366,"shop=cosmetics, brand=Bath & Body Works"
+"Piñon Hills, CA",,retail,446120,Sephora,"Montclair, CA, 91763",,,34.0864947,-117.6942409,,,n_12365985367,"shop=cosmetics, brand=Sephora"
+"Piñon Hills, CA",,retail,445292,Sugar Land,"Montclair, CA, 91763",,,34.0866426,-117.6944336,,,n_12366009802,shop=confectionery
+"Piñon Hills, CA",,retail,446120,Perfume Gallery,"Montclair, CA, 91763",,,34.0866946,-117.693122,,,n_12366009811,shop=perfumery
+"Piñon Hills, CA",,retail,446120,MOXLA,"Montclair, CA, 91763",,,34.0866461,-117.6925994,,,n_12366009816,shop=cosmetics
+"Piñon Hills, CA",,retail,446120,Ideal Brows,"Montclair, CA, 91763",,,34.0870174,-117.6924511,,,n_12366009823,shop=beauty
+"Piñon Hills, CA",,retail,445292,See's Candies,"5074 East Montclair Plaza Lane, Montclair, CA, 91763",+1 909-626-2715,https://chocolateshops.sees.com/ca/montclair/chocolate_shops_montclair_ca_1ca024.html,34.0869555,-117.69362,,,n_12366009837,"shop=confectionery, brand=See's Candies"
+"Piñon Hills, CA",,retail,446120,MAC Cosmetics,"Montclair, CA, 91763",,,34.0869538,-117.6941147,,,n_12366009842,"shop=cosmetics, brand=MAC Cosmetics"
+"Piñon Hills, CA",,retail,446120,Teaze Salon,,,,34.1083236,-117.7214591,,,n_12389356171,shop=beauty
+"Piñon Hills, CA",,retail,445110,Cardenas,"15555 Main Street, Hesperia, CA, 92345",+17609479615,,34.4231317,-117.3236458,,,n_12874231213,"shop=supermarket, brand=Cardenas"
+"Piñon Hills, CA",,retail,445110,Metro Supermarket,"8160 Day Creek Boulevard, Rancho Cucamonga, CA, 91739",,,34.1053756,-117.5396168,,,n_12885893407,shop=supermarket
+"Piñon Hills, CA",,retail,453991,Smoke 4 Less,"20162 Outer Hwy 18 North, Apple Valley, CA, 92307",+1 760-946-4060,,34.5292592,-117.2235526,,,n_12949988278,shop=tobacco
+"Piñon Hills, CA",,retail,446120,Spa Vital,"20162 Outer Hwy 18 North, Apple Valley, CA, 92307",+1 760-242-2258,,34.5291138,-117.2233251,,,n_12949988279,shop=beauty
+"Piñon Hills, CA",,retail,446120,Sadie J's Beauty Supply,"20162 Outer Hwy 18 North, Apple Valley, CA, 92307",+1 760-240-9637,,34.5291028,-117.2230968,,,n_12949988282,shop=beauty
+"Piñon Hills, CA",,retail,446120,Sephora,,,,34.1122457,-117.5324923,,,n_13021084782,"shop=cosmetics, brand=Sephora"
+"Piñon Hills, CA",,retail,446120,Bath & Body Works,,,,34.112254,-117.5317635,,,n_13021084784,"shop=cosmetics, brand=Bath & Body Works"
+"Piñon Hills, CA",,retail,445292,IT'SUGAR,,,,34.1115911,-117.533045,,,n_13021091410,shop=confectionery
+"Piñon Hills, CA",,retail,446120,Holy Nails,"13622 Bear Valley Road, Victorville, CA, 92392",+1 760-951-7109,,34.4715058,-117.3662059,,,n_13026351316,shop=beauty
+"Piñon Hills, CA",,retail,453991,Victorville Smoke Shop,"13622 Bear Valley Road, Victorville, CA, 92392",+1 760-955-2800,,34.4714373,-117.3662019,,,n_13026351317,shop=tobacco
+"Piñon Hills, CA",,retail,446120,Oasis Hair Salon,"13622 Bear Valley Road, Victorville, CA, 92392",,,34.471276,-117.3662003,,,n_13026351319,shop=beauty
+"Piñon Hills, CA",,retail,453110,Conroy's Flowers,"12426 Amargosa Road, Victorville, CA, 92392",,,34.4764563,-117.3424031,,,n_13028361681,shop=florist
+"Piñon Hills, CA",,retail,445110,Sprouts Farmers Market,"12450 Amargosa Road, Victorville, CA, 92392",,,34.4771845,-117.3432165,,,n_13028361694,"shop=supermarket, brand=Sprouts Farmers Market"
+"Piñon Hills, CA",,retail,446120,Hair Emporium,"12475 Mariposa Road, Victorville, CA, 92392",,,34.4775523,-117.3396647,,,n_13028417248,shop=beauty
+"Piñon Hills, CA",,retail,446120,Eyebrows R Us,"12130 Hesperia Road, Victorville, CA, 92395",,,34.4716142,-117.2926052,,,n_13030190753,shop=beauty
+"Piñon Hills, CA",,retail,445120,Maverik,"12970 Mariposa Road, Victorville, CA, 92395",,,34.4860847,-117.3332646,,,n_13048061576,"shop=convenience, brand=Maverik"
+"Piñon Hills, CA",,retail,445120,7-Eleven,"15760 Ranchero Road, Hesperia, CA, 92345",+1 760-244-8004,https://www.7-eleven.com/locations/ca/hesperia/15760-ranchero-rd-39978,34.3838462,-117.3190402,,,n_13051328191,"shop=convenience, brand=7-Eleven"
+"Piñon Hills, CA",,retail,446120,Envy Waxing,"11553 Foothill Blvd,  #9 Foothill Boulevard, Rancho Cucamonga, CA, 91730",19098355583,,34.1055712,-117.5532945,,,n_13056616490,"shop=beauty, operator=Nancy"
+"Piñon Hills, CA",,retail,452319,Miniso,"9749 Base Line Road, 91730",,,34.120256,-117.5924692,,,n_13064787102,shop=variety_store
+"Piñon Hills, CA",,retail,452319,Family Dollar,"15385 Main Street, Hesperia, CA, 92345",,,34.4257489,-117.3278923,,,n_13074909408,"shop=variety_store, brand=Family Dollar"
+"Piñon Hills, CA",,retail,445120,ampm,"14920 Main Street, Hesperia, CA, 92345",+1 714-381-1586,https://www.ampm.com/,34.4276096,-117.3381567,,,n_13074909418,"shop=convenience, brand=ampm"
+"Piñon Hills, CA",,retail,445110,Ralphs,"12201 Highland Avenue, Etiwanda, CA, 91739",+1 909-646-9356,https://www.ralphs.com/stores/grocery/ca/rancho-cucamonga/day-creek-village/703/00700,34.135028,-117.5393458,,,w_41939516,"shop=supermarket, brand=Ralphs"
+"Piñon Hills, CA",,retail,445310,,,,,34.1063497,-117.5938985,,,w_46137182,shop=alcohol
+"Piñon Hills, CA",,retail,445110,Ralphs,"7243 Haven Avenue, Rancho Cucamonga, CA, 91701",+1 909-944-4838,https://www.ralphs.com/stores/details/703/00717,34.1225927,-117.5733121,,,w_62145704,"shop=supermarket, brand=Ralphs"
+"Piñon Hills, CA",,retail,452210,Ross,"10744 Foothill Boulevard, Rancho Cucamonga, CA, 91730",+1 909-466-9811,,34.1090131,-117.5703542,,,w_100225664,"shop=department_store, brand=Ross"
+"Piñon Hills, CA",,retail,452210,Target,"10576 Foothill Boulevard, Rancho Cucamonga, CA, 91730",+1 909-948-9952,https://www.target.com/sl/rancho-cucamonga/301,34.1087783,-117.5742792,,,w_100225706,"shop=department_store, brand=Target"
+"Piñon Hills, CA",,retail,445110,Guadalajara Meat Market,"15547 7th Street, Victorville, CA, 92395",,,34.534281,-117.2946211,,,w_109431512,shop=grocery
+"Piñon Hills, CA",,retail,445120,7-Eleven,"12750 Main Street, Hesperia, CA, 92344",+1 800-255-0711,https://www.7-eleven.com/locations/ca/hesperia/12750-main-st-43099,34.4272698,-117.38451,,,w_121951884,"shop=convenience, brand=7-Eleven"
+"Piñon Hills, CA",,retail,445120,America's Fuel Depot,"12720 Main Street, Hesperia, CA, 92344",,,34.4270011,-117.3857105,,,w_121951891,shop=convenience
+"Piñon Hills, CA",,retail,452210,Target,"15321 Palmdale Road, Victorville, CA, 92392-2403",,http://www.target.com/sl/victorville-target-store/276#?afid=storeloc&cpng=CA&Inm=victorville_276,34.5059403,-117.3292692,,,w_122304255,"shop=department_store, brand=Target"
+"Piñon Hills, CA",,retail,445120,Food Store,"15445 Palmdale Road, Victorville, CA, 92392",,,34.5065982,-117.3270729,,,w_122304264,shop=convenience
+"Piñon Hills, CA",,retail,445110,WinCo Foods,"15350 Roy Rogers Drive, Victorville, CA, 93533",,https://www.wincofoods.com/stores/win-co-foods-victorville-67/4758,34.5232004,-117.3293161,,,w_123539779,"shop=supermarket, brand=WinCo Foods"
+"Piñon Hills, CA",,retail,446110,Walgreens,"15318 Roy Rogers Drive, Victorville, CA, 93534",,https://www.walgreens.com/locator/walgreens-15318+roy+rogers+dr-victorville-ca-92394/id=12576,34.5220336,-117.3296463,,,w_123908868,"shop=chemist, brand=Walgreens"
+"Piñon Hills, CA",,retail,446110,Walgreens,"13655 Bear Valley Road, Victorville, CA, 92392",,https://www.walgreens.com/locator/walgreens-13655+bear+valley+rd-victorville-ca-92392/id=9254,34.4698279,-117.3650024,,,w_124298002,"shop=chemist, brand=Walgreens"
+"Piñon Hills, CA",,retail,445120,ampm,"13660 Bear Valley Road, Victorville, CA, 92392",,,34.4708523,-117.3649687,,,w_124298024,"shop=convenience, brand=ampm"
+"Piñon Hills, CA",,retail,445120,Shell,"13100 Main Street, Hesperia, CA, 92345",+1 760-947-6411,https://find.shell.com/us/fuel/10006319-13100-main-st/en_US,34.4273333,-117.3770426,,,w_124953404,"shop=convenience, brand=Shell"
+"Piñon Hills, CA",,retail,452210,Kohl's,"14305 Bear Valley Road, Victorville, CA, 92392",,,34.4680072,-117.3534042,,,w_127118930,"shop=department_store, brand=Kohl's"
+"Piñon Hills, CA",,retail,445120,The Depot,"12080 Amargosa Road, Victorville, CA, 92392",,,34.4696779,-117.3490705,,,w_127119186,shop=convenience
+"Piñon Hills, CA",,retail,446110,Walgreens,"17383 Main Street, Hesperia, CA, 92345",,https://www.walgreens.com/locator/walgreens-17383+main+st-hesperia-ca-92345/id=2223,34.4181882,-117.2838551,,,w_129035626,"shop=chemist, brand=Walgreens"
+"Piñon Hills, CA",,retail,446110,Rite Aid,"17441 Main Street, Hesperia, CA, 92345",,https://www.riteaid.com/locations/ca/hesperia/17441-main-street.html,34.4179047,-117.282657,,,w_129035629,"shop=chemist, brand=Rite Aid"
+"Piñon Hills, CA",,retail,445110,Stater Bros.,"14168 US 395, Adelanto, CA, 92301",+1 760-246-7705,https://www.staterbros.com/stores/176,34.5079209,-117.4015807,,,w_129388885,"shop=supermarket, brand=Stater Bros."
+"Piñon Hills, CA",,retail,445120,ampm,,,,34.5062185,-117.398826,,,w_129481376,"shop=convenience, brand=ampm"
+"Piñon Hills, CA",,retail,445110,Vons,"550 East Baseline Road, Claremont, CA, 91711",+1 909-621-4644,https://local.vons.com/ca/claremont/550-e-baseline-rd.html,34.1207392,-117.7059732,,,w_130006477,"shop=supermarket, brand=Vons"
+"Piñon Hills, CA",,retail,445110,Vons,"7390 Cherry Avenue, Fontana, CA, 92336",+1 909-429-3928,https://local.vons.com/ca/fontana/7390-cherry-ave.html,34.1198545,-117.4904199,,,w_131505634,"shop=supermarket, brand=Vons"
+"Piñon Hills, CA",,retail,445110,Vons,"17390 Main Street, 92345",,https://local.vons.com/ca/hesperia-2371.html,34.4204375,-117.2832937,,,w_131541451,"shop=supermarket, brand=Vons"
+"Piñon Hills, CA",,retail,452210,Ross,"1580 Foothill Boulevard, La Verne, CA, 91750",+1 909-392-0834,,34.1147177,-117.7738466,,,w_132239677,"shop=department_store, brand=Ross"
+"Piñon Hills, CA",,retail,445110,Vons,"1600 Foothill Boulevard, La Verne, CA, 91750",+1 909-593-2572,https://local.vons.com/ca/la-verne/1600-foothill-blvd.html,34.1145449,-117.7731614,,,w_132239678,"shop=supermarket, brand=Vons"
+"Piñon Hills, CA",,retail,445110,Vons,"8778 19TH Street, Rancho Cucamonga, CA, 91701",+1 909-989-1000,https://local.vons.com/ca/rancho-cucamonga/8778-19th-st.html,34.1335491,-117.6145193,,,w_132908425,"shop=supermarket, brand=Vons"
+"Piñon Hills, CA",,retail,445110,Vons,"6351 Haven Avenue, Alta Loma, CA, 91737",+1 909-980-4277,https://local.vons.com/ca/rancho-cucamonga/6351-haven-ave.html,34.1386544,-117.574085,,,w_132908589,"shop=supermarket, brand=Vons"
+"Piñon Hills, CA",,retail,445110,Vons,"82 West Foothill Boulevard, Upland, CA, 91786",+1 909-981-7709,https://local.vons.com/ca/upland/81-w-foothill-blvd.html,34.1083324,-117.652838,,,w_133778344,"shop=supermarket, brand=Vons"
+"Piñon Hills, CA",,retail,445110,Vons,"12199 Hesperia Road, Victorville, CA, 92392",+1 760-241-2288,https://local.vons.com/ca/victorville/12199-hesperia-rd.html,34.4725764,-117.2896514,,,w_133790019,"shop=supermarket, brand=Vons"
+"Piñon Hills, CA",,retail,452210,Target,"15272 Summit Avenue, Fontana, CA, 92336",+1 909-463-9872,https://www.target.com/sl/fontana-north/1958,34.1526106,-117.4724869,,,w_133828007,"shop=department_store, brand=Target"
+"Piñon Hills, CA",,retail,445110,Ralphs,"16225 Sierra Lakes Parkway, Fontana, CA, 92336",+1 909-357-2525,https://www.ralphs.com/stores/grocery/ca/fontana/sierra-lakes-village/703/00113,34.1376872,-117.450548,,,w_133828036,"shop=supermarket, brand=Ralphs"
+"Piñon Hills, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/fontana/16975-sierra-lakes-ave-34470,34.1391632,-117.4344909,,,w_133828074,"shop=convenience, brand=7-Eleven"
+"Piñon Hills, CA",,retail,445120,ampm,"12122 Mariposa Road, Victorville, CA, 92395",+1 760 241 9405,,34.4708629,-117.3434077,,,w_160379160,"shop=convenience, brand=ampm"
+"Piñon Hills, CA",,retail,446110,CVS Pharmacy,,,,34.1058245,-117.8063905,,,w_165664119,"shop=chemist, brand=CVS Pharmacy"
+"Piñon Hills, CA",,retail,445110,Albertsons,"220 East Bonita Avenue, San Dimas, CA, 91773",+1 909-599-8836,https://local.albertsons.com/ca/san-dimas/220-e-bonita-ave.html,34.1059279,-117.8034131,,,w_165664165,"shop=supermarket, brand=Albertsons"
+"Piñon Hills, CA",,retail,445110,Walmart Supercenter,"1950 Auto Center Drive, Glendora, CA, 91740",+1 909-592-4866,https://www.walmart.com/store/1941-glendora-ca,34.1165601,-117.8258534,,,w_185318128,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Piñon Hills, CA",,retail,446120,Ulta Beauty,"12188 Foothill Boulevard, Rancho Cucamonga, CA, 91739",+1 909-646-7012,https://www.ulta.com/stores/rancho-cucamonga-ca-1628,34.1077911,-117.5395709,,,w_237331237,"shop=cosmetics, brand=Ulta Beauty"
+"Piñon Hills, CA",,retail,445310,BevMo!,"12204 Foothill Boulevard, Rancho Cucamonga, CA, 91739",,https://www.bevmo.com/stores/rancho-cucamonga,34.1077096,-117.5392029,,,w_237331239,"shop=alcohol, brand=BevMo!"
+"Piñon Hills, CA",,retail,445110,Food 4 Less,"12879 Foothill Boulevard, Rancho Cucamonga, CA, 91739",+1 909-899-8388,https://www.food4less.com/stores/grocery/ca/rancho-cucamonga/foothill-marketplace/704/00328,34.1048909,-117.5246272,,,w_238015222,"shop=supermarket, brand=Food 4 Less"
+"Piñon Hills, CA",,retail,452210,Macy's,,,,34.1102376,-117.5327127,,,w_238015232,"shop=department_store, brand=Macy's"
+"Piñon Hills, CA",,retail,452210,Walmart,"12549 Foothill Boulevard, Rancho Cucamonga, CA, 91739",+1 909-899-1441,https://www.walmart.com/store/1922-rancho-cucamonga-ca,34.103456,-117.5314022,,,w_238015233,"shop=department_store, brand=Walmart, operator=Walmart"
+"Piñon Hills, CA",,retail,452210,Macy's,,,https://www.macys.com/stores/ca/ranchocucamonga/victoria-gardens_533.html,34.1108701,-117.5302425,,,w_238019751,"shop=department_store, brand=Macy's"
+"Piñon Hills, CA",,retail,452210,JCPenney,,,,34.1101896,-117.5350165,,,w_238019756,"shop=department_store, brand=JCPenney"
+"Piñon Hills, CA",,retail,445120,,,,,34.106805,-117.5352702,,,w_238026638,shop=convenience
+"Piñon Hills, CA",,retail,445310,Total Wine,"8201 Day Creek Boulevard, Rancho Cucamonga, CA, 91739",+1 909-463-5670,https://www.totalwine.com/store-info/california-rancho-cucamonga/1104,34.1044849,-117.5362612,,,w_238038332,"shop=alcohol, brand=Total Wine"
+"Piñon Hills, CA",,retail,445120,Rocket,"14921 Bear Valley Road, Hesperia, CA, 92345",,,34.4698459,-117.338276,,,w_244550366,"shop=convenience, brand=Rocket"
+"Piñon Hills, CA",,retail,445110,Albertsons,"8850 Foothill Boulevard, Rancho Cucamonga, CA, 91730",+1-909-484-7237,https://local.albertsons.com/ca/rancho-cucamonga/8850-foothill-blvd.html,34.1081967,-117.6121924,,,w_275894537,"shop=supermarket, brand=Albertsons"
+"Piñon Hills, CA",,retail,452210,Dollar Tree,,,,34.1080659,-117.608659,,,w_275894540,"shop=department_store, brand=Big Lots"
+"Piñon Hills, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-12184+palmdale+rd-victorville-ca-92392/id=12862,34.5072707,-117.3988236,,,w_285802633,"shop=chemist, brand=Walgreens"
+"Piñon Hills, CA",,retail,445110,Walmart Supercenter,"12234 Palmdale Road, Victorville, CA, 92392",+1 760-493-3047,https://www.walmart.com/store/4392-victorville-ca,34.5093194,-117.3969033,,,w_285802634,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Piñon Hills, CA",,retail,445310,,,,,34.0921034,-117.7096666,,,w_312015653,shop=alcohol
+"Piñon Hills, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-795+e+foothill+blvd-pomona-ca-91767/id=4382,34.1074756,-117.7372791,,,w_401531219,"shop=chemist, brand=Walgreens"
+"Piñon Hills, CA",,retail,445120,Circle K,"8324 CA-138, Phelan, CA, 92371",,,34.312103,-117.4780662,,,w_412099841,"shop=convenience, brand=Circle K"
+"Piñon Hills, CA",,retail,445120,Shell,"14909 Cajon Boulevard, Phelan, CA, 92371",,,34.3112676,-117.4775934,,,w_412099847,"shop=convenience, brand=Shell"
+"Piñon Hills, CA",,retail,445110,Walmart Supercenter,"13401 Main Street, Hesperia, CA, 92345",+1 760-948-4851,https://www.walmart.com/store/4340-hesperia-ca,34.4242014,-117.3700005,,,w_422118419,"shop=supermarket, brand=Walmart"
+"Piñon Hills, CA",,retail,445120,76,,,,34.1283767,-117.8634407,,,w_431113990,"shop=convenience, brand=76"
+"Piñon Hills, CA",,retail,445310,Wine Rack Liquor,,,,34.1292144,-117.8467304,,,w_431138714,shop=alcohol
+"Piñon Hills, CA",,retail,445110,Walmart Supercenter,"37140 47th Street East, Palmdale, CA, 93552",+1 661-533-0248,https://www.walmart.com/store/2950-palmdale-ca,34.5567714,-118.0422675,,,w_439102819,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Piñon Hills, CA",,retail,452210,Target,"9052 Central Avenue, Montclair, CA, 91763-1621",+1 909-624-5717,https://www.target.com/sl/montclair/1423,34.0903294,-117.6910489,,,w_449495164,"shop=department_store, brand=Target"
+"Piñon Hills, CA",,retail,452319,99 Cents Only Stores,,,https://locations.99only.com/ca/montclair/discount-store-148.html,34.0900818,-117.6919797,,,w_449495167,"shop=variety_store, brand=99 Cents Only Stores"
+"Piñon Hills, CA",,retail,445110,Walmart Supercenter,"1333 North Mountain Avenue, Ontario, CA, 91762",+1 909-321-3165,https://www.walmart.com/store/3796-ontario-ca,34.0826061,-117.6724793,,,w_449500657,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Piñon Hills, CA",,retail,445120,7-Eleven,"17979 us highway 18, Apple Valley, CA, 92307",+1 760-242-8110,https://www.7-eleven.com/locations/ca/apple-valley/17979-outer-highway-18-25984,34.5395526,-117.2717987,,,w_460848067,"shop=convenience, brand=7-Eleven"
+"Piñon Hills, CA",,retail,445120,ampm,"15333 Rancherias Road, Apple Valley, CA, 92307",+1 760-242-5513,,34.5301019,-117.2249197,,,w_460848365,"shop=convenience, brand=ampm"
+"Piñon Hills, CA",,retail,452210,Walmart,"20251 Happy Trails Highway, Apple Valley, CA, 92307",+1 760-946-2030,https://www.walmart.com/store/2333-apple-valley-ca,34.5255371,-117.223089,,,w_460848367,"shop=department_store, brand=Walmart, operator=Walmart"
+"Piñon Hills, CA",,retail,445110,Albertsons,"20261 Happy Trails Highway, Apple Valley, CA, 92307",+1 760-242-3660,https://local.albertsons.com/ca/apple-valley/20261-hwy-18.html,34.525087,-117.2202543,,,w_460848368,"shop=supermarket, brand=Albertsons"
+"Piñon Hills, CA",,retail,445110,Stater Bros.,"12253 Apple Valley Road, Apple Valley, CA, 92308",+1 760-240-2214,https://www.staterbros.com/stores/178,34.474058,-117.2404648,,,w_460849804,"shop=supermarket, brand=Stater Bros."
+"Piñon Hills, CA",,retail,452210,Target,"19201 Bear Valley Road, Apple Valley, CA, 92308-6763",+1 760-247-4111,https://www.target.com/sl/apple-valley/939,34.4686141,-117.2434708,,,w_460850832,"shop=department_store, brand=Target"
+"Piñon Hills, CA",,retail,452319,99 Cents Only Stores,,,https://locations.99only.com/ca/applevalley/discount-store-254.html,34.4687639,-117.244906,,,w_460850833,"shop=variety_store, brand=99 Cents Only Stores"
+"Piñon Hills, CA",,retail,445110,WinCo Foods,,,,34.4679908,-117.2476538,,,w_460850836,"shop=supermarket, brand=WinCo Foods"
+"Piñon Hills, CA",,retail,445110,Stater Bros.,"2090 Foothill Boulevard, La Verne, CA, 91750",+1 909-593-1591,https://www.staterbros.com/stores/48,34.1122813,-117.7661441,,,w_461966013,"shop=supermarket, brand=Stater Bros."
+"Piñon Hills, CA",,retail,445120,ampm,"3892 Sierra Avenue, Fontana, CA, 92336",,,34.1825235,-117.4378388,,,w_468218143,"shop=convenience, brand=ampm, operator=AMPM"
+"Piñon Hills, CA",,retail,445110,Sprouts Farmers Market,"835 West Foothill Boulevard, Claremont, CA, 91711",+1 909-267-1049,https://www.sprouts.com/store/ca/claremont/w-foothill-blvd/,34.1077623,-117.7301398,,,w_470265254,"shop=supermarket, brand=Sprouts Farmers Market"
+"Piñon Hills, CA",,retail,445120,,,,,34.0907937,-117.7362008,,,w_470270790,shop=convenience
+"Piñon Hills, CA",,retail,445110,Superior Grocers,,,,34.1057087,-117.7476713,,,w_470284303,"shop=supermarket, brand=Superior Grocers"
+"Piñon Hills, CA",,retail,452319,,,,,34.1090019,-117.7534802,,,w_470302940,shop=variety_store
+"Piñon Hills, CA",,retail,445110,Walmart Neighborhood Market,"778 East Arrow Highway, Pomona, CA, 91767",+1 909-962-5011,https://www.walmart.com/store/3132-pomona-ca,34.0885641,-117.7374727,,,w_470312339,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Piñon Hills, CA",,retail,452210,Kohl's,"2229 Foothill Boulevard, La Verne, CA, 91750",+1 909-392-3248,https://www.kohls.com/stores/ca/laverne-599.shtml,34.1138852,-117.7627067,,,w_470325040,"shop=department_store, brand=Kohl's"
+"Piñon Hills, CA",,retail,445292,Sweet Savory,,,,34.106392,-117.807834,,,w_470985711,shop=confectionery
+"Piñon Hills, CA",,retail,445110,Albertsons,"133 West Route 66, Glendora, CA, 91740",+1 626-963-5358,https://local.albertsons.com/ca/glendora/133-w-route-66.html,34.130095,-117.8649811,,,w_471638020,"shop=supermarket, brand=Albertsons"
+"Piñon Hills, CA",,retail,445120,Altadena Dairy,437 East Route 66,,,34.1289712,-117.8588329,,,w_471669395,shop=convenience
+"Piñon Hills, CA",,retail,445120,,,,,34.1296192,-117.8590186,,,w_471669402,shop=convenience
+"Piñon Hills, CA",,retail,445120,7-Eleven,"730 East Foothill Boulevard, Pomona, CA, 91767-1224",+1 909-624-7436,https://www.7-eleven.com/locations/ca/pomona/730-e-foothill-blvd-24479,34.1067513,-117.7371852,,,w_472062487,"shop=convenience, brand=7-Eleven"
+"Piñon Hills, CA",,retail,446110,Rite Aid,,,,34.5721651,-118.0441561,,,w_472681423,"shop=chemist, brand=Rite Aid"
+"Piñon Hills, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/palmdale-ca-pharmacies/38012-47th-street-east-palmdale-ca-93552/storeid=3055,34.5734184,-118.0440612,,,w_472912422,"shop=chemist, brand=CVS Pharmacy"
+"Piñon Hills, CA",,retail,445110,Vallarta,,,,34.5748928,-118.0436453,,,w_472912548,"shop=supermarket, brand=Vallarta"
+"Piñon Hills, CA",,retail,445120,,,,,34.5207147,-117.9860229,,,w_472915294,shop=convenience
+"Piñon Hills, CA",,retail,445120,Super Store 6,,,,34.5580208,-117.9691413,,,w_472938250,shop=convenience
+"Piñon Hills, CA",,retail,445110,Farmers Mart,"8202 Pearblossom Highway, Littlerock, CA, 93543",,,34.5207668,-117.9832975,,,w_472949258,shop=supermarket
+"Piñon Hills, CA",,retail,445120,,,,,34.5204031,-117.9805676,,,w_472950885,shop=convenience
+"Piñon Hills, CA",,retail,445120,Mobil Mart,,,,34.5430537,-118.0313507,,,w_472983012,"shop=convenience, brand=Mobil Mart"
+"Piñon Hills, CA",,retail,445120,Food Mart,"12130 Bear Valley Road, Victorville, CA, 92392",,,34.4710099,-117.3987768,,,w_489088324,shop=convenience
+"Piñon Hills, CA",,retail,445110,Vallarta,"12351 Mariposa Road, Victorville, CA, 92395",+1 760-243-1246,https://vallartasupermarkets.com/store-locations/vallarta-supermarkets-local-grocery-store-in-victorville-22/,34.4751946,-117.3393499,,,w_493394583,"shop=supermarket, brand=Vallarta"
+"Piñon Hills, CA",,retail,445110,Food 4 Less,"20801 Bear Valley Road, Apple Valley, CA, 92308",+1 760-247–4990,https://www.food4less.com/stores/grocery/ca/apple-valley/kiowa-square/704/00782?cid=loc_70400782_fb,34.4701316,-117.2090667,,,w_494068973,"shop=supermarket, brand=Food 4 Less"
+"Piñon Hills, CA",,retail,452319,Dollar General,"20834 Outer Bear Valley Road, Apple Valley, CA, 92308",+1 760-503-5595,https://www.dollargeneral.com/store-directory/ca/apple-valley/14805,34.4720498,-117.2089729,,,w_494073089,"shop=variety_store, brand=Dollar General"
+"Piñon Hills, CA",,retail,445120,Circle K,"18465 Outer Hwy 18 South, Apple Valley, CA, 92307",,,34.5388462,-117.2613875,,,w_494580914,"shop=convenience, brand=Circle K"
+"Piñon Hills, CA",,retail,445120,ampm,"20815 Bear Valley Outerhighway South, Apple Valley, CA, 92308",,,34.470932,-117.2082867,,,w_494676594,"shop=convenience, brand=ampm"
+"Piñon Hills, CA",,retail,445120,,,,,34.4717984,-117.2448598,,,w_495844199,shop=convenience
+"Piñon Hills, CA",,retail,445120,Panther Express,,,,34.1471334,-117.5732341,,,w_501598204,shop=convenience
+"Piñon Hills, CA",,retail,445110,Walmart Neighborhood Market,"1445 East Foothill Boulevard, Upland, CA, 91786",+1 909-942-4931,https://www.walmart.com/store/5691-upland-ca,34.1084644,-117.62968,,,w_502500053,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Piñon Hills, CA",,retail,445310,Barrel House Liquor,,,,34.5374173,-117.2946362,,,w_505516858,shop=alcohol
+"Piñon Hills, CA",,retail,445120,ampm,"16869 D Street, Victorville, CA, 92395",,,34.536353,-117.2936077,,,w_505517170,"shop=convenience, brand=ampm"
+"Piñon Hills, CA",,retail,445120,Shell,"17918 Bear Valley Road, Victorville, CA, 92395",,https://locations.deltaco.com/us/ca/victorville/17918-bear-valley-rd,34.4717015,-117.2721102,,,w_516882314,"shop=convenience, brand=Shell"
+"Piñon Hills, CA",,retail,452210,Ross,"5445 Moreno Street, Montclair, CA, 91763-1632",+1 909-920-5055,,34.0874633,-117.6861232,,,w_537845358,"shop=department_store, brand=Ross"
+"Piñon Hills, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/rancho-cucamonga-ca-pharmacies/8956-foothill-blvd-rancho-cucamonga-ca-91730/storeid=10914,34.1076863,-117.6099468,,,w_546490216,"shop=chemist, brand=CVS Pharmacy"
+"Piñon Hills, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-6400+haven+ave-rancho+cucamonga-ca-91737/id=5652,34.1383949,-117.5765197,,,w_550937454,"shop=chemist, brand=Walgreens"
+"Piñon Hills, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/rancho-cucamonga/10477-alta-loma-drive-33308,34.1375434,-117.5763225,,,w_550937459,"shop=convenience, brand=7-Eleven"
+"Piñon Hills, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/fontana/15264-summit-ave-33656,34.1498682,-117.4732719,,,w_586387342,"shop=convenience, brand=7-Eleven"
+"Piñon Hills, CA",,retail,445110,Stater Bros.,"15222 Summit Avenue, Fontana, CA, 92336",+1 909-463-2490,https://www.staterbros.com/stores/175,34.1513396,-117.4755223,,,w_586387348,"shop=supermarket, brand=Stater Bros."
+"Piñon Hills, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/fontana/5189/,34.1521129,-117.475353,,,w_586387350,"shop=variety_store, brand=Dollar Tree"
+"Piñon Hills, CA",,retail,452210,Ross,"15254 Summit Avenue, Fontana, CA, 92336",,https://www.rossstores.com/store-locator/,34.1527158,-117.4740648,,,w_586387354,"shop=department_store, brand=Ross"
+"Piñon Hills, CA",,retail,445120,Easy Shop Market,"8694 Arrow Route, Rancho Cucamonga, CA, 91730",+1 909 982 7332,,34.099607,-117.6156138,,,w_598207022,shop=convenience
+"Piñon Hills, CA",,retail,445310,,,,,34.106094,-117.6102156,,,w_598525313,shop=alcohol
+"Piñon Hills, CA",,retail,452210,Target,"1931 Campus Avenue, Upland, CA, 91786",+1 909-985-0348,https://www.target.com/sl/upland/1834,34.1336388,-117.6406726,,,w_599072863,"shop=department_store, brand=Target"
+"Piñon Hills, CA",,retail,446120,Ulta Beauty,"1927 Campus Avenue, Upland, CA, 91786",+1 909-931-0608,https://www.ulta.com/stores/upland-ca-174,34.133407,-117.6415367,,,w_599072864,"shop=cosmetics, brand=Ulta Beauty"
+"Piñon Hills, CA",,retail,452210,Kohl's,"1923 Campus Avenue, Upland, CA, 91786",+1 909-931-2103,https://www.kohls.com/stores/ca/upland-607.shtml,34.1336387,-117.6421945,,,w_599072865,"shop=department_store, brand=Kohl's"
+"Piñon Hills, CA",,retail,445110,Albertsons,"1910 North Campus Avenue, Upland, CA, 91784",+1 909-946-4447,https://local.albertsons.com/ca/upland/1910-n-campus-ave.html,34.1311697,-117.6376262,,,w_599072946,"shop=supermarket, brand=Albertsons"
+"Piñon Hills, CA",,retail,445310,BevMo!,,,,34.1320006,-117.6358943,,,w_599072949,"shop=alcohol, brand=BevMo!"
+"Piñon Hills, CA",,retail,452210,TJ Maxx,,,,34.1321928,-117.6349656,,,w_599072950,"shop=department_store, brand=TJ Maxx"
+"Piñon Hills, CA",,retail,446120,Sephora,,,,34.1326658,-117.6332508,,,w_599072954,"shop=cosmetics, brand=Sephora"
+"Piñon Hills, CA",,retail,445120,Valero,,,,34.0990332,-117.6114382,,,w_599413813,"shop=convenience, brand=Valero"
+"Piñon Hills, CA",,retail,445310,,"Main Street, Hesperia, CA, 92345",,,34.4198611,-117.2923105,,,w_606154119,shop=alcohol
+"Piñon Hills, CA",,retail,445110,Stater Bros.,"16904 Main Street, Hesperia, CA, 92345",+1 760-244-1503,https://www.staterbros.com/stores/190,34.422036,-117.2944012,,,w_606154121,"shop=supermarket, brand=Stater Bros."
+"Piñon Hills, CA",,retail,445120,,,,,34.1082598,-117.5938039,,,w_663883704,shop=convenience
+"Piñon Hills, CA",,retail,445120,,,,,34.108854,-117.5938395,,,w_663883705,shop=convenience
+"Piñon Hills, CA",,retail,445120,,,,,34.1063209,-117.5970602,,,w_664009268,shop=convenience
+"Piñon Hills, CA",,retail,445110,Stater Bros.,"8770 Base Line Road, Alta Loma, CA, 91701",,https://www.staterbros.com/stores/53/,34.1226962,-117.6146174,,,w_665702848,"shop=supermarket, brand=Stater Bros."
+"Piñon Hills, CA",,retail,445120,U-Save Market,"13708 Hesperia Road, Victorville, CA, 92395",,,34.5002646,-117.2940482,,,w_668188562,shop=convenience
+"Piñon Hills, CA",,retail,445120,ExtraMile,"14796 La Paz Drive, Victorville, CA, 92395",,,34.5202592,-117.3165842,,,w_671007872,"shop=convenience, brand=ExtraMile"
+"Piñon Hills, CA",,retail,452319,99 Cents Only Stores,"14670 7th Street, Victorville, CA, 92395",,https://locations.99only.com/ca/victorville/discount-store-93.html,34.5182977,-117.3127935,,,w_671007900,"shop=variety_store, brand=99 Cents Only Stores"
+"Piñon Hills, CA",,retail,445120,G&M,"14689 La Paz Drive, Victorville, CA, 92395",,,34.5181771,-117.3160728,,,w_671755712,shop=convenience
+"Piñon Hills, CA",,retail,452210,dd's Discounts,"V 7th Street, Victorville, CA, 92395",,,34.5168431,-117.314644,,,w_671941479,"shop=department_store, brand=dd's Discounts"
+"Piñon Hills, CA",,retail,445110,Mother's Nutritional Center,"14595 7th Street, Victorville, CA, 92395",,,34.5160038,-117.3130666,,,w_671941483,shop=supermarket
+"Piñon Hills, CA",,retail,445120,ExtraMile,"12659 Foothill Boulevard, Rancho Cucamonga, CA, 91701",,https://www.chevronextramile.com/station-finder/12659-foothill-blvd.-rancho-cucamonga-ca-91701-id201595/,34.105876,-117.5290952,,,w_672393062,"shop=convenience, brand=ExtraMile"
+"Piñon Hills, CA",,retail,445120,Chevron,"13188 Main Street, Hesperia, CA, 92345",+1 760-948-6800,,34.4273421,-117.3757633,,,w_696775705,"shop=convenience, brand=Chevron"
+"Piñon Hills, CA",,retail,445120,Depot 5,"13187 Main Street, Hesperia, CA, 92345",+1 760-948-8180,,34.4260986,-117.3761449,,,w_696775707,shop=convenience
+"Piñon Hills, CA",,retail,445120,Chevron,,,,34.1217948,-117.4879907,,,w_722615100,"shop=convenience, brand=Chevron"
+"Piñon Hills, CA",,retail,445110,Whole Foods Market,"2153 West Baseline Road, Upland, CA, 91784",+1 909-579-2670,https://www.wholefoodsmarket.com/stores/upland,34.1230039,-117.6924461,,,w_725139033,"shop=supermarket, brand=Whole Foods Market"
+"Piñon Hills, CA",,retail,445310,Grand Liquor Food Mart,,,,34.1858164,-117.4396049,,,w_744742914,"shop=alcohol, brand=Valero"
+"Piñon Hills, CA",,retail,445110,Jensen's Foods,"1340 State Highway 2, Wrightwood, CA, 92397",,https://wrightwood.jensensfoods.com/locations/wrightwood/,34.3610115,-117.631971,,,w_759728064,"shop=supermarket, operator=Jensen's Foods"
+"Piñon Hills, CA",,retail,452319,Family Dollar,,,,34.5206236,-117.9797475,,,w_851741378,"shop=variety_store, brand=Family Dollar"
+"Piñon Hills, CA",,retail,446110,CVS Pharmacy,"7170 Day Creek Boulevard, Rancho Cucamonga, CA, 91739",,https://www.cvs.com/store-locator/rancho-cucamonga-ca-pharmacies/7170-day-creek-blvd-rancho-cucamonga-ca-91739/storeid=10805,34.1233395,-117.5373241,,,w_858692935,"shop=chemist, brand=CVS Pharmacy"
+"Piñon Hills, CA",,retail,445110,Stater Bros.,"7200 Day Creek Boulevard, Rancho Cucamonga, CA, 91739",+1 909-646-1148,https://www.staterbros.com/stores/200/,34.1229483,-117.5386608,,,w_858692937,"shop=supermarket, brand=Stater Bros."
+"Piñon Hills, CA",,retail,445120,,,,,34.1067727,-117.5487026,,,w_858706667,shop=convenience
+"Piñon Hills, CA",,retail,445120,,"92344 Mariposa Road, Hesperia, CA, 92344",,,34.3602252,-117.4343392,,,w_876412637,shop=convenience
+"Piñon Hills, CA",,retail,445120,ExtraMile,"14250 Bear Valley Road, Victorville, CA, 92392",,,34.4709019,-117.3528219,,,w_876416806,"shop=convenience, brand=ExtraMile"
+"Piñon Hills, CA",,retail,445120,Mobil Mart,"14714 Bear Valley Road, Victorville, CA, 92395",+1 760 952 9922,https://www.exxon.com/en/find-station/mobil-victorville-ca-armagoilinc-200309702,34.4708583,-117.3424306,,,w_876417447,"shop=convenience, brand=Mobil Mart"
+"Piñon Hills, CA",,retail,445120,Circle K,"15289 Nisqualli Road, Victorvill, CA, 92395",,,34.4844254,-117.3306188,,,w_876418865,"shop=convenience, brand=Circle K"
+"Piñon Hills, CA",,retail,445120,B Food Mart,"15482 Palmdale Road, Victorville, CA, 92392",,,34.5074194,-117.3265078,,,w_876420554,shop=convenience
+"Piñon Hills, CA",,retail,445120,Circle K,"14511 Palmdale Road, Victorville, CA, 92392",+1 760-962-1818,https://www.circlek.com/store-locator/US/victorville/14511-palmdale-rd/2706017,34.5061434,-117.346268,,,w_876420557,"shop=convenience, brand=Circle K"
+"Piñon Hills, CA",,retail,445120,ampm,"14475 Palmdale Road, Victorville, CA, 92392",,,34.5060977,-117.3474212,,,w_876420559,"shop=convenience, brand=ampm"
+"Piñon Hills, CA",,retail,445120,Shop 'N' Go,"14518 Main Street, Hesperia, CA, 92345",+1-760-956-6600,,34.4272522,-117.3460023,,,w_877755276,shop=convenience
+"Piñon Hills, CA",,retail,452319,Dollar General,"40360 171st Street East, Lake Los Angeles, CA, 93591",(661) 544-1955,https://www.dollargeneral.com/store-directory/ca/lake-los-angeles/14002,34.6159501,-117.8261284,,,w_878028734,"shop=variety_store, brand=Dollar General"
+"Piñon Hills, CA",,retail,452319,Family Dollar,"16830 East Avenue O, Lake Los Angeles, CA, 93591",(661) 349-7852,,34.6158857,-117.8282885,,,w_878029825,"shop=variety_store, brand=Family Dollar"
+"Piñon Hills, CA",,retail,445120,,,,,34.1074493,-117.6696723,,,w_883376049,shop=convenience
+"Piñon Hills, CA",,retail,445110,Smart & Final,,,,34.1077647,-117.6684333,,,w_883376050,"shop=supermarket, brand=Smart & Final"
+"Piñon Hills, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-1241+w+foothill+blvd-upland-ca-91786/id=6061,34.1077511,-117.6714141,,,w_883376058,"shop=chemist, brand=Walgreens"
+"Piñon Hills, CA",,retail,445110,Stater Bros.,"919 North Mountain Avenue, Upland, CA, 91786",+1 909-982-3514,https://www.staterbros.com/stores/45,34.1053884,-117.6708146,,,w_883376077,"shop=supermarket, brand=Stater Bros."
+"Piñon Hills, CA",,retail,452210,Big Lots,"1284 West Foothill Boulevard, Upland, CA, 91786",+1 909-949-1321,https://local.biglots.com/ca/upland/1284-w-foothill-blvd,34.106226,-117.6722788,,,w_883376079,"shop=department_store, brand=Big Lots"
+"Piñon Hills, CA",,retail,445310,Liquorama,901A Foothill Boulevard,,,34.108493,-117.6630004,,,w_883376099,shop=alcohol
+"Piñon Hills, CA",,retail,445110,Sprouts Farmers Market,"847 Foothill Boulevard, Upland, CA, 91786",+1 909-912-1461,https://www.sprouts.com/store/ca/upland/w-foothill-blvd-2/,34.1084429,-117.6620559,,,w_883376101,"shop=supermarket, brand=Sprouts Farmers Market"
+"Piñon Hills, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/upland-ca-pharmacies/100-w-foothill-blvd-upland-ca-91786/storeid=9698,34.1055185,-117.6526755,,,w_883616243,"shop=chemist, brand=CVS Pharmacy"
+"Piñon Hills, CA",,retail,452210,Marshalls,,,,34.1055162,-117.6531925,,,w_883616244,"shop=department_store, brand=Marshalls"
+"Piñon Hills, CA",,retail,452210,Walmart,"1540 West Foothill Boulevard, Upland, CA, 91786",+1 909-920-4021,https://www.walmart.com/store/1992-upland-ca,34.1059105,-117.678395,,,w_883696720,"shop=department_store, brand=Walmart, operator=Walmart"
+"Piñon Hills, CA",,retail,446120,Mimi Nails & Spa,905 Foothill Boulevard,909-949-9753,,34.1079924,-117.6629635,,,w_883971666,shop=beauty
+"Piñon Hills, CA",,retail,446120,Sola Salons,829B Foothill Boulevard,,,34.108462,-117.6615268,,,w_883971676,"shop=beauty, brand=Sola Salons"
+"Piñon Hills, CA",,retail,446120,The Babe Cave Waxing & Skin Care,,,,34.1084408,-117.6518432,,,w_883973787,shop=beauty
+"Piñon Hills, CA",,retail,446120,Verve Med Spa,,,,34.1086245,-117.6518439,,,w_883973790,shop=beauty
+"Piñon Hills, CA",,retail,446120,Amiana Nails Lounge,,,,34.1053547,-117.6519637,,,w_883977140,shop=beauty
+"Piñon Hills, CA",,retail,452210,Burlington,"121 Eugene Court, Upland, CA, 91786",+1 909-257-3488,https://stores.burlington.com/ca/upland/1069,34.1084144,-117.6497718,,,w_884242688,"shop=department_store, brand=Burlington"
+"Piñon Hills, CA",,retail,446120,Aspire Salon Studios,141 Eugene Court,,,34.1082973,-117.6492667,,,w_884242689,shop=beauty
+"Piñon Hills, CA",,retail,452210,Ross,"161 East Foothill Boulevard, Upland, CA, 91786",+1 909-920-0033,,34.1083758,-117.6489189,,,w_884242690,"shop=department_store, brand=Ross"
+"Piñon Hills, CA",,retail,452319,Dollar Tree,,,,34.1083958,-117.6481427,,,w_884242692,"shop=variety_store, brand=Dollar Tree"
+"Piñon Hills, CA",,retail,445120,7-Eleven,"720 East Foothill Blv, Upland, CA, 91786",+1 909-982-5214,https://www.7-eleven.com/locations/ca/upland/720-e-foothill-blv-34568,34.1065301,-117.6410962,,,w_884273938,"shop=convenience, brand=7-Eleven"
+"Piñon Hills, CA",,retail,445110,Stater Bros.,"1619 North Mountain Avenue, Upland, CA, 91784",+1 909-981-3237,https://www.staterbros.com/stores/65,34.1221848,-117.6718349,,,w_885037338,"shop=supermarket, brand=Stater Bros."
+"Piñon Hills, CA",,retail,445310,Wine & Liquor Cabinet,,,,34.1225334,-117.671745,,,w_885037339,shop=alcohol
+"Piñon Hills, CA",,retail,445299,,,,,34.1073556,-117.6752773,,,w_885303281,shop=dairy
+"Piñon Hills, CA",,retail,446110,CVS Pharmacy,,,,34.0904393,-117.6720648,,,w_886621746,"shop=chemist, brand=CVS Pharmacy"
+"Piñon Hills, CA",,retail,445110,ALDI,"349 South Mountain Avenue, Upland, CA, 91786-7032",+1 909-453-4559,https://stores.aldi.us/ca/upland/349-s-mountain-ave,34.0899706,-117.6720494,,,w_886621749,"shop=supermarket, brand=ALDI"
+"Piñon Hills, CA",,retail,445120,Mobil Mart,"16088 La Paz Drive, Victorville, CA, 92395",,,34.529395,-117.313346,,,w_904282325,"shop=convenience, brand=Mobil Mart"
+"Piñon Hills, CA",,retail,445110,Food 4 Less,"16266 Bear Valley Road, Victorville, CA, 92392",,,34.4717902,-117.3088379,,,w_905306680,"shop=supermarket, brand=Food 4 Less"
+"Piñon Hills, CA",,retail,445120,,,,,34.5797789,-117.4129587,,,w_913915199,shop=convenience
+"Piñon Hills, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-16145+sierra+lakes+pkwy-fontana-ca-92336/id=9588,34.1385169,-117.4528193,,,w_921518245,"shop=chemist, brand=Walgreens"
+"Piñon Hills, CA",,retail,445110,Sprouts Farmers Market,"16964 South Highland Avenue, Fontana, CA, 92336",+1 909-320-5360,https://www.sprouts.com/store/ca/fontana/fontana/,34.1352204,-117.4348726,,,w_922322516,"shop=supermarket, brand=Sprouts Farmers Market"
+"Piñon Hills, CA",,retail,445310,Liquorland,,,,34.106193,-117.6900753,,,w_941645364,shop=alcohol
+"Piñon Hills, CA",,retail,445120,,,,,34.150871,-117.6520067,,,w_949866603,shop=convenience
+"Piñon Hills, CA",,retail,446110,CVS Pharmacy,"16049 Baseline Avenue, Fontana, CA, 92336",,https://www.cvs.com/store-locator/fontana-ca-pharmacies/16049-baseline-avenue-1-fontana-ca-92336/storeid=11035,34.1207461,-117.4542887,,,w_972186972,"shop=chemist, brand=CVS Pharmacy"
+"Piñon Hills, CA",,retail,445120,Circle K,"11724 Air Expressway, Adelanto, CA, 92301",,https://www.circlek.com/store-locator/US/adelanto/11724-airbase-rd/2708644,34.5723742,-117.4085991,,,w_977015212,"shop=convenience, brand=Circle K"
+"Piñon Hills, CA",,retail,452319,Dollar General,"11746 Air Expressway, Adelanto, CA, 92301",,https://www.dollargeneral.com/store-directory/ca/adelanto/15199,34.5724994,-117.4080086,,,w_977015214,"shop=variety_store, brand=Dollar General"
+"Piñon Hills, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/fontana/7285-citrus-ave-38160,34.1217792,-117.4531867,,,w_979757051,"shop=convenience, brand=7-Eleven"
+"Piñon Hills, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/upland-ca-pharmacies/2121-west-baseline-rd-upland-ca-91784/storeid=11112,34.1226669,-117.6921464,,,w_989743863,"shop=chemist, brand=CVS Pharmacy"
+"Piñon Hills, CA",,retail,446120,Bobo's Beauty Supply,,,,34.0892709,-117.6867085,,,w_990156017,shop=beauty
+"Piñon Hills, CA",,retail,445210,"Bernie's Meats, LLC.",,,,34.0908718,-117.6873019,,,w_990156046,shop=butcher
+"Piñon Hills, CA",,retail,445120,7-Eleven,"187 North San Antonio, Upland, CA, 91786-4520",+1 909-946-0863,https://www.7-eleven.com/locations/ca/upland/187-n-san-antonio-13981,34.095776,-117.6613341,,,w_990156150,"shop=convenience, brand=7-Eleven"
+"Piñon Hills, CA",,retail,445120,7-Eleven,"599 North Mountain Avenue, Upland, CA, 91786",+1 909-949-0734,https://www.7-eleven.com/locations/ca/upland/599-n-mountain-ave-36035,34.1013932,-117.6705688,,,w_990156253,"shop=convenience, brand=7-Eleven"
+"Piñon Hills, CA",,retail,445310,,,,,34.1068507,-117.6437945,,,w_990607294,shop=alcohol
+"Piñon Hills, CA",,retail,445120,Valero,"720 9th St, Upland, CA, 91786",,,34.0958171,-117.641219,,,w_991842087,"shop=convenience, amenity=fuel, brand=Valero"
+"Piñon Hills, CA",,retail,445120,7-Eleven,"204 North Euclid Avenue, Upland, CA, 91786-6037",+1 909-931-1241,https://www.7-eleven.com/locations/ca/upland/204-n-euclid-ave-39210,34.0964983,-117.6504495,,,w_991842118,"shop=convenience, brand=7-Eleven"
+"Piñon Hills, CA",,retail,452319,Dollar General,"8830 East Palmdale Boulevard, Sun Village, CA, 93552",+1 661-382-0025,https://www.dollargeneral.com/store-directory/ca/sun-village/17009,34.5791236,-117.9707643,,,w_993282134,"shop=variety_store, brand=Dollar General"
+"Piñon Hills, CA",,retail,445120,Rebel,,,,34.0921911,-117.6698547,,,w_994107756,shop=convenience
+"Piñon Hills, CA",,retail,446120,Allure,,,,34.1226554,-117.6709585,,,w_995425916,shop=beauty
+"Piñon Hills, CA",,retail,446120,Bella Nails & Spa,,,,34.1232051,-117.6709781,,,w_995425920,shop=beauty
+"Piñon Hills, CA",,retail,446120,Luxury Nails & Spa,,,,34.1081024,-117.6605704,,,w_996756626,shop=beauty
+"Piñon Hills, CA",,retail,446120,I.E. Microblading,,,,34.1081032,-117.6604517,,,w_996756628,shop=beauty
+"Piñon Hills, CA",,retail,446120,Wink Lashes,,,,34.1081039,-117.660336,,,w_996756630,shop=beauty
+"Piñon Hills, CA",,retail,453991,Smoke & Gift +,,,,34.1081048,-117.6601977,,,w_996756632,shop=tobacco
+"Piñon Hills, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/montclair/6138/,34.0881726,-117.6876745,,,w_998579804,"shop=variety_store, brand=Dollar Tree"
+"Piñon Hills, CA",,retail,452319,Five Below,,+1 909-398-1941,https://locations.fivebelow.com/ca/montclair/5427-moreno-street-d,34.0872472,-117.686899,,,w_998579805,"shop=variety_store, brand=Five Below"
+"Piñon Hills, CA",,retail,446120,Eyebrow Image,,,,34.0872459,-117.6873245,,,w_998579807,shop=beauty
+"Piñon Hills, CA",,retail,446120,Lovely Nails & Spa,,,,34.0919858,-117.6913792,,,w_998579814,shop=beauty
+"Piñon Hills, CA",,retail,452210,Target,"38019 47th Street East, Palmdale, CA, 93552-3103",+1 661-998-2500,https://www.target.com/sl/palmdale-east/2350,34.5740586,-118.0485225,,,w_1006767313,"shop=department_store, brand=Target"
+"Piñon Hills, CA",,retail,446120,Bath & Body Works,,,,34.5747989,-118.0482122,,,w_1006767315,"shop=cosmetics, brand=Bath & Body Works"
+"Piñon Hills, CA",,retail,452210,Ross,"38115 47th Street East, Palmdale, CA, 93552",+1 661-533-9394,,34.5750598,-118.04838,,,w_1006767316,"shop=department_store, brand=Ross"
+"Piñon Hills, CA",,retail,445110,Walmart Supercenter,"11896 Amargosa Road, Victorville, CA, 92392",+1 760-951-5005,https://www.walmart.com/store/1588-victorville-ca,34.46512,-117.3544287,,,w_1008760751,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Piñon Hills, CA",,retail,445120,7-Eleven,"2410 Arrow Route, CA",,,34.0992948,-117.6990038,,,w_1009767810,"shop=convenience, brand=7-Eleven"
+"Piñon Hills, CA",,retail,445310,J&J Liquor,,,,34.1064381,-117.6976957,,,w_1010876624,shop=alcohol
+"Piñon Hills, CA",,retail,445120,Beyond Food Mart,"12675 Main Street, Hesperia, CA, 92345",,,34.4259328,-117.3880783,,,w_1014500071,shop=convenience
+"Piñon Hills, CA",,retail,446120,Phenix Salon Suites,,,,34.0901487,-117.7184518,,,w_1053495509,shop=beauty
+"Piñon Hills, CA",,retail,445120,,,,,34.5089798,-117.3985233,,,w_1059903707,shop=convenience
+"Piñon Hills, CA",,retail,445120,,,,,34.5073596,-117.4176385,,,w_1059905934,shop=convenience
+"Piñon Hills, CA",,retail,445120,JAS Gas and Food Mart,"15603 7th Street, Victorville, CA, 92395",,https://www.exxon.com/en/find-station/mobil-victorville-ca-jasgasandfoodmart-200324793,34.5354095,-117.2933704,,,w_1060895443,shop=convenience
+"Piñon Hills, CA",,retail,445120,Chevron,"12925 Hesperia Road, Victorville, CA, 92392",,,34.4860624,-117.2894953,,,w_1061461640,"shop=convenience, brand=Chevron"
+"Piñon Hills, CA",,retail,445120,ampm,"12890 Hesperia Road, Victorville, CA, 92392",,,34.4850341,-117.2908694,,,w_1061461652,"shop=convenience, brand=ampm"
+"Piñon Hills, CA",,retail,445120,Fastrip,"17223 Main Street, Hesperia, CA, 92345",,https://fastrip.com/,34.4191011,-117.2874742,,,w_1062141667,shop=convenience
+"Piñon Hills, CA",,retail,445120,76,"17465 Main Street, Hesperia, CA, 92345",,https://www.76.com/station/U76-HESPERIA-76-0000859763?refer=psx_76,34.4181016,-117.282055,,,w_1062141672,"shop=convenience, brand=76"
+"Piñon Hills, CA",,retail,445120,Shell,"16337 Main Street, Hesperia, CA, 92345",,,34.4218053,-117.3063336,,,w_1062141689,"shop=convenience, brand=Shell"
+"Piñon Hills, CA",,retail,445120,Sinclair,"16307 Main Street, Hesperia, CA, 92345",,,34.4219896,-117.3071075,,,w_1062141693,"shop=convenience, brand=Sinclair"
+"Piñon Hills, CA",,retail,445310,Hesperia Liquor,"16233 Main Street, Hesperia, CA, 92345",,,34.4222196,-117.3086408,,,w_1062141697,shop=alcohol
+"Piñon Hills, CA",,retail,445120,Main Street Gas & Mart,"16400 Main Street, Hesperia, CA, 92345",,,34.4224032,-117.3050235,,,w_1062147132,shop=convenience
+"Piñon Hills, CA",,retail,445120,Fastrip,"16117 Main Street, Hesperia, CA, 92345",,,34.4225953,-117.3114416,,,w_1062147145,shop=convenience
+"Piñon Hills, CA",,retail,445120,Chevron,"15933 Main Street, Hesperia, CA, 92345",,,34.4231346,-117.3152429,,,w_1062147165,"shop=convenience, brand=Chevron"
+"Piñon Hills, CA",,retail,445120,Chevron,"15320 Bear Valley Road, Victorville, CA, 92395",,,34.4712672,-117.3294178,,,w_1062978755,"shop=convenience, brand=Chevron"
+"Piñon Hills, CA",,retail,445120,Hesperia Gas & Mart,"15515 Bear Valley Road, Hesperia, CA, 92345",,,34.4701376,-117.3248018,,,w_1062978768,shop=convenience
+"Piñon Hills, CA",,retail,445110,WinCo Foods,"14338 Foothill Boulevard, Fontana, CA, 92335",,https://www.wincofoods.com/stores/win-co-foods-fontana-33/4723,34.1073737,-117.4920579,,,w_1064175491,"shop=supermarket, brand=WinCo Foods"
+"Piñon Hills, CA",,retail,445120,ampm,"11711 Air Expressway, Adelanto, CA, 92301",,,34.5713751,-117.4085841,,,w_1064344735,"shop=convenience, brand=ampm"
+"Piñon Hills, CA",,retail,445120,Mojave Gas Mart,"15322 Village Drive, Victorville, CA, 92394",,,34.5292436,-117.3187147,,,w_1064370378,shop=convenience
+"Piñon Hills, CA",,retail,445120,Circle K,"15825 Mojave Drive, Victorville, CA, 92394",,,34.5282463,-117.3190446,,,w_1064370385,"shop=convenience, brand=Circle K"
+"Piñon Hills, CA",,retail,445310,Mojave Market and Liquor,"15745 Mojave Drive, Victorville, CA, 92394",,,34.528465,-117.3205756,,,w_1064370388,shop=alcohol
+"Piñon Hills, CA",,retail,452319,Dollar Tree,"16953 Sierra Lakes Parkway, Fontana, CA, 92336",,https://www.dollartree.com/locations/ca/fontana/4014/,34.1380356,-117.4344349,,,w_1064794426,"shop=variety_store, brand=Dollar Tree"
+"Piñon Hills, CA",,retail,445120,ampm,,,,34.1343048,-117.4530942,,,w_1064798652,"shop=convenience, brand=ampm"
+"Piñon Hills, CA",,retail,445310,,,,,34.135593,-117.4577213,,,w_1064798653,shop=alcohol
+"Piñon Hills, CA",,retail,445120,Circle K,"11490 Fashion Court, Hesperia, CA, 92344",,,34.3823761,-117.4122507,,,w_1066127427,"shop=convenience, brand=Circle K"
+"Piñon Hills, CA",,retail,445120,Chevron,"11510 Fashion Court, Hesperia, CA, 92344",,,34.3823414,-117.4104354,,,w_1066127431,"shop=convenience, brand=Chevron"
+"Piñon Hills, CA",,retail,445120,ampm,"12078 Three Flags Road, Hesperia, CA, 92345",,,34.4108874,-117.3999797,,,w_1066130705,"shop=convenience, brand=ampm"
+"Piñon Hills, CA",,retail,445120,Chevron,"13601 Apple Valley Road, Apple Valley, CA, 92308",,,34.4996752,-117.2418259,,,w_1066424925,"shop=convenience, brand=Chevron"
+"Piñon Hills, CA",,retail,445120,,,,,34.1071538,-117.4897744,,,w_1071242617,shop=convenience
+"Piñon Hills, CA",,retail,445120,76,,,,34.1208986,-117.4529722,,,w_1075286466,"shop=convenience, brand=76"
+"Piñon Hills, CA",,retail,452319,Saddleback Market,Lake Los Angeles,+1 661 264-2904,,34.6169469,-117.8262957,,,w_1075482766,shop=general
+"Piñon Hills, CA",,retail,445120,,,,,34.1347784,-117.4192935,,,w_1085709259,shop=convenience
+"Piñon Hills, CA",,retail,445120,7-Eleven,"16975 Sierra Lakes Parkway, Fontana, CA, 92336",,https://www.7-eleven.com/locations/ca/fontana/16975-sierra-lakes-ave-34470,34.1384877,-117.4324108,,,w_1102479393,"shop=convenience, brand=7-Eleven"
+"Piñon Hills, CA",,retail,445110,Sprouts Farmers Market,"7355 Day Creek Boulevard, Rancho Cucamonga, CA, 91739",+1 909-803-5730,https://www.sprouts.com/store/ca/rancho-cucamonga/rancho-cucamonga/,34.1199663,-117.5353863,,,w_1104604994,"shop=supermarket, brand=Sprouts Farmers Market"
+"Piñon Hills, CA",,retail,445120,Chevron,"13302 Ranchero Road, Oak Hills, CA, 92344",,,34.3837132,-117.3720976,,,w_1105950623,"shop=convenience, brand=Chevron"
+"Piñon Hills, CA",,retail,445110,Amazon Fresh,"16188 South Highland Avenue, Fontana, CA, 92336",,https://www.amazon.com/fmc/m/30003175?almBrandId=QW1hem9uIEZyZXNo,34.1353449,-117.451128,,,w_1182593473,"shop=supermarket, brand=Amazon Fresh"
+"Piñon Hills, CA",,retail,452210,JCPenney,"5100 Montclair Plaza Lane, Montclair, CA, 91763",+1 909-621-3811,https://www.jcpenney.com/locations/ca/montclair/clothing-stores-montclair-ca-1614.html,34.0861028,-117.6934536,,,w_1201015477,"shop=department_store, brand=JCPenney"
+"Piñon Hills, CA",,retail,452210,Macy's,"Montclair, CA, 91763",,https://www.macys.com/stores/ca/montclair/montclair-place_486.html,34.0868066,-117.6957309,,,w_1201015479,"shop=department_store, brand=Macy's"
+"Piñon Hills, CA",,retail,445120,Pilot,,,,34.1377696,-117.4197591,,,w_1213187145,"shop=convenience, brand=Pilot"
+"Piñon Hills, CA",,retail,445120,Jacksons,"2281 West Casmalia Street, Rialto, CA, 92377",,https://app.jacksons.com/location,34.1380001,-117.4179201,,,w_1288822961,"shop=convenience, brand=Jacksons"
+"Piñon Hills, CA",,retail,445110,99 Ranch Market,"9775 Base Line Road, Rancho Cucamonga, CA, 91730",,https://www.99ranch.com/stores-search,34.1200986,-117.5918943,,,w_1302817141,"shop=supermarket, brand=99 Ranch Market"
+"Piñon Hills, CA",,retail,445110,Aldi,"15080 Summit Avenue, Fontana, CA, 92336",+1 909-862-4260,https://stores.aldi.us/ca/fontana/15080-summit-ave,34.149691,-117.4755089,,,w_1321735069,"shop=supermarket, brand=Aldi"
+"Piñon Hills, CA",,retail,452210,Burlington,"15058 Summit Avenue, Fontana, CA, 92336",,https://stores.burlington.com/ca/fontana/1418/,34.1496354,-117.4761504,,,w_1321735071,"shop=department_store, brand=Burlington"
+"Piñon Hills, CA",,retail,452210,Marshalls,"15022 Summit Avenue, Fontana, CA, 92336",,https://www.marshalls.com/us/store/stores/Fontana-CA-92336/469/aboutstore#:,34.1495333,-117.4770271,,,w_1321735073,"shop=department_store, brand=Marshalls"
+"Piñon Hills, CA",,retail,452210,Kohl's,"14960 Summit Avenue, Fontana, CA, 92336",,https://www.kohls.com/stores/ca/fontana-602.shtml,34.1494833,-117.478291,,,w_1321735075,"shop=department_store, brand=Kohl's"
+"Piñon Hills, CA",,retail,445120,Rocket,"15680 Roy Rogers Drive, Victorville, CA, 92394",,,34.5221459,-117.3243478,,,w_1329141693,"shop=convenience, brand=Rocket"
+"Piñon Hills, CA",,retail,445120,,,,,34.427199,-117.45158,,,w_1354663507,shop=convenience
+"Piñon Hills, CA",,retail,446110,Walgreens,"15480 Main Street, Hesperia, CA, 92345",,,34.4259931,-117.3252417,,,w_1354672280,"shop=chemist, brand=Walgreens"
+"Piñon Hills, CA",,retail,446110,Rite Aid,"15510 Main Street, Hesperia, CA, 92345",,,34.4256995,-117.3242758,,,w_1354672281,"shop=chemist, brand=Rite Aid"
+"Piñon Hills, CA",,retail,445120,A Mart & Gas,"15773 Main Street, Hesperia, CA, 92345",,,34.42361,-117.318426,,,w_1354672746,shop=convenience
+"Piñon Hills, CA",,retail,445120,7-Eleven,"15730 Roy Rogers Drive, Victorville, CA, 92394",,,34.5221083,-117.323103,,,w_1355636538,"shop=convenience, brand=7-Eleven"
+"Piñon Hills, CA",,retail,445120,Travel Shop,"16850 Stoddard Wells Road, Victorville, CA, 92394",,,34.5560879,-117.2895421,,,w_1360624459,shop=convenience
+"Piñon Hills, CA",,retail,445120,Rocket,"17876 Bear Valley Road, Victorville, CA, 92395",,,34.4716868,-117.2733075,,,w_1361093003,"shop=convenience, brand=Rocket"
+"Piñon Hills, CA",,retail,445120,Rocket,"12905 Hesperia Road, Victorville, CA, 92395",,,34.4850134,-117.289361,,,w_1361093430,"shop=convenience, brand=Rocket"
+"Piñon Hills, CA",,retail,445120,ampm,"16081 Bear Valley Road, Hesperia, CA, 92345",,,34.4701113,-117.3128109,,,w_1384356032,"shop=convenience, brand=ampm"
+"Piñon Hills, CA",,retail,445120,ampm,"14352 7th Street, Victorville, CA, 92395",,,34.511916,-117.3189255,,,w_1384542644,"shop=convenience, brand=ampm"
+"Piñon Hills, CA",,retail,445120,Circle K,"16528 Bear Valley Road, Victorville, CA, 92395",,,34.471799,-117.3029141,,,w_1387162597,"shop=convenience, brand=Circle K"
+"Piñon Hills, CA",,retail,445210,Overland Meat Company,"18841 Outer Hwy 18 South, Apple Valley, CA, 92307",,,34.5369958,-117.2525519,,,w_1393591817,shop=butcher
+"Piñon Hills, CA",,retail,445120,ampm,"16251 D Street, Victorville, CA, 92394",,,34.5462052,-117.3020973,,,w_1408228336,"shop=convenience, brand=ampm"
+"Piñon Hills, CA",,retail,445120,Beyond Food Mart,"15290 Mojave Drive, Victorville, CA, 92394",,,34.5292749,-117.3308066,,,w_1409925796,shop=convenience
+"Piñon Hills, CA",,retail,445120,Luna Market,"13343 Blue Star Memorial Highway, Victorville, CA, 92392",,,34.4917904,-117.3986507,,,w_1410030276,shop=convenience
+"Piñon Hills, CA",,retail,445120,Tripco,"13730 Apple Valley Road, Apple Valley, CA, 92307",,,34.5007453,-117.2433282,,,w_1415724063,shop=convenience
+"Piñon Hills, CA",,retail,445120,Uncle Albert's Mart,"20091 Bear Valley Road, Apple Valley, CA, 92308",,,34.4705483,-117.2258323,,,w_1416795146,shop=convenience
+"Piñon Hills, CA",,retail,445120,Rocket,"13724 Bear Valley Road, Victorville, CA, 92392",,,34.4707351,-117.3639802,,,w_1417415298,"shop=convenience, brand=Rocket"
+"Piñon Hills, CA",,retail,445120,Tripco Mart,"15708 Ranchero Road, Hesperia, CA, 92345",,,34.3838512,-117.3202998,,,w_1420299256,shop=convenience
+"Piñon Hills, CA",,retail,446110,CVS Pharmacy,"1479 Foothill Boulevard, La Verne, CA, 91750",,https://www.cvs.com/store-locator/la-verne-ca-pharmacies/1479-foothill-boulevard-la-verne-ca-91750/storeid=9709,34.1176506,-117.7750743,,,r_6929807,"shop=chemist, brand=CVS Pharmacy"
+"Piñon Hills, CA",,retail,445120,,,,,34.135491,-117.5374346,,,r_7298786,"shop=convenience, amenity=fuel"
+"Piñon Hills, CA",,retail,445310,,,,,34.1212478,-117.5326074,,,r_9896917,shop=wine
+"Piñon Hills, CA",,retail,445310,Grand Liquor & Market,"15355 Rancherias Road, Apple Valley, CA, 92307",+1 760-946-1940,,34.530302,-117.2251028,,,r_19283670,shop=alcohol
+"Piñon Hills, CA",,retail,453991,Blazers Smoke Shop II,"20152 Outer Hwy 18 North, Apple Valley, CA, 92307",+1 760-553-5672,,34.5295987,-117.2248103,,,r_19283672,shop=tobacco
+"Piñon Hills, CA",,retail,446120,Luxury Pedicure,"13782 Bear Valley Road, Victorville, CA, 92392",,,34.4716936,-117.3625187,,,r_19389208,shop=beauty
+"Piñon Hills, CA",,retail,445110,Stater Bros.,"13760 Bear Valley Road, Victorville, CA, 92392",+1 760-241-8924,https://www.staterbros.com/stores/118,34.4718324,-117.3629824,,,r_19389210,"shop=supermarket, brand=Stater Bros."
+"Piñon Hills, CA",,retail,446120,La Piña Loca,"13790 Bear Valley Road, Victorville, CA, 92392",,,34.4711658,-117.3623405,,,r_19389637,"shop=beauty, amenity=ice_cream"
+"Piñon Hills, CA",,retail,446120,Wink N Pink Beauty Supply,"13790 Bear Valley Road, Victorville, CA, 92392",+1 760-596-1309,,34.4715118,-117.3623422,,,r_19389642,shop=beauty
+"Piñon Hills, CA",,retail,453991,Popeye's Smoke Shop,"1370 Bear Valley Road, Victorville, CA, 92392",+1 760-951-1829,,34.4715689,-117.3623432,,,r_19389643,shop=tobacco
+"Piñon Hills, CA",,retail,446120,Brow Art,"13790 Bear Valley Road, Victorville, CA, 92392",+1 760-951-0500,,34.4712234,-117.362341,,,r_19390069,shop=beauty
+"Piñon Hills, CA",,retail,445110,Superior Grocers,"13650 Bear Valley Road, Victorville, CA, 92392",+1 760-210-8989,https://superiorgrocers.com/,34.4718273,-117.3657984,,,r_19391638,"shop=supermarket, brand=Superior Grocers"
+"Piñon Hills, CA",,retail,446120,Cali Beauty Supply,"14676 7th Street, Victorville, CA, 92395",,,34.5180777,-117.312441,,,r_19456398,shop=beauty

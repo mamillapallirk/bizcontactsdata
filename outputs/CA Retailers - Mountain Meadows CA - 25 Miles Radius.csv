@@ -1,0 +1,43 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Mountain Meadows, CA",,retail,452319,JLLWC Thrift Store,"90 Granite Avenue, June Lake",,,37.7785063,-119.0805248,,,n_3180225955,shop=variety_store
+"Mountain Meadows, CA",,retail,445110,Smart & Final,,,,37.3734019,-118.394697,,,n_3221988857,"shop=supermarket, brand=Smart & Final"
+"Mountain Meadows, CA",,retail,445310,Mountain Rambler Brewery,"186 South Main Street, Bishop, CA, 93514",760-258-1348,https://www.mountainramblerbrewery.com/,37.3606708,-118.3944494,,,n_5732809527,shop=alcohol
+"Mountain Meadows, CA",,retail,445120,Speedway,"466 South Main Street, Bishop, CA, 93514",,,37.3573535,-118.394407,,,n_5830979498,"shop=convenience, brand=Speedway"
+"Mountain Meadows, CA",,retail,445110,Mahogany smoked meats,"2345 North Sierra Highway, 93514",7608735311,https://smokedmeats.com/,37.3760108,-118.4176885,,,n_6510421886,shop=supermarket
+"Mountain Meadows, CA",,retail,445292,Chocolate Factory,,,,37.6384709,-118.9647133,,,n_7838192519,shop=confectionery
+"Mountain Meadows, CA",,retail,445310,Country Liquor and Deli,,,,37.6453948,-118.9682914,,,n_7838192536,shop=alcohol
+"Mountain Meadows, CA",,retail,446120,Helena's Nail Spa,,,,37.3630588,-118.3951299,,,n_8788135060,shop=beauty
+"Mountain Meadows, CA",,retail,452319,,,,,37.5976103,-118.8504463,,,n_9244938925,shop=general
+"Mountain Meadows, CA",,retail,445110,Blue Lupine,"192 West Line Street, Bishop, CA, 93514",,,37.3612173,-118.3961078,,,n_9937990320,shop=supermarket
+"Mountain Meadows, CA",,retail,452319,Red's Meadow General Store,,,,37.6148488,-119.0750705,,,n_9960377819,shop=general
+"Mountain Meadows, CA",,retail,452319,Family Dollar,"201 South Main Street, Bishop, CA, 93514",7607846018,,37.3604065,-118.3954846,,,n_10647675952,"shop=variety_store, brand=Family Dollar"
+"Mountain Meadows, CA",,retail,446120,Coso Playa Advanced Aesthetics by Holly Rossi,"115 West Line Street, Bishop, CA, 93514",7609377282,,37.3615407,-118.3954792,,,n_10647675956,shop=beauty
+"Mountain Meadows, CA",,retail,452319,,,,,37.4695586,-118.722977,,,n_10676446533,shop=general
+"Mountain Meadows, CA",,retail,452319,,,,,37.4576363,-118.7348981,,,n_10678634057,shop=general
+"Mountain Meadows, CA",,retail,452319,Bishop Creek Lodge Store,,,,37.2340912,-118.566433,,,n_10681524709,shop=general
+"Mountain Meadows, CA",,retail,452319,Cardinal Village Resort Store,,,,37.2320753,-118.5995646,,,n_10681524756,shop=general
+"Mountain Meadows, CA",,retail,452319,Creekside RV Park General Store,,,,37.2365874,-118.5653031,,,n_11081708653,shop=general
+"Mountain Meadows, CA",,retail,445110,dollar tree,,,,37.3643805,-118.3960654,,,n_12941850701,shop=supermarket
+"Mountain Meadows, CA",,retail,445210,Mammoth Butcher and Seafood,"3399 Main Street, Mammoth Lakes, CA, 93546",+1 (760) 709-2120,,37.6478169,-118.972945,,,n_13014637667,shop=butcher
+"Mountain Meadows, CA",,retail,445120,,"25465 Highway 6, Benton, CA, 93512",,,37.8157623,-118.4763641,,,w_42148049,shop=convenience
+"Mountain Meadows, CA",,retail,445120,June Lake Junction,"40341 395, June Lake",,,37.8126419,-119.0541166,,,w_42151121,"shop=convenience, amenity=cafe"
+"Mountain Meadows, CA",,retail,445120,Fern Creek Store,4628 Boulder Drive,,,37.7660607,-119.1039045,,,w_42151695,"shop=convenience, operator=Fern Creek Lodge"
+"Mountain Meadows, CA",,retail,445120,Pine Cliff General Store,,,,37.7972291,-119.0760126,,,w_42153815,shop=convenience
+"Mountain Meadows, CA",,retail,445110,June Lake General Store,"2740 Boulder Drive, June Lake, 93529",,,37.7783128,-119.0758934,,,w_42153865,shop=supermarket
+"Mountain Meadows, CA",,retail,445120,Latin Market,"1566 Tavern Road, Mammoth Lakes City",,,37.6454081,-118.9674399,,,w_42188220,"shop=convenience, amenity=fast_food"
+"Mountain Meadows, CA",,retail,445120,Shell,,,,37.6461815,-118.9656952,,,w_42192362,"shop=convenience, brand=Shell, operator=Food Mart"
+"Mountain Meadows, CA",,retail,445310,A-Frame Liquor,3453 Main Street,,,37.6480858,-118.9734086,,,w_42193433,shop=alcohol
+"Mountain Meadows, CA",,retail,445120,,"Bishop, CA",,,37.3735004,-118.3934155,,,w_128845699,shop=convenience
+"Mountain Meadows, CA",,retail,445110,Vons,"1190 North Main Street, Bishop, CA, 93514",+1 760-872-9811,https://local.vons.com/ca/bishop/1190-n-main-st.html,37.3734725,-118.3914298,,,w_128845701,"shop=supermarket, brand=Vons"
+"Mountain Meadows, CA",,retail,445110,Vons,"481 Old Mammoth Road, Mammoth Lakes, CA, 93546",+1 760-934-4536,https://local.vons.com/ca/mammoth-lakes/481-old-mammoth-rd.html,37.6386286,-118.9652099,,,w_132666498,"shop=supermarket, brand=Vons"
+"Mountain Meadows, CA",,retail,452319,General Store,,,,37.3273186,-119.0173334,,,w_291717551,shop=general
+"Mountain Meadows, CA",,retail,446110,Rite Aid,"1375 Rocking W Drive, Bishop, CA, 93514",+1 760-873-7883,,37.3773818,-118.4207613,,,w_316091157,"shop=chemist, brand=Rite Aid"
+"Mountain Meadows, CA",,retail,445110,Manor Market,"3100 West Line Street, Bishop, CA, 93514",,https://www.facebook.com/ManorMarket,37.360923,-118.4367637,,,w_316100366,shop=supermarket
+"Mountain Meadows, CA",,retail,445110,Joseph's Bi-Rite Market,"211 North Main Street, Bishop, CA, 93514",+1 760-873-6388,,37.3623087,-118.3957923,,,w_316101403,shop=supermarket
+"Mountain Meadows, CA",,retail,445120,Giggle Springs,,,,37.3661525,-118.3948788,,,w_316111400,shop=convenience
+"Mountain Meadows, CA",,retail,445120,,,,,37.3755863,-118.3965166,,,w_603933755,shop=convenience
+"Mountain Meadows, CA",,retail,445120,,,,,37.375381,-118.4271873,,,w_604519830,shop=convenience
+"Mountain Meadows, CA",,retail,445120,,,,,37.3753017,-118.4180511,,,w_726028010,shop=convenience
+"Mountain Meadows, CA",,retail,452319,,,,,37.6948733,-118.7585727,,,w_908623105,shop=general
+"Mountain Meadows, CA",,retail,445110,Grocery Outlet,,,,37.376373,-118.394657,,,w_921091970,"shop=supermarket, brand=Grocery Outlet"
+"Mountain Meadows, CA",,retail,445110,Grocery Outlet,37 Old Mammoth Road,+1 (760) 934-1510,https://www.groceryoutlet.com/grand-opening/mammoth-lakes-ca,37.6456466,-118.9657528,,,w_1011054255,"shop=supermarket, brand=Grocery Outlet"

@@ -1,0 +1,39 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"South Taft, CA",,retail,445120,E-Z Trip Food Store,,,,35.4017411,-119.398326,,,n_2604505355,shop=convenience
+"South Taft, CA",,retail,445120,Travel Store,,,,35.4009897,-119.3963114,,,n_2604505367,shop=convenience
+"South Taft, CA",,retail,445120,Buttonwillow Grocery,,,,35.3998026,-119.4682837,,,n_2751041651,shop=convenience
+"South Taft, CA",,retail,445120,McKittrick Market,,,,35.3051668,-119.6240376,,,n_2751063438,shop=convenience
+"South Taft, CA",,retail,445110,Walmart Neighborhood Market,"1249 Allen Road, Bakersfield, CA, 93314",+1 661-535-6373,https://www.walmart.com/store/3139-bakersfield-ca,35.3701262,-119.1474617,,,n_5315598907,"shop=supermarket, brand=Walmart, operator=Walmart"
+"South Taft, CA",,retail,452210,Kohl's,"5385 Gosford Road, Bakersfield, CA, 93313",+1 661-664-7410,https://www.kohls.com/stores/ca/bakersfield-713.shtml,35.306215,-119.0954709,,,n_6384117044,"shop=department_store, brand=Kohl's"
+"South Taft, CA",,retail,445120,Circle K,,,,35.4011197,-119.3986656,,,n_6642716479,"shop=convenience, brand=Circle K"
+"South Taft, CA",,retail,445110,Albertsons,"1044 West Kern Street, Taft, CA, 93268",+1 661-765-4944,https://local.albertsons.com/ca/taft/1044-w-kern-st.html,35.1462715,-119.4662827,,,n_9127714082,"shop=supermarket, brand=Albertsons"
+"South Taft, CA",,retail,452210,Ross,"5253 Gosford Road, Bakersfield, CA, 93313",+1 661-663-9800,,35.3070104,-119.0951173,,,n_11018699233,"shop=department_store, brand=Ross"
+"South Taft, CA",,retail,445120,,,,,35.2957066,-119.0750516,,,n_11018699238,shop=convenience
+"South Taft, CA",,retail,446110,CVS Pharmacy,,,,35.3404063,-119.1286888,,,n_11104910568,"shop=chemist, brand=CVS Pharmacy"
+"South Taft, CA",,retail,445210,,,,,35.3411921,-119.129759,,,n_11104910571,shop=butcher
+"South Taft, CA",,retail,452210,Target,"11000 Stockdale Highway, Bakersfield, CA, 93311-3635",+1 661-617-3657,https://www.target.com/sl/bakersfield-west/2715,35.3501747,-119.1247521,,,n_11104910572,"shop=department_store, brand=Target"
+"South Taft, CA",,retail,445110,Albertsons,"7900 White Lane, Bakersfield, CA, 93309",+1 661-836-9691,https://local.albertsons.com/ca/bakersfield/7900-white-ln.html,35.3192809,-119.0902668,,,n_11651078054,"shop=supermarket, brand=Albertsons"
+"South Taft, CA",,retail,445110,Sprouts Farmers Market,"10650 Stockdale Highway, Bakersfield, CA, 93311",+1 661-617-8957,https://www.sprouts.com/store/ca/bakersfield/stockdale-hwy/,35.3516587,-119.1219319,,,n_11651078056,"shop=supermarket, brand=Sprouts Farmer Market"
+"South Taft, CA",,retail,445110,Albertsons,"13045 Rosedale Highway, Bakersfield, CA, 93314",+1-661-587-0153,https://local.albertsons.com/ca/bakersfield/13045-rosedale-hwy.html,35.3820332,-119.1463628,,,n_11651078057,"shop=supermarket, brand=Albertsons"
+"South Taft, CA",,retail,446110,Walgreens,,,,35.3246673,-119.1272783,,,n_11773669899,"shop=chemist, brand=Walgreens"
+"South Taft, CA",,retail,445120,Sully's,,,,35.3401363,-119.1301359,,,n_11933148736,shop=convenience
+"South Taft, CA",,retail,446120,Diamond Nails & Lashes,"16123 Stockdale Highway, Bakersfield, CA, 93314",+1-661-829-5061,,35.3533059,-119.1814693,,,n_12602307247,shop=beauty
+"South Taft, CA",,retail,445110,Wood-Dale Meat Market,"16137 Stockdale Highway, Bakersfield, CA, 93314",,,35.3531067,-119.1817875,,,n_12602326940,shop=supermarket
+"South Taft, CA",,retail,445120,Sully's,"16101 Stockdale Highway, Bakersfield, CA, 93314",,,35.3540625,-119.1815109,,,n_12614963747,shop=convenience
+"South Taft, CA",,retail,445110,Vons,"9000 Ming Avenue, Bakersfield, CA, 93311",+1 661-663-0595,https://local.vons.com/ca/bakersfield/9000-ming-ave.html,35.3416331,-119.1025678,,,w_59593057,"shop=supermarket, brand=Vons"
+"South Taft, CA",,retail,445110,Rite Aid,,,,35.3415199,-119.1015615,,,w_59593745,shop=supermarket
+"South Taft, CA",,retail,445120,Mobil Mart,,,,35.3538019,-119.1461845,,,w_59692852,"shop=convenience, brand=Mobil Mart"
+"South Taft, CA",,retail,445120,,,,,35.3176206,-119.0915019,,,w_59693709,shop=convenience
+"South Taft, CA",,retail,445120,Chevron,,,,35.3548046,-119.1461564,,,w_59694425,"shop=convenience, brand=Chevron"
+"South Taft, CA",,retail,446110,Walgreens,BUILDING,,,35.3096937,-119.0928403,,,w_175390863,"shop=chemist, brand=Walgreens"
+"South Taft, CA",,retail,445110,Walmart Supercenter,"5075 Gosford Road, Bakersfield, CA, 93313",+1 661-282-3099,https://www.walmart.com/store/5134-bakersfield-ca,35.3088562,-119.0954944,,,w_175391142,"shop=supermarket, brand=Walmart, operator=Walmart"
+"South Taft, CA",,retail,445120,,,,,35.2674657,-119.2275877,,,w_249605799,shop=convenience
+"South Taft, CA",,retail,445110,WinCo Foods,,,,35.2949384,-119.0781794,,,w_253567663,"shop=supermarket, brand=WinCo Foods"
+"South Taft, CA",,retail,445120,ampm,"20650 Tracy Avenue, Buttonwillow, CA, 93206",,,35.4025633,-119.3988125,,,w_254635503,"shop=convenience, brand=ampm"
+"South Taft, CA",,retail,445120,,,,,35.2666763,-119.2533625,,,w_304002375,shop=convenience
+"South Taft, CA",,retail,445120,,,,,35.3543798,-119.3327323,,,w_321152007,shop=convenience
+"South Taft, CA",,retail,445120,,,,,35.0587685,-119.4004922,,,w_987168803,shop=convenience
+"South Taft, CA",,retail,452319,Family Dollar,,,,35.144731,-119.466168,,,w_987500218,"shop=variety_store, brand=Family Dollar"
+"South Taft, CA",,retail,446110,Rite Aid,,,https://www.riteaid.com/locations/ca/bakersfield/9700-panama-lane.html,35.2967423,-119.1107968,,,w_1119287370,"shop=chemist, brand=Rite Aid"
+"South Taft, CA",,retail,445120,Chevron,"31109 7th Standard Road, Shafter, CA, 93263",,,35.441104,-119.2505405,,,w_1164542632,"shop=convenience, brand=Chevron"
+"South Taft, CA",,retail,445120,Countryside Market & Restuarants,"31110 7th Standard Road, Shafter, CA, 93263",,,35.4422008,-119.2512878,,,w_1164547305,shop=convenience

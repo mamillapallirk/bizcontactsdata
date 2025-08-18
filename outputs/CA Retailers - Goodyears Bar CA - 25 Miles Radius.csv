@@ -1,0 +1,59 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Goodyears Bar, CA",,retail,445120,The Country Store,,,,39.3837915,-120.979727,,,n_1306475850,shop=convenience
+"Goodyears Bar, CA",,retail,445120,Mother Truckers,,,,39.3543678,-121.0642916,,,n_1306483044,shop=convenience
+"Goodyears Bar, CA",,retail,445120,Sierra Super Stop Food Mart,,,,39.3700556,-121.1034186,,,n_1795102229,shop=convenience
+"Goodyears Bar, CA",,retail,445120,Peterson's Corner,,,,39.3431603,-121.1205502,,,n_1795103901,shop=convenience
+"Goodyears Bar, CA",,retail,445120,,,,,39.268415,-121.055795,,,n_1795130823,shop=convenience
+"Goodyears Bar, CA",,retail,445120,,,,,39.5601999,-120.8295092,,,n_1798723085,shop=convenience
+"Goodyears Bar, CA",,retail,445120,La Porte General Store,,,,39.68293,-120.9835655,,,n_2449792588,shop=convenience
+"Goodyears Bar, CA",,retail,445292,Nevada City Chocolate Shoppe,,,,39.2627129,-121.018612,,,n_3353374604,shop=chocolate
+"Goodyears Bar, CA",,retail,445110,Sierra City Store,,,,39.565626,-120.63623,,,n_3628053293,shop=supermarket
+"Goodyears Bar, CA",,retail,446120,Forever Vivid Salon,"104 Mill Street, Grass Valley, CA, 95945",+1 (530) 273-0200,,39.2190004,-121.0630952,,,n_7711417239,shop=beauty
+"Goodyears Bar, CA",,retail,446120,Bloom Salon,"203 Mill Street, Grass Valley, CA, 95945",+1  (530) 273-5260,,39.2171344,-121.0632529,,,n_7717924669,shop=beauty
+"Goodyears Bar, CA",,retail,453991,Hot Spot Smoke Shop,,,,39.2151819,-121.0541039,,,n_7717964122,shop=tobacco
+"Goodyears Bar, CA",,retail,446120,Salon 174,,+1 (530) 274-7772,,39.2152692,-121.0541354,,,n_7717964123,shop=beauty
+"Goodyears Bar, CA",,retail,446120,,,,,39.2161462,-121.0633222,,,n_7720713545,shop=beauty
+"Goodyears Bar, CA",,retail,446120,Hair Razors,"233 Mill Street, Grass Valley, CA, 95945",+1 (530) 273-6793,,39.2163542,-121.0639843,,,n_7720713546,shop=beauty
+"Goodyears Bar, CA",,retail,452319,Downieville Grocery Store,,,,39.5604412,-120.8287441,,,n_8740267681,shop=general
+"Goodyears Bar, CA",,retail,445120,,,,,39.2498425,-121.0226417,,,n_9627760299,shop=convenience
+"Goodyears Bar, CA",,retail,452319,Alta Store,,,,39.2072227,-120.8109603,,,n_10038140517,shop=general
+"Goodyears Bar, CA",,retail,452319,,,,,39.3677929,-121.20464,,,n_10039789573,shop=general
+"Goodyears Bar, CA",,retail,445120,Wild Plum Provisions Store,,,,39.5684734,-120.6264801,,,n_12222723893,shop=convenience
+"Goodyears Bar, CA",,retail,445120,Higgin's Market,,,,39.5656553,-120.6349282,,,n_12222735721,shop=convenience
+"Goodyears Bar, CA",,retail,452319,Emerald Cove Marina General Store,,,,39.3945596,-121.1430027,,,n_12990070940,shop=general
+"Goodyears Bar, CA",,retail,445120,Bassett's Station General Store,"100 Gold Lake Highway, Sierra City, CA, 96125",+1-530-862-1297,https://bassettsstation.com/store/,39.6176337,-120.591611,,,w_168647521,shop=convenience
+"Goodyears Bar, CA",,retail,452319,Dutch Flat Trading Post,Main Street,,,39.2067406,-120.8386456,,,w_174732452,"shop=general, amenity=pub"
+"Goodyears Bar, CA",,retail,445110,Safeway,"867 Sutton Way, Grass Valley, CA, 95945",1530 73 2249,https://local.safeway.com/safeway/ca/grass-valley/867-sutton-way.html,39.2355012,-121.0323535,,,w_253140448,"shop=supermarket, brand=Safeway"
+"Goodyears Bar, CA",,retail,445110,Safeway,"105 Neal Street, Grass Valley, CA, 95945",+1 530-273-0115,https://local.safeway.com/safeway/ca/grass-valley/105-neal-st.html,39.2160345,-121.0628048,,,w_253141185,"shop=supermarket, brand=Safeway"
+"Goodyears Bar, CA",,retail,446110,Nevada County Pharmacy,,,,39.2527535,-121.0257314,,,w_305790641,shop=chemist
+"Goodyears Bar, CA",,retail,445120,,,,,39.2317519,-121.0734924,,,w_392009803,shop=convenience
+"Goodyears Bar, CA",,retail,452319,Graeagle Store,CA,,,39.7661421,-120.6183788,,,w_499397802,shop=general
+"Goodyears Bar, CA",,retail,445110,Briar Patch Food Co-Op,"290 Sierra College Drive, Grass Valley, CA, 95945",+1 530-272-5333,https://www.briarpatch.coop/,39.2346509,-121.0528566,,,w_757513918,shop=supermarket
+"Goodyears Bar, CA",,retail,445120,,,,,39.2088557,-121.0622394,,,w_825952874,shop=convenience
+"Goodyears Bar, CA",,retail,445120,Robinson,,,,39.2196033,-121.0585794,,,w_826419953,shop=convenience
+"Goodyears Bar, CA",,retail,445120,76,,,,39.2177995,-121.0615722,,,w_826625112,"shop=convenience, brand=76"
+"Goodyears Bar, CA",,retail,445310,Long's Bottle Shop,,,,39.2160126,-121.0547322,,,w_826625138,shop=alcohol
+"Goodyears Bar, CA",,retail,445110,BackPorch Market,"135 Colfax Avenue, Grass Valley, CA, 95945",+1 (530) 271-7111,https://www.backporchmarket.com/,39.2161435,-121.0600938,,,w_826793551,shop=supermarket
+"Goodyears Bar, CA",,retail,445120,Express Mart,,,,39.2150937,-121.062138,,,w_826793594,shop=convenience
+"Goodyears Bar, CA",,retail,446120,Mai's Nails & Spa,526 Sutton Way,+1 530-272-7256,,39.2321187,-121.0382225,,,w_860704468,shop=beauty
+"Goodyears Bar, CA",,retail,446110,Rite Aid,"720 Sutton Way, Grass Valley, CA, 95945",,https://www.riteaid.com/locations/ca/grass-valley/720-sutton-way.html,39.2341136,-121.035496,,,w_860704471,"shop=chemist, brand=Rite Aid"
+"Goodyears Bar, CA",,retail,445110,Grocery Outlet,616 Sutton Way,,,39.2335309,-121.037545,,,w_860830686,"shop=supermarket, brand=Grocery Outlet"
+"Goodyears Bar, CA",,retail,453991,Mellenium Smoke Shop,"102 East Main Street, Grass Valley, CA, 95945",,,39.2193242,-121.0620435,,,w_893178992,shop=tobacco
+"Goodyears Bar, CA",,retail,445310,Sierra Starr,,,,39.2192743,-121.0628631,,,w_903972441,shop=wine
+"Goodyears Bar, CA",,retail,445120,,"41965 Nyack Road, Emigrant Gap, CA, 95715",,,39.2920134,-120.6784296,,,w_906865453,shop=convenience
+"Goodyears Bar, CA",,retail,453991,Blaze'n J's,"114 East Main Street, Grass Valley, CA, 95945",,,39.2193807,-121.0615578,,,w_909797471,shop=tobacco
+"Goodyears Bar, CA",,retail,445310,Nevada City Winery,"321 Spring Street, CA, 95959",,,39.2620739,-121.019841,,,w_953601086,shop=wine
+"Goodyears Bar, CA",,retail,445310,Bonanza Market,,,,39.2626482,-121.0198037,,,w_953601099,shop=alcohol
+"Goodyears Bar, CA",,retail,446110,Walgreens,"880 Sutton Way, Grass Valley, CA, 95945",,https://www.walgreens.com/locator/walgreens-880+sutton+way-grass+valley-ca-95945/id=10881,39.2351879,-121.0348666,,,w_961774497,"shop=chemist, brand=Walgreens"
+"Goodyears Bar, CA",,retail,445120,Speedway,,,https://www.speedway.com/locations/CA/Grass-Valley/2001-Nevada-City-Hwy,39.2372595,-121.0365152,,,w_962080547,"shop=convenience, brand=Speedway"
+"Goodyears Bar, CA",,retail,445120,ampm,,,,39.2365509,-121.0377812,,,w_962080564,"shop=convenience, brand=ampm"
+"Goodyears Bar, CA",,retail,445120,,,,,39.2368841,-121.0383422,,,w_962080570,shop=convenience
+"Goodyears Bar, CA",,retail,452319,Dollar General,"Grass Valley, CA",+1 530-270-9402,https://www.dollargeneral.com/store-directory/ca/grass-valley/15010,39.2375153,-121.0360024,,,w_962080576,"shop=variety_store, brand=Dollar General"
+"Goodyears Bar, CA",,retail,445110,Natural Selection,589 East Main Street,,,39.2239051,-121.0533234,,,w_964420525,shop=supermarket
+"Goodyears Bar, CA",,retail,445120,Speedway,"1008 Plaza Drive, Grass Valley, CA, 95945",,https://www.speedway.com/locations/CA/Grass-Valley/1008-Plaza-Dr,39.2340963,-121.0333942,,,w_995432663,"shop=convenience, brand=Speedway"
+"Goodyears Bar, CA",,retail,445110,SPD,Zion Street,,http://spdmarket.com/,39.2532707,-121.0254073,,,w_1024687878,shop=supermarket
+"Goodyears Bar, CA",,retail,445110,California Organics,Argall Way,,https://www.californiaorganics.com/,39.2522982,-121.0253811,,,w_1027516001,shop=supermarket
+"Goodyears Bar, CA",,retail,453991,,,,,39.2222464,-121.0541585,,,w_1067752262,shop=tobacco
+"Goodyears Bar, CA",,retail,445120,,,,,39.1967328,-121.0112578,,,w_1111615831,shop=convenience
+"Goodyears Bar, CA",,retail,445120,Oregon House Grocrey & Deli,"13439 Rices Crossing Road, CA, 95962",+1-530-692-1668,,39.3502917,-121.2734326,,,w_1116132653,"shop=convenience, operator=Oregon House Grocrey & Deli"
+"Goodyears Bar, CA",,retail,445120,Sierra Express,,,,39.187133,-120.8325163,,,w_1153921376,shop=convenience

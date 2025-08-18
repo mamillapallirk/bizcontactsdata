@@ -1,0 +1,105 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Los Molinos, CA",,retail,445110,Save Mart,,,,39.7566905,-121.864132,,,n_473371054,"shop=supermarket, brand=Save Mart"
+"Los Molinos, CA",,retail,445120,Sherry's,,,,40.1097112,-122.1133053,,,n_1881762470,shop=convenience
+"Los Molinos, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/corning/2486/,39.9285451,-122.1919162,,,n_2484652032,"shop=variety_store, brand=Dollar Tree"
+"Los Molinos, CA",,retail,446120,Solutions 3,,,,39.7316693,-121.8398417,,,n_2746822399,shop=beauty
+"Los Molinos, CA",,retail,445120,ampm,"2650 Main Street, Red Bluff, 96080",,,40.1952648,-122.2403085,,,n_4047589955,"shop=convenience, brand=ampm"
+"Los Molinos, CA",,retail,445110,Safeway,"1366 East Avenue, Chico, CA, 95926",+1 530-899-2320,https://local.safeway.com/safeway/ca/chico/1366-east-ave.html,39.7623124,-121.8226255,,,n_5895538479,"shop=supermarket, brand=Safeway"
+"Los Molinos, CA",,retail,445110,Trader Joe's,"801 East Avenue, Chico, CA, 95926",+1 530-343-9920,https://locations.traderjoes.com/ca/chico/199/,39.7593442,-121.846984,,,n_5895573443,"shop=supermarket, brand=Trader Joe's"
+"Los Molinos, CA",,retail,445110,Grocery Outlet,,,,39.756759,-121.8468217,,,n_6898576853,"shop=supermarket, brand=Grocery Outlet"
+"Los Molinos, CA",,retail,445120,Valero,,,,40.15269,-122.2210753,,,n_7021122817,"shop=convenience, brand=Valero"
+"Los Molinos, CA",,retail,445120,,,,,39.9075269,-122.1963637,,,n_7021122819,shop=convenience
+"Los Molinos, CA",,retail,452210,Ross,"1025 South Main Street, Red Bluff, CA, 96080-4360",+1 530-527-1013,,40.1619256,-122.2323883,,,n_7039687225,"shop=department_store, brand=Ross"
+"Los Molinos, CA",,retail,452210,Marshalls,,,,40.1622167,-122.2324152,,,n_7039687226,"shop=department_store, brand=Marshalls"
+"Los Molinos, CA",,retail,446120,Star Nails,,,,40.1616422,-122.2269907,,,n_7161947083,shop=beauty
+"Los Molinos, CA",,retail,446110,,,,,40.1621187,-122.2273408,,,n_7161955895,shop=chemist
+"Los Molinos, CA",,retail,445120,Chevron,,,,39.7493696,-122.2016478,,,n_8580595354,"shop=convenience, brand=Chevron"
+"Los Molinos, CA",,retail,445120,ampm,,,,39.7497918,-122.2022363,,,n_8580595356,"shop=convenience, brand=ampm"
+"Los Molinos, CA",,retail,445310,Tuscan Ridge Estate Winery,19260 Ridge Road,,,40.1435067,-122.322359,,,n_8757378117,shop=wine
+"Los Molinos, CA",,retail,445120,Speedway,"2402 Cohasset Road, Chico, CA, 95926",,https://www.speedway.com/locations/CA/Chico/2402-COHASSET-RD,39.7582306,-121.8431892,,,n_9191899485,"shop=convenience, brand=Speedway"
+"Los Molinos, CA",,retail,445120,Speedway,"1185 Hoff Way, Orland, CA, 95963",,https://www.speedway.com/locations/CA/Orland/1185-HOFF-WAY,39.7521183,-122.208156,,,n_9191951799,"shop=convenience, brand=Speedway"
+"Los Molinos, CA",,retail,445120,Speedway,"1021 South Street, Orland, CA, 95963",,https://www.speedway.com/locations/CA/Orland/1021-SOUTH-ST,39.7399999,-122.2030211,,,n_9191958035,"shop=convenience, brand=Speedway"
+"Los Molinos, CA",,retail,445120,Speedway,"440 South Main Street, Red Bluff, CA, 96080",,https://www.speedway.com/locations/CA/Red-Bluff/440-S-MAIN-ST,40.1662185,-122.227662,,,n_9191964588,"shop=convenience, brand=Speedway"
+"Los Molinos, CA",,retail,445120,Speedway,"782 Antelope Boulevard, Red Bluff, CA, 96080",,https://www.speedway.com/locations/CA/Red-Bluff/782-ANTELOPE-BLVD,40.1863882,-122.1986589,,,n_9191981251,"shop=convenience, brand=Speedway"
+"Los Molinos, CA",,retail,445120,FastBreak,"240 Antelope Boulevard, Red Bluff, CA, 96080",,,40.183681,-122.2194456,,,n_9380302701,"shop=convenience, brand=FastBreak"
+"Los Molinos, CA",,retail,445120,ampm,,,,39.7573103,-121.8612758,,,n_10127304609,"shop=convenience, brand=ampm"
+"Los Molinos, CA",,retail,446110,Rite Aid,,,https://www.riteaid.com/locations/ca/chico/220-west-east-avenue.html,39.7560424,-121.8650078,,,n_10127347639,"shop=chemist, brand=Rite Aid"
+"Los Molinos, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/chico-ca-pharmacies/2780-esplanade-chico-ca-95973/storeid=7128,39.7609968,-121.8648585,,,n_10127348051,"shop=chemist, brand=CVS Pharmacy"
+"Los Molinos, CA",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ca/orland/14707,39.7483255,-122.2013,,,n_11433517727,"shop=variety_store, brand=Dollar General"
+"Los Molinos, CA",,retail,445120,7-Eleven,"1096 East Avenue, Chico, CA, 95926-1051",+1 530-342-7711,https://www.7-eleven.com/locations/ca/chico/1096-east-ave-14062,39.7613438,-121.834311,,,n_11772926047,"shop=convenience, brand=7-Eleven"
+"Los Molinos, CA",,retail,445310,Downtown Liquor & Market,"598 East 8th Street, Chico, CA, 95928",+1-530-343-7242,,39.7292158,-121.8318397,,,n_12017175437,shop=alcohol
+"Los Molinos, CA",,retail,445110,US FOODS CHEF'STORE,,,,39.7392707,-121.8348561,,,n_12117896601,shop=grocery
+"Los Molinos, CA",,retail,445120,Urban Roots,,,,39.7278764,-121.8448824,,,n_12143173801,shop=convenience
+"Los Molinos, CA",,retail,445120,,,,,39.7510021,-121.8565582,,,n_12171067758,shop=convenience
+"Los Molinos, CA",,retail,445110,Asian Market,"347 Nord Avenue, Chico, CA, 95926",+1-530-342-9740,,39.7265378,-121.8525789,,,n_12223937248,shop=grocery
+"Los Molinos, CA",,retail,445120,ABC Market,"715 West 9th Street, Chico, CA, 95928",,,39.7214248,-121.8406777,,,n_12247786101,shop=convenience
+"Los Molinos, CA",,retail,445310,Mangrove Bottle Shop,,,,39.7443303,-121.8397352,,,n_12294834102,shop=alcohol
+"Los Molinos, CA",,retail,445310,,,,,39.7245804,-121.8432818,,,n_12310553017,shop=alcohol
+"Los Molinos, CA",,retail,445310,,,,,39.7575194,-121.8606838,,,n_12995237595,shop=alcohol
+"Los Molinos, CA",,retail,453991,,,,,39.7317402,-121.8590285,,,n_12998355909,shop=tobacco
+"Los Molinos, CA",,retail,445120,,,,,39.7413039,-121.8383522,,,n_13057171185,shop=convenience
+"Los Molinos, CA",,retail,445310,Liquor Warehouse,,,,39.9076788,-122.197933,,,n_13058831538,shop=alcohol
+"Los Molinos, CA",,retail,445110,Grocery Outlet,,,,39.9294225,-122.1962929,,,n_13058855953,"shop=supermarket, brand=Grocery Outlet"
+"Los Molinos, CA",,retail,445120,7-Eleven,,,,39.9275665,-122.1851956,,,n_13058863950,"shop=convenience, brand=7-Eleven"
+"Los Molinos, CA",,retail,445310,The Liquor Cabinet,,,,39.9277855,-122.1967525,,,n_13058886927,shop=alcohol
+"Los Molinos, CA",,retail,445120,,,,,39.9276661,-122.193502,,,n_13058886935,shop=convenience
+"Los Molinos, CA",,retail,452319,Dollar General,,,,39.9283212,-122.1719574,,,n_13058886936,"shop=variety_store, brand=Dollar General"
+"Los Molinos, CA",,retail,445110,SAV•MOR Foods,,,,39.9286955,-122.1726547,,,n_13058886937,shop=supermarket
+"Los Molinos, CA",,retail,453991,Embarc Dispensary,"185 Cohasset Road, 95926",,https://goembarc.com/,39.7513618,-121.8538081,,,n_13062405801,shop=tobacco
+"Los Molinos, CA",,retail,452319,Dollar Tree,,,,39.7594433,-121.8459962,,,w_84968552,"shop=variety_store, brand=Dollar Tree"
+"Los Molinos, CA",,retail,445120,,,,,39.7596366,-121.8570309,,,w_84968790,shop=convenience
+"Los Molinos, CA",,retail,445120,Fastbreak,"2176 Solano Street, Corning, CA, 96021",,,39.9284671,-122.1971101,,,w_240757152,"shop=convenience, brand=Fastbreak"
+"Los Molinos, CA",,retail,445120,,,,,39.9284581,-122.1980596,,,w_240757158,shop=convenience
+"Los Molinos, CA",,retail,445110,Chico Natural Foods Cooperative,"818 Main Street, Chico, CA, 95928",+1-530-891-1713,http://www.chiconatural.com,39.7257699,-121.8356966,,,w_252075508,shop=supermarket
+"Los Molinos, CA",,retail,445110,Safeway,"600 Edith Avenue, Corning, CA, 96021",+1 530-824-2467,https://local.safeway.com/safeway/ca/corning/600-edith-st.html,39.9295726,-122.1981608,,,w_253759170,"shop=supermarket, brand=Safeway"
+"Los Molinos, CA",,retail,446110,Walgreens,"1042 Nord Avenue, Chico, CA",,https://www.walgreens.com/locator/walgreens-1042-nord-ave-chico-ca-95926/id=5207,39.7319913,-121.8605255,,,w_253891022,"shop=chemist, brand=Walgreens"
+"Los Molinos, CA",,retail,445110,Safeway,"1016 West Sacramento Avenue, Chico, CA, 95926",+1 530-895-0244,https://local.safeway.com/safeway/ca/chico/1016-w-sacramento-ave.html,39.7320206,-121.8594078,,,w_253891028,"shop=supermarket, brand=Safeway"
+"Los Molinos, CA",,retail,445110,Safeway,"720 Mangrove Avenue, Chico, CA, 95926",+1 530-895-6300,https://local.safeway.com/safeway/ca/chico/720-mangrove-ave.html,39.7365719,-121.8336533,,,w_253895559,"shop=supermarket, brand=Safeway"
+"Los Molinos, CA",,retail,445120,Power Market,"1255 West East Avenue, CA",,,39.7424092,-121.8824606,,,w_310311030,shop=convenience
+"Los Molinos, CA",,retail,445120,ampm,"1080 South Main Street, Red Bluff, CA, 96080",,,40.1614236,-122.2267762,,,w_402345669,"shop=convenience, brand=ampm"
+"Los Molinos, CA",,retail,445120,Food Mart,,,,40.0308206,-122.1006651,,,w_441510560,shop=convenience
+"Los Molinos, CA",,retail,445110,S&S Produce and The Butcher Shop,,,,39.7504643,-121.8438168,,,w_460969406,shop=supermarket
+"Los Molinos, CA",,retail,445110,Raley's,,,,39.7543915,-121.8620272,,,w_461041059,"shop=supermarket, brand=Raley's"
+"Los Molinos, CA",,retail,452319,Dollar Tree,"2507 Esplanade, Chico, CA, 95926",,https://www.dollartree.com/locations/ca/chico/9011/,39.7558963,-121.8613965,,,w_461041062,"shop=variety_store, brand=Dollar Tree"
+"Los Molinos, CA",,retail,452210,Upper Park Clothing,,,,39.7295174,-121.8401848,,,w_478323666,shop=department_store
+"Los Molinos, CA",,retail,445292,Sweet Chico Confections & Gelato,"121 West 3rd Street, Chico, CA, 95928",,https://sweetchico.com,39.7291859,-121.8398772,,,w_478323676,shop=confectionery
+"Los Molinos, CA",,retail,445110,Raley's,,,,40.1631057,-122.2294667,,,w_545750078,"shop=supermarket, brand=Raley's"
+"Los Molinos, CA",,retail,445120,Chevron,"1055 South Main Street, Red Bluff, CA, 96080",,,40.16207,-122.2283757,,,w_545750080,"shop=convenience, brand=Chevron"
+"Los Molinos, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-1145+s+main+st-red+bluff-ca-96080/id=7653,40.1605784,-122.2278,,,w_546732622,"shop=chemist, brand=Walgreens"
+"Los Molinos, CA",,retail,445110,Walmart Supercenter,"608 Luther Road, Red Bluff, CA, 96080",+1 530-529-5540,https://www.walmart.com/store/1608-red-bluff-ca,40.1629312,-122.2343723,,,w_546732624,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Los Molinos, CA",,retail,445110,Grocery Outlet,,,,40.1641549,-122.2275141,,,w_546735180,"shop=supermarket, brand=Grocery Outlet"
+"Los Molinos, CA",,retail,446110,CVS Pharmacy,"455 South Main Street, Red Bluff, CA, 96080",,https://www.cvs.com/store-locator/red-bluff-ca-pharmacies/455-s-main-st-red-bluff-ca-96080/storeid=3937,40.166075,-122.229237,,,w_546735181,"shop=chemist, brand=CVS Pharmacy"
+"Los Molinos, CA",,retail,445120,Circle K,,,,40.1670206,-122.2374289,,,w_546735193,"shop=convenience, brand=Circle K"
+"Los Molinos, CA",,retail,445120,Pilot,"1 Road Hh, CA",,,39.7508383,-122.2083052,,,w_581207933,shop=convenience
+"Los Molinos, CA",,retail,445120,Butte Station,,,,39.7297355,-121.8480989,,,w_618978413,shop=convenience
+"Los Molinos, CA",,retail,445120,,,,,40.0575213,-122.1524772,,,w_648993135,shop=convenience
+"Los Molinos, CA",,retail,445310,Tehama Oaks Winary: Downtown Tasting Room,"613 Main Street, Red Bluff, CA, 96080",,http://www.tehamaoakswine.com/,40.1767194,-122.2346056,,,w_658068061,shop=wine
+"Los Molinos, CA",,retail,453110,Cairo's Floral,"1124 Solano Street, Corning, CA, 96021",+1 (530) 824-2050,https://www.cairosfloral.com/,39.9281606,-122.1806196,,,w_669891150,shop=florist
+"Los Molinos, CA",,retail,446120,,,,,39.9281473,-122.1809911,,,w_669891155,shop=beauty
+"Los Molinos, CA",,retail,446110,Old Time Drugs,"1322 Solano Street, Corning, CA, 96021",+1 (530) 824-0800,http://oldtimedrugs.com/,39.9281142,-122.1832723,,,w_669891179,shop=chemist
+"Los Molinos, CA",,retail,452319,Dulceria La Bonita,"1311 Solano Street, Corning, CA, 96021",,,39.9276659,-122.1827795,,,w_669892433,shop=variety_store
+"Los Molinos, CA",,retail,445210,Carniceria Mi Pueblo,,,,39.9276615,-122.1832915,,,w_669892438,shop=butcher
+"Los Molinos, CA",,retail,445310,Duke's Cork-N'- Bottle Shop,"2360 Esplanade, Chico, CA, 95928",,,39.7546713,-121.858841,,,w_730807905,shop=alcohol
+"Los Molinos, CA",,retail,445310,LaRocca Tasting Room,"222 West 2nd Street, Chico, CA",,https://www.laroccavineyards.com/tasting.php,39.7295725,-121.841872,,,w_752914964,shop=wine
+"Los Molinos, CA",,retail,445110,Grocery Outlet,,,,39.7417625,-122.2035325,,,w_753151320,"shop=supermarket, brand=Grocery Outlet"
+"Los Molinos, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/orland/5361/,39.7417394,-122.2041002,,,w_753151321,"shop=variety_store, brand=Dollar Tree"
+"Los Molinos, CA",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ca/proberta/17266,40.0784103,-122.1694389,,,w_753444910,"shop=variety_store, brand=Dollar General"
+"Los Molinos, CA",,retail,446120,Angels Nails and Spa,"965 Nord Avenue, Chico, CA, 95926",+15304877322,https://www.angelsnailandspa.net/,39.7305309,-121.8589942,,,w_753609525,shop=beauty
+"Los Molinos, CA",,retail,445310,Star Liquors,"933 Nord Avenue, Chico, CA, 95926",+15308914842,https://starliquors.business.site/,39.7301255,-121.8581408,,,w_753609528,shop=alcohol
+"Los Molinos, CA",,retail,445110,FoodMaxx,,,,40.181212,-122.2284639,,,w_755840094,"shop=supermarket, brand=FoodMaxx"
+"Los Molinos, CA",,retail,446110,CVS Pharmacy,"1496 East Avenue, Chico, CA, 95926",,https://www.cvs.com/store-locator/chico-ca-pharmacies/1496-east-ave-chico-ca-95926/storeid=7506,39.7615991,-121.8157227,,,w_764220805,"shop=chemist, brand=CVS Pharmacy"
+"Los Molinos, CA",,retail,445110,PDQ Market & Deli,,,,39.7730018,-121.8769913,,,w_800854421,shop=supermarket
+"Los Molinos, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/chico-ca-pharmacies/1120-forest-ave-chico-ca-95928/storeid=2881,39.7387468,-121.8054959,,,w_868225556,"shop=chemist, brand=CVS Pharmacy"
+"Los Molinos, CA",,retail,445120,Rolling Hills Travel Center,Everett Freeman Way 2635,,,39.8723895,-122.2015556,,,w_918967518,shop=convenience
+"Los Molinos, CA",,retail,453991,,,,,39.726353,-121.8523199,,,w_1050882797,shop=tobacco
+"Los Molinos, CA",,retail,445120,Dino Mart,"1115 West 6th Street, Chico, CA, 95928",+1-530-343-7330,https://stations.sinclairoil.com/ca/chico/1115-w-6th-st,39.7208004,-121.8465396,,,w_1050894522,"shop=convenience, operator=Sinclair Gas"
+"Los Molinos, CA",,retail,445310,Ray's Liquor,"207 Walnut Street, Chico, CA, 95928",+15303433249,,39.724122,-121.8490171,,,w_1106293900,shop=alcohol
+"Los Molinos, CA",,retail,453991,Dragon Tobacco,"244 Walnut Street, Chico, CA, 95928",+15308091825,https://www.smokeshopchico.com/,39.7233031,-121.8494243,,,w_1106293902,shop=tobacco
+"Los Molinos, CA",,retail,445120,7-Eleven,"308 Walnut Street, Chico, CA, 95928",+1 530-895-8285,https://www.7-eleven.com/locations/ca/chico/308-walnut-st-14070,39.7229095,-121.8490476,,,w_1106293906,"shop=convenience, brand=7-Eleven"
+"Los Molinos, CA",,retail,445120,Nord Avenue Market,"409 Nord Avenue, Chico, CA, 95928",+15308910418,,39.7270653,-121.8532931,,,w_1106295134,shop=convenience
+"Los Molinos, CA",,retail,445120,Gojo Market,"735 Nord Avenue, Chico, CA, 95926",+15303427262,https://gojomarket.com/,39.7293186,-121.8564569,,,w_1106306690,shop=convenience
+"Los Molinos, CA",,retail,445310,,,,,39.733149,-121.8540771,,,w_1107616020,shop=alcohol
+"Los Molinos, CA",,retail,445120,Red Bluff Gas Food Mart,,,,40.182938,-122.2191101,,,w_1112200141,shop=convenience
+"Los Molinos, CA",,retail,445120,Quick Stop Market,"2269 Nord Avenue, CA",,,39.7402102,-121.8799099,,,w_1175516258,shop=convenience
+"Los Molinos, CA",,retail,445120,,,,,39.7511727,-121.8551452,,,w_1314977714,shop=convenience
+"Los Molinos, CA",,retail,445120,Maverik,"4473 Commerce Lane, Orland, CA, 95963",+1-530-936-9318,,39.7511311,-122.2098437,,,w_1389960358,"shop=convenience, brand=Maverik"

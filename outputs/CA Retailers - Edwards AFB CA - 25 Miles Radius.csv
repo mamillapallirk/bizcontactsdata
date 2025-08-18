@@ -1,0 +1,116 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Edwards AFB, CA",,retail,445310,Tupacks Liquor,"2802 East Avenue I, Lancaster, CA, 93535",,,34.7041075,-118.079093,,,n_1747235323,shop=alcohol
+"Edwards AFB, CA",,retail,446120,Formosa Rouge Spa and Salon,"10th Street West, Lancaster, 93534",,,34.698689,-118.148416,,,n_1857646918,shop=beauty
+"Edwards AFB, CA",,retail,445110,Food 4 Less,"44555 Valley Central Way, Lancaster, 93536",,,34.6905767,-118.17356,,,n_2021525173,"shop=supermarket, brand=Food 4 Less"
+"Edwards AFB, CA",,retail,452210,Marshalls,"44500 Valley Central Way, Lancaster, CA, 93536",+1 661 945-8180,,34.691651,-118.171277,,,n_2035836712,"shop=department_store, brand=Marshalls"
+"Edwards AFB, CA",,retail,452319,99 Cents Only Stores,,,https://locations.99only.com/ca/lancaster/discount-store-70.html,34.6924807,-118.1733719,,,n_2035836725,"shop=variety_store, brand=99 Cents Only Stores"
+"Edwards AFB, CA",,retail,445120,ExtraMile,"1860 West Avenue I, Lancaster, CA, 93534",(661) 942-3917,,34.7035528,-118.1654874,,,n_2040290004,"shop=convenience, brand=ExtraMile"
+"Edwards AFB, CA",,retail,445120,Tupacks,"2802 East Avenue I, Lancaster, CA, 93535",,,34.7041604,-118.079088,,,n_2135520169,shop=convenience
+"Edwards AFB, CA",,retail,452319,Family Dollar,,,,35.0481568,-118.171098,,,n_3977061531,"shop=variety_store, brand=Family Dollar"
+"Edwards AFB, CA",,retail,445310,Crain's Market,"12025 Gardiner St, Boron, CA, 93516",,,35.0004267,-117.6567591,,,n_4364199394,shop=alcohol
+"Edwards AFB, CA",,retail,445110,Boron Food Mart,"27037 Twenty Mule Team Road, Boron, CA, 93516-1645",,,34.9998474,-117.6490823,,,n_4364218558,shop=supermarket
+"Edwards AFB, CA",,retail,453110,Boron Flowers & Gifts,"26901 Twenty Mule Team Road, Boron, CA, 93516",,,34.9999312,-117.652177,,,n_4365635476,shop=florist
+"Edwards AFB, CA",,retail,453110,,,,,34.6898131,-118.1643657,,,n_4377742394,shop=florist
+"Edwards AFB, CA",,retail,445310,City Market II,10th Street West,661-942-2531,,34.676003,-118.1477054,,,n_5305891521,shop=alcohol
+"Edwards AFB, CA",,retail,445310,Jet,West Avenue K,,,34.6746169,-118.1439723,,,n_5305922623,shop=alcohol
+"Edwards AFB, CA",,retail,445120,Antiques On The Blvd,"764 West Lancaster Boulevard, Lancaster, CA, 93534",,,34.6974006,-118.1443159,,,n_5310693726,shop=convenience
+"Edwards AFB, CA",,retail,446120,Gassy Couture,"706 West Lancaster Boulevard, Lancaster",,,34.6976051,-118.1426404,,,n_5310716329,shop=beauty
+"Edwards AFB, CA",,retail,445292,Five Dime,"709 West Lancaster Boulevard, Lancaster, CA, 93534",,,34.6979256,-118.1424963,,,n_5311290027,shop=confectionery
+"Edwards AFB, CA",,retail,445110,On the Blvd Market,105 West Lancaster Boulevard,,,34.6980992,-118.1410887,,,n_5311388722,shop=supermarket
+"Edwards AFB, CA",,retail,453110,Bags With Roses,"722 West Lancaster Boulevard, Lancaster",,,34.6975985,-118.1427586,,,n_5330419311,shop=florist
+"Edwards AFB, CA",,retail,445120,ampm,,,,34.864891,-118.169489,,,n_6176017536,"shop=convenience, brand=ampm"
+"Edwards AFB, CA",,retail,445120,AM/PM,,,,35.0580438,-118.1749452,,,n_6772533795,shop=convenience
+"Edwards AFB, CA",,retail,445120,Circle K,"2343 West Avenue J, Lancaster, CA, 93536",,,34.6899321,-118.1742779,,,n_6810225656,"shop=convenience, brand=Circle K"
+"Edwards AFB, CA",,retail,445120,ExtraMile,,,,34.6462875,-118.1484355,,,n_6811714486,"shop=convenience, brand=ExtraMile"
+"Edwards AFB, CA",,retail,445120,ExtraMile,,,,34.6745327,-118.1629268,,,n_6834419617,"shop=convenience, brand=ExtraMile"
+"Edwards AFB, CA",,retail,445120,ExtraMile,,,,34.661278,-118.1229321,,,n_6834419618,"shop=convenience, brand=ExtraMile"
+"Edwards AFB, CA",,retail,445310,,,,,35.1264383,-117.974017,,,n_7578972261,shop=alcohol
+"Edwards AFB, CA",,retail,453991,,,,,35.1262889,-117.9740148,,,n_7578972262,shop=tobacco
+"Edwards AFB, CA",,retail,453991,,,,,35.1262712,-117.9755382,,,n_7578972264,shop=tobacco
+"Edwards AFB, CA",,retail,445120,Cactus Market,"California City Boulevard, California City, CA",,,35.1262728,-118.002212,,,n_7578972276,shop=convenience
+"Edwards AFB, CA",,retail,445120,,,,,35.1262321,-117.974937,,,n_7590415683,shop=convenience
+"Edwards AFB, CA",,retail,445310,Smoke Rings #3,2026 W Avenue J,,,34.6880653,-118.1668213,,,n_8158685470,shop=alcohol
+"Edwards AFB, CA",,retail,446120,The BLVD Beauty,"711 West Lancaster Boulevard, Lancaster, CA, 93534",,,34.697893,-118.142759,,,n_8987070487,shop=beauty
+"Edwards AFB, CA",,retail,446191,Bee Honey,"616 West Lancaster Boulevard, Lancaster, CA, 93534",,,34.6978712,-118.1402056,,,n_8987075146,shop=health_food
+"Edwards AFB, CA",,retail,445120,,,,,35.0632806,-118.1766293,,,n_9175586356,shop=convenience
+"Edwards AFB, CA",,retail,452210,Burlington,"44725 Valley Central Way, Lancaster, CA, 93536",+1 661-206-3797,https://stores.burlington.com/ca/lancaster/1096,34.6955386,-118.173407,,,n_9178946481,"shop=department_store, brand=Burlington"
+"Edwards AFB, CA",,retail,445110,The Whole Wheatery,"44264 10th Street West, Lancaster, CA, 93534",,,34.6877903,-118.1471395,,,n_9196973519,shop=supermarket
+"Edwards AFB, CA",,retail,446120,Red Persimmon Nails and Spa,,,,34.5746147,-118.0460086,,,n_9288402051,shop=beauty
+"Edwards AFB, CA",,retail,445110,Stater Bros.,"1850 East Avenue J, Lancaster, CA, 93535",+1 661-948-1885,https://www.staterbros.com/stores/144,34.6884109,-118.095865,,,n_9291373845,"shop=supermarket, brand=Stater Bros."
+"Edwards AFB, CA",,retail,452319,Dollar Tree,,,,34.6901615,-118.1106448,,,n_9291826427,"shop=variety_store, brand=Dollar Tree"
+"Edwards AFB, CA",,retail,452210,Ross,"43545 13th Street West, Lancaster, CA, 93534",+1 661-949-8944,,34.6740228,-118.1547332,,,n_9301788729,"shop=department_store, brand=Ross"
+"Edwards AFB, CA",,retail,445292,See's Candies,,,,34.6745588,-118.1504999,,,n_10013935111,"shop=confectionery, brand=See's Candies"
+"Edwards AFB, CA",,retail,445120,Shell Shop,,,,35.054517,-118.1738146,,,n_10015208957,"shop=convenience, brand=Shell Shop"
+"Edwards AFB, CA",,retail,446120,Shadez Salon Suites,,,,34.6593802,-118.1465133,,,n_11296278866,shop=beauty
+"Edwards AFB, CA",,retail,446120,Beauty Supply,,,,34.6883971,-118.0963024,,,n_11421014873,shop=beauty
+"Edwards AFB, CA",,retail,445110,Sprouts Farmers Market,"43668 15th Street West, Lancaster, CA, 93534",+1 661-499-2651,https://www.sprouts.com/store/ca/lancaster/15th-st/,34.6764078,-118.1546237,,,n_11651078048,"shop=supermarket, brand=Sprouts Farmers Market"
+"Edwards AFB, CA",,retail,445110,Stater Bros. Markets,"16920 California 14, Mojave, CA, 93501",+1 661-824-2719,https://www.staterbros.com/stores/102,35.0680665,-118.1736645,,,n_11651078049,"shop=supermarket, brand=Stater Bros."
+"Edwards AFB, CA",,retail,446120,Vincent Nails & Spa,,,,34.5740694,-118.0430729,,,n_11660434001,shop=beauty
+"Edwards AFB, CA",,retail,446120,Fashion Nails,2022 West Avenue J,,,34.6880561,-118.166741,,,n_11685189223,shop=beauty
+"Edwards AFB, CA",,retail,445110,Smart & Final,2058 West Avenue J,,,34.6887779,-118.167648,,,n_11685193717,"shop=supermarket, brand=Smart & Final"
+"Edwards AFB, CA",,retail,445310,Smoke Rings 3,2026 West Avenue J,,,34.6880664,-118.16678,,,n_11685205585,shop=alcohol
+"Edwards AFB, CA",,retail,445120,Edwards AFB Express,,,,34.9195059,-117.9277587,,,n_11891670121,shop=convenience
+"Edwards AFB, CA",,retail,452319,Dollar Tree,,,,34.6757959,-118.1672414,,,n_12198309317,"shop=variety_store, brand=Dollar Tree"
+"Edwards AFB, CA",,retail,445120,Pilot,,,,34.9917362,-117.5422405,,,w_80799388,"shop=convenience, brand=Pilot"
+"Edwards AFB, CA",,retail,445110,Vallarta,"1801 West Avenue I, Lancaster, 93534",+1 (661) 951-0233,http://www.vallartasupermarket.com,34.7047719,-118.1633509,,,w_196018533,"shop=supermarket, brand=Vallarta"
+"Edwards AFB, CA",,retail,445120,ampm,"918 West Lancaster Boulevard, Lancaster, CA, 93534",,,34.696802,-118.1475983,,,w_196230690,"shop=convenience, brand=ampm"
+"Edwards AFB, CA",,retail,445120,Shell,"44015 20th Street West, Lancaster, 93534",,,34.6827817,-118.1664637,,,w_197540086,"shop=convenience, brand=Shell"
+"Edwards AFB, CA",,retail,446110,CVS Pharmacy,"2006 West Avenue J, Lancaster, 93536",,https://www.cvs.com/store-locator/lancaster-ca-pharmacies/2006-west-avenue-j-lancaster-ca-93536/storeid=9785,34.6879182,-118.1661695,,,w_208637563,"shop=chemist, brand=CVS Pharmacy, operator=CVS"
+"Edwards AFB, CA",,retail,445110,Albertsons,"43543 20th Street West, Lancaster, CA, 93536",+1 661-940-4747,https://local.albertsons.com/ca/lancaster/43543-20th-st-w.html,34.6737728,-118.1676359,,,w_210774056,"shop=supermarket, brand=Albertsons, operator=Albertsons"
+"Edwards AFB, CA",,retail,452210,Target,"43525 10th Street West, Lancaster, CA, 93534",+1 661-949-8584,https://www.target.com/sl/lancaster/245,34.6731639,-118.1489613,,,w_210845894,"shop=department_store, brand=Target"
+"Edwards AFB, CA",,retail,445120,ampm,,,,34.6745666,-118.1550809,,,w_210845905,"shop=convenience, brand=ampm"
+"Edwards AFB, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/lancaster-ca-pharmacies/846-w-avenue-k-lancaster-ca-93534/storeid=1666,34.6742906,-118.1471567,,,w_211544058,"shop=chemist, brand=CVS Pharmacy"
+"Edwards AFB, CA",,retail,445110,WinCo Foods,"740 West Avenue K 4, Lancaster, 93534",+1 661 945-2022,https://www.wincofoods.com/,34.6720778,-118.1448851,,,w_222009417,"shop=supermarket, brand=WinCo Foods"
+"Edwards AFB, CA",,retail,452319,Dollar Tree,"1834 West Avenue J, Lancaster, CA, 93534",,https://www.dollartree.com/locations/ca/lancaster/8878/,34.689091,-118.1647551,,,w_250041064,"shop=variety_store, brand=Dollar Tree"
+"Edwards AFB, CA",,retail,445110,,,,,35.0145265,-117.8380001,,,w_407052733,shop=supermarket
+"Edwards AFB, CA",,retail,452210,Edwards AFB Base Exchange (BX),,,,34.9224644,-117.9265399,,,w_450353721,"shop=department_store, operator=AAFES"
+"Edwards AFB, CA",,retail,445110,Edwards AFB Commissary,,,,34.9223546,-117.9276983,,,w_450353722,"shop=supermarket, operator=DLA"
+"Edwards AFB, CA",,retail,445110,Dollar General Market,"California City, CA",,https://www.dollargeneral.com/store-directory/ca/california-city/14147,35.1248572,-117.9555434,,,w_471492202,"shop=supermarket, brand=Dollar General"
+"Edwards AFB, CA",,retail,452319,Family Dollar,,,,35.1264615,-117.9575764,,,w_471492206,"shop=variety_store, brand=Family Dollar"
+"Edwards AFB, CA",,retail,446110,Rite Aid,,,,34.5721651,-118.0441561,,,w_472681423,"shop=chemist, brand=Rite Aid"
+"Edwards AFB, CA",,retail,446110,Walgreens,"831 East Avenue K, Lancaster, CA, 93535",,https://www.walgreens.com/locator/walgreens-831+e+avenue+k-lancaster-ca-93535/id=6018,34.6755658,-118.1131202,,,w_472700948,"shop=chemist, brand=Walgreens"
+"Edwards AFB, CA",,retail,445120,7-Eleven,"844 East Avenue J, Lancaster, 93535",,https://www.7-eleven.com/locations/ca/lancaster/844-e-avenue-j-19597,34.6890409,-118.1129646,,,w_472701040,"shop=convenience, brand=7-Eleven"
+"Edwards AFB, CA",,retail,452319,Dollar Tree,,,,34.6880121,-118.1108942,,,w_472710655,"shop=variety_store, brand=Dollar Tree"
+"Edwards AFB, CA",,retail,445110,,,,,34.6879595,-118.1119528,,,w_472710783,"shop=grocery, brand=Superior Grocers"
+"Edwards AFB, CA",,retail,446120,Sally's Beauty Salon,,,,34.6881115,-118.1113231,,,w_472712099,shop=beauty
+"Edwards AFB, CA",,retail,445120,Shell,,,,34.675408,-118.1115052,,,w_472715740,"shop=convenience, brand=Shell"
+"Edwards AFB, CA",,retail,446110,CVS Pharmacy,"44430 10th Street East, Lancaster, 93535",,https://www.cvs.com/store-locator/lancaster-ca-pharmacies/44430-challenger-way-lancaster-ca-93535/storeid=9657,34.6904071,-118.1122198,,,w_472717732,"shop=chemist, brand=CVS Pharmacy"
+"Edwards AFB, CA",,retail,445110,Walmart Supercenter,"1731 East Avenue J, Lancaster, CA, 93535",+1 661-945-7848,https://www.walmart.com/store/2951-lancaster-ca,34.6924661,-118.0978202,,,w_472727177,"shop=supermarket, brand=Walmart"
+"Edwards AFB, CA",,retail,445120,7-Eleven,"44011 Sierra Highway, Lancaster, CA, 93534-4412",+1 661-948-7270,https://www.7-eleven.com/locations/ca/lancaster/44011-sierra-hwy-17837,34.6823938,-118.1346526,,,w_472729610,"shop=convenience, brand=7-Eleven"
+"Edwards AFB, CA",,retail,445120,ampm,"West Avenue K, Lancaster",,,34.6746082,-118.1652343,,,w_472732583,"shop=convenience, brand=ampm"
+"Edwards AFB, CA",,retail,445120,,"849 East Avenue I, Lancaster, 93535",,,34.7047216,-118.1131718,,,w_472763196,shop=convenience
+"Edwards AFB, CA",,retail,445310,Bootleggers 2,"111 East Avenue K, Lancaster, 93535",,,34.6754271,-118.1297244,,,w_472788813,shop=alcohol
+"Edwards AFB, CA",,retail,445120,ampm,,,,34.6755727,-118.1307897,,,w_472788814,"shop=convenience, brand=ampm"
+"Edwards AFB, CA",,retail,445310,,,,,34.6487723,-118.1290757,,,w_472801844,shop=alcohol
+"Edwards AFB, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/palmdale-ca-pharmacies/38012-47th-street-east-palmdale-ca-93552/storeid=3055,34.5734184,-118.0440612,,,w_472912422,"shop=chemist, brand=CVS Pharmacy"
+"Edwards AFB, CA",,retail,445110,Vallarta,,,,34.5748928,-118.0436453,,,w_472912548,"shop=supermarket, brand=Vallarta"
+"Edwards AFB, CA",,retail,445120,Super Store 6,,,,34.5580208,-117.9691413,,,w_472938250,shop=convenience
+"Edwards AFB, CA",,retail,445120,ampm,,,,34.703546,-118.1666441,,,w_472957433,"shop=convenience, brand=ampm"
+"Edwards AFB, CA",,retail,445120,Valero,Lancaster,,,34.6752972,-118.1608514,,,w_472990375,"shop=convenience, brand=Valero"
+"Edwards AFB, CA",,retail,452210,Big Lots,"1070 West Avenue K, Lancaster, CA, 93534",+1 661-945-1881,https://local.biglots.com/ca/lancaster/1070-w-avenue-k,34.6732764,-118.151126,,,w_472992132,"shop=department_store, brand=Big Lots"
+"Edwards AFB, CA",,retail,445120,,,,,34.6898443,-118.1360107,,,w_472994032,shop=convenience
+"Edwards AFB, CA",,retail,452319,Dollar General,"3546 West Rosamond Boulevard, Rosamond, CA, 93560",,https://www.dollargeneral.com/store-directory/ca/rosamond/16540,34.8633358,-118.1943542,,,w_664771881,"shop=variety_store, brand=Dollar General"
+"Edwards AFB, CA",,retail,452319,Family Dollar,"26645 Twenty Mule Team Road, Boron, CA, 93516",,,35.0003799,-117.6560863,,,w_707134558,"shop=variety_store, brand=Family Dollar"
+"Edwards AFB, CA",,retail,445120,Mobil Mart,,,,34.6453248,-118.1486191,,,w_726792179,"shop=convenience, brand=Mobil Mart"
+"Edwards AFB, CA",,retail,445120,Circle K,,,,34.689789,-118.165949,,,w_850739452,"shop=convenience, brand=Circle K"
+"Edwards AFB, CA",,retail,452319,Dollar General,"40360 171st Street East, Lake Los Angeles, CA, 93591",(661) 544-1955,https://www.dollargeneral.com/store-directory/ca/lake-los-angeles/14002,34.6159501,-117.8261284,,,w_878028734,"shop=variety_store, brand=Dollar General"
+"Edwards AFB, CA",,retail,452319,Family Dollar,"16830 East Avenue O, Lake Los Angeles, CA, 93591",(661) 349-7852,,34.6158857,-117.8282885,,,w_878029825,"shop=variety_store, brand=Family Dollar"
+"Edwards AFB, CA",,retail,445110,ALDI,"2014 East Avenue J, Lancaster, CA, 93535-6165",+1 661-349-8357,https://stores.aldi.us/ca/lancaster/2014-e-avenue-j,34.689103,-118.0941569,,,w_935047557,"shop=supermarket, brand=ALDI"
+"Edwards AFB, CA",,retail,445120,Fastrip,,,,35.047278,-118.1714098,,,w_993169245,shop=convenience
+"Edwards AFB, CA",,retail,452319,Dollar General,"8830 East Palmdale Boulevard, Sun Village, CA, 93552",+1 661-382-0025,https://www.dollargeneral.com/store-directory/ca/sun-village/17009,34.5791236,-117.9707643,,,w_993282134,"shop=variety_store, brand=Dollar General"
+"Edwards AFB, CA",,retail,452210,Target,"38019 47th Street East, Palmdale, CA, 93552-3103",+1 661-998-2500,https://www.target.com/sl/palmdale-east/2350,34.5740586,-118.0485225,,,w_1006767313,"shop=department_store, brand=Target"
+"Edwards AFB, CA",,retail,446120,Bath & Body Works,,,,34.5747989,-118.0482122,,,w_1006767315,"shop=cosmetics, brand=Bath & Body Works"
+"Edwards AFB, CA",,retail,452210,Ross,"38115 47th Street East, Palmdale, CA, 93552",+1 661-533-9394,,34.5750598,-118.04838,,,w_1006767316,"shop=department_store, brand=Ross"
+"Edwards AFB, CA",,retail,445110,Grocery Outlet,,,,34.8631664,-118.1778071,,,w_1007374950,"shop=supermarket, brand=Grocery Outlet"
+"Edwards AFB, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/rosamond/2536-rosamond-blvd-41317,34.8636178,-118.1765286,,,w_1007374958,"shop=convenience, brand=7-Eleven"
+"Edwards AFB, CA",,retail,445120,Love's,,,,35.0120159,-117.6444514,,,w_1007487173,"shop=convenience, brand=Love's"
+"Edwards AFB, CA",,retail,445120,Fastrip,,,https://fastrip.com/,34.8637913,-118.1627287,,,w_1010280694,"shop=convenience, brand=Fastrip"
+"Edwards AFB, CA",,retail,452319,Family Dollar,,,,34.8648831,-118.1622636,,,w_1010280701,"shop=variety_store, brand=Family Dollar"
+"Edwards AFB, CA",,retail,445120,Circle K,,,,34.5809134,-118.0591387,,,w_1024349043,"shop=convenience, brand=Circle K"
+"Edwards AFB, CA",,retail,445120,Shell,601 California City Boulevard,,https://find.shell.com/us/fuel/12542066-601-california-city-blvd,35.125758,-118.1174233,,,w_1034835075,"shop=convenience, brand=Shell"
+"Edwards AFB, CA",,retail,446110,Rite Aid,2938 West Rosamond Boulevard,,https://www.riteaid.com/locations/ca/rosamond/2938-west-rosamond-blvd.html,34.8634592,-118.1841064,,,w_1051944347,"shop=chemist, brand=Rite Aid"
+"Edwards AFB, CA",,retail,452319,Dollar General,"2475 Sierra Highway, Rosamond, CA, 93560",,https://www.dollargeneral.com/store-directory/ca/rosamond/18807,34.8567663,-118.162592,,,w_1051944357,"shop=variety_store, brand=Dollar General"
+"Edwards AFB, CA",,retail,452319,Saddleback Market,Lake Los Angeles,+1 661 264-2904,,34.6169469,-117.8262957,,,w_1075482766,shop=general
+"Edwards AFB, CA",,retail,445120,Circle K,,,,34.6745682,-118.1297881,,,w_1094679933,"shop=convenience, brand=Circle K"
+"Edwards AFB, CA",,retail,445110,Albertsons,,,https://local.albertsons.com/ca/rosamond/2547-rosamond.html,34.8655593,-118.1767355,,,r_5687550,"shop=supermarket, brand=Albertsons"
+"Edwards AFB, CA",,retail,445110,Walmart Supercenter,"44665 Valley Central Way, Lancaster, CA, 93536",+1-661-940-8744,https://www.walmart.com/store/1563-lancaster-ca,34.6937972,-118.174061,,,r_6955798,"shop=supermarket, brand=Walmart, operator=Walmart"

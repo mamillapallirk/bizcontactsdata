@@ -1,0 +1,544 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Lemon Hill, CA",,retail,445110,Raley's,"890 Southampton Road, Benicia, CA, 94510",707-746-1203,https://www.raleys.com/,38.0665187,-122.167967,,,n_598055156,"shop=supermarket, brand=Raley's"
+"Lemon Hill, CA",,retail,445110,Safeway,"50 Solano Square, Benicia, CA, 94510",+1 707-745-4047,https://local.safeway.com/safeway/ca/benicia/50-solano-sq.html,38.0547702,-122.15572,,,n_698082170,"shop=supermarket, brand=Safeway, operator=Safeway"
+"Lemon Hill, CA",,retail,445110,Westlake IGA Market,,,,38.5545359,-121.7870207,,,n_711012114,shop=supermarket
+"Lemon Hill, CA",,retail,445110,Trader Joe's,"885 Russell Boulevard, Davis, CA, 95616",+1 530-757-2693,https://www.traderjoes.com/,38.5467537,-121.7614973,,,n_1052335476,"shop=supermarket, brand=Trader Joe's"
+"Lemon Hill, CA",,retail,445310,Scribe,"2300 Napa Road, Sonoma, 95476",,,38.2762673,-122.4153287,,,n_1316301025,shop=wine
+"Lemon Hill, CA",,retail,445110,Whole Foods Market,"3682 Bel Aire Plaza, Napa, CA, 94558",+1 707-224-6300,https://www.wholefoodsmarket.com/stores/napa,38.3232512,-122.3063419,,,n_1347464430,"shop=supermarket, brand=Whole Foods Market"
+"Lemon Hill, CA",,retail,445110,Trader Joe's,"3654 Bel Aire Plaza, Napa, CA, 94558",+1 707-256-0806,https://locations.traderjoes.com/ca/napa/128/,38.3227883,-122.3059235,,,n_1347464433,"shop=supermarket, brand=Trader Joe's"
+"Lemon Hill, CA",,retail,445310,Sebastiani Vineyards and Winery,"389 Fourth Street East, Sonoma, 95476",+1 707 933 3230,,38.293364,-122.449264,,,n_1834642932,shop=alcohol
+"Lemon Hill, CA",,retail,445120,Chevron,,,,38.0949246,-122.2288446,,,n_1861486372,"shop=convenience, brand=Chevron"
+"Lemon Hill, CA",,retail,445120,Ben's Food & Liquor,,,,38.0946002,-122.2281094,,,n_1861493139,shop=convenience
+"Lemon Hill, CA",,retail,452210,dd's Discounts,,,,38.1040392,-122.2307137,,,n_1861502515,"shop=department_store, brand=dd's Discounts"
+"Lemon Hill, CA",,retail,445110,Cardenas,,,,38.1038261,-122.231081,,,n_1861502536,"shop=supermarket, brand=Cardenas"
+"Lemon Hill, CA",,retail,446120,Orchid Nails and Spa,,,,38.1049112,-122.2311349,,,n_1862633028,shop=beauty
+"Lemon Hill, CA",,retail,445120,Cigarettes 4 Less,,,,38.1048239,-122.2310622,,,n_1862633074,shop=convenience
+"Lemon Hill, CA",,retail,446120,Bath & Body Works,,,,38.5414333,-121.741526,,,n_1941881548,"shop=cosmetics, brand=Bath & Body Works"
+"Lemon Hill, CA",,retail,445110,Savemart,,,,38.559607,-121.7577404,,,n_2188177617,shop=supermarket
+"Lemon Hill, CA",,retail,445110,FoodMaxx,,,,38.1234059,-122.236462,,,n_2264170931,"shop=supermarket, brand=FoodMaxx"
+"Lemon Hill, CA",,retail,445120,Sage Street Market,"201 Sage Street, Davis, 94566",+1 530-759-0663,https://housing.ucdavis.edu/dining/sage-street/,38.5412859,-121.7717517,,,n_2281654814,shop=convenience
+"Lemon Hill, CA",,retail,452319,Dollar Tree,,,,38.3434826,-121.9937642,,,n_2401059911,"shop=variety_store, brand=Dollar Tree"
+"Lemon Hill, CA",,retail,445110,Raley's,,,,38.2574839,-122.0660105,,,n_2589909684,"shop=supermarket, brand=Raley's"
+"Lemon Hill, CA",,retail,452210,TJ Maxx,,,,38.215332,-122.1417063,,,n_2589929166,"shop=department_store, brand=TJ Maxx"
+"Lemon Hill, CA",,retail,452210,Target,"3000 Harbison Drive, Vacaville, CA, 95687-3909",+1 707-452-8053,https://www.target.com/sl/vacaville/827,38.3610366,-121.9613315,,,n_2590491557,"shop=department_store, brand=Target"
+"Lemon Hill, CA",,retail,452210,Burlington,"2021 Harbison Drive, Vacaville, CA, 95687",+1 707-451-7866,https://stores.burlington.com/ca/vacaville/758/,38.360385,-121.964131,,,n_2590493283,"shop=department_store, brand=Burlington"
+"Lemon Hill, CA",,retail,452210,Ross,"2071 Harbison Drive, Vacaville, CA, 95687",+1 707-446-9856,,38.3604083,-121.9662639,,,n_2590493942,"shop=department_store, brand=Ross"
+"Lemon Hill, CA",,retail,445110,Grocery Outlet,,,,38.3676348,-121.9592533,,,n_2590547087,"shop=supermarket, brand=Grocery Outlet"
+"Lemon Hill, CA",,retail,452210,Marshalls,,,,38.1337123,-122.2196958,,,n_2638103317,"shop=department_store, brand=Marshalls"
+"Lemon Hill, CA",,retail,452210,Ross,"133 Plaza Drive, Vallejo, CA, 94591",+1 707-552-9565,,38.1326326,-122.2203904,,,n_2638103319,"shop=department_store, brand=Ross"
+"Lemon Hill, CA",,retail,452319,Broadway Market,"Sonoma, 95476",,,38.275435,-122.460743,,,n_2792019738,shop=general
+"Lemon Hill, CA",,retail,445110,Whole Foods Market,"201 West Napa Street, Sonoma, CA, 95476",+1 707-938-8500,https://www.wholefoodsmarket.com/stores/sonoma,38.291356,-122.462555,,,n_2793710092,"shop=supermarket, brand=Whole Foods Market"
+"Lemon Hill, CA",,retail,445230,Watmaugh Strawberry Stand,"Sonoma, 95476",,,38.261237,-122.482478,,,n_2793898368,shop=greengrocer
+"Lemon Hill, CA",,retail,445310,Anaba Winery,Sonoma,,,38.236552,-122.462365,,,n_2793899645,shop=wine
+"Lemon Hill, CA",,retail,445120,Bonneau Market,Sonoma,,,38.235947,-122.461675,,,n_2793899760,shop=convenience
+"Lemon Hill, CA",,retail,445310,Gloria Ferrer ,Sonoma,,,38.223907,-122.471311,,,n_2793900062,"shop=wine, brand=Frexinet"
+"Lemon Hill, CA",,retail,445310,Jacuzzi Family Winery,Sonoma,,,38.214709,-122.45398,,,n_2793907100,shop=wine
+"Lemon Hill, CA",,retail,445310,Viansa Winery,Sonoma,,,38.208406,-122.451795,,,n_2794039180,shop=wine
+"Lemon Hill, CA",,retail,445310,Ram's Gate,,,,38.1741237,-122.4504414,,,n_2794072011,shop=wine
+"Lemon Hill, CA",,retail,445310,Envolve Winery,,+1 (707) 939-5385,http://envolvewinery.com,38.291373,-122.457177,,,n_2795258469,shop=alcohol
+"Lemon Hill, CA",,retail,445310,Sonoma Enoteca,"35 East Napa Street, Sonoma, CA, 95476",+1 (707) 935-1200,http://www.sonoma-enoteca.com/,38.291698,-122.456943,,,n_2795259169,shop=alcohol
+"Lemon Hill, CA",,retail,445310,Nicholson Ranch,Sonoma,,,38.255065,-122.391245,,,n_2795277969,shop=wine
+"Lemon Hill, CA",,retail,445310,Domaine Carneros,,,,38.255478,-122.351414,,,n_2795282869,"shop=wine, brand=Tattinger"
+"Lemon Hill, CA",,retail,445310,Cuvaison ,,,,38.250786,-122.34732,,,n_2795290369,shop=wine
+"Lemon Hill, CA",,retail,445310,Madonna Winery,,,,38.255822,-122.341286,,,n_2795292869,shop=wine
+"Lemon Hill, CA",,retail,445299,Vella Cheese Co.,"315 2nd Street East, Sonoma, 95476",+1 800 848-0505,https://vellacheese.com/,38.2950362,-122.454065,,,n_2795641535,shop=cheese
+"Lemon Hill, CA",,retail,445310,Westwood Winery,"East Napa Street, Sonoma, 95476",+1 707 933-7837,https://westwoodwine.com/,38.2917561,-122.4574483,,,n_2796493911,shop=alcohol
+"Lemon Hill, CA",,retail,445310,Valley of the Moon Winery,Sonoma,,,38.340479,-122.506519,,,n_2797582871,shop=wine
+"Lemon Hill, CA",,retail,445110,Sonoma Market,"Sonoma, 95476",,,38.293324,-122.468686,,,n_2797601769,shop=supermarket
+"Lemon Hill, CA",,retail,445310,Valley Wine Shack,"Sonoma, 95476",,,38.292803,-122.469228,,,n_2797606669,shop=wine
+"Lemon Hill, CA",,retail,445120,Town Market,,,,38.1044143,-122.2380254,,,n_2805280721,shop=convenience
+"Lemon Hill, CA",,retail,445120,7-Eleven,"2835 Georgia Street, Vallejo, CA, 94591-6503",+1 707-648-2805,https://www.7-eleven.com/locations/ca/vallejo/2835-georgia-st-14133,38.0996339,-122.2239494,,,n_2805280723,"shop=convenience, brand=7-Eleven"
+"Lemon Hill, CA",,retail,445230,Saetern Strawberry Field,,,,38.261251,-122.482459,,,n_2823987402,shop=greengrocer
+"Lemon Hill, CA",,retail,445310,Bump Wine Cellars,"Sonoma, 95476",+1 (707) 228-9214,http://bumpwine.com,38.29151,-122.458159,,,n_2827321202,shop=alcohol
+"Lemon Hill, CA",,retail,445310,Moondance Cellars,"Arnold Drive, Glen Ellen",,,38.354191,-122.524229,,,n_2828175601,shop=wine
+"Lemon Hill, CA",,retail,445310,Eric Ross Winery,,,,38.354119,-122.5248,,,n_2828176401,shop=wine
+"Lemon Hill, CA",,retail,446120,Salon Novo,"651 1st Street West, Sonoma, 95476",,https://salonnovo.com/,38.2893674,-122.4596007,,,n_2854385631,shop=beauty
+"Lemon Hill, CA",,retail,445310,Two Amigos Wines,,+1 (707) 799-7146,https://twoamigoswines.com/,38.2916365,-122.4572182,,,n_2854407167,shop=alcohol
+"Lemon Hill, CA",,retail,445299,Epicurean Connection,"122 West Napa Street, Sonoma, 95476",+1 (707) 935-7960,http://theepicureanconnection.com,38.2921805,-122.4595554,,,n_2854410999,shop=cheese
+"Lemon Hill, CA",,retail,445310,Hawkes Vineyards and Winery,"383 1st Street West, Sonoma, 95476",+1 (707) 938-7620,https://www.hawkeswine.com/,38.2941916,-122.4587511,,,n_2857481366,shop=alcohol
+"Lemon Hill, CA",,retail,445310,Spann Vineyards Tasting Room,,+1 (707) 933-8343,https://spannvineyards.com/,38.2916927,-122.4565077,,,n_2858533567,shop=alcohol
+"Lemon Hill, CA",,retail,445310,Charles Creek Vineyard Tasting Room & Gallery,"483 1st Street West, Sonoma, 95476",+1 (707) 935-3848,http://charlescreek.com,38.2923805,-122.4590825,,,n_2858610176,shop=alcohol
+"Lemon Hill, CA",,retail,445310,Kamen Estate Wines,,+1 (707) 938-7292,https://kamenwines.com/,38.2916706,-122.4564759,,,n_2858636999,shop=alcohol
+"Lemon Hill, CA",,retail,445310,Bryter Estates,,+1 (707) 501-8757,https://bryter.com/,38.291511,-122.4572582,,,n_2858952947,shop=alcohol
+"Lemon Hill, CA",,retail,445310,Adobe Road Winery,"481 1st Street West, Sonoma, 95476",+1-707-939-9099,https://www.adoberoadwines.com/,38.2925274,-122.4590637,,,n_2859092140,shop=alcohol
+"Lemon Hill, CA",,retail,445310,Highway 12 Winery,"498 1st Street East, Sonoma, 95476",+1 (707) 938-8091,http://www.highway12wines.com/,38.2920058,-122.4564765,,,n_2859120357,shop=alcohol
+"Lemon Hill, CA",,retail,445310,Haywood Estate Winery,,+1 (707) 933-3001,http://haywoodwinery.com,38.2917542,-122.4572489,,,n_2859249324,shop=alcohol
+"Lemon Hill, CA",,retail,445310,MacLaren Tasting Lounge,,+1 (707) 938-7490,https://maclarenwine.com/,38.2913832,-122.4573041,,,n_2859254191,shop=alcohol
+"Lemon Hill, CA",,retail,445310,Bedrock Wine Company,"554 Michael Drive, Sonoma, 95476",+1 (707) 364-8763,https://bedrockwineco.com/,38.3069768,-122.468844,,,n_2859368040,shop=alcohol
+"Lemon Hill, CA",,retail,445310,Wine Country Connect,"1055 Broadway, Sonoma, 95476",+1 (707) 938-8485,https://www.winecountryconnect.com/,38.2820047,-122.4598573,,,n_2860207043,shop=alcohol
+"Lemon Hill, CA",,retail,446120,The Spa at The Lodge Sonoma,"1325 Broadway, Sonoma, 95476",+1 (707) 931-3434,https://www.thespaatthelodge.com,38.2774674,-122.463173,,,n_2875670876,shop=beauty
+"Lemon Hill, CA",,retail,446120,Grapevine Skin Care & Waxing,"461 7th Street West, Sonoma, 95476",+1 (707) 815-8914,,38.2939863,-122.471659,,,n_2875680939,shop=beauty
+"Lemon Hill, CA",,retail,446120,Keri Halasz,"454 West Napa Street, Sonoma, 95476",+1 (707) 225-4683,http://healingartenergy.com,38.2931432,-122.4668807,,,n_2875693224,shop=beauty
+"Lemon Hill, CA",,retail,446120,Amber Rose Advanced Skin Care,"500 West Spain Street, Sonoma, CA, 95476",+1 (707) 246-4397,https://amberroseskincare.com/,38.2941684,-122.468767,,,n_2875698463,shop=beauty
+"Lemon Hill, CA",,retail,446120,Catalina Skin and Body,"535 1st Street West, Sonoma, 95476",+1 (707) 933-3860,http://catalinasspa.com,38.2915968,-122.4593609,,,n_2877161342,shop=beauty
+"Lemon Hill, CA",,retail,446120,Butterfly Kisses Beauty Studio,"21 Patten Street, Sonoma, 95476",+1 (707) 363-4512,http://butterflysonoma.com,38.2898453,-122.4574497,,,n_2877166893,shop=beauty
+"Lemon Hill, CA",,retail,446120,Salon Sabrina,"702 Broadway, Sonoma, 95476",+1 (707) 996-2771,http://www.salonsabrinaonline.com/,38.2881989,-122.4580802,,,n_2877173239,shop=beauty
+"Lemon Hill, CA",,retail,446120,Blush A Day Spa,"561 Broadway, Sonoma, 95476",+1 (707) 935-0116,http://blushspasonoma.com,38.2908195,-122.458676,,,n_2882072920,shop=beauty
+"Lemon Hill, CA",,retail,446120,Sonoma Holistic Spa,"525 3rd Street West, Sonoma, 95476",+1 (415) 717-3106,http://sonomaholisticspa.com,38.29185,-122.4638882,,,n_2882100459,shop=beauty
+"Lemon Hill, CA",,retail,446120,Leticia’s Salon,"21 Patten Street, Sonoma, 95476",+1 (707) 996-1063,,38.2898584,-122.4574984,,,n_2882129068,shop=beauty
+"Lemon Hill, CA",,retail,446120,Personal Image Hair & Skin Care,"563 5th Street West, Sonoma, 95476",,,38.2916416,-122.4687309,,,n_2882359513,shop=beauty
+"Lemon Hill, CA",,retail,446120,CC Beauty Salon,"18615 Sonoma Highway, Sonoma, 95476",+1 (707) 935-8329,http://ccbeautysalon.com,38.3084794,-122.4778248,,,n_2882365404,shop=beauty
+"Lemon Hill, CA",,retail,446120,Body Karma,"19310 Sonoma Highway, Sonoma, 95476",+1 (707) 935-5855,http://www.bodykarma.biz/,38.2980984,-122.4743617,,,n_2882381387,shop=beauty
+"Lemon Hill, CA",,retail,446120,Maxwell Nails Salon,"19205 Sonoma Highway, Sonoma, CA, 95476",+1 (707) 933-3838,https://maxwellnailssalonsonoma.com/,38.2991789,-122.4760752,,,n_2882761560,shop=beauty
+"Lemon Hill, CA",,retail,446120,Nails Pro,"201 West Napa Street, Sonoma, 95476",+1 (707) 939-9753,,38.2921837,-122.4622284,,,n_2882768202,shop=beauty
+"Lemon Hill, CA",,retail,446120,Bianchi Grazia Hair & Makeup Salon,"248 West Napa Street, Sonoma, 95476",+1 (707) 996-6002,http://bianchi-salon.com,38.29255,-122.4621884,,,n_2882775824,shop=beauty
+"Lemon Hill, CA",,retail,446120,S. Cutright Salon,"686 West Napa Street, Sonoma, 95476",+1 (707) 939-1761,,38.293459,-122.4713693,,,n_2882784697,shop=beauty
+"Lemon Hill, CA",,retail,446120,Amma Touch,"19343 Sonoma Highway, Sonoma, 95476",+1 (707) 367-2894,http://ammatouch.abmp.com/,38.2972416,-122.4758956,,,n_2882835687,shop=beauty
+"Lemon Hill, CA",,retail,446120,Sonoma Nails,,,,38.3034775,-122.4756639,,,n_2882933844,shop=beauty
+"Lemon Hill, CA",,retail,446120,Colleens Bodywork,"811 West Napa Street, Sonoma, 95476",+1 (707) 939-9156,http://sonomadeeptissuemassage.com,38.2931669,-122.4734424,,,n_2882938319,shop=beauty
+"Lemon Hill, CA",,retail,446120,Healing Tree of Sonoma,"772 West Napa Street, Sonoma, 95476",+1 (707) 299-9655,http://healingtreeofsonoma.com,38.2936074,-122.4728751,,,n_2882941726,shop=beauty
+"Lemon Hill, CA",,retail,446120,Koko’s Of Sonoma,"678 Broadway, Sonoma, 95476",+1 (707) 933-9004,http://kokosofsonoma.com,38.2887558,-122.4579133,,,n_2882943158,shop=beauty
+"Lemon Hill, CA",,retail,446120,Bohemian Boudoir,"461 7th Street West, Sonoma, 95476",+1 (415) 572-4745,http://thebohemianboudoir.com,38.2940847,-122.4716517,,,n_2882952807,shop=beauty
+"Lemon Hill, CA",,retail,446120,Freedom Therapy Myofascial Release,"19343 Sonoma Highway, Sonoma, 95476",+1 (707) 933-7815,https://www.freedomtherapy.net/default.html,38.2972166,-122.4759366,,,n_2882958804,shop=beauty
+"Lemon Hill, CA",,retail,446120,Beautiful Nails,"539 Broadway, Sonoma, 95476",+1 (707) 996-2417,http://beautifulnailsonoma.wix.com/beautifulnailsonoma,38.2911289,-122.4582544,,,n_2882963133,shop=beauty
+"Lemon Hill, CA",,retail,446120,Happy Nails,"721 West Napa Street, Sonoma, 95476",+1 (707) 939-8262,,38.29315,-122.47216,,,n_2882965522,shop=beauty
+"Lemon Hill, CA",,retail,446120,The Pampered Pout,"678 Broadway, Sonoma, 95476",+1 (707) 938-9396,,38.2887653,-122.4579649,,,n_2882971397,shop=beauty
+"Lemon Hill, CA",,retail,446120,City’s Nails,"808 West Napa Street, Sonoma, 95476",+1 (707) 996-8182,,38.2938137,-122.4732788,,,n_2882993576,shop=beauty
+"Lemon Hill, CA",,retail,446120,Trinity Day Spa,"27 East Napa Street, Sonoma, 95476",+1 (707) 326-2762,http://sonomadayspaandsalon.com,38.2912868,-122.4572351,,,n_2883001509,shop=beauty
+"Lemon Hill, CA",,retail,446120,Sun Seekers,"595 5th Street West, Sonoma, 95476",+1 (707) 996-0317,,38.2913526,-122.4686049,,,n_2883003464,shop=beauty
+"Lemon Hill, CA",,retail,446120,Perfumania,"321 Nut Tree Road, Vacaville, 95687",,,38.3660673,-121.9570409,,,n_3458211395,"shop=perfumery, brand=Perfumania"
+"Lemon Hill, CA",,retail,445110,Carniceria El Brinquito,"17380 Sonoma Highway, Sonoma, CA, 95476",,,38.3198633,-122.4862731,,,n_3534520165,shop=supermarket
+"Lemon Hill, CA",,retail,445110,Carniceria La Favorita,"17484 Sonoma Highway, Sonoma, CA, 95476",707-938-9607,,38.3186485,-122.4852867,,,n_3534530264,shop=supermarket
+"Lemon Hill, CA",,retail,445310,Materra | Cunat Family Vineyards,,,http://www.materrawines.com/,38.3621152,-122.3111949,,,n_3711387003,shop=wine
+"Lemon Hill, CA",,retail,445110,Nob Hill,"611 Trancas St, Napa, CA, 94558",(707) 224-8583,,38.3241936,-122.2859373,,,n_3715624080,"shop=supermarket, operator=Raley's"
+"Lemon Hill, CA",,retail,445110,Lucky,"1312 Trancas St, Napa, CA, 94558",+1 (707) 255-7767,https://www.luckysupermarkets.com/stores/5055,38.3234529,-122.301783,,,n_3715632816,"shop=supermarket, brand=Lucky"
+"Lemon Hill, CA",,retail,446120,,,,,38.2897418,-122.0323392,,,n_3748098517,shop=beauty
+"Lemon Hill, CA",,retail,445120,7-Eleven,"1097 East Monte Vista Avenue, Vacaville, CA, 95688",,https://www.7-eleven.com/locations/ca/vacaville/1097-e-monte-vista-ave-24248,38.3603497,-121.977732,,,n_4044814529,"shop=convenience, brand=7-Eleven"
+"Lemon Hill, CA",,retail,445120,Vaca Food & Liquor,"1193 East Monte Vista Avenue, Vacaville, CA, 95688",,,38.3610102,-121.975167,,,n_4047002168,shop=convenience
+"Lemon Hill, CA",,retail,445110,Trader Joe's,"1350 Gateway Boulevard, Fairfield, CA, 94533",+1 707-434-0144,https://locations.traderjoes.com/ca/fairfield/101/,38.2640861,-122.053199,,,n_4141972189,"shop=supermarket, brand=Trader Joe's"
+"Lemon Hill, CA",,retail,445310,st. clement vineyards,,,,38.5188428,-122.4919358,,,n_4343788389,shop=alcohol
+"Lemon Hill, CA",,retail,452319,Family Dollar,,,,38.5543659,-121.7870159,,,n_4356618301,"shop=variety_store, brand=Family Dollar"
+"Lemon Hill, CA",,retail,445310,vini,,,,38.5434516,-121.7407513,,,n_4359279889,shop=wine
+"Lemon Hill, CA",,retail,445120,Power Market,,,,38.0263416,-121.9580779,,,n_4555791430,shop=convenience
+"Lemon Hill, CA",,retail,445110,Mi Tierra,,,,38.026264,-121.9480092,,,n_4555819570,shop=supermarket
+"Lemon Hill, CA",,retail,445110,Safeway,"660 Bailey Road, Pittsburg, CA, 94565",+1 925-458-0181,https://local.safeway.com/safeway/ca/pittsburg/660-bailey-rd.html,38.0161167,-121.943476,,,n_4555862465,"shop=supermarket, brand=Safeway"
+"Lemon Hill, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/pittsburg/4369/,38.0156718,-121.943397,,,n_4555862466,"shop=variety_store, brand=Dollar Tree"
+"Lemon Hill, CA",,retail,445110,La Chicana Market,,,,38.0264699,-121.933659,,,n_4556083432,shop=supermarket
+"Lemon Hill, CA",,retail,445310,Dave's Liquor,,,,38.0264028,-121.9327381,,,n_4556083434,shop=alcohol
+"Lemon Hill, CA",,retail,445120,Power Market,,,,38.0263713,-121.9275577,,,n_4556083435,shop=convenience
+"Lemon Hill, CA",,retail,445110,Bill Bly's Ranch Market,,,,38.0265163,-121.9438266,,,n_4556083443,shop=supermarket
+"Lemon Hill, CA",,retail,445110,Del Valle Produce,,,,38.0343242,-121.9614961,,,n_4556083446,shop=supermarket
+"Lemon Hill, CA",,retail,445120,Power Market,,,,38.0204953,-121.9424637,,,n_4557932441,shop=convenience
+"Lemon Hill, CA",,retail,445120,Alliance,,,,38.0264828,-121.94271,,,n_4574206604,shop=convenience
+"Lemon Hill, CA",,retail,446120,Bella Capelli Hair Salon,,7074551507,,38.3547124,-121.9914707,,,n_4581999079,shop=beauty
+"Lemon Hill, CA",,retail,446120,Atma Wholistic Day Spa,,,,38.3538264,-121.9913908,,,n_4581999081,shop=beauty
+"Lemon Hill, CA",,retail,445120,7-Eleven,"1450 Alamo Drive, Vacaville, CA, 95687-6537",+1 707-448-7711,https://www.7-eleven.com/locations/ca/vacaville/1450-alamo-dr-14155,38.3355513,-121.9859436,,,n_4582002103,"shop=convenience, brand=7-Eleven"
+"Lemon Hill, CA",,retail,445110,Raley's,"3061 Alamo Drive, Vacaville, 95687",,,38.3366712,-121.954517,,,n_4582002104,"shop=supermarket, brand=Raley's"
+"Lemon Hill, CA",,retail,446120,Ulta Beauty,"1725 Trancas Street, Napa, CA, 94558",+1 707-224-1117,https://www.ulta.com/stores/napa-ca-648,38.3205387,-122.3064942,,,n_4588450155,"shop=cosmetics, brand=Ulta Beauty"
+"Lemon Hill, CA",,retail,445310,BevMo!,,,,38.3215705,-122.30045,,,n_4588462326,"shop=alcohol, brand=BevMo!"
+"Lemon Hill, CA",,retail,445292,See's Candies,"1301 Trancas Street, Napa, CA",,,38.3223328,-122.300243,,,n_4588462328,"shop=confectionery, brand=See's Candies"
+"Lemon Hill, CA",,retail,452210,Marshalls,,,,38.2863039,-122.273581,,,n_4589631152,"shop=department_store, brand=Marshalls"
+"Lemon Hill, CA",,retail,445120,7-Eleven,"2906 First Street, Napa, CA, 94558-5529",+1 707-252-0288,https://www.7-eleven.com/locations/ca/napa/2906-first-st-14138,38.3012926,-122.3107291,,,n_4610544343,"shop=convenience, brand=7-Eleven"
+"Lemon Hill, CA",,retail,445120,Kwikee Mart,,,,38.3156127,-122.2973371,,,n_4612232971,shop=convenience
+"Lemon Hill, CA",,retail,446120,Imola Nail Spa,,,,38.281042,-122.2926389,,,n_4615542650,shop=beauty
+"Lemon Hill, CA",,retail,445120,Valencia,,,,38.2814304,-122.2926399,,,n_4615542657,shop=convenience
+"Lemon Hill, CA",,retail,445110,Grocery Outlet,,,,38.2809103,-122.290877,,,n_4615542659,"shop=supermarket, brand=Grocery Outlet"
+"Lemon Hill, CA",,retail,445120,7-Eleven,"1136 Imola Avenue, Napa, CA, 94559-4237",+1 707-224-6788,https://www.7-eleven.com/locations/ca/napa/1136-imola-ave-14152,38.2803293,-122.2653634,,,n_4623128061,"shop=convenience, brand=7-Eleven"
+"Lemon Hill, CA",,retail,445310,Saddleback Cellars,"7802 Money Road, 94558",7079441305,,38.4493933,-122.3882718,,,n_4629515789,shop=wine
+"Lemon Hill, CA",,retail,446120,Allure Nail & Massage,,,,38.3231957,-122.2994422,,,n_4636874578,shop=beauty
+"Lemon Hill, CA",,retail,445120,7-Eleven,"29 Rio del Mar, American Canyon, CA, 94503",+1 707-642-4748,https://www.7-eleven.com/locations/ca/american-canyon/29-rio-del-mar-16640,38.1793938,-122.255827,,,n_4650632313,"shop=convenience, brand=7-Eleven"
+"Lemon Hill, CA",,retail,445120,Thai Market,"American Canyon, CA, 94503",,,38.1773916,-122.255065,,,n_4650632314,shop=convenience
+"Lemon Hill, CA",,retail,445120,AC Food and Liquor,"American Canyon, CA, 94503",,,38.1772708,-122.255049,,,n_4650632315,shop=convenience
+"Lemon Hill, CA",,retail,452210,JCPenney,"Solano Mall, Fairfield, CA, 94533",,,38.2603424,-122.051404,,,n_4747926439,"shop=department_store, brand=JCPenney"
+"Lemon Hill, CA",,retail,452210,Sears,"Solano Mall, Fairfield, CA, 94533",,,38.2596547,-122.0528598,,,n_4747933229,"shop=department_store, brand=Sears"
+"Lemon Hill, CA",,retail,452210,Macy's,"Solano Mall, Fairfield, CA, 94533",,https://www.macys.com/stores/ca/fairfield/solano-town-center_326.html,38.2597684,-122.055306,,,n_4747933347,"shop=department_store, brand=Macy's"
+"Lemon Hill, CA",,retail,445310,BevMo!,"1545 Holiday Lane, Fairfield, CA, 94534",,,38.2603159,-122.061703,,,n_4747942462,"shop=alcohol, brand=BevMo!"
+"Lemon Hill, CA",,retail,445110,FoodMaxx,"1955 West Texas Street, Fairfield, CA, 94533",,,38.2479744,-122.0642653,,,n_4747961243,"shop=supermarket, brand=FoodMaxx"
+"Lemon Hill, CA",,retail,452210,Napa Premium Outlets,"629 Factory Stores Drive, CA, 94558",+17072269876,https://www.premiumoutlets.com/,38.2960716,-122.3030827,,,n_4783421225,shop=department_store
+"Lemon Hill, CA",,retail,446110,CVS Pharmacy,"560 Center Avenue, Martinez, CA, 94553",+1 925-370-8077,,37.9920885,-122.1195924,,,n_4955428690,"shop=chemist, brand=CVS Pharmacy"
+"Lemon Hill, CA",,retail,445110,Nob Hill,"520 Center Avenue, Martinez, CA, 94553",+1 925-370-9400,,37.9924517,-122.1208999,,,n_4955428694,shop=supermarket
+"Lemon Hill, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/martinez/4785/,37.9949274,-122.1062267,,,n_4955428713,"shop=variety_store, brand=Dollar Tree"
+"Lemon Hill, CA",,retail,445292,Main Street Sweets,"815 Main Street, Martinez, CA, 94553",(925) 229-9677,,38.0180028,-122.1354885,,,n_4959112238,"shop=confectionery, amenity=ice_cream"
+"Lemon Hill, CA",,retail,445110,Lucky,,,,37.9949391,-122.1027648,,,n_4986176391,"shop=supermarket, brand=Lucky"
+"Lemon Hill, CA",,retail,453991,Illusions Smoke Shop,"203 G Street, Davis, CA, 95616",,,38.5437499,-121.7391322,,,n_5300335928,shop=tobacco
+"Lemon Hill, CA",,retail,446120,Studio K,"229 C Street, Davis, CA, 95616",,,38.5436706,-121.743809,,,n_5300364190,shop=beauty
+"Lemon Hill, CA",,retail,445120,7-Eleven,"East 5th Street, 94510",,https://www.7-eleven.com/locations/ca/benicia/500-military-east-26231,38.050469,-122.1467636,,,n_5305448128,"shop=convenience, brand=7-Eleven"
+"Lemon Hill, CA",,retail,445110,Walmart Neighborhood Market,"2050 Nut Tree Road, Vacaville, CA, 95687",+1 707-359-3258,https://www.walmart.com/store/5007-vacaville-ca,38.350599,-121.951128,,,n_5315597931,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Lemon Hill, CA",,retail,445110,Seafood City Market,"3495 Sonoma Boulevard, 94590",7076541972,http://www.seafoodcity.com,38.122467,-122.2575771,,,n_5474696349,shop=supermarket
+"Lemon Hill, CA",,retail,445120,Okbah Grocery Shop,1500B Marin Street,,,38.1101221,-122.2563354,,,n_5474741635,shop=convenience
+"Lemon Hill, CA",,retail,445120,Okbah Grocery Shop,Marin Street,,,38.1101399,-122.2563354,,,n_5485101725,shop=convenience
+"Lemon Hill, CA",,retail,445210,Sanoma Meat Market,"2723 Sonoma Boulevard, 94590",707-648-7933,,38.1117534,-122.254761,,,n_5487078024,shop=butcher
+"Lemon Hill, CA",,retail,445120,Village Market Groceries,"2314 Sonoma Boulevard, 94590",707-554-3576,,38.107364,-122.2545743,,,n_5495209222,shop=convenience
+"Lemon Hill, CA",,retail,445120,7-Eleven,"1095 Magazine Street, Vallejo, CA, 94591-8275",+1 707-644-3212,https://www.7-eleven.com/locations/ca/vallejo/1095-magazine-st-16743,38.0846119,-122.2316582,,,n_5499607846,"shop=convenience, brand=7-Eleven"
+"Lemon Hill, CA",,retail,445120,Okbah Groceries,"1500B Marin Street, 94590",,,38.1101409,-122.2563234,,,n_5506626421,shop=convenience
+"Lemon Hill, CA",,retail,452319,Dollar Tree,"3475 Sonoma Boulevard, 94590",707-648-9788,,38.1217281,-122.2571966,,,n_5507277622,"shop=variety_store, brand=Dollar Tree, operator=Dollar Tree"
+"Lemon Hill, CA",,retail,445120,Village Market,"Sonoma Boulevard, 94590",,,38.107411,-122.25465,,,n_5507277626,shop=convenience
+"Lemon Hill, CA",,retail,445210,Sanoma Meat Market,"2723 Sonoma Boulevard, 94590",,,38.111722,-122.2549,,,n_5507277722,shop=butcher
+"Lemon Hill, CA",,retail,452319,Dollar Tree,"938 Admiral Callaghan Lane, 94591",707-557-4358,https://www.dollartree.com/locations/ca/vallejo/4131/,38.1330067,-122.2211937,,,n_5536296826,"shop=variety_store, brand=Dollar Tree, operator=Dollar Tree"
+"Lemon Hill, CA",,retail,445120,,,,,38.3383674,-122.2599194,,,n_5569989027,shop=convenience
+"Lemon Hill, CA",,retail,445120,Spanish Flat Country Store & Deli,"4318 Knoxville Road, 94558",7079661600,,38.5334367,-122.2273067,,,n_5678599527,shop=convenience
+"Lemon Hill, CA",,retail,445120,Discount Cigarettes,"601 Tennessee Street, 94590",,,38.1096282,-122.2528726,,,n_5716128221,shop=convenience
+"Lemon Hill, CA",,retail,445310,Bartholomew Park Winery,,,,38.3018036,-122.424994,,,n_5840686185,shop=wine
+"Lemon Hill, CA",,retail,445310,Lake Sonoma Winery,,,,38.2932058,-122.4594255,,,n_5842698988,shop=wine
+"Lemon Hill, CA",,retail,445120,,,,,38.4458633,-121.8266784,,,n_5904459569,shop=convenience
+"Lemon Hill, CA",,retail,445310,Napa General Store,94599,,,38.2961093,-122.2825449,,,n_6331604891,shop=wine
+"Lemon Hill, CA",,retail,445310,Back Room Wines,"1000 Main Street, 94559",,,38.2994495,-122.2852957,,,n_6331612787,shop=wine
+"Lemon Hill, CA",,retail,445120,J & L Market,,,,38.0526346,-122.2134118,,,n_6419899344,shop=convenience
+"Lemon Hill, CA",,retail,445120,Speedway,"800 Merchant Street, Vacaville, CA, 95688",,https://www.speedway.com/locations/CA/Vacaville/800-MERCHANT-ST,38.3493246,-121.9961694,,,n_6463573766,"shop=convenience, brand=Speedway"
+"Lemon Hill, CA",,retail,445310,Vacaville U Save Liquor,,,,38.349137,-121.9951412,,,n_6463573768,shop=alcohol
+"Lemon Hill, CA",,retail,446120,MAC Cosmetics,,,,38.2950227,-122.3031739,,,n_6606294975,"shop=cosmetics, brand=MAC Cosmetics"
+"Lemon Hill, CA",,retail,445120,ampm,,,,38.3697829,-121.9543421,,,n_6696356311,"shop=convenience, brand=ampm"
+"Lemon Hill, CA",,retail,445120,ExtraMile,,,,38.3698231,-121.9557328,,,n_6696356313,"shop=convenience, brand=ExtraMile"
+"Lemon Hill, CA",,retail,445310,Chateau St. Jean Winery,,,,38.4270132,-122.546863,,,n_6699423996,shop=wine
+"Lemon Hill, CA",,retail,445120,Shell,"950 Merchant Street, Vacaville, CA, 95688",,,38.3479489,-121.997683,,,n_6701143983,"shop=convenience, brand=Shell"
+"Lemon Hill, CA",,retail,445310,Mayacamas,1256 1st Street,,,38.2983293,-122.2878961,,,n_6762934309,shop=wine
+"Lemon Hill, CA",,retail,445310,Vezer Family Vineyard,"5071 Suisun Valley Road, Fairfield, CA, 94534",707 422 8025,https://www.vezerfamilyvineyard.com/,38.2942743,-122.1209711,,,n_6907745577,shop=wine
+"Lemon Hill, CA",,retail,445310,Vezer Family Vineyard,"2522 Mankas Corner Road, Fairfield, CA, 94534",+1 707 429 3958,https://www.vezerfamilyvineyard.com/,38.2860808,-122.1076244,,,n_6907745578,shop=wine
+"Lemon Hill, CA",,retail,445310,Rock Creek Vineyard,"4610 Green Valley Road, Fairfield, CA, 94534",+1 707 864 2471,https://rockcreekvineyard.com/,38.2680937,-122.1634895,,,n_6907745579,shop=wine
+"Lemon Hill, CA",,retail,445310,GV Cellars,"1635 Mason Road, Fairfield, CA, 94534",+1 707 864 2089,https://www.gvcellars.com/,38.2429011,-122.1689571,,,n_6907745580,shop=wine
+"Lemon Hill, CA",,retail,445310,Galvan Family Cellars,"499 Edison Court, Fairfield, CA, 94534",+1 707 864 3606,http://www.galvanwine.com/,38.2054258,-122.1421686,,,n_6907745581,shop=wine
+"Lemon Hill, CA",,retail,445310,Wooden Valley Winery,"4756 Suisun Valley Road, Fairfield, CA, 94534",+1 707 864 0730,https://www.woodenvalley.com/,38.2768146,-122.1131887,,,n_6907753793,shop=wine
+"Lemon Hill, CA",,retail,445310,Tolenas Vineyards and Winery,"4185 Chadbourne Road, Fairfield, CA, 94534",+1 707 372 1434,https://www.tolenaswinery.com/,38.2451215,-122.0845856,,,n_6907753794,shop=wine
+"Lemon Hill, CA",,retail,445310,Tenbrink Vineyards,"4185 Chadbourne Road, Fairfield, CA, 94534",+1 707 480 7334,http://www.tenbrinkvineyards.com,38.2451794,-122.0845856,,,n_6907753795,shop=wine
+"Lemon Hill, CA",,retail,445310,Suisun Valley Filling Station,"2529 Mankas Corner Road, Fairfield, CA, 94534",+1 707 863 1555,https://www.suisunvalleyfillingstation.com/,38.2861334,-122.1066977,,,n_6907753796,shop=wine
+"Lemon Hill, CA",,retail,445310,Suisun Creek Winery,"2434 Morrison Lane, Fairfield, CA, 94534",+1 805 704 2822,https://www.suisuncreekwinery.com/,38.2664553,-122.1147531,,,n_6907753797,shop=wine
+"Lemon Hill, CA",,retail,445310,Seven Artisans Winery,"4341 Abernathy Road, Fairfield, CA, 94534",+1 707 771 0911,https://www.sevenartisanswinery.com/,38.2541305,-122.092761,,,n_6907753798,shop=wine
+"Lemon Hill, CA",,retail,445310,Mangels Vineyards,"4529 Suisun Valley Road, Fairfield, CA, 94534",+1 707 410 5392,https://www.mangelsvineyards.com,38.2648727,-122.1138619,,,n_6907753799,shop=wine
+"Lemon Hill, CA",,retail,445310,BackRoad Vines,"2323 Julian Lane, Fairfield, CA, 94534",707 759 0185,https://backroadvines.com/,38.2869513,-122.1206398,,,n_6907753800,shop=wine
+"Lemon Hill, CA",,retail,445310,BackRoad Vines,"2221 Julian Lane, Fairfield, CA, 94534",707 759 0185,https://backroadvines.com/,38.2862239,-122.1287133,,,n_6907753801,shop=wine
+"Lemon Hill, CA",,retail,446120,Eyebrow Hub,,,,38.2809368,-122.2902997,,,n_7012409218,shop=beauty
+"Lemon Hill, CA",,retail,453991,Cigarettes & More,,,,38.2809428,-122.2903589,,,n_7012409219,shop=tobacco
+"Lemon Hill, CA",,retail,445120,Loop,,,,38.3219283,-122.3025118,,,n_7015452107,shop=convenience
+"Lemon Hill, CA",,retail,445120,Speedway,"603 Lincoln Avenue, Napa, CA, 94558",,https://www.speedway.com/locations/CA/Napa/603-LINCOLN-AVE,38.3098215,-122.2824686,,,n_7015459768,"shop=convenience, brand=Speedway"
+"Lemon Hill, CA",,retail,446120,Terrace Day Spa,,,,38.2973352,-122.2697397,,,n_7015867104,shop=beauty
+"Lemon Hill, CA",,retail,446120,,,,,38.3193962,-122.2982954,,,n_7016076621,shop=beauty
+"Lemon Hill, CA",,retail,446120,Ulta Beauty,"147 Plaza Drive, Vallejo, CA, 94591",+1 707-644-4262,https://web.facebook.com/Ulta-Beauty-1760767710890300/,38.1346119,-122.2191807,,,n_7060534515,"shop=cosmetics, brand=Ulta Beauty"
+"Lemon Hill, CA",,retail,445310,far niente,,,,38.4257786,-122.4031476,,,n_7146807587,shop=wine
+"Lemon Hill, CA",,retail,445120,ExtraMile,,,,38.1844865,-122.2542366,,,n_7147570778,"shop=convenience, brand=ExtraMile"
+"Lemon Hill, CA",,retail,445310,Louis martini vinery,,,,38.4913162,-122.4523637,,,n_7148119485,shop=wine
+"Lemon Hill, CA",,retail,445310,Buena Vista Winery,,,,38.2995389,-122.4218914,,,n_7215682787,shop=wine
+"Lemon Hill, CA",,retail,445120,7-Eleven,"1208 Tennessee Street, Vallejo, CA, 94590-4624",+1 707-552-0307,https://www.7-eleven.com/locations/ca/vallejo/1208-tennessee-st-16729,38.1101943,-122.242552,,,n_7264190757,"shop=convenience, brand=7-Eleven"
+"Lemon Hill, CA",,retail,445110,Raley's,,,,38.2459304,-122.0218487,,,n_7281177585,"shop=supermarket, brand=Raley's"
+"Lemon Hill, CA",,retail,453110,,,,,38.2496351,-122.0618915,,,n_7281575694,shop=florist
+"Lemon Hill, CA",,retail,445120,,,,,38.2497386,-122.0564051,,,n_7281575707,shop=convenience
+"Lemon Hill, CA",,retail,445120,,,,,38.1407984,-122.2312029,,,n_7285402563,shop=convenience
+"Lemon Hill, CA",,retail,445120,,,,,38.1238192,-122.227318,,,n_7287005431,shop=convenience
+"Lemon Hill, CA",,retail,445120,ExtraMile,,,,38.1229576,-122.2523132,,,n_7289205531,"shop=convenience, brand=ExtraMile"
+"Lemon Hill, CA",,retail,445120,,,,,38.4584686,-121.8399796,,,n_7295075927,shop=convenience
+"Lemon Hill, CA",,retail,445120,Carniceria Lupita,,,,38.456498,-121.8414375,,,n_7295116659,shop=convenience
+"Lemon Hill, CA",,retail,445120,,,,,38.46985,-121.8237809,,,n_7295614518,shop=convenience
+"Lemon Hill, CA",,retail,445120,ampm,,,,38.5311045,-121.9555392,,,n_7838108711,"shop=convenience, brand=ampm"
+"Lemon Hill, CA",,retail,446120,,,,,38.2495811,-122.0443908,,,n_8203897850,shop=beauty
+"Lemon Hill, CA",,retail,452210,Big Lots,"1551 Sycamore Avenue, Hercules, CA, 94547",+1 510-245-0103,https://local.biglots.com/ca/hercules/1551-sycamore-ave,38.0109549,-122.2702652,,,n_8855191146,"shop=department_store, brand=Big Lots"
+"Lemon Hill, CA",,retail,445120,Tower Market,,,,38.1823183,-122.137753,,,n_8887777728,shop=convenience
+"Lemon Hill, CA",,retail,452319,UC Davis Store,,,,38.5432343,-121.740172,,,n_8939553215,shop=general
+"Lemon Hill, CA",,retail,446120,The Cosmetics Company Store,,,,38.3673617,-121.9519727,,,n_9046397082,shop=cosmetics
+"Lemon Hill, CA",,retail,452319,McCormick's Mercantile,,,,38.3639007,-122.524279,,,n_9082649252,shop=variety_store
+"Lemon Hill, CA",,retail,445310,Talisman Wines Tasting Room,,,,38.3636326,-122.5242891,,,n_9082649253,shop=wine
+"Lemon Hill, CA",,retail,446120,,,,,38.3067186,-122.3028103,,,n_9147158059,shop=beauty
+"Lemon Hill, CA",,retail,446120,Eyebrow Hub,"173 Admiral Callaghan Lane;Plaza Drive, 94591",7079174053,https://www.americasbest.com/,38.1329049,-122.221272,,,n_9147329296,shop=beauty
+"Lemon Hill, CA",,retail,445310,Long Meadow Ranch General Store,,,,38.5011657,-122.4633139,,,n_9178837116,shop=wine
+"Lemon Hill, CA",,retail,446110,Rite Aid,"60 Solano Square, Benicia, CA, 94510",707-746-0229,https://www.riteaid.com/locations/ca/benicia/60-solano-square.html,38.0545825,-122.1552593,,,n_9258688693,"shop=chemist, brand=Rite Aid, operator=Riteaid"
+"Lemon Hill, CA",,retail,445110,Grocery Outlet,,,,38.2593539,-122.0351753,,,n_9326692009,"shop=supermarket, brand=Grocery Outlet"
+"Lemon Hill, CA",,retail,445110,Smart & Final,,,,38.2751985,-122.0359625,,,n_9326694355,"shop=supermarket, brand=Smart & Final"
+"Lemon Hill, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/fairfield-ca-pharmacies/300-travis-blvd-fairfield-ca-94533/storeid=9371,38.2591854,-122.0360819,,,n_9326697705,"shop=chemist, amenity=pharmacy, brand=CVS Pharmacy"
+"Lemon Hill, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/fairfield-ca-pharmacies/300-travis-blvd-fairfield-ca-94533/storeid=9371,38.2591032,-122.0360363,,,n_9326697706,"shop=chemist, brand=CVS Pharmacy"
+"Lemon Hill, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/fairfield/2341/,38.2737372,-122.0358619,,,n_9326717041,"shop=variety_store, brand=Dollar Tree"
+"Lemon Hill, CA",,retail,445120,ExtraMile,,,,38.325101,-122.286067,,,n_9395814795,"shop=convenience, brand=ExtraMile"
+"Lemon Hill, CA",,retail,452319,99 Cents Only Stores,,+17075538509,https://locations.99only.com/ca/vallejo/discount-store-232.html,38.1046184,-122.2158894,,,n_9461916668,"shop=variety_store, brand=99 Cents Only Stores"
+"Lemon Hill, CA",,retail,446110,Walgreens,,+17075575974,https://www.walgreens.com/locator/walgreens-2647+springs+rd-vallejo-ca-94591/id=2575,38.1054648,-122.2072295,,,n_9461916813,"shop=chemist, brand=Walgreens"
+"Lemon Hill, CA",,retail,445120,7-Eleven,"2580 Springs Road, Vallejo, CA, 94591-5613",+1 707-648-3058,https://www.7-eleven.com/locations/ca/vallejo/2580-springs-rd-14148,38.1062455,-122.2094593,,,n_9461916827,"shop=convenience, brand=7-Eleven"
+"Lemon Hill, CA",,retail,445120,Safeway Convenience Store,,,,38.0133434,-122.2728024,,,n_9550280845,shop=convenience
+"Lemon Hill, CA",,retail,445120,ExtraMile,"Fairfield, CA, 94534",,,38.2214121,-122.1296851,,,n_9610159598,"shop=convenience, brand=ExtraMile"
+"Lemon Hill, CA",,retail,445120,Loop,,,,38.138718,-122.2556192,,,n_9727895570,shop=convenience
+"Lemon Hill, CA",,retail,446120,Maintain Youth,,,,38.3004472,-122.2936219,,,n_9760704117,shop=beauty
+"Lemon Hill, CA",,retail,446120,Proud Brow,"156 East Napa Street, Sonoma, CA, 95476",+1 707-690-7610,https://www.proudbrow.com,38.2918806,-122.455389,,,n_9803290431,shop=beauty
+"Lemon Hill, CA",,retail,445110,Spice 4 Less,"1349 Oliver Road, 94534",,,38.256579,-122.0681602,,,n_9869339317,shop=supermarket
+"Lemon Hill, CA",,retail,453110,Sister,"931 1st Street, 94510",,https://www.dolfloral.com/,38.052083,-122.1571002,,,n_9875701917,shop=florist
+"Lemon Hill, CA",,retail,445230,Sepay Groves,"364 1st Street, 94510",707-434-8222,https://sepayoliveoil.com,38.0469426,-122.1603856,,,n_9875720717,shop=greengrocer
+"Lemon Hill, CA",,retail,453110,,,,,38.1061468,-122.2182775,,,n_9877085851,shop=florist
+"Lemon Hill, CA",,retail,445110,Grocery Outlet,,,,38.3198916,-122.3107833,,,n_9960511440,"shop=supermarket, brand=Grocery Outlet"
+"Lemon Hill, CA",,retail,445120,7-Eleven,"985 Lincoln Avenue, Napa, CA, 94558-5059",+1 707-226-7168,https://www.7-eleven.com/locations/ca/napa/985-lincoln-ave-18813,38.3086155,-122.2927376,,,n_9966877629,"shop=convenience, brand=7-Eleven"
+"Lemon Hill, CA",,retail,445310,,,,,38.3096344,-122.2862891,,,n_9966877632,shop=alcohol
+"Lemon Hill, CA",,retail,445110,Lola’s Market,,,,38.2883254,-122.3094774,,,n_9966907834,shop=supermarket
+"Lemon Hill, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/suisun-city/801-sunset-ave-32180,38.2496523,-122.0200391,,,n_10059992538,"shop=convenience, brand=7-Eleven"
+"Lemon Hill, CA",,retail,445120,ampm,,,,38.2449936,-122.0308317,,,n_10059992555,"shop=convenience, brand=ampm"
+"Lemon Hill, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/suisun-city/3973/,38.2442685,-122.0223223,,,n_10060007191,"shop=variety_store, brand=Dollar Tree"
+"Lemon Hill, CA",,retail,445120,Circle K,,,,38.2497877,-122.0528601,,,n_10062517905,"shop=convenience, brand=Circle K"
+"Lemon Hill, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/suisun-city/115-sunset-ave-39189,38.244019,-122.0171765,,,n_10062764047,"shop=convenience, brand=7-Eleven"
+"Lemon Hill, CA",,retail,445120,ExtraMile,,,,38.2441077,-122.0180557,,,n_10062764064,"shop=convenience, brand=ExtraMile"
+"Lemon Hill, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/suisun-city/301-walters-rd-38961,38.2402516,-121.989121,,,n_10062774167,"shop=convenience, brand=7-Eleven"
+"Lemon Hill, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/vacaville/2490-nut-tree-rd-22837,38.3357872,-121.9527833,,,n_10067495446,"shop=convenience, brand=7-Eleven"
+"Lemon Hill, CA",,retail,445120,ampm,,,,38.3349167,-121.9528218,,,n_10067495456,"shop=convenience, brand=ampm"
+"Lemon Hill, CA",,retail,445120,ExtraMile,,,,38.3461331,-121.9734319,,,n_10067543628,"shop=convenience, brand=ExtraMile"
+"Lemon Hill, CA",,retail,445120,Silo Market,,,,38.5382058,-121.7527051,,,n_10080233615,shop=convenience
+"Lemon Hill, CA",,retail,445310,,,,,38.4886223,-122.4487035,,,n_10110630180,shop=wine
+"Lemon Hill, CA",,retail,445120,7-Eleven,"2255 Tennessee Street, Vallejo, CA, 94591",+1 707-561-0940,https://www.7-eleven.com/locations/ca/vallejo/2255-tennessee-st-39058,38.1091881,-122.2278529,,,n_10698712447,"shop=convenience, brand=7-Eleven"
+"Lemon Hill, CA",,retail,445310,Vintner's Collective,"1245 Main Street, Napa, CA, 94559",,,38.3010916,-122.2872434,,,n_10760283653,shop=wine
+"Lemon Hill, CA",,retail,446110,Rite Aid,,,https://www.riteaid.com/locations/ca/hercules/1560-sycamore-avenue.html,38.0090501,-122.2721488,,,n_10859130297,"shop=chemist, brand=Rite Aid"
+"Lemon Hill, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/dixon-ca-pharmacies/1057-n-1st-st-dixon-ca-95620/storeid=9950,38.4554567,-121.8234086,,,n_10869872957,"shop=chemist, brand=CVS Pharmacy"
+"Lemon Hill, CA",,retail,445110,Grocery Outlet,,,,38.4678154,-121.8217252,,,n_10873483702,"shop=supermarket, brand=Grocery Outlet"
+"Lemon Hill, CA",,retail,445120,Napa Valley Olive Oil Manufacturing Company,,,,38.5034401,-122.4610087,,,n_10896618175,shop=convenience
+"Lemon Hill, CA",,retail,445292,Woodhouse,,,,38.5049669,-122.4700734,,,n_10896898683,shop=chocolate
+"Lemon Hill, CA",,retail,445120,Oakville Grocery,,,,38.4373043,-122.4029791,,,n_10896929485,shop=convenience
+"Lemon Hill, CA",,retail,445292,Kollar Chocolates,,,https://kollarchocolates.com/,38.4017064,-122.3621497,,,n_10897249378,shop=chocolate
+"Lemon Hill, CA",,retail,445120,7-Eleven,"1925 Sierra Avenue, Napa, CA, 94558",+1 707-253-7046,https://www.7-eleven.com/locations/ca/napa/1925-sierra-ave-14129,38.3270796,-122.3128757,,,n_11014367260,"shop=convenience, brand=7-Eleven"
+"Lemon Hill, CA",,retail,446120,Relax Nails & Spa,,,,38.2637568,-122.0504066,,,n_11100437775,shop=beauty
+"Lemon Hill, CA",,retail,446120,Pro Nails,762-A Admiral Callaghan Lane,,,38.1246775,-122.2267276,,,n_11147725086,"shop=beauty, brand=Pro Nails"
+"Lemon Hill, CA",,retail,445210,The Fatted Calf,"644 1st Street, Napa, CA, 94559",+1-707-256-3684,https://fattedcalf.com/locations/napa-store,38.3014228,-122.2820141,,,n_11157745538,shop=butcher
+"Lemon Hill, CA",,retail,445310,Oxbow Cheese & Wine,,+1-707-257-5200,https://www.oxbowwine.com/,38.301861,-122.2818274,,,n_11157745539,shop=wine
+"Lemon Hill, CA",,retail,445310,Napa Valley Distillery,,,https://www.napadistillery.com,38.3016784,-122.2814762,,,n_11157745549,shop=alcohol
+"Lemon Hill, CA",,retail,445120,Discount Cigarettes,,,,38.1338808,-122.2213862,,,n_11173253438,shop=convenience
+"Lemon Hill, CA",,retail,445110,168 Market,"765 Sereno Drive, Vallejo, CA, 94589",+1 707-339-8899,https://www.168markets.com/,38.1271105,-122.2533395,,,n_11329957256,shop=supermarket
+"Lemon Hill, CA",,retail,445110,Smart & Final Extra!,,,https://smartandfinal.com/,38.1280402,-122.2564681,,,n_11330013076,"shop=supermarket, brand=Smart & Final"
+"Lemon Hill, CA",,retail,445110,Food Barn,,,,38.127596,-122.2503036,,,n_11461014444,shop=supermarket
+"Lemon Hill, CA",,retail,445292,Xi Square,,,,38.5442707,-121.7408663,,,n_11473458369,shop=confectionery
+"Lemon Hill, CA",,retail,445310,iTea,,,,38.5434122,-121.7468113,,,n_11473458569,shop=beverages
+"Lemon Hill, CA",,retail,452210,Big Lots,"1500 Oliver Road, Fairfield, CA, 94534",+1 707-430-5085,https://local.biglots.com/ca/fairfield/1500-oliver-rd,38.2598541,-122.0682517,,,n_11474794997,"shop=department_store, brand=Big Lots"
+"Lemon Hill, CA",,retail,452210,dd's Discounts,,,,38.2747048,-122.0356596,,,n_11548913634,"shop=department_store, brand=dd's Discounts"
+"Lemon Hill, CA",,retail,452319,99 Cents Only Stores,,,,38.2749212,-122.0356527,,,n_11548913635,"shop=variety_store, brand=99 Cents Only Stores"
+"Lemon Hill, CA",,retail,445120,ampm,,,,38.2711431,-122.0346619,,,n_11548913647,"shop=convenience, brand=ampm"
+"Lemon Hill, CA",,retail,445120,7-Eleven,"2455 Olivera Road, Concord, CA, 94520-1661",+1 925-685-5920,https://www.7-eleven.com/locations/ca/concord/2455-olivera-rd-14197,37.9953292,-122.0324868,,,n_11664527018,"shop=convenience, brand=7-Eleven"
+"Lemon Hill, CA",,retail,445310,Cork & Bottle,,,,37.9941694,-122.032447,,,n_11664527058,shop=alcohol
+"Lemon Hill, CA",,retail,445310,Etude Winery,"1280 Cuttings Wharf Road, Napa, CA, 94559",+17072575782,https://www.etudewines.com/,38.2460939,-122.314712,,,n_11685818210,"shop=wine, operator=Etude Winery"
+"Lemon Hill, CA",,retail,445310,Migration Winery,"1451 Stanly Lane, Napa, CA, 94559",,https://www.migrationwines.com,38.2445583,-122.293676,,,n_11686015337,"shop=wine, operator=Duckhorn Wine Company"
+"Lemon Hill, CA",,retail,445120,Power Market,,,,38.2435996,-122.1227452,,,n_11776507190,shop=convenience
+"Lemon Hill, CA",,retail,445292,Cartoon Candy Kitchen,,,,38.1384607,-122.2333444,,,n_11820323682,shop=confectionery
+"Lemon Hill, CA",,retail,445110,Lucky,,,,38.3002767,-122.4766881,,,n_11863327449,"shop=supermarket, brand=Lucky"
+"Lemon Hill, CA",,retail,445110,Food 4 Less,,,,38.2635699,-122.0355155,,,n_12345229724,"shop=supermarket, brand=Food 4 Less"
+"Lemon Hill, CA",,retail,445120,Myu Myu,"204 E Street, 95616",,,38.5435351,-121.7410304,,,n_12387173502,shop=convenience
+"Lemon Hill, CA",,retail,452319,Wow Discount,,,,38.3650843,-121.9549772,,,n_12452261384,shop=variety_store
+"Lemon Hill, CA",,retail,446120,Bath & Body Works,,,,38.3669355,-121.9571362,,,n_12452281203,"shop=cosmetics, brand=Bath & Body Works"
+"Lemon Hill, CA",,retail,446120,Luxury Perfume,,,,38.3683517,-121.9529814,,,n_12452281213,shop=perfumery
+"Lemon Hill, CA",,retail,445310,Sips,94510,415-963-2292,https://sendsips.com/,38.0502693,-122.1580369,,,n_12470316701,shop=alcohol
+"Lemon Hill, CA",,retail,446120,Gaia Nails,"834 Southampton Road, 94510",,,38.0658827,-122.1658659,,,n_12477123602,shop=beauty
+"Lemon Hill, CA",,retail,445120,Come N Go,,,,38.1063967,-122.2171366,,,n_12517663646,shop=convenience
+"Lemon Hill, CA",,retail,452319,Dollar Tree,,,,38.1051839,-122.2153017,,,n_12517678077,"shop=variety_store, brand=Dollar Tree"
+"Lemon Hill, CA",,retail,453991,,,,,37.9934624,-122.1022103,,,n_12557799166,shop=tobacco
+"Lemon Hill, CA",,retail,453110,French Florist,"1270 Broadway, Sonoma, CA, 95476",+1-707-998-8995,https://www.frenchflorist.com/,38.2782432,-122.4595876,,,n_12800040120,shop=florist
+"Lemon Hill, CA",,retail,445120,,,,,38.4667134,-121.823148,,,n_12803459677,shop=convenience
+"Lemon Hill, CA",,retail,446120,Lift Aesthetics,"1834 1st Street, Napa, CA, 94559",,https://liftaesthetics.com/,38.2977525,-122.294048,,,n_12849584447,shop=beauty
+"Lemon Hill, CA",,retail,445110,Frontline Electrical Services,"3195 Park Road, Benicia, CA, 94510",+1 800-945-0268,https://frontlineproservices.com/,38.0652735,-122.1327538,,,n_13044298689,shop=supermarket
+"Lemon Hill, CA",,retail,445110,Davis Food Cooperative,"620 G Street, Davis",,https://davisfood.coop/,38.5495605,-121.7398534,,,w_25366944,shop=supermarket
+"Lemon Hill, CA",,retail,452210,Walmart,"1021 Arnold Drive, Martinez, CA, 94553",+1 925-313-5716,https://www.walmart.com/store/3493-martinez-ca,37.9968812,-122.1095126,,,w_31458396,"shop=department_store, brand=Walmart, operator=Walmart"
+"Lemon Hill, CA",,retail,445110,Lucky,,,,38.0077732,-122.2703954,,,w_31963450,"shop=supermarket, brand=Lucky"
+"Lemon Hill, CA",,retail,445110,Walmart Supercenter,"235 East Dorset Drive, Dixon, CA, 95620",+1 707-693-6505,https://www.walmart.com/store/5139-dixon-ca,38.4719325,-121.8202668,,,w_32575728,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Lemon Hill, CA",,retail,445110,,,,,38.559598,-121.7577435,,,w_32656558,shop=supermarket
+"Lemon Hill, CA",,retail,445110,Safeway,"709 Lincoln Road West, Vallejo, CA, 94590",+1 707-643-2172,https://local.safeway.com/safeway/ca/vallejo/709-lincoln-rd-w.html,38.0989849,-122.2305851,,,w_40167304,"shop=supermarket, brand=Safeway"
+"Lemon Hill, CA",,retail,445120,Circle K,,,,38.560243,-121.7856258,,,w_44468483,"shop=convenience, brand=Circle K"
+"Lemon Hill, CA",,retail,452210,Target,"904 Admiral Callaghan Lane, Vallejo, CA, 94591",(707) 642-0419,https://www.target.com/sl/vallejo/331,38.1317158,-122.2226158,,,w_59441205,"shop=department_store, brand=Target, operator=Target"
+"Lemon Hill, CA",,retail,452210,Kohl's,"1190 Admiral Callaghan Lane, Vallejo, CA, 94591",+1 707-649-9851,https://www.kohls.com/stores/ca/vallejo-763.shtml,38.1346883,-122.2129307,,,w_59441210,"shop=department_store, brand=Kohl's"
+"Lemon Hill, CA",,retail,445310,ingelnook,"Rutherford, CA, 94573",,,38.4544606,-122.4312088,,,w_79879635,shop=wine
+"Lemon Hill, CA",,retail,445292,Jelly Belly Tours,"1 Jelly Belly Lane, Fairfield, CA, 94533",,,38.2387529,-122.0773555,,,w_80573879,shop=confectionery
+"Lemon Hill, CA",,retail,445110,Safeway,"103 West American Canyon Road, American Canyon, CA, 94503",+1 707-649-5150,https://local.safeway.com/safeway/ca/american-canyon/103-american-canyon-rd.html,38.1646333,-122.2550806,,,w_91532996,"shop=supermarket, brand=Safeway"
+"Lemon Hill, CA",,retail,445110,Walmart Supercenter,"7011 Main Street, American Canyon, CA, 94503",+1 707-557-4393,https://www.walmart.com/store/1651-american-canyon-ca,38.1830695,-122.252621,,,w_91533001,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Lemon Hill, CA",,retail,445120,Chevron,"999 East Grant Avenue, Winters, 95694",,,38.5307486,-121.956873,,,w_99823595,"shop=convenience, brand=Chevron"
+"Lemon Hill, CA",,retail,445110,Lorenzo's Town and Country Market,"121 East Grant Avenue, Winters, CA, 95694",(530) 795-3214,http://www.lorenzosmarket.com/,38.5279893,-121.9659191,,,w_99823640,shop=supermarket
+"Lemon Hill, CA",,retail,445120,Shell,,,,38.4642819,-121.8217154,,,w_100397085,"shop=convenience, brand=Shell"
+"Lemon Hill, CA",,retail,445310,Bevbox,,,,38.0952433,-122.2309712,,,w_106479433,"shop=alcohol, brand=Bevbox"
+"Lemon Hill, CA",,retail,445120,Power Market,,,,38.093778,-122.2285912,,,w_106479476,shop=convenience
+"Lemon Hill, CA",,retail,445120,ExtraMile,,,,38.3545836,-121.9806976,,,w_106610193,"shop=convenience, brand=ExtraMile"
+"Lemon Hill, CA",,retail,445310,Artesa Vineyards & Winery,"1345 Henry Road, Napa, CA, 94559",,,38.2690889,-122.3563396,,,w_117047467,shop=wine
+"Lemon Hill, CA",,retail,445310,Silver Oak,,,,38.4404806,-122.3810141,,,w_158820938,shop=wine
+"Lemon Hill, CA",,retail,452210,Target,"4000 Bel Aire Plaza, Napa, CA, 94558-2835",+1 707-225-3016,https://www.target.com/sl/napa-north/1438,38.3224745,-122.3082177,,,w_165338469,"shop=department_store, brand=Target"
+"Lemon Hill, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/benicia-ca-pharmacies/2100-columbus-pkwy-benicia-ca-94510/storeid=9761,38.0811494,-122.1928554,,,w_174866378,"shop=chemist, brand=CVS Pharmacy"
+"Lemon Hill, CA",,retail,446110,Rite Aid,"2021 Solano Avenue, Vallejo, CA, 94590",7075521476,https://www.riteaid.com/locations/ca/vallejo/2021-solano-avenue.html,38.1043871,-122.2323031,,,w_175581278,"shop=chemist, brand=Rite Aid"
+"Lemon Hill, CA",,retail,445120,Wagon Wheel Liquors,,,,38.1117246,-122.22893,,,w_175985862,shop=convenience
+"Lemon Hill, CA",,retail,445110,Grocery Outlet,"66 Admiral Callaghan Lane, Vallejo, CA, 94591",,,38.1116334,-122.2280278,,,w_175985869,"shop=supermarket, brand=Grocery Outlet"
+"Lemon Hill, CA",,retail,445110,Grocery Outlet,"401 Marin Street, 94590",7076487041,https://groceryoutlet.com/,38.0994804,-122.2574131,,,w_176087764,"shop=supermarket, brand=Grocery Outlet, operator=Grocery Outlet"
+"Lemon Hill, CA",,retail,445120,,,,,38.561477,-121.7697643,,,w_179561538,shop=convenience
+"Lemon Hill, CA",,retail,445120,,,,,38.5603122,-121.7580129,,,w_208527818,shop=convenience
+"Lemon Hill, CA",,retail,445120,ExtraMile,,,,38.5603734,-121.7590328,,,w_208528164,"shop=convenience, brand=ExtraMile"
+"Lemon Hill, CA",,retail,452319,99 Cents Only Stores,"551 Peabody Road, CA",,https://locations.99only.com/ca/vacaville/discount-store-192.html,38.3455196,-121.972223,,,w_220393869,"shop=variety_store, brand=99 Cents Only Stores"
+"Lemon Hill, CA",,retail,445120,,,,,38.3459381,-121.9726611,,,w_220396080,shop=convenience
+"Lemon Hill, CA",,retail,445110,Walmart Neighborhood Market,"501 Sereno Drive, Vallejo, CA, 94589",+1 707-653-1058,https://www.walmart.com/store/5609-vallejo-ca,38.1264462,-122.2543758,,,w_223212124,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Lemon Hill, CA",,retail,445110,Walmart Neighborhood Market,"941 Alamo Drive, Vacaville, CA, 95687",+1 707-359-3180,https://www.walmart.com/store/5608-vacaville-ca,38.3446478,-121.9958329,,,w_231773786,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Lemon Hill, CA",,retail,445110,Safeway,"5051 Business Center Drive, Fairfield, CA, 94533",+1 707-863-4160,https://local.safeway.com/safeway/ca/fairfield/5051-business-ctr-dr.html,38.216955,-122.1411395,,,w_233927732,"shop=supermarket, brand=Safeway"
+"Lemon Hill, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/fairfield-ca-pharmacies/5059-business-center-dr-fairfield-ca-94534/storeid=3075,38.2157201,-122.1413966,,,w_233927733,"shop=chemist, brand=CVS Pharmacy"
+"Lemon Hill, CA",,retail,445110,Safeway,"774 Admiral Callaghan Lane, Vallejo, CA, 94591",+1 707-554-8035,https://local.safeway.com/safeway/ca/vallejo/774-admiral-callaghan-ln.html,38.1253891,-122.2265464,,,w_238540423,"shop=supermarket, brand=Safeway"
+"Lemon Hill, CA",,retail,445110,Safeway,"122 Robles Way, Vallejo, CA, 94591",+1 707-554-4467,https://local.safeway.com/safeway/ca/vallejo/122-robles-dr.html,38.0845607,-122.2102407,,,w_238542978,"shop=supermarket, brand=Safeway"
+"Lemon Hill, CA",,retail,445110,Safeway,"2090 Harbison Drive, Vacaville, CA, 95688",+1 707-452-7277,https://local.safeway.com/safeway/ca/vacaville/2090-harbison-dr.html,38.3620483,-121.9616629,,,w_238688850,"shop=supermarket, brand=Safeway"
+"Lemon Hill, CA",,retail,445110,Safeway,"477 West Napa Street, Sonoma, CA, 95476",+1 707-996-0633,https://local.safeway.com/safeway/ca/sonoma/477-w-napa-st.html,38.2915817,-122.467579,,,w_239147331,"shop=supermarket, brand=Safeway"
+"Lemon Hill, CA",,retail,445110,Safeway,"1026 Hunt Avenue, Saint Helena, CA, 94574",+1 707-968-3620,https://local.safeway.com/safeway/ca/saint-helena/1026-hunt-ave.html,38.5059052,-122.468016,,,w_239963987,"shop=supermarket, brand=Safeway"
+"Lemon Hill, CA",,retail,445110,Safeway,"605 Parker Avenue, 94572",,,38.0296853,-122.2656415,,,w_240070072,"shop=supermarket, brand=Safeway"
+"Lemon Hill, CA",,retail,452210,Ross,"3331 Jefferson Street, Napa, CA, 94558",+1 707-258-2100,,38.3213504,-122.3011331,,,w_252236171,"shop=department_store, brand=Ross"
+"Lemon Hill, CA",,retail,445110,Safeway,"3375 Jefferson Street, Napa, CA, 94558",+1 707-225-3037,https://local.safeway.com/safeway/ca/napa/3375-jefferson-st.html,38.3211507,-122.301819,,,w_252236175,"shop=supermarket, brand=Safeway"
+"Lemon Hill, CA",,retail,445110,Safeway,"3334 Alhambra Avenue, Martinez, CA, 94553",+1 925-229-0212,https://local.safeway.com/safeway/ca/martinez/3334-alhambra-ave.html,38.0007758,-122.1330495,,,w_252697441,"shop=supermarket, brand=Safeway"
+"Lemon Hill, CA",,retail,452210,Target,"2059 Cadenasso Drive, Fairfield, CA, 94533",+1 707-426-1105,https://www.target.com/sl/fairfield/675,38.2464498,-122.068839,,,w_252833854,"shop=department_store, brand=Target"
+"Lemon Hill, CA",,retail,452210,Cost Plus World Market,,,,38.2622859,-122.0581626,,,w_252835343,shop=department_store
+"Lemon Hill, CA",,retail,445110,Walmart Supercenter,"2701 North Texas Street, Fairfield, CA, 94533",+1 707-428-4792,https://www.walmart.com/store/2048-fairfield-ca,38.2791081,-122.0353714,,,w_252835625,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Lemon Hill, CA",,retail,445110,Raley's,,,,38.2887554,-122.0327513,,,w_252836950,"shop=supermarket, brand=Raley's"
+"Lemon Hill, CA",,retail,445110,Walmart Supercenter,"1501 Helen Power Drive, Vacaville, CA, 95687",+1 707-451-0166,https://www.walmart.com/store/1704-vacaville-ca,38.3620549,-121.9590515,,,w_253076358,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Lemon Hill, CA",,retail,452210,Kohl's,"570 Orange Drive, Vacaville, CA, 95687",+1 707-451-0622,https://www.kohls.com/stores/ca/vacaville-757.shtml,38.3754396,-121.946873,,,w_253078348,"shop=department_store, brand=Kohl's"
+"Lemon Hill, CA",,retail,445110,Safeway,"2401 Waterman Boulevard, Fairfield, CA, 94533",+1 707-427-5640,https://local.safeway.com/safeway/ca/fairfield/2401-waterman-dr.html,38.2716298,-122.0529763,,,w_253285341,"shop=supermarket, brand=Safeway"
+"Lemon Hill, CA",,retail,445110,Safeway,"1235 Stratford Avenue, Dixon, CA, 95620",+1 707-678-7400,https://local.safeway.com/safeway/ca/dixon/1235-stratford-ave.html,38.4569579,-121.8389756,,,w_253702561,"shop=supermarket, brand=Safeway"
+"Lemon Hill, CA",,retail,445110,Safeway,"1451 West Covell Boulevard, Davis, CA, 95616",+1 530-757-4540,https://local.safeway.com/safeway/ca/davis/1451-w-covell-blvd.html,38.5620438,-121.7664935,,,w_253731412,"shop=supermarket, brand=Safeway"
+"Lemon Hill, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/davis-ca-pharmacies/1471-w-covell-blvd-davis-ca-95616/storeid=9282,38.5615158,-121.7664762,,,w_253731413,"shop=chemist, brand=CVS Pharmacy"
+"Lemon Hill, CA",,retail,446120,Cheveux Salon,"156 East Napa Street, Sonoma, CA, 95476",+1 (707) 935-0322,https://cheveuxsalonsonoma.com/,38.2918893,-122.4553947,,,w_274867029,shop=beauty
+"Lemon Hill, CA",,retail,446120,Nails by Elaina,"566 1st Street West, Sonoma, CA, 95476",+1 (707) 996-6717,,38.2908829,-122.4589852,,,w_274894772,shop=beauty
+"Lemon Hill, CA",,retail,445310,Walt Wines,"380 1st Street West, Sonoma, CA, 95476",+1-707-933-4440,https://www.waltwines.com/,38.2943037,-122.4582859,,,w_281888638,shop=alcohol
+"Lemon Hill, CA",,retail,445310,Sojourn Cellars,"141 East Napa Street, Sonoma, CA, 95476",+1 (707) 938-7212,http://sojourncellars.com,38.2914569,-122.455721,,,w_281910269,shop=alcohol
+"Lemon Hill, CA",,retail,445310,Roche Winery,"122 West Spain Street, Sonoma, CA, 95476",+1 (707) 935-7115,https://www.rochewinery.com/,38.2940476,-122.4591055,,,w_281910675,shop=alcohol
+"Lemon Hill, CA",,retail,445310,R2 Wine Company,"654 Broadway, Sonoma, CA, 95476",+1 (707) 933-1330,http://r2winecompany.com,38.2891334,-122.4579686,,,w_281968522,shop=alcohol
+"Lemon Hill, CA",,retail,445120,Food Mart,,,,38.2987283,-122.4759349,,,w_282925147,shop=convenience
+"Lemon Hill, CA",,retail,445310,Clos du Val Winery,"5330 Silverado Trail, Napa, CA, 94558",,,38.3880182,-122.3129076,,,w_283009806,shop=wine
+"Lemon Hill, CA",,retail,446120,Kristin Maze Salon,"337 West Napa Street, Sonoma, CA, 95476",+1 (707) 938-4648,http://kristinmazesalon.com,38.2923376,-122.4644129,,,w_284469624,shop=beauty
+"Lemon Hill, CA",,retail,446120,Pierrette’s of Sonoma,"688 Broadway, Sonoma, CA, 95476",+1 (707) 939-3551,http://pierrettesofsonoma.com,38.2885989,-122.4580471,,,w_284553899,shop=beauty
+"Lemon Hill, CA",,retail,446110,Walgreens,,,,38.3349001,-121.9692621,,,w_286953514,"shop=chemist, brand=Walgreens"
+"Lemon Hill, CA",,retail,445120,,,,,38.154264,-122.2543856,,,w_317150994,shop=convenience
+"Lemon Hill, CA",,retail,445110,Browns Valley Market;Brown's Valley Market/Meat,"3263 Browns Valley Road, Napa, CA, 94558",(707) 253-1873;+011 (707) 253-1873,https://www.brownsvalleymeat.com/,38.3043017,-122.3296116,,,w_324607234,shop=supermarket
+"Lemon Hill, CA",,retail,445120,ExtraMile,,,,38.2812148,-122.2747543,,,w_348383463,"shop=convenience, brand=ExtraMile"
+"Lemon Hill, CA",,retail,452319,Dollar Tree,"3060 Travis Boulevard, Fairfield, CA, 94534",,https://www.dollartree.com/locations/ca/fairfield/5973/,38.2595715,-122.0668031,,,w_374980109,"shop=variety_store, brand=Dollar Tree"
+"Lemon Hill, CA",,retail,445120,,,,,38.2587958,-122.065533,,,w_374980114,shop=convenience
+"Lemon Hill, CA",,retail,445120,ExtraMile,"2990 Travis Boulevard, CA",,,38.258707,-122.0645123,,,w_374980130,"shop=convenience, brand=ExtraMile"
+"Lemon Hill, CA",,retail,445310,Cline Cellars,,,https://clinecellars.com/,38.2139291,-122.4578322,,,w_380187072,shop=wine
+"Lemon Hill, CA",,retail,445120,Kenwood Super Gas,"8850 Sonoma Highway, Kenwood, CA, 95452",+1-707-833-1121,,38.4203395,-122.5526389,,,w_381407922,shop=convenience
+"Lemon Hill, CA",,retail,445310,,,,,38.3610039,-121.9751663,,,w_402283314,shop=alcohol
+"Lemon Hill, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/vacaville-ca-pharmacies/191-depot-st-vacaville-ca-95688/storeid=9819,38.3583868,-121.9807134,,,w_402288622,"shop=chemist, brand=CVS Pharmacy"
+"Lemon Hill, CA",,retail,445120,Corner Mart,,,,38.1006523,-122.2418749,,,w_403542799,shop=convenience
+"Lemon Hill, CA",,retail,445310,Vacaville Food & Liquor,"300 Parker Street, Vacaville, CA, 95688",,,38.3564004,-121.9901196,,,w_407110604,shop=alcohol
+"Lemon Hill, CA",,retail,453110,Rose Florist & Gift Shop,"218 Main Street, Vacaville, CA, 95688",,,38.3564229,-121.9903125,,,w_407110605,shop=florist
+"Lemon Hill, CA",,retail,445110,Sunshine Foods,"1115 Main Street, St. Helena, CA, 94574",707-963-7070,https://www.sunshinefoodsmarket.com/,38.502723,-122.4676863,,,w_419633525,shop=supermarket
+"Lemon Hill, CA",,retail,446120,,,,,38.2965458,-122.2872227,,,w_421698360,shop=beauty
+"Lemon Hill, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-2700+willow+pass+rd-bay+point-ca-94565/id=13026,38.0270718,-121.9416059,,,w_459851071,"shop=chemist, brand=Walgreens"
+"Lemon Hill, CA",,retail,445110,Glen Ellen Village Market,Glen Ellen,,,38.3622252,-122.525472,,,w_462437504,shop=supermarket
+"Lemon Hill, CA",,retail,446110,Walgreens,"Trancas Street, Napa, CA",707-257-1154,https://www.walgreens.com/locator/walgreens-1685+trancas+st-napa-ca-94558/id=11822,38.321551,-122.3053891,,,w_463715635,"shop=chemist, brand=Walgreens"
+"Lemon Hill, CA",,retail,445110,Raley's,"217 Soscol Avenue, Napa, CA, 94559",(707) 224-7897,https://www.raleys.com/stores/raleys-soscol-napa-california/,38.2835215,-122.2776254,,,w_463914691,"shop=supermarket, brand=Raley's"
+"Lemon Hill, CA",,retail,452210,Target,"205 Soscol Avenue, Napa, CA, 94559",+1 707-224-1058,https://www.target.com/sl/napa/1026,38.2822009,-122.2775837,,,w_463914693,"shop=department_store, brand=Target"
+"Lemon Hill, CA",,retail,445310,Val’s,,,,38.2815609,-122.2738664,,,w_463914695,shop=alcohol
+"Lemon Hill, CA",,retail,445110,Lucky,"2355 California Blvd, Napa, CA, 94558",(707) 256-3407,https://luckysupermarkets.com/stores/730,38.3058596,-122.3033721,,,w_466311895,"shop=supermarket, brand=Lucky"
+"Lemon Hill, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/napa/5987/,38.320296,-122.298486,,,w_466311901,"shop=variety_store, brand=Dollar Tree"
+"Lemon Hill, CA",,retail,445120,Speedway,,,https://www.speedway.com/locations/CA/Napa/1300-Trancas-St,38.3230344,-122.3008568,,,w_466427171,"shop=convenience, brand=Speedway"
+"Lemon Hill, CA",,retail,446110,Rite Aid,,,https://www.riteaid.com/locations/ca/napa/1203-west-imola-avenue.html,38.2813744,-122.2898885,,,w_466822193,"shop=chemist, brand=Rite Aid"
+"Lemon Hill, CA",,retail,445120,,,,,38.2813865,-122.2932104,,,w_466822199,shop=convenience
+"Lemon Hill, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/napa-ca-pharmacies/291-s-coombs-st-napa-ca-94559/storeid=7141,38.2822084,-122.2895391,,,w_466822205,"shop=chemist, brand=CVS Pharmacy"
+"Lemon Hill, CA",,retail,445110,Walmart Supercenter,"681 Lincoln Avenue, Napa, CA, 94558",+1 707-224-8797,https://www.walmart.com/store/2925-napa-ca,38.3090089,-122.2832863,,,w_467338277,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Lemon Hill, CA",,retail,445120,ExtraMile,,,,38.3098858,-122.2846993,,,w_467480221,"shop=convenience, brand=ExtraMile"
+"Lemon Hill, CA",,retail,445120,Fairview Market & Deli,"1017 Coombsville Road, Napa, CA, 94558",,,38.2972439,-122.2691966,,,w_467711691,shop=convenience
+"Lemon Hill, CA",,retail,445110,Lucky,"1979 Peabody Road, CA",+1-707-452-0991,https://www.luckysupermarkets.com/stores#/5092,38.3363841,-121.9686028,,,w_468499167,"shop=supermarket, brand=Lucky"
+"Lemon Hill, CA",,retail,445310,Total Wine,"1680 East Monte Vista Avenue, Vacaville, CA, 95688",+1 707-474-4644,https://www.totalwine.com/store-info/california-vacaville/1142,38.3697803,-121.9589065,,,w_468838967,"shop=alcohol, brand=Total Wine"
+"Lemon Hill, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/napa-ca-pharmacies/675-trancas-st-napa-ca-94558/storeid=1804,38.3238121,-122.2876098,,,w_469515171,"shop=chemist, brand=CVS Pharmacy"
+"Lemon Hill, CA",,retail,445120,7-Eleven,"1670 Silverado Trail, Napa, CA, 94559-1412",+1 707-255-5110,https://www.7-eleven.com/locations/ca/napa/1670-silverado-trail-14131,38.3109907,-122.276053,,,w_469516118,"shop=convenience, brand=7-Eleven"
+"Lemon Hill, CA",,retail,445120,7-Eleven,"189 South Orchard Avenue, Vacaville, CA, 95688-3635",+1 707-447-0711,https://www.7-eleven.com/locations/ca/vacaville/189-s-orchard-ave-23433,38.3586802,-122.0043043,,,w_470508638,"shop=convenience, brand=7-Eleven"
+"Lemon Hill, CA",,retail,445110,Maya Supermarket,"120 South Orchard Avenue, Vacaville, CA, 95688",,,38.3575701,-122.0054503,,,w_470508640,shop=supermarket
+"Lemon Hill, CA",,retail,445120,Marina Market,"735 Escobar Street, Martinez, CA, 94553",(925) 229-2703,,38.0184278,-122.1365624,,,w_506265303,shop=convenience
+"Lemon Hill, CA",,retail,445120,Valley Convenient Mart,"835 Alhambra Avenue, Martinez, CA, 94553",(925) 229-4775,,38.0156571,-122.1369715,,,w_506320440,shop=convenience
+"Lemon Hill, CA",,retail,445120,Shell,,,,37.9988262,-122.132624,,,w_509326029,"shop=convenience, brand=Shell"
+"Lemon Hill, CA",,retail,445120,,,,,37.9982007,-122.1327707,,,w_509326032,shop=convenience
+"Lemon Hill, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/martinez/4141-alhambra-ave-37952,37.992507,-122.1301361,,,w_509341631,"shop=convenience, brand=7-Eleven"
+"Lemon Hill, CA",,retail,445120,,,,,38.0097814,-122.1320912,,,w_509341646,shop=convenience
+"Lemon Hill, CA",,retail,445120,Molly's Gourmet Market & Deli,"1255 Shell Avenue, Martinez, CA, 94553",+19253744925,,38.0111174,-122.1185499,,,w_509345826,shop=convenience
+"Lemon Hill, CA",,retail,445120,Power Market,,,,37.9964886,-122.1200941,,,w_509345835,shop=convenience
+"Lemon Hill, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/martinez/530-morello-ave-32235,37.9934531,-122.0998512,,,w_509373759,"shop=convenience, brand=7-Eleven"
+"Lemon Hill, CA",,retail,445120,,,,,37.990738,-122.1000217,,,w_509704711,shop=convenience
+"Lemon Hill, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/martinez/3520-pacheco-35061,38.0118619,-122.105698,,,w_515738817,"shop=convenience, brand=7-Eleven"
+"Lemon Hill, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/martinez/4001-pacheco-blvd-23837,38.008544,-122.0952898,,,w_515976992,"shop=convenience, brand=7-Eleven"
+"Lemon Hill, CA",,retail,445120,,,,,38.0071651,-122.0901571,,,w_516003175,shop=convenience
+"Lemon Hill, CA",,retail,445120,,,,,38.3207058,-122.3096453,,,w_550180914,shop=convenience
+"Lemon Hill, CA",,retail,452319,Dollar General,"176 East Grant Avenue, Winters, CA, 95694",,https://www.dollargeneral.com/store-directory/ca/winters/14552,38.5263093,-121.9656621,,,w_554616359,"shop=variety_store, brand=Dollar General"
+"Lemon Hill, CA",,retail,446110,CVS Pharmacy,"1193 Admiral Callaghan Lane, Vallejo, CA, 94591",,https://www.cvs.com/store-locator/vallejo-ca-pharmacies/1193-admiral-callaghan-lane-vallejo-ca-94591/storeid=9927,38.1368029,-122.2142112,,,w_567961769,"shop=chemist, brand=CVS Pharmacy"
+"Lemon Hill, CA",,retail,445120,7-Eleven,"901 Mason Street, Vacaville, CA, 95688",+1 707-449-9473,https://www.7-eleven.com/locations/ca/vacaville/901-mason-st-39555,38.3556107,-121.9809044,,,w_611842371,"shop=convenience, brand=7-Eleven"
+"Lemon Hill, CA",,retail,445110,WinCo Foods,"855 Davis Street, Vacaville, CA, 95688",,,38.3466011,-121.9841677,,,w_614132985,"shop=supermarket, brand=WinCo Foods"
+"Lemon Hill, CA",,retail,452319,Dollar Tree,"230 Peabody Road, Vacaville, CA, 95687",7073054296,https://www.dollartree.com/locations/ca/vacaville/1235/,38.3493681,-121.9766452,,,w_614140915,"shop=variety_store, brand=Dollar Tree"
+"Lemon Hill, CA",,retail,445110,Walmart Supercenter,"350 Walters Road, Suisun City, CA, 94585",+1 707-639-4980,https://www.walmart.com/store/3708-suisun-city-ca,38.2426758,-121.9902909,,,w_616207071,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Lemon Hill, CA",,retail,452210,Kohl's,"1116 1st Street, Napa, CA, 94559",+1 707-226-2109,https://www.kohls.com/stores/ca/napa-1371.shtml,38.2994212,-122.2869801,,,w_626734127,"shop=department_store, brand=Kohl's"
+"Lemon Hill, CA",,retail,445120,Circle K,,,,38.23519,-122.2635308,,,w_634348887,"shop=convenience, brand=Circle K"
+"Lemon Hill, CA",,retail,445310,The Rhine House,"2000 Main Street, CA",,,38.5101146,-122.4799031,,,w_665716395,shop=wine
+"Lemon Hill, CA",,retail,445120,7-Eleven,"18011 Railroad Avenue, El Verano, CA, 95476-4225",+1 707-996-3344,https://www.7-eleven.com/locations/ca/sonoma/18000-railroad-ave-14140,38.3117574,-122.4917546,,,w_671179598,"shop=convenience, brand=7-Eleven"
+"Lemon Hill, CA",,retail,446120,De Allore Hair and Nail Studio,"217 Parker Street, Vacaville, CA, 95688",,,38.3572777,-121.9897191,,,w_672821332,shop=beauty
+"Lemon Hill, CA",,retail,445120,ExtraMile,,,,38.2931222,-122.0331637,,,w_679418170,"shop=convenience, brand=ExtraMile"
+"Lemon Hill, CA",,retail,446110,CVS Pharmacy,"3340 North Texas Street, Fairfield, CA, 94533",,https://www.cvs.com/store-locator/cvs-pharmacy-address/3340+North+Texas+Street-Fairfield-CA-94533/storeid=9712,38.2914405,-122.0333667,,,w_679418174,"shop=chemist, brand=CVS Pharmacy"
+"Lemon Hill, CA",,retail,445120,ampm,,,,38.29471,-122.0323908,,,w_679418176,"shop=convenience, brand=ampm"
+"Lemon Hill, CA",,retail,453110,Stems Florist,"637 Merchant Street, Vacaville, CA, 95688",,,38.3514052,-121.9926171,,,w_686401379,shop=florist
+"Lemon Hill, CA",,retail,453991,Cigarettes & More,"641 Merchant Street, Vacaville, CA, 95688",,,38.3513225,-121.99263,,,w_686401380,shop=tobacco
+"Lemon Hill, CA",,retail,445120,Alamo Gas Food & Car Wash,"970 Alamo Drive, Vacaville, CA, 95687",,,38.34303,-121.9960332,,,w_687268137,shop=convenience
+"Lemon Hill, CA",,retail,445110,County Square Market,"136 Peabody Road, Vacaville, CA, 95687",707-455-1786,https://countysquaremarket.com/,38.3525623,-121.9774245,,,w_687996492,shop=supermarket
+"Lemon Hill, CA",,retail,445310,,,,,38.3525179,-121.9792221,,,w_687996497,shop=alcohol
+"Lemon Hill, CA",,retail,445110,La Placita,"111 Brown Street, Vacaville, CA, 95688",,,38.3605429,-121.9778663,,,w_688086595,shop=supermarket
+"Lemon Hill, CA",,retail,445110,Lucky,"777 East Monte Vista Avenue, Vacaville, CA, 95688",,,38.3601823,-121.9829075,,,w_688784406,"shop=supermarket, brand=Lucky"
+"Lemon Hill, CA",,retail,446120,Pro Nails,"761 East Monte Vista Avenue, Vacaville, CA, 95688",,,38.3598681,-121.9837434,,,w_688784415,shop=beauty
+"Lemon Hill, CA",,retail,453991,Tobaccoville,"755 East Monte Vista Avenue, Vacaville, CA, 95688",,,38.359706,-121.9837479,,,w_688784418,shop=tobacco
+"Lemon Hill, CA",,retail,452210,Ross,"1300 Gateway Boulevard, Fairfield, CA, 94533",+1 707-399-8425,,38.263007,-122.0505619,,,w_689052619,"shop=department_store, brand=Ross"
+"Lemon Hill, CA",,retail,445110,Nugget Markets,"130 Browns Valley Parkway, Vacaville, CA, 95688",,,38.3646849,-121.9695145,,,w_689555562,shop=supermarket
+"Lemon Hill, CA",,retail,445310,Parkway Food & Liquor,"146 Browns Valley Parkway, Vacaville, CA, 95688",,,38.3657494,-121.9693767,,,w_689555569,shop=alcohol
+"Lemon Hill, CA",,retail,446120,Hawaii Nails & Spa,"148 Browns Valley Parkway, Vacaville, CA, 95688",,,38.3658402,-121.9692975,,,w_689555570,shop=beauty
+"Lemon Hill, CA",,retail,446120,Happy Nails & Spa,"210 Peabody Road, Vacaville, CA, 95687",+1 707-451-1144,https://happynailsvacaville.com/,38.3501155,-121.9766311,,,w_692824874,shop=beauty
+"Lemon Hill, CA",,retail,445120,City Gas & Food Mart,"401 Merchant Street, Vacaville, CA, 95688",,,38.3547333,-121.9899595,,,w_693203168,shop=convenience
+"Lemon Hill, CA",,retail,446120,Mirage Salon & Spa,"536 Main Street, Vacaville, CA, 95688",,,38.3564265,-121.9870536,,,w_693733300,shop=beauty
+"Lemon Hill, CA",,retail,446120,Northern California Facial & Oral Surgery,"301 Alamo Drive, Vacaville, CA, 95688",,,38.3550831,-122.0087772,,,w_693852054,shop=beauty
+"Lemon Hill, CA",,retail,453110,Pearson's Florist,"390 East Monte Vista Avenue, Vacaville, CA, 95688",,,38.3588546,-121.9889977,,,w_694008077,shop=florist
+"Lemon Hill, CA",,retail,445120,Monte Vista Food & Liquor,"390 East Monte Vista Avenue, Vacaville, CA, 95688",,,38.3588557,-121.9891475,,,w_694008078,shop=convenience
+"Lemon Hill, CA",,retail,445310,,,,,38.2953694,-122.2888359,,,w_698093671,shop=alcohol
+"Lemon Hill, CA",,retail,446120,Perfect Eyebrows,"125 Peabody Road, Vacaville, CA, 95687",,,38.3523916,-121.9748813,,,w_698165645,shop=beauty
+"Lemon Hill, CA",,retail,445110,Desi Outlet,"127 Peabody Road, Vacaville, CA, 95687",,,38.3523337,-121.9748823,,,w_698165646,shop=supermarket
+"Lemon Hill, CA",,retail,446120,Lavender Nails & Spa,"139 Peabody Road, Vacaville, CA, 95687",,,38.35199,-121.9748882,,,w_698165653,shop=beauty
+"Lemon Hill, CA",,retail,453991,Smoke Division,"153 Peabody Road, Vacaville, CA, 95687",,,38.3516653,-121.975786,,,w_698165661,shop=tobacco
+"Lemon Hill, CA",,retail,445120,7-Eleven,"167 Peabody Road, Vacaville, CA, 95687",+1 707-448-1143,https://www.7-eleven.com/locations/ca/vacaville/167-peabody-rd-16055,38.3513285,-121.9756682,,,w_698165662,"shop=convenience, brand=7-Eleven"
+"Lemon Hill, CA",,retail,445120,Shell Select,"177 Peabody Road, Vacaville, CA, 95687",,,38.3508115,-121.9758053,,,w_698165668,"shop=convenience, brand=Shell Select"
+"Lemon Hill, CA",,retail,445110,College Market,,,,38.5708438,-122.4436039,,,w_699523292,"shop=supermarket, operator=Howell Mountain Enterprises"
+"Lemon Hill, CA",,retail,445310,B2B Wine & Spirits,"808 Alamo Drive, Vacaville, CA, 95688",,,38.3487693,-122.0000458,,,w_702325638,shop=alcohol
+"Lemon Hill, CA",,retail,446120,Natural Tans,"858 Alamo Drive, Vacaville, CA, 95688",,,38.3475263,-122.0004489,,,w_702325649,shop=beauty
+"Lemon Hill, CA",,retail,446120,Orchids Nails,"892 Alamo Drive, Vacaville, CA, 95688",,,38.3473167,-121.9986404,,,w_702325666,shop=beauty
+"Lemon Hill, CA",,retail,445120,ExtraMile,"970 Merchant Street, Vacaville, CA, 95688",,,38.3474469,-121.9983798,,,w_702325667,"shop=convenience, brand=ExtraMile"
+"Lemon Hill, CA",,retail,446120,Pure Nails,"921 Merchant Street, Vacaville, CA, 95688",,,38.3479276,-121.9965372,,,w_702359018,shop=beauty
+"Lemon Hill, CA",,retail,452210,Big Lots,"818 Alamo Drive, Vacaville, CA, 95688",+1 707-469-9330,https://local.biglots.com/ca/vacaville/818-alamo-dr,38.3484805,-122.0002495,,,w_702607662,"shop=department_store, brand=Big Lots"
+"Lemon Hill, CA",,retail,445120,ExtraMile,"182 Nut Tree Parkway, Vacaville, CA, 95687",,,38.36294,-121.9656701,,,w_704236459,"shop=convenience, brand=ExtraMile"
+"Lemon Hill, CA",,retail,446120,Cali Nails Spa,"196 Nut Tree Parkway, Vacaville, CA, 95687",,,38.3621332,-121.9669068,,,w_704236464,shop=beauty
+"Lemon Hill, CA",,retail,446120,Studio 13,"350 Main Street, Vacaville, CA, 95688",,,38.3563824,-121.9889189,,,w_706231388,shop=beauty
+"Lemon Hill, CA",,retail,445120,Food Mart,"6854 Sievers Road, Dixon, CA, 95620",,,38.4896737,-121.804204,,,w_712928356,shop=convenience
+"Lemon Hill, CA",,retail,445120,76,"8665 Pedrick Road, Dixon, CA, 95620",,,38.4910037,-121.8043248,,,w_712928357,"shop=convenience, brand=76"
+"Lemon Hill, CA",,retail,446120,Gaia Nails,"1610 East Monte Vista Avenue, Vacaville, CA, 95688",,,38.366463,-121.9633731,,,w_732019987,shop=beauty
+"Lemon Hill, CA",,retail,446120,European Wax Center,"1630 East Monte Vista Avenue, Vacaville, CA, 95688",,https://locations.waxcenter.com/ca/vacaville/vacaville-0425.html,38.3674037,-121.9619742,,,w_732020005,"shop=beauty, brand=European Wax Center"
+"Lemon Hill, CA",,retail,445310,BevMo!,"1621 East Monte Vista Avenue, Vacaville, CA, 95688",,,38.368378,-121.9642237,,,w_736467300,"shop=alcohol, brand=BevMo!"
+"Lemon Hill, CA",,retail,446120,Top Coat Nail Salon & Spa,"1631 East Monte Vista Avenue, Vacaville, CA, 95688",,,38.3681021,-121.9635345,,,w_736467303,shop=beauty
+"Lemon Hill, CA",,retail,446191,Vitality Bowls,"1631 East Monte Vista Avenue, Vacaville, CA, 95688",,,38.3680248,-121.9634181,,,w_736467305,shop=health_food
+"Lemon Hill, CA",,retail,445292,See's Candies,"1631 East Monte Vista Avenue, Vacaville, CA, 95688",,,38.3679964,-121.9632978,,,w_736467306,"shop=confectionery, brand=See's Candies"
+"Lemon Hill, CA",,retail,446120,Angel Nail & Spa,"1615 East Monte Vista Avenue, Vacaville, CA, 95688",,,38.3670147,-121.9639222,,,w_736467313,shop=beauty
+"Lemon Hill, CA",,retail,446120,Ulta Beauty,"1641 East Monte Vista Avenue, Vacaville, CA, 95688",+1 707-455-8369,https://www.ulta.com/stores/vacaville-ca-545,38.3694591,-121.9626877,,,w_736793615,"shop=beauty, brand=Ulta Beauty"
+"Lemon Hill, CA",,retail,446120,Eyebrow Art,"1639 East Monte Vista Avenue, Vacaville, CA, 95688",,,38.3682683,-121.9629987,,,w_736949423,shop=beauty
+"Lemon Hill, CA",,retail,445120,,,,,38.2515574,-122.069997,,,w_741037006,shop=convenience
+"Lemon Hill, CA",,retail,445292,Jelly Belly,"1663 East Monte Vista Avenue, Vacaville, CA, 95688",,,38.3703143,-121.9616247,,,w_741343188,shop=confectionery
+"Lemon Hill, CA",,retail,446191,True Roots Juice & Eats,"374 Merchant Street, Vacaville, CA, 95688",,,38.3553629,-121.9897801,,,w_743195271,shop=health_food
+"Lemon Hill, CA",,retail,446120,Merle Norman,"368 Merchant Street, Vacaville, CA, 95688",,,38.3555001,-121.9896097,,,w_743195273,"shop=cosmetics, brand=Merle Norman Cosmetics"
+"Lemon Hill, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-210+american+canyon+rd-american+canyon-ca-94503/id=11365,38.164963,-122.2517605,,,w_765266506,"shop=chemist, brand=Walgreens"
+"Lemon Hill, CA",,retail,445120,7-Eleven,"218 American Canyon Road, American Canyon, CA, 94503",+1 707-557-1302,https://www.7-eleven.com/locations/ca/american-canyon/218-american-canyon-rd-35704,38.1651659,-122.2507093,,,w_765266507,"shop=convenience, brand=7-Eleven"
+"Lemon Hill, CA",,retail,445310,Gary's Wine and Marketplace,,+1 707 5317660,https://garyswine.com/pages/garys-napa-valley,38.4887485,-122.4505325,,,w_766414075,shop=alcohol
+"Lemon Hill, CA",,retail,445120,ExtraMile,,,,38.5056581,-122.4702323,,,w_766794121,"shop=convenience, brand=ExtraMile"
+"Lemon Hill, CA",,retail,445120,Chevron,,,,38.39506,-121.9519691,,,w_779691258,"shop=convenience, brand=Chevron"
+"Lemon Hill, CA",,retail,445120,ExtraMile,,,,38.2431622,-122.0179446,,,w_779722560,"shop=convenience, brand=ExtraMile"
+"Lemon Hill, CA",,retail,445120,,,,,38.2442726,-122.0210295,,,w_779725747,shop=convenience
+"Lemon Hill, CA",,retail,446110,Rite Aid,"135 Sunset Avenue, Suisun City, CA, 94585",7074264242,https://www.riteaid.com/locations/ca/suisun-city/135-sunset-avenue.html,38.245977,-122.0190247,,,w_779727713,"shop=chemist, brand=Rite Aid"
+"Lemon Hill, CA",,retail,445120,Circle K,,,,38.2496814,-122.0604527,,,w_779804856,"shop=convenience, brand=Circle K"
+"Lemon Hill, CA",,retail,445120,7-Eleven,"206 East Tabor Avenue, Fairfield, CA, 94533-3967",+1 707-426-0342,https://www.7-eleven.com/locations/ca/fairfield/206-e-tabor-ave-14149,38.265896,-122.03225,,,w_779976061,"shop=convenience, brand=7-Eleven"
+"Lemon Hill, CA",,retail,446110,Walgreens,"Redwood Street, 94590",,https://www.walgreens.com/locator/walgreens-1050+redwood+st-vallejo-ca-94590/id=3171,38.1231528,-122.2501776,,,w_780579571,"shop=chemist, brand=Walgreens"
+"Lemon Hill, CA",,retail,445120,ampm,,,,38.4462854,-121.8540157,,,w_781357253,"shop=convenience, brand=ampm"
+"Lemon Hill, CA",,retail,445120,,,,,38.44631,-121.8557809,,,w_781357255,shop=convenience
+"Lemon Hill, CA",,retail,445120,Chevron,,,,38.468622,-121.8231598,,,w_781425139,"shop=convenience, brand=Chevron"
+"Lemon Hill, CA",,retail,445120,7-Eleven,"1075 North First Street, Dixon, CA, 95620-2428",+1 707-678-9187,https://www.7-eleven.com/locations/ca/dixon/1075-north-first-st-23584,38.455864,-121.8231267,,,w_781433858,"shop=convenience, brand=7-Eleven"
+"Lemon Hill, CA",,retail,445120,,,,,38.4564325,-121.8228804,,,w_781433860,shop=convenience
+"Lemon Hill, CA",,retail,445110,La Morenita 2,"17400 Sonoma Highway, Sonoma, CA, 95476",+1-707-935-7450,,38.3194845,-122.4860795,,,w_859096191,shop=supermarket
+"Lemon Hill, CA",,retail,445310,BR Cohn Winery,"15000 Sonoma Highway, Glen Ellen, CA",,,38.3493718,-122.5017308,,,w_860897445,shop=wine
+"Lemon Hill, CA",,retail,445110,Glen Ellen Grocery,"13710 Arnold Drive, Glen Ellen, CA",,,38.3630607,-122.5247571,,,w_860910164,shop=supermarket
+"Lemon Hill, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/vallejo-ca-pharmacies/3678-sonoma-blvd-vallejo-ca-94590/storeid=9832,38.1243611,-122.2537234,,,w_911550091,"shop=chemist, brand=CVS Pharmacy"
+"Lemon Hill, CA",,retail,452319,99 Cents Only Stores,"3684 Sonoma Boulevard, 94590",,https://locations.99only.com/ca/vallejo/discount-store-410.html,38.1248858,-122.2537897,,,w_911550092,"shop=variety_store, brand=99 Cents Only Stores"
+"Lemon Hill, CA",,retail,445110,Safeway,"4080 San Pablo Avenue, Hercules, CA, 94547",+1 510-322-9030,https://local.safeway.com/safeway/ca/hercules/4080-san-pablo-ave.html,38.0147879,-122.2716612,,,w_956949440,"shop=supermarket, brand=Safeway"
+"Lemon Hill, CA",,retail,445210,"Carniceria La Reyna, Inc.","889 Markham Avenue, Vacaville, CA, 95688",,,38.3596196,-121.9812776,,,w_960910063,shop=butcher
+"Lemon Hill, CA",,retail,445310,Depot Food & Liquor,"891 Markham Avenue, Vacaville, CA, 95688",,,38.3594587,-121.9813197,,,w_960910064,shop=alcohol
+"Lemon Hill, CA",,retail,445120,Bonneau,"19080 Arnold Drive, Sonoma, CA",,,38.2980278,-122.4921232,,,w_1019846211,shop=convenience
+"Lemon Hill, CA",,retail,445120,Bonfare Market,,,https://www.bonfaremarkets.com/,38.1229879,-122.2269134,,,w_1026255065,shop=convenience
+"Lemon Hill, CA",,retail,445120,7-Eleven,,,,38.1453044,-122.234875,,,w_1034400852,"shop=convenience, brand=7-Eleven"
+"Lemon Hill, CA",,retail,445310,judds Hill,,,,38.339299,-122.279717,,,w_1042675605,shop=wine
+"Lemon Hill, CA",,retail,445120,,,,,38.2128355,-122.139265,,,w_1043828261,shop=convenience
+"Lemon Hill, CA",,retail,445120,,,,,38.203038,-122.1579745,,,w_1043828288,shop=convenience
+"Lemon Hill, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/fairfield/4449-central-place-34158,38.22051,-122.126553,,,w_1044322927,"shop=convenience, brand=7-Eleven"
+"Lemon Hill, CA",,retail,445120,Shell,,,,38.221381,-122.1281415,,,w_1044323187,"shop=convenience, brand=Shell"
+"Lemon Hill, CA",,retail,445120,ampm,,,,38.221948,-122.127156,,,w_1044323190,"shop=convenience, brand=ampm"
+"Lemon Hill, CA",,retail,445120,,,,,38.221886,-122.126263,,,w_1044323192,shop=convenience
+"Lemon Hill, CA",,retail,445120,Jolly King Neighborhood Store Liquor and Food,"730 5th Street, Fairfield, CA, 94533",,,38.250039,-122.060506,,,w_1046339241,shop=convenience
+"Lemon Hill, CA",,retail,445120,ampm,"2051 Walters Road, Fairfield, CA, 94533",7074325600,,38.265321,-121.9888435,,,w_1047461343,"shop=convenience, brand=ampm"
+"Lemon Hill, CA",,retail,445120,Bonfire Market,,,https://www.bonfaremarkets.com/,38.2438798,-121.9871094,,,w_1050385047,shop=convenience
+"Lemon Hill, CA",,retail,445120,Quik Stop,,,,38.279339,-121.970606,,,w_1051714900,"shop=convenience, brand=Quik Stop"
+"Lemon Hill, CA",,retail,453991,U Know Smoke Shop,,,,38.1053785,-122.2379605,,,w_1059650129,shop=tobacco
+"Lemon Hill, CA",,retail,445310,Mumm,"8445 Silverado Trail South, Rutherford, CA, 94573",+1 707 9677700,,38.4791751,-122.3944988,,,w_1139100933,shop=wine
+"Lemon Hill, CA",,retail,445110,Suisun Seafood Center,"303 Lawler Center Drive, Suisun City, CA, 94585",,,38.2423262,-122.0181721,,,w_1193243491,shop=supermarket
+"Lemon Hill, CA",,retail,445120,7-Eleven,,,,38.2223561,-122.2619681,,,w_1198861706,"shop=convenience, brand=7-Eleven"
+"Lemon Hill, CA",,retail,445120,Circle K,"360 Napa Junction Road, American Canyon, CA, 95403",,,38.1850978,-122.2562362,,,w_1200737953,"shop=convenience, brand=Circle K"
+"Lemon Hill, CA",,retail,445110,Super La Favorita,"1950 North Texas Street, Fairfield, CA, 94533",+1 707-427-8767,,38.2637635,-122.0331859,,,w_1204763939,shop=supermarket
+"Lemon Hill, CA",,retail,445292,Coaster Candy,,,,38.1370758,-122.2322908,,,w_1272944547,shop=confectionery
+"Lemon Hill, CA",,retail,446120,,,,,38.1090463,-122.2378881,,,w_1365648097,shop=beauty
+"Lemon Hill, CA",,retail,452319,Dollar General,,,,38.1091915,-122.2377052,,,w_1365648098,"shop=variety_store, brand=Dollar General"
+"Lemon Hill, CA",,retail,445120,,,,,38.0975269,-122.2563059,,,w_1371289650,shop=convenience
+"Lemon Hill, CA",,retail,445120,,,,,38.1326823,-122.2570377,,,w_1372800789,shop=convenience
+"Lemon Hill, CA",,retail,445310,M&M Liquors,,,,38.0878113,-122.2439185,,,w_1374480273,shop=alcohol
+"Lemon Hill, CA",,retail,445120,La Rosa Market,,,,38.0887577,-122.2440249,,,w_1374480282,shop=convenience
+"Lemon Hill, CA",,retail,445120,ExtraMile,,,,38.0964795,-122.2536277,,,w_1374487014,"shop=convenience, brand=ExtraMile"

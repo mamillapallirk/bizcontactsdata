@@ -1,0 +1,146 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Lanare, CA",,retail,445110,Kearney Palms Shopping Mall,,,,36.7313378,-119.801533,,,n_358763951,shop=supermarket
+"Lanare, CA",,retail,452319,Botanica Judas Tadeo,,,,36.7348858,-119.791373,,,n_1755119709,shop=variety_store
+"Lanare, CA",,retail,452319,Botanica San Judas,,,,36.7343755,-119.7908878,,,n_1755119710,shop=variety_store
+"Lanare, CA",,retail,452319,Botanica,,,,36.7355283,-119.792193,,,n_1755119711,shop=variety_store
+"Lanare, CA",,retail,445120,Mi Casita Astral,,,,36.7341266,-119.7906211,,,n_1755119713,shop=convenience
+"Lanare, CA",,retail,445120,Fallas Discount Store,,,,36.7355522,-119.7917452,,,n_1755119742,shop=convenience
+"Lanare, CA",,retail,445120,Fullerton Mini Mart,,,,36.7354286,-119.7920859,,,n_1755119757,shop=convenience
+"Lanare, CA",,retail,452319,Goodwill,,,,36.7342194,-119.7907208,,,n_1755119760,shop=variety_store
+"Lanare, CA",,retail,445110,El Super,,,,36.7423058,-119.7709994,,,n_1918053663,shop=supermarket
+"Lanare, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/fresno/6015-e-kings-canyon-19835,36.7364124,-119.681816,,,n_2277852023,"shop=convenience, brand=7-Eleven"
+"Lanare, CA",,retail,445110,Save Mart,,,,36.7368982,-119.696048,,,n_2277852329,"shop=supermarket, brand=Save Mart"
+"Lanare, CA",,retail,445120,Kwik Break,,,,36.343122,-119.808871,,,n_2789494036,shop=convenience
+"Lanare, CA",,retail,446110,Rite Aid,,,https://www.riteaid.com/locations/ca/kerman/456-s-madera-avenue.html,36.7287496,-120.059809,,,n_2948118479,"shop=chemist, brand=Rite Aid"
+"Lanare, CA",,retail,446110,CVS Pharmacy,,,,36.7341773,-120.0592976,,,n_2948121236,"shop=chemist, brand=CVS Pharmacy"
+"Lanare, CA",,retail,445310,Rolinda Liquor,,,,36.73573,-119.9615781,,,n_2948126820,shop=alcohol
+"Lanare, CA",,retail,445110,Grocery Outlet,"2820 Tulare Street, Fresno, 93721",+1 559 499-1400,https://groceryoutlet.com/,36.7397308,-119.781514,,,n_3146681807,"shop=supermarket, brand=Grocery Outlet, operator=Chris Caillier"
+"Lanare, CA",,retail,445110,Mr. G's Country Store,"2259 West Tahoe Street, Caruthers, CA, 93609",,,36.5429603,-119.831597,,,n_3483479949,shop=supermarket
+"Lanare, CA",,retail,452319,Army Surplus,,,,36.7508647,-119.7896827,,,n_3545931878,shop=variety_store
+"Lanare, CA",,retail,445120,Chase,,,,36.2548007,-120.2507083,,,n_4345138990,shop=convenience
+"Lanare, CA",,retail,452319,99 Cents Only Stores,,,https://locations.99only.com/ca/fresno/discount-store-204.html,36.7375978,-119.7288828,,,n_4633455257,"shop=variety_store, brand=99 Cents Only Stores"
+"Lanare, CA",,retail,445110,WinCo Foods,,,,36.7333331,-119.719699,,,n_4633455258,"shop=supermarket, brand=WinCo Foods"
+"Lanare, CA",,retail,445110,Cell Pros,"5211 East Kings Canyon Road, Fresno, CA, 93727",,,36.7362918,-119.7179935,,,n_4664760803,shop=supermarket
+"Lanare, CA",,retail,446120,Nails World,"1866 W Lacey Blvd, Hanford, CA, 93230",+1 559-589-1394,https://www.nailsworldca.com/,36.3285173,-119.6763459,,,n_4666764209,shop=beauty
+"Lanare, CA",,retail,445292,Kogetsu-Do Confectionery,"920 F Street, 93706",559-237-2670,,36.7298574,-119.7940795,,,n_4962804742,shop=confectionery
+"Lanare, CA",,retail,445120,,,,,36.7715487,-119.8434968,,,n_5701389287,shop=convenience
+"Lanare, CA",,retail,445120,,,,,36.7930868,-119.8707345,,,n_5711055064,shop=convenience
+"Lanare, CA",,retail,445120,,,,,36.7785991,-119.8469419,,,n_5712803093,shop=convenience
+"Lanare, CA",,retail,452210,Marshalls,,,,36.3257819,-119.676177,,,n_6536788765,"shop=department_store, brand=Marshalls"
+"Lanare, CA",,retail,446120,Ulta Beauty,"168 12th Avenue, Hanford, CA, 93230",+1 559-587-9433,https://www.ulta.com/stores/hanford-ca-636,36.3244295,-119.676092,,,n_6536788772,"shop=beauty, brand=Ulta Beauty"
+"Lanare, CA",,retail,452210,Target,"140 North 12th Avenue, Hanford, CA, 93230-5971",+1 559-582-9298,https://www.target.com/sl/hanford/1906,36.3237851,-119.676443,,,n_6536788773,"shop=department_store, brand=Target"
+"Lanare, CA",,retail,453991,,,,,36.3285141,-119.676439,,,n_6536788779,shop=tobacco
+"Lanare, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/hanford/1246/,36.3302644,-119.675451,,,n_6536797486,"shop=variety_store, brand=Dollar Tree"
+"Lanare, CA",,retail,445110,Foods Co,,,,36.328981,-119.676244,,,n_6536797487,"shop=supermarket, brand=Foods Co"
+"Lanare, CA",,retail,452210,Kohl's,"1677 West Lacey Boulevard, Hanford, CA, 93230",+1 559-589-6439,https://www.kohls.com/stores/ca/hanford-1400.shtml,36.326703,-119.671364,,,n_6536797495,"shop=department_store, brand=Kohl's"
+"Lanare, CA",,retail,452210,JCPenney,,,,36.32401,-119.671073,,,n_6536797499,"shop=department_store, brand=JCPenney"
+"Lanare, CA",,retail,445110,Cost Less,,,,36.3222534,-119.65593,,,n_6593325447,shop=supermarket
+"Lanare, CA",,retail,452210,Big Lots,"150 South 11th Avenue, Hanford, CA, 93230",+1 559-583-1174,https://local.biglots.com/ca/hanford/150-s-11th-ave,36.3228326,-119.6575884,,,n_6593325450,"shop=department_store, brand=Big Lots"
+"Lanare, CA",,retail,445110,Grocery Outlet,,,,36.3264932,-119.651394,,,n_6594608073,"shop=supermarket, brand=Grocery Outlet"
+"Lanare, CA",,retail,445110,Harrods Market,,,,36.3258332,-119.6448523,,,n_7249785561,shop=supermarket
+"Lanare, CA",,retail,445120,Chevron,,,,36.3596221,-119.65437,,,n_7282228751,"shop=convenience, brand=Chevron"
+"Lanare, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/hanford-ca-pharmacies/2539-n-11th-ave-hanford-ca-93230/storeid=9893,36.3577471,-119.65396,,,n_7282228868,"shop=chemist, brand=CVS Pharmacy"
+"Lanare, CA",,retail,446120,Pure Tan,,,,36.3580701,-119.6540764,,,n_7282228869,shop=beauty
+"Lanare, CA",,retail,453991,Sal's Tobacco & more,,,,36.3581344,-119.6540761,,,n_7282228871,shop=tobacco
+"Lanare, CA",,retail,446120,Fargo Nail,,,,36.358008,-119.654071,,,n_7282228886,shop=beauty
+"Lanare, CA",,retail,445120,Speedway,"2619 South East Avenue, Fresno, CA, 93706",,https://www.speedway.com/locations/CA/Fresno/2619-S-East-Ave,36.7066391,-119.7755004,,,n_9179009221,"shop=convenience, brand=Speedway"
+"Lanare, CA",,retail,446120,,"4842 East Kings Canyon Road, Fresno, CA, 93727",+1-559-454-0531,https://beautiful-nails-fresno.edan.io/,36.734319,-119.7343441,,,n_9219789888,"shop=beauty, operator=Beautiful Nails"
+"Lanare, CA",,retail,453991,Cigarettes,"4848 East Kings Canyon Road, Fresno, CA, 93727",+1-559-252-6400,,36.7355586,-119.7335731,,,n_9220129121,shop=tobacco
+"Lanare, CA",,retail,445120,,,,,36.7348764,-119.7357137,,,n_9225655732,shop=convenience
+"Lanare, CA",,retail,445110,Taj Yeeb Market,"4905 East Kings Canyon Road, Fresno, CA, 93727",+1-559-374-5950,,36.737446,-119.7312552,,,n_9225732599,shop=supermarket
+"Lanare, CA",,retail,445120,,,,,36.7579461,-119.8090754,,,n_9249541392,shop=convenience
+"Lanare, CA",,retail,445120,ampm,3060 East Tulare Avenue,,,36.742907,-119.7734,,,n_9596138780,"shop=convenience, brand=ampm"
+"Lanare, CA",,retail,446120,Seva Beauty,,,,36.7380953,-119.7213349,,,n_9903215200,"shop=beauty, brand=Seva Beauty"
+"Lanare, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/fresno/1239/,36.7346996,-119.6971238,,,n_9930852036,"shop=variety_store, brand=Dollar Tree"
+"Lanare, CA",,retail,445310,,,,,36.7942579,-119.8717668,,,n_10047749874,shop=alcohol
+"Lanare, CA",,retail,445120,ampm,,,,36.2546362,-120.253168,,,n_10261274327,"shop=convenience, brand=ampm"
+"Lanare, CA",,retail,445120,Rj's Travel Center,,,,36.4477315,-119.4849872,,,n_10705792753,shop=convenience
+"Lanare, CA",,retail,445120,Palm Plaza Chevron,"1645 N 12th Ave, Hanford, CA, 93230",+1 559-530-3862,https://palmplazachevron.com,36.3421978,-119.672281,,,n_11271457733,shop=convenience
+"Lanare, CA",,retail,445110,Vallarta,"1951 West Clinton Avenue, Fresno, CA, 93705",+15594763920,https://vallartasupermarkets.com/store-locations/Fresno-49,36.7708458,-119.8350155,,,n_11846391937,"shop=supermarket, brand=Vallarta"
+"Lanare, CA",,retail,446120,Sheila's Hair Salon,"610 East Weldon Avenue, Fresno, CA, 93704",+15594428405,,36.7684352,-119.8037515,,,n_11971362094,shop=beauty
+"Lanare, CA",,retail,446120,Sheer Bliss,"1922 North Echo Avenue, Fresno, CA, 93704",+15592297272,https://www.mysheerbliss.com/,36.7678382,-119.8038547,,,n_11971362104,shop=beauty
+"Lanare, CA",,retail,446120,Super Perm & Cuts,"1581 North Palm Avenue, Fresno, CA, 93728",+15599603762,http://www.superpermandcuts.com/,36.7645174,-119.8090587,,,n_11971362132,shop=beauty
+"Lanare, CA",,retail,453991,Shop & Dip,"1563 North Palm Avenue, Fresno, CA, 93728",,,36.7642295,-119.8088672,,,n_11971362133,shop=tobacco
+"Lanare, CA",,retail,453991,Perfect Blend Fine Cigars,"729 East Olive Avenue, Fresno, CA, 93728",+15594860400,https://www.perfectblendfinecigars.com/,36.7578328,-119.8027757,,,n_11980260480,shop=tobacco
+"Lanare, CA",,retail,446120,Lavish by Kash,"816 East Fern Avenue, Fresno, CA, 93728",+15592735222,,36.758593,-119.8006725,,,n_11982395027,shop=beauty
+"Lanare, CA",,retail,446191,Tower Health & Diet Foods,"1130 North Fulton Street, Fresno, CA, 93728",+15592378479,,36.7572017,-119.8001137,,,n_11982446785,shop=health_food
+"Lanare, CA",,retail,453991,AK Smoke Shop,"619 East Olive Avenue, Fresno, CA, 93728",+15592330447,,36.7578013,-119.8038435,,,n_11993357607,shop=tobacco
+"Lanare, CA",,retail,445120,Stratford Marketplace,"20693 Laurel Avenue, Stratford, CA, 93266",,,36.1891898,-119.8285934,,,n_12610065268,shop=convenience
+"Lanare, CA",,retail,445120,Shell,,,,36.2531218,-120.2389334,,,n_12691775968,shop=convenience
+"Lanare, CA",,retail,445120,76,,,,36.6784635,-119.7371651,,,n_13071724640,"shop=convenience, brand=76"
+"Lanare, CA",,retail,445120,ampm,,,,36.6773987,-119.7373935,,,n_13071724656,"shop=convenience, brand=ampm"
+"Lanare, CA",,retail,445120,ExtraMile,,,,36.6773544,-119.7359498,,,n_13071724672,"shop=convenience, brand=ExtraMile"
+"Lanare, CA",,retail,445110,,,,,36.6083383,-120.1887791,,,w_61171130,shop=supermarket
+"Lanare, CA",,retail,445110,,,,,36.6095964,-119.547263,,,w_61173419,shop=supermarket
+"Lanare, CA",,retail,445110,,,,,36.5889848,-119.6096493,,,w_61176020,shop=supermarket
+"Lanare, CA",,retail,445110,,,,,36.5128711,-119.5513609,,,w_61195765,shop=supermarket
+"Lanare, CA",,retail,445110,,,,,36.426543,-119.8505574,,,w_61202116,shop=supermarket
+"Lanare, CA",,retail,445110,,,,,36.5702913,-119.6097889,,,w_61206668,shop=supermarket
+"Lanare, CA",,retail,445110,,,,,36.7801366,-119.8608308,,,w_61474443,shop=supermarket
+"Lanare, CA",,retail,445110,,,,,36.7653247,-119.8183419,,,w_61545996,shop=supermarket
+"Lanare, CA",,retail,445110,CentralValleyTalk.com,"1212 North Van Ness Avenue, Fresno, CA, 93728",,,36.7580118,-119.7985637,,,w_61549727,shop=supermarket
+"Lanare, CA",,retail,445110,Ventura,,,,36.7351923,-119.7703471,,,w_61574023,shop=supermarket
+"Lanare, CA",,retail,445110,,,,,36.7426508,-119.7356458,,,w_61607297,shop=supermarket
+"Lanare, CA",,retail,445110,,,,,36.7709167,-119.8637684,,,w_61612017,shop=supermarket
+"Lanare, CA",,retail,445110,,,,,36.7727483,-119.7917506,,,w_61617557,shop=supermarket
+"Lanare, CA",,retail,445120,SB Food Market,,,,36.7289007,-119.7541821,,,w_61700113,shop=convenience
+"Lanare, CA",,retail,445110,,,,,36.7137241,-119.7542047,,,w_61705455,shop=supermarket
+"Lanare, CA",,retail,445110,,,,,36.7330216,-119.8026065,,,w_61707777,shop=supermarket
+"Lanare, CA",,retail,445110,,,,,36.732714,-119.7983345,,,w_61708270,shop=supermarket
+"Lanare, CA",,retail,445120,7-Eleven,"2397 South Chestnut Avenue, Fresno, CA, 93725-1206",+1 559-252-5221,https://www.7-eleven.com/locations/ca/fresno/2397-s-chestnut-ave-16970,36.7144587,-119.7361454,,,w_61709343,"shop=convenience, brand=7-Eleven"
+"Lanare, CA",,retail,445110,FoodMaxx,1177 Fresno,,,36.7316187,-119.8018371,,,w_61709882,"shop=supermarket, brand=FoodMaxx"
+"Lanare, CA",,retail,452210,,,,,36.7328382,-119.7884538,,,w_61710426,shop=department_store
+"Lanare, CA",,retail,445110,Shaibi Market,,,,36.706607,-119.7587558,,,w_61820806,shop=supermarket
+"Lanare, CA",,retail,445310,Cavalier Liquor,,,,36.706622,-119.7564362,,,w_61821009,shop=alcohol
+"Lanare, CA",,retail,445120,Jeylla Miscellaneous,,,,36.7066215,-119.7574935,,,w_61821337,shop=convenience
+"Lanare, CA",,retail,445110,Discount Market,,,,36.7072245,-119.7575759,,,w_61821396,shop=supermarket
+"Lanare, CA",,retail,445120,,,,,36.7071729,-119.7518215,,,w_61821504,shop=convenience
+"Lanare, CA",,retail,445110,,,,,36.6347024,-119.7912057,,,w_62018606,shop=supermarket
+"Lanare, CA",,retail,445110,Vons,"5638 East Kings Canyon Road, Fresno, CA, 93727",+1 559-458-0209,https://local.vons.com/ca/fresno/5638-e-kings-canyon.html,36.7344613,-119.6984011,,,w_131506703,"shop=supermarket, brand=Vons"
+"Lanare, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-2424+n+brawley+ave-fresno-ca-93722/id=10335,36.7724626,-119.8616755,,,w_164253341,"shop=chemist, brand=Walgreens"
+"Lanare, CA",,retail,445110,Los Amigos,,,,36.7137677,-119.7541681,,,w_183599497,shop=supermarket
+"Lanare, CA",,retail,445110,Walmart Supercenter,"5125 East Kings Canyon Road, Fresno, CA, 93727",+1 559-252-9457,https://www.walmart.com/store/2001/fresno-ca,36.7382473,-119.7217907,,,w_183654763,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Lanare, CA",,retail,446110,Rite Aid,,,https://www.riteaid.com/locations/ca/fresno/3795-west-shields-avenue.html,36.7785198,-119.8616981,,,w_191505145,"shop=chemist, brand=Rite Aid"
+"Lanare, CA",,retail,446110,CVS Pharmacy,,,,36.7706606,-119.8644872,,,w_191509577,"shop=chemist, brand=CVS Pharmacy"
+"Lanare, CA",,retail,445110,Savemart,,,,36.7705872,-119.8633482,,,w_191509578,shop=supermarket
+"Lanare, CA",,retail,445120,AMPM,"20033 Sommerville Lane, Coalinga, CA, 93210",,,36.136233,-120.164961,,,w_233272235,"shop=convenience, brand=Arco"
+"Lanare, CA",,retail,445310,,,,,36.6588371,-119.5943886,,,w_256667014,shop=alcohol
+"Lanare, CA",,retail,445310,,10777 morro,,,36.6583556,-119.594354,,,w_256667022,shop=alcohol
+"Lanare, CA",,retail,445120,Shasta Market,,,,36.7341827,-120.1050826,,,w_321249285,shop=convenience
+"Lanare, CA",,retail,445110,Grocery Outlet,"5175 East Belmont Avenue, Fresno, CA, 93727",,,36.7517028,-119.7192675,,,w_443634070,"shop=supermarket, brand=Grocery Outlet"
+"Lanare, CA",,retail,452319,Family Dollar,,,,36.7516169,-119.7197082,,,w_443634072,"shop=variety_store, brand=Family Dollar"
+"Lanare, CA",,retail,452210,Ross,"4950 East Kings Canyon Road, Fresno, CA, 93727",+1 559-458-0184,,36.7342019,-119.7303931,,,w_469148772,"shop=department_store, brand=Ross"
+"Lanare, CA",,retail,445110,SF Supermarket,,,,36.7341442,-119.7291226,,,w_469148774,"shop=supermarket, brand=SF Supermarket"
+"Lanare, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/fresno/1217/,36.7342481,-119.7282371,,,w_469148776,"shop=variety_store, brand=Dollar Tree"
+"Lanare, CA",,retail,445310,,,,,36.7139485,-119.7452051,,,w_469150938,shop=alcohol
+"Lanare, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/fresno/1241/,36.7428263,-119.7687662,,,w_469563533,"shop=variety_store, brand=Dollar Tree"
+"Lanare, CA",,retail,445110,Vallarta,,,,36.7298168,-119.7348693,,,w_471237605,"shop=supermarket, brand=Vallarta"
+"Lanare, CA",,retail,445310,Cavalier Liquor,,,,36.7066349,-119.7565693,,,w_479170359,shop=alcohol
+"Lanare, CA",,retail,445110,Foods Co,"4838 East Kings Canyon Road, Fresno, CA, 93727",+1-559-456-9050,https://www.foodsco.net/stores/details/704/00316,36.7341065,-119.7350583,,,w_491652201,"shop=supermarket, brand=Foods Co"
+"Lanare, CA",,retail,446110,Walgreens,"4810 East Kings Canyon Road, Fresno, CA, 93727",+1-559-458-0141,https://www.walgreens.com/locator/walgreens-4810+e+kings+canyon+rd-fresno-ca-93727/id=6386,36.7353502,-119.7356692,,,w_491652206,"shop=chemist, brand=Walgreens"
+"Lanare, CA",,retail,445110,Walmart Supercenter,"14061 West Whitesbridge Avenue, Kerman, CA, 93630",+1 559-846-1200,https://www.walmart.com/store/5701/kerman-ca,36.7326529,-120.0440871,,,w_578544817,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Lanare, CA",,retail,445120,,,,,36.3138503,-119.7779983,,,w_609798618,shop=convenience
+"Lanare, CA",,retail,445110,Walmart Supercenter,"250 South 12th Avenue, Hanford, CA, 93230",+1 559-583-6292,https://www.walmart.com/store/1645-hanford-ca,36.3217364,-119.6763419,,,w_691050517,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Lanare, CA",,retail,445110,Walmart Supercenter,"3400 Floral Avenue, Selma, CA, 93662",+1 559-891-7190,https://www.walmart.com/store/1882-selma-ca,36.5772514,-119.6344352,,,w_692373193,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Lanare, CA",,retail,445110,ALDI,"1789 West Lacey Boulevard, Hanford, CA, 93230-5903",+1 833-479-7198,https://stores.aldi.us/ca/hanford/1789-w-lacey-blvd,36.3273564,-119.6756993,,,w_956212759,"shop=supermarket, brand=ALDI"
+"Lanare, CA",,retail,446110,CVS Pharmacy,,,,36.7343223,-120.0595194,,,w_983166950,"shop=chemist, brand=CVS Pharmacy"
+"Lanare, CA",,retail,446110,Rite Aid,"5574 East Kings Canyon Road, Fresno, CA, 93727",,https://www.riteaid.com/locations/ca/fresno/5574-east-kings-canyon.html,36.7347314,-119.7006996,,,w_983581264,"shop=chemist, brand=Rite Aid"
+"Lanare, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-626+s+clovis+ave-fresno-ca-93727/id=6082,36.7365284,-119.7007287,,,w_983581271,"shop=chemist, brand=Walgreens"
+"Lanare, CA",,retail,445120,Valero,,,,36.7381962,-119.6995522,,,w_983581278,"shop=convenience, brand=Valero"
+"Lanare, CA",,retail,445120,Chevron,,,,36.7354542,-119.7004103,,,w_983581284,"shop=convenience, brand=Chevron"
+"Lanare, CA",,retail,445120,,,,,36.736482,-119.6951679,,,w_983581288,shop=convenience
+"Lanare, CA",,retail,445120,,,,,36.3286915,-119.6003036,,,w_993508119,shop=convenience
+"Lanare, CA",,retail,445120,ampm,"4897 East Kings Canyon Road, Fresno, CA, 93727",+1-559-255-4910,https://www.ampm.com/,36.736416,-119.7326272,,,w_999745524,"shop=convenience, brand=ampm"
+"Lanare, CA",,retail,452210,Big Lots,"4895 East Kings Canyon Road, Fresno, CA, 93727",+1-559-456-8492,https://local.biglots.com/ca/fresno/4895-e-kings-canyon-rd,36.7374284,-119.7323623,,,w_999745525,"shop=department_store, brand=Big Lots"
+"Lanare, CA",,retail,445120,,,,,36.3420679,-119.6720998,,,w_1033838278,shop=convenience
+"Lanare, CA",,retail,445110,Family Express Food & Liquor,"1102 Fresno Street, Fresno, CA, 93706",+1 559-233-8615,,36.7296311,-119.8006044,,,w_1063934882,shop=supermarket
+"Lanare, CA",,retail,445120,Shell,,,,36.1372122,-120.1653488,,,w_1116923470,"shop=convenience, brand=Shell"
+"Lanare, CA",,retail,445120,7-Eleven,1110 North Lemoore Avenue,,,36.3136593,-119.780309,,,w_1230894955,"shop=convenience, brand=7-Eleven, operator=7-Eleven"
+"Lanare, CA",,retail,452319,Family Dollar,21790 West Colorado Avenue,,,36.6040054,-120.1828748,,,w_1230901099,"shop=variety_store, brand=Family Dollar"
+"Lanare, CA",,retail,452319,Dollar General,5385 South Elm Avenue,,https://www.dollargeneral.com/store-directory/ca/fresno/15320,36.6573083,-119.7914178,,,w_1230901586,"shop=variety_store, brand=Dollar General"
+"Lanare, CA",,retail,445120,1 Stop Shop,,,,36.7655569,-119.7550461,,,w_1237426481,shop=convenience
+"Lanare, CA",,retail,452319,Dollar Tree,"917 East Olive Avenue, Fresno, CA, 93728",+15595507835,https://www.dollartree.com/locations/ca/fresno/2600/,36.7583717,-119.8000683,,,w_1245203419,"shop=variety_store, brand=Dollar Tree"
+"Lanare, CA",,retail,445120,7-Eleven,"1596 North Palm Avenue, Fresno, CA, 93728",+1 559-264-4511,https://www.7-eleven.com/locations/ca/fresno/1596-n-palm-19198,36.7645311,-119.8081711,,,w_1245209053,"shop=convenience, brand=7-Eleven"
+"Lanare, CA",,retail,445110,Tower Market & Deli,"1233 North Van Ness Avenue, Fresno, CA, 93728",+15592661060,,36.7585626,-119.799392,,,w_1292559158,shop=supermarket
+"Lanare, CA",,retail,445110,Stratford Market,"20374 Main Street, Stratford, CA, 93266",+1 (559) 947-3121,,36.1897926,-119.8236352,,,w_1356160586,shop=supermarket
+"Lanare, CA",,retail,445110,A & M Market,"20510 Main Street, Stratford, CA, 93266",,,36.1896264,-119.8257156,,,w_1361402828,shop=supermarket

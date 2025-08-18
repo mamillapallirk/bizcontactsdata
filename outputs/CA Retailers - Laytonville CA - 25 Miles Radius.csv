@@ -1,0 +1,38 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Laytonville, CA",,retail,445210,Roundman's Smoke House,,,,39.4459372,-123.8057696,,,n_541344739,shop=butcher
+"Laytonville, CA",,retail,445110,Geiger's Long Valley Market,,,,39.687429,-123.4819072,,,n_1675708538,shop=supermarket
+"Laytonville, CA",,retail,452319,Dollar Tree,"1710 South Main Street, Willits, CA, 95490-4405",+1 707-354-6435,https://www.dollartree.com/locations/ca/willits/2939/,39.391184,-123.3481744,,,n_2493081902,"shop=variety_store, brand=Dollar Tree"
+"Laytonville, CA",,retail,445120,ampm,,,,39.4036541,-123.352092,,,n_2640952059,"shop=convenience, brand=ampm"
+"Laytonville, CA",,retail,445110,Mariposa Market,,,,39.4065587,-123.3528159,,,n_2641902605,shop=supermarket
+"Laytonville, CA",,retail,452319,Purple Moose Thrift,,,,39.4061817,-123.3527094,,,n_2641902607,shop=variety_store
+"Laytonville, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/fort-bragg/5853/,39.4208314,-123.8062622,,,n_3788732125,"shop=variety_store, brand=Dollar Tree"
+"Laytonville, CA",,retail,445110,Fosters Ranch Market,,,,39.6875804,-123.4833919,,,n_4355303910,shop=supermarket
+"Laytonville, CA",,retail,445110,Mendo Sun Market,,,,39.6842064,-123.4788164,,,n_4367033438,shop=supermarket
+"Laytonville, CA",,retail,445310,Park-N-Takit,,,,39.6863531,-123.481901,,,n_4367033439,shop=alcohol
+"Laytonville, CA",,retail,445120,,,,,39.6861121,-123.4802962,,,n_4367033441,shop=convenience
+"Laytonville, CA",,retail,445120,Cleone Groceries,,,,39.4911805,-123.7848878,,,n_4406274789,shop=convenience
+"Laytonville, CA",,retail,445292,Mendocino Chocolate Company,232 North Main Street,,,39.4434069,-123.8055822,,,n_6169439874,shop=chocolate
+"Laytonville, CA",,retail,446120,,,,,39.4122929,-123.3546521,,,n_6309183219,shop=beauty
+"Laytonville, CA",,retail,445310,,,,,39.4122988,-123.3549483,,,n_6309183221,shop=alcohol
+"Laytonville, CA",,retail,453110,Willits Flowers,,+1 707-841-3119,,39.4099043,-123.3543853,,,n_12554835484,shop=florist
+"Laytonville, CA",,retail,445120,,,,,39.4097077,-123.3535605,,,n_12554835485,shop=convenience
+"Laytonville, CA",,retail,446120,Valeries Village Beauty Salon,,,,39.4096683,-123.3542472,,,n_12554835487,shop=beauty
+"Laytonville, CA",,retail,453991,,,,,39.4104214,-123.3541497,,,n_12554835491,shop=tobacco
+"Laytonville, CA",,retail,452319,,,,,39.4104556,-123.354677,,,n_12554835492,shop=general
+"Laytonville, CA",,retail,445110,Harvest Market,"171 Boat Yard Drive, Fort Bragg, CA, 95437",+17 07 964 7000,,39.4215648,-123.8063741,,,n_12554939555,"shop=supermarket, operator=Tom Honer"
+"Laytonville, CA",,retail,452319,Westport Community Store,,,,39.63835,-123.7846817,,,n_12555064446,shop=general
+"Laytonville, CA",,retail,452319,The Peg House,"69501 US 101, Leggett, CA, 94107",+1 707-925-6444,http://thepeghouse.com/,39.8783273,-123.7280294,,,n_12758069293,shop=general
+"Laytonville, CA",,retail,445110,Grocery Outlet,,,,39.3906422,-123.3491604,,,w_25359220,"shop=supermarket, brand=Grocery Outlet"
+"Laytonville, CA",,retail,445110,Purity,,,,39.4436866,-123.8042149,,,w_31756749,shop=supermarket
+"Laytonville, CA",,retail,445110,Safeway,"660 South Main Street, Fort Bragg, CA, 95437",+1 707-964-4079,https://local.safeway.com/safeway/ca/fort-bragg/660-s-main-st.html,39.4334311,-123.8054513,,,w_130504089,"shop=supermarket, brand=Safeway"
+"Laytonville, CA",,retail,445120,,,,,39.4321797,-123.8055926,,,w_130504132,shop=convenience
+"Laytonville, CA",,retail,445120,Super 8,,,,39.4303809,-123.8057981,,,w_130504183,shop=convenience
+"Laytonville, CA",,retail,445110,Leggett Market,"67660 CA 271, CA",1-707-925-6000,,39.8653767,-123.7151524,,,w_196029540,shop=supermarket
+"Laytonville, CA",,retail,445120,Redwood Mercantile,"66150 Drive Thru Tree Rd., CA, 95585",,,39.8507563,-123.7171497,,,w_196924864,shop=convenience
+"Laytonville, CA",,retail,445110,Safeway,"845 South Main Street, Willits, CA, 95490",+1 707-459-5862,https://local.safeway.com/safeway/ca/willits/845-s-main-st.html,39.4034899,-123.3497463,,,w_238536223,"shop=supermarket, brand=Safeway"
+"Laytonville, CA",,retail,445120,,,,,39.4515703,-123.8062931,,,w_407781760,shop=convenience
+"Laytonville, CA",,retail,445110,Keith's Market IGA,"76201 Covelo Road, Covelo, CA, 95428",+1 707-942-6271,,39.7911161,-123.2477626,,,w_654557310,shop=supermarket
+"Laytonville, CA",,retail,445120,Food Mart,"18475 Shoreline Highway, Fort Bragg, CA, 95437",+1 707-964-7051,https://www.speedway.com/locations/CA/Fort-Bragg/18475-N-HWY-I,39.4119355,-123.8079664,,,w_660075775,"shop=convenience, brand=Speedway, operator=Speedway Express"
+"Laytonville, CA",,retail,445120,Speedway Express,"18475 Shoreline Highway, Fort Bragg, CA, 95437",+1 707-964-7051,,39.4119651,-123.8080936,,,w_660075776,"shop=convenience, amenity=fuel, brand=Speedway, operator=Speedway Express"
+"Laytonville, CA",,retail,452319,Trading Post,,,,39.4188855,-123.2826161,,,w_980650457,shop=general
+"Laytonville, CA",,retail,445120,Norcal Gasoline,"18770 Shoreline Highway, Fort Bragg, CA, 95437",+1-707-964-0977,,39.4158607,-123.8086861,,,w_1127976840,shop=convenience

@@ -1,0 +1,92 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"San Simeon, CA",,retail,445310,Bob and Jan's Bottle Shop,,,,35.5641406,-121.0816481,,,n_1485252122,shop=alcohol
+"San Simeon, CA",,retail,445120,Soto's Market,,,,35.5640208,-121.082037,,,n_1485252127,shop=convenience
+"San Simeon, CA",,retail,445110,The Pit Stop,,,,35.566611,-121.0995257,,,n_1485265757,shop=grocery
+"San Simeon, CA",,retail,445310,Black Hand Cellars,,,,35.5671147,-121.1001853,,,n_1485265763,shop=wine
+"San Simeon, CA",,retail,445120,Old Cambria Market Place,,,,35.5687673,-121.1022563,,,n_1485703332,shop=convenience
+"San Simeon, CA",,retail,445292,The Gourmet Gift,,,,35.5677684,-121.1004639,,,n_1485703344,shop=chocolate
+"San Simeon, CA",,retail,446120,Nail Luv,,,,35.5643749,-121.0955165,,,n_1485703426,shop=beauty
+"San Simeon, CA",,retail,445110,Cookie Crock Market,"1240 Knollwood Drive, 93428",,https://www.cookiecrock.com/,35.5631923,-121.0919261,,,n_2169219434,shop=supermarket
+"San Simeon, CA",,retail,445310,Paul's Liquor,,,,35.448713,-120.904502,,,n_2528611423,shop=alcohol
+"San Simeon, CA",,retail,445310,Moonstone Cellars,,,,35.5670128,-121.099192,,,n_2986566636,shop=wine
+"San Simeon, CA",,retail,446120,Lucia Apothecary,,,,35.5674031,-121.100545,,,n_3012998524,shop=cosmetics
+"San Simeon, CA",,retail,445310,Cambria Ale House,,,,35.563531,-121.0839937,,,n_3069262340,shop=alcohol
+"San Simeon, CA",,retail,445310,Wise Owl and Co.,,,,35.5630113,-121.0829084,,,n_3071010048,shop=wine
+"San Simeon, CA",,retail,445292,Sweet Confectionery Offerings,,,,35.562918,-121.0821335,,,n_3091538478,shop=confectionery
+"San Simeon, CA",,retail,445292,Kelli's Candies,,,,35.3654866,-120.8533631,,,n_3279396861,shop=confectionery
+"San Simeon, CA",,retail,445210,J&R Natural Meat,,,,35.5417531,-120.7148077,,,n_3438364676,shop=butcher
+"San Simeon, CA",,retail,445310,Carmody McKnight Estate Winery,,,https://carmodymcknight.com/,35.6550168,-120.8945629,,,n_3885332913,shop=wine
+"San Simeon, CA",,retail,445310,Twin Coyotes Winery,,,,35.56334,-121.0845579,,,n_3982930904,shop=wine
+"San Simeon, CA",,retail,445310,Brochelle Vineyards Westside,6996 Peachy Canyon Road,,https://brochelle.com/,35.5934714,-120.8205349,,,n_4477277913,shop=wine
+"San Simeon, CA",,retail,445310,Moonstone Cellars,812 Cornwall Street,,,35.5672003,-121.0990071,,,n_4660447713,shop=wine
+"San Simeon, CA",,retail,445120,MiniMart,,,,35.7814505,-121.3299828,,,n_4744364988,shop=convenience
+"San Simeon, CA",,retail,445310,Ale House Brewing,,,,35.5478295,-120.7070849,,,n_5968119968,shop=beverages
+"San Simeon, CA",,retail,445120,Gorda General Store,,,,35.8766156,-121.4461452,,,n_6344833297,shop=convenience
+"San Simeon, CA",,retail,445210,,,,,35.7412704,-120.8762972,,,n_9343965581,shop=butcher
+"San Simeon, CA",,retail,445120,Mini mart,,,,35.6143081,-121.1455626,,,n_12823875473,shop=convenience
+"San Simeon, CA",,retail,445310,,9339 Adelaida Road,,https://www.tablascreek.com/,35.6365137,-120.8596421,,,w_132901496,shop=wine
+"San Simeon, CA",,retail,446120,Monarch Moon Spa,330 Morro Bay Boulevard,,,35.3657128,-120.8495441,,,w_163126132,shop=beauty
+"San Simeon, CA",,retail,453991,Tobacco Plus,385 Morro Bay Boulevard,+1-805-772-1172,,35.366303,-120.8490895,,,w_163126140,shop=tobacco
+"San Simeon, CA",,retail,446120,Holistic Movement Center,"845 Napa Avenue, Morro Bay, CA, 93442",,,35.3663696,-120.8479412,,,w_163129962,shop=beauty
+"San Simeon, CA",,retail,445230,Sunshine Health Foods,415 Morro Bay Boulevard,+1-805-772-7873,https://sunshinemorrobay.com/,35.366138,-120.8485361,,,w_163129976,shop=greengrocer
+"San Simeon, CA",,retail,452319,Dollar Tree,710 Quintana Road,,https://www.dollartree.com/locations/ca/morro-bay/3246/,35.3689154,-120.8442286,,,w_163131837,"shop=variety_store, brand=Dollar Tree"
+"San Simeon, CA",,retail,446120,Serenity by the Sea,545 Main Street,+1-805-772-7333,https://serenitymorrobay.com/,35.3628412,-120.8502934,,,w_163743755,shop=beauty
+"San Simeon, CA",,retail,445310,Venteux Vineyards,1795 Las Tablas Road,+1-805-369-0127,https://www.venteuxvineyards.com/,35.5552686,-120.7349099,,,w_163759431,shop=wine
+"San Simeon, CA",,retail,445120,Sinclair,940 Morro Bay Boulevard,,,35.3661451,-120.8410178,,,w_164765909,"shop=convenience, amenity=fuel, brand=Sinclair"
+"San Simeon, CA",,retail,445120,,900 Morro Bay Boulevard,,,35.3657503,-120.8416987,,,w_164765910,shop=convenience
+"San Simeon, CA",,retail,445120,ampm,940 Morro Bay Boulevard,,,35.3658498,-120.8409042,,,w_164765913,"shop=convenience, brand=ampm"
+"San Simeon, CA",,retail,445120,Mobil Mart,911 Morro Bay Boulevard,,,35.3666108,-120.8417257,,,w_164842860,"shop=convenience, brand=Mobil Mart"
+"San Simeon, CA",,retail,445310,,396 Highway 41 West,,,35.3803245,-120.8539271,,,w_164963762,shop=alcohol
+"San Simeon, CA",,retail,445110,Oak Hill Market,2150A Heritage Loop Road,,,35.7414099,-120.8763757,,,w_165466468,shop=supermarket
+"San Simeon, CA",,retail,445110,Spencer's Fresh Market,2650 Main Street,,,35.3899509,-120.8572477,,,w_166142420,shop=supermarket
+"San Simeon, CA",,retail,445310,Del Mar Liquor & Deli,2864 Main Street,,,35.3931736,-120.8597336,,,w_166498685,shop=alcohol
+"San Simeon, CA",,retail,445110,Trader Joe's,"1111 Rossi Road, Templeton, CA, 93465",+1 805-434-9562,https://locations.traderjoes.com/ca/templeton/211/,35.5419657,-120.7151388,,,w_172089723,"shop=supermarket, brand=Trader Joe's"
+"San Simeon, CA",,retail,445310,SummerWood Winery,2175 Arbor Road,,http://www.summerwoodwine.com/,35.5841742,-120.7152251,,,w_175348579,shop=wine
+"San Simeon, CA",,retail,445310,Mondo Cellars,"Nacimiento Lake Drive, Paso Robles",,,35.6838492,-120.753405,,,w_177200651,shop=wine
+"San Simeon, CA",,retail,445310,Chronic Cellars,2020 Nacimiento Lake Drive,,https://www.chroniccellars.com/,35.6744494,-120.7302273,,,w_177203335,shop=wine
+"San Simeon, CA",,retail,445310,Rabbit Ridge,1425 San Marcos Road,+1-805-467-3331,https://www.rabbitridgewinery.com/,35.7026761,-120.718384,,,w_177207935,shop=wine
+"San Simeon, CA",,retail,445310,McPrice Myers,3525 Adelaida Road,,https://www.mcpricemyers.com/,35.6556521,-120.7576954,,,w_177352665,shop=wine
+"San Simeon, CA",,retail,445310,Lone Madrone,5800 Adelaida Road,,https://www.lonemadrone.com/,35.6500485,-120.7966884,,,w_177359660,shop=wine
+"San Simeon, CA",,retail,445310,Nadeau Family Vintners,3860 Peachy Canyon Road,,https://nadeaufamilyvintners.com/,35.6285541,-120.7656685,,,w_177359705,shop=wine
+"San Simeon, CA",,retail,445310,Minassian-Young Vineyards,4045 Peachy Canyon Road,,https://www.m-yv.com/,35.6247923,-120.7649622,,,w_177367231,shop=wine
+"San Simeon, CA",,retail,445310,San Simeon Liquor,431 Pico Avenue,,,35.6154492,-121.1464278,,,w_179833847,shop=beverages
+"San Simeon, CA",,retail,445310,Hearst Ranch Winery,,,,35.6436205,-121.1916748,,,w_179854733,shop=wine
+"San Simeon, CA",,retail,445310,Treana & Hope Family Wines,1585 Live Oak Road,,https://www.hopefamilywines.com/treana/,35.58793,-120.7211424,,,w_191608012,shop=wine
+"San Simeon, CA",,retail,445310,Fratelli Perata,1595 Arbor Road,,https://fratelliperata.com/,35.5933507,-120.7161055,,,w_191610512,shop=wine
+"San Simeon, CA",,retail,445310,Castoro Cellars,1315 N Bethel Road,+1-805-238-0725,https://www.castorocellars.com,35.5773017,-120.7231509,,,w_191620826,shop=wine
+"San Simeon, CA",,retail,445310,Tooth & Nail Winery,3090 Anderson Road,,http://www.toothandnailwinery.com/,35.5761781,-120.7327103,,,w_191620869,shop=wine
+"San Simeon, CA",,retail,445310,Turley Wine Cellars,2900 Vineyard Drive,,http://www.turleywinecellars.com/,35.5536106,-120.7515755,,,w_191768394,shop=wine
+"San Simeon, CA",,retail,445310,,3235 Oakdale Road,,,35.5653372,-120.7527829,,,w_191768433,shop=wine
+"San Simeon, CA",,retail,445310,PasoPort / Per Cazo Cellars,95 Booker Road,,https://www.pasoportwine.com/,35.5617748,-120.7400234,,,w_191768474,shop=wine
+"San Simeon, CA",,retail,445310,Croad Vineyards,3550 Vinedo Robles Lane,,https://www.croadvineyards.com/,35.5586879,-120.7588643,,,w_191768479,shop=wine
+"San Simeon, CA",,retail,445310,Oso Libre Winery,7383 Vineyard Drive,,http://www.osolibre.com/#welcome,35.5954928,-120.8326634,,,w_204598699,shop=wine
+"San Simeon, CA",,retail,445310,,11680 Chimney Rock Road,,,35.6549847,-120.9008578,,,w_211184290,shop=wine
+"San Simeon, CA",,retail,445310,,2400 Highway 46 West,,https://www.ninerwine.com/,35.5701642,-120.7419105,,,w_211191557,shop=wine
+"San Simeon, CA",,retail,445310,Thacher Winery,8355 Vineyard Drive,,https://www.thacherwinery.com/,35.609879,-120.8446771,,,w_211195276,shop=wine
+"San Simeon, CA",,retail,445310,,3030 Vineyard Drive,,,35.5563677,-120.7639949,,,w_211196956,shop=wine
+"San Simeon, CA",,retail,445310,Kaleidos,3770 Willow Creek Road,,http://www.kaleidoswine.com/,35.5620176,-120.7709417,,,w_211197016,shop=wine
+"San Simeon, CA",,retail,445310,TH Estate Wines,870 Arbor Road,,http://www.thestatewines.com/,35.6044518,-120.7165154,,,w_212765599,shop=wine
+"San Simeon, CA",,retail,445310,Ecluse Wines,1520 Kiler Canyon Road,,https://www.eclusewines.com/,35.6099615,-120.7183305,,,w_212765604,shop=wine
+"San Simeon, CA",,retail,445310,Opolo Vineyards,7110 Vineyard Drive,,https://www.opolo.com/,35.5918374,-120.8157616,,,w_212772985,shop=wine
+"San Simeon, CA",,retail,445310,Jada Vineyard & Winery,5620 Vineyard Drive,,http://jadavineyard.com/#all-estate,35.5809987,-120.79694,,,w_213901907,shop=wine
+"San Simeon, CA",,retail,445310,Villa Creek Cellars,5995 Peachy Canyon Road,,http://www.villacreekwine.com/,35.6146009,-120.7995581,,,w_215117470,shop=wine
+"San Simeon, CA",,retail,445310,Le Cuvier Winery,3333 Vine Hill Lane,,http://www.lcwine.com/,35.6514265,-120.7322402,,,w_215128428,shop=wine
+"San Simeon, CA",,retail,445310,Michael Gill Cellars,4125 Peachy Canyon Road,+1-805-239-1668,https://gillcellars.com/,35.6248039,-120.7688894,,,w_229737115,shop=wine
+"San Simeon, CA",,retail,445310,Windward Vineyard,1380 Live Oak Road,,,35.5894382,-120.7151909,,,w_234725335,shop=wine
+"San Simeon, CA",,retail,452319,Lockwood Store and Diner,,,,35.9371383,-121.0825083,,,w_270521717,"shop=general, amenity=cafe"
+"San Simeon, CA",,retail,445310,Peachy Canyon Winery,1480 N Bethel Road,,https://www.peachycanyon.com/,35.5798724,-120.7188685,,,w_278354841,shop=wine
+"San Simeon, CA",,retail,445310,The Farm Winery,10920 Chimney Rock Road,,https://www.thefarmwinery.com/,35.661437,-120.8908299,,,w_283648504,shop=wine
+"San Simeon, CA",,retail,445310,Harmony Cellars,,,https://www.harmonycellars.com/,35.5088186,-121.0198759,,,w_317759981,shop=wine
+"San Simeon, CA",,retail,445292,Crill's Saltwater Taffy,1247 Embarcadero Road,,,35.3709497,-120.8575359,,,w_317983443,shop=confectionery
+"San Simeon, CA",,retail,446120,Catch a Wave Beauty Salon,520 Quintana Road,,,35.3694163,-120.845718,,,w_318439106,shop=beauty
+"San Simeon, CA",,retail,453991,Morro Bay Cigarettes,640 Quintana Road,+1-805-772-1920,,35.3687386,-120.8448359,,,w_318457584,shop=tobacco
+"San Simeon, CA",,retail,446120,Morro Nails,650 Quintana Road,,,35.3687088,-120.8447839,,,w_318457585,shop=beauty
+"San Simeon, CA",,retail,452319,Farmer's Kites and Surreys,1108 Front Avenue,,,35.3689133,-120.8540194,,,w_318655758,shop=variety_store
+"San Simeon, CA",,retail,445292,Crills II,901 Embarcadero Road,,,35.3670043,-120.8537975,,,w_319621773,shop=confectionery
+"San Simeon, CA",,retail,445210,Morro Bay Butcher & Deli,911 Main Street,,,35.3670225,-120.8502496,,,w_319650588,shop=butcher
+"San Simeon, CA",,retail,453110,Harbor Floral,"868 Napa Avenue, Morro Bay, CA, 93442",,,35.3664465,-120.8475131,,,w_319786448,shop=florist
+"San Simeon, CA",,retail,445110,Albertsons,"730 Quintana Road, Morro Bay, CA, 93442",+1 805-772-0670,https://local.albertsons.com/ca/morro-bay/730-quintana-rd.html,35.3674989,-120.8444384,,,w_320121809,"shop=supermarket, brand=Albertsons"
+"San Simeon, CA",,retail,445120,Chevron,701 Las Tablas Road,,,35.5540502,-120.7106698,,,w_812805151,"shop=convenience, brand=Chevron"
+"San Simeon, CA",,retail,445292,Cayucos Candy Counter,"75 Cayucos Drive, Cayucos, CA, 93430",,,35.4493734,-120.9061878,,,w_1258454993,shop=confectionery
+"San Simeon, CA",,retail,446120,Mical Skincare,"95 Cayucos Drive, Cayucos, CA, 93430",,,35.4494816,-120.9061664,,,w_1258454994,shop=beauty
+"San Simeon, CA",,retail,445120,Pleyto Store,"70210 Jolon Rd, Bradley, CA, 93426",831-241-1532,,35.9051384,-120.9857482,,,w_1304880152,shop=convenience

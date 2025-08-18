@@ -1,0 +1,29 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Ridgecrest, CA",,retail,445110,Stater Bros.,"800 North China Lake Boulevard, Ridgecrest, CA, 93555",+1 760-375-5557,https://www.staterbros.com/stores/109,35.6350987,-117.6679394,,,n_813634432,"shop=supermarket, brand=Stater Bros."
+"Ridgecrest, CA",,retail,445120,,,,,35.6046899,-117.674297,,,n_983913335,"shop=convenience, amenity=fuel, brand=Albertsons"
+"Ridgecrest, CA",,retail,445110,Albertsons,"1301 North Norma Street, Ridgecrest, CA, 93555-2508",+1 760-446-2544,https://local.albertsons.com/ca/ridgecrest/1301-n-norma-st.html,35.6449202,-117.679369,,,n_1813316535,"shop=supermarket, brand=Albertsons, operator=Albertsons Companies Inc."
+"Ridgecrest, CA",,retail,445120,1-Stop Market,,,,35.648123,-117.6701477,,,n_1813316569,shop=convenience
+"Ridgecrest, CA",,retail,452210,Marshalls,,,,35.6335072,-117.6683788,,,n_3567352434,"shop=department_store, brand=Marshalls"
+"Ridgecrest, CA",,retail,445210,Tender Cut Meats,"1111 West Graaf Avenue, Ridgecrest, CA, 93555",(760) 446-1090,,35.6476998,-117.6927272,,,n_3567352445,shop=butcher
+"Ridgecrest, CA",,retail,445310,Lucky Liquor,"829 West Inyokern Road, Ridgecrest, CA, 93555",,,35.6513759,-117.6870723,,,n_3567352446,shop=alcohol
+"Ridgecrest, CA",,retail,452319,Family Dollar,,,,35.7586496,-117.3758092,,,n_5802388254,"shop=variety_store, brand=Family Dollar"
+"Ridgecrest, CA",,retail,445120,The Barn,,,,35.6505819,-117.6701471,,,n_6592323380,shop=convenience
+"Ridgecrest, CA",,retail,445110,Pioneer Point Market,,,,35.7886198,-117.3612436,,,n_7123569047,shop=supermarket
+"Ridgecrest, CA",,retail,446120,Luxury Nails,,,,35.6347733,-117.6693281,,,n_9530664802,shop=beauty
+"Ridgecrest, CA",,retail,445120,Food Mart,,,,35.5942313,-117.6889477,,,n_10019790100,shop=convenience
+"Ridgecrest, CA",,retail,445120,Kwik Serv,,,,35.7558111,-117.3821576,,,n_11668458677,shop=convenience
+"Ridgecrest, CA",,retail,445120,,,,,35.7560876,-117.3814223,,,n_11668458695,shop=convenience
+"Ridgecrest, CA",,retail,452319,Dollar General,,,,35.637451,-117.679991,,,n_12098093580,"shop=variety_store, brand=Dollar General"
+"Ridgecrest, CA",,retail,446120,,,,,35.6337986,-117.6702452,,,n_12098225724,shop=beauty
+"Ridgecrest, CA",,retail,445120,Kwik Serve,"1400 North Norma Street, Ridgecrest, CA, 93555",+1-760-446-6223,,35.6469359,-117.6783191,,,n_12101389707,shop=convenience
+"Ridgecrest, CA",,retail,445120,Orient Outlet,,,,35.636085,-117.6703034,,,n_12488908613,shop=convenience
+"Ridgecrest, CA",,retail,445120,Shell,,,,35.7986973,-117.871905,,,w_913341964,"shop=convenience, brand=Shell"
+"Ridgecrest, CA",,retail,445110,Albertsons,"927 South China Lake Boulevard, Ridgecrest, CA, 93555",+1 760-384-4015,https://local.albertsons.com/ca/ridgecrest/927-s-china-lake-blvd.html,35.6057388,-117.6746236,,,w_1067037605,"shop=supermarket, brand=Albertsons"
+"Ridgecrest, CA",,retail,445110,Walmart Supercenter,"201 East Bowman Road, Ridgecrest, CA, 93555",+1 760-371-4974,https://www.walmart.com/store/1600-ridgecrest-ca,35.6066318,-117.6669751,,,w_1067037606,"shop=supermarket, brand=Walmart"
+"Ridgecrest, CA",,retail,446110,Rite Aid,"101 North China Lake Boulevard, Ridgecrest, CA, 93555",,https://www.riteaid.com/locations/ca/ridgecrest/101-north-china-lake-blvd.html,35.6230003,-117.6705059,,,w_1080658064,"shop=chemist, brand=Rite Aid"
+"Ridgecrest, CA",,retail,446110,Walgreens,"101 Drummond Avenue, Ridgecrest, CA, 93555",,https://www.walgreens.com/locator/walgreens-101+drummond+ave-ridgecrest-ca-93555/id=9030,35.6366478,-117.6706291,,,w_1080658103,"shop=chemist, brand=Walgreens"
+"Ridgecrest, CA",,retail,445120,,,,,35.6479412,-117.809826,,,w_1084316182,shop=convenience
+"Ridgecrest, CA",,retail,445120,,,,,35.6148615,-117.6873377,,,w_1085001644,shop=convenience
+"Ridgecrest, CA",,retail,452319,Dollar Tree,"100 North China Lake Boulevard, Ridgecrest, CA, 93555",,https://www.dollartree.com/locations/ca/ridgecrest/2177/,35.6228781,-117.6680561,,,w_1127676012,"shop=variety_store, brand=Dollar Tree"
+"Ridgecrest, CA",,retail,445110,Grocery Outlet,"120 North China Lake Boulevard, Ridgecrest, CA, 93555",,https://www.groceryoutlet.com/store-locator?store_location=ridgecrest,35.6234242,-117.6680775,,,w_1127676013,"shop=supermarket, brand=Grocery Outlet"
+"Ridgecrest, CA",,retail,452319,Randsburg General Store,"35 Butte Avenue, Randsburg, CA, 93554",,http://www.randsburg.com/text/mail.html,35.367975,-117.6562614,,,w_1212669621,shop=general

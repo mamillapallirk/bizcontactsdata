@@ -1,0 +1,15 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Old Station, CA",,retail,452319,,,,,40.5308106,-121.5622266,,,n_3141246929,shop=general
+"Old Station, CA",,retail,445110,Ray's Food Place,,,,41.0275532,-121.4223949,,,n_9550208955,"shop=supermarket, brand=Ray's Food Place"
+"Old Station, CA",,retail,452319,Gordon's Rim Rock Ranch Store,,,https://www.gordonsrimrockranch.com/,40.6745654,-121.4332981,,,n_10019163098,shop=general
+"Old Station, CA",,retail,452319,The Village Mercantile,,,,40.3603511,-121.4940211,,,n_11208474948,shop=general
+"Old Station, CA",,retail,445120,Sportman's Liquor Mini-mart,,,,41.0073249,-121.4369593,,,n_11380235166,shop=convenience
+"Old Station, CA",,retail,445120,KOA Camp Store,,,,40.7408935,-121.4692693,,,n_12918135186,"shop=convenience, operator=KOA"
+"Old Station, CA",,retail,445110,Safeway,"37264 Main Street, Burney, CA, 96013",+1 530-335-3212,https://local.safeway.com/safeway/ca/burney/37264-main-st.html,40.8843726,-121.6592649,,,w_107938010,"shop=supermarket, brand=Safeway, operator=Safeway Inc"
+"Old Station, CA",,retail,445120,Old Station Fill-Up Mini Mart,,,,40.677678,-121.4266478,,,w_223631972,shop=convenience
+"Old Station, CA",,retail,446110,Rite Aid,"37435 Main Street, Burney, CA, 96013",,https://www.riteaid.com/locations/ca/burney/37435-main-street.html,40.8886442,-121.6530044,,,w_223947438,"shop=chemist, brand=Rite Aid"
+"Old Station, CA",,retail,445120,Mineral Grocery,"18968 Husky Way, Mineral, CA",,,40.3480837,-121.5964551,,,w_403079459,shop=convenience
+"Old Station, CA",,retail,445110,Grocery Outlet,,,,40.8900378,-121.6523552,,,w_507825231,"shop=supermarket, brand=Grocery Outlet"
+"Old Station, CA",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ca/fall-river-mills/16240,41.03045,-121.419909,,,w_854057965,"shop=variety_store, brand=Dollar General"
+"Old Station, CA",,retail,452319,Pot Luck Trading Post,,,,40.8820294,-121.6712117,,,w_1037242943,shop=general
+"Old Station, CA",,retail,453991,Smoke Shop,,,,40.8821119,-121.6687333,,,w_1392906649,shop=tobacco

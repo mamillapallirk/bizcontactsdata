@@ -1,0 +1,154 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Goleta, CA",,retail,445120,The Store at Buchanan,,,,34.4156123,-119.8446974,,,n_448803339,shop=convenience
+"Goleta, CA",,retail,445120,UCSB Campus Store,,+1 (805) 893-8321,https://campusstore.ucsb.edu/home,34.4117597,-119.8482593,,,n_448863568,shop=convenience
+"Goleta, CA",,retail,445120,The Corner Store,,+1 (805) 893-4593,,34.411781,-119.8478257,,,n_451025875,shop=convenience
+"Goleta, CA",,retail,445110,Lazy Acres,"302 Meigs Road, Santa Barbara, CA, 93109",+1 (805) 564-4410,https://www.lazyacres.com/find-a-store/santa-barbara,34.4002857,-119.7216572,,,n_467861362,"shop=supermarket, brand=Lazy Acres Market"
+"Goleta, CA",,retail,445110,Vons,"2010 Cliff Drive, Santa Barbara, CA, 93109",+1 805-966-5011,https://local.vons.com/ca/santa-barbara/2010-cliff-dr.html,34.4025023,-119.723794,,,n_467874261,"shop=supermarket, brand=Vons"
+"Goleta, CA",,retail,445110,Nielsen's,,,,34.6001435,-120.1268783,,,n_530754630,shop=supermarket
+"Goleta, CA",,retail,445110,Ralphs,"5170 Hollister Avenue, Goleta, CA, 93111",+1 (805) 692-0022,https://www.ralphs.com/stores/grocery/ca/goleta/goleta/703/00010,34.4359096,-119.803846,,,n_648508441,"shop=supermarket, brand=Ralphs"
+"Goleta, CA",,retail,445110,Indo China Market,"6831 Hollister Avenue, Goleta, 93117",,,34.4296881,-119.8670757,,,n_648613536,shop=supermarket
+"Goleta, CA",,retail,445110,Trader Joe's,"3025 De La Vina Street, Santa Barbara, CA, 93105",+1-805-563-7383,https://locations.traderjoes.com/ca/santa-barbara/183/,34.4389102,-119.728945,,,n_671782461,"shop=supermarket, brand=Trader Joe's"
+"Goleta, CA",,retail,445110,Albertsons,"1018 Casitas Pass Road, Carpinteria, CA, 93013",+1 805-684-4815,https://local.albertsons.com/ca/carpinteria/1018-casitas-pass-rd.html,34.3949057,-119.5119971,,,n_775205719,"shop=supermarket, brand=Albertsons"
+"Goleta, CA",,retail,445110,Albertsons,"5811 Calle Real, Goleta, CA, 93117",+1-805-964-2318,https://local.albertsons.com/ca/goleta/5801-calle-real.html,34.4407952,-119.826197,,,n_1348747767,"shop=supermarket, brand=Albertsons"
+"Goleta, CA",,retail,445110,Trader Joe's,"5767 Calle Real, Goleta, CA, 93117",+1 805-692-2234,https://locations.traderjoes.com/ca/goleta/110/,34.4407421,-119.8250202,,,n_1348747780,"shop=supermarket, brand=Trader Joe's"
+"Goleta, CA",,retail,446120,Minh Ly's Nails,"5120 Hollister Avenue, Santa Barbara, CA, 93111",,,34.4356917,-119.8028919,,,n_1469691011,shop=beauty
+"Goleta, CA",,retail,445110,Lassens Natural Foods & Vitamins,"5154 Hollister Avenue, Santa Barbara, CA, 93111",+1 (805) 683-7696,https://www.lassens.com/stores/lassens-santa-barbara/,34.4367215,-119.803473,,,n_1469734576,"shop=supermarket, brand=Lassens"
+"Goleta, CA",,retail,445120,Cielo Store,,,,34.5117047,-119.8227506,,,n_1478446826,shop=convenience
+"Goleta, CA",,retail,445292,Lokum,"1019 State Street, Santa Barbara, 93101",+1 (805) 324-3067,https://lokumsb.com/,34.4218488,-119.702642,,,n_1521699550,"shop=confectionery, amenity=cafe"
+"Goleta, CA",,retail,445110,Gelson's,"3305 State Street, 93105",+1 805-687-5810,https://www.gelsons.com/stores/santa-barbara,34.439347,-119.735372,,,n_1656456682,"shop=supermarket, brand=Gelson's"
+"Goleta, CA",,retail,445230,Downtown Market,1533 State Street,(805) 456-6936,https://cantwellsmarket.com/,34.4268139,-119.7094893,,,n_1858239861,"shop=greengrocer, operator=Isla Vista Food Co-op"
+"Goleta, CA",,retail,445110,Whole Foods Market,"3761 State Street, Santa Barbara, CA, 93105",+1 (805) 837-6959,https://www.wholefoodsmarket.com/stores/santabarbara,34.4394341,-119.7452961,,,n_2423520776,"shop=supermarket, brand=Whole Foods Market"
+"Goleta, CA",,retail,445120,Riviera Market,"416 East Micheltorena Street, Santa Barbara, CA, 93101",,,34.430767,-119.703209,,,n_2495673040,shop=convenience
+"Goleta, CA",,retail,453110,Victor the Florist,"135 East Anapamu Street, Santa Barbara, CA, 93101",,,34.425474,-119.702372,,,n_2495727016,shop=florist
+"Goleta, CA",,retail,446120,1329 Salon & Spa,"1329 State Street, Santa Barbara, CA, 93101",+1 (805) 845-2525,https://1329salon.com/,34.4248819,-119.7067828,,,n_2509930212,shop=beauty
+"Goleta, CA",,retail,445292,Zuzu Candies,"32 West Anapamu Street, Santa Barbara, CA, 93101",,,34.422582,-119.7054933,,,n_2509930264,shop=confectionery
+"Goleta, CA",,retail,452210,Ross,"7055 Marketplace Drive, Goleta, CA, 93117",+1 805-968-3510,https://www.rossstores.com/,34.4275413,-119.8731328,,,n_3464726755,"shop=department_store, brand=Ross"
+"Goleta, CA",,retail,446120,Lovely Spa & Nails,"7127 Hollister Avenue, Goleta, 93117",+1-805-280-5052,,34.4284972,-119.8766303,,,n_3628098468,shop=beauty
+"Goleta, CA",,retail,445120,Harbor Snack Shack,,,,34.4078423,-119.692591,,,n_4362555827,"shop=convenience, amenity=fast_food"
+"Goleta, CA",,retail,445310,JJ's Liquor,,,,34.4107033,-119.6979299,,,n_4631022201,shop=alcohol
+"Goleta, CA",,retail,445110,Smart & Final,"217 East Gutierrez Street, Santa Barbara, CA, 93101",,,34.4188449,-119.69231,,,n_5330411056,"shop=supermarket, brand=Smart & Final"
+"Goleta, CA",,retail,445310,Santa Barbara Wine Collective,"131 Anacapa Street, Santa Barbara, CA, 93101",+1 (805) 456-2700,https://www.santabarbarawinecollective.com/,34.4144546,-119.6906741,,,n_5331977679,"shop=wine, amenity=restaurant"
+"Goleta, CA",,retail,445110,Grocery Outlet,"2840 De La Vina Street, Santa Barbara, CA, 93105",+1-805-324-5124,https://www.groceryoutlet.com/circulars/storeid/326,34.4375083,-119.7261472,,,n_5421803124,"shop=supermarket, brand=Grocery Outlet, operator=Mike & Renee Callagy"
+"Goleta, CA",,retail,446120,Nu-Image Nails & Spa,"617 State Street, Santa Barbara, CA, 93101",+1 (805) 965-5552,,34.4180593,-119.6974732,,,n_5738074723,shop=beauty
+"Goleta, CA",,retail,445310,Melville Winery,120 State Street,,https://melvillewinery.com/,34.413622,-119.6908582,,,n_5738074724,shop=wine
+"Goleta, CA",,retail,445110,Pierre Lafond,,,,34.4374967,-119.6316755,,,n_5738074835,shop=supermarket
+"Goleta, CA",,retail,446120,Yani Skin Care Santa Barbara,"221 State Street, Santa Barbara, CA, 93101",+1-805-883-6266,http://yaniskincaresantabarbara.com/,34.4287903,-119.7139336,,,n_5822619564,shop=beauty
+"Goleta, CA",,retail,445310,Riverbench Winery,"137 Anacapa Street, Santa Barbara, CA, 93101",+1 (805) 324-4100,https://www.riverbench.com/,34.4147495,-119.6906344,,,n_5939697469,shop=wine
+"Goleta, CA",,retail,445310,Les Marchands Wine,"131 Anacapa Street, Santa Barbara, 93101",+1-805-284-0380,http://lesmarchandswine.com,34.4145078,-119.6906241,,,n_5939697470,shop=wine
+"Goleta, CA",,retail,445310,Area 5.1,"137 Anacapa Street, Santa Barbara, 93101",+1-805-770-7251,https://www.a51wine.com/,34.4148021,-119.6905756,,,n_5939697474,shop=wine
+"Goleta, CA",,retail,445310,Cheer's Liquor,"7320 Hollister Avenue, Goleta, 93117",,,34.4303872,-119.8823699,,,n_6031493144,shop=alcohol
+"Goleta, CA",,retail,446120,Polished Nail Spa,"7060 Hollister Avenue, Goleta, CA, 93117",+1-805-845-8668,,34.4311362,-119.874114,,,n_6031493365,shop=beauty
+"Goleta, CA",,retail,445310,BevMo!,"7070 Marketplace Drive, Goleta, CA, 93117",,,34.4297187,-119.8738688,,,n_6038093273,"shop=alcohol, brand=BevMo!"
+"Goleta, CA",,retail,446120,Ulta Beauty,"7000 Marketplace Drive, Goleta, CA, 93117",+1 805-685-2060,https://www.ulta.com/stores/goleta-ca-547,34.4295204,-119.87183,,,n_6038093279,"shop=cosmetics, brand=Ulta Beauty"
+"Goleta, CA",,retail,446120,Little Rainbow Foot Spa,"290 Storke Road, Goleta, 93117",+1-805-685-7858,https://www.littlerainbowfootspas.com/goleta.html,34.4283612,-119.8692773,,,n_6038125937,shop=beauty
+"Goleta, CA",,retail,445310,Continental Liquor,"290 Storke Road, Goleta, 93117",+1-805-968-1568,,34.4283586,-119.8691099,,,n_6038125938,shop=alcohol
+"Goleta, CA",,retail,445110,Santa Cruz Market,"5757 Hollister Avenue, Goleta, 93117",+1 (805) 967-9510,https://santacruzmarkets.com/,34.43543,-119.825446,,,n_6070201013,shop=supermarket
+"Goleta, CA",,retail,445120,7-Eleven,"5342 Hollister Avenue, Santa Barbara, 93111",,,34.4353675,-119.810727,,,n_6070201081,"shop=convenience, brand=7-Eleven"
+"Goleta, CA",,retail,445310,Magnolia Liquors,"5110 Hollister Avenue, Santa Barbara, 93111",+1-805-967-5053,,34.4352851,-119.8028675,,,n_6070214926,shop=alcohol
+"Goleta, CA",,retail,445120,7-Eleven,"3430 State Street, Santa Barbara, CA, 93105",+1 805-687-3166,https://www.7-eleven.com/locations/ca/santa-barbara/3430-state-st-20338,34.440708,-119.737845,,,n_6070232599,"shop=convenience, brand=7-Eleven"
+"Goleta, CA",,retail,445120,7-Eleven,"4410 Via Real, Carpinteria, CA, 93013",,https://www.7-eleven.com/locations/ca/carpinteria/4410-via-real-23855,34.405223,-119.5296788,,,n_6070311202,"shop=convenience, brand=7-Eleven"
+"Goleta, CA",,retail,446120,Kim Nails & Spa,"179 South Turnpike Road, Santa Barbara, CA, 93111",+1-805-692-5393,,34.4375443,-119.7910187,,,n_6202482038,shop=beauty
+"Goleta, CA",,retail,446120,LaserAway,"5782 Calle Real, Goleta, CA, 93117",+1 (805) 229-2899,https://www.laseraway.com/locations/ca/santa-barbara/laser-hair-removal/,34.4416961,-119.825563,,,n_6401611931,"shop=beauty, brand=LaserAway"
+"Goleta, CA",,retail,445310,Los Olivos Tasting Room & Wine Shop,,,,34.6657512,-120.1151918,,,n_6486475787,"shop=wine, operator=Chris Benziger"
+"Goleta, CA",,retail,446120,Amy's Skin Care,"2928 De La Vina Street, Santa Barbara, CA, 93105",,,34.4381655,-119.7274689,,,n_6528447008,shop=cosmetics
+"Goleta, CA",,retail,445110,Sprouts Farmers Market,"175 North Fairview Avenue, Goleta, CA, 93117",+1 (805) 979-9589,https://www.sprouts.com/store/ca/goleta/n-fairview-ave/,34.4422916,-119.832381,,,n_6543754886,"shop=supermarket, brand=Sprouts Farmers Market"
+"Goleta, CA",,retail,445110,Trader Joe's,"222 North Milpas Street, Santa Barbara, CA, 93103",+1 805-560-1182,https://locations.traderjoes.com/ca/santa-barbara/59/,34.4249852,-119.681662,,,n_6545769185,"shop=supermarket, brand=Trader Joe's"
+"Goleta, CA",,retail,445110,Chapala Market,,,,34.4272928,-119.6870488,,,n_6545769186,shop=supermarket
+"Goleta, CA",,retail,452210,Ross,"3965 State Street, Santa Barbara, CA, 93105",+1 805-683-1174,,34.4384133,-119.7522997,,,n_6979706257,"shop=department_store, brand=Ross"
+"Goleta, CA",,retail,446120,SalonCentric,"Santa Barbara, CA",,,34.4388859,-119.7526437,,,n_6979706260,shop=cosmetics
+"Goleta, CA",,retail,445110,Smart & Final,,,,34.439133,-119.752984,,,n_6979706262,"shop=supermarket, brand=Smart & Final"
+"Goleta, CA",,retail,446120,European Wax Center,,,https://locations.waxcenter.com/ca/santabarbara/santa-barbara-five-points-0280.html,34.4394853,-119.7513015,,,n_6979706274,"shop=beauty, brand=European Wax Center"
+"Goleta, CA",,retail,446120,The B Boutique,"900 Embarcadero del Mar, Isla Vista, 93117",,http://www.thebboutiques.com/,34.4129939,-119.8567549,,,n_7090604661,shop=beauty
+"Goleta, CA",,retail,445292,Robitaille's Fine Candies,"900 Linden Avenue, Carpinteria, CA, 93013",,http://robitaillescandies.com/,34.3982434,-119.5189679,,,n_7729313451,shop=confectionery
+"Goleta, CA",,retail,446110,Rite Aid,"801 Linden Avenue, Carpinteria, CA, 93013",,,34.3978218,-119.520029,,,n_7729315221,"shop=chemist, brand=Rite Aid"
+"Goleta, CA",,retail,446120,Le Reve Organic Spa,"21 West Gutierrez Street, Santa Barbara, CA, 93101",+1-805-564-2977,https://le-reve.com/,34.4149448,-119.6946413,,,n_7849151055,shop=beauty
+"Goleta, CA",,retail,445110,Foodland Market,"1501 San Andres Street, Santa Barbara, CA",,,34.4187604,-119.716466,,,n_8023541085,shop=supermarket
+"Goleta, CA",,retail,445110,Tri-County Produce,335 Milpas St,805-965-4558,https://tcpsb.com,34.4185219,-119.6737289,,,n_8429627211,shop=supermarket
+"Goleta, CA",,retail,445110,Mesa Produce,"2036 Cliff Dr, Santa Barbara, CA, 93109",+1 (805) 962-1645,https://www.mesaproduce.com/contact/,34.4025192,-119.7249451,,,n_8429741866,shop=supermarket
+"Goleta, CA",,retail,445299,Cheese Shop Santa Barbara,"827 Santa Barbara Street, Santa Barbara, CA, 93101",+1 805-965-0318,https://www.cheeseshopsb.com/,34.4222999,-119.6980041,,,n_8443337339,shop=cheese
+"Goleta, CA",,retail,445110,Montecito Village Grocery,,,,34.4382103,-119.6337171,,,n_8530963675,shop=supermarket
+"Goleta, CA",,retail,445310,Apertivo Wine Bar,,,,34.4164695,-119.6957048,,,n_8789936317,shop=wine
+"Goleta, CA",,retail,445292,,1679 Copenhagen Drive,,,34.5948637,-120.1392124,,,n_8819136299,shop=chocolate
+"Goleta, CA",,retail,445110,Tino's Italian Grocery,"210 West Carrillo Street, 93101",+1 805-966-6041,https://www.tinositaliangrocery.com/,34.4192258,-119.7046102,,,n_8884016492,shop=supermarket
+"Goleta, CA",,retail,446120,Asia Warren Skin Care,,+1 805-722-0777,,34.4408015,-119.7283319,,,n_9061158949,shop=beauty
+"Goleta, CA",,retail,446120,Famous Nails,"6831 Hollister Avenue, 93117",,,34.4295772,-119.8670824,,,n_9289356551,shop=beauty
+"Goleta, CA",,retail,446110,Rite Aid,"1976 Cliff Drive, Santa Barbara, CA, 93109",+1 (805) 564-6599,https://www.riteaid.com/locations/ca/santa-barbara/1976-cliff-drive.html,34.40231,-119.7230407,,,n_9731575568,"shop=chemist, brand=Rite Aid"
+"Goleta, CA",,retail,445120,,,,,34.3980682,-119.5177821,,,n_9740416919,shop=convenience
+"Goleta, CA",,retail,445230,Pacific Health Foods,"944 Linden Avenue, Carpinteria, CA, 93013",,,34.3985092,-119.5186369,,,n_9740416921,shop=greengrocer
+"Goleta, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/santa-barbara-ca-pharmacies/1282-coast-village-rd-santa-barbara-ca-93108/storeid=9333,34.42171,-119.6409401,,,n_9747572513,"shop=chemist, brand=CVS Pharmacy"
+"Goleta, CA",,retail,452319,Dollar Tree,"175 North Fairview Avenue, Goleta, CA, 93117",+1 (805) 770-6515,https://www.dollartree.com/locations/ca/goleta/7714/,34.4420515,-119.832227,,,n_9762077684,"shop=variety_store, brand=Dollar Tree"
+"Goleta, CA",,retail,446120,Elegant Nail & Salon,"5915 Calle Real, Goleta, CA, 93117",+1 (805) 837-4402,https://www.elegantnailsandspagoleta.com/,34.4410532,-119.8283588,,,n_9764794731,shop=beauty
+"Goleta, CA",,retail,445310,Sunstone Winery,,,,34.586731,-120.1033268,,,n_9942446217,shop=wine
+"Goleta, CA",,retail,445120,Eagle Energy,,,,34.6191848,-120.1907238,,,n_10816629855,shop=convenience
+"Goleta, CA",,retail,452319,,,,,34.4654011,-120.0225764,,,n_11161991899,shop=general
+"Goleta, CA",,retail,445120,Harbor Market,,,,34.4037558,-119.6932114,,,n_11360621483,shop=convenience
+"Goleta, CA",,retail,445110,Sprouts Farmers Market,"29 South Milpas Street, Santa Barbara, CA, 93103",+1 805-837-0356,https://www.sprouts.com/store/ca/santa-barbara/santa-barbara/,34.4216866,-119.6778499,,,n_11651078059,"shop=supermarket, brand=Sprouts Farmer Market"
+"Goleta, CA",,retail,446110,CVS Pharmacy,,,,34.4225924,-119.7036864,,,n_11732314831,"shop=chemist, brand=CVS Pharmacy"
+"Goleta, CA",,retail,445120,7-Eleven,"700 State Street, Santa Barbara, CA, 93101",+1 805-570-6584,https://www.7-eleven.com/locations/ca/santa-barbara/700-state-st-38318,34.4188798,-119.6981324,,,n_11732422912,"shop=convenience, brand=7-Eleven"
+"Goleta, CA",,retail,446120,Bath & Body Works,"619 Paseo Nuevo, Santa Barbara, CA, 93101",+1 (805) 884-1801,https://www.bathandbodyworks.com/,34.418564,-119.6996035,,,n_11732422914,"shop=cosmetics, brand=Bath & Body Works"
+"Goleta, CA",,retail,446120,Aveda,"307 Paseo Nuevo, Santa Barbara, CA, 93101",+1 (805) 884-4646,https://www.aveda.com/locator/get_the_facts.tmpl?DOOR_ID=306809,34.4189263,-119.6999694,,,n_11732422917,"shop=cosmetics, brand=Aveda"
+"Goleta, CA",,retail,446120,SB Nail Bar,,,,34.4185649,-119.6977022,,,n_11732422935,shop=beauty
+"Goleta, CA",,retail,445310,State Street Beverages,"439 State Street, Santa Barbara, CA, 93101",,,34.4166428,-119.6955274,,,n_11732446879,shop=alcohol
+"Goleta, CA",,retail,445120,7-Eleven,"5810 Hollister Avenue, Goleta, CA, 93117-3624",+1 805-964-5681,https://www.7-eleven.com/locations/ca/goleta/5810-hollister-18823,34.4361697,-119.8269452,,,n_11899731859,"shop=convenience, brand=7-Eleven"
+"Goleta, CA",,retail,445292,See's Candies,"7044 Marketplace Drive, Goleta, CA, 93117",1-805-617-0885,https://chocolateshops.sees.com/ca/goleta/chocolate_shops_goleta_ca_la-133.html,34.4294423,-119.8730485,,,n_12020546087,"shop=confectionery, brand=See's Candies"
+"Goleta, CA",,retail,445110,Valley Fresh Market,,,,34.6001198,-120.1269741,,,n_12101225057,shop=supermarket
+"Goleta, CA",,retail,445310,Margerum Wine Company,,,,34.413585,-119.6901002,,,n_12277099454,shop=wine
+"Goleta, CA",,retail,445310,Kalyra Winery,,,https://www.kalyrawinery.com/,34.5937969,-120.1001465,,,n_12750548421,shop=beverages
+"Goleta, CA",,retail,453991,Cigar Lounge,,,,34.4160954,-119.6947818,,,n_12846317825,shop=tobacco
+"Goleta, CA",,retail,446120,bluemercury,"742 State Street, Santa Barbara, CA, 93101",+1 (805) 560-8740,https://stores.bluemercury.com/ca/santa-barbara/34930/,34.4197617,-119.6992913,,,n_12846421302,"shop=cosmetics, brand=bluemercury"
+"Goleta, CA",,retail,445120,Oak Park Market + Eatery,"403 West Pueblo Street, Santa Barbara, CA, 93105",,,34.4291857,-119.7231831,,,n_13070003097,"shop=convenience, amenity=cafe"
+"Goleta, CA",,retail,445310,SOS Liquor,"956 Embarcadero del Norte, Isla Vista, CA, 93117",+1-805-968-3565,https://www.facebook.com/Sos-liquor-1387718994889796/,34.4115362,-119.8551912,,,w_42752764,shop=alcohol
+"Goleta, CA",,retail,445120,Isla Vista Food Cooperative,"6575 Seville Road, Isla Vista, 93117",+1-805-968-1401,https://islavistafood.coop/,34.4115706,-119.8576738,,,w_42753934,shop=convenience
+"Goleta, CA",,retail,445310,KNB Market,"915 Embarcadero del Mar, Isla Vista, CA, 93117",+1 (805) 968-1316,https://kegnbottle.com/pages/location-santa-barbara/,34.4126662,-119.857279,,,w_42753963,shop=alcohol
+"Goleta, CA",,retail,453991,Vape & Cigar,"6580 Pardall Road, Isla Vista, 93117",+1-805-770-7105,,34.4132937,-119.8577286,,,w_42753971,shop=tobacco
+"Goleta, CA",,retail,452210,Target,"6865 Hollister Avenue, Goleta, CA, 93117",+1 805-979-3525,https://www.target.com/sl/goleta/2872,34.4285718,-119.8676104,,,w_50865980,"shop=department_store, brand=Target"
+"Goleta, CA",,retail,445110,Smart & Final,"850 Linden Avenue, Carpinteria, 93013",,https://locations.smartandfinal.com/ca/carpinteria/915/,34.3972476,-119.5187979,,,w_128850078,"shop=supermarket, brand=Smart & Final"
+"Goleta, CA",,retail,445110,Vons,"163 South Turnpike Road, Santa Barbara, CA, 93111",+1-805-681-7474,https://local.vons.com/ca/goleta/163-s-turnpike-rd.html,34.4377574,-119.7905589,,,w_131525336,"shop=supermarket, brand=Vons"
+"Goleta, CA",,retail,445110,Pavilions,"1040 Coast Village Road, Santa Barbara, 93108",+1-805-969-2112,https://local.pavilions.com/ca/montecito/1040-coast-village-rd.html,34.42268,-119.6510823,,,w_132686359,"shop=supermarket, brand=Pavilions, operator=Albertsons Companies Inc"
+"Goleta, CA",,retail,445110,Vons,"3855 State Street, 93105",,https://local.vons.com/ca/santa-barbara-2109.html,34.438452,-119.7494871,,,w_133125308,"shop=supermarket, brand=Vons"
+"Goleta, CA",,retail,445110,Cielo Store,"5396 East Camino Cielo, Santa Barbara, CA, 93105",,,34.511665,-119.8228032,,,w_134477768,shop=supermarket
+"Goleta, CA",,retail,445120,Mini Mart,,,,34.6110495,-120.1887463,,,w_142867212,shop=convenience
+"Goleta, CA",,retail,453110,Kaleidoscope Flowers,"1341 State Street, Santa Barbara, CA, 93101",+1-805-962-0032,https://www.kaleidoscopeflower.com/,34.4248667,-119.7069872,,,w_175192690,shop=florist
+"Goleta, CA",,retail,445120,The Arbor,,+1 (805) 893-4164,,34.4141516,-119.8465255,,,w_221404491,shop=convenience
+"Goleta, CA",,retail,445120,7-Eleven,"6545 Trigo Road, Isla Vista, CA, 93117",+1 805-968-0425,https://www.7-eleven.com/locations/ca/isla-vista/6545-trigo-rd-36772,34.4107425,-119.8559745,,,w_230291644,"shop=convenience, brand=7-Eleven"
+"Goleta, CA",,retail,452210,Macy's,"3805 State Street, Santa Barbara, 93105",,https://www.macys.com/stores/ca/santabarbara/la-cumbre-plaza_497.html,34.4393728,-119.7477777,,,w_233698183,"shop=department_store, brand=Macy's"
+"Goleta, CA",,retail,452210,Target,"3891 State Street, Santa Barbara, CA, 93105",+1 (805) 979-3115,https://www.target.com/sl/santa-barbara-galleria/3298,34.4400343,-119.750652,,,w_234048889,"shop=department_store, brand=Target"
+"Goleta, CA",,retail,445120,,"West Anapamu Street, Santa Barbara",,,34.420962,-119.7068569,,,w_234853491,shop=convenience
+"Goleta, CA",,retail,445110,Ralphs,"100 West Carrillo Street, Santa Barbara, CA, 93101",+1 805-564-7070,https://www.ralphs.com/stores/grocery/ca/santa-barbara/santa-barbara/703/00680,34.4200131,-119.7042225,,,w_234946362,"shop=supermarket, brand=Ralphs"
+"Goleta, CA",,retail,452210,Marshalls,"900 State Street, Santa Barbara, CA, 93101",+1 (805) 965-2433,https://www.marshalls.com/us/store/stores/Santa+Barbara-CA-93101/1116/aboutstore/,34.4209412,-119.700454,,,w_243609075,"shop=department_store, brand=Marshalls"
+"Goleta, CA",,retail,445120,7-Eleven,"1909 Cliff Drive, Santa Barbara, CA, 93109-1503",+1 805-965-7415,https://www.7-eleven.com/locations/ca/santa-barbara/1909-cliff-dr-13900,34.4012879,-119.7228084,,,w_244375239,"shop=convenience, brand=7-Eleven"
+"Goleta, CA",,retail,445120,The Point Market,"1929 Cliff Drive, Santa Barbara, CA, 93109",+1 (805) 898-9150,,34.4014014,-119.7234415,,,w_244375241,"shop=convenience, brand=The Point Market"
+"Goleta, CA",,retail,452319,Dollar Tree,,,,34.4166888,-119.6946654,,,w_245384857,"shop=variety_store, brand=Dollar Tree"
+"Goleta, CA",,retail,445110,Presidio Liquor Market and Deli,"1236 Santa Barbara Street, Santa Barbara, CA, 93101",,http://presidiomarketanddeli.com/,34.4264952,-119.7032057,,,w_378737276,shop=supermarket
+"Goleta, CA",,retail,452319,,,,,34.4596916,-120.0259724,,,w_453796945,shop=general
+"Goleta, CA",,retail,445120,7-Eleven,"331 West Montecito Street, Santa Barbara, CA, 93101",+1 805-962-5364,https://www.7-eleven.com/locations/ca/santa-barbara/331-west-montecito-18822,34.4107644,-119.696977,,,w_505832842,"shop=convenience, brand=7-Eleven"
+"Goleta, CA",,retail,445110,Santa Cruz Market,,,,34.4112401,-119.6973216,,,w_505832843,shop=supermarket
+"Goleta, CA",,retail,445120,Point Market,"2285 Lillie Avenue, Summerland, 93067",,,34.4214521,-119.6006254,,,w_519780307,shop=convenience
+"Goleta, CA",,retail,445120,Miramar Food Pantry,,,https://dining.ucsb.edu/miramar-food-pantry,34.4200824,-119.8710121,,,w_539925891,shop=convenience
+"Goleta, CA",,retail,446110,CVS Pharmacy,"7030 Hollister Avenue, Goleta, CA, 93117",+1-805-562-1480,https://www.cvs.com/store-locator/goleta-ca-pharmacies/7030-hollister-avenue-goleta-ca-93117/storeid=11216,34.4306785,-119.873037,,,w_550860978,"shop=chemist, brand=CVS Pharmacy"
+"Goleta, CA",,retail,446120,THE NailSpa,,,,34.4397421,-119.7705583,,,w_557512152,shop=beauty
+"Goleta, CA",,retail,446120,Noble Massage Spa,,,,34.4397191,-119.7706992,,,w_557512156,shop=beauty
+"Goleta, CA",,retail,445120,Tenaya Market & Eatery,,+1 805-893-8555,,34.4184867,-119.8694616,,,w_558190391,"shop=convenience, amenity=cafe"
+"Goleta, CA",,retail,445120,Snag Delivery,"913 Embarcadero del Norte, Isla Vista, CA, 93117",,https://snagdelivery.app/,34.4128103,-119.855609,,,w_558220099,shop=convenience
+"Goleta, CA",,retail,445120,ExtraMile,,,,34.4298319,-119.8692336,,,w_561820415,"shop=convenience, brand=ExtraMile"
+"Goleta, CA",,retail,446120,IV Beauty Lounge,"6547 Pardall Road, Isla Vista, CA, 93117",,,34.4129731,-119.8558391,,,w_565867041,shop=beauty
+"Goleta, CA",,retail,445120,Mobil Mart,"49 Glen Annie Road, Goleta, 93117",,,34.4350838,-119.872139,,,w_567357681,"shop=convenience, brand=Mobil Mart"
+"Goleta, CA",,retail,453991,Wild Side Smoke Shop,"6547 Pardall Road, Isla Vista, CA, 93117",+1-805-968-4488,,34.412973,-119.8558834,,,w_579709686,"shop=tobacco, product=bongs"
+"Goleta, CA",,retail,445310,Six Pak,"6580 Pardall Road, Isla Vista, 93117",+1-805-685-4541,,34.4133092,-119.8576307,,,w_579741591,shop=alcohol
+"Goleta, CA",,retail,445310,,,,,34.439695,-119.7713391,,,w_596603482,shop=alcohol
+"Goleta, CA",,retail,445120,Valero,"5661 Calle Real, Goleta, 93117",,,34.4408816,-119.8214866,,,w_606462493,"shop=convenience, brand=Valero"
+"Goleta, CA",,retail,445110,Albertsons,"7127 Hollister Avenue, Goleta, CA, 93117",+1 805-968-3558,https://local.albertsons.com/ca/goleta/7127-hollister-ave--27.html,34.4278402,-119.8764676,,,w_613661627,"shop=supermarket, brand=Albertsons"
+"Goleta, CA",,retail,445120,,"5648 Hollister Avenue, Goleta, 93117",,,34.4359895,-119.8220545,,,w_622589417,shop=convenience
+"Goleta, CA",,retail,445110,Smart & Final Extra!,"7090 Hollister Avenue, Goleta, CA, 93117",,,34.430909,-119.8749517,,,w_640232324,"shop=supermarket, brand=Smart & Final"
+"Goleta, CA",,retail,452319,,,,,34.4656012,-120.0250892,,,w_667278893,shop=general
+"Goleta, CA",,retail,445120,Isla Vista Market,"939 Embarcadero del Mar, Isla Vista, 93117",+1-805-968-3597,https://www.iv-mkt.com/,34.4122789,-119.857324,,,w_823607473,shop=convenience
+"Goleta, CA",,retail,452319,,,,,34.4718724,-120.2282455,,,w_896030948,shop=general
+"Goleta, CA",,retail,452319,,,,,34.4634915,-120.070295,,,w_899676447,shop=general
+"Goleta, CA",,retail,445120,Kim's Market,"4060 Via Real, Carpinteria, 93013",,,34.4062453,-119.536887,,,w_911730670,shop=convenience
+"Goleta, CA",,retail,445120,Los Olivos Grocery,"2621 CA-154, Santa Ynez, CA, 93460",,,34.6584445,-120.1026159,,,w_970322692,shop=convenience
+"Goleta, CA",,retail,445310,The Sanger Family of Wines,"1584 Mission Drive, Solvang, CA, 93464",,,34.5958404,-120.1425086,,,w_1012969430,shop=alcohol
+"Goleta, CA",,retail,445310,Kaena Wine Co,"2890 Grand Avenue, Los Olivos, CA, 93441",,,34.6653534,-120.1148353,,,w_1012978872,shop=wine
+"Goleta, CA",,retail,445120,Mobil Mart,,,,34.6113063,-120.1893971,,,w_1062348737,"shop=convenience, brand=Mobil Mart"
+"Goleta, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/buellton-ca-pharmacies/218-e-highway-246-bldg-3-buellton-ca-93427/storeid=9970,34.6097586,-120.1889932,,,w_1062348740,"shop=chemist, brand=CVS Pharmacy"
+"Goleta, CA",,retail,445110,Albertsons,"222 East Highway 246, Buellton, CA, 93427",+1 805-693-1069,https://local.albertsons.com/ca/buellton/222-e-hwy-246.html,34.6094919,-120.1884186,,,w_1062348741,"shop=supermarket, brand=Albertsons"
+"Goleta, CA",,retail,445310,Carhartt Family Wines,,,,34.6664414,-120.1151962,,,w_1159976295,shop=wine

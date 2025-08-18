@@ -1,0 +1,64 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Pollock Pines, CA",,retail,445120,,,,,38.8145908,-120.374097,,,n_1381283849,shop=convenience
+"Pollock Pines, CA",,retail,445120,Mother Lode Market,"6421 Mother Lode Drive, 95667-8217",,,38.699976,-120.8498372,,,n_1386707683,shop=convenience
+"Pollock Pines, CA",,retail,445110,Belair,,,,38.6609925,-120.9664973,,,n_1771982199,shop=supermarket
+"Pollock Pines, CA",,retail,445110,Pokerville Market,,,,38.4719985,-120.8508113,,,n_3245704838,shop=supermarket
+"Pollock Pines, CA",,retail,445310,Amador 360 Winery,18950 State Highway 49,,,38.4794375,-120.8466892,,,n_4514710694,shop=wine
+"Pollock Pines, CA",,retail,445310,Helwig Winery,11555 Shenandoah Road,,,38.5310762,-120.8117808,,,n_4514763991,shop=wine
+"Pollock Pines, CA",,retail,445310,Coopers Vineyard,23165 Shenandoah School Road,,,38.511729,-120.8088511,,,n_4514776890,shop=wine
+"Pollock Pines, CA",,retail,445310,24 Bridge Wines,17585 CA 49,,,38.4637717,-120.857111,,,n_4514783890,shop=wine
+"Pollock Pines, CA",,retail,445310,Sobon Estate Winery,14430 Shenandoah Road,,,38.5323697,-120.7550553,,,n_4514786889,shop=wine
+"Pollock Pines, CA",,retail,445310,Borjón Winery,11270 Shenandoah Road,,,38.5268266,-120.8131267,,,n_4514789593,shop=wine
+"Pollock Pines, CA",,retail,452210,Walmart,"4300 Missouri Flat Road, Placerville, CA, 95667",+1 530-621-2917,https://www.walmart.com/store/2418-placerville-ca,38.704024,-120.8290516,,,n_4936005121,"shop=department_store, brand=Walmart, operator=Walmart"
+"Pollock Pines, CA",,retail,446120,Nail Perfection,,,,38.7306865,-120.7526831,,,n_5468600979,shop=beauty
+"Pollock Pines, CA",,retail,453991,Foresthill Smokeshop,24615 Foresthill Road,,,39.0207115,-120.8160366,,,n_6075806036,shop=tobacco
+"Pollock Pines, CA",,retail,445110,Fork Lift by Nugget,,,,38.6586047,-120.9720249,,,n_6993875393,shop=supermarket
+"Pollock Pines, CA",,retail,445110,Safeway,"3383 Bass Lake Road, El Dorado Hills, CA, 95762",+1 530-313-4920,https://local.safeway.com/safeway/ca/el-dorado-hills/3383-bass-lake-rd.html,38.6751471,-121.028389,,,n_8861225034,"shop=supermarket, brand=Safeway"
+"Pollock Pines, CA",,retail,445120,Speedway,"519 Placerville Drive, Placerville, CA, 95667",,https://www.speedway.com/locations/CA/Placerville/519-PLACERVILLE-DR,38.7335643,-120.8267559,,,n_9184245036,"shop=convenience, brand=Speedway"
+"Pollock Pines, CA",,retail,445120,Quik Stop,,,,38.6953765,-120.8126696,,,n_10001015546,"shop=convenience, brand=Quik Stop"
+"Pollock Pines, CA",,retail,445110,Safeway,"3380 Coach Lane, Cameron Park, CA, 95682",+1 530-676-6930,https://local.safeway.com/safeway/ca/cameron-park/3380-coach-ln.html,38.6566414,-120.9711073,,,n_10174598980,"shop=supermarket, brand=Safeway"
+"Pollock Pines, CA",,retail,446120,Sassy Nails,,,,38.7304547,-120.786522,,,n_10697847984,shop=beauty
+"Pollock Pines, CA",,retail,445120,Plymouth Trading Post,,,,38.4815337,-120.8453334,,,n_10733711745,shop=convenience
+"Pollock Pines, CA",,retail,446120,Revamps Salon,,,,38.6824802,-120.6631208,,,n_10917103324,shop=beauty
+"Pollock Pines, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-4220+missouri+flat+rd-placerville-ca-95667/id=11823,38.7063204,-120.8314844,,,n_11430282551,"shop=chemist, brand=Walgreens"
+"Pollock Pines, CA",,retail,452210,Target,"3968 Missouri Flat Road, Placerville, CA, 95667-5240",+1 530-303-5921,https://www.target.com/sl/placerville/3355,38.7102953,-120.8433618,,,n_11430282557,"shop=department_store, brand=Target"
+"Pollock Pines, CA",,retail,445110,Save Mart,,,,38.7112018,-120.8433747,,,n_11430282558,"shop=supermarket, brand=Save Mart"
+"Pollock Pines, CA",,retail,452210,Ross,"3966 Missouri Flat Road, Placerville, CA, 95667-5239",+1 530-344-9430,,38.7116063,-120.8433269,,,n_11430282559,"shop=department_store, brand=Ross"
+"Pollock Pines, CA",,retail,446120,Bath & Body Works,,,,38.7118551,-120.8433032,,,n_11430282562,"shop=cosmetics, brand=Bath & Body Works"
+"Pollock Pines, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/placerville-ca-pharmacies/3964-missouri-flat-rd-ste-a-placerville-ca-95667/storeid=9184,38.7121928,-120.8429035,,,n_11430282563,"shop=chemist, brand=CVS Pharmacy"
+"Pollock Pines, CA",,retail,452210,TJ Maxx,,,,38.7141609,-120.8388661,,,n_11430282567,"shop=department_store, brand=TJ Maxx"
+"Pollock Pines, CA",,retail,445110,Raley's,,,,38.7272685,-120.8355986,,,n_11430295019,"shop=supermarket, brand=Raley's"
+"Pollock Pines, CA",,retail,452210,Big Lots,"47 Fair Lane, Placerville, CA, 95667",+1 530-642-8927,https://local.biglots.com/ca/placerville/47-fair-ln,38.72284,-120.8324022,,,n_11430295024,"shop=department_store, brand=Big Lots"
+"Pollock Pines, CA",,retail,446110,Rite Aid,,,,38.7230379,-120.8330477,,,n_11430295025,"shop=chemist, brand=Rite Aid"
+"Pollock Pines, CA",,retail,445110,Groccery Outlet,"3040 Green Valley Road, Cameron Park, CA, 95682",+15303502802,,38.6975599,-121.0002978,,,n_11918971279,shop=supermarket
+"Pollock Pines, CA",,retail,445110,Pine Grove Market,,,,38.4126705,-120.6669079,,,n_12078857944,shop=supermarket
+"Pollock Pines, CA",,retail,452319,Dollar General,"19310 Ridge Road, Pine Grove, CA, 95665",,,38.4128659,-120.6689088,,,n_12078857948,"shop=variety_store, brand=Dollar General"
+"Pollock Pines, CA",,retail,445110,Young’s Payless Market IGA,"26560 CA 88, Buckhorn, CA, 95666",,,38.4430205,-120.5351823,,,n_12229232047,shop=supermarket
+"Pollock Pines, CA",,retail,445120,Dino Mart,,,,38.658416,-120.968576,,,n_12357027966,shop=convenience
+"Pollock Pines, CA",,retail,445120,Frontier Mini Mart,,,,38.4103457,-120.652406,,,n_12606141783,shop=convenience
+"Pollock Pines, CA",,retail,445120,Pine Grove Stage Stop,,,,38.4133329,-120.6601293,,,n_12606141784,shop=convenience
+"Pollock Pines, CA",,retail,445120,Strawberry Market,,,,38.7961549,-120.1472404,,,w_156746523,shop=convenience
+"Pollock Pines, CA",,retail,445110,Safeway,"6498 Pony Express Trail, Pollock Pines, CA, 95726",+1 530-647-7440,https://local.safeway.com/safeway/ca/pollock-pines/6498-pony-express-trail.html,38.7621035,-120.5768761,,,w_240338495,"shop=supermarket, brand=Safeway"
+"Pollock Pines, CA",,retail,445110,Safeway,"3955 Missouri Flat Road, Placerville, CA, 95667",+1 530-295-2972,https://local.safeway.com/safeway/ca/placerville/3955-missouri-flat-rd.html,38.714394,-120.8397779,,,w_240468204,"shop=supermarket, brand=Safeway"
+"Pollock Pines, CA",,retail,445310,Raymond's Liquor,"1370 Broadway, Placerville, CA, 95667",,,38.7319049,-120.7802681,,,w_492253614,shop=alcohol
+"Pollock Pines, CA",,retail,445120,Chevron,,,,38.7316209,-120.7829848,,,w_492253617,"shop=convenience, brand=Chevron"
+"Pollock Pines, CA",,retail,452319,Somerset Store,"5931 Mount Aukum Road, Somerset, CA",,,38.6473096,-120.685637,,,w_566511066,shop=general
+"Pollock Pines, CA",,retail,445120,Valero,,,,38.7314774,-120.7834192,,,w_568469435,"shop=convenience, brand=Valero"
+"Pollock Pines, CA",,retail,445110,Mar-Val,"6049 Front Street, CA",,https://marvalfoodstores.org/,38.9093783,-120.8516221,,,w_725717511,shop=supermarket
+"Pollock Pines, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/cameron-park-ca-pharmacies/3020-green-valley-rd-ste-b-cameron-park-ca-95682/storeid=6793,38.697498,-121.0030353,,,w_749936929,"shop=chemist, brand=CVS Pharmacy"
+"Pollock Pines, CA",,retail,452319,Family Dollar,"6524 Pony Express Trail, Pollock Pines, CA, 95726",1-530-748-2278,,38.7620893,-120.5756784,,,w_871778932,"shop=variety_store, brand=Family Dollar"
+"Pollock Pines, CA",,retail,445120,Happy Hour Food & Liquot,"5115 Pony Express Trail, CA",1-530-644-2843,,38.7455641,-120.6305912,,,w_917144187,shop=convenience
+"Pollock Pines, CA",,retail,445210,Kings Meats,"787 Pleasant Valley Road, Diamond Springs, CA, 95619",+15304975398,https://kingsmeats.net/,38.6952105,-120.8056655,,,w_921540632,shop=butcher
+"Pollock Pines, CA",,retail,445120,Safeway Express,,,,38.6750703,-121.0301693,,,w_957655006,shop=convenience
+"Pollock Pines, CA",,retail,445310,Jeff Runquist Winery,"10776 Shenandoah Road, Plymouth, CA, 95669",,,38.5167146,-120.8224317,,,w_983880259,shop=wine
+"Pollock Pines, CA",,retail,445310,,,,,38.5411219,-120.796032,,,w_1081239787,shop=wine
+"Pollock Pines, CA",,retail,446110,CVS Pharmacy,"6450 Pony Express Trail, Pollock Pines, CA, 95726",,https://www.cvs.com/store-locator/pollock-pines-ca-pharmacies/6450-pony-express-trl-pollock-pines-ca-95726/storeid=9490,38.7618363,-120.579729,,,w_1084726709,"shop=chemist, brand=CVS Pharmacy"
+"Pollock Pines, CA",,retail,445120,Chevron,"3600 Carson Road, Camino, CA, 95709",,,38.7404512,-120.6977526,,,w_1085743007,"shop=convenience, brand=Chevron"
+"Pollock Pines, CA",,retail,445110,Worton's Market Foresthill,"23140 Forest Hill Road, Foresthill, CA, 95631",,,39.0123766,-120.8390773,,,w_1093266804,shop=supermarket
+"Pollock Pines, CA",,retail,445110,Holiday Market,"4653 Mount Aukum Road, Placerville, CA",,,38.6822389,-120.6616868,,,w_1280036929,shop=supermarket
+"Pollock Pines, CA",,retail,446191,Placerville Food Coop,535 Placerville Drive,,,38.7335548,-120.826004,,,w_1280066798,shop=health_food
+"Pollock Pines, CA",,retail,445120,Mobil Mart,,,,38.7359831,-120.7104662,,,w_1280344184,"shop=convenience, brand=Mobil Mart"
+"Pollock Pines, CA",,retail,445120,Shell,,,,38.7278485,-120.8046827,,,w_1280900885,"shop=convenience, brand=Shell"
+"Pollock Pines, CA",,retail,445120,Chevron,,,,38.6863306,-120.6682101,,,w_1290816132,"shop=convenience, brand=Chevron"
+"Pollock Pines, CA",,retail,445120,7-Eleven,,,,38.714135,-120.843877,,,w_1291891496,"shop=convenience, brand=7-Eleven"
+"Pollock Pines, CA",,retail,445120,76,"1178 Broadway, Placerville, CA",,,38.7306948,-120.7887914,,,w_1324176091,"shop=convenience, brand=76"

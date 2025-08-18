@@ -1,0 +1,14 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Hayfork, CA",,retail,445110,Wiley's Supermarket,,,,40.5536542,-123.1800036,,,n_4270365024,shop=supermarket
+"Hayfork, CA",,retail,445120,Tops Mini Mart,,,,40.7373268,-122.9285168,,,n_4270365029,shop=convenience
+"Hayfork, CA",,retail,445120,Platina Store,,,,40.3597214,-122.8934108,,,n_4270403923,shop=convenience
+"Hayfork, CA",,retail,445110,Norelpom Natural Foods,,,,40.5542001,-123.1857301,,,n_4567639901,shop=supermarket
+"Hayfork, CA",,retail,445120,Journeys End Market,,,,40.3528936,-123.4118104,,,n_4661774510,shop=convenience
+"Hayfork, CA",,retail,445120,Dinsmore Store,"43819 SR 36, 95526",,,40.4921099,-123.6075888,,,n_4966546528,shop=convenience
+"Hayfork, CA",,retail,445120,Valero,,,,40.7228495,-122.9301149,,,n_12183320986,"shop=convenience, brand=Valero, operator=Weaverville Market"
+"Hayfork, CA",,retail,452319,Dollar General,,,,40.7264695,-122.9358324,,,n_12183320990,"shop=variety_store, brand=Dollar General"
+"Hayfork, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/weaverville-ca-pharmacies/1595-main-st-weaverville-ca-96093/storeid=9973,40.7221044,-122.9275073,,,w_524358430,"shop=chemist, brand=CVS Pharmacy"
+"Hayfork, CA",,retail,445110,Holiday Market,"1665 Main Street, Weaverville, CA",+1 (530) 623-2494,,40.7209521,-122.9269507,,,w_524358436,shop=supermarket
+"Hayfork, CA",,retail,445110,,,,,40.5536312,-123.1800193,,,w_930690119,shop=supermarket
+"Hayfork, CA",,retail,445110,,,,,40.5542255,-123.185754,,,w_930690149,shop=supermarket
+"Hayfork, CA",,retail,445120,,,,,40.5544714,-123.1726237,,,w_930690153,shop=convenience

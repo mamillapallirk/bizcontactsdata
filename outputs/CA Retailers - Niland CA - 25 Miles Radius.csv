@@ -1,0 +1,16 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Niland, CA",,retail,445310,Date Shake,,,,33.0376783,-115.6221574,,,n_4728087489,shop=beverages
+"Niland, CA",,retail,445110,Walmart Supercenter,"250 Wildcat Drive, Brawley, CA, 92227",+1 760-351-0186,https://www.walmart.com/store/5335-brawley-ca,32.962431,-115.545833,,,n_5315597613,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Niland, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/brawley/184-w-main-st-23229,32.978196,-115.5434194,,,n_8162704911,"shop=convenience, brand=7-Eleven"
+"Niland, CA",,retail,445110,El So Market,,,,32.9784958,-115.5309785,,,n_9188055480,shop=supermarket
+"Niland, CA",,retail,445110,Vons,"475 West Main Street, Brawley, CA, 92227",+1 760-351-3002,https://local.vons.com/ca/brawley/475-w-main-st.html,32.9791258,-115.5503838,,,w_128846269,"shop=supermarket, brand=Vons"
+"Niland, CA",,retail,445120,Niland Soco,"8004 US Highway 111, Niland, CA, 92257",,,33.2350593,-115.5186211,,,w_403663178,shop=convenience
+"Niland, CA",,retail,445120,Circle K,"123 East Main Street, Westmorland, CA, 92281",,,33.0377919,-115.621127,,,w_403665359,"shop=convenience, brand=Circle K"
+"Niland, CA",,retail,452319,Big O Superstore,,,,33.2394853,-115.518699,,,w_847810640,shop=general
+"Niland, CA",,retail,445120,Circle K,,,,32.9792287,-115.5098681,,,w_877313132,"shop=convenience, brand=Circle K"
+"Niland, CA",,retail,445120,Prime,,,,32.9781008,-115.5096985,,,w_877313134,shop=convenience
+"Niland, CA",,retail,445120,7-Eleven,,,,32.9784483,-115.5433471,,,w_877320838,"shop=convenience, brand=7-Eleven"
+"Niland, CA",,retail,445120,Shell Food Mart,,,,32.9790406,-115.5477074,,,w_877321160,shop=convenience
+"Niland, CA",,retail,445120,Pilot,,,,32.9779199,-115.5038747,,,w_1080972242,"shop=convenience, brand=Pilot"
+"Niland, CA",,retail,452319,Family Dollar,"1400 Main Street, Brawley, CA, 92227",,,32.9782004,-115.5182628,,,w_1080975660,"shop=variety_store, brand=Family Dollar"
+"Niland, CA",,retail,446110,Rite Aid,"405 West Main Street, Brawley, CA, 92227",+17603445732,https://www.riteaid.com/locations/ca/brawley/405-west-main-street.html,32.9791322,-115.5485959,,,w_1110430044,"shop=chemist, brand=Rite Aid"

@@ -1,0 +1,12 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Newell, CA",,retail,445120,Timber Mountain Store,,,,41.6478772,-121.2906602,,,n_1878660881,"shop=convenience, amenity=bar"
+"Newell, CA",,retail,445120,Timber Mountain Store Gas Station,,,,41.6479145,-121.290591,,,n_1878660884,"shop=convenience, amenity=fuel"
+"Newell, CA",,retail,452319,Westside grocery,,,,41.998031,-121.5586911,,,n_2678330866,shop=general
+"Newell, CA",,retail,445120,FastBreak,"104 East Front Street, Merrill, OR, 97633",,,42.0242518,-121.5998699,,,n_2678330881,"shop=convenience, brand=FastBreak"
+"Newell, CA",,retail,445120,Ross,,,,41.9534409,-121.4763397,,,n_2726489088,shop=convenience
+"Newell, CA",,retail,445120,Big Springs Market,,,,42.1982778,-121.4028472,,,n_4884928650,"shop=convenience, amenity=fuel"
+"Newell, CA",,retail,445110,Martins food,,,,42.0237347,-121.600997,,,n_9579316460,shop=grocery
+"Newell, CA",,retail,445110,Jock's Market,"395 Modoc Avenue, Tulelake, CA, 96134",,,41.9580137,-121.4763355,,,w_1001932475,shop=supermarket
+"Newell, CA",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/or/merrill/16686,42.0263506,-121.608935,,,w_1089781969,"shop=variety_store, brand=Dollar General"
+"Newell, CA",,retail,445110,Malin Super Market,,,,42.0109643,-121.4078159,,,w_1113037835,shop=supermarket
+"Newell, CA",,retail,445110,Vallarta Grocery Store and Taqueria,"348 Main Street, Tulelake, CA, 96134",+1-530-667-2525,,41.9566714,-121.4764129,,,w_1306235311,shop=supermarket

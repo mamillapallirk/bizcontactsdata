@@ -1,0 +1,88 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Jackson, CA",,retail,445110,Food Mart,,,,38.0860538,-120.5658153,,,n_990550930,shop=supermarket
+"Jackson, CA",,retail,445120,Mother Lode Market,"6421 Mother Lode Drive, 95667-8217",,,38.699976,-120.8498372,,,n_1386707683,shop=convenience
+"Jackson, CA",,retail,445110,Belair,,,,38.6609925,-120.9664973,,,n_1771982199,shop=supermarket
+"Jackson, CA",,retail,445120,Buena Vista Store,,,,38.2937175,-120.9124482,,,n_1818064852,shop=convenience
+"Jackson, CA",,retail,445110,Sender's Market,,,,38.2284773,-120.5408459,,,n_1904630537,shop=supermarket
+"Jackson, CA",,retail,445110,One Stop,,,,38.3526631,-120.9360392,,,n_1923884554,shop=supermarket
+"Jackson, CA",,retail,445120,,,,,38.2277664,-120.542538,,,n_2085378878,shop=convenience
+"Jackson, CA",,retail,445120,Clements Ranch,,,,38.1857627,-121.0996127,,,n_2422036007,shop=convenience
+"Jackson, CA",,retail,445120,Clements Country Market,,,,38.1908729,-121.0868508,,,n_2422037673,shop=convenience
+"Jackson, CA",,retail,445110,Clements Ridge Produce,,,,38.1984954,-121.0692126,,,n_2422039224,shop=supermarket
+"Jackson, CA",,retail,445120,Mary's Mini Mart,,,,38.2345817,-121.049965,,,n_2422041708,shop=convenience
+"Jackson, CA",,retail,445110,Save Mart,"260 South Main Street, Angels Camp, 95222",+1 209 736 4519,https://www.savemart.com/stores#/4914,38.0786638,-120.55566,,,n_2795626710,"shop=supermarket, brand=Save Mart"
+"Jackson, CA",,retail,445110,Davis Ranch,,,,38.4935621,-121.1695904,,,n_2983791594,shop=supermarket
+"Jackson, CA",,retail,452319,Rancho Murieta Country Store,,,,38.4956628,-121.0988635,,,n_2983792621,shop=variety_store
+"Jackson, CA",,retail,445110,Pokerville Market,,,,38.4719985,-120.8508113,,,n_3245704838,shop=supermarket
+"Jackson, CA",,retail,445110,Grocery Outlet,,,,38.3470571,-120.7757321,,,n_3245704839,"shop=supermarket, brand=Grocery Outlet"
+"Jackson, CA",,retail,445310,Town & Country Liquor Store,"13517 CA-88, Lockeford, CA, 95237",,,38.1636762,-121.1501273,,,n_4104245362,shop=alcohol
+"Jackson, CA",,retail,452319,Dollar Store,,,,38.1393,-120.455513,,,n_4216515115,shop=variety_store
+"Jackson, CA",,retail,446110,CVS Pharmacy,"41 North Main Street, Angels Camp, CA, 95222",,https://www.cvs.com/store-locator/angels-camp-ca-pharmacies/41-n-main-st-angels-camp-ca-95222/storeid=9539,38.0824477,-120.5606473,,,n_4216515137,"shop=chemist, brand=CVS Pharmacy"
+"Jackson, CA",,retail,445110,Sierra Hills Market,,,,38.1378861,-120.457094,,,n_4216517007,shop=supermarket
+"Jackson, CA",,retail,445110,Sierra Hills Natural Foods,,,,38.13822,-120.4574172,,,n_4216517008,shop=supermarket
+"Jackson, CA",,retail,445120,Meadow View Center,,,,38.253222,-120.3547983,,,n_4216518104,shop=convenience
+"Jackson, CA",,retail,452319,Dollar General,"Arnold, CA, 95223",,https://www.dollargeneral.com/store-directory/ca/arnold/16311,38.2458882,-120.3595662,,,n_4216518105,"shop=variety_store, brand=Dollar General"
+"Jackson, CA",,retail,445310,Amador 360 Winery,18950 State Highway 49,,,38.4794375,-120.8466892,,,n_4514710694,shop=wine
+"Jackson, CA",,retail,445310,Helwig Winery,11555 Shenandoah Road,,,38.5310762,-120.8117808,,,n_4514763991,shop=wine
+"Jackson, CA",,retail,445310,Coopers Vineyard,23165 Shenandoah School Road,,,38.511729,-120.8088511,,,n_4514776890,shop=wine
+"Jackson, CA",,retail,445310,24 Bridge Wines,17585 CA 49,,,38.4637717,-120.857111,,,n_4514783890,shop=wine
+"Jackson, CA",,retail,445310,Sobon Estate Winery,14430 Shenandoah Road,,,38.5323697,-120.7550553,,,n_4514786889,shop=wine
+"Jackson, CA",,retail,445310,Borjón Winery,11270 Shenandoah Road,,,38.5268266,-120.8131267,,,n_4514789593,shop=wine
+"Jackson, CA",,retail,445310,Wine Tree Farm,13941 State Highway 49,209 787-5694,https://winetreefarm.com/,38.419846,-120.8415712,,,n_4518469690,shop=wine
+"Jackson, CA",,retail,445110,Big Trees Market,,,,38.23972,-120.3639232,,,n_4543685558,shop=supermarket
+"Jackson, CA",,retail,452210,Walmart,"4300 Missouri Flat Road, Placerville, CA, 95667",+1 530-621-2917,https://www.walmart.com/store/2418-placerville-ca,38.704024,-120.8290516,,,n_4936005121,"shop=department_store, brand=Walmart, operator=Walmart"
+"Jackson, CA",,retail,445230,Davis Ranch,"13211 Jackson Road, 95683",,https://www.davisranchproduce.com/index.html,38.4927928,-121.1714566,,,n_6844993185,shop=greengrocer
+"Jackson, CA",,retail,445110,Fork Lift by Nugget,,,,38.6586047,-120.9720249,,,n_6993875393,shop=supermarket
+"Jackson, CA",,retail,445310,Renegade Winery,,,,38.3019382,-120.7061332,,,n_7550126986,shop=wine
+"Jackson, CA",,retail,445120,Speedway,"13975 East Highway 88, Lockeford, CA, 95237",+1 209 727 0823,https://www.speedway.com/locations/CA/Lockeford/13975-E-Highway-88,38.1668653,-121.1458647,,,n_9183931103,"shop=convenience, brand=Speedway"
+"Jackson, CA",,retail,445120,Quik Stop,,,,38.6953765,-120.8126696,,,n_10001015546,"shop=convenience, brand=Quik Stop"
+"Jackson, CA",,retail,445120,,,,,38.3776785,-120.8027593,,,n_10084859820,shop=convenience
+"Jackson, CA",,retail,445110,Safeway,"3380 Coach Lane, Cameron Park, CA, 95682",+1 530-676-6930,https://local.safeway.com/safeway/ca/cameron-park/3380-coach-ln.html,38.6566414,-120.9711073,,,n_10174598980,"shop=supermarket, brand=Safeway"
+"Jackson, CA",,retail,445292,Whoopsie Daisy,,,,38.301137,-120.7060197,,,n_10733396657,shop=confectionery
+"Jackson, CA",,retail,445120,Plymouth Trading Post,,,,38.4815337,-120.8453334,,,n_10733711745,shop=convenience
+"Jackson, CA",,retail,445310,The End of Nowhere,,,,38.419146,-120.8244352,,,n_10733776316,shop=alcohol
+"Jackson, CA",,retail,445110,Young’s Payless IGA,"18980 Highway 88, Lockeford, CA, 95237",+1 209-669-8794,,38.156411,-121.1534949,,,n_10755412749,"shop=supermarket, brand=IGA"
+"Jackson, CA",,retail,446120,Revamps Salon,,,,38.6824802,-120.6631208,,,n_10917103324,shop=beauty
+"Jackson, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-4220+missouri+flat+rd-placerville-ca-95667/id=11823,38.7063204,-120.8314844,,,n_11430282551,"shop=chemist, brand=Walgreens"
+"Jackson, CA",,retail,445110,Pine Grove Market,,,,38.4126705,-120.6669079,,,n_12078857944,shop=supermarket
+"Jackson, CA",,retail,452319,Dollar General,"19310 Ridge Road, Pine Grove, CA, 95665",,,38.4128659,-120.6689088,,,n_12078857948,"shop=variety_store, brand=Dollar General"
+"Jackson, CA",,retail,445110,Young’s Payless Market IGA,"26560 CA 88, Buckhorn, CA, 95666",,,38.4430205,-120.5351823,,,n_12229232047,shop=supermarket
+"Jackson, CA",,retail,453991,Knights of the Long Ash,,,,38.1374872,-120.464501,,,n_12310410010,shop=tobacco
+"Jackson, CA",,retail,445292,Nelson's Candies,384 Main Street,,,38.1376954,-120.463703,,,n_12310588970,shop=confectionery
+"Jackson, CA",,retail,445292,Nelson's Candies,384 Main Street,,,38.1376954,-120.463703,,,n_12310656804,shop=confectionery
+"Jackson, CA",,retail,445120,Dino Mart,,,,38.658416,-120.968576,,,n_12357027966,shop=convenience
+"Jackson, CA",,retail,445120,Frontier Mini Mart,,,,38.4103457,-120.652406,,,n_12606141783,shop=convenience
+"Jackson, CA",,retail,445120,Pine Grove Stage Stop,,,,38.4133329,-120.6601293,,,n_12606141784,shop=convenience
+"Jackson, CA",,retail,445110,Safeway,"12110 Industry Boulevard, Jackson, CA, 95642",+1 209-257-0779,https://local.safeway.com/safeway/ca/jackson/12110-industry-blvd.html,38.3682439,-120.8000466,,,w_253010114,"shop=supermarket, brand=Safeway"
+"Jackson, CA",,retail,445120,Jackson Rancheria General Store,,,,38.3631837,-120.7326908,,,w_367885989,shop=convenience
+"Jackson, CA",,retail,445210,Lockeford Meat Service,"19775 Cotton Street, Lockeford, CA, 95237",+1-209-727-5584,,38.1624643,-121.1510316,,,w_408506631,shop=butcher
+"Jackson, CA",,retail,445120,Tes Mart,,,,38.1622984,-121.1511599,,,w_408506633,shop=convenience
+"Jackson, CA",,retail,445310,Town & Country,"13517 CA-88, Lockeford, CA, 95237",,,38.1636708,-121.1501207,,,w_408514725,shop=alcohol
+"Jackson, CA",,retail,445120,Chevron,,,,38.0756531,-120.547431,,,w_559493978,"shop=convenience, brand=Chevron"
+"Jackson, CA",,retail,445120,Food Mart,,,,38.0721882,-120.5419249,,,w_560392465,shop=convenience
+"Jackson, CA",,retail,445120,,,,,38.0753987,-120.5471019,,,w_560393105,shop=convenience
+"Jackson, CA",,retail,452319,Somerset Store,"5931 Mount Aukum Road, Somerset, CA",,,38.6473096,-120.685637,,,w_566511066,shop=general
+"Jackson, CA",,retail,453110,Blooms and Things,"479 South Main Street, Angels Camp, CA",+1-209-736-6771,https://www.bloomsandthings.com/,38.0777834,-120.5508095,,,w_582569470,shop=florist
+"Jackson, CA",,retail,452210,Walmart,"10355 Wicklow Way, Jackson, CA, 95642",+1 209-223-5384,https://www.walmart.com/store/2054-jackson-ca,38.3578447,-120.8062105,,,w_694049321,"shop=department_store, brand=Walmart, operator=Walmart"
+"Jackson, CA",,retail,446110,Walgreens,"475 CA 49, Sutter Creek, CA, 95685",,https://www.walgreens.com/locator/walgreens-475+state+highway+49-sutter+creek-ca-95685/id=12528,38.3788711,-120.8031651,,,w_751692446,"shop=chemist, brand=Walgreens"
+"Jackson, CA",,retail,445210,Kings Meats,"787 Pleasant Valley Road, Diamond Springs, CA, 95619",+15304975398,https://kingsmeats.net/,38.6952105,-120.8056655,,,w_921540632,shop=butcher
+"Jackson, CA",,retail,445110,Raley's,,,,38.3393959,-120.7667277,,,w_962491667,"shop=supermarket, brand=Raley's"
+"Jackson, CA",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ca/valley-springs/17118,38.189354,-120.8279734,,,w_965100488,"shop=variety_store, brand=Dollar General"
+"Jackson, CA",,retail,445110,Grocery Outlet,,,,38.1899887,-120.8259933,,,w_965100489,"shop=supermarket, brand=Grocery Outlet"
+"Jackson, CA",,retail,452319,Dollar Tree,"11986 CA-88, Jackson, CA, 95642",+1-209-418-6137,https://www.dollartree.com/locations/ca/jackson/1735/,38.3629178,-120.8003226,,,w_966308842,"shop=variety_store, brand=Dollar Tree"
+"Jackson, CA",,retail,445110,Save Mart,"11980 CA-88, Jackson, CA, 95642",+1-209-223-5945,https://savemart.com/stores/jackson-609/4934,38.362303,-120.8014299,,,w_966308843,"shop=supermarket, brand=Save Mart"
+"Jackson, CA",,retail,453991,Your Cigarette Source,,,,38.3621068,-120.8027159,,,w_971468685,shop=tobacco
+"Jackson, CA",,retail,446120,Tan Yer Hide,"12070 Industry Boulevard, Jackson, CA, 95642",,,38.3683167,-120.8007425,,,w_971507668,shop=beauty
+"Jackson, CA",,retail,446120,Martell Nails & Spa,"12070 Industry Boulevard, Jackson, CA, 95642",,,38.368279,-120.8008784,,,w_971507670,shop=beauty
+"Jackson, CA",,retail,446120,Jackson Nails,,,,38.3618944,-120.8022974,,,w_971804290,shop=beauty
+"Jackson, CA",,retail,445120,ampm,"10923 CA 49, Jackson, CA, 95642",,,38.3670982,-120.796715,,,w_971832809,"shop=convenience, brand=ampm"
+"Jackson, CA",,retail,445110,Cost Less,,,,38.3425936,-120.76911,,,w_972711574,shop=supermarket
+"Jackson, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/jackson-ca-pharmacies/515-s-state-highway-49-jackson-ca-95642/storeid=9233,38.343755,-120.7703202,,,w_972711590,"shop=chemist, brand=CVS Pharmacy"
+"Jackson, CA",,retail,453991,Discount Cigarettes Cigars,,,,38.3440472,-120.770485,,,w_972711591,shop=tobacco
+"Jackson, CA",,retail,446120,Top Nails,,,,38.344082,-120.7705345,,,w_972711592,shop=beauty
+"Jackson, CA",,retail,445310,Jeff Runquist Winery,"10776 Shenandoah Road, Plymouth, CA, 95669",,,38.5167146,-120.8224317,,,w_983880259,shop=wine
+"Jackson, CA",,retail,445310,,,,,38.5411219,-120.796032,,,w_1081239787,shop=wine
+"Jackson, CA",,retail,445120,Food Mart,,,,38.3783174,-120.8019422,,,w_1102158200,"shop=convenience, brand=Food Mart"
+"Jackson, CA",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ca/lockeford/15928,38.152033,-121.1572655,,,w_1156537996,"shop=variety_store, brand=Dollar General"
+"Jackson, CA",,retail,445110,Holiday Market,"4653 Mount Aukum Road, Placerville, CA",,,38.6822389,-120.6616868,,,w_1280036929,shop=supermarket
+"Jackson, CA",,retail,445120,Chevron,,,,38.6863306,-120.6682101,,,w_1290816132,"shop=convenience, brand=Chevron"

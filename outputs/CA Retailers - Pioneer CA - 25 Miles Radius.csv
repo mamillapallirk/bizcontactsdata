@@ -1,0 +1,97 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Pioneer, CA",,retail,445110,Food Mart,,,,38.0860538,-120.5658153,,,n_990550930,shop=supermarket
+"Pioneer, CA",,retail,445120,Mother Lode Market,"6421 Mother Lode Drive, 95667-8217",,,38.699976,-120.8498372,,,n_1386707683,shop=convenience
+"Pioneer, CA",,retail,445120,Buena Vista Store,,,,38.2937175,-120.9124482,,,n_1818064852,shop=convenience
+"Pioneer, CA",,retail,445110,Sender's Market,,,,38.2284773,-120.5408459,,,n_1904630537,shop=supermarket
+"Pioneer, CA",,retail,445110,One Stop,,,,38.3526631,-120.9360392,,,n_1923884554,shop=supermarket
+"Pioneer, CA",,retail,445120,,,,,38.2277664,-120.542538,,,n_2085378878,shop=convenience
+"Pioneer, CA",,retail,445110,Save Mart,"260 South Main Street, Angels Camp, 95222",+1 209 736 4519,https://www.savemart.com/stores#/4914,38.0786638,-120.55566,,,n_2795626710,"shop=supermarket, brand=Save Mart"
+"Pioneer, CA",,retail,445110,Pokerville Market,,,,38.4719985,-120.8508113,,,n_3245704838,shop=supermarket
+"Pioneer, CA",,retail,445110,Grocery Outlet,,,,38.3470571,-120.7757321,,,n_3245704839,"shop=supermarket, brand=Grocery Outlet"
+"Pioneer, CA",,retail,445120,Camp Connell General Store,"4036 Highway 4, Camp Connell, CA, 95223",,,38.3098829,-120.2770425,,,n_4215379586,shop=convenience
+"Pioneer, CA",,retail,452319,Dollar Store,,,,38.1393,-120.455513,,,n_4216515115,shop=variety_store
+"Pioneer, CA",,retail,446110,CVS Pharmacy,"41 North Main Street, Angels Camp, CA, 95222",,https://www.cvs.com/store-locator/angels-camp-ca-pharmacies/41-n-main-st-angels-camp-ca-95222/storeid=9539,38.0824477,-120.5606473,,,n_4216515137,"shop=chemist, brand=CVS Pharmacy"
+"Pioneer, CA",,retail,445110,Sierra Hills Market,,,,38.1378861,-120.457094,,,n_4216517007,shop=supermarket
+"Pioneer, CA",,retail,445110,Sierra Hills Natural Foods,,,,38.13822,-120.4574172,,,n_4216517008,shop=supermarket
+"Pioneer, CA",,retail,445120,Meadow View Center,,,,38.253222,-120.3547983,,,n_4216518104,shop=convenience
+"Pioneer, CA",,retail,452319,Dollar General,"Arnold, CA, 95223",,https://www.dollargeneral.com/store-directory/ca/arnold/16311,38.2458882,-120.3595662,,,n_4216518105,"shop=variety_store, brand=Dollar General"
+"Pioneer, CA",,retail,445310,Amador 360 Winery,18950 State Highway 49,,,38.4794375,-120.8466892,,,n_4514710694,shop=wine
+"Pioneer, CA",,retail,445310,Helwig Winery,11555 Shenandoah Road,,,38.5310762,-120.8117808,,,n_4514763991,shop=wine
+"Pioneer, CA",,retail,445310,Coopers Vineyard,23165 Shenandoah School Road,,,38.511729,-120.8088511,,,n_4514776890,shop=wine
+"Pioneer, CA",,retail,445310,24 Bridge Wines,17585 CA 49,,,38.4637717,-120.857111,,,n_4514783890,shop=wine
+"Pioneer, CA",,retail,445310,Sobon Estate Winery,14430 Shenandoah Road,,,38.5323697,-120.7550553,,,n_4514786889,shop=wine
+"Pioneer, CA",,retail,445310,Borjón Winery,11270 Shenandoah Road,,,38.5268266,-120.8131267,,,n_4514789593,shop=wine
+"Pioneer, CA",,retail,445310,Wine Tree Farm,13941 State Highway 49,209 787-5694,https://winetreefarm.com/,38.419846,-120.8415712,,,n_4518469690,shop=wine
+"Pioneer, CA",,retail,445110,Big Trees Market,,,,38.23972,-120.3639232,,,n_4543685558,shop=supermarket
+"Pioneer, CA",,retail,452210,Walmart,"4300 Missouri Flat Road, Placerville, CA, 95667",+1 530-621-2917,https://www.walmart.com/store/2418-placerville-ca,38.704024,-120.8290516,,,n_4936005121,"shop=department_store, brand=Walmart, operator=Walmart"
+"Pioneer, CA",,retail,446120,Nail Perfection,,,,38.7306865,-120.7526831,,,n_5468600979,shop=beauty
+"Pioneer, CA",,retail,445310,Renegade Winery,,,,38.3019382,-120.7061332,,,n_7550126986,shop=wine
+"Pioneer, CA",,retail,445120,Speedway,"519 Placerville Drive, Placerville, CA, 95667",,https://www.speedway.com/locations/CA/Placerville/519-PLACERVILLE-DR,38.7335643,-120.8267559,,,n_9184245036,"shop=convenience, brand=Speedway"
+"Pioneer, CA",,retail,445120,Quik Stop,,,,38.6953765,-120.8126696,,,n_10001015546,"shop=convenience, brand=Quik Stop"
+"Pioneer, CA",,retail,445120,,,,,38.3776785,-120.8027593,,,n_10084859820,shop=convenience
+"Pioneer, CA",,retail,446120,Sassy Nails,,,,38.7304547,-120.786522,,,n_10697847984,shop=beauty
+"Pioneer, CA",,retail,445292,Whoopsie Daisy,,,,38.301137,-120.7060197,,,n_10733396657,shop=confectionery
+"Pioneer, CA",,retail,445120,Plymouth Trading Post,,,,38.4815337,-120.8453334,,,n_10733711745,shop=convenience
+"Pioneer, CA",,retail,445310,The End of Nowhere,,,,38.419146,-120.8244352,,,n_10733776316,shop=alcohol
+"Pioneer, CA",,retail,446120,Revamps Salon,,,,38.6824802,-120.6631208,,,n_10917103324,shop=beauty
+"Pioneer, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-4220+missouri+flat+rd-placerville-ca-95667/id=11823,38.7063204,-120.8314844,,,n_11430282551,"shop=chemist, brand=Walgreens"
+"Pioneer, CA",,retail,452210,Target,"3968 Missouri Flat Road, Placerville, CA, 95667-5240",+1 530-303-5921,https://www.target.com/sl/placerville/3355,38.7102953,-120.8433618,,,n_11430282557,"shop=department_store, brand=Target"
+"Pioneer, CA",,retail,445110,Save Mart,,,,38.7112018,-120.8433747,,,n_11430282558,"shop=supermarket, brand=Save Mart"
+"Pioneer, CA",,retail,452210,Ross,"3966 Missouri Flat Road, Placerville, CA, 95667-5239",+1 530-344-9430,,38.7116063,-120.8433269,,,n_11430282559,"shop=department_store, brand=Ross"
+"Pioneer, CA",,retail,446120,Bath & Body Works,,,,38.7118551,-120.8433032,,,n_11430282562,"shop=cosmetics, brand=Bath & Body Works"
+"Pioneer, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/placerville-ca-pharmacies/3964-missouri-flat-rd-ste-a-placerville-ca-95667/storeid=9184,38.7121928,-120.8429035,,,n_11430282563,"shop=chemist, brand=CVS Pharmacy"
+"Pioneer, CA",,retail,452210,TJ Maxx,,,,38.7141609,-120.8388661,,,n_11430282567,"shop=department_store, brand=TJ Maxx"
+"Pioneer, CA",,retail,445110,Raley's,,,,38.7272685,-120.8355986,,,n_11430295019,"shop=supermarket, brand=Raley's"
+"Pioneer, CA",,retail,452210,Big Lots,"47 Fair Lane, Placerville, CA, 95667",+1 530-642-8927,https://local.biglots.com/ca/placerville/47-fair-ln,38.72284,-120.8324022,,,n_11430295024,"shop=department_store, brand=Big Lots"
+"Pioneer, CA",,retail,446110,Rite Aid,,,,38.7230379,-120.8330477,,,n_11430295025,"shop=chemist, brand=Rite Aid"
+"Pioneer, CA",,retail,445110,Pine Grove Market,,,,38.4126705,-120.6669079,,,n_12078857944,shop=supermarket
+"Pioneer, CA",,retail,452319,Dollar General,"19310 Ridge Road, Pine Grove, CA, 95665",,,38.4128659,-120.6689088,,,n_12078857948,"shop=variety_store, brand=Dollar General"
+"Pioneer, CA",,retail,445110,Young’s Payless Market IGA,"26560 CA 88, Buckhorn, CA, 95666",,,38.4430205,-120.5351823,,,n_12229232047,shop=supermarket
+"Pioneer, CA",,retail,453991,Knights of the Long Ash,,,,38.1374872,-120.464501,,,n_12310410010,shop=tobacco
+"Pioneer, CA",,retail,445292,Nelson's Candies,384 Main Street,,,38.1376954,-120.463703,,,n_12310588970,shop=confectionery
+"Pioneer, CA",,retail,445292,Nelson's Candies,384 Main Street,,,38.1376954,-120.463703,,,n_12310656804,shop=confectionery
+"Pioneer, CA",,retail,445120,Frontier Mini Mart,,,,38.4103457,-120.652406,,,n_12606141783,shop=convenience
+"Pioneer, CA",,retail,445120,Pine Grove Stage Stop,,,,38.4133329,-120.6601293,,,n_12606141784,shop=convenience
+"Pioneer, CA",,retail,445110,Safeway,"6498 Pony Express Trail, Pollock Pines, CA, 95726",+1 530-647-7440,https://local.safeway.com/safeway/ca/pollock-pines/6498-pony-express-trail.html,38.7621035,-120.5768761,,,w_240338495,"shop=supermarket, brand=Safeway"
+"Pioneer, CA",,retail,445110,Safeway,"3955 Missouri Flat Road, Placerville, CA, 95667",+1 530-295-2972,https://local.safeway.com/safeway/ca/placerville/3955-missouri-flat-rd.html,38.714394,-120.8397779,,,w_240468204,"shop=supermarket, brand=Safeway"
+"Pioneer, CA",,retail,445110,Safeway,"12110 Industry Boulevard, Jackson, CA, 95642",+1 209-257-0779,https://local.safeway.com/safeway/ca/jackson/12110-industry-blvd.html,38.3682439,-120.8000466,,,w_253010114,"shop=supermarket, brand=Safeway"
+"Pioneer, CA",,retail,445120,Jackson Rancheria General Store,,,,38.3631837,-120.7326908,,,w_367885989,shop=convenience
+"Pioneer, CA",,retail,445310,Raymond's Liquor,"1370 Broadway, Placerville, CA, 95667",,,38.7319049,-120.7802681,,,w_492253614,shop=alcohol
+"Pioneer, CA",,retail,445120,Chevron,,,,38.7316209,-120.7829848,,,w_492253617,"shop=convenience, brand=Chevron"
+"Pioneer, CA",,retail,445120,Chevron,,,,38.0756531,-120.547431,,,w_559493978,"shop=convenience, brand=Chevron"
+"Pioneer, CA",,retail,445120,Food Mart,,,,38.0721882,-120.5419249,,,w_560392465,shop=convenience
+"Pioneer, CA",,retail,445120,,,,,38.0753987,-120.5471019,,,w_560393105,shop=convenience
+"Pioneer, CA",,retail,452319,Somerset Store,"5931 Mount Aukum Road, Somerset, CA",,,38.6473096,-120.685637,,,w_566511066,shop=general
+"Pioneer, CA",,retail,445120,Valero,,,,38.7314774,-120.7834192,,,w_568469435,"shop=convenience, brand=Valero"
+"Pioneer, CA",,retail,453110,Blooms and Things,"479 South Main Street, Angels Camp, CA",+1-209-736-6771,https://www.bloomsandthings.com/,38.0777834,-120.5508095,,,w_582569470,shop=florist
+"Pioneer, CA",,retail,452210,Walmart,"10355 Wicklow Way, Jackson, CA, 95642",+1 209-223-5384,https://www.walmart.com/store/2054-jackson-ca,38.3578447,-120.8062105,,,w_694049321,"shop=department_store, brand=Walmart, operator=Walmart"
+"Pioneer, CA",,retail,446110,Walgreens,"475 CA 49, Sutter Creek, CA, 95685",,https://www.walgreens.com/locator/walgreens-475+state+highway+49-sutter+creek-ca-95685/id=12528,38.3788711,-120.8031651,,,w_751692446,"shop=chemist, brand=Walgreens"
+"Pioneer, CA",,retail,452319,Family Dollar,"6524 Pony Express Trail, Pollock Pines, CA, 95726",1-530-748-2278,,38.7620893,-120.5756784,,,w_871778932,"shop=variety_store, brand=Family Dollar"
+"Pioneer, CA",,retail,445120,Happy Hour Food & Liquot,"5115 Pony Express Trail, CA",1-530-644-2843,,38.7455641,-120.6305912,,,w_917144187,shop=convenience
+"Pioneer, CA",,retail,445210,Kings Meats,"787 Pleasant Valley Road, Diamond Springs, CA, 95619",+15304975398,https://kingsmeats.net/,38.6952105,-120.8056655,,,w_921540632,shop=butcher
+"Pioneer, CA",,retail,445110,Raley's,,,,38.3393959,-120.7667277,,,w_962491667,"shop=supermarket, brand=Raley's"
+"Pioneer, CA",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ca/valley-springs/17118,38.189354,-120.8279734,,,w_965100488,"shop=variety_store, brand=Dollar General"
+"Pioneer, CA",,retail,445110,Grocery Outlet,,,,38.1899887,-120.8259933,,,w_965100489,"shop=supermarket, brand=Grocery Outlet"
+"Pioneer, CA",,retail,452319,Dollar Tree,"11986 CA-88, Jackson, CA, 95642",+1-209-418-6137,https://www.dollartree.com/locations/ca/jackson/1735/,38.3629178,-120.8003226,,,w_966308842,"shop=variety_store, brand=Dollar Tree"
+"Pioneer, CA",,retail,445110,Save Mart,"11980 CA-88, Jackson, CA, 95642",+1-209-223-5945,https://savemart.com/stores/jackson-609/4934,38.362303,-120.8014299,,,w_966308843,"shop=supermarket, brand=Save Mart"
+"Pioneer, CA",,retail,453991,Your Cigarette Source,,,,38.3621068,-120.8027159,,,w_971468685,shop=tobacco
+"Pioneer, CA",,retail,446120,Tan Yer Hide,"12070 Industry Boulevard, Jackson, CA, 95642",,,38.3683167,-120.8007425,,,w_971507668,shop=beauty
+"Pioneer, CA",,retail,446120,Martell Nails & Spa,"12070 Industry Boulevard, Jackson, CA, 95642",,,38.368279,-120.8008784,,,w_971507670,shop=beauty
+"Pioneer, CA",,retail,446120,Jackson Nails,,,,38.3618944,-120.8022974,,,w_971804290,shop=beauty
+"Pioneer, CA",,retail,445120,ampm,"10923 CA 49, Jackson, CA, 95642",,,38.3670982,-120.796715,,,w_971832809,"shop=convenience, brand=ampm"
+"Pioneer, CA",,retail,445110,Cost Less,,,,38.3425936,-120.76911,,,w_972711574,shop=supermarket
+"Pioneer, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/jackson-ca-pharmacies/515-s-state-highway-49-jackson-ca-95642/storeid=9233,38.343755,-120.7703202,,,w_972711590,"shop=chemist, brand=CVS Pharmacy"
+"Pioneer, CA",,retail,453991,Discount Cigarettes Cigars,,,,38.3440472,-120.770485,,,w_972711591,shop=tobacco
+"Pioneer, CA",,retail,446120,Top Nails,,,,38.344082,-120.7705345,,,w_972711592,shop=beauty
+"Pioneer, CA",,retail,445310,Jeff Runquist Winery,"10776 Shenandoah Road, Plymouth, CA, 95669",,,38.5167146,-120.8224317,,,w_983880259,shop=wine
+"Pioneer, CA",,retail,445310,,,,,38.5411219,-120.796032,,,w_1081239787,shop=wine
+"Pioneer, CA",,retail,446110,CVS Pharmacy,"6450 Pony Express Trail, Pollock Pines, CA, 95726",,https://www.cvs.com/store-locator/pollock-pines-ca-pharmacies/6450-pony-express-trl-pollock-pines-ca-95726/storeid=9490,38.7618363,-120.579729,,,w_1084726709,"shop=chemist, brand=CVS Pharmacy"
+"Pioneer, CA",,retail,445120,Chevron,"3600 Carson Road, Camino, CA, 95709",,,38.7404512,-120.6977526,,,w_1085743007,"shop=convenience, brand=Chevron"
+"Pioneer, CA",,retail,445120,Food Mart,,,,38.3783174,-120.8019422,,,w_1102158200,"shop=convenience, brand=Food Mart"
+"Pioneer, CA",,retail,445110,Holiday Market,"4653 Mount Aukum Road, Placerville, CA",,,38.6822389,-120.6616868,,,w_1280036929,shop=supermarket
+"Pioneer, CA",,retail,446191,Placerville Food Coop,535 Placerville Drive,,,38.7335548,-120.826004,,,w_1280066798,shop=health_food
+"Pioneer, CA",,retail,445120,Mobil Mart,,,,38.7359831,-120.7104662,,,w_1280344184,"shop=convenience, brand=Mobil Mart"
+"Pioneer, CA",,retail,445120,Shell,,,,38.7278485,-120.8046827,,,w_1280900885,"shop=convenience, brand=Shell"
+"Pioneer, CA",,retail,445120,Chevron,,,,38.6863306,-120.6682101,,,w_1290816132,"shop=convenience, brand=Chevron"
+"Pioneer, CA",,retail,445120,7-Eleven,,,,38.714135,-120.843877,,,w_1291891496,"shop=convenience, brand=7-Eleven"
+"Pioneer, CA",,retail,445120,76,"1178 Broadway, Placerville, CA",,,38.7306948,-120.7887914,,,w_1324176091,"shop=convenience, brand=76"

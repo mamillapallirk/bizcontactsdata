@@ -1,0 +1,21 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"June Lake, CA",,retail,445120,Tuolumne Meadows Store,,,,37.8743563,-119.3568343,,,n_1445875679,shop=convenience
+"June Lake, CA",,retail,445120,Mono Market,"51303 Main Street, Lee Vining, CA, 93541",+1-760-647-1010,https://www.monomarketca.com/,37.955568,-119.1189194,,,n_2359487480,shop=convenience
+"June Lake, CA",,retail,452319,JLLWC Thrift Store,"90 Granite Avenue, June Lake",,,37.7785063,-119.0805248,,,n_3180225955,shop=variety_store
+"June Lake, CA",,retail,445292,Chocolate Factory,,,,37.6384709,-118.9647133,,,n_7838192519,shop=confectionery
+"June Lake, CA",,retail,445310,Country Liquor and Deli,,,,37.6453948,-118.9682914,,,n_7838192536,shop=alcohol
+"June Lake, CA",,retail,445120,,,,,37.9472846,-119.1137534,,,n_9165090260,shop=convenience
+"June Lake, CA",,retail,452319,,,,,37.5976103,-118.8504463,,,n_9244938925,shop=general
+"June Lake, CA",,retail,452319,Red's Meadow General Store,,,,37.6148488,-119.0750705,,,n_9960377819,shop=general
+"June Lake, CA",,retail,445210,Mammoth Butcher and Seafood,"3399 Main Street, Mammoth Lakes, CA, 93546",+1 (760) 709-2120,,37.6478169,-118.972945,,,n_13014637667,shop=butcher
+"June Lake, CA",,retail,445120,Chevron,"51557 US 395, Lee Vining, CA, 93541",,,37.9587266,-119.1212825,,,w_42149319,"shop=convenience, brand=Chevron"
+"June Lake, CA",,retail,445120,June Lake Junction,"40341 395, June Lake",,,37.8126419,-119.0541166,,,w_42151121,"shop=convenience, amenity=cafe"
+"June Lake, CA",,retail,445120,Fern Creek Store,4628 Boulder Drive,,,37.7660607,-119.1039045,,,w_42151695,"shop=convenience, operator=Fern Creek Lodge"
+"June Lake, CA",,retail,445120,Pine Cliff General Store,,,,37.7972291,-119.0760126,,,w_42153815,shop=convenience
+"June Lake, CA",,retail,445110,June Lake General Store,"2740 Boulder Drive, June Lake, 93529",,,37.7783128,-119.0758934,,,w_42153865,shop=supermarket
+"June Lake, CA",,retail,445120,Latin Market,"1566 Tavern Road, Mammoth Lakes City",,,37.6454081,-118.9674399,,,w_42188220,"shop=convenience, amenity=fast_food"
+"June Lake, CA",,retail,445120,Shell,,,,37.6461815,-118.9656952,,,w_42192362,"shop=convenience, brand=Shell, operator=Food Mart"
+"June Lake, CA",,retail,445310,A-Frame Liquor,3453 Main Street,,,37.6480858,-118.9734086,,,w_42193433,shop=alcohol
+"June Lake, CA",,retail,445110,Vons,"481 Old Mammoth Road, Mammoth Lakes, CA, 93546",+1 760-934-4536,https://local.vons.com/ca/mammoth-lakes/481-old-mammoth-rd.html,37.6386286,-118.9652099,,,w_132666498,"shop=supermarket, brand=Vons"
+"June Lake, CA",,retail,452319,,,,,37.6948733,-118.7585727,,,w_908623105,shop=general
+"June Lake, CA",,retail,445110,Grocery Outlet,37 Old Mammoth Road,+1 (760) 934-1510,https://www.groceryoutlet.com/grand-opening/mammoth-lakes-ca,37.6456466,-118.9657528,,,w_1011054255,"shop=supermarket, brand=Grocery Outlet"

@@ -1,0 +1,384 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"El Centro, CA",,retail,445120,,,,,32.6373234,-115.5143382,,,n_872250646,shop=convenience
+"El Centro, CA",,retail,445120,Oxxo,Mexicali,,,32.6082048,-115.472064,,,n_1317731830,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,Mexicali,,https://www.oxxo.com/tiendas?cr=50JUV,32.6023256,-115.472949,,,n_1317734639,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50OHL,32.6038441,-115.380228,,,n_1418757941,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50BEW,32.6020071,-115.374775,,,n_1418757944,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,7-Eleven,Mexicali,,,32.6483146,-115.453077,,,n_1804702159,"shop=convenience, brand=7-Eleven"
+"El Centro, CA",,retail,445120,Oxxo,Mexicali,,https://www.oxxo.com/tiendas?cr=50PNO,32.6490028,-115.452033,,,n_1806639622,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Dax,,,,32.6592941,-115.4514382,,,n_1806653042,shop=convenience
+"El Centro, CA",,retail,445110,Superior,Mexicali,,,32.6461887,-115.4602432,,,n_1814483907,shop=supermarket
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50LEX,32.6515806,-115.461126,,,n_1821015081,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50IWW,32.6528407,-115.461287,,,n_1821015088,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50NCI,32.6416993,-115.460163,,,n_1823590157,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50QBC,32.6363796,-115.456863,,,n_1824941128,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,7-Eleven,,,,32.6363119,-115.453098,,,n_1824941130,"shop=convenience, brand=7-Eleven"
+"El Centro, CA",,retail,445110,Carnicería y Frutería Don Victor.,Mexicali,,,32.646777,-115.465157,,,n_1826921081,shop=supermarket
+"El Centro, CA",,retail,445120,Oxxo,Boulevard Benito Juárez,,https://www.oxxo.com/tiendas?cr=50ONV,32.6342246,-115.447624,,,n_1827216448,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445110,Smart & Final,Mexicali,,,32.6491762,-115.47073,,,n_1834615110,"shop=supermarket, brand=Smart & Final"
+"El Centro, CA",,retail,445110,"Tienda Ley ""Independencia""",,,,32.6378051,-115.4553458,,,n_2067125856,shop=supermarket
+"El Centro, CA",,retail,445110,Super Chivas,,,,32.5885049,-115.4483913,,,n_2067125859,shop=supermarket
+"El Centro, CA",,retail,445120,7-Eleven,,,,32.588577,-115.4493301,,,n_2067125879,"shop=convenience, brand=7-Eleven"
+"El Centro, CA",,retail,445120,OXXO,,,,32.5896868,-115.4496654,,,n_2067125881,shop=convenience
+"El Centro, CA",,retail,445120,OXXO,,,,32.5923598,-115.457636,,,n_2067125884,shop=convenience
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50GKR,32.5986918,-115.461217,,,n_2067125892,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50MIL,32.6460896,-115.505981,,,n_2071813694,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445110,Calimax,,,,32.6618659,-115.4578515,,,n_2071837976,shop=supermarket
+"El Centro, CA",,retail,445110,Abarrotes LG,,,,32.6344365,-115.5076846,,,n_2573846847,shop=supermarket
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50MVR,32.6008912,-115.483382,,,n_3349691899,"shop=convenience, brand=Oxxo, operator=Oxxo"
+"El Centro, CA",,retail,445120,Super Chivas,,,,32.6042426,-115.4830768,,,n_3349710866,"shop=convenience, operator=Super Chivas"
+"El Centro, CA",,retail,445120,Extra,,,,32.6042043,-115.4842952,,,n_3349732833,shop=convenience
+"El Centro, CA",,retail,452319,Waldo's,,,,32.6035883,-115.4777345,,,n_3352946227,"shop=variety_store, operator=Waldo's"
+"El Centro, CA",,retail,452319,DAX,,,,32.6036116,-115.4774557,,,n_3352946870,"shop=variety_store, operator=DAX"
+"El Centro, CA",,retail,445110,Ley,,,,32.6036506,-115.4766854,,,n_3352951447,"shop=supermarket, operator=Ley"
+"El Centro, CA",,retail,452210,Elektra,,,https://www.elektra.mx,32.6036986,-115.475922,,,n_3352952329,"shop=department_store, brand=Elektra, operator=Elektra"
+"El Centro, CA",,retail,445120,,,,,32.6933322,-115.4660025,,,n_3357168874,shop=convenience
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50ONU,32.6118185,-115.4796377,,,n_3362736744,"shop=convenience, brand=Oxxo, operator=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50GHC,32.6042245,-115.4803057,,,n_3362881378,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50GLT,32.6075398,-115.4793257,,,n_3366902125,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50CPI,32.6089024,-115.488565,,,n_3366973914,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,K,,,,32.6524801,-115.3755643,,,n_3709932683,shop=convenience
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50ZUE,32.6641782,-115.4937812,,,n_3783860101,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,452210,La Mejor,,,,32.6657549,-115.4955695,,,n_3853946536,shop=department_store
+"El Centro, CA",,retail,445110,OXXO,,,,32.6245268,-115.4223858,,,n_3860744345,shop=supermarket
+"El Centro, CA",,retail,445110,OXXO,,,,32.6040104,-115.4280613,,,n_3860744348,shop=supermarket
+"El Centro, CA",,retail,445120,7-Eleven,,,,32.6120007,-115.438135,,,n_3860744350,"shop=convenience, brand=7-Eleven"
+"El Centro, CA",,retail,445110,,,,,32.6220208,-115.4489311,,,n_3860744353,shop=supermarket
+"El Centro, CA",,retail,445110,Calimax,,,,32.6244348,-115.4210825,,,n_3860746301,shop=supermarket
+"El Centro, CA",,retail,445110,,,,,32.6020797,-115.4255874,,,n_3860746302,shop=supermarket
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50TYH,32.5966444,-115.4772542,,,n_4156609815,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445110,Bodega Aurrera,,,,32.6152858,-115.397186,,,n_4238768990,"shop=supermarket, brand=Bodega Aurrera"
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50QAS,32.6373866,-115.4135155,,,n_4238777991,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,452210,,P.I. Pimsa III,,,32.584308,-115.3759441,,,n_4261499191,shop=department_store
+"El Centro, CA",,retail,445110,Absa ,,,,32.6495222,-115.4697907,,,n_4261519893,shop=supermarket
+"El Centro, CA",,retail,452210,Andercraft de México,vía de la producción,,,32.5907485,-115.3759586,,,n_4261536189,shop=department_store
+"El Centro, CA",,retail,452210,,Calle Calafia,,,32.6395928,-115.4714425,,,n_4261536589,shop=department_store
+"El Centro, CA",,retail,445110,Food 4 Less,,,,32.6804215,-115.5015159,,,n_4261536590,"shop=supermarket, brand=Food 4 Less"
+"El Centro, CA",,retail,452210,Jonatha mfg,PI.  siglo 21 Ave. Venustiano Carranza ,,,32.6450522,-115.4048151,,,n_4297364389,shop=department_store
+"El Centro, CA",,retail,452210,JCPenney,East 2nd Street,,,32.6669794,-115.4944913,,,n_4564222890,"shop=department_store, brand=JCPenney"
+"El Centro, CA",,retail,452210,Target,"2295 North Imperial Avenue, El Centro, CA, 92243",+1-760-482-5400,https://www.target.com/sl/el-centro/1816,32.8136699,-115.567066,,,n_4682522591,"shop=department_store, brand=Target"
+"El Centro, CA",,retail,445310,Date Shake,,,,33.0376783,-115.6221574,,,n_4728087489,shop=beverages
+"El Centro, CA",,retail,445110,Central de Abastos Mexicali,,,,32.5743936,-115.3429063,,,n_4788724590,shop=supermarket
+"El Centro, CA",,retail,445110,Walmart Supercenter,"250 Wildcat Drive, Brawley, CA, 92227",+1 760-351-0186,https://www.walmart.com/store/5335-brawley-ca,32.962431,-115.545833,,,n_5315597613,"shop=supermarket, brand=Walmart, operator=Walmart"
+"El Centro, CA",,retail,445110,Mercado Ferbis,,,,32.6335879,-115.4931601,,,n_5326536164,shop=supermarket
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=5092K,32.6320114,-115.4964994,,,n_5326557102,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50MWN,32.6331814,-115.4939727,,,n_5326558127,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,7-Eleven,,,,32.6330459,-115.493439,,,n_5326558645,"shop=convenience, brand=7-Eleven"
+"El Centro, CA",,retail,445120,Circle K,,,,32.6319888,-115.4959119,,,n_5326559221,"shop=convenience, brand=Circle K"
+"El Centro, CA",,retail,445110,Mercado Tito's,,,,32.6336986,-115.4903304,,,n_5326561647,shop=supermarket
+"El Centro, CA",,retail,453110,,,,,32.6373474,-115.4952532,,,n_5326568256,shop=florist
+"El Centro, CA",,retail,452210,Waldo's,,,,32.623346,-115.4960301,,,n_5326600920,shop=department_store
+"El Centro, CA",,retail,445230,Frutas y verduras Nena,,,,32.6539442,-115.4983575,,,n_5376808022,shop=greengrocer
+"El Centro, CA",,retail,445120,Oxxo Montes de Oca,,,,32.6489313,-115.4179787,,,n_5383242527,shop=convenience
+"El Centro, CA",,retail,445110,Calimax,,,,32.6057596,-115.3805335,,,n_5383260908,shop=supermarket
+"El Centro, CA",,retail,445110,Ley Periférico,,,,32.6388046,-115.4150698,,,n_5383649327,shop=supermarket
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=509ZD,32.6241826,-115.420371,,,n_5592101305,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50MOW,32.6536498,-115.385641,,,n_5666942385,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50GMJ,32.6374173,-115.408726,,,n_5666974071,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,452319,Dollar Tree,"2300 Cottonwood Drive, El Centro, CA, 92243",,https://www.dollartree.com/locations/ca/el-centro/3748/,32.8150303,-115.572345,,,n_5682901400,"shop=variety_store, brand=Dollar Tree"
+"El Centro, CA",,retail,445110,Food 4 Less,"2420 Cottonwood Drive, El Centro, CA, 92243",,,32.8157132,-115.572594,,,n_5682904280,"shop=supermarket, brand=Food 4 Less"
+"El Centro, CA",,retail,446120,Styles & Smiles,"1802 North Imperial Avenue, El Centro, CA, 92243",,,32.8091782,-115.5717337,,,n_5683001742,shop=beauty
+"El Centro, CA",,retail,446120,Lee nails & spa,,,,32.6802116,-115.4999328,,,n_5683332488,shop=beauty
+"El Centro, CA",,retail,445120,,,,,32.7717179,-115.5551695,,,n_5685926052,shop=convenience
+"El Centro, CA",,retail,446191,2gosalad,,,,32.6934638,-115.4955164,,,n_5686170535,shop=health_food
+"El Centro, CA",,retail,452319,Dollar Tree,,,,32.7824316,-115.5512307,,,n_5691352262,"shop=variety_store, brand=Dollar Tree"
+"El Centro, CA",,retail,445110,Dollar General Market,"El Centro, CA",+1 442-258-3242,https://www.dollargeneral.com/store-directory/ca/el-centro/14455,32.7975055,-115.5714468,,,n_5700633292,"shop=supermarket, brand=Dollar General"
+"El Centro, CA",,retail,452319,Super 99 Cents Store,,,,32.7802143,-115.5527219,,,n_5700765243,shop=variety_store
+"El Centro, CA",,retail,445310,BevMo!,,,,32.7677768,-115.5343668,,,n_5718337841,"shop=alcohol, brand=BevMo!"
+"El Centro, CA",,retail,446120,Ulta Beauty,"508 East Danenberg Drive, El Centro, CA, 92243",+1 760-353-1745,https://www.ulta.com/stores/el-centro-ca-723,32.7674993,-115.53377,,,n_5718337846,"shop=beauty, brand=Ulta Beauty"
+"El Centro, CA",,retail,452210,dd's Discounts,,,,32.7698188,-115.532846,,,n_5718342532,"shop=department_store, brand=dd's Discounts"
+"El Centro, CA",,retail,452319,99 Cents Only Stores,,,,32.769798,-115.533179,,,n_5718342533,"shop=variety_store, brand=99 Cents Only Stores"
+"El Centro, CA",,retail,445110,El Sol Market,"El Centro, CA, 92243",,,32.7953109,-115.5822245,,,n_5718756702,shop=supermarket
+"El Centro, CA",,retail,445110,Soriana,,,,32.6076304,-115.435789,,,n_5771643878,"shop=supermarket, brand=Soriana"
+"El Centro, CA",,retail,445110,Walmart Supercenter,,,,32.6336914,-115.385035,,,n_5882648927,"shop=supermarket, brand=Walmart"
+"El Centro, CA",,retail,445310,Michoacana,"Laguna Mayrán, Mexicali, 21354",,,32.5983217,-115.4867303,,,n_6294803234,shop=beverages
+"El Centro, CA",,retail,445120,Oxxo el Rey,"Camino de los Reyes, Mexicali, 21354",,,32.5995766,-115.4882046,,,n_6294811211,shop=convenience
+"El Centro, CA",,retail,445110,,,,,32.6205369,-115.4738218,,,n_6312942958,shop=supermarket
+"El Centro, CA",,retail,452210,Dillard's,,+1 760-370-0190,https://www.dillards.com/stores/california/imperial-valley-mall-el-centro/0962,32.7652223,-115.5307199,,,n_6334495610,"shop=department_store, brand=Dillard's"
+"El Centro, CA",,retail,452210,Sears,,,,32.7609169,-115.5303155,,,n_6334495613,"shop=department_store, brand=Sears"
+"El Centro, CA",,retail,452210,Macy's,,,https://www.macys.com/stores/ca/elcentro/imperial-valley-mall_554.html,32.761927,-115.5315091,,,n_6334495614,"shop=department_store, brand=Macy's"
+"El Centro, CA",,retail,452210,JCPenney,,,,32.7638177,-115.531448,,,n_6334495615,"shop=department_store, brand=JCPenney"
+"El Centro, CA",,retail,445120,Oxxo,"21138 pluton, mexicali, BC",,https://www.oxxo.com/tiendas?cr=50UPT,32.6310278,-115.5637348,,,n_6556438525,"shop=convenience, brand=Oxxo, operator=Fomento Económico Mexicano S.A.B. de C.V."
+"El Centro, CA",,retail,452210,Coppel,,,,32.6570146,-115.4133319,,,n_6662292699,"shop=department_store, brand=Coppel"
+"El Centro, CA",,retail,445110,Black And White Colectivo,,,,32.6566281,-115.4704221,,,n_6902848310,shop=supermarket
+"El Centro, CA",,retail,452319,Cklass Exprés,Calzada Francisco López Montejano,,,32.625696,-115.4519061,,,n_7092113585,shop=variety_store
+"El Centro, CA",,retail,452210,Elektra,,,https://www.elektra.mx,32.5783624,-115.3602617,,,n_7357824724,"shop=department_store, brand=Elektra"
+"El Centro, CA",,retail,446120,San Diego Nails,,,,32.7793327,-115.553031,,,n_7663094188,shop=beauty
+"El Centro, CA",,retail,453991,Smoke4Less,,,,32.7816672,-115.5514233,,,n_7663181024,shop=tobacco
+"El Centro, CA",,retail,452319,99 Cents Plus,,,,32.7822861,-115.5506812,,,n_7663361536,shop=variety_store
+"El Centro, CA",,retail,446120,Lovely Nails,,,,32.7820279,-115.5506919,,,n_7663361537,shop=beauty
+"El Centro, CA",,retail,452319,Super 99 Cents,,,,32.7870087,-115.5521056,,,n_7663472096,shop=variety_store
+"El Centro, CA",,retail,446120,Crystal Nails,,,,32.7770336,-115.5529331,,,n_7666464349,shop=beauty
+"El Centro, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/brawley/184-w-main-st-23229,32.978196,-115.5434194,,,n_8162704911,"shop=convenience, brand=7-Eleven"
+"El Centro, CA",,retail,446120,GB Estudio de Imagen,"1501 Avenida Eucalipto, Mexicali, Baja California, 21376",52 686 1146402,,32.6420709,-115.3842014,,,n_8448636750,"shop=beauty, operator=Gloria Baez"
+"El Centro, CA",,retail,445120,Speedway,"1791 Maggio Road, Calexico, CA, 92231",+1 760 768 8730,https://www.speedway.com/locations/store/4346,32.6855532,-115.3801713,,,n_9177257898,"shop=convenience, brand=Speedway"
+"El Centro, CA",,retail,445120,Speedway,"525 East 5th Street, Holtville, CA, 92250",,,32.8112865,-115.3748406,,,n_9178077189,"shop=convenience, brand=Speedway"
+"El Centro, CA",,retail,445110,California Super Market,"601 South Imperial Avenue, Calexico, CA, 92231",,,32.6712905,-115.4994795,,,n_9178086819,shop=supermarket
+"El Centro, CA",,retail,445120,7-Eleven,"904 South Imperial Avenue, Calexico, CA, 92231",+1 760 357 4246,https://www.7-eleven.com/locations/ca/calexico/904-imperial-ave-23409,32.6760206,-115.4982296,,,n_9178086832,"shop=convenience, brand=7-Eleven"
+"El Centro, CA",,retail,445120,Speedway,"824 South Imperial Avenue, Calexico, CA, 92231",,https://www.speedway.com/locations/CA/Calexico/824-S-Imperial-Ave,32.6750997,-115.4982553,,,n_9178086842,"shop=convenience, brand=Speedway"
+"El Centro, CA",,retail,445120,Speedway,"1302 South Imperial Avenue, El Centro, CA, 92243",,,32.7811157,-115.5701834,,,n_9178111449,"shop=convenience, brand=Speedway"
+"El Centro, CA",,retail,445110,El So Market,,,,32.9784958,-115.5309785,,,n_9188055480,shop=supermarket
+"El Centro, CA",,retail,445110,SuperISSSTE,,,,32.6440722,-115.476209,,,n_9216769484,"shop=supermarket, brand=SuperISSSTE"
+"El Centro, CA",,retail,445120,7-Eleven,"113 Rockwood Avenue, Calexico, CA, 92231-2747",+1 760-357-0131,https://www.7-eleven.com/locations/ca/calexico/113-rockwood-ave-34656,32.6659659,-115.4964671,,,n_9438754002,"shop=convenience, brand=7-Eleven"
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50USW,32.664047,-115.4950958,,,n_9482245372,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,446110,,,,,32.664314,-115.4915251,,,n_9482245400,shop=chemist
+"El Centro, CA",,retail,445110,MERCADO EL CIPRES,"SN Calzada el Robledo, MEXICALI, 21384",,,32.5735064,-115.4022627,,,n_11296149427,"shop=supermarket, operator=CELPRO"
+"El Centro, CA",,retail,445110,ABARROTES VA-NE,"2953 Avenida De Los Deseos, Mexicali, 21225",,,32.6608876,-115.3950785,,,n_11308225356,shop=supermarket
+"El Centro, CA",,retail,445120,ABARROTES DON LUIS,"1801 Avenida Castilleja, MEXICALI, 21327",,,32.591241,-115.4917618,,,n_11315872669,shop=convenience
+"El Centro, CA",,retail,445310,MODELORAMA 3 HERMANOS,"390 Avenida Gabriela Mistral, Mexcali, 21340",,,32.6194608,-115.4695,,,n_11316381421,shop=beverages
+"El Centro, CA",,retail,445120,MISCELANEA Y ABARROTES TALiTA,"2781 Avenida Francia, Mexicali, 21165",,,32.6365853,-115.5209131,,,n_11317918726,shop=convenience
+"El Centro, CA",,retail,445120,ABARROTES EL REY 2,"Calle Hacienda Katanchel, MEXICALI, 21135",,,32.6409098,-115.5493214,,,n_11347406361,shop=convenience
+"El Centro, CA",,retail,445110,BAJA FRESH MARKET,"2100-1 Calle Novena, Mexicali, 21378",,,32.6215809,-115.3878391,,,n_11352383169,shop=supermarket
+"El Centro, CA",,retail,445120,ABARROTES LA PADILLA,"1747 Avenida General Miguel Barragán, Mexicali, 21320",,,32.6074057,-115.50463,,,n_11388394408,shop=convenience
+"El Centro, CA",,retail,445120,TORTILLERIA EL HUMO DEL SABOR,"566 Boulevard Magallanes, Mexicali, 21379",,,32.6157056,-115.4134323,,,n_11398576646,shop=convenience
+"El Centro, CA",,retail,445120,ABARROTES EL DON,"221 Avenida Sinaloa, Mexicali Baja California, 21140",,,32.6451658,-115.4843991,,,n_11457543864,shop=convenience
+"El Centro, CA",,retail,445110,MINI SUPER PRIMERA,"2301 Calle Primera, Mexicali Baja California, 21399",,,32.6139086,-115.3994921,,,n_11488902416,shop=supermarket
+"El Centro, CA",,retail,445120,ABARROTES LA ESQUINITA CACHANILLA,"8090 Calzada Campesinos, Mexicali Baja California, 21137",,,32.6558023,-115.54255,,,n_11489112665,shop=convenience
+"El Centro, CA",,retail,445110,FRUTERIA Y CARNICERIA SUPER MORALES,"2099 Avenida Río San Fernando, Mexicali Baja California, 21399",,,32.6096787,-115.4030637,,,n_11489403018,shop=supermarket
+"El Centro, CA",,retail,445310,MODELORAMA PERU,"798 Avenida República de Perú, Mexicali, 21210",,,32.6605026,-115.4355537,,,n_11512091068,shop=beverages
+"El Centro, CA",,retail,445120,ABARROTES ALVARADO,"3646 Calle Cholulteca, MEXICALI, BAJA CALIFORNIA, 21395",,,32.5710484,-115.374278,,,n_11547317448,shop=convenience
+"El Centro, CA",,retail,445120,El Florido-Portales,"1955 Calzada Manuel Gómez Morín, Mexicali, Baja California, 21323",,,32.5963928,-115.4951034,,,n_11997152032,shop=convenience
+"El Centro, CA",,retail,445120,El Florido-Sucursal Ejido Puebla,"45 Avenida Ignacio Zaragoza, Mexicali, Baja California, 21620",,,32.571873,-115.348371,,,n_11997159330,shop=convenience
+"El Centro, CA",,retail,445120,El Florido-Venecia,"1199 Calle Manuel Gómez Morín, Mexicali, Baja California, 21353",,,32.5961807,-115.4687613,,,n_11997173711,shop=convenience
+"El Centro, CA",,retail,445120,El Florido-Gómez Morín,"2146 Calzada Manuel Gómez Morín, Mexicali, Baja California, 21379",,,32.6220762,-115.4181704,,,n_11997173884,shop=convenience
+"El Centro, CA",,retail,446120,DAX,,,,32.6463313,-115.5204174,,,n_12688790059,shop=cosmetics
+"El Centro, CA",,retail,445110,Mercado Super chivas,,,,32.6461071,-115.5204133,,,n_12688790060,"shop=supermarket, operator=MERCADOS SUPERCHIVAS"
+"El Centro, CA",,retail,445292,Dulcería El Vaquero,,,,32.6462868,-115.5191042,,,n_12688790061,shop=confectionery
+"El Centro, CA",,retail,445120,7-Eleven,,,,32.6442902,-115.5180887,,,n_12688857042,"shop=convenience, brand=7-Eleven"
+"El Centro, CA",,retail,452319,PANDA Tienda China,,,,32.6460926,-115.5201328,,,n_12688857090,shop=variety_store
+"El Centro, CA",,retail,445110,Nena's Frutería Michoacan,"Avenida Michoacán, Mexicali, B.C.",,,32.6557942,-115.5064944,,,n_12690280724,shop=supermarket
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6535691,-115.3799093,,,n_12758365546,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445110,Mercado 2001,,,,32.6425474,-115.3888272,,,n_12815638332,shop=supermarket
+"El Centro, CA",,retail,445110,Fruteria Welton,"Boulevard Anáhuac, 21354",,,32.5967277,-115.4788585,,,n_12882387301,shop=supermarket
+"El Centro, CA",,retail,445120,VIP Market,"1999 Boulevard Lázaro Cárdenas, 21376",,,32.6193967,-115.4015559,,,n_12921397701,shop=convenience
+"El Centro, CA",,retail,446120,Vlesh Nail Spa Salon,"1501 Avenida Eucalipto, Mexicali, Baja California, 21376",,,32.6420744,-115.3840595,,,n_13043848973,shop=beauty
+"El Centro, CA",,retail,445110,Ley,,,,32.6224589,-115.4929394,,,w_52596532,shop=supermarket
+"El Centro, CA",,retail,445110,Ley Periferico,,,,32.6389039,-115.415079,,,w_54661243,"shop=supermarket, operator=Ley"
+"El Centro, CA",,retail,452210,Walmart,,,,32.6575971,-115.41412,,,w_54669959,"shop=department_store, brand=Walmart"
+"El Centro, CA",,retail,445110,Calimax,Mexicali,,,32.6054534,-115.4775988,,,w_54925714,shop=supermarket
+"El Centro, CA",,retail,445110,Vons,"475 West Main Street, Brawley, CA, 92227",+1 760-351-3002,https://local.vons.com/ca/brawley/475-w-main-st.html,32.9791258,-115.5503838,,,w_128846269,"shop=supermarket, brand=Vons"
+"El Centro, CA",,retail,445110,Vons,"750 North Imperial Avenue, El Centro, CA, 92243",+1 760-353-4603,https://local.vons.com/ca/el-centro/750-n-imperial-ave.html,32.7989198,-115.5717481,,,w_131288686,"shop=supermarket, brand=Vons"
+"El Centro, CA",,retail,445110,Calimax,,,,32.6619209,-115.4577595,,,w_169204247,shop=supermarket
+"El Centro, CA",,retail,445110,Soriana,,,,32.6396416,-115.4513356,,,w_169503654,"shop=supermarket, brand=Soriana"
+"El Centro, CA",,retail,445110,SuperISSSTE,,,,32.6446698,-115.4528486,,,w_169794578,"shop=supermarket, brand=SuperISSSTE"
+"El Centro, CA",,retail,445110,Ley,,,,32.6377514,-115.4553371,,,w_169846581,shop=supermarket
+"El Centro, CA",,retail,445120,FiLLCO,,,,32.6682651,-115.4983371,,,w_192434705,shop=convenience
+"El Centro, CA",,retail,445110,Walmart Supercenter,"2540 Rockwood Avenue, Calexico, CA, 92231",+1 760-768-5013,https://www.walmart.com/store/1859-calexico-ca,32.6976524,-115.4965146,,,w_192502230,"shop=supermarket, brand=Walmart, operator=Walmart"
+"El Centro, CA",,retail,445120,7-Eleven,,,,32.6695632,-115.4981808,,,w_192548624,"shop=convenience, brand=7-Eleven"
+"El Centro, CA",,retail,445110,Soriana Híper,,,,32.6218173,-115.4780813,,,w_193797858,"shop=supermarket, brand=Soriana"
+"El Centro, CA",,retail,445110,Soriana,,,,32.5933154,-115.4756181,,,w_193808800,shop=supermarket
+"El Centro, CA",,retail,445110,Bodega Aurrera,,,,32.5939801,-115.4783288,,,w_193808806,shop=supermarket
+"El Centro, CA",,retail,445110,Super Ley,"779 Calzada Manuel Gómez Morín, Mexicali, B.C., 21137",,,32.6480471,-115.5325562,,,w_194026676,shop=supermarket
+"El Centro, CA",,retail,445110,Calimax,,,https://tienda.calimax.com.mx,32.6458102,-115.522216,,,w_194026687,shop=supermarket
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50CCW,32.6391619,-115.4722015,,,w_194043381,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,452210,Soriana,,,,32.6418377,-115.4698384,,,w_194043383,shop=department_store
+"El Centro, CA",,retail,445120,Circulo K,"3757 Blvd. Lázaro Cárdenas, Mexicali, 21395",,,32.6001688,-115.370543,,,w_263435812,shop=convenience
+"El Centro, CA",,retail,445110,Walmart,Mexicali,,,32.62262,-115.455719,,,w_266176498,shop=supermarket
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6694579,-115.3937606,,,w_373191400,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,7-Eleven,"2420 West Wake Avenue, El Centro, CA, 92243",+1 760-337-6975,https://www.7-eleven.com/locations/ca/el-centro/2420-s-4th-st-39518,32.7707787,-115.5527041,,,w_376923221,"shop=convenience, brand=7-Eleven"
+"El Centro, CA",,retail,452210,Liverpool,"202 Boulevard Adolfo López Mateos, Mexicali, 21100",,,32.6565107,-115.4764807,,,w_383219482,"shop=department_store, brand=Liverpool"
+"El Centro, CA",,retail,445120,ampm,"398 Aurora Drive, El Centro, CA, 92243",,,32.7790508,-115.5517327,,,w_401873943,"shop=convenience, brand=ampm"
+"El Centro, CA",,retail,445120,Circle K,"123 East Main Street, Westmorland, CA, 92281",,,33.0377919,-115.621127,,,w_403665359,"shop=convenience, brand=Circle K"
+"El Centro, CA",,retail,446110,Rite Aid,,,https://www.riteaid.com/locations/ca/calexico/211-west-birch-street.html,32.6796499,-115.5003889,,,w_423527387,"shop=chemist, brand=Rite Aid"
+"El Centro, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/calexico/1101-andrade-ave-36027,32.6799511,-115.4832625,,,w_453638203,"shop=convenience, brand=7-Eleven"
+"El Centro, CA",,retail,445120,Circle K,"Calexico, CA, 92231",,,32.6933468,-115.4830602,,,w_453639236,"shop=convenience, brand=Circle K"
+"El Centro, CA",,retail,445110,Walmart Supercenter,"2150 North Waterman Avenue, El Centro, CA, 92243",+1 760-337-1600,https://www.walmart.com/store/1555-el-centro-ca,32.8134697,-115.5773832,,,w_474228932,"shop=supermarket, brand=Walmart, operator=Walmart"
+"El Centro, CA",,retail,445120,El Centinela,,,,32.6602705,-115.4395144,,,w_500759458,shop=convenience
+"El Centro, CA",,retail,445120,Agua y Hielo IGUAZU,"Boulevard Benito Juárez, Mexicali",,,32.6103434,-115.4380891,,,w_549649403,shop=convenience
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50OLL,32.6045043,-115.3647112,,,w_554341019,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50FRD,32.5998983,-115.3688039,,,w_554341020,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445110,Aldi,"2260 North Imperial Avenue, El Centro, CA, 92243-1334",+1-760-332-1457,https://stores.aldi.us/ca/el-centro/2260-n-imperial-ave,32.8144094,-115.5712202,,,w_596610524,"shop=supermarket, brand=Aldi"
+"El Centro, CA",,retail,445110,Cardenas,"1319 North Imperial Avenue, El Centro, CA, 92243",,,32.8080343,-115.5718442,,,w_596627716,"shop=supermarket, brand=Cardenas"
+"El Centro, CA",,retail,445110,Lucky,"West Wake Avenue, El Centro, CA, 92243",,,32.7703159,-115.5503618,,,w_597059927,"shop=supermarket, brand=Lucky"
+"El Centro, CA",,retail,445110,Cardenas,,,,32.6913857,-115.496951,,,w_597065478,"shop=supermarket, brand=Cardenas"
+"El Centro, CA",,retail,445120,,,,,32.6946091,-115.5007503,,,w_597088976,shop=convenience
+"El Centro, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/el-centro/815-west-adams-ave-24811,32.7960904,-115.561789,,,w_597530240,"shop=convenience, brand=7-Eleven"
+"El Centro, CA",,retail,445120,,,,,32.8012966,-115.5705903,,,w_599025446,shop=convenience
+"El Centro, CA",,retail,453110,,,,,32.7985739,-115.5706368,,,w_599061596,shop=florist
+"El Centro, CA",,retail,445110,Smart & Final,"El Centro, CA, 92243",,,32.7978937,-115.5716491,,,w_599061613,"shop=supermarket, brand=Smart & Final"
+"El Centro, CA",,retail,453110,,"El Centro, CA",,,32.799144,-115.5695516,,,w_599063567,shop=florist
+"El Centro, CA",,retail,445120,Food Mart,,,,32.7812356,-115.5527647,,,w_599075688,shop=convenience
+"El Centro, CA",,retail,445120,Shell,"El Centro, CA, 92243",,,32.7787081,-115.5527955,,,w_599075733,"shop=convenience, brand=Shell"
+"El Centro, CA",,retail,445120,,,,,32.7961109,-115.569464,,,w_599078565,shop=convenience
+"El Centro, CA",,retail,445120,,"El Centro, CA, 92243",,,32.792557,-115.5362337,,,w_601771752,shop=convenience
+"El Centro, CA",,retail,445120,Mc Neece,"El Centro, CA, 92243",,,32.7933808,-115.5360921,,,w_601771760,shop=convenience
+"El Centro, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/el-centro/2050-4th-street-21836,32.7756239,-115.5528441,,,w_601773282,"shop=convenience, brand=7-Eleven"
+"El Centro, CA",,retail,445120,ampm,,,,32.7923875,-115.569308,,,w_601775635,"shop=convenience, brand=ampm"
+"El Centro, CA",,retail,445120,,"South Imperial Avenue, El Centro, CA, 92243",,,32.7776017,-115.570161,,,w_601781292,shop=convenience
+"El Centro, CA",,retail,445120,,,,,32.7766055,-115.5690625,,,w_601781312,shop=convenience
+"El Centro, CA",,retail,445120,ampm,,,,32.7609198,-115.5341117,,,w_601785060,"shop=convenience, brand=ampm"
+"El Centro, CA",,retail,452319,Dollar Tree,,,,32.7619457,-115.5333936,,,w_601785062,"shop=variety_store, brand=Dollar Tree"
+"El Centro, CA",,retail,452210,Kohl's,"808 East Danenberg Drive, El Centro, CA, 92243",+1 760-337-1214,https://www.kohls.com/stores/ca/elcentro-1434.shtml,32.7683259,-115.5273697,,,w_601785075,"shop=department_store, brand=Kohl's"
+"El Centro, CA",,retail,445310,El Centro Liquor Store,,,,32.7914926,-115.5527638,,,w_601787896,shop=alcohol
+"El Centro, CA",,retail,445120,Circle K,"South 5th Street, El Centro, CA, 92243",,,32.7901216,-115.5544702,,,w_601787898,"shop=convenience, brand=Circle K"
+"El Centro, CA",,retail,445210,Kennedy's Karne,,,,32.7962932,-115.5664857,,,w_601835037,shop=butcher
+"El Centro, CA",,retail,445120,,"El Centro, CA, 92243",,,32.7968312,-115.5780961,,,w_601841016,shop=convenience
+"El Centro, CA",,retail,445110,ALDI,"2450 Rockwood Avenue, Calexico, CA, 92231-4403",+1 760-564-3711,https://stores.aldi.us/ca/calexico/2450-rockwood-ave,32.6949745,-115.4955892,,,w_602675901,"shop=supermarket, brand=ALDI"
+"El Centro, CA",,retail,445120,Kennedys,,,,32.7310334,-115.5282538,,,w_602680101,shop=convenience
+"El Centro, CA",,retail,453110,Vannash Florist,"419 South 4th Street, El Centro, CA, 92243",+1 (760) 353-5675,https://www.vannashflorist.com/,32.7896033,-115.5521834,,,w_602683746,shop=florist
+"El Centro, CA",,retail,445120,,,,,32.785753,-115.5615404,,,w_603090246,shop=convenience
+"El Centro, CA",,retail,445120,Shell,"Calexico, CA, 92231",,,32.6701591,-115.4982585,,,w_605356083,"shop=convenience, brand=Shell"
+"El Centro, CA",,retail,445120,,"Calexico, CA, 92231",,,32.6786198,-115.4982777,,,w_605362728,shop=convenience
+"El Centro, CA",,retail,445120,,"Calexico, CA, 92231",,,32.678598,-115.4991613,,,w_605362731,shop=convenience
+"El Centro, CA",,retail,445110,El Sol Market,"Calexico, CA, 92231",,,32.6786715,-115.5002879,,,w_605362734,shop=supermarket
+"El Centro, CA",,retail,445110,Sol Market,"1586 South 4th Street, El Centro, CA, 92243",,,32.7795275,-115.5531721,,,w_606430646,shop=supermarket
+"El Centro, CA",,retail,445120,,,,,32.7972084,-115.5547451,,,w_607119167,shop=convenience
+"El Centro, CA",,retail,445120,Euclid Market,"El Centro, CA, 92243",,,32.7980833,-115.5572388,,,w_607119178,shop=convenience
+"El Centro, CA",,retail,445120,Pico market,"West Pico Avenue, El Centro, CA, 92243",,,32.8058835,-115.5617107,,,w_610328246,shop=convenience
+"El Centro, CA",,retail,445310,Michoacana,"Laguna Mayrán, Mexicali, 21354",,,32.5983294,-115.4867366,,,w_672206030,shop=beverages
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50BCR,32.599559,-115.4882133,,,w_672209368,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Chevron,"South 4th Street, El Centro, CA, 92243",,,32.7750965,-115.5515941,,,w_675649562,"shop=convenience, brand=Chevron"
+"El Centro, CA",,retail,445210,Bonaprime,,,,32.653793,-115.4116883,,,w_711927243,shop=butcher
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50Z2M,32.6322209,-115.3866411,,,w_771958822,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445110,Ley Express,,,,32.5782905,-115.3595273,,,w_787036688,shop=supermarket
+"El Centro, CA",,retail,452210,Coppel,,,,32.5784089,-115.3598767,,,w_787036691,shop=department_store
+"El Centro, CA",,retail,445120,7-Eleven,,,,32.5819456,-115.5839859,,,w_816725622,"shop=convenience, brand=7-Eleven"
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50EXI,32.5824166,-115.5856019,,,w_816725625,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50JKC,32.5890226,-115.5795521,,,w_816725626,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50UJI,32.5807171,-115.5853095,,,w_816725629,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50NZX,32.5838541,-115.5739772,,,w_816725630,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50AIF,32.5938485,-115.5760384,,,w_816725631,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/calexico/2850/,32.6919184,-115.4969629,,,w_821604824,"shop=variety_store, brand=Dollar Tree"
+"El Centro, CA",,retail,445120,Circle K,,,,32.9792287,-115.5098681,,,w_877313132,"shop=convenience, brand=Circle K"
+"El Centro, CA",,retail,445120,Prime,,,,32.9781008,-115.5096985,,,w_877313134,shop=convenience
+"El Centro, CA",,retail,445120,7-Eleven,,,,32.9784483,-115.5433471,,,w_877320838,"shop=convenience, brand=7-Eleven"
+"El Centro, CA",,retail,445120,Shell Food Mart,,,,32.9790406,-115.5477074,,,w_877321160,shop=convenience
+"El Centro, CA",,retail,445120,Seeley Market,"1805 West Evan Hewes Highway, Seeley, CA, 92273",,,32.7907401,-115.6909772,,,w_988721188,shop=convenience
+"El Centro, CA",,retail,445120,Sinclair,,,,32.6673705,-115.4982333,,,w_993440230,"shop=convenience, brand=Sinclair, operator=Sinclair"
+"El Centro, CA",,retail,445110,El Sol Market,,,,32.8470355,-115.5708587,,,w_994988220,shop=supermarket
+"El Centro, CA",,retail,452319,Lucky Market,,+52 (686) 523-6139,,32.6612379,-115.4915585,,,w_1028508427,shop=general
+"El Centro, CA",,retail,445120,Circle K,,,,32.7972558,-115.5690006,,,w_1032741687,"shop=convenience, brand=Circle K"
+"El Centro, CA",,retail,445120,Pilot,,,,32.9779199,-115.5038747,,,w_1080972242,"shop=convenience, brand=Pilot"
+"El Centro, CA",,retail,452319,Family Dollar,"1400 Main Street, Brawley, CA, 92227",,,32.9782004,-115.5182628,,,w_1080975660,"shop=variety_store, brand=Family Dollar"
+"El Centro, CA",,retail,446110,Rite Aid,"405 West Main Street, Brawley, CA, 92227",+17603445732,https://www.riteaid.com/locations/ca/brawley/405-west-main-street.html,32.9791322,-115.5485959,,,w_1110430044,"shop=chemist, brand=Rite Aid"
+"El Centro, CA",,retail,452210,Coppel,,,,32.6231854,-115.4946015,,,w_1149212477,"shop=department_store, brand=Coppel"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6242448,-115.4918165,,,w_1149212483,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445110,El Florido-Américas,"101 Calzada De Las Américas, Mexicali, Baja California, 21200",,,32.6632212,-115.4496479,,,w_1152866972,shop=supermarket
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50EUC,32.6432823,-115.3990992,,,w_1158237721,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445110,Calimax,"1419 Blvr. Venustiano Carranza, Mexicali, 21255",+52 800 225 4629,,32.6413216,-115.3982677,,,w_1158237722,shop=supermarket
+"El Centro, CA",,retail,445110,Smart & Final,,,,32.6540814,-115.3933464,,,w_1175371119,"shop=supermarket, brand=Smart & Final"
+"El Centro, CA",,retail,445110,Mercado el Roble,,,,32.6534073,-115.3980204,,,w_1175753136,shop=supermarket
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50ECJ,32.6373124,-115.3989047,,,w_1175754962,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445110,Walmart Supercenter,,,,32.63368,-115.3850494,,,w_1175938051,"shop=supermarket, brand=Walmart"
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50KYY,32.6274565,-115.387927,,,w_1175945576,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445110,Calimax,,,,32.6567281,-115.4174789,,,w_1176051861,shop=supermarket
+"El Centro, CA",,retail,445110,Superchivas,,,,32.6578393,-115.4167642,,,w_1176053961,shop=supermarket
+"El Centro, CA",,retail,445110,MERCADO EL CIPRES,"SN Calzada el Robledo, MEXICALI, 21384",,,32.5735152,-115.4022516,,,w_1219066131,shop=supermarket
+"El Centro, CA",,retail,445120,ABARROTES VA-NE,"2953 Avenida De Los Deseos, Colonia del Alamo, Mexicali, 21225",,,32.6608667,-115.3950765,,,w_1220357306,shop=convenience
+"El Centro, CA",,retail,445120,ABARROTES DON LUIS,"1801 Avenida Castilleja, MEXICALI, 21327",,,32.5912416,-115.4917601,,,w_1221062602,shop=convenience
+"El Centro, CA",,retail,445310,MODELORAMA 3 HERMANOS,"390 Avenida Gabriela Mistral, Mexcali, 21340",,,32.6195007,-115.4694956,,,w_1221080669,shop=beverages
+"El Centro, CA",,retail,445120,MISCELANEA Y ABARROTES TALITA,"2781 Avenida Francia, Mexicali, 21165",,,32.636589,-115.5209126,,,w_1221113408,shop=convenience
+"El Centro, CA",,retail,445120,ABARROTES EL REY 2,"Calle Hacienda Katanchel, MEXICALI, 21135",,,32.640899,-115.5492865,,,w_1223335783,shop=convenience
+"El Centro, CA",,retail,445120,ABARROTES LA PADILLA,"1747 Avenida General Miguel Barragán, Mexicali, 21320",,,32.6074521,-115.504647,,,w_1228084383,shop=convenience
+"El Centro, CA",,retail,445120,TORTILLERIA EL HUMO DEL SABOR,566 Boulevard Magallanes,,,32.6156897,-115.4134282,,,w_1229120547,shop=convenience
+"El Centro, CA",,retail,445120,7-Eleven,"211 West 5th Street, Holtville, CA, 92250",,,32.8111647,-115.3818884,,,w_1232138878,"shop=convenience, brand=7-Eleven"
+"El Centro, CA",,retail,445120,ABARROTES EL DON,"221 Avenida Sinaloa, Mexicali Baja California, 21140",,,32.645119,-115.4843985,,,w_1234451229,shop=convenience
+"El Centro, CA",,retail,452319,Family Dollar,"308 West 5th Street, Holtville, CA, 92250",,,32.8104499,-115.3829395,,,w_1235145368,"shop=variety_store, brand=Family Dollar"
+"El Centro, CA",,retail,445110,MINI SUPER PRIMERA,"2301 Calle Primera, Mexicali Baja California, 21399",,,32.61394,-115.3994502,,,w_1237079184,shop=supermarket
+"El Centro, CA",,retail,445120,ABARROTES LA ESQUINITA CACHANILLA,"8090 Calzada Campesinos, Mexicali Baja California, 21137",,,32.6557906,-115.5425427,,,w_1237098570,shop=convenience
+"El Centro, CA",,retail,445110,FRUTERIA Y CARNICERIA SUPER MORALES,"2099 Avenida Río San Fernando, Mexicali Baja California, 21399",,,32.6097581,-115.403056,,,w_1237120010,shop=supermarket
+"El Centro, CA",,retail,445310,Modelorama,"798 Avenida República de Perú, Mexicali, 21210",,,32.6604806,-115.4355527,,,w_1239211699,"shop=alcohol, brand=Modelorama"
+"El Centro, CA",,retail,445120,ABAROOTES ALVARADO,"3646 Calle Cholulteca, MEXICALI, BAJA CALIFORNIA, 21395",,,32.5710344,-115.3742549,,,w_1242605029,shop=convenience
+"El Centro, CA",,retail,445120,"Abarrotes ""La Tiendita""",,,,32.5512399,-115.3341743,,,w_1268601670,shop=convenience
+"El Centro, CA",,retail,445120,"Abarrotes ""Amigo.Com""",,,,32.5501377,-115.334964,,,w_1268601767,shop=convenience
+"El Centro, CA",,retail,445120,"Agencia ""Mia""",,,,32.5517078,-115.3365142,,,w_1268602061,shop=convenience
+"El Centro, CA",,retail,445120,Mercado Ramona #2,,,,32.5518742,-115.3347802,,,w_1268602136,shop=convenience
+"El Centro, CA",,retail,445120,"Abarrotes ""Jimenez""",,,,32.5506243,-115.337306,,,w_1268602272,shop=convenience
+"El Centro, CA",,retail,445120,,,,,32.6044817,-115.4356048,,,w_1283212877,shop=convenience
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6426175,-115.389521,,,w_1289500809,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6169826,-115.3750349,,,w_1289502147,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445110,Ferbis Grocerant,,,,32.6536037,-115.3909188,,,w_1309072594,shop=supermarket
+"El Centro, CA",,retail,445110,Soriana Súper,,,,32.6389979,-115.3844775,,,w_1309897419,"shop=supermarket, brand=Soriana"
+"El Centro, CA",,retail,452210,Coppel,"779 Calzada Manuel Gómez Morín, Mexicali, B.C., 21137",,https://www.coppel.com/,32.6476382,-115.5325562,,,w_1369818605,"shop=department_store, brand=Coppel"
+"El Centro, CA",,retail,445120,Oxxo,"Avenida Santa Isabel y Calle Bahía de Lucerna, Mexicali, B.C., 21137",,,32.6469815,-115.5224577,,,w_1369820925,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,"Avenida Santa Isabel y Luis Donaldo Colosio, Mexicali, B.C., 21137",,https://www.oxxo.com/,32.6468571,-115.5302105,,,w_1370108680,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Circle K,,,,32.6470791,-115.5293608,,,w_1370108684,"shop=convenience, brand=Circle K"
+"El Centro, CA",,retail,445292,Dulcería y Repostería La Estrellita,"Avenida Santa Isabel, Mexicali, B.C., 21137",,,32.646969,-115.5289987,,,w_1370108688,shop=confectionery
+"El Centro, CA",,retail,445292,Dulcería KARMELITA'S,"452 Calle México, Mexicali, B.C., 21100",,,32.6596014,-115.4863806,,,w_1370121500,shop=confectionery
+"El Centro, CA",,retail,445110,Frutería Welton,,,,32.6512759,-115.5343566,,,w_1370127635,shop=supermarket
+"El Centro, CA",,retail,445120,Six,,,,32.651013,-115.5331676,,,w_1370127636,"shop=convenience, brand=Six"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6355092,-115.4958284,,,w_1370145677,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6564087,-115.5086087,,,w_1370251447,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6564366,-115.506206,,,w_1370251452,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,452210,Coppel,"Mexicali, B.C., 21120",,,32.6559015,-115.5054746,,,w_1370251453,"shop=department_store, brand=Coppel"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6489317,-115.5294357,,,w_1370431934,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,7-Eleven,"Calzada Manuel Gómez Morín, Mexicali, B.C.",,,32.6529243,-115.5339511,,,w_1370760393,"shop=convenience, brand=7-Eleven"
+"El Centro, CA",,retail,445110,Mercado Super chivas,,,,32.6529426,-115.5332054,,,w_1370760394,"shop=supermarket, operator=MERCADOS SUPERCHIVAS"
+"El Centro, CA",,retail,445110,Bodega Aurrera,"Mexicali, B.C.",,https://www.bodegaaurrera.com.mx/inicio,32.6588318,-115.5343606,,,w_1370760396,"shop=supermarket, brand=Bodega Aurrera"
+"El Centro, CA",,retail,445110,Bodega Aurrera,,,,32.6225544,-115.5590037,,,w_1371942455,"shop=supermarket, brand=Bodega Aurrera"
+"El Centro, CA",,retail,452210,Elektra,,,,32.6443776,-115.5052901,,,w_1371942458,"shop=department_store, brand=Elektra"
+"El Centro, CA",,retail,445110,Tienda Ley,,,,32.6446863,-115.5050715,,,w_1371942459,shop=supermarket
+"El Centro, CA",,retail,452319,Waldo's,,,,32.6476752,-115.5341317,,,w_1373181945,"shop=variety_store, brand=Waldo's"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6448189,-115.5203927,,,w_1373216622,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,446110,Boticas San José,,,,32.6626386,-115.4938203,,,w_1373262566,shop=chemist
+"El Centro, CA",,retail,445120,7-Eleven,"1283 Avenida General Ignacio Zaragoza, Mexicali, B.C., 21100",,,32.6607665,-115.4712504,,,w_1373835631,"shop=convenience, brand=7-Eleven"
+"El Centro, CA",,retail,445110,aprecio,,,,32.5805657,-115.3656291,,,w_1374547824,shop=supermarket
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6394169,-115.5229295,,,w_1374616972,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445110,Nena's Frutería,,,,32.6375252,-115.5182735,,,w_1374616975,shop=supermarket
+"El Centro, CA",,retail,445110,El Florido,"Calle Uxmal, Mexicali, B.C., 21050",,,32.6386786,-115.4946355,,,w_1374618031,shop=supermarket
+"El Centro, CA",,retail,452210,Walmart,,,,32.6212346,-115.506706,,,w_1374869088,"shop=department_store, brand=Walmart"
+"El Centro, CA",,retail,452210,,,,,32.6215147,-115.5076491,,,w_1374869091,"shop=department_store, brand=Coppel"
+"El Centro, CA",,retail,452319,Waldo's,,,,32.6216278,-115.5092109,,,w_1374869097,"shop=variety_store, brand=Waldo's"
+"El Centro, CA",,retail,452319,Miniso,,,,32.6214896,-115.50914,,,w_1374869098,"shop=variety_store, brand=Miniso"
+"El Centro, CA",,retail,445110,Smart & Final,,,,32.6235158,-115.509624,,,w_1374874806,"shop=supermarket, brand=Smart & Final"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.621767,-115.5109719,,,w_1374874807,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445292,Dulcería El Vaquero,"Boulevard Lázaro Cárdenas, Mexicali, 21185",,,32.6215947,-115.5109695,,,w_1374874810,shop=confectionery
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6225575,-115.510818,,,w_1374874815,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6221279,-115.5142168,,,w_1374874816,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6509318,-115.5258887,,,w_1374877033,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445110,Ley,,,,32.6596776,-115.4786582,,,w_1374898796,shop=supermarket
+"El Centro, CA",,retail,452210,Coppel,,,,32.6593411,-115.4778831,,,w_1374898797,"shop=department_store, brand=Coppel"
+"El Centro, CA",,retail,452210,Sears,,,,32.6582171,-115.4787238,,,w_1374898798,"shop=department_store, brand=Sears"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6233552,-115.4986996,,,w_1374919681,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6234232,-115.4850001,,,w_1374923850,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6242104,-115.4864256,,,w_1374923851,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445110,Mercado Tito's,,,,32.6301045,-115.4924779,,,w_1374930413,shop=supermarket
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6461922,-115.5344694,,,w_1375103683,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6487402,-115.5370193,,,w_1375103686,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6547185,-115.5342203,,,w_1375103687,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6540624,-115.5402725,,,w_1375103688,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6467482,-115.5419848,,,w_1375103689,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6541687,-115.5492562,,,w_1375103690,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6619196,-115.5020177,,,w_1375152633,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6575725,-115.5007462,,,w_1375152634,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6559782,-115.497105,,,w_1375152635,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6559142,-115.4975921,,,w_1375152636,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6578447,-115.4917965,,,w_1375152637,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6303495,-115.5138105,,,w_1375161779,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6348158,-115.5104086,,,w_1375162865,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6383088,-115.5103304,,,w_1375162866,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6346725,-115.5185874,,,w_1375163235,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445110,Mercado Super chivas,,,,32.6423691,-115.5051978,,,w_1375164008,"shop=supermarket, operator=MERCADOS SUPERCHIVAS"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6412061,-115.5053381,,,w_1375164009,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6115594,-115.5199472,,,w_1375378170,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6173151,-115.508704,,,w_1375378171,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6130187,-115.5057563,,,w_1375378509,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6103993,-115.5045674,,,w_1375378510,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6562661,-115.5224232,,,w_1375407852,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6432143,-115.4773312,,,w_1375407853,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6388399,-115.4779212,,,w_1375407854,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.62277,-115.4795002,,,w_1375440455,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6240526,-115.4765672,,,w_1375440457,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,https://www.oxxo.com,32.5665891,-115.4836245,,,w_1375479872,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.5714515,-115.4790212,,,w_1375480989,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.5730397,-115.48487,,,w_1375480990,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.5736281,-115.4711499,,,w_1375480991,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.5772408,-115.4715451,,,w_1375480992,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.5788621,-115.470922,,,w_1375480993,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.5784403,-115.4774036,,,w_1375480994,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.57817,-115.4800747,,,w_1375480995,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.5792006,-115.4921208,,,w_1375480996,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.5791751,-115.4981844,,,w_1375480997,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.5874397,-115.4984606,,,w_1375480998,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.5873348,-115.4929475,,,w_1375480999,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6697087,-115.4028411,,,w_1377892258,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6644229,-115.4051605,,,w_1377892259,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6625783,-115.3937873,,,w_1377892260,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6614949,-115.3819385,,,w_1377892261,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6601954,-115.3743855,,,w_1377892262,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.655814,-115.3893536,,,w_1377892263,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6615379,-115.4036182,,,w_1377892264,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,,,,32.6181574,-115.482701,,,w_1377895795,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,"Calle Cataratas del Niágara, Mexicali, B.C., 21339",,https://www.oxxo.com,32.6182248,-115.4884618,,,w_1377895796,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Oxxo,"2261 Calle Novena, Mexicali, B.C., 21600",,,32.6150416,-115.3856411,,,w_1420068740,"shop=convenience, brand=Oxxo"
+"El Centro, CA",,retail,445120,Vip Market,"Calle Novena, Mexicali, B.C., 21376",,,32.6351672,-115.3864628,,,w_1420286422,shop=convenience

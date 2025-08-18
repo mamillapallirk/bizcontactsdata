@@ -1,0 +1,950 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Granite Bay, CA",,retail,445110,Nugget Markets,"771 Pleasant Grove Boulevard, Roseville, CA, 95678",916-746-7799,https://www.nuggetmarket.com/locations/roseville/,38.7897526,-121.279782,,,n_584344388,"shop=supermarket, brand=Nugget Market"
+"Granite Bay, CA",,retail,445110,Foodmaxx,"4708 Manzanita Avenue, 95608",9169799191,https://foodmaxx.com,38.649725,-121.326109,,,n_702357125,"shop=supermarket, brand=Save Mart"
+"Granite Bay, CA",,retail,445110,Bel Air,"3250 Arena Boulevard, 95834",,,38.6418424,-121.533552,,,n_955382076,"shop=supermarket, brand=Bel Air"
+"Granite Bay, CA",,retail,445120,,,,,38.7961166,-121.3146935,,,n_994186688,shop=convenience
+"Granite Bay, CA",,retail,445120,Circle K,,,,38.7443787,-121.308297,,,n_1000755891,"shop=convenience, brand=Circle K"
+"Granite Bay, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/roseville/3223/,38.7624832,-121.3127424,,,n_1001572811,"shop=variety_store, brand=Dollar Tree"
+"Granite Bay, CA",,retail,445310,BevMo!,,,,38.7887666,-121.28368,,,n_1012904215,"shop=alcohol, brand=BevMo!"
+"Granite Bay, CA",,retail,445110,Whole Foods Market,"1001 Galleria Boulevard, Roseville, CA, 95678",+1 916-781-5300,https://www.wholefoodsmarket.com/stores/roseville,38.7673647,-121.2670545,,,n_1014167614,"shop=supermarket, brand=Whole Foods Market"
+"Granite Bay, CA",,retail,446120,Bath & Body Works,,,,38.7745565,-121.2622119,,,n_1016591521,"shop=cosmetics, brand=Bath & Body Works"
+"Granite Bay, CA",,retail,446120,Ulta Beauty,"1232 Galleria Boulevard, Roseville, CA, 95678",+1 916-780-1117,https://www.ulta.com/stores/roseville-ca-103,38.7734493,-121.2612831,,,n_1016591533,"shop=beauty, brand=Ulta Beauty"
+"Granite Bay, CA",,retail,446120,Island Nails,,,,38.7828255,-121.2663727,,,n_1017716173,shop=beauty
+"Granite Bay, CA",,retail,446120,B. B. Nail Spa,"731 Pleasant Grove Boulevard, CA",,,38.790301,-121.2788157,,,n_1021875769,shop=beauty
+"Granite Bay, CA",,retail,446120,The Lash Lounge,"731 Pleasant Grove Boulevard, CA",,,38.7901989,-121.2788936,,,n_1021875770,shop=beauty
+"Granite Bay, CA",,retail,445120,,,,,38.6424552,-121.1902117,,,n_1095300030,shop=convenience
+"Granite Bay, CA",,retail,453110,Heaven Scent,,,,38.7717234,-121.3154487,,,n_1099437156,shop=florist
+"Granite Bay, CA",,retail,446120,Threaded Beauty,,,,38.7621588,-121.3126618,,,n_1099465034,shop=beauty
+"Granite Bay, CA",,retail,445310,Liquor & Wine,,,,38.762037,-121.312614,,,n_1099465036,shop=beverages
+"Granite Bay, CA",,retail,453991,Three Monkeys,,,,38.7622108,-121.3126832,,,n_1099465053,shop=tobacco
+"Granite Bay, CA",,retail,446120,,,,,38.7607596,-121.31195,,,n_1099485939,shop=beauty
+"Granite Bay, CA",,retail,446120,Top Ten Nails,,,,38.7606933,-121.3123256,,,n_1099485954,shop=beauty
+"Granite Bay, CA",,retail,446120,Trendy Nails,"4006 Foothills Boulevard, Roseville, 95747",916-783-6878,,38.752588,-121.3111553,,,n_1099552955,shop=beauty
+"Granite Bay, CA",,retail,446120,Nails Mode,,,,38.7541425,-121.3107668,,,n_1099553001,shop=beauty
+"Granite Bay, CA",,retail,446120,,,,,38.7895123,-121.2882474,,,n_1100791440,shop=beauty
+"Granite Bay, CA",,retail,446120,Vanity Nails,,,,38.7897814,-121.2838159,,,n_1100791467,shop=beauty
+"Granite Bay, CA",,retail,445120,TowerMart,,,,38.6689914,-121.3819194,,,n_1129268823,shop=convenience
+"Granite Bay, CA",,retail,445310,Antelope Liquors,"8023 Watt Avenue, Antelope, CA, 95843",,,38.714752,-121.394152,,,n_1131906320,shop=alcohol
+"Granite Bay, CA",,retail,446120,London Nails,"7897 Walerga Road, Antelope, CA, 95843",+1 (916) 722-1114,https://londonnailsantelope.com/,38.7111095,-121.366035,,,n_1132068743,shop=beauty
+"Granite Bay, CA",,retail,446120,California Sun,"7903 Walerga Road, Antelope, CA, 95843",,,38.7122018,-121.364884,,,n_1132068766,shop=beauty
+"Granite Bay, CA",,retail,445110,India Supermarket,,,,38.7507539,-121.310677,,,n_1169430434,shop=supermarket
+"Granite Bay, CA",,retail,446120,Crystal Nails,,,,38.7504095,-121.3106745,,,n_1169430439,shop=beauty
+"Granite Bay, CA",,retail,445230,Main Street Grocery,,,,38.7517591,-121.2952493,,,n_1378715963,shop=greengrocer
+"Granite Bay, CA",,retail,445120,ampm,,,,38.7718558,-121.3136663,,,n_1379090633,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445120,Mother Lode Market,"6421 Mother Lode Drive, 95667-8217",,,38.699976,-120.8498372,,,n_1386707683,shop=convenience
+"Granite Bay, CA",,retail,445120,Northgate Food & Liquor,"3016 Northgate Blvd, 95833",,,38.6201238,-121.4749763,,,n_1387999110,shop=convenience
+"Granite Bay, CA",,retail,445310,SP Liquor & Market,"2630 Northgate, 95833",,,38.6127167,-121.4751625,,,n_1406128363,shop=alcohol
+"Granite Bay, CA",,retail,445310,BevMo!,,,,38.9407089,-121.0933058,,,n_1463751014,"shop=alcohol, brand=BevMo!"
+"Granite Bay, CA",,retail,445110,Sprouts Farmers Market,"2030 Douglas Boulevard, Roseville, CA, 95661",+1 916-462-5047,https://www.sprouts.com/store/ca/roseville/roseville-granite-bay/,38.7429147,-121.2519953,,,n_1515105639,"shop=supermarket, brand=Sprouts Farmers Market"
+"Granite Bay, CA",,retail,446120,Pick A Color,"1850 Douglas Boulevard, Roseville, 95661",,,38.7432724,-121.255742,,,n_1515108949,shop=beauty
+"Granite Bay, CA",,retail,445110,Save Mart,,,,38.9053539,-121.074061,,,n_1572051369,"shop=supermarket, brand=Save Mart"
+"Granite Bay, CA",,retail,445110,Grocery Outlet,"415 Grass Valley Highway, 95603",+15308850250,https://www.groceryoutlet.com,38.9047723,-121.07521,,,n_1583415354,"shop=supermarket, brand=Grocery Outlet"
+"Granite Bay, CA",,retail,445110,Grocery Outlet,"424 Roseville Square, Roseville, CA, 95678",,,38.7448798,-121.2762033,,,n_1584813019,"shop=supermarket, brand=Grocery Outlet"
+"Granite Bay, CA",,retail,446120,Beauty 360,,,,38.904937,-121.073862,,,n_1589091546,shop=beauty
+"Granite Bay, CA",,retail,445120,Village Market,,,,38.6410173,-121.2714243,,,n_1609210878,shop=convenience
+"Granite Bay, CA",,retail,445110,Trader Joe's,"5309 Sunrise Boulevard, Fair Oaks, CA, 95628",+1 916-863-1744,https://locations.traderjoes.com/ca/fair-oaks/71/,38.6620983,-121.2749434,,,n_1609230734,"shop=supermarket, brand=Trader Joe's"
+"Granite Bay, CA",,retail,445310,BevMo!,,,,38.6469299,-121.1157099,,,n_1712260341,"shop=alcohol, brand=BevMo!"
+"Granite Bay, CA",,retail,446120,Ulta Beauty,"2381 Iron Point Road, Folsom, CA, 95630",+1 916-984-7582,https://www.ulta.com/stores/folsom-ca-389,38.6442928,-121.1231895,,,n_1712260345,"shop=beauty, brand=Ulta Beauty"
+"Granite Bay, CA",,retail,445110,Food 4 Less,"4551 Mack Road, Sacramento, CA, 95823",,,38.4755431,-121.4492316,,,n_1712260517,"shop=supermarket, brand=Food 4 Less"
+"Granite Bay, CA",,retail,445310,BevMo!,"7929 Greenback Lane, Citrus Heights, CA, 95610",,,38.6798271,-121.2703327,,,n_1737746312,"shop=alcohol, brand=BevMo!"
+"Granite Bay, CA",,retail,445110,Sprouts Farmers Market,"7905 Greenback Lane, Citrus Heights, CA, 95610",+1 916-560-2000,https://www.sprouts.com/store/ca/citrus-heights/greenback-ln/,38.6798103,-121.270794,,,n_1737746314,"shop=supermarket, brand=Sprouts Farmers Market"
+"Granite Bay, CA",,retail,446120,European Wax Center,,,https://locations.waxcenter.com/ca/folsom/folsom-broadstone-0115.html,38.6547276,-121.1221259,,,n_1752655289,"shop=beauty, brand=European Wax Center"
+"Granite Bay, CA",,retail,445110,Belair,,,,38.6609925,-120.9664973,,,n_1771982199,shop=supermarket
+"Granite Bay, CA",,retail,445110,Save Mart,"8839 Greenback Lane, Orangevale, 95662",,,38.6798655,-121.229027,,,n_1795171737,"shop=supermarket, brand=Save Mart"
+"Granite Bay, CA",,retail,445120,Qwik Trip Mart,,,,38.6528992,-121.225993,,,n_1795172133,shop=convenience
+"Granite Bay, CA",,retail,446120,Star Nails,,+1-916-781-2369,,38.7961518,-121.3161503,,,n_1855339904,shop=beauty
+"Granite Bay, CA",,retail,445120,ampm,,,,38.7433492,-121.309673,,,n_1907608850,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445120,Taylors Market,,,,38.6928653,-121.5870823,,,n_2014326840,shop=convenience
+"Granite Bay, CA",,retail,452210,Ross,"3701 Truxel Road, Sacramento, CA, 95834",+1 916-928-1921,,38.6373384,-121.506158,,,n_2014648081,"shop=department_store, brand=Ross"
+"Granite Bay, CA",,retail,452210,Target,"3601 North Freeway Boulevard, Sacramento, CA, 95834",+1 916-576-0487,https://www.target.com/sl/sacramento-natomas/2115,38.6412216,-121.498638,,,n_2015478009,"shop=department_store, brand=Target"
+"Granite Bay, CA",,retail,445310,Natomas Food & Liquor,,,,38.6423034,-121.5189202,,,n_2029655845,shop=alcohol
+"Granite Bay, CA",,retail,452210,Kohl's,"4700 Natomas Boulevard, Sacramento, CA, 95835",+1 916-928-4260,https://www.kohls.com/stores/ca/sacramento-683.shtml,38.6584959,-121.5082395,,,n_2031483833,"shop=department_store, brand=Kohl's"
+"Granite Bay, CA",,retail,445110,Raley's,,,,38.6574654,-121.509945,,,n_2031483845,"shop=supermarket, brand=Raley's"
+"Granite Bay, CA",,retail,452210,Burlington,"5601 Florin Road, Sacramento, CA, 95823-2204",+1 916-399-5726,https://stores.burlington.com/ca/sacramento/370,38.4974034,-121.43971,,,n_2047680022,"shop=department_store, brand=Burlington"
+"Granite Bay, CA",,retail,445110,SF Supermarket,,,,38.5016311,-121.433213,,,n_2047684786,"shop=supermarket, brand=SF Supermarket"
+"Granite Bay, CA",,retail,452210,Macy's,,,https://www.macys.com/stores/ca/sacramento/arden-fair-mall_407.html,38.6002768,-121.425265,,,n_2052220936,"shop=department_store, brand=Macy's"
+"Granite Bay, CA",,retail,452210,JCPenney,,,,38.601786,-121.4259087,,,n_2052220938,"shop=department_store, brand=JCPenney, operator=jcpenny"
+"Granite Bay, CA",,retail,445120,ampm,,,,38.6299952,-121.476056,,,n_2062508374,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445110,FoodCo,3625 Northgate Boulevard,,95834,38.6310722,-121.477043,,,n_2062508419,shop=supermarket
+"Granite Bay, CA",,retail,445120,,,,,38.6299575,-121.4748093,,,n_2062508431,shop=convenience
+"Granite Bay, CA",,retail,445120,Circle K,,,,38.6270276,-121.4759588,,,n_2062514639,"shop=convenience, brand=Circle K"
+"Granite Bay, CA",,retail,445120,Loop,,,,38.6564956,-121.5089181,,,n_2080818402,shop=convenience
+"Granite Bay, CA",,retail,446120,Papillon Salon,"Arena Boulevard, Sacramento, CA, 95834",,,38.6419146,-121.5344108,,,n_2088148590,shop=beauty
+"Granite Bay, CA",,retail,445120,7-Eleven,"6681 Blue Oaks Boulevard, Rocklin, CA, 95765",+1 916-781-0844,https://www.7-eleven.com/locations/ca/rocklin/6681-blue-oaks-blvd-35877,38.7960014,-121.289485,,,n_2089511724,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,445110,SF Supermarket,,,,38.4724152,-121.44876,,,n_2103501933,"shop=supermarket, brand=SF Supermarket"
+"Granite Bay, CA",,retail,445310,BevMo!,"3678 North Freeway Boulevard, Sacramento, CA, 95834",,,38.6374314,-121.496599,,,n_2103979202,"shop=alcohol, brand=BevMo!"
+"Granite Bay, CA",,retail,445120,ampm,,,,38.6546043,-121.47896,,,n_2115078927,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445110,Bel Air,,,,38.6118907,-121.496488,,,n_2116536659,"shop=supermarket, brand=Bel Air"
+"Granite Bay, CA",,retail,445120,7-Eleven,"1552 Jefferson Boulevard, West Sacramento, CA, 95691",+1 916-371-6133,https://www.7-eleven.com/locations/ca/west-sacramento/1552-jefferson-blvd-14093,38.5676824,-121.525827,,,n_2120428957,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,452319,Dollar Tree,"3015 West Capitol Avenue, West Sacramento, CA, 95691",,https://www.dollartree.com/locations/ca/west-sacramento/1215/,38.5770654,-121.5502033,,,n_2120443586,"shop=variety_store, brand=Dollar Tree"
+"Granite Bay, CA",,retail,453991,Discount Cigarettes,"3017 West Capitol Avenue, West Sacramento, CA, 95691",,,38.5772961,-121.5502123,,,n_2120443591,shop=tobacco
+"Granite Bay, CA",,retail,445110,Mercado Loco,"3049 West Capitol Avenue, West Sacramento, CA, 95691",,,38.5781665,-121.5502033,,,n_2120443743,shop=supermarket
+"Granite Bay, CA",,retail,445310,Country West Liquor,"3071 West Capitol Avenue, West Sacramento, CA, 95691",,,38.578944,-121.5502929,,,n_2120443872,shop=alcohol
+"Granite Bay, CA",,retail,452319,Dollar Tree,"West Sacramento, CA, 95691",,https://www.dollartree.com/locations/ca/west-sacramento/5241/,38.5496933,-121.5381723,,,n_2120467983,"shop=variety_store, brand=Dollar Tree"
+"Granite Bay, CA",,retail,445110,99 Ranch Market,,+1 916-429-8899,,38.49457,-121.4570444,,,n_2143340383,"shop=supermarket, brand=99 Ranch Market"
+"Granite Bay, CA",,retail,445110,Raley's,,916-200-4858,,38.6557983,-121.069652,,,n_2278977537,"shop=supermarket, brand=Raley's"
+"Granite Bay, CA",,retail,452210,Target,"430 Blue Ravine Road, Folsom, CA, 95630-3402",+1 916-984-9131,https://www.target.com/sl/Folsom--Target-Store/1098,38.6718137,-121.1526678,,,n_2295122552,"shop=department_store, brand=Target"
+"Granite Bay, CA",,retail,445110,Trader Joe's,"850 East Bidwell Street, Folsom, CA, 95630",+1 916-817-8820,https://locations.traderjoes.com/ca/folsom/172/,38.6724297,-121.1558851,,,n_2295128397,"shop=supermarket, brand=Trader Joe's"
+"Granite Bay, CA",,retail,445110,Walmart Supercenter,"1018 Riley Street, Folsom, CA, 95630",+1 916-983-1090,https://www.walmart.com/store/1760-folsom-ca,38.6683603,-121.1675262,,,n_2295281773,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Granite Bay, CA",,retail,445230,,,,,39.0260169,-121.4511103,,,n_2383794419,shop=greengrocer
+"Granite Bay, CA",,retail,452210,Burlington,"3611 North Freeway Boulevard, Sacramento, CA, 95834",+1 916-285-0258,https://stores.burlington.com/ca/sacramento/865,38.6411731,-121.4976914,,,n_2400014631,"shop=department_store, brand=Burlington"
+"Granite Bay, CA",,retail,445310,Vino Volo,,,,38.6928611,-121.5869717,,,n_2440834034,shop=beverages
+"Granite Bay, CA",,retail,445120,Lincoln Food mart,,,,38.8908255,-121.2847383,,,n_2467331493,shop=convenience
+"Granite Bay, CA",,retail,445230,,,,,38.8860039,-121.2685313,,,n_2467454138,shop=greengrocer
+"Granite Bay, CA",,retail,445120,Weimar Country Store,20170 Paoli Lane,,,39.0318535,-120.9745499,,,n_2489086604,shop=convenience
+"Granite Bay, CA",,retail,452319,Dollar Tree,,,,38.5695505,-121.4937204,,,n_2495634526,"shop=variety_store, brand=Dollar Tree"
+"Granite Bay, CA",,retail,445110,Gold Star Mart,,,,38.5701881,-121.4981018,,,n_2495634923,shop=supermarket
+"Granite Bay, CA",,retail,452210,JCPenney,,,,38.7735193,-121.268035,,,n_2509405324,"shop=department_store, brand=JCPenney"
+"Granite Bay, CA",,retail,445310,Mount Vernon Winery,,+1 530 823 1111,https://mtvernonwinery.com/,38.9158895,-121.1049237,,,n_2526220665,shop=wine
+"Granite Bay, CA",,retail,445110,Food Source,,,,38.6827463,-121.4552798,,,n_2562275944,shop=supermarket
+"Granite Bay, CA",,retail,445120,7-Eleven,"348 Elkhorn Boulevard, Rio Linda, CA, 95673-3303",+1 916-991-0144,https://www.7-eleven.com/locations/ca/rio-linda/348-elkhorn-blvd-23615,38.6835524,-121.4574182,,,n_2562275948,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,445110,Indian Groceries,"2000 Club Center Drive, Sacramento, 95835",(916) 419-2116,http://sacramentoindiangroceries.com/,38.6701019,-121.5046585,,,n_2583206999,shop=supermarket
+"Granite Bay, CA",,retail,445110,Natraj Indian Foods,"4301 Truxel Road, Sacramento, 95834",(916) 515-4899,,38.6498924,-121.5104683,,,n_2583207782,shop=supermarket
+"Granite Bay, CA",,retail,453991,The Dungeon Smoke Shop,,,,38.7856134,-121.2945179,,,n_2583261994,shop=tobacco
+"Granite Bay, CA",,retail,452210,Target,"6507 4th Avenue, Sacramento, CA, 95817",+1 916-503-3678,https://www.target.com/sl/sacramento-east/2492,38.5495395,-121.426261,,,n_2588197283,"shop=department_store, brand=Target"
+"Granite Bay, CA",,retail,452210,Kohl's,"1896 Arden Way, Sacramento, CA, 95815",+1 916-643-9811,https://www.kohls.com/stores/ca/sacramento-1374.shtml,38.596234,-121.4237803,,,n_2588221045,"shop=department_store, brand=Kohl's"
+"Granite Bay, CA",,retail,445310,BevMo!,"3106 Arden Way, Sacramento, 95825",,,38.5952605,-121.391774,,,n_2616857994,"shop=alcohol, brand=BevMo!"
+"Granite Bay, CA",,retail,445110,Rancho San Miguel Markets,"4401 Broadway, Sacramento, CA, 95817",,,38.5472861,-121.455906,,,n_2617822805,shop=supermarket
+"Granite Bay, CA",,retail,445110,FoodMaxx,,,,38.4948653,-121.46112,,,n_2617825633,"shop=supermarket, brand=FoodMaxx"
+"Granite Bay, CA",,retail,445110,Nitta Ranch,"3778 Delmar Avenue, Loomis, 95650",,www.nittaranch.com,38.8175619,-121.219647,,,n_2635702230,"shop=supermarket, operator=Nitta Family"
+"Granite Bay, CA",,retail,446120,Polish Nail Bar,,,,38.7813151,-121.2855165,,,n_2975317112,shop=beauty
+"Granite Bay, CA",,retail,445110,Bel Air,,,,38.6252538,-121.2635602,,,n_2983741065,shop=supermarket
+"Granite Bay, CA",,retail,446120,Bellissima Nail Spa,,,,38.6258931,-121.2637658,,,n_2983749210,shop=beauty
+"Granite Bay, CA",,retail,446120,Foot Spa,,,,38.6240316,-121.26437,,,n_2983750190,shop=beauty
+"Granite Bay, CA",,retail,445110,Davis Ranch,,,,38.4935621,-121.1695904,,,n_2983791594,shop=supermarket
+"Granite Bay, CA",,retail,452319,Rancho Murieta Country Store,,,,38.4956628,-121.0988635,,,n_2983792621,shop=variety_store
+"Granite Bay, CA",,retail,445120,7-Eleven,,,,38.706507,-121.170178,,,n_3065879938,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,452210,Ross,"5112 Commons Drive, Rocklin, CA, 95677-3911",+1 916-652-5901,,38.8034121,-121.209007,,,n_3076013110,"shop=department_store, brand=Ross"
+"Granite Bay, CA",,retail,445110,Trader Joe's,5116 Commons Drive,,,38.8028944,-121.20906,,,n_3076013111,"shop=supermarket, brand=Trader Joe's"
+"Granite Bay, CA",,retail,446120,Ulta Beauty,"5120 Commons Drive, Rocklin, CA, 95677",+1 916-660-9208,https://www.ulta.com/stores/rocklin-ca-1105,38.8025154,-121.209088,,,n_3076013112,"shop=beauty, brand=Ulta Beauty"
+"Granite Bay, CA",,retail,446120,Bath & Body Works,,,,38.8036419,-121.2089968,,,n_3076015964,"shop=cosmetics, brand=Bath & Body Works"
+"Granite Bay, CA",,retail,452319,Five Below,,+1 916-610-0047,https://locations.fivebelow.com/ca/rocklin/5108-commons-drive,38.803756,-121.2089915,,,n_3076015971,"shop=variety_store, brand=Five Below"
+"Granite Bay, CA",,retail,445110,Sprouts Farmers Market,"2735 Marconi Avenue, Sacramento, CA, 95821",+1 916-999-3410,https://www.sprouts.com/store/ca/sacramento/sacramento-town-country/,38.6193357,-121.3983183,,,n_3104444346,"shop=supermarket, brand=Sprouts Farmers Market"
+"Granite Bay, CA",,retail,445110,Grocery Outlet,"2280 Sunrise Boulevard, Rancho Cordova, CA, 95670",916-671-1520,,38.6195838,-121.2691756,,,n_3180195238,"shop=supermarket, brand=Grocery Outlet"
+"Granite Bay, CA",,retail,445110,Smart & Final,,,,38.6165531,-121.270698,,,n_3180195249,"shop=supermarket, brand=Smart & Final"
+"Granite Bay, CA",,retail,452319,7 Stop,,,,38.6137965,-121.2717131,,,n_3180195888,shop=variety_store
+"Granite Bay, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/rancho-cordova/5316/,38.6173851,-121.2708733,,,n_3180197368,"shop=variety_store, brand=Dollar Tree"
+"Granite Bay, CA",,retail,445110,Viva,,,,38.6448411,-121.4586691,,,n_3281579647,shop=supermarket
+"Granite Bay, CA",,retail,452210,Macy's,,,https://www.macys.com/stores/ca/citrusheights/sunrise-mall_410.html,38.6740871,-121.2681841,,,n_3330083463,"shop=department_store, brand=Macy's"
+"Granite Bay, CA",,retail,452210,JCPenney,"6100 Sunrise Boulevard, Citrus Heights, CA, 95610",+1 916-726-8811,https://www.jcpenney.com/locations/ca/citrusheights/clothing-stores-citrusheights-ca-1206.html,38.6753522,-121.268001,,,n_3330083464,"shop=department_store, brand=JCPenney"
+"Granite Bay, CA",,retail,445292,Rocky Mountain Chocolate Factory,,,,38.6430597,-121.1872319,,,n_3359167691,"shop=confectionery, brand=Rocky Mountain Chocolate Factory"
+"Granite Bay, CA",,retail,446120,Bath & Body Works,,,,38.6523126,-121.1250105,,,n_3365984213,"shop=cosmetics, brand=Bath & Body Works"
+"Granite Bay, CA",,retail,452210,Marshalls,,,,38.65398,-121.1271155,,,n_3365984217,"shop=department_store, brand=Marshalls"
+"Granite Bay, CA",,retail,452210,Ross,"2745 East Bidwell Street, Folsom, CA, 95630",+1 916-984-5890,https://www.rossstores.com/,38.6536393,-121.1268709,,,n_3365984222,"shop=department_store, brand=Ross"
+"Granite Bay, CA",,retail,445310,Total Wine,"2765 East Bidwell Street, Folsom, CA, 95630",+1 916-984-6923,https://www.totalwine.com/eng/storeLocator/redirect.cfm?sectionID=b2c/storeLocator/storeDetails.cfm&storeid=1&locationId=17821,38.6529718,-121.1261627,,,n_3365984224,"shop=alcohol, brand=Total Wine"
+"Granite Bay, CA",,retail,446120,Salorah Salon,,,,38.6507018,-121.0658976,,,n_3367562373,shop=beauty
+"Granite Bay, CA",,retail,452210,Target,"4400 Town Center Boulevard, El Dorado Hills, CA, 95762-7130",+1 916-605-0184,https://www.target.com/sl/el-dorado-hills/2270,38.6499626,-121.0621558,,,n_3367640055,"shop=department_store, brand=Target"
+"Granite Bay, CA",,retail,445110,Nugget Markets,"4500 Post Street, El Dorado Hills, CA, 95762",916-933-1433,https://www.nuggetmarket.com/locations/el-dorado-hills/,38.6528595,-121.0672066,,,n_3367652211,shop=supermarket
+"Granite Bay, CA",,retail,446120,Montano Nails,,,,38.6468707,-121.0665141,,,n_3369841096,shop=beauty
+"Granite Bay, CA",,retail,446120,Urban Wax Studios,,,,38.6468336,-121.0668223,,,n_3369841103,shop=beauty
+"Granite Bay, CA",,retail,445292,Candy Heaven,"1201 Front Street, Sacramento, CA",+1 916-447-3404,https://www.facebook.com/pages/Candy-Heaven/164017316961838,38.5811264,-121.506281,,,n_3382505776,shop=confectionery
+"Granite Bay, CA",,retail,445310,BevMo!,,916.502.9927,https://bevmo.com/,38.5775553,-121.4837086,,,n_3383959625,"shop=alcohol, brand=BevMo!"
+"Granite Bay, CA",,retail,446120,Lotus Healing Arts Center,,+1 916-447-4247,https://www.sacramento-hair-salon.com/,38.5770747,-121.4820553,,,n_3384049737,shop=beauty
+"Granite Bay, CA",,retail,452210,Target,"1707 J Street, Sacramento, CA, 95811",+1 916-930-9586,https://www.target.com/sl/sacramento-midtown/3384,38.5778602,-121.483624,,,n_3384049740,"shop=department_store, brand=Target"
+"Granite Bay, CA",,retail,445110,Raley's,,,,38.5829954,-121.514748,,,n_3748087527,"shop=supermarket, brand=Raley's"
+"Granite Bay, CA",,retail,452319,Mini Food Mart,,,,38.5884185,-121.5145915,,,n_3748094804,shop=variety_store
+"Granite Bay, CA",,retail,445110,Arteaga's,,,,38.5904104,-121.5256748,,,n_3748094805,shop=supermarket
+"Granite Bay, CA",,retail,453110,Bryan's Florist,,,,38.8979728,-121.0746371,,,n_3748099532,shop=florist
+"Granite Bay, CA",,retail,445110,Gai's Basket,,,,38.8988234,-121.070135,,,n_3748099535,shop=supermarket
+"Granite Bay, CA",,retail,446120,Asa's Hair Cuts,"4544 Auburn Boulevard, Sacramento, CA, 95841",,,38.6494042,-121.358247,,,n_3895865316,shop=beauty
+"Granite Bay, CA",,retail,453991,Blow and Tell Smoke Shop,"4552 Auburn Boulevard, Sacramento, CA, 95841",,,38.6495337,-121.358096,,,n_3895865317,shop=tobacco
+"Granite Bay, CA",,retail,445120,Liquors,"4554 Auburn Boulevard, Sacramento, CA, 95841",,,38.6497018,-121.358056,,,n_3895865324,shop=convenience
+"Granite Bay, CA",,retail,445110,Good Neighbor European Deli Market,"5111-A College Oak Dr., Sacramento, 95841",,,38.6592576,-121.3510341,,,n_3989014158,shop=supermarket
+"Granite Bay, CA",,retail,452319,99 Cents Only Stores,"4909-1 Auburn Boulevard, Sacramento, 95841",,,38.6596723,-121.350059,,,n_3989020592,"shop=variety_store, brand=99 Cents Only Stores"
+"Granite Bay, CA",,retail,446110,CVS Pharmacy,"8351 Elk Grove Florin Road, Sacramento, CA, 95829",,https://www.cvs.com/store-locator/sacramento-ca-pharmacies/8351-elk-grove-florin-rd-sacramento-ca-95829/storeid=3066,38.4543612,-121.3701123,,,n_4054553083,"shop=chemist, brand=CVS Pharmacy"
+"Granite Bay, CA",,retail,453110,1-800-Flowers.com,"2300 Arden Way, Sacramento, CA, 95825",,,38.5957851,-121.4105053,,,n_4064880394,shop=florist
+"Granite Bay, CA",,retail,445120,Food Mart,,,,38.454932,-121.406453,,,n_4065517135,shop=convenience
+"Granite Bay, CA",,retail,445120,ampm,"2100 Broadway, Sacramento, CA, 95818",,,38.559437,-121.4854554,,,n_4065570404,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,452210,Marshalls,"7975 Greenback Lane, Citrus Heights, CA, 95610",,,38.6796621,-121.2688785,,,n_4076144621,"shop=department_store, brand=Marshalls"
+"Granite Bay, CA",,retail,446120,Beauty By Thread,"5867 Sunrise Boulevard, Citrus Heights, CA, 95610",,,38.6723281,-121.2720173,,,n_4076171122,shop=beauty
+"Granite Bay, CA",,retail,445120,Food Mart,"3701 Franklin Boulevard, Sacramento, CA, 95820",,,38.5407577,-121.4754058,,,n_4085822734,shop=convenience
+"Granite Bay, CA",,retail,445120,Peace Market,,,,38.5719756,-121.4848353,,,n_4093403699,shop=convenience
+"Granite Bay, CA",,retail,445110,Food 4 Less,"3547 Bradshaw Road, Sacramento, CA, 95827",,foodsource.net,38.5584371,-121.33434,,,n_4311966407,"shop=supermarket, brand=Food 4 Less"
+"Granite Bay, CA",,retail,446120,Phenix Salon Suites,,,,38.650472,-121.1215813,,,n_4460957384,shop=beauty
+"Granite Bay, CA",,retail,445292,See's Candies,,,,38.6483479,-121.1182956,,,n_4460957387,"shop=confectionery, brand=See's Candies"
+"Granite Bay, CA",,retail,446120,Threading Place,,,,38.6482013,-121.1192639,,,n_4460957490,shop=beauty
+"Granite Bay, CA",,retail,446120,Maribou,,,,38.6494723,-121.1194208,,,n_4462135994,shop=beauty
+"Granite Bay, CA",,retail,445110,Oto's Marketplace,"4990 Freeport Boulevard, Sacramento, CA",,,38.5289926,-121.49622,,,n_4489792574,shop=supermarket
+"Granite Bay, CA",,retail,446120,Joli Nail Spa,1198 Roseville Parkway,,,38.7680234,-121.2677587,,,n_4512256795,shop=beauty
+"Granite Bay, CA",,retail,446120,California Nails,,,,38.8787712,-121.2937325,,,n_4516188391,shop=beauty
+"Granite Bay, CA",,retail,452319,,,,,38.8924208,-121.293105,,,n_4516194690,"shop=variety_store, brand=Dollar Tree"
+"Granite Bay, CA",,retail,445120,7-Eleven,"320 Lincoln Boulevard, Lincoln, CA, 95648",+1 916-645-8074,https://www.7-eleven.com/locations/ca/lincoln/320-lincoln-blvd-39471,38.889489,-121.2932041,,,n_4516198992,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,445292,Goodi Goodi Gumdrops,,,,38.8911852,-121.2930242,,,n_4516270989,shop=confectionery
+"Granite Bay, CA",,retail,453110,Lincoln Florist & Gifts,"509 Lincoln Boulevard, Lincoln, CA, 95648",+1 916-645-2303,https://lincolnfloristandgifts.com/,38.8920438,-121.2926471,,,n_4517598991,shop=florist
+"Granite Bay, CA",,retail,446120,Woodcreek Nails & Spa,,,,38.7693701,-121.3317891,,,n_4517819990,shop=beauty
+"Granite Bay, CA",,retail,445310,Zebra Town Liquor,,,,38.8863831,-121.2930494,,,n_4517989990,shop=alcohol
+"Granite Bay, CA",,retail,446120,Melody Salon,"1809 S Street, Sacramento, CA, 95811",,,38.5675139,-121.4864731,,,n_4571255284,shop=beauty
+"Granite Bay, CA",,retail,446120,LK Nails,"2791 East Bidwell Street, Folsom, CA, 95630",+1 916-817-8880,,38.6534047,-121.1236667,,,n_4581046988,shop=beauty
+"Granite Bay, CA",,retail,445120,DJ Market,,,,38.5764914,-121.4741501,,,n_4581998149,shop=convenience
+"Granite Bay, CA",,retail,445292,See's Candies,,,,38.5756517,-121.476269,,,n_4581998150,"shop=confectionery, brand=See's Candies"
+"Granite Bay, CA",,retail,445120,Tower Liquor,1525 Broadway,,,38.5620337,-121.4924993,,,n_4590163448,shop=convenience
+"Granite Bay, CA",,retail,445120,Taylor's Market,,,,38.551828,-121.4889435,,,n_4590173466,"shop=convenience, operator=Taylor's Market"
+"Granite Bay, CA",,retail,446120,BLVK Black Salon,2416 16th Street,,,38.5621409,-121.4923227,,,n_4704643178,shop=beauty
+"Granite Bay, CA",,retail,453991,Tower Pipes & Cigars,,,,38.5614614,-121.49337,,,n_4704649217,shop=tobacco
+"Granite Bay, CA",,retail,452210,Walmart,"4300 Missouri Flat Road, Placerville, CA, 95667",+1 530-621-2917,https://www.walmart.com/store/2418-placerville-ca,38.704024,-120.8290516,,,n_4936005121,"shop=department_store, brand=Walmart, operator=Walmart"
+"Granite Bay, CA",,retail,446120,The Sweet Spot,3010 Freeport Boulevard,,,38.5501546,-121.4894053,,,n_5072650892,shop=beauty
+"Granite Bay, CA",,retail,446120,Golden Nails,3057 Freeport Boulevard,,,38.5489894,-121.4889814,,,n_5072653324,shop=beauty
+"Granite Bay, CA",,retail,446120,Galaxy Nails,,+1 916-447-8888,,38.5499473,-121.5062739,,,n_5072657982,shop=beauty
+"Granite Bay, CA",,retail,446120,Shara Beal's Makeup,2741 Riverside Boulevard,,,38.5584264,-121.500835,,,n_5072670185,shop=beauty
+"Granite Bay, CA",,retail,453110,Balshor,2661 Riverside Boulevard,,,38.5602113,-121.4996334,,,n_5072684599,shop=florist
+"Granite Bay, CA",,retail,445310,Rodney's Cigar & Liquor Store,,,,38.580139,-121.4933595,,,n_5126907122,shop=alcohol
+"Granite Bay, CA",,retail,445310,A Mart Food & Liquor,,,,38.6129861,-121.5178791,,,n_5181158526,shop=alcohol
+"Granite Bay, CA",,retail,446120,Philly Nail & Spa,"127 Ferrari Ranch Road, Lincoln, CA, 95648",,,38.872332,-121.30287,,,n_5184936814,shop=beauty
+"Granite Bay, CA",,retail,445110,Walmart Neighborhood Market,"2700 Marconi Avenue, Sacramento, CA, 95821",+1 916-576-6657,https://www.walmart.com/store/5982-sacramento-ca,38.6170218,-121.3990868,,,n_5274519618,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Granite Bay, CA",,retail,452210,TJ Maxx,,,,38.6198699,-121.400012,,,n_5274568988,"shop=department_store, brand=TJ Maxx"
+"Granite Bay, CA",,retail,445110,Trader Joe's,"2625 Marconi Avenue, Sacramento, CA, 95821",+1 916-481-8797,https://locations.traderjoes.com/ca/sacramento/70/,38.6185413,-121.400195,,,n_5274568992,"shop=supermarket, brand=Trader Joe's"
+"Granite Bay, CA",,retail,452210,Ross,"2729 Marconi Avenue, Sacramento, CA, 95821",+1 916-488-8427,,38.6198573,-121.3990464,,,n_5274569004,"shop=department_store, brand=Ross"
+"Granite Bay, CA",,retail,445110,Smart & Final,3315 Northgate Boulevard,,,38.628318,-121.477035,,,n_5276287053,"shop=supermarket, brand=Smart & Final"
+"Granite Bay, CA",,retail,445120,ExtraMile,,,,38.6108903,-121.4760174,,,n_5276563123,"shop=convenience, brand=ExtraMile"
+"Granite Bay, CA",,retail,445120,7-Eleven,"2450 Northgate Boulevard, Sacramento, CA, 95833-2501",+1 916-649-3627,https://www.7-eleven.com/locations/ca/sacramento/2450-northgate-blvd-23265,38.6110234,-121.4751014,,,n_5276563161,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,452210,Marshalls,,,,38.6602036,-121.5105925,,,n_5281436759,"shop=department_store, brand=Marshalls"
+"Granite Bay, CA",,retail,445120,Bings,4775 Rio Linda Boulevard,,,38.6540937,-121.448349,,,n_5284956539,shop=convenience
+"Granite Bay, CA",,retail,445120,ampm,,,,38.6436096,-121.4562754,,,n_5285021251,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445110,La Victoria Supermercado,,,,38.6132573,-121.4463701,,,n_5309751258,shop=supermarket
+"Granite Bay, CA",,retail,445110,Save Mart,,,,38.4807614,-121.410185,,,n_5311527030,"shop=supermarket, brand=Save Mart"
+"Granite Bay, CA",,retail,445110,Walmart Neighborhood Market,"6005 Madison Avenue, Carmichael, CA, 95608",+1 916-534-1157,https://www.walmart.com/store/5981-carmichael-ca,38.6625991,-121.3249,,,n_5315596634,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Granite Bay, CA",,retail,445110,Walmart Supercenter,"10655 Folsom Boulevard, Rancho Cordova, CA, 95670",+1 916-361-0296,https://www.walmart.com/store/2457-rancho-cordova-ca,38.5961282,-121.2918143,,,n_5315599514,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Granite Bay, CA",,retail,452319,99 Cents Only Stores,,,https://locations.99only.com/ca/sacramento/discount-store-175.html,38.6099173,-121.4138029,,,n_5324754870,"shop=variety_store, brand=99 Cents Only Stores"
+"Granite Bay, CA",,retail,445120,7-Eleven,"2160 El Camino Avenue, Sacramento, CA, 95821",+1 916-643-9586,https://www.7-eleven.com/locations/ca/sacramento/2160-el-camino-ave-35491,38.6104301,-121.4157314,,,n_5324777642,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,445120,Fast N cheap,,,,38.6112885,-121.4173814,,,n_5324777687,shop=convenience
+"Granite Bay, CA",,retail,446120,Dazzling Nails and Spa,,+1-916-652-7362,,38.8010081,-121.2045186,,,n_5376908225,shop=beauty
+"Granite Bay, CA",,retail,445292,See's Candies,"5498 Crossings Drive, Rocklin, CA, 95677",+1-916-660-9291,https://chocolateshops.sees.com/ca/rocklin/chocolate_shops_rocklin_ca_sf-85.html,38.8010091,-121.2046071,,,n_5376908226,"shop=confectionery, brand=See's Candies"
+"Granite Bay, CA",,retail,446120,Waxing the City,,+1-916-250 3300,,38.8007021,-121.2031764,,,n_5379572622,shop=beauty
+"Granite Bay, CA",,retail,446120,Crystal Nail & Spa,,,,38.5854802,-121.2852035,,,n_5380539068,shop=beauty
+"Granite Bay, CA",,retail,446120,Nail Perfection,,,,38.7306865,-120.7526831,,,n_5468600979,shop=beauty
+"Granite Bay, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/sacramento/5211/,38.6705021,-121.5051865,,,n_5541459681,"shop=variety_store, brand=Dollar Tree"
+"Granite Bay, CA",,retail,446120,La Fleur Nail Spa,,,,38.6425654,-121.5189806,,,n_5558988686,shop=beauty
+"Granite Bay, CA",,retail,446120,Vonne's Hair & Nails,,,,38.6810511,-121.3217205,,,n_5563372025,shop=beauty
+"Granite Bay, CA",,retail,446120,Golden Salon & Spa,"2840 Del Paso Road, Sacramento, CA, 95834",,,38.6552208,-121.5249835,,,n_5581062915,shop=beauty
+"Granite Bay, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/sacramento/4670/,38.5299656,-121.496575,,,n_5603378796,"shop=variety_store, brand=Dollar Tree"
+"Granite Bay, CA",,retail,445120,Shift Change,,,,38.5341219,-121.4945345,,,n_5603399859,shop=convenience
+"Granite Bay, CA",,retail,445310,Discount Liquor,,,,38.5328613,-121.4940714,,,n_5603399864,shop=alcohol
+"Granite Bay, CA",,retail,445110,Sprouts Farmers Market,"4408 Del Rio Road, Sacramento, CA, 95822",+1 916-455-4200,https://www.sprouts.com/store/ca/sacramento/del-rio-rd/,38.5363945,-121.504848,,,n_5710022644,"shop=supermarket, brand=Sprouts Farmers Market"
+"Granite Bay, CA",,retail,445110,Asian Food Center,"3011 Broadway, Sacramento, CA, 95818",,,38.5628134,-121.496043,,,n_5756910436,shop=supermarket
+"Granite Bay, CA",,retail,445120,Wing Fa Market,,,,38.5665223,-121.4904642,,,n_5778400486,shop=convenience
+"Granite Bay, CA",,retail,445110,SF Supermarket,,,,38.5207448,-121.513205,,,n_5778410512,"shop=supermarket, brand=SF Supermarket"
+"Granite Bay, CA",,retail,453110,Kiyo’s Floral Design,"2030 16th Street, Sacramento, CA, 95818",,,38.5662107,-121.4905842,,,n_5780635843,shop=florist
+"Granite Bay, CA",,retail,452210,TJ Maxx,"3621 North Freeway Boulevard, Sacramento, CA, 95834",,,38.6411955,-121.497248,,,n_5794730330,"shop=department_store, brand=TJ Maxx"
+"Granite Bay, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/sacramento/3566/,38.5530101,-121.4259468,,,n_5794959174,"shop=variety_store, brand=Dollar Tree"
+"Granite Bay, CA",,retail,445120,7-Eleven,"6500 Folsom Boulevard, Sacramento, CA, 95819",+1 916-736-2087,https://www.7-eleven.com/locations/ca/sacramento/6500-folsom-blvd-36868,38.5540013,-121.4273539,,,n_5794959179,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,445110,Save Mart,,,,38.5577417,-121.438666,,,n_5794960560,"shop=supermarket, brand=Save Mart"
+"Granite Bay, CA",,retail,445110,Corti Brothers,"5810 Folsom Boulevard, Sacramento, CA, 95819",,,38.5572269,-121.4362613,,,n_5794960573,shop=supermarket
+"Granite Bay, CA",,retail,446120,Lavender Salon and a Blow Out Bat,6040 Stanford Ranch Road,9167710402,,38.7951462,-121.2673709,,,n_5799468656,shop=beauty
+"Granite Bay, CA",,retail,445110,Grocery Outlet,,,,38.6123145,-121.4996454,,,n_5805622845,"shop=supermarket, brand=Grocery Outlet"
+"Granite Bay, CA",,retail,445310,Red Carpet Liquor,"1508 West El Camino Avenue, Sacramento, CA, 95815",,,38.6119572,-121.495401,,,n_5805637696,shop=alcohol
+"Granite Bay, CA",,retail,446120,Nail Spa,,,,38.4952274,-121.4518997,,,n_5820621154,shop=beauty
+"Granite Bay, CA",,retail,445120,TS Food Mart,,,,38.5466986,-121.3485285,,,n_5821054618,shop=convenience
+"Granite Bay, CA",,retail,445120,ExtraMile,,,,38.4737114,-121.418026,,,n_5821222447,"shop=convenience, brand=ExtraMile, operator=Chevron"
+"Granite Bay, CA",,retail,445120,Olive Mix,,,,38.583343,-121.504236,,,n_5824585545,shop=convenience
+"Granite Bay, CA",,retail,445120,7-Eleven,,,,38.5470381,-121.4382854,,,n_5831318483,shop=convenience
+"Granite Bay, CA",,retail,453991,Tobacco and More,"2400 Florin Road, Sacramento, CA, 95822",,,38.4953697,-121.4824396,,,n_5833870416,shop=tobacco
+"Granite Bay, CA",,retail,445110,T & Y Market,,,,38.6195711,-121.4577017,,,n_5843170364,shop=supermarket
+"Granite Bay, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/sacramento/1203/,38.5258773,-121.445558,,,n_5855350594,"shop=variety_store, brand=Dollar Tree"
+"Granite Bay, CA",,retail,445110,Foods Co,,,,38.5269876,-121.444647,,,n_5855350646,"shop=supermarket, brand=Foods Co"
+"Granite Bay, CA",,retail,445120,,"Arena Boulevard, Sacramento, CA, 95834",,,38.6426295,-121.532455,,,n_5864740732,shop=convenience
+"Granite Bay, CA",,retail,445292,See's Candies,,,,38.6346444,-121.505689,,,n_5932786370,"shop=confectionery, brand=See's Candies"
+"Granite Bay, CA",,retail,445120,,,,,38.6705268,-121.1658877,,,n_6037967606,shop=convenience
+"Granite Bay, CA",,retail,445110,Market 5-ONE-5,"915 R Street, Sacramento, CA, 95811",,,38.5718468,-121.497915,,,n_6046614174,shop=supermarket
+"Granite Bay, CA",,retail,445310,,,,,38.9345569,-121.0941607,,,n_6353563118,shop=alcohol
+"Granite Bay, CA",,retail,446120,Blush Salon,,,,38.8848961,-121.2929444,,,n_6363967777,shop=beauty
+"Granite Bay, CA",,retail,445110,Vinh Phat,"6105 Stockton Boulevard, Sacramento, CA, 95824",,,38.5156065,-121.437392,,,n_6389297011,shop=supermarket
+"Granite Bay, CA",,retail,446120,Ulta Beauty,"3591 North Freeway Boulevard, Sacramento, CA, 95834",+1 916-285-6450,https://www.ulta.com/stores/sacramento-ca-189,38.6410189,-121.4996479,,,n_6419894855,"shop=beauty, brand=Ulta Beauty"
+"Granite Bay, CA",,retail,446120,King's Beauty Supply,,,,38.6300779,-121.4771173,,,n_6419894873,shop=beauty
+"Granite Bay, CA",,retail,446120,Sunset Nails & Spa,,,,38.4555673,-121.415166,,,n_6437660507,shop=beauty
+"Granite Bay, CA",,retail,446120,,,,,38.4598196,-121.4161815,,,n_6438912595,shop=beauty
+"Granite Bay, CA",,retail,445310,,,,,38.4811083,-121.4125497,,,n_6439475103,shop=alcohol
+"Granite Bay, CA",,retail,452319,Dollar World,,,,38.4806904,-121.4095904,,,n_6439475104,shop=variety_store
+"Granite Bay, CA",,retail,446120,,,,,38.4520422,-121.3701473,,,n_6441034089,shop=beauty
+"Granite Bay, CA",,retail,446120,Glam Nails,,,,38.4556042,-121.3703818,,,n_6441034148,shop=beauty
+"Granite Bay, CA",,retail,446120,,,,,38.4539144,-121.3722114,,,n_6441034159,shop=beauty
+"Granite Bay, CA",,retail,445110,Raley's,"6845 Douglas Boulevard, Granite Bay, CA, 95746",,,38.744421,-121.1732264,,,n_6441605412,"shop=supermarket, brand=Raley's"
+"Granite Bay, CA",,retail,453991,All Cigarette,"1500 West El Camino Avenue, Sacramento, CA, 95815",,,38.6122624,-121.4947147,,,n_6463241341,shop=tobacco
+"Granite Bay, CA",,retail,452319,Dollar Counts,"1500 West El Camino Avenue, Sacramento, CA, 95815",,,38.6120047,-121.4948841,,,n_6463241343,shop=variety_store
+"Granite Bay, CA",,retail,446120,Lavish Nails,,,,38.6119597,-121.4952785,,,n_6463241346,shop=beauty
+"Granite Bay, CA",,retail,445110,Shan Market,"2309 Northgate Boulevard, Sacramento, CA, 95833",,,38.6087878,-121.4764031,,,n_6534451134,shop=supermarket
+"Granite Bay, CA",,retail,445120,ampm,,,,38.6515914,-121.383467,,,n_6536141290,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445120,7-Eleven,"4900 Watt Avenue, North Highlands, CA, 95660-5110",+1 916-332-9032,https://www.7-eleven.com/locations/ca/north-highlands/4900-watt-ave-16081,38.654419,-121.3823443,,,n_6536141317,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/north-highlands/5225/,38.6514258,-121.3825222,,,n_6536163212,"shop=variety_store, brand=Dollar Tree"
+"Granite Bay, CA",,retail,453991,Broham Smoke Shop,,,,38.5324547,-121.4943224,,,n_6546171726,shop=tobacco
+"Granite Bay, CA",,retail,446120,,,,,38.5348102,-121.4935001,,,n_6546253288,shop=beauty
+"Granite Bay, CA",,retail,445120,Mak's Quick Corner,,,,38.5375654,-121.4925756,,,n_6546335352,shop=convenience
+"Granite Bay, CA",,retail,453110,Litsa Flowers,,,,38.5245174,-121.4966197,,,n_6546387978,shop=florist
+"Granite Bay, CA",,retail,445120,76,,,,38.5242891,-121.4979134,,,n_6546388016,"shop=convenience, brand=76"
+"Granite Bay, CA",,retail,445120,Airway Market,,,,38.5174154,-121.5000058,,,n_6546797021,shop=convenience
+"Granite Bay, CA",,retail,445120,ampm,,,,38.6133914,-121.5309533,,,n_6548733271,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445110,Raley's,"8391 Folsom Boulevard, Sacramento, CA, 95826",,,38.5485859,-121.3948422,,,n_6562384112,"shop=supermarket, brand=Raley's"
+"Granite Bay, CA",,retail,445110,Raley's,"7847 Lichen Drive, Citrus Heights, CA, 95621",,,38.709514,-121.3132575,,,n_6567050716,"shop=supermarket, brand=Raley's"
+"Granite Bay, CA",,retail,452319,Dollar Tree,"7859 Lichen Drive, Citrus Heights, CA, 95621",,https://www.dollartree.com/locations/ca/citrus-heights/2236/,38.7095047,-121.3126422,,,n_6567050737,"shop=variety_store, brand=Dollar Tree"
+"Granite Bay, CA",,retail,445120,7-Eleven,"6401 Antelope Road, Citrus Heights, CA, 95621",+1 916-725-7100,https://www.7-eleven.com/locations/ca/citrus-heights/6401-antelope-rd-14060,38.7077406,-121.3150017,,,n_6567050746,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,445110,Smart & Final Extra!,"1159 Roseville Square, Roseville, CA, 95678",,,38.7470397,-121.273812,,,n_6568974927,"shop=supermarket, brand=Smart & Final"
+"Granite Bay, CA",,retail,446120,Modern Nails,"3890 Truxel Road, Sacramento, CA",,,38.639247,-121.5033371,,,n_6705057321,shop=beauty
+"Granite Bay, CA",,retail,445120,ExtraMile,,,,38.6552494,-121.5225477,,,n_6709153241,"shop=convenience, brand=ExtraMile"
+"Granite Bay, CA",,retail,445110,Fiji Market,,,,38.6265208,-121.4747447,,,n_6755477913,shop=supermarket
+"Granite Bay, CA",,retail,453991,Mini-Mart Cigarettes,,,,38.6265927,-121.4747478,,,n_6755477914,shop=tobacco
+"Granite Bay, CA",,retail,453991,Smoke Shack,,,,38.6087694,-121.4768615,,,n_6760769416,shop=tobacco
+"Granite Bay, CA",,retail,445120,ExtraMile,,,,38.6115961,-121.4751076,,,n_6760981137,"shop=convenience, brand=ExtraMile"
+"Granite Bay, CA",,retail,445310,Ace Liquor,,,,38.6076885,-121.4751544,,,n_6760985567,shop=alcohol
+"Granite Bay, CA",,retail,445110,FoodMaxx,,,,38.6260817,-121.4989867,,,n_6764001241,"shop=supermarket, brand=FoodMaxx"
+"Granite Bay, CA",,retail,452319,99 Cents Only Stores,,,https://locations.99only.com/ca/sacramento/discount-store-352.html,38.4948643,-121.4531284,,,n_6776036504,"shop=variety_store, brand=99 Cents Only Stores"
+"Granite Bay, CA",,retail,452210,Ross,"4240 Florin Road, Sacramento, CA, 95823",+1 916-399-9735,,38.4947275,-121.4561533,,,n_6776046519,"shop=department_store, brand=Ross"
+"Granite Bay, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/sacramento/1229/,38.4998073,-121.4315128,,,n_6776144156,"shop=variety_store, brand=Dollar Tree"
+"Granite Bay, CA",,retail,446120,Sunshine Beauty Supply,,,,38.5013762,-121.4350967,,,n_6780244158,shop=beauty
+"Granite Bay, CA",,retail,445310,Total Wine,"2121 Arden Way, Sacramento, CA, 95825",+1 916-921-5328,https://www.totalwine.com/store-info/1108,38.5969471,-121.4167539,,,n_6789685434,shop=wine
+"Granite Bay, CA",,retail,445110,Smart & Final Extra!,,,,38.5970115,-121.381395,,,n_6789685457,"shop=supermarket, brand=Smart & Final"
+"Granite Bay, CA",,retail,446110,CVS Pharmacy,,,,38.5945416,-121.3859008,,,n_6790674141,"shop=chemist, brand=CVS Pharmacy"
+"Granite Bay, CA",,retail,445230,Davis Ranch,"13211 Jackson Road, 95683",,https://www.davisranchproduce.com/index.html,38.4927928,-121.1714566,,,n_6844993185,shop=greengrocer
+"Granite Bay, CA",,retail,445110,Fork Lift by Nugget,,,,38.6586047,-120.9720249,,,n_6993875393,shop=supermarket
+"Granite Bay, CA",,retail,446191,Private Label Supplement,"2440 Gold River Road, Gold River, CA, 95670",+1-855-209-0225,https://www.privatelabelsupplement.com,38.6144342,-121.2608109,,,n_7035764145,shop=health_food
+"Granite Bay, CA",,retail,445120,7-Eleven,"1341 J Street, Sacramento, CA, 95814",+1 916-930-0503,https://www.7-eleven.com/locations/ca/sacramento/1341-j-st-35481,38.5790609,-121.488052,,,n_7086840110,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,446120,Ulta Beauty,"2717 Marconi Avenue, Sacramento, CA, 95821",+1 916-713-1166,https://www.ulta.com/stores/sacramento-ca-1447,38.6197378,-121.4005105,,,n_7129999783,"shop=beauty, brand=Ulta Beauty"
+"Granite Bay, CA",,retail,452210,Ross,"7342 Greenback Lane, Citrus Heights, CA, 95621",+1 916-722-1416,,38.6775493,-121.2951651,,,n_7132247768,"shop=department_store, brand=Ross"
+"Granite Bay, CA",,retail,452210,Burlington,"6145 San Juan Avenue, Citrus Heights, CA, 95601",+1 916-729-1002,https://stores.burlington.com/ca/citrus-heights/581,38.6771047,-121.294638,,,n_7132247769,"shop=department_store, brand=Burlington"
+"Granite Bay, CA",,retail,452210,Kohl's,"6135 San Juan Avenue, Citrus Heights, CA, 95610",+1 916-352-0766,https://www.kohls.com/stores/ca/citrusheights-1363.shtml,38.6766633,-121.2939995,,,n_7132247770,"shop=department_store, brand=Kohl's"
+"Granite Bay, CA",,retail,445120,7-Eleven,"6035 San Juan Avenue, Citrus Heights, CA, 95610",+1 916-721-3119,https://www.7-eleven.com/locations/ca/citrus-heights/6035-san-juan-ave-34677,38.6764092,-121.29286,,,n_7132247771,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,452319,99 Cents Only Stores,,,https://locations.99only.com/ca/citrusheights/discount-store-416.html,38.6775691,-121.2914299,,,n_7132247773,"shop=variety_store, brand=99 Cents Only Stores"
+"Granite Bay, CA",,retail,445110,Compton's Market,,,,38.5786553,-121.4478562,,,n_7207426198,shop=supermarket
+"Granite Bay, CA",,retail,452319,Daiso Japan,"3541 North Freeway Boulevard, Sacramento, CA, 95834",,,38.6410354,-121.5008229,,,n_7229119241,"shop=variety_store, brand=Daiso"
+"Granite Bay, CA",,retail,445310,A & B Liquor,,,,38.5799563,-121.5410038,,,n_7257120232,shop=alcohol
+"Granite Bay, CA",,retail,445120,ExtraMile,,,,38.5759775,-121.5763279,,,n_7276087582,"shop=convenience, brand=ExtraMile"
+"Granite Bay, CA",,retail,452319,Five Below,"3641 North Freeway Boulevard, Sacramento, CA, 95834",+1 916-260-0783,https://locations.fivebelow.com/ca/sacramento/3641-n-freeway-blvd,38.6412204,-121.496343,,,n_7488126300,"shop=variety_store, brand=Five Below"
+"Granite Bay, CA",,retail,445120,Chevron,,,,38.5747901,-121.5235865,,,n_7515344013,"shop=convenience, brand=Chevron"
+"Granite Bay, CA",,retail,446110,Rite Aid,,,https://www.riteaid.com/locations/ca/sacramento/6420-rio-linda-blvd.html,38.684392,-121.4563091,,,n_7536251337,"shop=chemist, brand=Rite Aid"
+"Granite Bay, CA",,retail,446120,Midtown Nails,"2013 J Street, Sacramento, CA, 95811",,,38.5766559,-121.4792324,,,n_8147229794,shop=beauty
+"Granite Bay, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/north-highlands/1201/,38.6914642,-121.3796322,,,n_8279665800,"shop=variety_store, brand=Dollar Tree"
+"Granite Bay, CA",,retail,452210,dd's Discounts,,,,38.6914622,-121.3817995,,,n_8279665809,"shop=department_store, brand=dd's Discounts"
+"Granite Bay, CA",,retail,452210,Big Lots,"3615 Elkhorn Boulevard, North Highlands, CA, 95660",+1 916-339-3913,https://local.biglots.com/ca/north-highlands/3615-elkhorn-blvd,38.6914676,-121.3812947,,,n_8279665810,"shop=department_store, brand=Big Lots"
+"Granite Bay, CA",,retail,445110,Nugget Markets,,,,38.7938133,-121.3262573,,,n_8489541803,shop=supermarket
+"Granite Bay, CA",,retail,452210,That’s Cheap!,,,,38.6599991,-121.5103054,,,n_8530303480,shop=department_store
+"Granite Bay, CA",,retail,445110,Raley's,"4690 Freeport Boulevard, Sacramento, CA",,,38.5330448,-121.4964524,,,n_8777686511,"shop=supermarket, brand=Raley's"
+"Granite Bay, CA",,retail,445120,7-Eleven,,,,38.6446521,-121.4750546,,,n_8822827817,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,453110,Rocklin Florist,5885 Pacific Street,+1-916-624-1651,https://www.rocklinflorist.com/,38.7817301,-121.2412146,,,n_8833997919,shop=florist
+"Granite Bay, CA",,retail,445110,Safeway,"3383 Bass Lake Road, El Dorado Hills, CA, 95762",+1 530-313-4920,https://local.safeway.com/safeway/ca/el-dorado-hills/3383-bass-lake-rd.html,38.6751471,-121.028389,,,n_8861225034,"shop=supermarket, brand=Safeway"
+"Granite Bay, CA",,retail,446120,Angels Nails,"328 East Bidwell Street, Folsom, CA, 95630",,,38.6742132,-121.1673018,,,n_8901896153,shop=beauty
+"Granite Bay, CA",,retail,445310,5 Star Liquor,,,,38.6741837,-121.1671421,,,n_8901896154,shop=alcohol
+"Granite Bay, CA",,retail,446120,Silky Nails,"401 East Bidwell Street, Folsom, CA, 95630",,,38.6736261,-121.1673599,,,n_8901899926,shop=beauty
+"Granite Bay, CA",,retail,445120,,,,,38.8352675,-121.1696131,,,n_8912565105,shop=convenience
+"Granite Bay, CA",,retail,445110,Indian Grocery Outlet,,,,38.6402262,-121.5097266,,,n_8934828261,shop=supermarket
+"Granite Bay, CA",,retail,445110,Raley's,"4030 Sunrise Boulevard, Rancho Cordova, CA, 95742",+1 916 351 8324,https://raleys.com,38.5574894,-121.2449689,,,n_8988999281,"shop=supermarket, brand=Raley's"
+"Granite Bay, CA",,retail,445110,Grocery Outlet,,,,38.5529377,-121.4254389,,,n_9027612526,"shop=supermarket, brand=Grocery Outlet"
+"Granite Bay, CA",,retail,446120,Mood Nails,,,,38.9439313,-121.0918269,,,n_9124579865,shop=beauty
+"Granite Bay, CA",,retail,453991,Happy Cigar & Cigarette,,,,38.9438953,-121.0916908,,,n_9124585751,shop=tobacco
+"Granite Bay, CA",,retail,446120,Made Salon House,810 Lincoln Way,,,38.9007758,-121.0678354,,,n_9161042870,shop=beauty
+"Granite Bay, CA",,retail,445120,ExtraMile,,,,38.6324711,-121.2200143,,,n_9170192679,"shop=convenience, brand=ExtraMile"
+"Granite Bay, CA",,retail,445120,Speedway,"3096 Sunrise Boulevard, Rancho Cordova, CA, 95742",,,38.5903791,-121.2660182,,,n_9184104896,"shop=convenience, brand=Speedway"
+"Granite Bay, CA",,retail,445120,Speedway,"2650 Gateway Oaks Drive, Sacramento, CA, 95833",,https://www.speedway.com/locations/CA/Sacramento/2650-GATEWAY-OAKS-DR,38.6139728,-121.5165351,,,n_9184218526,"shop=convenience, brand=Speedway"
+"Granite Bay, CA",,retail,445120,Speedway,"4250 Madison Avenue, North Highlands, CA, 95660",,https://www.speedway.com/locations/CA/North-Highlands/4250-MADISON-AVE,38.6606525,-121.3648654,,,n_9184232058,"shop=convenience, brand=Speedway"
+"Granite Bay, CA",,retail,445120,Speedway,"7550 Watt Avenue, North Highlands, CA, 95660",,https://www.speedway.com/locations/CA/North-Highlands/7550-WATT-AVE,38.7037167,-121.3823104,,,n_9184240534,"shop=convenience, brand=Speedway"
+"Granite Bay, CA",,retail,445120,Speedway,"519 Placerville Drive, Placerville, CA, 95667",,https://www.speedway.com/locations/CA/Placerville/519-PLACERVILLE-DR,38.7335643,-120.8267559,,,n_9184245036,"shop=convenience, brand=Speedway"
+"Granite Bay, CA",,retail,445120,ampm,"8555 Auburn Folsom Road, Granite Bay, CA, 95746",,,38.7430158,-121.1701297,,,n_9184257260,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445120,Speedway,"6990 Douglas Boulevard, Granite Bay, CA, 95746",,https://www.speedway.com/locations/CA/Granite-Bay/6990-DOUGLAS-BLVD,38.7429585,-121.1712827,,,n_9184257265,"shop=convenience, brand=Speedway"
+"Granite Bay, CA",,retail,453110,Cool Florist & Gifts,"2968 CA-49, Cool, CA, 95614",+1 530-885-2750,coolfloristca.com,38.8876041,-121.0164779,,,n_9287242439,shop=florist
+"Granite Bay, CA",,retail,445310,Rosa-Lucca Estates Tasting Room,"2966 CA-49, Cool, CA, 95614",,https://www.rosaluccawines.com/tasting-room/,38.8883622,-121.0171097,,,n_9291641714,"shop=wine, operator=Rosa-Lucca Estates"
+"Granite Bay, CA",,retail,446120,Creative Nails & Spa,1450 Lead Hill Boulevard,,,38.7479168,-121.2538647,,,n_9371098510,shop=beauty
+"Granite Bay, CA",,retail,446120,European Wax Center,,,https://locations.waxcenter.com/ca/roseville/roseville-fountains-0014.html,38.7681715,-121.267327,,,n_9373448602,"shop=beauty, brand=European Wax Center"
+"Granite Bay, CA",,retail,446120,LaserAway,,,,38.7681721,-121.268219,,,n_9373673869,shop=beauty
+"Granite Bay, CA",,retail,446120,LaserAway,Roseville Parkway,,https://www.laseraway.com,38.7681721,-121.268219,,,n_9373673881,shop=beauty
+"Granite Bay, CA",,retail,446120,Sephora,,,,38.7675821,-121.269043,,,n_9373722805,"shop=cosmetics, brand=Sephora"
+"Granite Bay, CA",,retail,453991,Casillas Cigar Company,,,,38.5660995,-121.4902274,,,n_9376816393,shop=tobacco
+"Granite Bay, CA",,retail,445120,Nick's Market,"1700 V Street, Sacramento, CA, 95818",,,38.5643887,-121.4894846,,,n_9376816397,shop=convenience
+"Granite Bay, CA",,retail,453991,Hatuey Cigars,,,,38.564621,-121.4907437,,,n_9376816398,shop=tobacco
+"Granite Bay, CA",,retail,446120,Gold Rush Nails,,,,38.7531176,-121.2513766,,,n_9377320780,shop=beauty
+"Granite Bay, CA",,retail,453991,StayFly Smoke Shop,,,,38.7799496,-121.265022,,,n_9377320794,shop=tobacco
+"Granite Bay, CA",,retail,445120,7-Eleven,"205 Washington Boulevard, Roseville, CA, 95678-2235",+1 916-786-2277,https://www.7-eleven.com/locations/ca/roseville/205-washington-blvd-18109,38.7516249,-121.287871,,,n_9377897276,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,446120,Golden Honey,314 Lincoln Street,,,38.7513944,-121.2844935,,,n_9379542297,shop=beauty
+"Granite Bay, CA",,retail,446120,Bijou Beauty,311 Lincoln Street,,,38.7511701,-121.2846715,,,n_9379542310,shop=beauty
+"Granite Bay, CA",,retail,446120,Lavish Beauty,108 Church Street,,,38.7516565,-121.2857133,,,n_9379557341,shop=beauty
+"Granite Bay, CA",,retail,446120,Aesthetic Collective,336 Lincoln Street,,https://theaeco.com,38.7516655,-121.2848312,,,n_9379557351,shop=beauty
+"Granite Bay, CA",,retail,446120,Wispy Dream Lashes,"13000 Folsom Boulevard, Folsom, CA, 95630",,www.WispyDreamLashes.com,38.6440013,-121.1881007,,,n_9419949838,"shop=cosmetics, brand=Wispy Dream Lashes"
+"Granite Bay, CA",,retail,445110,La Superior Mercados,"2210 Northgate Boulevard, Sacramento, CA, 95833",,https://www.lasuperiormercados.com/,38.6073034,-121.4751476,,,n_9484917004,shop=supermarket
+"Granite Bay, CA",,retail,445110,Wing Wa Seafood Supermarket,"6021 Stockton Boulevard, Sacramento, CA, 95824",+19163919222,,38.5169151,-121.4381705,,,n_9484921603,shop=supermarket
+"Granite Bay, CA",,retail,445110,A & A Supermarket,"6545 Stockton Boulevard, Sacramento, CA",+19163929876,,38.507466,-121.4336975,,,n_9484958721,shop=supermarket
+"Granite Bay, CA",,retail,445110,Mi Tierra,"8484 Florin Road, Sacramento, CA",+19163839621,,38.4953744,-121.3914747,,,n_9484965367,shop=supermarket
+"Granite Bay, CA",,retail,445110,Goldstar Supermarket,"5803 Stockton Boulevard, Sacramento, CA",+19164538992,,38.5211653,-121.439819,,,n_9484980752,shop=supermarket
+"Granite Bay, CA",,retail,445110,Smart & Final,,,,38.5285708,-121.4459615,,,n_9484984848,"shop=supermarket, brand=Smart & Final"
+"Granite Bay, CA",,retail,445110,New Asia Super Market,"6418 Stockton Boulevard, Sacramento, CA",+19163910173,,38.509703,-121.4365227,,,n_9485004159,shop=supermarket
+"Granite Bay, CA",,retail,445110,Mi Rancho Supermercado,"2355 Florin Road, Sacramento, CA",+19164284218,https://www.miranchosupermercado.com/,38.4973722,-121.4834726,,,n_9485015490,shop=supermarket
+"Granite Bay, CA",,retail,445110,Pothong Market,"3540 Norwood Avenue, Sacramento, CA",+19166460667,,38.6314637,-121.4563596,,,n_9485051382,shop=supermarket
+"Granite Bay, CA",,retail,445110,Your Family Groceries,"5984 14th Avenue, Sacramento, CA",+19164576567,,38.5391237,-121.4355886,,,n_9485061375,shop=supermarket
+"Granite Bay, CA",,retail,445110,Welco Supermarket,"7100 Fruitridge Road, Sacramento, CA",+19163872470,http://www.welcosupermarket.net/,38.5245054,-121.4211049,,,n_9485064914,shop=supermarket
+"Granite Bay, CA",,retail,445110,La Esperanza Supermarket,5040 Franklin Boulevard,+19164550215,https://laesperanzaca.com/,38.5294548,-121.4738866,,,n_9485067081,shop=supermarket
+"Granite Bay, CA",,retail,445110,La Superior Mercados,"4940 Stockton Boulevard, Sacramento, CA",,https://www.lasuperiormercados.com/,38.5307638,-121.4459108,,,n_9485069140,shop=supermarket
+"Granite Bay, CA",,retail,445110,King's Supermarkets,"400 El Camino Avenue, Sacramento, CA",+19169225866,,38.6104347,-121.457821,,,n_9485082862,shop=supermarket
+"Granite Bay, CA",,retail,445110,La Superior Mercados,"4604 Franklin Boulevard, Sacramento, CA",,https://www.lasuperiormercados.com/,38.5332484,-121.4745947,,,n_9485106909,shop=supermarket
+"Granite Bay, CA",,retail,445110,Safeway,"3680 Crocker Drive, Sacramento, CA, 95818",+1 279-399-9261,https://local.safeway.com/safeway/ca/sacramento/3680-crocker-dr.html,38.5408513,-121.4837573,,,n_9485113720,"shop=supermarket, brand=Safeway"
+"Granite Bay, CA",,retail,445110,Viva Supermarket,"3845 Marysville Boulevard, Sacramento, CA",+19169222006,https://vivasupermarket.com/,38.6376695,-121.4301943,,,n_9485114180,shop=supermarket
+"Granite Bay, CA",,retail,445110,La Superior Mercados,"5731 Hillsdale Boulevard, Sacramento, CA",,https://www.lasuperiormercados.com/,38.672591,-121.3583445,,,n_9485198873,shop=supermarket
+"Granite Bay, CA",,retail,445120,B&E Market & Deli,,,,38.4820308,-121.3351965,,,n_9521822579,shop=convenience
+"Granite Bay, CA",,retail,445120,,,,,38.6488829,-121.292477,,,n_9576175847,shop=convenience
+"Granite Bay, CA",,retail,445310,Maxee Mart Liquor,"4727 San Juan Avenue, Fair Oaks, CA, 95628",,,38.6501721,-121.292555,,,n_9576744109,shop=alcohol
+"Granite Bay, CA",,retail,445120,7-Eleven,"1301 Howe Avenue, Sacramento, CA, 95825",,https://www.7-eleven.com/locations/ca/sacramento/1301-howe-ave-37217,38.5892684,-121.4158715,,,n_9634923421,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,446120,Beauty by Thread,,,,38.6753997,-121.2694987,,,n_9644493245,shop=beauty
+"Granite Bay, CA",,retail,446120,Perfumes Luxe,,,,38.6750256,-121.2688019,,,n_9644493247,shop=perfumery
+"Granite Bay, CA",,retail,446120,Bath & Body Works,,,,38.6744428,-121.268804,,,n_9644493257,"shop=cosmetics, brand=Bath & Body Works"
+"Granite Bay, CA",,retail,445292,See's Candies,,,,38.6738876,-121.2688087,,,n_9644493259,"shop=confectionery, brand=See's Candies"
+"Granite Bay, CA",,retail,445310,Espresso Bar at Sunrise,,,,38.6758411,-121.2688507,,,n_9644493264,shop=beverages
+"Granite Bay, CA",,retail,445110,FoodMaxx,"7477 Watt Avenue, North Highlands, CA, 95660",,,38.7027309,-121.384466,,,n_9716996484,"shop=supermarket, brand=FoodMaxx, operator=FoodMaxx"
+"Granite Bay, CA",,retail,445110,Bel Air,"4005 Manzanita Ave, Carmichael, CA, 95608",,,38.6379171,-121.3305,,,n_9717000900,"shop=supermarket, brand=Bel Air, operator=Bel Air"
+"Granite Bay, CA",,retail,445110,WinCo Foods,"2300 Watt Avenue, Sacramento",+1 916-246-5370,https://www.wincofoods.com/,38.6072589,-121.381167,,,n_9717012015,"shop=supermarket, brand=WinCo Foods, operator=WinCo Foods"
+"Granite Bay, CA",,retail,445110,Viva Supermarket,"10385 Folsom Boulevard, Rancho Cordova, CA, 95670",,,38.5900618,-121.3040377,,,n_9717012664,"shop=supermarket, operator=Viva Supermarket"
+"Granite Bay, CA",,retail,445110,Save Mart,"9137 Kiefer Boulevard, Sacramento, CA, 95826",,,38.5485728,-121.3601709,,,n_9717017525,"shop=supermarket, operator=Save Mart"
+"Granite Bay, CA",,retail,445110,KP International Market,"10971 Olson Drive, Rancho Cordova, CA, 95670",,,38.5969987,-121.2837467,,,n_9717032185,"shop=supermarket, operator=KP International Market"
+"Granite Bay, CA",,retail,445210,Sacramento Poultry Co.,"519 Broadway, Sacramento, CA",,,38.5656258,-121.5064702,,,n_9723605075,shop=butcher
+"Granite Bay, CA",,retail,445120,Plumas Stop n' Shop II,"869 River Oaks, plumas lake, CA, 95961",,,38.9788975,-121.5462963,,,n_9768558629,shop=convenience
+"Granite Bay, CA",,retail,445110,99 Ranch Market,Blue Ravine Road,1-916-984-6899,https://99ranch.com/,38.6906887,-121.125382,,,n_9830870617,"shop=supermarket, brand=99 Ranch Market"
+"Granite Bay, CA",,retail,452319,Dollar Tree,"Blue Ravine Road, 95630",1-916-850-6674,https://www.dollartree.com/locations/ca/folsom/5786/,38.6903472,-121.125183,,,n_9830870618,"shop=variety_store, brand=Dollar Tree"
+"Granite Bay, CA",,retail,445120,Shell,,,,38.5468695,-121.3619557,,,n_9844493224,"shop=convenience, brand=Shell"
+"Granite Bay, CA",,retail,446110,Rite Aid,"9133 Kiefer Boulevard, Sacramento, CA, 95826",,https://www.riteaid.com/locations/ca/sacramento/9133-kiefer-boulevard.html,38.5484203,-121.3607056,,,n_9844493257,"shop=chemist, brand=Rite Aid"
+"Granite Bay, CA",,retail,445120,7-Eleven,"9210 Kiefer Boulevard, Sacramento, CA, 95826-5133",+1 916-389-0000,https://www.7-eleven.com/locations/ca/sacramento/9210-kiefer-blvd-24604,38.5467897,-121.3583367,,,n_9844503866,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,445110,,,,,38.5467562,-121.3588357,,,n_9844503883,shop=supermarket
+"Granite Bay, CA",,retail,452319,99 Cents Only Stores,,,https://locations.99only.com/ca/sacramento/discount-store-209.html,38.5485416,-121.3953437,,,n_9844756534,"shop=variety_store, brand=99 Cents Only Stores"
+"Granite Bay, CA",,retail,453110,G Rossi Florist Inc,"1208 J Street, Sacramento, CA, 95814",916-448-8244,https://grossiflorist.com,38.57944,-121.490485,,,n_9845751994,shop=florist
+"Granite Bay, CA",,retail,445110,Elliott's Natural Foods,,,,38.6108695,-121.385712,,,n_9854064698,shop=supermarket
+"Granite Bay, CA",,retail,446120,Barber,"4768 Manzanita Avenue, 95608",9164836877,,38.6517254,-121.3260666,,,n_9904337417,shop=beauty
+"Granite Bay, CA",,retail,446120,Sally Beauty,"4740 Manzanita Avenue, 95608",9164878637,https://sallybeauty.com,38.6508176,-121.3257743,,,n_9910928918,shop=beauty
+"Granite Bay, CA",,retail,446120,Bath & Body Works,"4736 Manzanita Avenue, 95608",9164846134,https://www.bathandbodyworks.com,38.6506609,-121.3257718,,,n_9910937217,shop=beauty
+"Granite Bay, CA",,retail,446120,Five Star Nails & Spa,,,,38.6411094,-121.495654,,,n_9919977174,shop=beauty
+"Granite Bay, CA",,retail,446120,European Wax Center,,,https://locations.waxcenter.com/ca/sacramento/sacramento-land-park-0942.html,38.5324637,-121.4964609,,,n_9958458459,"shop=beauty, brand=European Wax Center"
+"Granite Bay, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/rancho-cordova/11079-folsom-blvd-35347,38.605086,-121.2717939,,,n_9962919231,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,453110,O'Shays Flowers and Antiques,"1280 Grass Valley Highway, Auburn, CA, 95603",+1 530-823-1169,https://oshaysflowers.com/,38.9232634,-121.083029,,,n_9963675158,shop=florist
+"Granite Bay, CA",,retail,445110,Smart & Final Extra!,,,,38.6653893,-121.2709222,,,n_9964352527,"shop=supermarket, brand=Smart & Final"
+"Granite Bay, CA",,retail,445120,7-Eleven,"2544 Arden Way, Sacramento, CA, 95825-2429",+1 916-481-6181,https://www.7-eleven.com/locations/ca/sacramento/2544-arden-way-23040,38.5956554,-121.4019704,,,n_9964982849,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,445120,Valero,,,,38.5497607,-121.5056957,,,n_9980716209,"shop=convenience, brand=Valero"
+"Granite Bay, CA",,retail,445120,ampm,,,,38.5136328,-121.5016332,,,n_9980843041,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,452319,Dollar Tree,,,,38.5884991,-121.3067609,,,n_9981118651,"shop=variety_store, brand=Dollar Tree"
+"Granite Bay, CA",,retail,452210,dd's Discounts,,,,38.5888564,-121.3060966,,,n_9981118652,"shop=department_store, brand=dd's Discounts"
+"Granite Bay, CA",,retail,445120,ampm,,,,38.5590075,-121.243665,,,n_9981719468,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,452210,Target,"10881 Olson Drive, Rancho Cordova, CA, 95670-5646",+1 916-503-2512,https://www.target.com/sl/rancho-cordova/2463,38.5960534,-121.2858455,,,n_9982769643,"shop=department_store, brand=Target"
+"Granite Bay, CA",,retail,452319,Five Below,,+1 916-536-7507,https://locations.fivebelow.com/ca/rancho-cordova/10899-olsen-drive,38.5962267,-121.2842441,,,n_9982769644,"shop=variety_store, brand=Five Below"
+"Granite Bay, CA",,retail,446120,Ulta Beauty,"10919 Olson Drive, Rancho Cordova, CA, 95670",+1 916-853-2216,https://www.ulta.com/stores/rancho-cordova-ca-1068,38.5956088,-121.2838377,,,n_9982769646,"shop=beauty, brand=Ulta Beauty"
+"Granite Bay, CA",,retail,452210,Marshalls,,,,38.5950991,-121.2857446,,,n_9982769652,"shop=department_store, brand=Marshalls"
+"Granite Bay, CA",,retail,452210,Ross,"10835 Olson Drive, Rancho Cordova, CA, 95670-5646",+1 916-858-8104,,38.5947594,-121.2857486,,,n_9982769653,"shop=department_store, brand=Ross"
+"Granite Bay, CA",,retail,445110,Grocery Outlet,,,,38.5959024,-121.2873789,,,n_9982769671,"shop=supermarket, brand=Grocery Outlet"
+"Granite Bay, CA",,retail,445120,ExtraMile,,,,38.5932415,-121.2873031,,,n_9982832299,"shop=convenience, brand=ExtraMile"
+"Granite Bay, CA",,retail,445120,ExtraMile,,,,38.6032997,-121.266885,,,n_9987379105,"shop=convenience, brand=ExtraMile"
+"Granite Bay, CA",,retail,452319,99 Cents Only Stores,,,https://locations.99only.com/ca/ranchocordova/discount-store-160.html,38.5942136,-121.2892939,,,n_9987406753,"shop=variety_store, brand=99 Cents Only Stores"
+"Granite Bay, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/rancho-cordova/1205/,38.5966667,-121.2883358,,,n_9987406754,"shop=variety_store, brand=Dollar Tree"
+"Granite Bay, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/carmichael-ca-pharmacies/4959-marconi-ave-carmichael-ca-95608/storeid=9809,38.6185625,-121.347591,,,n_9987580598,"shop=chemist, brand=CVS Pharmacy"
+"Granite Bay, CA",,retail,445120,Circle K,,,,38.6177371,-121.3466271,,,n_9987580600,"shop=convenience, brand=Circle K"
+"Granite Bay, CA",,retail,445110,Raley's,,,,38.5974959,-121.3451622,,,n_9987580601,"shop=supermarket, brand=Raley's"
+"Granite Bay, CA",,retail,445120,Circle K,,,,38.5963328,-121.3456951,,,n_9987580603,"shop=convenience, brand=Circle K"
+"Granite Bay, CA",,retail,446110,Rite Aid,,,https://www.riteaid.com/locations/ca/carmichael/4010-manzanita-avenue.html,38.6372466,-121.3264596,,,n_9987584141,"shop=chemist, brand=Rite Aid"
+"Granite Bay, CA",,retail,452210,Big Lots,,,,38.633167,-121.3294437,,,n_9987584142,"shop=department_store, brand=Big Lots"
+"Granite Bay, CA",,retail,445110,Smart & Final Extra!,,,,38.6325509,-121.3294818,,,n_9987584143,"shop=supermarket, brand=Smart & Final"
+"Granite Bay, CA",,retail,452319,99 Cents Only Stores,,,,38.618033,-121.3299294,,,n_9987584327,"shop=variety_store, brand=99 Cents Only Stores"
+"Granite Bay, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-6325+fair+oaks+blvd-carmichael-ca-95608/id=6658,38.6161533,-121.3291371,,,n_9987584332,"shop=chemist, brand=Walgreens"
+"Granite Bay, CA",,retail,445120,Quik Stop,,,,38.6953765,-120.8126696,,,n_10001015546,"shop=convenience, brand=Quik Stop"
+"Granite Bay, CA",,retail,445110,SF Supermarket,"2738 Sunrise Boulevard, Rancho Cordova, CA, 95742",,,38.6018166,-121.2693255,,,n_10048553863,"shop=supermarket, brand=SF Supermarket"
+"Granite Bay, CA",,retail,445120,7-Eleven,"6591 Wyndham Drive, Sacramento, CA, 95823-4925",+1 916-689-2203,https://www.7-eleven.com/locations/ca/sacramento/6591-wyndham-dr-14119,38.4688373,-121.426173,,,n_10067480033,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,445110,Safeway,"3380 Coach Lane, Cameron Park, CA, 95682",+1 530-676-6930,https://local.safeway.com/safeway/ca/cameron-park/3380-coach-ln.html,38.6566414,-120.9711073,,,n_10174598980,"shop=supermarket, brand=Safeway"
+"Granite Bay, CA",,retail,445110,Eshan Market,,,,38.6385812,-121.4979769,,,n_10179988713,shop=supermarket
+"Granite Bay, CA",,retail,453110,Sherwood Florist,"10239 Fair Oaks Boulevard, Fair Oaks, CA, 95628",,https://sherwoodflowers.net/,38.6433747,-121.2703317,,,n_10572184188,shop=florist
+"Granite Bay, CA",,retail,446120,Skinned and Lashed,,,,38.6425328,-121.2702924,,,n_10572184192,shop=beauty
+"Granite Bay, CA",,retail,453110,Bella Fiore,,,,38.6417686,-121.2703229,,,n_10572184200,shop=florist
+"Granite Bay, CA",,retail,445120,Main+ Market,,,,38.6417554,-121.5201142,,,n_10666802082,shop=convenience
+"Granite Bay, CA",,retail,445120,South Side Market,,,,38.5707973,-121.5033693,,,n_10684391856,shop=convenience
+"Granite Bay, CA",,retail,445120,Maverik,,,,38.5716868,-121.5769888,,,n_10696098509,"shop=convenience, brand=Maverik"
+"Granite Bay, CA",,retail,446120,Sassy Nails,,,,38.7304547,-120.786522,,,n_10697847984,shop=beauty
+"Granite Bay, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/sacramento/2041/,38.6305505,-121.476987,,,n_10757840129,"shop=variety_store, brand=Dollar Tree"
+"Granite Bay, CA",,retail,445292,Kobasics Candies,"5324 Riverside Boulevard, Sacramento, CA",+1-916-448-3555,https://kobasicscandies.com/,38.528454,-121.519881,,,n_10774378042,shop=confectionery
+"Granite Bay, CA",,retail,452210,Ross,"3309 Northgate Boulevard, Sacramento, CA, 95834",+1 916-564-4106,,38.6280505,-121.4769057,,,n_10830451530,"shop=department_store, brand=Ross"
+"Granite Bay, CA",,retail,452210,dd's Discounts,,,,38.6285995,-121.4769325,,,n_10830451531,"shop=department_store, brand=dd's Discounts"
+"Granite Bay, CA",,retail,445120,M&B Cordova Liquors,"2787 Don Juan Drive, Rancho Cordova, CA, 95670",,,38.5986804,-121.2850399,,,n_10967170137,shop=convenience
+"Granite Bay, CA",,retail,445110,Indian Supermarket,,,,38.6520142,-121.5031604,,,n_10981579446,shop=supermarket
+"Granite Bay, CA",,retail,445310,Madison Liquor,"5926 Madison Avenue, 95608",9163448568,,38.6603733,-121.3259628,,,n_11031457605,shop=alcohol
+"Granite Bay, CA",,retail,446120,Gateway Nails & Spa,2405 Iron Point Road,,,38.6449933,-121.1221341,,,n_11087509101,shop=beauty
+"Granite Bay, CA",,retail,445292,Old Sacramento Candy Barrel,,,,38.5820601,-121.5051376,,,n_11088652086,shop=confectionery
+"Granite Bay, CA",,retail,445120,K Mini Mart,921 K Street,,,38.5794652,-121.4944032,,,n_11090679605,shop=convenience
+"Granite Bay, CA",,retail,446120,Stylush Eyebrow Threading,"7909 Walerga Road, Antelope, CA, 95843",,,38.7129108,-121.36609,,,n_11103463240,shop=beauty
+"Granite Bay, CA",,retail,445310,Stop One Liquor,,,,38.6950677,-121.3606861,,,n_11103492463,shop=alcohol
+"Granite Bay, CA",,retail,445110,Carniceria Del Valle,"7137 Walerga Road, Sacramento, CA, 95842",,,38.6965109,-121.3640413,,,n_11103498935,shop=supermarket
+"Granite Bay, CA",,retail,445110,Good Taste Market,"7117 Walerga Road, Sacramento, CA, 95842",,,38.695997,-121.3640845,,,n_11103498936,shop=supermarket
+"Granite Bay, CA",,retail,446120,Tonix Nails & Spa,"7117 Walerga Road, Sacramento, CA, 95842",,,38.6958088,-121.3640871,,,n_11103498938,shop=beauty
+"Granite Bay, CA",,retail,446120,Miss Nails,"4333 Elkhorn Boulevard, Sacramento, CA, 95842",,,38.6954789,-121.3622854,,,n_11103498941,shop=beauty
+"Granite Bay, CA",,retail,453991,Cigarettes For Less,,,,38.6954779,-121.3617918,,,n_11103498945,shop=tobacco
+"Granite Bay, CA",,retail,446120,Y2K Nails,2831 Del Paso Road,,,38.6573766,-121.5241575,,,n_11104872859,shop=beauty
+"Granite Bay, CA",,retail,446120,California Sun,,,,38.6573983,-121.5237204,,,n_11104872860,shop=beauty
+"Granite Bay, CA",,retail,445110,Antelope Market,"3535 Elverta Road, Antelope, CA, 95843",,,38.7190352,-121.3806712,,,n_11105501052,shop=supermarket
+"Granite Bay, CA",,retail,445310,Elverta Food & Liquor,"8008 Dutch Haven Boulevard, Elverta, CA, 95626",,,38.7146526,-121.4074826,,,n_11105501078,shop=alcohol
+"Granite Bay, CA",,retail,445120,Food Mart,,,,38.7059847,-121.327927,,,n_11105689603,shop=convenience
+"Granite Bay, CA",,retail,445310,SR Food & Liquor,"7547 Watt Avenue, North Highlands, CA, 95843",,,38.7038221,-121.3834516,,,n_11105721267,shop=alcohol
+"Granite Bay, CA",,retail,453991,Alien Vape & Smoke Shop,"7529 Watt Avenue, North Highlands, CA, 95843",,,38.7039074,-121.383843,,,n_11105721273,shop=tobacco
+"Granite Bay, CA",,retail,446120,Top Cuts and Nails,"7529 Watt Avenue, North Highlands, CA, 95843",,,38.7038008,-121.3838391,,,n_11105721274,shop=beauty
+"Granite Bay, CA",,retail,452210,Ross,"6736 Watt Avenue, North Highlands, CA, 95660",+1 916-344-2899,,38.6894075,-121.3844031,,,n_11105721296,"shop=department_store, brand=Ross"
+"Granite Bay, CA",,retail,453991,Smoke City,"6745 Watt Avenue, North Highlands, CA, 95660",,,38.689638,-121.3843406,,,n_11105721299,shop=tobacco
+"Granite Bay, CA",,retail,446120,Crown Nails,"6745 Watt Avenue, North Highlands, CA, 95660",,,38.6897418,-121.3843395,,,n_11105721301,shop=beauty
+"Granite Bay, CA",,retail,445310,Boss Liquor,"6745 Watt Avenue, North Highlands, CA, 95660",,,38.6898003,-121.3843401,,,n_11105721302,shop=alcohol
+"Granite Bay, CA",,retail,453991,Sky Smoke Shop,"7753 Roseville Road, Sacramento, CA, 95842",,,38.7067522,-121.3283321,,,n_11105727407,shop=tobacco
+"Granite Bay, CA",,retail,446120,Bala Eyebrow Threading,"5800 Antelope Road, Sacramento, CA, 95842",,,38.7052614,-121.3266129,,,n_11105727412,shop=beauty
+"Granite Bay, CA",,retail,445110,Punjab Bazaar,"5764 Antelope Road, Sacramento, CA, 95842",,,38.7047026,-121.3267401,,,n_11105727416,shop=supermarket
+"Granite Bay, CA",,retail,445120,Quik Stop,,,,38.7048045,-121.3269147,,,n_11105727417,"shop=convenience, brand=Quik Stop"
+"Granite Bay, CA",,retail,446120,Angel Beauty Brows,"7821 Lichen Drive, Citrus Heights, CA, 95621",,,38.7084512,-121.3143866,,,n_11105727432,shop=beauty
+"Granite Bay, CA",,retail,453991,Magma Vape and Smoke Shop,"7887 Lichen Drive, Citrus Heights, CA, 95621",,,38.7092084,-121.3118374,,,n_11105727436,shop=tobacco
+"Granite Bay, CA",,retail,445120,Food Mart,,,,38.7076724,-121.3130907,,,n_11105727439,shop=convenience
+"Granite Bay, CA",,retail,452319,Falling Prices Citrus Heights,"6422 Tupelo Drive, Citrus Heights, CA, 95621",,,38.7054598,-121.3144958,,,n_11105727441,shop=variety_store
+"Granite Bay, CA",,retail,453991,Hollywood Rock,"6424 Tupelo Drive, Citrus Heights, CA, 95621",,,38.7054516,-121.314033,,,n_11105727444,shop=tobacco
+"Granite Bay, CA",,retail,446120,Nails by Mary,"6432 Tupelo Drive, Citrus Heights, CA, 95621",,,38.7058188,-121.3137718,,,n_11105727449,shop=beauty
+"Granite Bay, CA",,retail,446120,CoCo Nail Spa,"6456 Tupelo Drive, Citrus Heights, CA, 95621",,,38.7066416,-121.3135714,,,n_11105727451,shop=beauty
+"Granite Bay, CA",,retail,445310,Summer Hill Liquor Market,"6456 Tupelo Drive, Citrus Heights, CA, 95621",,,38.7066405,-121.3132707,,,n_11105727453,shop=alcohol
+"Granite Bay, CA",,retail,446120,BAM Hair Nails Salon,"5830 Antelope Road, Sacramento, CA, 95842",,,38.70223,-121.3305537,,,n_11105727466,shop=beauty
+"Granite Bay, CA",,retail,445120,7-Eleven,"5820 Antelope Road, Sacramento, CA, 95842",+1 916-339-1509,https://www.7-eleven.com/locations/ca/antelope/5820-antelope-rd-34629,38.7019074,-121.3313185,,,n_11105727467,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,452210,Kohl's,"5030 Antelope Road, Antelope, CA, 95843",+1 916-338-0655,https://www.kohls.com/stores/ca/antelope-705.shtml,38.7023288,-121.3472327,,,n_11105727498,"shop=department_store, brand=Kohl's"
+"Granite Bay, CA",,retail,453991,Smoke Town Plus,"6149 Watt Avenue, North Highlands, CA, 95660",,,38.6794048,-121.383266,,,n_11105768803,shop=tobacco
+"Granite Bay, CA",,retail,446120,Pro Nails,"6145 Watt Avenue, North Highlands, CA, 95660",,,38.6793075,-121.3832598,,,n_11105768804,shop=beauty
+"Granite Bay, CA",,retail,453110,North Highlands Florist,"6114 Watt Avenue, North Highlands, CA, 95660",,,38.6777195,-121.3822664,,,n_11105808315,shop=florist
+"Granite Bay, CA",,retail,445210,Carniceria Atoyac Meat Market,"6104 Watt Avenue, North Highlands, CA, 95660",,,38.6774526,-121.3822897,,,n_11105808316,shop=butcher
+"Granite Bay, CA",,retail,446120,US Nails & Beauty,"5909 Watt Avenue, North Highlands, CA, 95660",,,38.6742775,-121.3837536,,,n_11105808322,shop=beauty
+"Granite Bay, CA",,retail,453991,Cloud 9 Vape & Smoke,"5803 Watt Avenue, North Highlands, CA, 95660",,,38.6723912,-121.3833646,,,n_11105808329,shop=tobacco
+"Granite Bay, CA",,retail,446110,Parkside Pharmacy,"4404 Del Rio Road, Sacramento, CA, 95822",+1-916-452-2200,https://www.myparksidepharmacy.com/,38.5368448,-121.5047591,,,n_11123492260,shop=chemist
+"Granite Bay, CA",,retail,446110,Walgreens,"4051 Douglas Boulevard, Granite Bay, CA, 95746",,,38.744261,-121.2246472,,,n_11148991699,"shop=chemist, brand=Walgreens"
+"Granite Bay, CA",,retail,445310,BevMo!,,,,38.7429056,-121.2505494,,,n_11149047604,"shop=alcohol, brand=BevMo!"
+"Granite Bay, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-4051+douglas+blvd-granite+bay-ca-95746/id=6036,38.7442609,-121.2246471,,,n_11149065614,"shop=chemist, brand=Walgreens"
+"Granite Bay, CA",,retail,446120,Beauty Solutions,"1850 Douglas Boulevard, Roseville, 95661",,,38.7438446,-121.2588628,,,n_11149072613,shop=beauty
+"Granite Bay, CA",,retail,446191,Sunrise Natural Foods,1950 Douglas Boulevard,+1 916-789-8591,,38.7431991,-121.2536436,,,n_11149084860,shop=health_food
+"Granite Bay, CA",,retail,446120,Beauty Concepts,,,,38.7428315,-121.2523427,,,n_11149084861,shop=beauty
+"Granite Bay, CA",,retail,453991,Smoke Barn,1701 Santa Clara Drive,,,38.7450216,-121.2627205,,,n_11152165303,shop=tobacco
+"Granite Bay, CA",,retail,446120,Ulta Beauty,"5927 Sunrise Boulevard, Citrus Heights, CA, 95610",+1 916-535-0021,https://www.ulta.com/stores/citrus-heights-ca-124,38.6737187,-121.2730729,,,n_11154656375,"shop=beauty, brand=Ulta Beauty"
+"Granite Bay, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/citrus-heights/2119/,38.671469,-121.2736632,,,n_11154656379,"shop=variety_store, brand=Dollar Tree"
+"Granite Bay, CA",,retail,445110,Raley's O-N-E Market,1970 Blue Oaks Boulevard,,,38.792964,-121.3570329,,,n_11155223692,"shop=supermarket, brand=Raley's O-N-E"
+"Granite Bay, CA",,retail,445120,7-Eleven,,,,38.5808095,-121.4960119,,,n_11156556950,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,445292,Osaka Ya,"2215 10th Street, Sacramento, CA, 95818",+1-916-446-6857,https://www.osakaya-wagashi.com/,38.5665922,-121.499264,,,n_11159595961,shop=confectionery
+"Granite Bay, CA",,retail,453991,3 Monkeys,1850 Douglas Boulevard,,,38.743256,-121.2568549,,,n_11159993473,shop=tobacco
+"Granite Bay, CA",,retail,452210,TJ Maxx,,,,38.74326,-121.2561451,,,n_11160010930,"shop=department_store, brand=TJ Maxx"
+"Granite Bay, CA",,retail,446120,Kim’s Salon,1093 Roseville Square,+1 916-784-8665,,38.7461111,-121.2757808,,,n_11162031516,shop=beauty
+"Granite Bay, CA",,retail,446120,Nail Spa 999,1099 Roseville Square,,,38.7461129,-121.2756381,,,n_11162031519,shop=beauty
+"Granite Bay, CA",,retail,446120,NT Nails & Spa,,,,38.6102125,-121.3872538,,,n_11198098244,shop=beauty
+"Granite Bay, CA",,retail,446120,Creative Nails,"2648 Watt Avenue, Sacramento, CA, 95821",,,38.6135485,-121.3823251,,,n_11270630975,shop=beauty
+"Granite Bay, CA",,retail,452319,Dollar Tree,"2540 Watt Avenue, Sacramento, CA, 95821",,https://www.dollartree.com/locations/ca/sacramento/5580/,38.6118141,-121.3819002,,,n_11270630982,"shop=variety_store, brand=Dollar Tree"
+"Granite Bay, CA",,retail,446120,Mei Mei Hair & Nails,,+1 916-782-9598,,38.7430214,-121.2744651,,,n_11278369346,shop=beauty
+"Granite Bay, CA",,retail,446110,Anderson Bros Pharmacy,,,,38.6186985,-121.4008944,,,n_11278709356,shop=chemist
+"Granite Bay, CA",,retail,446120,Bee's Nails,,,,38.6188307,-121.4001816,,,n_11278709363,shop=beauty
+"Granite Bay, CA",,retail,452319,Five Below,,+1 916-378-8155,https://locations.fivebelow.com/ca/sacramento/2735-2-marconi-avenue,38.6192848,-121.3979889,,,n_11278709365,"shop=variety_store, brand=Five Below"
+"Granite Bay, CA",,retail,446120,Oasis x HLND Salon And Barber,,,,38.7426038,-121.2243214,,,n_11298739961,shop=beauty
+"Granite Bay, CA",,retail,445120,ampm,,,,38.744407,-121.2255544,,,n_11375428608,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445110,East Market,,,,38.6107663,-121.3851585,,,n_11378365216,shop=supermarket
+"Granite Bay, CA",,retail,445310,Country Club Food and Liquor,,,,38.6107733,-121.3850477,,,n_11378365217,shop=alcohol
+"Granite Bay, CA",,retail,445310,Art's Liquor,95841,9166928484,https://artsliquor.net/,38.6597421,-121.3278203,,,n_11393322869,shop=alcohol
+"Granite Bay, CA",,retail,452319,Dollar Tree,"4710 Natomas Boulevard, Sacramento, CA, 95835",279-221-4621,,38.6590858,-121.5095053,,,n_11403897152,"shop=variety_store, brand=Dollar Tree"
+"Granite Bay, CA",,retail,445120,7-Eleven,"8498 Florin Road, Sacramento, CA, 95828",+1 800-255-0711,https://www.7-eleven.com/locations/ca/sacramento/8498-florin-rd-41251,38.4956977,-121.3910469,,,n_11421486737,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-4220+missouri+flat+rd-placerville-ca-95667/id=11823,38.7063204,-120.8314844,,,n_11430282551,"shop=chemist, brand=Walgreens"
+"Granite Bay, CA",,retail,452210,Target,"3968 Missouri Flat Road, Placerville, CA, 95667-5240",+1 530-303-5921,https://www.target.com/sl/placerville/3355,38.7102953,-120.8433618,,,n_11430282557,"shop=department_store, brand=Target"
+"Granite Bay, CA",,retail,445110,Save Mart,,,,38.7112018,-120.8433747,,,n_11430282558,"shop=supermarket, brand=Save Mart"
+"Granite Bay, CA",,retail,452210,Ross,"3966 Missouri Flat Road, Placerville, CA, 95667-5239",+1 530-344-9430,,38.7116063,-120.8433269,,,n_11430282559,"shop=department_store, brand=Ross"
+"Granite Bay, CA",,retail,446120,Bath & Body Works,,,,38.7118551,-120.8433032,,,n_11430282562,"shop=cosmetics, brand=Bath & Body Works"
+"Granite Bay, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/placerville-ca-pharmacies/3964-missouri-flat-rd-ste-a-placerville-ca-95667/storeid=9184,38.7121928,-120.8429035,,,n_11430282563,"shop=chemist, brand=CVS Pharmacy"
+"Granite Bay, CA",,retail,452210,TJ Maxx,,,,38.7141609,-120.8388661,,,n_11430282567,"shop=department_store, brand=TJ Maxx"
+"Granite Bay, CA",,retail,445110,Raley's,,,,38.7272685,-120.8355986,,,n_11430295019,"shop=supermarket, brand=Raley's"
+"Granite Bay, CA",,retail,452210,Big Lots,"47 Fair Lane, Placerville, CA, 95667",+1 530-642-8927,https://local.biglots.com/ca/placerville/47-fair-ln,38.72284,-120.8324022,,,n_11430295024,"shop=department_store, brand=Big Lots"
+"Granite Bay, CA",,retail,446110,Rite Aid,,,,38.7230379,-120.8330477,,,n_11430295025,"shop=chemist, brand=Rite Aid"
+"Granite Bay, CA",,retail,445120,,,,,38.7924114,-121.3555595,,,n_11464554393,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445120,ampm,,,,38.5433425,-121.3356798,,,n_11492080699,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445120,7-Eleven,,,,38.6145112,-121.5304444,,,n_11507930081,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,445292,See's Candies,"3372 El Camino Avenue, Sacramento, CA, 95821",,,38.6092453,-121.3857062,,,n_11563211822,"shop=confectionery, brand=See's Candies"
+"Granite Bay, CA",,retail,445120,Circle K,,,,38.6548459,-121.0707716,,,n_11621305810,"shop=convenience, brand=Circle K"
+"Granite Bay, CA",,retail,445120,Eli's Market,,,,38.5372897,-121.4488397,,,n_11639215150,shop=convenience
+"Granite Bay, CA",,retail,445120,7-Eleven,,,,38.5252375,-121.4827066,,,n_11655460631,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,445110,Grocery Outlet,,,,38.6105293,-121.4493707,,,n_11721667608,"shop=supermarket, brand=Grocery Outlet"
+"Granite Bay, CA",,retail,445120,Lucky Market,,,,38.6118791,-121.4472236,,,n_11721667630,shop=convenience
+"Granite Bay, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/sacramento/1204/,38.4724055,-121.4262447,,,n_11760044868,"shop=variety_store, brand=Dollar Tree"
+"Granite Bay, CA",,retail,452210,dd's Discounts,,,,38.473467,-121.4310133,,,n_11760053879,"shop=department_store, brand=dd's Discounts"
+"Granite Bay, CA",,retail,445120,ampm,,,,38.5579136,-121.5391619,,,n_11821051728,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,446120,California Sun,"820 Sterling Parkway, Lincoln, CA, 95648",+1 (916) 789-1034,https://californiasun.com/locations/lincoln/,38.8713575,-121.2965842,,,n_11863022353,shop=beauty
+"Granite Bay, CA",,retail,445120,7-Eleven,"21 Whyte Avenue, Roseville, CA, 95661-5251",+1 916-722-1001,https://www.7-eleven.com/locations/ca/roseville/21-whyte-ave-39619,38.7224156,-121.2912031,,,n_11887904661,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,445110,Sunrise Indian Market,,,,38.5914915,-121.2664426,,,n_11892953433,shop=supermarket
+"Granite Bay, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/roseville/1248/,38.7453356,-121.272745,,,n_11897556893,"shop=variety_store, brand=Dollar Tree"
+"Granite Bay, CA",,retail,446120,Pearl Nails,,,,38.9293214,-121.0876407,,,n_11897774659,shop=beauty
+"Granite Bay, CA",,retail,445120,Cottage Mart,"2130 51st Street, Sacramento, CA, 95817",,,38.5536508,-121.4460559,,,n_11904573024,shop=convenience
+"Granite Bay, CA",,retail,445110,Groccery Outlet,"3040 Green Valley Road, Cameron Park, CA, 95682",+15303502802,,38.6975599,-121.0002978,,,n_11918971279,shop=supermarket
+"Granite Bay, CA",,retail,446120,Makeup Before You Wakeup,115 Main Street,,,38.7518556,-121.2856793,,,n_11927306897,shop=beauty
+"Granite Bay, CA",,retail,446120,L & L Esthetics,119 Main Street,,,38.7518425,-121.2858866,,,n_11927306905,shop=beauty
+"Granite Bay, CA",,retail,446120,The Wild Arch Studio,424 Lincoln Boulevard,,,38.8909989,-121.2930217,,,n_11931664914,shop=beauty
+"Granite Bay, CA",,retail,446120,Bella,424 Lincoln Boulevard,,,38.8909577,-121.2930274,,,n_11931664915,shop=beauty
+"Granite Bay, CA",,retail,446120,Removery,,,,38.745257,-121.2576812,,,n_11933485192,shop=beauty
+"Granite Bay, CA",,retail,446120,Roseville Nail Spa,,,,38.7453717,-121.257677,,,n_11933485195,shop=beauty
+"Granite Bay, CA",,retail,446120,Cosmo Nail Lounge,,,,38.7431257,-121.2504388,,,n_11933489319,shop=beauty
+"Granite Bay, CA",,retail,446120,European Wax Center,,,,38.743431,-121.2504548,,,n_11933489320,"shop=beauty, brand=European Wax Center"
+"Granite Bay, CA",,retail,446120,IconiQ,,,,38.7437077,-121.254293,,,n_11933543246,shop=beauty
+"Granite Bay, CA",,retail,446120,Perfect Brows Ink,,,,38.7437649,-121.2542955,,,n_11933543252,shop=beauty
+"Granite Bay, CA",,retail,446120,Moschino Nails,1811 Douglas Boulevard,,,38.7466027,-121.2606788,,,n_11935097201,shop=beauty
+"Granite Bay, CA",,retail,452210,Ross,"1740 Santa Clara Drive, Roseville, CA, 95661",+1 916-782-6910,,38.7466126,-121.2613719,,,n_11935097205,"shop=department_store, brand=Ross"
+"Granite Bay, CA",,retail,446120,California Sun,,,,38.7779642,-121.2910067,,,n_11939906852,shop=beauty
+"Granite Bay, CA",,retail,445120,,,,,38.7558127,-121.274366,,,n_11974380146,shop=convenience
+"Granite Bay, CA",,retail,446110,Vibe by California,,,,38.5353581,-121.4081225,,,n_11997926670,shop=chemist
+"Granite Bay, CA",,retail,452319,Falling Prices,,,,38.5484699,-121.4102484,,,n_11997979232,shop=general
+"Granite Bay, CA",,retail,452319,That's Cheap!,"2416 Watt Avenue, Sacramento, CA, 95825",+1 916-245-0895,https://thatscheap.com/,38.6088151,-121.3815138,,,n_12008859674,shop=variety_store
+"Granite Bay, CA",,retail,446120,Hair Plus Beauty Supply,"2326 Watt Avenue, Sacramento, CA, 95825",+1 916-348-8989,,38.6077092,-121.3816342,,,n_12008859677,shop=beauty
+"Granite Bay, CA",,retail,446120,Fantasy Beauty Spa,,,,38.6080384,-121.3813223,,,n_12008859693,shop=beauty
+"Granite Bay, CA",,retail,453110,,,,,38.5199593,-121.4398676,,,n_12035838729,shop=florist
+"Granite Bay, CA",,retail,446120,Sola Salons,,,,38.6573525,-121.1739616,,,n_12109425444,"shop=beauty, brand=Sola Salons"
+"Granite Bay, CA",,retail,445120,PS Market,"2800 T Street, Sacramento, CA, 95816",,,38.5626263,-121.4738913,,,n_12109983621,shop=convenience
+"Granite Bay, CA",,retail,445120,7-Eleven,,,,38.8062188,-121.2046388,,,n_12187401229,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,445120,ampm,,,,38.8059898,-121.2063091,,,n_12187401255,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,446120,European Wax Center,,,,38.8037774,-121.2074582,,,n_12187401258,"shop=beauty, brand=European Wax Center"
+"Granite Bay, CA",,retail,445110,TAJ Supermarket,"7933 East Stockton Boulevard, Sacramento, CA, 95823",,,38.4702103,-121.4144092,,,n_12189339799,shop=supermarket
+"Granite Bay, CA",,retail,445110,Sunrise Halal Market,"6964 65th Street, Sacramento, CA, 95823",,,38.5005277,-121.4368793,,,n_12191240873,shop=supermarket
+"Granite Bay, CA",,retail,446120,Fountain Nail Spa,308 Madison Avenue,+1 916-844-7793,,38.6651637,-121.2246713,,,n_12192130576,shop=beauty
+"Granite Bay, CA",,retail,446120,Y2K Nails,"4660 Natomas Boulevard, Sacramento, CA, 95835",,,38.6579043,-121.510305,,,n_12207344898,shop=beauty
+"Granite Bay, CA",,retail,446120,European Wax Center,,,,38.6570658,-121.5102782,,,n_12207384710,"shop=beauty, brand=European Wax Center"
+"Granite Bay, CA",,retail,445120,South Pacific and Asian Mart,"10947 Olson Drive, Rancho Cordova, CA, 95670",,,38.5962132,-121.2830607,,,n_12254182692,shop=convenience
+"Granite Bay, CA",,retail,446120,,,,,38.5962458,-121.2830863,,,n_12254182694,shop=beauty
+"Granite Bay, CA",,retail,452319,Village General Store & Refillery,500 Vernon St,(916) 800-2474,https://www.villagegeneralstore.co/,38.7471618,-121.2866951,,,n_12295743941,shop=general
+"Granite Bay, CA",,retail,446120,Bath & Body Works,,,,38.5757299,-121.4030792,,,n_12319721809,"shop=cosmetics, brand=Bath & Body Works"
+"Granite Bay, CA",,retail,445120,ampm,,,,38.610831,-121.4590339,,,n_12319890713,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445120,Dino Mart,,,,38.658416,-120.968576,,,n_12357027966,shop=convenience
+"Granite Bay, CA",,retail,445110,Trader Joe's,,,,38.7877683,-121.2814367,,,n_12432024354,"shop=supermarket, brand=Trader Joe's"
+"Granite Bay, CA",,retail,452210,Big Lots,,,,38.7876448,-121.2810318,,,n_12432024544,"shop=department_store, brand=Big Lots"
+"Granite Bay, CA",,retail,452319,Falling Prices,,,,38.4970738,-121.431633,,,n_12573388570,shop=variety_store
+"Granite Bay, CA",,retail,445110,Bel Air,"4320 Arden Way, 95864",+1 916-972-0555,https://www.raleys.com/store/502,38.5947576,-121.3635561,,,n_12599155367,"shop=supermarket, brand=Bel Air"
+"Granite Bay, CA",,retail,446120,10 Pretty Nails,,,,38.4737875,-121.4461908,,,n_12617331633,shop=beauty
+"Granite Bay, CA",,retail,452319,Falling Prices,,,https://www.fallingprices.com,38.6771766,-121.1993454,,,n_12624437189,"shop=variety_store, brand=Falling Prices"
+"Granite Bay, CA",,retail,446110,CVS Pharmacy,"9479 Madison Avenue, Folsom, CA, 95630",+1 916-987-5710,https://www.cvs.com/store-locator/folsom-ca-pharmacies/9479-madison-ave-folsom-ca-95630/storeid=9980,38.6771842,-121.1976769,,,n_12624448815,"shop=chemist, brand=CVS Pharmacy"
+"Granite Bay, CA",,retail,446120,Brows and Bubbles,,,,38.5738231,-121.4819772,,,n_12637953296,shop=beauty
+"Granite Bay, CA",,retail,445120,Desi Market and Grill,"2087 Arena Boulevard, Sacramento, CA, 95834",,,38.6472443,-121.5111945,,,n_12675388739,shop=convenience
+"Granite Bay, CA",,retail,445110,,,,,38.4950447,-121.4074998,,,n_12706052201,shop=supermarket
+"Granite Bay, CA",,retail,446120,Lavish Lounge Nail,,,,38.6543384,-121.1799397,,,n_12758796903,shop=beauty
+"Granite Bay, CA",,retail,446120,Mimi’s Nails,,,,38.6543584,-121.1789643,,,n_12758796999,shop=beauty
+"Granite Bay, CA",,retail,446120,Tanya Martin Skincare,,,,38.6543397,-121.1784432,,,n_12758797003,shop=beauty
+"Granite Bay, CA",,retail,445120,Strauch & Co,,,,38.6533674,-121.1796024,,,n_12758797115,shop=convenience
+"Granite Bay, CA",,retail,452210,dd's Discounts,,,,38.5188334,-121.4410637,,,n_12790416278,"shop=department_store, brand=dd's Discounts"
+"Granite Bay, CA",,retail,452210,Ross,,,,38.528758,-121.4460466,,,n_12790627813,"shop=department_store, brand=Ross"
+"Granite Bay, CA",,retail,445120,7-Eleven,,,,38.4964415,-121.4288767,,,n_12790695602,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,445292,Snooks Chocolate Factory,731 Sutter Street,+1 916-955-8966,,38.6769813,-121.177499,,,n_12827581785,shop=chocolate
+"Granite Bay, CA",,retail,445110,Super X Market,"2711 Fairfield Street, Sacramento, CA, 95815-1602",,,38.6170776,-121.452652,,,n_12840662242,shop=supermarket
+"Granite Bay, CA",,retail,445110,Indian Bazaar,"4400 Elverta Road, Antelope, CA, 95843",+1 (916) 745-4922,,38.7128393,-121.3623184,,,n_12851270001,shop=supermarket
+"Granite Bay, CA",,retail,453991,3 Monkeys Smoke Shop,"4400 Elverta Road, Antelope, CA, 95843",+1 (916) 701-4907,https://threemonkeysmokes.com/,38.7128798,-121.3625795,,,n_12851270003,shop=tobacco
+"Granite Bay, CA",,retail,446120,Palace Nails and Spa,"4400 Elverta Road, Antelope, CA, 95843",+1 (916) 745-4815,,38.7128554,-121.3623842,,,n_12851270006,shop=beauty
+"Granite Bay, CA",,retail,446120,Ava Nails & Spa,"4207 Elverta Road, Antelope, CA, 95843",+1 (916) 721-1313,,38.7152893,-121.3665031,,,n_12851409669,shop=beauty
+"Granite Bay, CA",,retail,453991,Tobacco Plus,"4207 Elverta Road, Antelope, CA, 95843",+1 (916) 721-0599,,38.7152952,-121.3661869,,,n_12851409670,shop=tobacco
+"Granite Bay, CA",,retail,446120,La Belle Nails,"4141 Elverta Road, Antelope, CA, 95843",+1 (916) 723-3575,https://labellenails.favesalon.com,38.7141808,-121.3672742,,,n_12851409673,shop=beauty
+"Granite Bay, CA",,retail,445120,,,,,38.622939,-121.4464781,,,n_12858678390,shop=convenience
+"Granite Bay, CA",,retail,453991,Little Smoke Shack,,,,38.6269182,-121.4990177,,,n_12865780227,shop=tobacco
+"Granite Bay, CA",,retail,446120,Beauty Nails,,,,38.6136444,-121.4971906,,,n_12865780249,shop=beauty
+"Granite Bay, CA",,retail,445110,Barg Afghan Market & Restaurants,,,,38.4754279,-121.4288279,,,n_12877885139,shop=supermarket
+"Granite Bay, CA",,retail,446120,Removery,,8664650090,https://www.removery.com,38.542091,-121.4827297,,,n_12920312722,"shop=beauty, brand=Removery"
+"Granite Bay, CA",,retail,446120,Parklife,,,,38.5419378,-121.4827082,,,n_12920312724,shop=beauty
+"Granite Bay, CA",,retail,446120,Lush,,,,38.6006677,-121.4263185,,,n_12950277862,"shop=cosmetics, brand=Lush"
+"Granite Bay, CA",,retail,446120,Nailspa,4577 Mack Road,+1 (916) 422-3224,,38.4753007,-121.4485419,,,n_12993063444,shop=beauty
+"Granite Bay, CA",,retail,445120,ExtraMile,,,,38.5589733,-121.2406363,,,n_13027738015,"shop=convenience, brand=ExtraMile"
+"Granite Bay, CA",,retail,445310,M & N Liquor & Deli,,,,38.5630531,-121.3798532,,,n_13051526831,shop=alcohol
+"Granite Bay, CA",,retail,446120,Lemon + Lilac,"3014 Freeport Boulevard, Sacramento, CA, 95818",,,38.5501753,-121.4893242,,,n_13057463067,shop=beauty
+"Granite Bay, CA",,retail,446120,Aurum Beauty Experience Refined,"2735 Del Paso Road, Sacramento, CA",,,38.6573492,-121.5229127,,,n_13057463070,shop=beauty
+"Granite Bay, CA",,retail,452210,Sears,,,,38.4979135,-121.4359663,,,w_32703555,"shop=department_store, brand=Sears"
+"Granite Bay, CA",,retail,452210,Macy's Downtown Plaza Sacramento,"414 K Street, CA, 95814",,https://www.macys.com/stores/ca/sacramento/downtown-commons_406.html,38.5806748,-121.5015302,,,w_36767290,"shop=department_store, brand=Macy's"
+"Granite Bay, CA",,retail,445110,Walmart Supercenter,"900 Pleasant Grove Boulevard, Roseville, CA, 95678",+1 916-786-6768,https://www.walmart.com/store/1988-roseville-ca,38.7880054,-121.2897464,,,w_37093343,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Granite Bay, CA",,retail,445110,Safeway,"9045 Woodcreek Oaks Boulevard, Roseville, CA, 95747",7809919,https://local.safeway.com/safeway/ca/roseville/9045-woodcreek-oaks-blvd.html,38.7940727,-121.3306336,,,w_37221578,"shop=supermarket, brand=Safeway"
+"Granite Bay, CA",,retail,452210,Target,"2505 Riverside Boulevard, Sacramento, CA, 95818",+1 916-444-0993,https://www.target.com/sl/sacramento-riverside/310,38.5621661,-121.4968135,,,w_37572759,"shop=department_store, brand=Target"
+"Granite Bay, CA",,retail,445120,Circle K,"3721 Truxel Road, Sacramento, CA, 95834",,,38.6374246,-121.5049896,,,w_39990455,"shop=convenience, brand=Circle K"
+"Granite Bay, CA",,retail,452210,Walmart,"3661 Truxel Road, Sacramento, CA, 95834",+1 916-928-9668,https://www.walmart.com/store/2598-sacramento-ca,38.635629,-121.5060315,,,w_39990458,"shop=department_store, brand=Walmart, operator=Walmart"
+"Granite Bay, CA",,retail,452210,Target,"8101 Cosumnes River College Boulevard, Sacramento, CA, 95823",+1 916-525-3576,https://www.target.com/sl/sacramento-sw/1527,38.4590975,-121.4133485,,,w_40046788,"shop=department_store, brand=Target"
+"Granite Bay, CA",,retail,452210,McCaulou's,,,,38.9058792,-121.0728058,,,w_45300919,shop=department_store
+"Granite Bay, CA",,retail,445110,WinCo Foods,CA,,,38.7850678,-121.2784409,,,w_45373098,"shop=supermarket, brand=WinCo Foods"
+"Granite Bay, CA",,retail,452210,Target,"10451 Fairway Drive, Roseville, CA, 95678-1987",+1 916-780-1020,https://www.target.com/sl/roseville-fairway-drive/1502,38.7911486,-121.2902047,,,w_45373107,"shop=department_store, brand=Target"
+"Granite Bay, CA",,retail,452319,Cost Plus World Market,,,,38.7829579,-121.2691817,,,w_45407096,shop=general
+"Granite Bay, CA",,retail,452210,Ross,"6744 Stanford Ranch Road, Roseville, CA, 95678",+1 916-771-8920,,38.7829763,-121.2686936,,,w_45407097,"shop=department_store, brand=Ross"
+"Granite Bay, CA",,retail,445310,Total Wine,"5791 Five Star Boulevard, Roseville, CA, 95678",+1 916-791-2488,https://www.totalwine.com/store-info/1101,38.7815703,-121.2718409,,,w_45407103,"shop=alcohol, brand=Total Wine"
+"Granite Bay, CA",,retail,452210,Burlington,"1248 Galleria Boulevard, Roseville, CA, 95678",+1 916-755-6013,https://stores.burlington.com/ca/roseville/1125/,38.7748847,-121.2635385,,,w_45407146,"shop=department_store, brand=Burlington"
+"Granite Bay, CA",,retail,445120,7-Eleven,"1216 Galleria Boulevard, CA",,https://www.7-eleven.com/locations/ca/roseville/1216-galleria-39337,38.773038,-121.2652432,,,w_45407173,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,445120,ExtraMile,,,,38.7885579,-121.2814968,,,w_45886698,"shop=convenience, brand=ExtraMile"
+"Granite Bay, CA",,retail,445120,Rocket,,,,38.7813699,-121.2647515,,,w_47108140,"shop=convenience, amenity=car_wash, brand=Rocket"
+"Granite Bay, CA",,retail,445120,ampm,"998 Riverside Avenue, r, CA, 95678",,,38.7298792,-121.2912291,,,w_47150114,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445120,ampm,"1139 Douglas Boulevard, Roseville, CA, 95678",,,38.7446194,-121.2740439,,,w_47150229,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,446110,Rite Aid,,,https://www.riteaid.com/locations/ca/roseville/446-roseville-square.html,38.7443074,-121.2761861,,,w_47150247,"shop=chemist, brand=Rite Aid"
+"Granite Bay, CA",,retail,445110,Trader Joe's,"1117 Roseville Square, Roseville, CA, 95678",+1 916-784-9084,https://locations.traderjoes.com/ca/roseville/80/,38.7463015,-121.2749321,,,w_47150267,"shop=supermarket, brand=Trader Joe's"
+"Granite Bay, CA",,retail,452210,Big Lots,"212 Harding Boulevard, CA",,,38.7479403,-121.2689454,,,w_47151401,"shop=department_store, brand=Big Lots"
+"Granite Bay, CA",,retail,445120,7-Eleven,,,,38.794657,-121.3129435,,,w_48876567,"shop=convenience, amenity=car_wash, brand=7-Eleven"
+"Granite Bay, CA",,retail,445120,Chevron Extra Mile,"8001 Washington Boulevard, CA",,,38.7741236,-121.3049393,,,w_48880054,shop=convenience
+"Granite Bay, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/rocklin/1848/,38.8150761,-121.2553329,,,w_49360456,"shop=variety_store, brand=Dollar Tree"
+"Granite Bay, CA",,retail,445110,Save Mart,,,,38.8161848,-121.259349,,,w_49360517,"shop=supermarket, brand=Save Mart"
+"Granite Bay, CA",,retail,445110,Raley's,"6119 horseshoe Bar Road, Loomis, CA, 95650",+1-916-652-5737,,38.8182214,-121.1883978,,,w_49961780,"shop=supermarket, brand=Raley's"
+"Granite Bay, CA",,retail,445110,Raley's,"4051 Woodcreek Oaks Boulevard, CA",,,38.769881,-121.3321196,,,w_50265713,"shop=supermarket, brand=Raley's"
+"Granite Bay, CA",,retail,445120,Rose Food & Liquor,"215 Harding Boulevard, CA",,,38.7489361,-121.2704727,,,w_54777964,shop=convenience
+"Granite Bay, CA",,retail,445120,,,,,38.6535619,-121.1233456,,,w_60420031,shop=convenience
+"Granite Bay, CA",,retail,445110,Raley's,,,,38.9240429,-121.0540472,,,w_62302609,"shop=supermarket, brand=Raley's"
+"Granite Bay, CA",,retail,446110,Walgreens,"3521 Del Paso Road, Sacramento, CA, 95835",,https://www.walgreens.com/locator/walgreens-3521+del+paso+rd-sacramento-ca-95835/id=10114,38.6563016,-121.541786,,,w_82443706,"shop=chemist, brand=Walgreens"
+"Granite Bay, CA",,retail,445120,,,,,38.9563728,-121.1007962,,,w_85687731,shop=convenience
+"Granite Bay, CA",,retail,445110,Briar Patch,,,,38.941775,-121.0926223,,,w_85688655,"shop=supermarket, operator=Briar Patch Food Co-Op"
+"Granite Bay, CA",,retail,453991,,,,,38.9410314,-121.0926464,,,w_85688656,shop=tobacco
+"Granite Bay, CA",,retail,452210,Target,"2700 Bell Road, Auburn, CA, 95603-2508",+1 530-889-5650,https://www.target.com/sl/auburn/1097,38.9431268,-121.0952792,,,w_85689040,"shop=department_store, brand=Target"
+"Granite Bay, CA",,retail,445110,Safeway,"989 Sunrise Avenue, Roseville, CA, 95661",+1 916-773-4001,https://local.safeway.com/safeway/ca/roseville/989-sunrise-ave.html,38.7310596,-121.2712742,,,w_86094279,"shop=supermarket, brand=Safeway"
+"Granite Bay, CA",,retail,445110,Bel Air,"1039 Sunrise Avenue, Roseville, CA, 95661",,,38.728615,-121.2708192,,,w_86094280,shop=supermarket
+"Granite Bay, CA",,retail,446110,Rite Aid,,,,38.7313867,-121.2730073,,,w_86099529,"shop=chemist, brand=Rite Aid"
+"Granite Bay, CA",,retail,446110,Walgreens,"3999 Foothills Boulevard, Roseville, CA, 95747",,https://www.walgreens.com/locator/walgreens-3999+foothills+blvd-roseville-ca-95747/id=5501,38.7512399,-121.3085997,,,w_86215566,"shop=chemist, brand=Walgreens"
+"Granite Bay, CA",,retail,445110,Raley's Bel Air,"4008 Foothills Boulevard, Roseville, CA, 95747",916-783-1173,https://www.raleys.com/,38.7532952,-121.3113513,,,w_86253411,"shop=supermarket, brand=Raley's"
+"Granite Bay, CA",,retail,445110,Save Mart,5060 Foothills Boulevard,,,38.7602865,-121.312664,,,w_86260360,shop=supermarket
+"Granite Bay, CA",,retail,446110,CVS Pharmacy,,,,38.7782931,-121.290171,,,w_87083340,"shop=chemist, brand=CVS Pharmacy"
+"Granite Bay, CA",,retail,446110,Rite Aid,"990 Pleasant Grove Boulevard, CA",,,38.7796256,-121.2881324,,,w_87086666,"shop=chemist, brand=Rite Aid"
+"Granite Bay, CA",,retail,452210,Marshalls,"1200 Galleria Boulevard, CA",,,38.7722464,-121.2614741,,,w_87433050,"shop=department_store, brand=Marshalls"
+"Granite Bay, CA",,retail,452210,Kohl's,"10375 Fairway Drive, Roseville, CA, 95678",+1 916-352-0678,https://www.kohls.com/stores/ca/roseville-680.shtml,38.7890625,-121.2867241,,,w_89183180,"shop=department_store, brand=Kohl's"
+"Granite Bay, CA",,retail,446110,Walgreens,,,,38.6910465,-121.3836376,,,w_97535581,"shop=chemist, brand=Walgreens"
+"Granite Bay, CA",,retail,445120,Roseville Market,,,,38.7289497,-121.3128796,,,w_99275360,shop=convenience
+"Granite Bay, CA",,retail,445120,7-Eleven,"4000 Enterprise Boulevard, West Sacramento, CA, 95691",,https://www.7-eleven.com/locations/ca/west-sacramento/4010-lake-road-33646,38.5729411,-121.5787845,,,w_107138702,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,452210,Target,"1925 Douglas Boulevard, Roseville, CA, 95661-3834",+1 916-786-8787,https://www.target.com/sl/roseville-douglas-blvd/267,38.7461871,-121.2540606,,,w_119292986,"shop=department_store, brand=Target"
+"Granite Bay, CA",,retail,445110,Raley's,,,,38.7459422,-121.2567874,,,w_119293026,"shop=supermarket, brand=Raley's"
+"Granite Bay, CA",,retail,445110,Nugget Market,"West Sacramento, CA, 95691",+1 916 375 8700,https://www.nuggetmarket.com/locations/west-sacramento/,38.5509976,-121.5354278,,,w_120610528,shop=supermarket
+"Granite Bay, CA",,retail,445120,,"2816 West Capitol Avenue, West Sacramento, CA, 95691",,,38.5797282,-121.5482602,,,w_120651039,shop=convenience
+"Granite Bay, CA",,retail,445120,,"847 Harbor Boulevard, West Sacramento, CA, 95691",,,38.5773733,-121.5480041,,,w_120651230,shop=convenience
+"Granite Bay, CA",,retail,445110,Grocery Outlet,"845 Harbor Boulevard, West Sacramento, CA, 95691",,,38.5780553,-121.5477565,,,w_120651489,"shop=supermarket, brand=Grocery Outlet"
+"Granite Bay, CA",,retail,446110,Walgreens,"1351 West Capitol Avenue, West Sacramento, CA, 95691",,https://www.walgreens.com/locator/walgreens-1351+w+capitol+ave-west+sacramento-ca-95691/id=4198,38.5804098,-121.5254428,,,w_120651745,"shop=chemist, brand=Walgreens"
+"Granite Bay, CA",,retail,445120,,,,,38.5766738,-121.5483152,,,w_120651923,shop=convenience
+"Granite Bay, CA",,retail,445110,Raley's,"1601 West Capitol Avenue, West Sacramento, CA, 95691",,,38.5797836,-121.5291816,,,w_120651926,"shop=supermarket, brand=Raley's"
+"Granite Bay, CA",,retail,445110,Walmart Supercenter,"755 Riverpoint Court, West Sacramento, CA, 95605",+1 916-373-2200,https://www.walmart.com/store/3652-west-sacramento-ca,38.5872989,-121.5500893,,,w_120652138,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Granite Bay, CA",,retail,445120,ampm,,,,38.5911241,-121.5479627,,,w_120652788,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,452210,Ross,"735 Riverpoint Court, West Sacramento, CA, 95605",+1 916-376-0270,,38.5887345,-121.5484121,,,w_120652827,"shop=department_store, brand=Ross"
+"Granite Bay, CA",,retail,445120,ampm,"4790 West Capitol Avenue, West Sacramento, CA, 95691",,,38.5760628,-121.5758576,,,w_120653454,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,452210,Target,"2050 Town Center Plaza, West Sacramento, CA, 95691-4957",+1 916-384-0977,https://www.target.com/sl/west-sacramento/2268,38.5492802,-121.5364651,,,w_120653915,"shop=department_store, brand=Target"
+"Granite Bay, CA",,retail,445110,Safeway,"1850 Prairie City Road, Folsom, CA, 95630",+1 916-608-2450,https://local.safeway.com/safeway/ca/folsom/1850-prairie-city-rd.html,38.6498352,-121.1658144,,,w_130917515,"shop=supermarket, brand=Safeway"
+"Granite Bay, CA",,retail,445120,Chevron,,,,38.6495276,-121.164043,,,w_130917516,"shop=convenience, brand=Chevron"
+"Granite Bay, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-700+twelve+bridges+dr-lincoln-ca-95648/id=12525,38.8517633,-121.2882645,,,w_135122017,"shop=chemist, brand=Walgreens"
+"Granite Bay, CA",,retail,445110,Walmart Supercenter,"1400 Lead Hill Boulevard, Roseville, CA, 95661",+1 916-724-0012,https://www.walmart.com/store/4202-roseville-ca,38.7472929,-121.2569366,,,w_138217134,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Granite Bay, CA",,retail,445120,,,,,38.7300692,-121.2898522,,,w_138217659,shop=convenience
+"Granite Bay, CA",,retail,445120,ampm,,,,38.7605603,-121.2941487,,,w_138217915,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445120,,"3998 Foothills Boulevard, CA",,,38.7511653,-121.3100065,,,w_138229927,shop=convenience
+"Granite Bay, CA",,retail,445120,7-Eleven,,,,38.7504245,-121.2642798,,,w_138230034,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,445120,Tower Market,,,,38.7939594,-121.2919153,,,w_138230862,shop=convenience
+"Granite Bay, CA",,retail,445110,Raley's,,,,38.6541017,-121.290795,,,w_139017289,"shop=supermarket, brand=Raley's"
+"Granite Bay, CA",,retail,446110,Walgreens,"4495 Mack Road, CA, 95823",,https://www.walgreens.com/locator/walgreens-4495+mack+rd-sacramento-ca-95823/id=5036,38.4749843,-121.4513752,,,w_145222664,"shop=chemist, brand=Walgreens"
+"Granite Bay, CA",,retail,445110,Whole Foods Market,"270 Palladio Parkway, Folsom, CA, 95630",+1 916-984-8500,https://www.wholefoodsmarket.com/stores/folsom,38.6488159,-121.1181014,,,w_156575051,"shop=supermarket, brand=Whole Foods Market"
+"Granite Bay, CA",,retail,445110,Bel Air,"2760 East Bidwell Street, CA, 95630",,,38.6561923,-121.1218964,,,w_158236636,shop=supermarket
+"Granite Bay, CA",,retail,445110,WinCo Foods,,,,38.6559062,-121.1746167,,,w_160403526,"shop=supermarket, brand=WinCo Foods"
+"Granite Bay, CA",,retail,445110,WinCo Foods,"8701 Greenback Lane, Orangevale, CA, 95662",,,38.6798644,-121.2338152,,,w_161826009,"shop=supermarket, brand=WinCo Foods"
+"Granite Bay, CA",,retail,446120,,,,,38.6442971,-121.1232701,,,w_162052152,shop=beauty
+"Granite Bay, CA",,retail,445110,Raley's,"25025 Blue Ravine Road, Folsom, CA, 95630",,,38.6888803,-121.1223992,,,w_163020259,"shop=supermarket, brand=Raley's"
+"Granite Bay, CA",,retail,445110,Commissary,,,,38.6674658,-121.388763,,,w_165445773,shop=supermarket
+"Granite Bay, CA",,retail,445120,ampm,"3800 47th Avenue, Sacramento, CA, 95824",,,38.5099135,-121.4638594,,,w_167873499,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445110,Bel Air,,,,38.6417484,-121.5336513,,,w_190861802,"shop=supermarket, brand=Bel Air"
+"Granite Bay, CA",,retail,445110,Walmart Supercenter,"6051 Florin Road, Sacramento, CA, 95823",+1 916-427-9719,https://www.walmart.com/store/2735-sacramento-ca,38.4994113,-121.4336905,,,w_194248172,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Granite Bay, CA",,retail,445110,Sprouts Farmers Market,"2810 Del Paso Road, Sacramento, CA, 95834",+1 916-431-1111,https://www.sprouts.com/store/ca/sacramento/natomas/,38.6545813,-121.5239033,,,w_194741309,"shop=supermarket, brand=Sprouts Farmers Market"
+"Granite Bay, CA",,retail,445120,Chevron,,,,38.6159264,-121.5386321,,,w_196256626,"shop=convenience, brand=Chevron"
+"Granite Bay, CA",,retail,445120,ampm,"6100 Airport Boulevard, Sacramento, CA, 95837",,,38.6783959,-121.5900289,,,w_196800212,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,446110,CVS Pharmacy,"2050 Club Center Drive, Sacramento, CA, 95835",,https://www.cvs.com/store-locator/sacramento-ca-pharmacies/2050-club-center-dr-sacramento-ca-95835/storeid=4151,38.6702283,-121.5062928,,,w_197733533,"shop=chemist, brand=CVS Pharmacy"
+"Granite Bay, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-1919+fruitridge+rd-sacramento-ca-95822/id=4136,38.5252959,-121.4958936,,,w_198418543,"shop=chemist, brand=Walgreens"
+"Granite Bay, CA",,retail,445110,Safeway,"1025 Alhambra Boulevard, Sacramento, CA, 95816",+1 916-456-0852,https://local.safeway.com/safeway/ca/sacramento/1025-alhambra-blvd.html,38.5715993,-121.4646196,,,w_198423273,"shop=supermarket, brand=Safeway"
+"Granite Bay, CA",,retail,445120,ExtraMile,,,,38.6110956,-121.4009992,,,w_198993599,"shop=convenience, brand=ExtraMile"
+"Granite Bay, CA",,retail,452210,Target,"1919 Fulton Avenue, Sacramento, CA, 95825",+1 916-483-6093,https://www.target.com/sl/sacramento-arden/312,38.6009983,-121.4028432,,,w_198994062,"shop=department_store, brand=Target"
+"Granite Bay, CA",,retail,445120,ampm,"4421 Florin Road, Sacramento, CA, 95823",,,38.4965904,-121.4544059,,,w_199152018,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445110,Walmart Neighborhood Market,"4420 Florin Road, Sacramento, CA, 95823",+1 916-533-0942,https://www.walmart.com/store/6530/sacramento-ca/whats-new,38.4942748,-121.4542198,,,w_199152431,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Granite Bay, CA",,retail,445120,,,,,38.6133721,-121.4974317,,,w_199293319,shop=convenience
+"Granite Bay, CA",,retail,452319,Family Dollar,,,,38.6454959,-121.4585389,,,w_201338838,"shop=variety_store, brand=Family Dollar"
+"Granite Bay, CA",,retail,445310,Sunset Liquor Store,95618,,,38.6524443,-121.2909296,,,w_220394536,shop=alcohol
+"Granite Bay, CA",,retail,446110,Walgreens,"2595 East Bidwell Street, Folsom, CA, 95630",(916) 817-6533,https://www.walgreens.com/locator/walgreens-2595+e+bidwell+st-folsom-ca-95630/id=9048,38.6581127,-121.1294252,,,w_220543520,"shop=chemist, brand=Walgreens"
+"Granite Bay, CA",,retail,452210,Kohl's,"1013 Riley Street, Folsom, CA, 95630",+1 916-983-9970,https://www.kohls.com/stores/ca/folsom-663.shtml,38.6720905,-121.1676609,,,w_236659394,"shop=department_store, brand=Kohl's"
+"Granite Bay, CA",,retail,445110,Safeway,"2851 Del Paso Road, Sacramento, CA, 95835",+1 916-285-8840,https://local.safeway.com/safeway/ca/sacramento/2851-del-paso-rd.html,38.6576126,-121.5247496,,,w_239964409,"shop=supermarket, brand=Safeway"
+"Granite Bay, CA",,retail,445110,Safeway,"1814 19th Street, Sacramento, CA, 95814",+1 916-492-9967,https://local.safeway.com/safeway/ca/sacramento/1814-19th-st.html,38.5679392,-121.4861293,,,w_239964949,"shop=supermarket, brand=Safeway"
+"Granite Bay, CA",,retail,445110,Safeway,"5345 Elkhorn Boulevard, Sacramento, CA, 95842",+1 916-331-2987,https://local.safeway.com/safeway/ca/sacramento/5345-elkhorn-blvd.html,38.6864897,-121.3394089,,,w_239966147,"shop=supermarket, brand=Safeway"
+"Granite Bay, CA",,retail,445110,Safeway,"424 Howe Avenue, Sacramento, CA, 95825",+1 916-925-1676,https://local.safeway.com/safeway/ca/sacramento/424-howe-ave.html,38.5732798,-121.4131009,,,w_239968530,"shop=supermarket, brand=Safeway"
+"Granite Bay, CA",,retail,445110,Safeway,"3320 Arden Way, Sacramento, CA, 95825",+1 916-483-9389,https://local.safeway.com/safeway/ca/sacramento/3320-arden-way.html,38.5944488,-121.3866451,,,w_239968985,"shop=supermarket, brand=Safeway"
+"Granite Bay, CA",,retail,445110,Safeway,"8377 Elk Grove Florin Road, Sacramento, CA, 95829",+1-916-681-8666,https://local.safeway.com/safeway/ca/sacramento/8377-elk-grove-florin-rd.html,38.4534204,-121.3700326,,,w_239970281,"shop=supermarket, brand=Safeway"
+"Granite Bay, CA",,retail,445110,Safeway,"1080 Pleasant Grove Boulevard, Roseville, CA, 95678",+1 916-783-2119,https://local.safeway.com/safeway/ca/roseville/1080-pleasant-grove-blvd.html,38.7773406,-121.2915953,,,w_240067726,"shop=supermarket, brand=Safeway"
+"Granite Bay, CA",,retail,445110,Safeway,"8640 Sierra College Boulevard, Roseville, CA, 95661",+1 916-783-2225,https://local.safeway.com/safeway/ca/roseville/8640-sierra-college-blvd.html,38.7418555,-121.2284867,,,w_240068831,"shop=supermarket, brand=Safeway"
+"Granite Bay, CA",,retail,445110,Safeway,"4805 Granite Drive, Rocklin, CA, 95677",+1 916-624-0669,https://local.safeway.com/safeway/ca/rocklin/4805-granite-dr.html,38.7900681,-121.2221978,,,w_240072873,"shop=supermarket, brand=Safeway"
+"Granite Bay, CA",,retail,445110,Safeway,"2220 Sunset Boulevard, Rocklin, CA, 95677",+1 916-789-0101,https://local.safeway.com/safeway/ca/rocklin/2220-sunset-blvd.html,38.802903,-121.2742949,,,w_240073509,"shop=supermarket, brand=Safeway"
+"Granite Bay, CA",,retail,445110,Safeway,"10635 Folsom Boulevard, Rancho Cordova, CA, 95670",+1 916-364-4940,https://local.safeway.com/safeway/ca/rancho-cordova/10635-folsom-blvd.html,38.5955016,-121.2933474,,,w_240337857,"shop=supermarket, brand=Safeway"
+"Granite Bay, CA",,retail,445110,Safeway,"3955 Missouri Flat Road, Placerville, CA, 95667",+1 530-295-2972,https://local.safeway.com/safeway/ca/placerville/3955-missouri-flat-rd.html,38.714394,-120.8397779,,,w_240468204,"shop=supermarket, brand=Safeway"
+"Granite Bay, CA",,retail,445110,Raley's,,,,38.6699033,-121.1598238,,,w_244235551,"shop=supermarket, brand=Raley's"
+"Granite Bay, CA",,retail,445110,Walmart Supercenter,"7010 Auburn Boulevard, Citrus Heights, CA, 95621",+1 916-729-8077,https://www.walmart.com/store/3712-citrus-heights-ca,38.6895337,-121.295186,,,w_249819424,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Granite Bay, CA",,retail,445120,,,,,38.8793189,-121.2936562,,,w_252725838,shop=convenience
+"Granite Bay, CA",,retail,445110,Safeway,"67 Lincoln Boulevard, Lincoln, CA, 95648",+1 916-408-0800,https://local.safeway.com/safeway/ca/lincoln/67-lincoln-blvd.html,38.8781209,-121.2941242,,,w_252725839,"shop=supermarket, brand=Safeway"
+"Granite Bay, CA",,retail,445110,Trader Joe's,"5000 Folsom Boulevard, Sacramento, CA, 95819",+1 916-456-1853,https://locations.traderjoes.com/ca/sacramento/175/,38.5604402,-121.4448792,,,w_252924351,"shop=supermarket, brand=Trader Joe's"
+"Granite Bay, CA",,retail,446110,CVS Pharmacy,"5039 Folsom Boulevard, Sacramento, 95819",,https://www.cvs.com/store-locator/sacramento-ca-pharmacies/5039-folsom-blvd-sacramento-ca-95819/storeid=3943,38.5614776,-121.4444977,,,w_252924352,"shop=chemist, brand=CVS Pharmacy"
+"Granite Bay, CA",,retail,445110,Smart & Final,,,,38.5574492,-121.4754169,,,w_252929364,"shop=supermarket, brand=Smart & Final"
+"Granite Bay, CA",,retail,445110,Safeway,"5450 Dewey Drive, Fair Oaks, CA, 95628",904-5356,https://local.safeway.com/safeway/ca/fair-oaks/5450-dewey-dr.html,38.6652064,-121.3071342,,,w_253424494,"shop=supermarket, brand=Safeway"
+"Granite Bay, CA",,retail,445110,Safeway,"8925 Madison Avenue, Fair Oaks, CA, 95628",+1 916-965-1034,https://local.safeway.com/safeway/ca/fair-oaks/8925-madison-ave.html,38.6653844,-121.2240659,,,w_253426294,"shop=supermarket, brand=Safeway"
+"Granite Bay, CA",,retail,445110,Safeway,"2207 Francisco Drive, El Dorado Hills, CA, 95762",+1 916-939-9456,https://local.safeway.com/safeway/ca/el-dorado-hills/2207-francisco-dr.html,38.7113687,-121.084109,,,w_253584184,"shop=supermarket, brand=Safeway"
+"Granite Bay, CA",,retail,445110,Safeway,"7301 Greenback Lane, Citrus Heights, CA, 95621",+1 916-727-2424,https://local.safeway.com/safeway/ca/citrus-heights/7301-greenback-ln.html,38.6799016,-121.2942364,,,w_253888987,"shop=supermarket, brand=Safeway"
+"Granite Bay, CA",,retail,445110,Safeway,"4040 Manzanita Avenue, Carmichael, CA, 95608",+1 916-481-2005,https://local.safeway.com/safeway/ca/carmichael/4040-manzanita-ave.html,38.6381399,-121.3261777,,,w_254301472,"shop=supermarket, brand=Safeway"
+"Granite Bay, CA",,retail,452210,TJ Maxx,"930 Groveland Lane, Lincoln, CA, 95648",,,38.870745,-121.3043747,,,w_258983963,"shop=department_store, brand=TJ Maxx"
+"Granite Bay, CA",,retail,452210,Target,"950 Groveland Lane, Lincoln, CA, 95648",+1 916-251-3002,https://www.target.com/sl/lincoln/2214,38.869915,-121.3042337,,,w_258986915,"shop=department_store, brand=Target"
+"Granite Bay, CA",,retail,452210,Ross,"113 Ferrari Ranch Road, Lincoln, CA, 95648",+1 916-409-9980,,38.8741428,-121.3020781,,,w_259003232,"shop=department_store, brand=Ross"
+"Granite Bay, CA",,retail,445110,Sprouts Farmers Market,"115 Ferrari Ranch Road, Lincoln, CA, 95648",+1 916-209-5346,https://www.sprouts.com/store/ca/lincoln/lincoln/,38.8737469,-121.3021338,,,w_259003656,"shop=supermarket, brand=Sprouts Farmers Market"
+"Granite Bay, CA",,retail,446120,Ulta Beauty,"117 Ferrari Ranch Road, Lincoln, CA, 95648",+1 916-581-4121,https://www.ulta.com/stores/lincoln-ca-1344,38.8733977,-121.3023857,,,w_259003799,"shop=beauty, brand=Ulta Beauty"
+"Granite Bay, CA",,retail,445110,Big Al's market,,,,39.0097636,-121.4221316,,,w_271787837,shop=supermarket
+"Granite Bay, CA",,retail,445110,Walmart Supercenter,"5454 Crossings Drive, Rocklin, CA, 95677",+1 916-783-8281,https://www.walmart.com/store/3587-rocklin-ca,38.802706,-121.2018978,,,w_302866323,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Granite Bay, CA",,retail,445110,Grocery Outlet,"1700 Capitol Avenue, 95811",+1 916-930-0899,https://www.groceryoutlet.com/store-locator?store_location=95816,38.574034,-121.485224,,,w_305777095,"shop=supermarket, brand=Grocery Outlet"
+"Granite Bay, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-2201+arden+way-sacramento-ca-95825/id=6193,38.5966508,-121.414597,,,w_308244400,"shop=chemist, brand=Walgreens"
+"Granite Bay, CA",,retail,446110,Walgreens,"1492 Blue Oaks Boulevard, CA",,https://www.walgreens.com/locator/walgreens-1492+blue+oaks+blvd-roseville-ca-95747/id=16058,38.7960231,-121.3278736,,,w_314036370,"shop=chemist, brand=Walgreens"
+"Granite Bay, CA",,retail,445110,Walmart Supercenter,"8961 Greenback Lane, Orangevale, CA, 95662",+1 916-989-5800,https://www.walmart.com/store/4309-orangevale-ca,38.6794129,-121.222562,,,w_326371890,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Granite Bay, CA",,retail,445110,Walmart Neighborhood Market,"6197 Sunrise Boulevard, Citrus Heights, CA, 95610",+1 916-560-0031,https://www.walmart.com/store/4759-citrus-heights-ca,38.6756778,-121.2733823,,,w_326375689,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Granite Bay, CA",,retail,452210,Target,"5837 Sunrise Boulevard, Citrus Heights, CA, 95610-6866",+1 916-966-5267,https://www.target.com/sl/birdcage-citrus-heights/1121,38.6728486,-121.274804,,,w_326375691,"shop=department_store, brand=Target"
+"Granite Bay, CA",,retail,445110,Nugget Markets,,,,38.6528444,-121.0671826,,,w_329818890,shop=supermarket
+"Granite Bay, CA",,retail,445120,ampm,"1949 Arden Way, Sacramento, CA, 95815",,,38.596847,-121.4202613,,,w_339969646,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445120,Circle 6,"1810 Ethan Way, Sacramento, CA, 95825",,,38.5985232,-121.4194959,,,w_339971574,shop=convenience
+"Granite Bay, CA",,retail,452319,Dollar Tree,"1895 Howe Avenue, Sacramento, CA, 95825",,,38.5996849,-121.4157957,,,w_339975265,"shop=variety_store, brand=Dollar Tree"
+"Granite Bay, CA",,retail,445120,Ikedas Produce,,(530) 885-4243,https://www.ikedas.com/,38.9280756,-121.0551059,,,w_369738933,"shop=convenience, amenity=marketplace"
+"Granite Bay, CA",,retail,445120,Auburn Food & Gas,,,,38.8980976,-121.0712314,,,w_376555172,shop=convenience
+"Granite Bay, CA",,retail,446120,Sins of the Flesh Tattoo,"4609 Auburn Boulevard, Sacramento, CA, 95841",,,38.6522436,-121.3568586,,,w_386263530,shop=beauty
+"Granite Bay, CA",,retail,445120,,,,,38.8970615,-121.0800938,,,w_392043880,shop=convenience
+"Granite Bay, CA",,retail,445120,Om Liquor and Deli,"4901 Auburn Boulevard, Sacramento, CA, 95841",,,38.6573126,-121.3513914,,,w_395678500,shop=convenience
+"Granite Bay, CA",,retail,445120,ampm,"1855 Watt Avenue, Sacramento, CA, 95825",,,38.5985713,-121.3835386,,,w_403718186,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445110,Babylon City Market,"1745 Watt Avenue, Sacramento, CA, 95825",,,38.5973529,-121.3835276,,,w_403721314,shop=supermarket
+"Granite Bay, CA",,retail,445110,Whole Foods Market,"4315 Arden Way, Sacramento, CA, 95864",+1 916-488-2800,https://www.wholefoodsmarket.com/stores/sacramento,38.5965925,-121.36375,,,w_403724681,"shop=supermarket, brand=Whole Foods Market"
+"Granite Bay, CA",,retail,446110,Walgreens,"4200 Arden Way, Sacramento, CA, 95864",,https://www.walgreens.com/locator/walgreens-4200+arden+way-sacramento-ca-95864/id=4170,38.5948674,-121.3654057,,,w_403731520,"shop=chemist, brand=Walgreens"
+"Granite Bay, CA",,retail,445120,ampm,"4224 Marconi Avenue, Sacramento, CA, 95821",,,38.6172137,-121.3650006,,,w_403732990,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,446110,Rite Aid,,,,38.6181467,-121.3653619,,,w_403734782,"shop=chemist, amenity=pharmacy, brand=Rite Aid"
+"Granite Bay, CA",,retail,445120,ampm,"6337 Fair Oaks Boulevard, Carmichael, CA, 95608",,,38.6165666,-121.3291872,,,w_403735259,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445120,ampm,"4104 Manzanita Avenue, Carmichael, CA, 95608",,,38.6393367,-121.3285918,,,w_403735865,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445120,ampm,"5150 Manzanita Avenue, Carmichael, CA, 95608",8003333991,https://www.ampm.com,38.6602763,-121.3270507,,,w_403736627,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445120,ampm,"4700 Madison Avenue, Sacramento, CA, 95841",,,38.660552,-121.3547876,,,w_403738508,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445120,ampm,"6140 Greenback Lane, Citrus Heights, CA, 95621",,,38.6790748,-121.3214714,,,w_403739164,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445120,ampm,"4400 Sunrise Boulevard, Fair Oaks, CA, 95628",,,38.6451531,-121.2715013,,,w_403742271,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445120,ampm,"2295 Sunrise Boulevard, Rancho Cordova, CA, 95670",,,38.6190065,-121.2674225,,,w_403746958,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445120,ampm,"12210 Tributary Point Drive, Rancho Cordova, CA, 95670",,,38.6318186,-121.2190712,,,w_403748538,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445120,ampm,"6698 Mack Road, Sacramento, CA, 95823",,,38.4736306,-121.4260932,,,w_404277727,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445120,ampm,"8100 Gerber Road, Sacramento, CA",,,38.4813013,-121.4079766,,,w_404277814,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445120,ampm,"8121 Florin Road, Sacramento, CA, 95828",,,38.4965977,-121.4082528,,,w_404279266,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445120,ampm,"8024 Elder Creek Road, Sacramento, CA, 95824",,,38.5098543,-121.4097538,,,w_404279901,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445120,ampm,"5399 Fruitridge Road, Sacramento, CA, 95820",,,38.5254039,-121.443438,,,w_404280616,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445120,AMPM,"8880 Fruitridge Road, Sacramento, CA, 95826",,,38.5246815,-121.3710298,,,w_404281175,shop=convenience
+"Granite Bay, CA",,retail,445120,ampm,"2933 65th Street, Sacramento, CA, 95817",,,38.5479919,-121.4273273,,,w_404281669,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445120,ampm,"2225 16th Street, Sacramento, CA, 95818",,,38.56407,-121.4908037,,,w_404283137,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445120,ampm,"2838 J Street, Sacramento, CA, 95816",,,38.5731517,-121.4685875,,,w_404283697,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/fair-oaks-ca-pharmacies/8101-greenback-ln-fair-oaks-ca-95628/storeid=9814,38.6792559,-121.2616101,,,w_405407829,"shop=chemist, brand=CVS Pharmacy"
+"Granite Bay, CA",,retail,445120,,"7899 Greenback Lane, Citrus Heights, CA, 95610",,,38.6787615,-121.2722318,,,w_405407926,shop=convenience
+"Granite Bay, CA",,retail,445120,Food Shop,"2900 Watt Avenue, Sacramento, CA, 95821",,,38.6181715,-121.3824735,,,w_406157303,shop=convenience
+"Granite Bay, CA",,retail,452319,Dollar General,"5245 Elkhorn Boulevard, Sacramento, CA",,https://www.dollargeneral.com/store-directory/ca/sacramento/14301,38.6880683,-121.3417451,,,w_406340738,"shop=variety_store, brand=Dollar General"
+"Granite Bay, CA",,retail,445120,Food Mart,"2330 Broadway, Sacramento, CA, 95818",,,38.5585451,-121.4822465,,,w_406505100,shop=convenience
+"Granite Bay, CA",,retail,445110,Smart & Final,"4820 Madison Avenue, Sacramento, CA, 95841",,,38.6605138,-121.3515165,,,w_418199833,"shop=supermarket, brand=Smart & Final"
+"Granite Bay, CA",,retail,445110,,,,,38.6603511,-121.3500595,,,w_418199835,shop=supermarket
+"Granite Bay, CA",,retail,445120,ampm,"3099 Sunrise Boulevard, Rancho Cordova, CA, 95742",,,38.5905123,-121.2647099,,,w_431921429,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445120,7-Eleven,"3405 Bradshaw Road, Sacramento, CA, 95827",+1 916-364-5248,https://www.7-eleven.com/locations/ca/sacramento/3405-bradshaw-rd-23226,38.5617896,-121.3354206,,,w_431996132,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,445120,ampm,"2896 Zinfandel Drive, Rancho Cordova, CA, 95670",,,38.5940979,-121.2885763,,,w_432273376,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445120,7-Eleven,"303 Sacramento Street, Auburn, CA, 95603-5509",+1 530-885-1107,https://www.7-eleven.com/locations/ca/auburn/303-sacramento-st-15882,38.8907444,-121.0757204,,,w_436378956,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,446110,Rite Aid,,,,38.5294315,-121.4965892,,,w_452184564,"shop=chemist, brand=Rite Aid"
+"Granite Bay, CA",,retail,445110,Foods Co,"7421 West Stockton Boulevard, Sacramento, CA, 95823",,foodsco.net,38.4566928,-121.4154063,,,w_457364892,"shop=supermarket, brand=Foods Co"
+"Granite Bay, CA",,retail,445120,Orbit,,,,38.6539295,-121.3538346,,,w_458124216,"shop=convenience, amenity=fuel"
+"Granite Bay, CA",,retail,452210,Target,"5001 Madison Avenue, Sacramento, CA, 95841-2604",+1 916-348-3701,https://www.target.com/sl/sacramento-madison/311,38.6620832,-121.3488205,,,w_458124242,"shop=department_store, brand=Target"
+"Granite Bay, CA",,retail,446110,Walgreens,,,,38.6603332,-121.3485889,,,w_458124253,"shop=chemist, brand=Walgreens"
+"Granite Bay, CA",,retail,445120,7-Eleven,"5080 Auburn Boulevard, Sacramento, CA, 95841-2649",+1 916-332-0148,https://www.7-eleven.com/locations/ca/sacramento/5080-auburn-blvd-24147,38.6612017,-121.3458347,,,w_458124268,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,445310,Raymond's Liquor,"1370 Broadway, Placerville, CA, 95667",,,38.7319049,-120.7802681,,,w_492253614,shop=alcohol
+"Granite Bay, CA",,retail,445120,Chevron,,,,38.7316209,-120.7829848,,,w_492253617,"shop=convenience, brand=Chevron"
+"Granite Bay, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/elk-grove-ca-pharmacies/8400-bradshaw-rd-elk-grove-ca-95624/storeid=182,38.4521281,-121.3356288,,,w_499179326,"shop=chemist, brand=CVS Pharmacy"
+"Granite Bay, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/sacramento-ca-pharmacies/2636-marconi-ave-sacramento-ca-95821/storeid=5225,38.6175076,-121.4007412,,,w_545759949,"shop=chemist, brand=CVS Pharmacy"
+"Granite Bay, CA",,retail,445310,M & B Discount Wine & Liquor,"2230 El Camino Avenue, Sacramento, CA, 95821",+19169272334,https://mbdiscountwinesliquors.com/,38.6099379,-121.4134131,,,w_545764403,shop=alcohol
+"Granite Bay, CA",,retail,446110,Walgreens,,,,38.6108465,-121.447638,,,w_549267661,"shop=chemist, brand=Walgreens"
+"Granite Bay, CA",,retail,445110,Walmart Supercenter,"8915 Gerber Road, Sacramento, CA, 95829",+1 916-897-5020,https://www.walmart.com/store/3081-sacramento-ca,38.48272,-121.3689777,,,w_549861060,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Granite Bay, CA",,retail,445110,Walmart Supercenter,"5821 Antelope Road, Sacramento, CA, 95842",+1 916-729-6162,https://www.walmart.com/store/5192-sacramento-ca,38.7042594,-121.3319355,,,w_551222934,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Granite Bay, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/citrus-heights/6180-auburn-blvd-24815,38.6783205,-121.3207778,,,w_551240806,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,445120,Shell,,,,38.6796646,-121.3206759,,,w_551241806,"shop=convenience, brand=Shell"
+"Granite Bay, CA",,retail,445120,,,,,38.6789618,-121.3199038,,,w_551244754,shop=convenience
+"Granite Bay, CA",,retail,452319,Dollar Tree,"6085 Greenback Lane, Citrus Heights, CA, 95621",,https://www.dollartree.com/locations/ca/citrus-heights/6116/,38.6801964,-121.3199083,,,w_555658755,"shop=variety_store, brand=Dollar Tree"
+"Granite Bay, CA",,retail,445310,B Liquor,,,,38.6804327,-121.3202166,,,w_555658757,shop=alcohol
+"Granite Bay, CA",,retail,445110,Grocery Outlet,"6059 Greenback Lane, Citrus Heights, CA, 95621",,,38.6809296,-121.3208566,,,w_555658759,"shop=supermarket, brand=Grocery Outlet"
+"Granite Bay, CA",,retail,445120,,,,,38.6691211,-121.3360508,,,w_555661482,shop=convenience
+"Granite Bay, CA",,retail,445120,ampm,"7969 Walerga Road, Antelope, CA, 95843",+1 (916) 633-3343,https://www.ampm.com,38.7140773,-121.3652703,,,w_555958808,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445110,WinCo Foods,"4137 Elverta Road, Antelope, CA, 95843",+1 (916) 721-0113,https://www.wincofoods.com/,38.7156458,-121.3672848,,,w_557554569,"shop=supermarket, brand=WinCo Foods"
+"Granite Bay, CA",,retail,445120,Loop Neighborhood,"5500 Schriber Way, Rocklin, CA, 95677",,,38.7992566,-121.2048894,,,w_557824498,shop=convenience
+"Granite Bay, CA",,retail,452210,TJ Maxx,"5440 Crossings Drive, Rocklin, CA, 95677",+1-916-652-7542,,38.801063,-121.201772,,,w_557824507,"shop=department_store, brand=TJ Maxx"
+"Granite Bay, CA",,retail,445110,Raley's,,,,38.5750965,-121.4171628,,,w_558138965,"shop=supermarket, brand=Raley's"
+"Granite Bay, CA",,retail,452210,Kohl's,"8810 Calvine Road, Sacramento, CA, 95828",+1 916-681-7660,https://www.kohls.com/stores/ca/sacramento-1159.shtml,38.451321,-121.3765895,,,w_559543997,"shop=department_store, brand=Kohl's"
+"Granite Bay, CA",,retail,445110,Island Pacific Seafood Market,"8430 Elk Grove Florin Road, Elk Grove, CA, 95624",+1-916-689-0467,https://islandpacificmarket.com/stores/listing/elk-grove,38.4506004,-121.3722091,,,w_559544007,shop=supermarket
+"Granite Bay, CA",,retail,445120,Valero,,,,38.7314774,-120.7834192,,,w_568469435,"shop=convenience, brand=Valero"
+"Granite Bay, CA",,retail,452319,99 Cents Only Stores,"4319 Elkhorn Boulevard, CA",,https://locations.99only.com/ca/sacramento/discount-store-168.html,38.6956131,-121.3626849,,,w_582107293,"shop=variety_store, brand=99 Cents Only Stores"
+"Granite Bay, CA",,retail,445120,,"4000 South Land Park Drive, Sacramento, CA, 95822",,,38.5375296,-121.5043557,,,w_600500576,shop=convenience
+"Granite Bay, CA",,retail,445110,Save Mart,"Sacramento, CA",,,38.5750718,-121.404005,,,w_615997649,"shop=supermarket, brand=Save Mart"
+"Granite Bay, CA",,retail,445110,Sacramento Natural Foods Co-op,"2820 R Street, Sacramento, CA, 95816",,https://www.sac.coop/,38.5646002,-121.4727522,,,w_620726973,shop=supermarket
+"Granite Bay, CA",,retail,445120,Food Mart,,,,38.5253262,-121.4558698,,,w_623178465,"shop=convenience, operator=Exxon Mobil"
+"Granite Bay, CA",,retail,445120,Valero,,,,38.650592,-121.0677395,,,w_656618463,"shop=convenience, brand=Valero"
+"Granite Bay, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/el-dorado-hills/4316-town-center-blvd-41230,38.6500212,-121.0674799,,,w_656618464,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,445110,Walmart Neighborhood Market,"5609 Pacific Street, Rocklin, CA, 95677",+1 916-824-0104,https://www.walmart.com/store/3090-rocklin-ca,38.7839896,-121.2395657,,,w_685678076,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Granite Bay, CA",,retail,445110,,,,,38.4702404,-121.4140741,,,w_686382145,"shop=supermarket, brand=Office Depot"
+"Granite Bay, CA",,retail,445110,Grocery Outlet,,,,38.470165,-121.4162879,,,w_686382149,"shop=supermarket, brand=Grocery Outlet"
+"Granite Bay, CA",,retail,445120,,,,,38.4556454,-121.4062779,,,w_686454245,shop=convenience
+"Granite Bay, CA",,retail,445120,Food Mart,,,,38.4546062,-121.4064192,,,w_686454247,shop=convenience
+"Granite Bay, CA",,retail,446110,CVS Pharmacy,"6401 Mack Road, Sacramento, CA, 95823",,,38.4748235,-121.4279018,,,w_686465637,"shop=chemist, brand=CVS Pharmacy"
+"Granite Bay, CA",,retail,445110,Foods Co,,,,38.4803583,-121.4076453,,,w_686678132,"shop=supermarket, brand=Foods Co"
+"Granite Bay, CA",,retail,445110,Walmart Supercenter,"7901 Watt Avenue, Antelope, CA, 95843",+1 916-332-3173,https://www.walmart.com/store/1881-antelope-ca,38.712851,-121.3946154,,,w_687452049,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Granite Bay, CA",,retail,445110,Walmart Neighborhood Market,"255 Lincoln Boulevard, Lincoln, CA, 95648",+1 916-209-5129,https://www.walmart.com/store/5979-lincoln-ca,38.8886009,-121.2918418,,,w_690349971,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Granite Bay, CA",,retail,445110,Grocery Outlet,"3615 Bradshaw Road, Sacramento, CA, 95827",,,38.5559119,-121.334513,,,w_698423976,"shop=supermarket, brand=Grocery Outlet"
+"Granite Bay, CA",,retail,445120,ampm,"3501 Fair Oaks Boulevard, Sacramento, CA, 95864",,,38.5745846,-121.3825564,,,w_698829767,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,452319,Dollar Tree,"3615 Bradshaw Road, Sacramento, CA, 95827",,https://www.dollartree.com/locations/ca/sacramento/7656/,38.5562064,-121.3345133,,,w_699820074,"shop=variety_store, brand=Dollar Tree"
+"Granite Bay, CA",,retail,445120,7-Eleven,"1199 43rd Avenue, Sacramento, CA, 95822",+1 916-424-2809,https://www.7-eleven.com/locations/ca/sacramento/1199-43rd-ave-14107,38.5165834,-121.5152676,,,w_700445808,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,445110,BESAME MUCHO MARKET,,,,38.5708622,-121.3412033,,,w_700916195,shop=supermarket
+"Granite Bay, CA",,retail,452319,RC Food Mart,,,,38.5737233,-121.3358934,,,w_700918857,shop=general
+"Granite Bay, CA",,retail,445120,,,,,38.7878882,-121.2209514,,,w_704089700,shop=convenience
+"Granite Bay, CA",,retail,445110,Bel Air,"7901 Walerga Road, Antelope, CA, 95843",+1 (916) 725-0333,https://www.raleys.com,38.7118461,-121.3662885,,,w_720787409,"shop=supermarket, brand=Bel Air"
+"Granite Bay, CA",,retail,445110,Mar-Val,"6049 Front Street, CA",,https://marvalfoodstores.org/,38.9093783,-120.8516221,,,w_725717511,shop=supermarket
+"Granite Bay, CA",,retail,445292,See's Candies,,,,38.6665027,-121.2726542,,,w_734224161,"shop=confectionery, brand=See's Candies"
+"Granite Bay, CA",,retail,445120,Chevron,,,,38.5793812,-121.4658198,,,w_734322423,"shop=convenience, brand=Chevron"
+"Granite Bay, CA",,retail,446110,CVS Pharmacy,"10045 Combie Road, Auburn, CA, 95602",,https://www.cvs.com/store-locator/auburn-ca-pharmacies/10045-combie-rd-auburn-ca-95602/storeid=3947,39.0418614,-121.0926118,,,w_735113448,"shop=chemist, brand=CVS Pharmacy"
+"Granite Bay, CA",,retail,445110,Holiday Market,"10952 Combie Road, Auburn, CA, 95602",,,39.0408977,-121.0779552,,,w_735113452,shop=supermarket
+"Granite Bay, CA",,retail,445120,Muir Way Market,,,,38.5594956,-121.5050365,,,w_736849037,shop=convenience
+"Granite Bay, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/cameron-park-ca-pharmacies/3020-green-valley-rd-ste-b-cameron-park-ca-95682/storeid=6793,38.697498,-121.0030353,,,w_749936929,"shop=chemist, brand=CVS Pharmacy"
+"Granite Bay, CA",,retail,453110,Forever Yours,"10044-A Wolf Road, CA",5302687673,,39.0430002,-121.0953694,,,w_775772933,shop=florist
+"Granite Bay, CA",,retail,446110,Village Pharmacy,,,,39.0101433,-121.4222639,,,w_781944464,shop=chemist
+"Granite Bay, CA",,retail,445110,Bel Air,,,,38.798146,-121.2646658,,,w_790914685,"shop=supermarket, brand=Bel Air"
+"Granite Bay, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/rocklin/6001-stanford-ranch-rd-34671,38.7953037,-121.2647312,,,w_791120834,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,445110,Holiday Market,"Woodridge Drive, Auburn, CA, 95602",,,39.0399728,-121.0919986,,,w_835187903,shop=supermarket
+"Granite Bay, CA",,retail,446120,Loomis Beauty Salon,,,,38.8205196,-121.1939371,,,w_865732315,shop=beauty
+"Granite Bay, CA",,retail,446110,Leader Main Drug Store,,,,38.8203283,-121.1940159,,,w_865732316,shop=chemist
+"Granite Bay, CA",,retail,445110,Walmart Supercenter,"4675 Watt Avenue, North Highlands, CA, 95660",+1 916-621-1454,https://www.walmart.com/store/4393-north-highlands-ca,38.6498635,-121.3863382,,,w_884549065,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Granite Bay, CA",,retail,446110,Rite Aid,,,https://www.riteaid.com/locations/ca/north-highlands/6639-watt-avenue.html,38.6882478,-121.3845844,,,w_890850809,"shop=chemist, brand=Rite Aid"
+"Granite Bay, CA",,retail,445120,7-Eleven,"3601 Elkhorn Boulevard, North Highlands, CA, 95660-3730",+1 916-348-0737,https://www.7-eleven.com/locations/ca/north-highlands/3601-elkhorn-blvd-23015,38.6909154,-121.3824963,,,w_890850811,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,452210,Burlington,"1596 Ethan Way, Sacramento, CA, 95825",+1 279-972-9846,https://stores.burlington.com/ca/sacramento/1216,38.5939479,-121.4173071,,,w_917387792,"shop=department_store, brand=Burlington"
+"Granite Bay, CA",,retail,445210,Kings Meats,"787 Pleasant Valley Road, Diamond Springs, CA, 95619",+15304975398,https://kingsmeats.net/,38.6952105,-120.8056655,,,w_921540632,shop=butcher
+"Granite Bay, CA",,retail,446110,Walgreens,"4331 Antelope Road, Antelope, CA, 95843",,https://www.walgreens.com/locator/walgreens-4331+antelope+rd-sacramento-ca-95843/id=5500,38.704635,-121.3629055,,,w_938588757,"shop=chemist, brand=Walgreens"
+"Granite Bay, CA",,retail,445120,7-Eleven,"5903 Sunset Boulevard, Rocklin, CA, 95677",+1 916-624-1003,https://www.7-eleven.com/locations/ca/rocklin/5903-sunset-blvd-35994,38.7808846,-121.2420653,,,w_954467399,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,445120,Safeway Express,,,,38.6750703,-121.0301693,,,w_957655006,shop=convenience
+"Granite Bay, CA",,retail,453110,East Lawn Florist & Nursery,"4590 Folsom Boulevard, Sacramento, CA, 95819",+1 916 732-2016,https://www.eastlawnflorist.com/about-us,38.5611738,-121.4493083,,,w_963933697,shop=florist
+"Granite Bay, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/sacramento/6955-walerga-rd-35351,38.6937602,-121.3641227,,,w_977748267,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,453991,Smoke Shop,"2420 Grass Valley Highway, CA",,,38.9364718,-121.0927066,,,w_978576366,shop=tobacco
+"Granite Bay, CA",,retail,446120,california sun,CA,,,38.9359695,-121.0923429,,,w_978576370,shop=beauty
+"Granite Bay, CA",,retail,446120,Lauish Nails,CA,,,38.9358797,-121.0922365,,,w_978576371,shop=beauty
+"Granite Bay, CA",,retail,445110,BelAir,,,,38.9347415,-121.091065,,,w_978576379,shop=supermarket
+"Granite Bay, CA",,retail,445110,Sunrise Natural Foods,,+15308888973,,38.9341415,-121.0905911,,,w_978576384,shop=supermarket
+"Granite Bay, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/auburn-ca-pharmacies/2140-grass-valley-hwy-auburn-ca-95603/storeid=9914,38.9339496,-121.0901463,,,w_978576385,"shop=chemist, brand=CVS Pharmacy"
+"Granite Bay, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/auburn/1212/,38.9336353,-121.0899626,,,w_978576387,"shop=variety_store, brand=Dollar Tree"
+"Granite Bay, CA",,retail,445110,Raley's,"39 Lincoln Boulevard, Lincoln, CA, 95648",+1-916-408-5775,https://www.raleys.com/stores/raleys-lincoln-lincoln-california/,38.8724529,-121.2966684,,,w_982082727,"shop=supermarket, brand=Raley's"
+"Granite Bay, CA",,retail,445292,See's Candies,,,,38.9249274,-121.0546578,,,w_984507073,"shop=confectionery, brand=See's Candies"
+"Granite Bay, CA",,retail,445120,Speedway,"2280 Drive In Way, Auburn, CA, 95603",,https://www.speedway.com/locations/CA/Auburn/2280-DRIVE-IN-WAY,38.934517,-121.0931562,,,w_986501147,"shop=convenience, brand=Speedway, operator=Speedway"
+"Granite Bay, CA",,retail,445120,Super K,,,,38.9415124,-121.0978063,,,w_987044662,shop=convenience
+"Granite Bay, CA",,retail,445110,Smart & Final,,,,38.9400205,-121.0976424,,,w_991359054,"shop=supermarket, brand=Smart & Final"
+"Granite Bay, CA",,retail,445120,Speedway,"2281 El Camino Avenue, Sacramento, CA, 95821",,https://www.speedway.com/locations/CA/Sacramento/2281-EL-CAMINO-AVE,38.6112856,-121.4110124,,,w_994098162,"shop=convenience, brand=Speedway"
+"Granite Bay, CA",,retail,445120,Speedway,,,,38.8718602,-121.1298942,,,w_994103203,"shop=convenience, brand=Speedway"
+"Granite Bay, CA",,retail,445120,Speedway,"13461 Bowman Road, Auburn, CA, 95603",,https://www.speedway.com/locations/CA/Auburn/13461-BOWMAN-RD,38.9265393,-121.0572526,,,w_994103322,"shop=convenience, brand=Speedway"
+"Granite Bay, CA",,retail,445120,Rowdy Randy's,,,,38.9025106,-121.068494,,,w_999222472,shop=convenience
+"Granite Bay, CA",,retail,445110,Holiday Market,"5030 Ellinghouse Dr, Cool, CA, 95614",,,38.8859426,-121.014623,,,w_1006625913,"shop=supermarket, operator=North State Grocery"
+"Granite Bay, CA",,retail,445120,,,,,38.5954307,-121.4008657,,,w_1021327444,shop=convenience
+"Granite Bay, CA",,retail,446120,Helen's Nails,"4076 Grass Valley Highway, Auburn, CA, 95602",(530) 885-8976,https://www.yelp.com/biz/helen-nails-auburn,38.9579415,-121.1006996,,,w_1027562332,shop=beauty
+"Granite Bay, CA",,retail,445120,Super Quick Food Store,"10542 Fair Oaks Boulevard, Fair Oaks, CA, 95628",,,38.644513,-121.2665857,,,w_1051448422,shop=convenience
+"Granite Bay, CA",,retail,445120,7-Eleven,"3448 Watt Avenue, Sacramento, CA, 95821-3613",+1 916-482-1860,https://www.7-eleven.com/locations/ca/sacramento/3448-watt-ave-24276,38.628374,-121.3823625,,,w_1070718025,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,445110,Bel Air,"6231 Fruitridge Road, Sacramento, CA",+19167398647,,38.5255955,-121.4318205,,,w_1071339368,"shop=supermarket, brand=Bel Air, operator=Raleys"
+"Granite Bay, CA",,retail,445110,Raley's,"3518 Marconi Avenue, Sacramento, CA, 95821",+1-916-972-7177,,38.6165955,-121.381578,,,w_1074695873,"shop=supermarket, brand=Raley's"
+"Granite Bay, CA",,retail,445120,Extra Mile,,,,38.8939175,-121.292342,,,w_1077531843,shop=convenience
+"Granite Bay, CA",,retail,445110,Panadería La Michoacana,"616 5th Street, CA",,,38.8920755,-121.291773,,,w_1077532229,shop=supermarket
+"Granite Bay, CA",,retail,445110,Fotos Market,"561 5th Street, CA",,,38.8915115,-121.2911885,,,w_1077532351,shop=supermarket
+"Granite Bay, CA",,retail,446120,Lovely Nails,"654 5th Street, CA",,,38.8919818,-121.292313,,,w_1077532422,shop=beauty
+"Granite Bay, CA",,retail,446191,Vibe Health Food,,,,38.5703355,-121.444406,,,w_1081981366,shop=health_food
+"Granite Bay, CA",,retail,446120,Amazing Lash Studio,"1529 R Street, Sacramento, CA, 95811",,,38.5694924,-121.4891693,,,w_1115788762,"shop=beauty, brand=Amazing Lash Studio"
+"Granite Bay, CA",,retail,445120,Farm Fork Sky Express,,,,38.6956819,-121.5915959,,,w_1120649603,"shop=convenience, operator=Paradies"
+"Granite Bay, CA",,retail,445120,Farm Fork Sky Market,,,,38.6922346,-121.5916622,,,w_1120667954,shop=convenience
+"Granite Bay, CA",,retail,445120,ampm,,,,38.7072606,-121.3824081,,,w_1132260667,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445120,ExtraMile,,,,38.6846508,-121.1784348,,,w_1169783592,"shop=convenience, brand=ExtraMile"
+"Granite Bay, CA",,retail,445120,7-Eleven,,,,38.6108659,-121.3837968,,,w_1216362931,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,446120,,"13336 Lincoln Way, Auburn, CA, 95603",+1-530-823-3044,,38.9213091,-121.0560862,,,w_1223142836,shop=beauty
+"Granite Bay, CA",,retail,453991,Millenium Smoke Shop,"13334 Lincoln Way, Auburn, CA, 95603",+1-530-887-0420,https://shopmillenium.com/,38.9213077,-121.0561852,,,w_1223142837,"shop=tobacco, operator=Millenium Smoke Shop"
+"Granite Bay, CA",,retail,445310,Auburn Liquor & Food,,,,38.9212933,-121.0564449,,,w_1223142839,shop=alcohol
+"Granite Bay, CA",,retail,445120,Quik Stop,"1290 Fulton Avenue, Sacramento",,,38.5884148,-121.4009909,,,w_1230698310,"shop=convenience, brand=Quik Stop"
+"Granite Bay, CA",,retail,453110,Flowers,,,,38.9246246,-121.0555049,,,w_1233781878,shop=florist
+"Granite Bay, CA",,retail,445310,Auburn Liquor Mart,,,,38.9243618,-121.05636,,,w_1233781880,shop=alcohol
+"Granite Bay, CA",,retail,453991,Smoke & Vape Shop,,,,38.9241832,-121.056301,,,w_1233781881,shop=tobacco
+"Granite Bay, CA",,retail,445120,ampm,,,,38.9238543,-121.0564184,,,w_1233781883,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,445120,,,,,38.9238849,-121.0580805,,,w_1233781893,shop=convenience
+"Granite Bay, CA",,retail,445120,Quik Stop,"8500 Florin Road, Sacramento, CA, 95828",,,38.4955756,-121.3898914,,,w_1235780575,"shop=convenience, brand=Quik Stop"
+"Granite Bay, CA",,retail,446191,Sprouts,"10846 Bear Hollow Drive, Rancho Cordova, CA, 95670",,,38.5773492,-121.2822486,,,w_1239554007,shop=health_food
+"Granite Bay, CA",,retail,445120,,,,,38.9943674,-121.0239304,,,w_1244176664,shop=convenience
+"Granite Bay, CA",,retail,445110,,,,,39.0002769,-121.0232088,,,w_1244176699,shop=supermarket
+"Granite Bay, CA",,retail,452210,Target,"5104 Commons Drive, Rocklin, CA, 95677",+1 916-251-3345,https://www.target.com/sl/rocklin/2604,38.8044879,-121.2092197,,,w_1264208818,"shop=department_store, brand=Target"
+"Granite Bay, CA",,retail,445120,ampm,,,,38.6571215,-121.1834454,,,w_1274478856,"shop=convenience, brand=ampm"
+"Granite Bay, CA",,retail,446191,Placerville Food Coop,535 Placerville Drive,,,38.7335548,-120.826004,,,w_1280066798,shop=health_food
+"Granite Bay, CA",,retail,445120,Shell,,,,38.7278485,-120.8046827,,,w_1280900885,"shop=convenience, brand=Shell"
+"Granite Bay, CA",,retail,445120,7-Eleven,,,,38.714135,-120.843877,,,w_1291891496,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,446120,Beehive Waxing,"2030 28th Street, Sacramento, CA, 95818",+1 (916) 281-9518,https://beehivesac.com/,38.5619584,-121.4746799,,,w_1307527505,shop=beauty
+"Granite Bay, CA",,retail,445120,76,"1178 Broadway, Placerville, CA",,,38.7306948,-120.7887914,,,w_1324176091,"shop=convenience, brand=76"
+"Granite Bay, CA",,retail,445120,Convenient Food Mart,"Whitney Boulevard, Rocklin, CA, 95765",,,38.7872125,-121.2522509,,,w_1333595209,"shop=convenience, brand=Convenient Food Mart"
+"Granite Bay, CA",,retail,445120,,,,,38.4737177,-121.4276339,,,w_1349705912,shop=convenience
+"Granite Bay, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/orangevale/9396-greenback-ln-38703,38.6778192,-121.2026915,,,w_1363461114,"shop=convenience, brand=7-Eleven"
+"Granite Bay, CA",,retail,452210,Macy's,"1197 Galleria Boulevard, Roseville, CA, 95678",+1-916-771-3333,https://www.macys.com/stores/ca/roseville/westfield-galleria-at-roseville_408.html,38.7754834,-121.2683715,,,w_1371236670,"shop=department_store, brand=Macy's"
+"Granite Bay, CA",,retail,445120,Chevron,,,,39.0140255,-121.4318493,,,w_1376184063,"shop=convenience, brand=Chevron"
+"Granite Bay, CA",,retail,446120,Monroe the Salon,,,,38.6748293,-121.174587,,,w_1382187694,shop=beauty
+"Granite Bay, CA",,retail,446120,Transformative Beauty Spa,,,,38.6747627,-121.1747548,,,w_1382187695,shop=beauty
+"Granite Bay, CA",,retail,445120,Sam Market,"2685 Rio Linda Boulevard, Sacramento, CA, 95815",,,38.6163189,-121.446558,,,w_1388143839,shop=convenience
+"Granite Bay, CA",,retail,445120,Valero,,,,38.8729557,-121.1302104,,,w_1421233220,"shop=convenience, brand=Valero"
+"Granite Bay, CA",,retail,452319,Thrift Store,,,,38.6729243,-121.1622957,,,r_8890522,shop=variety_store

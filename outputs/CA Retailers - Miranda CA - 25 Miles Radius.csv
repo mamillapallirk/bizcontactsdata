@@ -1,0 +1,20 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Miranda, CA",,retail,445110,CC Market,,,,40.5069211,-124.1123834,,,n_411009092,shop=supermarket
+"Miranda, CA",,retail,445120,Shelter Cove General Store,"7272 Shelter Cove Road, Shelter Cove",,,40.0364395,-124.0524519,,,n_842907691,shop=convenience
+"Miranda, CA",,retail,445110,Shop Smart,,,,40.1202179,-123.8238685,,,n_1328779418,shop=supermarket
+"Miranda, CA",,retail,445120,Kettenpom Store,,,,40.1573302,-123.4610111,,,n_4270247117,shop=convenience
+"Miranda, CA",,retail,445120,General Store,,,,40.2434757,-124.1237058,,,n_4321922453,shop=convenience
+"Miranda, CA",,retail,445120,Vern's Fairway Mini Mart,,,,40.0256701,-124.0691918,,,n_4322128043,shop=convenience
+"Miranda, CA",,retail,445120,Shelter Cove RV Park and Campground Groceries,,,,40.0236531,-124.0682077,,,n_4322128049,shop=convenience
+"Miranda, CA",,retail,445110,Market,,,,40.266463,-123.8727712,,,n_4406261491,shop=supermarket
+"Miranda, CA",,retail,445120,Journeys End Market,,,,40.3528936,-123.4118104,,,n_4661774510,shop=convenience
+"Miranda, CA",,retail,445120,Dinsmore Store,"43819 SR 36, 95526",,,40.4921099,-123.6075888,,,n_4966546528,shop=convenience
+"Miranda, CA",,retail,445110,Chautauqua Natural foods,,,,40.1004939,-123.793468,,,n_5750641026,shop=supermarket
+"Miranda, CA",,retail,445120,Redwood Market,,,,40.0996398,-123.7954349,,,n_6018390650,shop=convenience
+"Miranda, CA",,retail,445310,E & J Liquor & Deli,,,,40.4937654,-124.1023206,,,n_10043972371,shop=alcohol
+"Miranda, CA",,retail,452319,Dollar General,"44 Davis Street, Rio Dell, CA, 95562",,https://www.dollargeneral.com/store-directory/ca/rio-dell/14839,40.4996285,-124.1057474,,,n_10043980028,"shop=variety_store, brand=Dollar General"
+"Miranda, CA",,retail,445120,,,,,40.0680507,-123.7871126,,,n_12022251924,shop=convenience
+"Miranda, CA",,retail,445110,Ray's Food Place,"875 Redwood Drive, Garberville, CA, 95542",+1 707-923-2279,https://www.gorays.com/,40.0986843,-123.7941113,,,w_53333754,"shop=supermarket, brand=Ray's Food Place"
+"Miranda, CA",,retail,445120,Zenia Store,"Zenia Bluff Road, Zenia, CA, 95595",,,40.2052415,-123.4918728,,,w_756823043,shop=convenience
+"Miranda, CA",,retail,445110,Hoby's Market,,+1-707-764-3623,,40.4849842,-124.1012796,,,w_924022702,shop=supermarket
+"Miranda, CA",,retail,445120,Great Goods,,,,40.4979769,-124.1054574,,,w_975280078,shop=convenience

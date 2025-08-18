@@ -1,0 +1,23 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Manchester, CA",,retail,445110,S & B Market,,,,38.9702317,-123.6872112,,,n_541343525,shop=supermarket
+"Manchester, CA",,retail,445110,Gualala Supermarket,,,,38.7675963,-123.5282011,,,n_877478422,shop=supermarket
+"Manchester, CA",,retail,445310,Greenwood Ridge Vineyards Tasting Room,,,,39.0977809,-123.4842674,,,n_3722245757,shop=alcohol
+"Manchester, CA",,retail,445120,Point Arena General Store,,,,38.9090709,-123.6920838,,,n_5827885885,shop=convenience
+"Manchester, CA",,retail,445230,Corners of the mouth,,,,39.3059981,-123.7994239,,,n_5827886186,shop=greengrocer
+"Manchester, CA",,retail,445120,Little River market,,,,39.2706988,-123.788877,,,n_6164832787,shop=convenience
+"Manchester, CA",,retail,452319,Navarro General Store,,,,39.1528248,-123.5435225,,,n_6164833196,shop=general
+"Manchester, CA",,retail,445292,,,,,39.3050834,-123.799926,,,n_9289202532,shop=chocolate
+"Manchester, CA",,retail,445310,Meyer,,,https://www.mfcellars.com/,39.3045766,-123.8024205,,,n_9289206432,shop=alcohol
+"Manchester, CA",,retail,445310,Baxter Tasting Room,,,,39.0653207,-123.4405193,,,n_9953786479,shop=wine
+"Manchester, CA",,retail,452319,Elk Store,,,,39.1294781,-123.7165654,,,n_10902819193,shop=general
+"Manchester, CA",,retail,452319,Anchor Bay Store,,,,38.803327,-123.5779494,,,n_11479314783,shop=general
+"Manchester, CA",,retail,452319,,,,,39.2233436,-123.7690056,,,n_12554891714,shop=general
+"Manchester, CA",,retail,452319,Comptche Store,,,,39.2649454,-123.5915315,,,n_12555036084,shop=general
+"Manchester, CA",,retail,445110,Harvest Market at Mendosa's,"10501 Lansing Street, Mendocino, CA, 95460",+1 707-937-5879,https://www.harvestmarket.com/stores/harvest-at-mendosas,39.3073107,-123.7984771,,,w_239947490,"shop=supermarket, brand=IGA"
+"Manchester, CA",,retail,445120,Lemons' Market,,,,39.0652919,-123.439734,,,w_242899471,shop=convenience
+"Manchester, CA",,retail,445310,Witching Stick Tasting Room,,,,39.0654313,-123.4400827,,,w_242899472,shop=wine
+"Manchester, CA",,retail,445310,Anderson Valley Market and Liquor,,,,39.0082321,-123.3659644,,,w_673712835,shop=alcohol
+"Manchester, CA",,retail,445310,Foursight Wines,,,,39.0047953,-123.3628233,,,w_673712837,shop=wine
+"Manchester, CA",,retail,445310,Pic n Pay Liquor Store and Market,,,,39.0089038,-123.3666487,,,w_673923699,shop=alcohol
+"Manchester, CA",,retail,445110,Boont berry farm,"13981 State Route 128, Boonville, CA, 95415",+1 (707) 895-3576,https://boont-berry-farm-store.business.site/,39.0104501,-123.3689935,,,w_753164274,"shop=supermarket, amenity=restaurant"
+"Manchester, CA",,retail,445110,Surf Market,,,,38.7667968,-123.5296419,,,w_836709521,shop=supermarket

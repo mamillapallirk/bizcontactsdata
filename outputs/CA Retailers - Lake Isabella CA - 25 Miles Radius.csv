@@ -1,0 +1,16 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Lake Isabella, CA",,retail,445120,Primo's,,,,35.758482,-118.419923,,,n_2356232654,shop=convenience
+"Lake Isabella, CA",,retail,445110,Sierra Gateway Market,,,,35.758069,-118.418772,,,n_2356753208,shop=supermarket
+"Lake Isabella, CA",,retail,452319,Dam Korner Store,,,,35.627191,-118.474601,,,n_2357393883,shop=general
+"Lake Isabella, CA",,retail,445120,Riverside One Stop,Kernville,,,35.753335,-118.424903,,,n_2926859301,shop=convenience
+"Lake Isabella, CA",,retail,446110,Rite Aid,5530 Lake Isabella Boulevard,+1-760-379-5621,https://www.riteaid.com/locations/ca/lake-isabella/5530-lake-isabella-boulevard.html,35.617183,-118.476553,,,n_2927641401,"shop=chemist, brand=Rite Aid"
+"Lake Isabella, CA",,retail,452319,Dollar General,2326 Webb Avenue,,https://www.dollargeneral.com/store-directory/ca/lake-isabella/18218,35.6096755,-118.481758,,,n_8929480332,"shop=variety_store, brand=Dollar General"
+"Lake Isabella, CA",,retail,445310,,,,,35.6279349,-118.4743724,,,n_11919093566,shop=alcohol
+"Lake Isabella, CA",,retail,445120,Kern Food Mart,,,,35.5988303,-118.4897832,,,n_11923895136,shop=convenience
+"Lake Isabella, CA",,retail,452319,Family Dollar,"5500 Lake Isabella Boulevard, Lake Isabella, 93240",+1 760-379-2689,https://www.familydollar.com/,35.6183711,-118.4757225,,,w_132260847,"shop=variety_store, brand=Family Dollar"
+"Lake Isabella, CA",,retail,445110,Vons,"5610 Lake Isabella Boulevard, Lake Isabella, CA, 93240",+1 760-379-4461,https://local.vons.com/ca/lake-isabella/5610-lake-isabella-blvd.html,35.6178823,-118.4760134,,,w_132260849,"shop=supermarket, brand=Vons"
+"Lake Isabella, CA",,retail,445120,Shell,,,,35.6171977,-118.4775013,,,w_727325429,"shop=convenience, brand=Shell"
+"Lake Isabella, CA",,retail,445110,Grocery Outlet,6415 Lake Isabella Boulevard,,,35.6292375,-118.4740278,,,w_965272298,"shop=supermarket, brand=Grocery Outlet"
+"Lake Isabella, CA",,retail,452319,,,,,35.9722995,-118.5389258,,,w_981644052,shop=general
+"Lake Isabella, CA",,retail,445120,Mt. Mesa Food Mart,"12400 Mountain Mesa Road, Mountain Mesa, CA, 93240",,,35.6389817,-118.4052803,,,w_996915945,shop=convenience
+"Lake Isabella, CA",,retail,445110,,,,,35.6395607,-118.406197,,,w_1285030549,shop=supermarket

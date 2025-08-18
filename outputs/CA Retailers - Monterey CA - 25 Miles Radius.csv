@@ -1,0 +1,59 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Monterey, CA",,retail,445120,General Store,,,,36.4936941,-121.1463531,,,n_1445159899,shop=convenience
+"Monterey, CA",,retail,453991,Smoke Shop,,,,36.4163549,-121.3206877,,,n_1836722386,shop=tobacco
+"Monterey, CA",,retail,445120,,,,,36.2703203,-121.808367,,,n_1857478531,shop=convenience
+"Monterey, CA",,retail,445120,Noggles Place,,,,36.2503829,-121.4318315,,,n_2314746532,shop=convenience
+"Monterey, CA",,retail,445110,Mendoza Market,,,,36.3194389,-121.242553,,,n_2414008475,shop=supermarket
+"Monterey, CA",,retail,445310,El Camino Liquors,,,,36.3177495,-121.2413236,,,n_2414009524,shop=alcohol
+"Monterey, CA",,retail,445120,$10 Dollar Store,,,,36.3186349,-121.2417054,,,n_2414010486,shop=convenience
+"Monterey, CA",,retail,445120,San Lucas Pitstop,,,,36.1279378,-121.0209117,,,n_2600714292,shop=convenience
+"Monterey, CA",,retail,445120,Ozzy's Minimart,,,,36.2107921,-121.1207455,,,n_2600731697,shop=convenience
+"Monterey, CA",,retail,445120,,,,,36.2608609,-121.7933176,,,n_2618506395,shop=convenience
+"Monterey, CA",,retail,445120,,,,,36.2506557,-121.7862201,,,n_2618588520,shop=convenience
+"Monterey, CA",,retail,445120,98 Cents Plus,,,,36.2115378,-121.128511,,,n_2865639800,shop=convenience
+"Monterey, CA",,retail,446120,Moya's Beauty Salon,,,,36.2110284,-121.1295939,,,n_5612336490,shop=beauty
+"Monterey, CA",,retail,445120,Gorda General Store,,,,35.8766156,-121.4461452,,,n_6344833297,shop=convenience
+"Monterey, CA",,retail,445310,Mi Fiesta Liquor,,,,36.426914,-121.3289777,,,n_8741192200,shop=alcohol
+"Monterey, CA",,retail,452319,Soledad Variety Store,,,,36.4271731,-121.3293491,,,n_8741196679,shop=general
+"Monterey, CA",,retail,445110,El Pueblo Market,,,,36.425831,-121.3266887,,,n_8744278809,shop=supermarket
+"Monterey, CA",,retail,445310,Shop N Save Liquor,,,,36.4247714,-121.3255706,,,n_8744324956,shop=alcohol
+"Monterey, CA",,retail,445310,Valley Liquors,,,,36.4238929,-121.3250993,,,n_8744325053,shop=alcohol
+"Monterey, CA",,retail,453991,Smoke Shop,,,,36.4249021,-121.3256552,,,n_8744333764,shop=tobacco
+"Monterey, CA",,retail,453110,,,,,36.4249226,-121.3247082,,,n_8744333783,shop=florist
+"Monterey, CA",,retail,446120,Vibe Beauty Studio,,,,36.4240224,-121.3224875,,,n_8748404311,shop=beauty
+"Monterey, CA",,retail,445110,Basic Foods,,,,36.5148443,-121.4363572,,,n_8770951114,shop=supermarket
+"Monterey, CA",,retail,445110,Jalisco Market,,,,36.5074409,-121.4440564,,,n_8775164703,shop=supermarket
+"Monterey, CA",,retail,445110,Taylor Farms,,,,36.5066014,-121.4443136,,,n_8775177243,shop=supermarket
+"Monterey, CA",,retail,452319,98 Cents Plus Store,,,,36.5056379,-121.4431809,,,n_8775430980,shop=variety_store
+"Monterey, CA",,retail,445120,Chevron,,,,36.5036976,-121.4409018,,,n_8777989209,"shop=convenience, brand=Chevron"
+"Monterey, CA",,retail,445120,Valero,,,,36.5033741,-121.4415404,,,n_8780601755,"shop=convenience, brand=Valero"
+"Monterey, CA",,retail,445110,Amigos Market,,,,36.5695511,-121.5171442,,,n_8784788362,shop=supermarket
+"Monterey, CA",,retail,446110,Rite Aid,,,https://www.riteaid.com/locations/ca/greenfield/650-walnut-avenue.html,36.3287695,-121.2468884,,,n_8794119301,"shop=chemist, brand=Rite Aid"
+"Monterey, CA",,retail,452210,Satisfashion,,,,36.3294887,-121.2468334,,,n_8794119304,shop=department_store
+"Monterey, CA",,retail,445120,Oak Avenue Minimart,,,,36.323979,-121.2371355,,,n_8797508427,shop=convenience
+"Monterey, CA",,retail,452319,Dollar General,"326 El Camino Real, Greenfield, CA, 93927",,https://www.dollargeneral.com/store-directory/ca/greenfield/17815,36.3234411,-121.2451101,,,n_9738075183,"shop=variety_store, brand=Dollar General"
+"Monterey, CA",,retail,445120,ExtraMile,,,,36.4296255,-121.3341508,,,n_11829287601,"shop=convenience, brand=ExtraMile"
+"Monterey, CA",,retail,445110,Foods Co,,,,36.4142102,-121.3198797,,,w_183059732,"shop=supermarket, brand=Foods Co"
+"Monterey, CA",,retail,452319,Ringer's General Store,,,,36.3991783,-121.6528059,,,w_192763317,shop=general
+"Monterey, CA",,retail,445110,Safeway,"530 Canal Street, King City, CA, 93930",+1 831-385-7820,https://local.safeway.com/safeway/ca/king-city/530-canal-st.html,36.2044588,-121.1332908,,,w_247252993,"shop=supermarket, brand=Safeway"
+"Monterey, CA",,retail,445120,Shell,"601 Canal Street, King City",,,36.202463,-121.1287866,,,w_253921022,"shop=convenience, amenity=fuel, brand=Shell"
+"Monterey, CA",,retail,445120,Bingo Market,,,,36.425167,-121.3234299,,,w_254687366,shop=convenience
+"Monterey, CA",,retail,452319,Greenfield Dollar Store,,,,36.3182002,-121.2414468,,,w_257307970,shop=variety_store
+"Monterey, CA",,retail,445120,,,,,36.1923492,-121.1445238,,,w_326493741,shop=convenience
+"Monterey, CA",,retail,445120,,,,,36.5233102,-121.4647102,,,w_395930038,shop=convenience
+"Monterey, CA",,retail,445120,ExtraMile,"1137 Broadway Street, King City, CA, 93930",(831) 386-0341,,36.2050419,-121.1374188,,,w_496334780,"shop=convenience, brand=ExtraMile"
+"Monterey, CA",,retail,453110,The Garden House,,,,36.2021176,-121.1294042,,,w_585544046,shop=florist
+"Monterey, CA",,retail,445120,ampm,,,,36.2030865,-121.1377341,,,w_587600136,"shop=convenience, brand=ampm"
+"Monterey, CA",,retail,445120,Chevron,,,,36.2033403,-121.1352692,,,w_812803863,"shop=convenience, brand=Chevron"
+"Monterey, CA",,retail,445110,El Pueblo Market,"315 Broadway Street, King City, CA, 93930",(831) 385-5948,elpueblomarket.net,36.2124467,-121.1267022,,,w_957020433,shop=supermarket
+"Monterey, CA",,retail,445120,ampm,"359 Walnut Avenue, Greenfield, CA, 93927",,,36.3305447,-121.2411461,,,w_974874377,"shop=convenience, brand=ampm"
+"Monterey, CA",,retail,445110,La Barata Carniceria,"217 Broadway Street, King City, CA, 93930",(831) 385-8873,,36.212969,-121.1255212,,,w_1309163943,shop=supermarket
+"Monterey, CA",,retail,445310,San Lorenzo Liquors,"200 Broadway Street, King City, CA, 93930",(831) 385-3219,,36.2133594,-121.1259654,,,w_1309163952,shop=alcohol
+"Monterey, CA",,retail,445110,Filete De Oro,"420 Broadway Street, King City, CA, 93930",,,36.2120117,-121.1286269,,,w_1368028557,shop=supermarket
+"Monterey, CA",,retail,445120,7-Eleven,"801 Broadway Street, King City, CA, 93930",,,36.2080275,-121.1333154,,,w_1368457567,"shop=convenience, brand=7-Eleven"
+"Monterey, CA",,retail,445110,La Princesa Market,,,,36.2104061,-121.131464,,,w_1371029565,shop=supermarket
+"Monterey, CA",,retail,445110,Prime Time Nutrition,,,,36.2106184,-121.131632,,,w_1371029566,shop=supermarket
+"Monterey, CA",,retail,452319,Dollar Tree,,,,36.2051378,-121.1323231,,,w_1414347419,"shop=variety_store, brand=Dollar Tree"
+"Monterey, CA",,retail,446120,Nancy Nails,,,,36.2045192,-121.1305885,,,w_1414575455,shop=beauty
+"Monterey, CA",,retail,446120,,,,,36.2079697,-121.1334289,,,w_1414802997,shop=beauty
+"Monterey, CA",,retail,446120,Revive House of Beauty,,,,36.2141351,-121.1245374,,,w_1419735815,shop=beauty

@@ -1,0 +1,70 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Julian, CA",,retail,445110,Alpine Ranch Market,,,,32.8350132,-116.7544712,,,n_365319724,shop=supermarket
+"Julian, CA",,retail,445110,Dons Market,"30250 Highway 78, 92070",+1-760-765-3272,https://www.donsmarketsantaysabel.com/,33.1093752,-116.6749675,,,n_365319834,shop=supermarket
+"Julian, CA",,retail,445110,Albertsons,"1459 Main Street, Ramona, CA, 92065",+1 760-789-0023,https://local.albertsons.com/ca/ramona/1459-main-st.html,33.0394304,-116.8771513,,,n_365319952,"shop=supermarket, brand=Albertsons"
+"Julian, CA",,retail,445120,7-Eleven,"8625 Los Coches Road, Lakeside, CA, 92040",,https://www.7-eleven.com/locations/ca/lakeside/8625-los-coches-rd-13662,32.8334344,-116.9057243,,,n_365327846,"shop=convenience, brand=7-Eleven"
+"Julian, CA",,retail,445120,7-Eleven,"10205 Lake Jennings Park Road, Lakeside, CA, 92040",,https://www.7-eleven.com/locations/ca/lakeside/10205-lake-jennings-pk-rd-22481,32.8609781,-116.9004943,,,n_365327911,"shop=convenience, brand=7-Eleven"
+"Julian, CA",,retail,445120,7-Eleven,"10133 Maine Street, Lakeside, CA, 92040-3111",+1 619-561-3171,https://www.7-eleven.com/locations/ca/lakeside/10133-maine-st-20245,32.8626651,-116.9217728,,,n_365328231,"shop=convenience, brand=7-Eleven"
+"Julian, CA",,retail,445120,7-Eleven,"1076 Main Street, Ramona, 92065",,https://www.7-eleven.com/locations/ca/ramona/1076-main-st-20211,33.0408851,-116.8697258,,,n_365328743,"shop=convenience, brand=7-Eleven"
+"Julian, CA",,retail,445120,Chevron,,,,32.8416212,-116.78043,,,n_454079483,"shop=convenience, amenity=fuel, brand=Chevron"
+"Julian, CA",,retail,446191,Ramona Family Naturals Market,"325 6th Street, Ramona, 92065",,https://ramonafamilynaturals.com/,33.0447417,-116.8620691,,,n_596124644,"shop=health_food, operator=Robert Bradley"
+"Julian, CA",,retail,445310,Country Wine & Spirits,"1350 Main Street, Ramona, 92065",,,33.0382643,-116.8744462,,,n_596297827,shop=alcohol
+"Julian, CA",,retail,452319,Dollar Tree,"2754 Alpine Boulevard, Alpine, 91901",,https://www.dollartree.com/locations/ca/alpine/4616/,32.8353947,-116.754246,,,n_596502915,"shop=variety_store, brand=Dollar Tree"
+"Julian, CA",,retail,452319,99 Cents Only Stores,"1326 Main Street, Ramona, 92065",+17607889999,https://locations.99only.com/ca/ramona/discount-store-382.html,33.0384073,-116.8735935,,,n_597082020,"shop=variety_store, brand=99 Cents Only Stores"
+"Julian, CA",,retail,445120,Palomar General Store,,,,33.3142063,-116.8655837,,,n_822324582,shop=convenience
+"Julian, CA",,retail,445120,,,,,32.9792606,-116.4365147,,,n_1298545398,shop=convenience
+"Julian, CA",,retail,445292,Steph's Donuts,,,,32.8380236,-116.7772525,,,n_1445194780,shop=confectionery
+"Julian, CA",,retail,445110,Center Market,,+1-760-767-3311,,33.2575622,-116.3800057,,,n_1829326108,shop=supermarket
+"Julian, CA",,retail,445120,Banner Store,,,,33.0684606,-116.5474641,,,n_1960764992,shop=convenience
+"Julian, CA",,retail,445120,Rocket,,,,32.8740051,-116.923983,,,n_2321350593,"shop=convenience, amenity=fuel"
+"Julian, CA",,retail,452319,Laguna Mountain Lodge,"10678 Sunrise Highway, Mount Laguna, 91948",,https://www.lagunamountain.com/,32.8671575,-116.4192678,,,n_2519472645,shop=general
+"Julian, CA",,retail,445120,Tavern Rd Shell,,,,32.8412828,-116.7810812,,,n_3584546934,shop=convenience
+"Julian, CA",,retail,445120,Desert Pantry Grocers,,,,33.2560612,-116.3798317,,,n_4668875548,shop=convenience
+"Julian, CA",,retail,452319,Descanso Trading Post,,,,32.8411555,-116.6128259,,,n_9187875681,shop=general
+"Julian, CA",,retail,452319,Perkins Store,"24680 Viejas Boulevard, Descanso, 91916",,,32.8534509,-116.615664,,,n_9525513804,shop=general
+"Julian, CA",,retail,445120,Warner Springs Gas Mart,,,,33.2832051,-116.6346755,,,n_9530330876,"shop=convenience, amenity=fuel, operator=Warner Springs Ranch Resort, LLC"
+"Julian, CA",,retail,445292,Yogurt Barn,"1334 Main Street, Ramona, CA, 92065",,,33.0381528,-116.8740514,,,n_9802539517,"shop=confectionery, amenity=ice_cream"
+"Julian, CA",,retail,445292,KD's Donuts,"1433 Main Street, Ramona, CA, 92065",+17607893326,,33.0394264,-116.876071,,,n_9802539518,"shop=confectionery, amenity=fast_food"
+"Julian, CA",,retail,445310,Country Wine & Spirits,"23658 San Vicente Road, Ramona, CA, 92065",+17607894918,https://cwspirits.com/,33.0061578,-116.8186972,,,n_10160671530,shop=alcohol
+"Julian, CA",,retail,445120,,,,,33.1773332,-116.6899787,,,n_10263014399,shop=convenience
+"Julian, CA",,retail,445120,Stage Stop Mercantile,,,,33.045488,-116.8619088,,,n_10263014400,"shop=convenience, amenity=fuel"
+"Julian, CA",,retail,445120,Circle K,,,,33.0443141,-116.8639834,,,n_10263321564,"shop=convenience, amenity=fuel, brand=Circle K"
+"Julian, CA",,retail,445120,Village Liquor & Food,,,,33.2563839,-116.3766662,,,n_10269035975,shop=convenience
+"Julian, CA",,retail,445310,Country Wine & Spirits,,+1 760-789-3354,,33.0087704,-116.9243033,,,n_10269036029,shop=alcohol
+"Julian, CA",,retail,445110,Stater Brothers,,,,33.0348795,-116.8789907,,,n_10635226105,shop=grocery
+"Julian, CA",,retail,445310,Times Market and Liquor,"12346 Woodside Avenue, Lakeside, CA, 92040",,,32.8570527,-116.9258066,,,n_10895328928,shop=alcohol
+"Julian, CA",,retail,445310,Vine Liquor & Gas,"9716 Los Coches Road, Lakeside, CA, 92040",,,32.8555791,-116.9204322,,,n_10895329052,shop=alcohol
+"Julian, CA",,retail,452319,Dollar Tree,"12340 Woodside Avenue, Lakeside, CA, 92040",,https://www.dollartree.com/locations/ca/lakeside/5543/,32.8574771,-116.926411,,,n_10896628062,"shop=variety_store, brand=Dollar Tree"
+"Julian, CA",,retail,445310,Julian Hard Cider Tasting Room,,,,33.0979323,-116.6466272,,,n_11057308087,shop=alcohol
+"Julian, CA",,retail,445120,Mirage Gas Company,"755 Palm Canyon Drive, Borrego Springs, CA, 92004",+1 760-767-7405,,33.2563383,-116.3726921,,,n_11280517204,"shop=convenience, amenity=fuel"
+"Julian, CA",,retail,445292,Candy Basket,"2116 Main Street, Julian, CA, 92036",+1 760-765-0785,,33.0783217,-116.6017498,,,n_12377223515,shop=confectionery
+"Julian, CA",,retail,446120,Snowflake Brows,"9769 Maine Avenue, 92040",(619) 456-1486,,32.8569803,-116.9209949,,,n_12829524001,shop=cosmetics
+"Julian, CA",,retail,453991,Lakeside Smoke Shop,"9775 Maine Avenue, 92040",+1-619-938-9513,,32.8571653,-116.9210263,,,n_12829529701,shop=tobacco
+"Julian, CA",,retail,446120,Reflections Salon & Day Spa,"9909 Maine Avenue, 92040",(619) 334-2240,http://reflectionssalonwebsite.com,32.858834,-116.9215225,,,n_12829538101,shop=beauty
+"Julian, CA",,retail,445110,Mountain Market,"28914 Old Highway 80, Pine Valley, CA, 91962",,,32.8213913,-116.5276827,,,w_92809517,shop=supermarket
+"Julian, CA",,retail,446110,Rite Aid,,,https://www.riteaid.com/locations/ca/alpine/1665-alpine-boulevard.html,32.8372499,-116.7789825,,,w_105108063,"shop=chemist, brand=Rite Aid"
+"Julian, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/alpine-ca-pharmacies/1385-tavern-rd-alpine-ca-91901/storeid=3025,32.836327,-116.7757477,,,w_105108070,"shop=chemist, brand=CVS Pharmacy"
+"Julian, CA",,retail,445110,Albertsons,"2955 Alpine Boulevard, Alpine, CA, 91901",+1 619-445-0231,https://local.albertsons.com/ca/alpine/2955-alpine-blvd.html,32.8330101,-116.7502051,,,w_109354154,"shop=supermarket, brand=Albertsons"
+"Julian, CA",,retail,446110,CVS Pharmacy,,+17607899062,https://www.cvs.com/store-locator/ramona-ca-pharmacies/1810-main-st-ramona-ca-92065/storeid=9194,33.0345836,-116.880561,,,w_110166778,"shop=chemist, brand=CVS Pharmacy"
+"Julian, CA",,retail,445120,7-Eleven,"14110 Olde Highway 80, El Cajon, CA, 92021",,https://www.7-eleven.com/locations/ca/el-cajon/14110-old-hwy-80-16439,32.8439358,-116.8809258,,,w_232399559,"shop=convenience, brand=7-Eleven"
+"Julian, CA",,retail,445310,Hunter's Liquor,"14134 Olde Highway 80, El Cajon, CA, 92021",+16194430720,,32.8441312,-116.8802091,,,w_232399562,shop=alcohol
+"Julian, CA",,retail,445120,,,,,33.3515213,-116.7406153,,,w_243195158,shop=convenience
+"Julian, CA",,retail,445120,Agua Caliente General Store,,,,32.9551269,-116.3026982,,,w_250913639,shop=convenience
+"Julian, CA",,retail,445120,Ramco,"1913 Main Street, Julian, 92036",,,33.076721,-116.6002572,,,w_250913650,shop=convenience
+"Julian, CA",,retail,445120,Valero Food Shop,,,,32.8564519,-116.9308693,,,w_358674916,shop=convenience
+"Julian, CA",,retail,445120,Shell,"13538 Camino Canada, El Cajon, CA, 92021",,,32.826156,-116.9021091,,,w_378479336,"shop=convenience, brand=Shell"
+"Julian, CA",,retail,445120,Pine Valley Store,"28820 Old Highway 80, Pine Valley, 91962",,,32.8227486,-116.530319,,,w_385243432,shop=convenience
+"Julian, CA",,retail,445120,ampm,"1015 Main Street, Ramona, CA, 92065",,,33.0421462,-116.8691922,,,w_401863304,"shop=convenience, brand=ampm"
+"Julian, CA",,retail,452319,Stagecoach Trails General Store,7878 Great Southern Overland Stage Route,,,33.0602776,-116.4248752,,,w_474276425,shop=general
+"Julian, CA",,retail,452319,Jack’s Grocery,"2117 Main Street, Julian, 92036",,,33.0780789,-116.6020229,,,w_526639037,shop=general
+"Julian, CA",,retail,445310,Mountain Spirits Liquor,"2120 Main Street, Julian",,,33.0784076,-116.6018316,,,w_526639082,shop=alcohol
+"Julian, CA",,retail,445292,Rocky Mountain Chocolate Factory,,,,32.84078,-116.7050114,,,w_545419077,"shop=confectionery, brand=Rocky Mountain Chocolate Factory"
+"Julian, CA",,retail,445120,Chevron,,,,33.0398115,-116.8718271,,,w_561218579,"shop=convenience, brand=Chevron"
+"Julian, CA",,retail,445110,Garden Farms Market,"12580 Lakeshore Drive, Lakeside, CA, 92040",(619) 334-5550,https://www.gardenfarmsmarket.com/,32.8606461,-116.9202222,,,w_961157272,shop=supermarket
+"Julian, CA",,retail,445310,K K Market,"12568 Lakeshore Drive, Lakeside, CA, 92040",(619) 561-8311,,32.8606241,-116.9196526,,,w_961180837,shop=alcohol
+"Julian, CA",,retail,445310,,"9943 Maine Avenue, Lakeside, CA, 92040",,,32.8595838,-116.921981,,,w_961180869,shop=alcohol
+"Julian, CA",,retail,452319,Guatay Country Store,,,,32.8490848,-116.555009,,,w_994975677,shop=general
+"Julian, CA",,retail,445120,Americo Food Mart,,,,32.8573187,-116.9251218,,,w_1172640300,shop=convenience
+"Julian, CA",,retail,445310,Mr Liquor,"12215 Woodside Avenue, Lakeside, CA, 92040",,,32.8561977,-116.9280308,,,w_1172784212,shop=alcohol
+"Julian, CA",,retail,445110,ALDI,"215 16th Street, Ramona, CA, 92065",+1 833-479-7095,https://stores.aldi.us/ca/ramona/215-16th-st,33.0367826,-116.8790654,,,w_1242014409,"shop=supermarket, brand=ALDI"
+"Julian, CA",,retail,445120,Harrah's Rincon Travel Plaza,,,,33.2654377,-116.9541812,,,w_1356105987,shop=convenience

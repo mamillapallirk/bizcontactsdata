@@ -1,0 +1,25 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Sea Ranch, CA",,retail,445110,S & B Market,,,,38.9702317,-123.6872112,,,n_541343525,shop=supermarket
+"Sea Ranch, CA",,retail,445110,Gualala Supermarket,,,,38.7675963,-123.5282011,,,n_877478422,shop=supermarket
+"Sea Ranch, CA",,retail,445120,Ocean Cove Store,23125 Coast Highway,707/847-3422,https://www.oceancove.org/,38.5554722,-123.3010248,,,n_3154865900,shop=convenience
+"Sea Ranch, CA",,retail,452319,Cazadero General Store,"6125 Cazadero Highway, Cazadero, CA, 95421",,,38.5337531,-123.0860046,,,n_3812037585,shop=general
+"Sea Ranch, CA",,retail,445120,Point Arena General Store,,,,38.9090709,-123.6920838,,,n_5827885885,shop=convenience
+"Sea Ranch, CA",,retail,445120,Yorkville market,,,,38.8997462,-123.2178296,,,n_6164833663,shop=convenience
+"Sea Ranch, CA",,retail,452319,,,,,38.7078671,-123.0188244,,,n_8264468097,shop=general
+"Sea Ranch, CA",,retail,445310,Baxter Tasting Room,,,,39.0653207,-123.4405193,,,n_9953786479,shop=wine
+"Sea Ranch, CA",,retail,445120,Quick Pick Liquors,,,,38.7835827,-123.0111474,,,n_10892501789,shop=convenience
+"Sea Ranch, CA",,retail,445120,Redwood Market,,,,38.7836292,-123.012806,,,n_10892571137,shop=convenience
+"Sea Ranch, CA",,retail,452319,Anchor Bay Store,,,,38.803327,-123.5779494,,,n_11479314783,shop=general
+"Sea Ranch, CA",,retail,452319,Stewarts Point Store,,,,38.6519576,-123.3998266,,,w_169498120,"shop=general, amenity=cafe"
+"Sea Ranch, CA",,retail,445120,Lemons' Market,,,,39.0652919,-123.439734,,,w_242899471,shop=convenience
+"Sea Ranch, CA",,retail,445310,Witching Stick Tasting Room,,,,39.0654313,-123.4400827,,,w_242899472,shop=wine
+"Sea Ranch, CA",,retail,445120,Chevron,"1165 South Cloverdale Boulevard, Cloverdale, CA, 95425",,,38.7837347,-123.012653,,,w_271946206,"shop=convenience, amenity=fuel, brand=Chevron"
+"Sea Ranch, CA",,retail,445120,Fort Ross Store,"20705 Coast Highway, CA",(707) 847-3414,,38.5263216,-123.2630484,,,w_282843089,shop=convenience
+"Sea Ranch, CA",,retail,445310,Anderson Valley Market and Liquor,,,,39.0082321,-123.3659644,,,w_673712835,shop=alcohol
+"Sea Ranch, CA",,retail,445310,Foursight Wines,,,,39.0047953,-123.3628233,,,w_673712837,shop=wine
+"Sea Ranch, CA",,retail,445310,Pic n Pay Liquor Store and Market,,,,39.0089038,-123.3666487,,,w_673923699,shop=alcohol
+"Sea Ranch, CA",,retail,445110,Boont berry farm,"13981 State Route 128, Boonville, CA, 95415",+1 (707) 895-3576,https://boont-berry-farm-store.business.site/,39.0104501,-123.3689935,,,w_753164274,"shop=supermarket, amenity=restaurant"
+"Sea Ranch, CA",,retail,445110,Surf Market,,,,38.7667968,-123.5296419,,,w_836709521,shop=supermarket
+"Sea Ranch, CA",,retail,452319,Dollar General,"465 South Cloverdale Boulevard, Cloverdale, CA, 95425-4003",+1 707-404-3495,https://www.dollargeneral.com/store-directory/ca/cloverdale/16271,38.7988026,-123.0182841,,,w_1006861744,"shop=variety_store, brand=Dollar General"
+"Sea Ranch, CA",,retail,445110,Grocery Outlet,"111 Treadway Drive, Cloverdale, CA, 95425",+1 707-894-6254,,38.7832427,-123.0133799,,,w_1006862141,"shop=supermarket, brand=Grocery Outlet"
+"Sea Ranch, CA",,retail,445120,Quik Stop,"601 North Cloverdale Boulevard, Cloverdale, CA",,,38.8123958,-123.0229691,,,w_1160094857,"shop=convenience, brand=Quik Stop"

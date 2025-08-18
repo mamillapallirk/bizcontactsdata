@@ -1,0 +1,76 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"North Shore, CA",,retail,445120,,,,,33.5696244,-116.1819846,,,n_1221410263,shop=convenience
+"North Shore, CA",,retail,445120,7-Eleven,,,,33.6757233,-116.1812265,,,n_1618242985,"shop=convenience, brand=7-Eleven"
+"North Shore, CA",,retail,445110,Save-A-Lot,,,,33.6866778,-116.1829995,,,n_1618253806,"shop=supermarket, brand=Save-A-Lot"
+"North Shore, CA",,retail,445110,,,,,33.6744778,-116.1812641,,,n_1618253809,shop=supermarket
+"North Shore, CA",,retail,452319,Family Dollar,,,,33.687508,-116.1829941,,,n_1618253814,"shop=variety_store, brand=Family Dollar"
+"North Shore, CA",,retail,445230,L & G Desert Store,,,,33.6861934,-116.2162792,,,n_1619641902,shop=greengrocer
+"North Shore, CA",,retail,445310,BevMo!,"79715 Highway 111, La Quinta, 92253",+1-760-342-3277,,33.7062252,-116.2738556,,,n_1620345449,"shop=alcohol, brand=BevMo!"
+"North Shore, CA",,retail,445120,Sinclair,"82353 Indio Boulevard, Indio, CA, 92201",,,33.727695,-116.2306767,,,n_1773140074,"shop=convenience, amenity=fuel, brand=Sinclair"
+"North Shore, CA",,retail,445120,,,,,33.6611555,-115.7208641,,,n_2454599380,shop=convenience
+"North Shore, CA",,retail,445120,ampm,"90480 66th Avenue, Mecca, CA, 92254",,,33.5702524,-116.090274,,,n_4042830815,"shop=convenience, brand=ampm"
+"North Shore, CA",,retail,446120,glamour air salon,,,,33.7078502,-116.2321698,,,n_4633779950,shop=beauty
+"North Shore, CA",,retail,445120,ampm,,,,33.7153725,-116.2281792,,,n_4636102759,"shop=convenience, brand=ampm"
+"North Shore, CA",,retail,452210,Marshalls,"42425 Jackson Street, Indio, CA, 92203",,,33.7417715,-116.2190116,,,n_7837796736,"shop=department_store, brand=Marshalls"
+"North Shore, CA",,retail,452210,Ross,"42225 Jackson Street, Indio, CA, 92203",+1 760-775-0517,,33.7424928,-116.2190197,,,n_7837796737,"shop=department_store, brand=Ross"
+"North Shore, CA",,retail,445120,Circle K,"79985 US Highway 111, Indio, CA, 92201",,,33.7068023,-116.2696517,,,n_9178150638,"shop=convenience, brand=Circle K"
+"North Shore, CA",,retail,445120,G&M,"79513 Highway 111, La Quinta, CA, 92253",,,33.706876,-116.2770411,,,n_9178150673,shop=convenience
+"North Shore, CA",,retail,446120,A & J Nails Spa,"82151 Ave 42, Indio, CA, 92203",760-347-8225,https://ajnailsspa.com,33.743636,-116.2325165,,,n_9926307721,"shop=beauty, operator=An Ngo"
+"North Shore, CA",,retail,452210,dd's Discounts,Highway 111,,,33.7154798,-116.231723,,,n_10252352731,"shop=department_store, brand=dd's Discounts"
+"North Shore, CA",,retail,446120,Sally Beauty Supply,"82144 Highway 111, Indio, CA",,,33.7161625,-116.2317474,,,n_10252352735,shop=cosmetics
+"North Shore, CA",,retail,446120,The Brothers Nail & Spa,"82126 Highway 111, Indio, CA",+1 750-775-7585,,33.7164128,-116.2322081,,,n_10252352738,shop=beauty
+"North Shore, CA",,retail,445120,Alamo,,,,33.4622321,-116.0962308,,,n_10266368265,"shop=convenience, amenity=fuel"
+"North Shore, CA",,retail,445120,Circle K,,,,33.7433693,-116.2331558,,,n_11179224671,shop=convenience
+"North Shore, CA",,retail,445110,Smart & Final Extra,"79770 Highway 111, La Quinta, CA",+17603421646,https://www.smartandfinal.com/,33.7086807,-116.2728768,,,n_12401187890,shop=supermarket
+"North Shore, CA",,retail,445110,Tower Market,"55998 Harrison Street, Thermal, CA, 92274",+8888693709,https://www.towermarket.com/,33.6426964,-116.1806357,,,n_12401280731,shop=supermarket
+"North Shore, CA",,retail,445110,El Super,,,,33.7080442,-116.2393741,,,n_12401325325,"shop=supermarket, brand=El Super"
+"North Shore, CA",,retail,445110,Stater Bros.,,,,33.7086097,-116.2505139,,,n_12403594000,"shop=supermarket, brand=Stater Bros."
+"North Shore, CA",,retail,445110,WinCo Foods,"42600 Jackson Street, Indio, CA, 92203",,,33.7395576,-116.2130085,,,w_150980455,"shop=supermarket, brand=WinCo Foods"
+"North Shore, CA",,retail,452210,Burlington,"42500 Jackson Street, Indio, CA, 92203",+1 760-257-2796,https://www.burlington.com/store-details/indio-ca-1136,33.7403212,-116.2130626,,,w_150980456,"shop=department_store, brand=Burlington"
+"North Shore, CA",,retail,445292,Yogurtland,"42250 Jackson Street, Indio, 92203",,,33.7416689,-116.2153231,,,w_152290511,"shop=confectionery, amenity=ice_cream, brand=Yogurtland"
+"North Shore, CA",,retail,446120,ProNails & Spa,"42250 Jackson Street, Indio, 92203",760-775-6333,,33.7415433,-116.2153227,,,w_152290513,shop=beauty
+"North Shore, CA",,retail,446110,CVS Pharmacy,"84010 Avenue 50, Coachella, 92236",760-391-5656,https://www.cvs.com/store-locator/coachella-ca-pharmacies/84010-avenue-50-coachella-ca-92236/storeid=5497,33.6860206,-116.1983302,,,w_158416839,"shop=chemist, brand=CVS Pharmacy"
+"North Shore, CA",,retail,446120,Budget Nails,"49261 Grapefruit Boulevard, Coachella, 92236",,,33.6893419,-116.1846757,,,w_161010995,shop=beauty
+"North Shore, CA",,retail,453110,Coachella Florist 2,"49281 Grapefruit Boulevard, Coachella, CA, 92236",,,33.6893606,-116.1840177,,,w_161010999,shop=florist
+"North Shore, CA",,retail,445110,Food 4 Less,"49241 Grapefruit Boulevard, Coachella, 92236",,,33.6900004,-116.1854041,,,w_161011009,"shop=supermarket, brand=Food 4 Less"
+"North Shore, CA",,retail,452210,Big Lots,"42225 Jackson Street, Indio, CA, 92203",+1 760-342-9084,https://local.biglots.com/ca/indio/42225-jackson-st,33.7432399,-116.2191236,,,w_161390817,"shop=department_store, brand=Big Lots"
+"North Shore, CA",,retail,452319,Dollar Tree,"42225 Jackson Street, Indio, CA, 92203",,https://www.dollartree.com/locations/ca/indio/4209/,33.7435086,-116.2190034,,,w_161390825,"shop=variety_store, brand=Dollar Tree"
+"North Shore, CA",,retail,445292,Frosties Ice Cream,"42425 Jackson Street, Indio, CA, 92203",,,33.7409984,-116.2194001,,,w_161390826,shop=confectionery
+"North Shore, CA",,retail,445110,Walmart Neighborhood Market,"83053 Avenue 48, Coachella, CA, 92236",+1 760-262-8050,https://www.walmart.com/store/2826-coachella-ca,33.6988212,-116.2151269,,,w_162056364,"shop=supermarket, brand=Walmart, operator=Walmart"
+"North Shore, CA",,retail,445120,ampm,"48055 Grapefruit Boulevard, Coachella, CA, 92236",,,33.6996735,-116.192275,,,w_162328746,"shop=convenience, brand=ampm, operator=BP America Inc."
+"North Shore, CA",,retail,445110,Cardenas,"50037 Cesar Chavez Street, Coachella, CA, 92236",,,33.6845934,-116.1827704,,,w_162975464,"shop=supermarket, brand=Cardenas"
+"North Shore, CA",,retail,452319,99 Cents Only Stores,"50249 Cesar Chavez Street, Coachella, CA, 92236",,https://locations.99only.com/ca/coachella/discount-store-261.html,33.6824658,-116.182324,,,w_162975502,"shop=variety_store, brand=99 Cents Only Stores"
+"North Shore, CA",,retail,445120,Y and M Market,"1507 2nd Street, Coachella, CA, 92236",,,33.6820119,-116.1791127,,,w_163096847,shop=convenience
+"North Shore, CA",,retail,445120,Valley Market,"51989 Grapefruit Boulevard, Coachella, CA, 92236",,,33.6715491,-116.1672424,,,w_165848065,shop=convenience
+"North Shore, CA",,retail,445120,Victory Liquor,"49968 Cesar Chavez Street, Coachella, CA, 92236",,,33.6862455,-116.1813208,,,w_183799334,shop=convenience
+"North Shore, CA",,retail,452319,Dollar Tree,"Coachella, CA, 92236",,https://www.dollartree.com/locations/ca/coachella/5836/,33.6861908,-116.1809644,,,w_183799338,"shop=variety_store, brand=Dollar Tree"
+"North Shore, CA",,retail,445110,Ralphs,"49908 Jefferson Street, Indio, CA, 92201",+1 760-774-7373,ralphs.com,33.6867368,-116.2671132,,,w_203540695,"shop=supermarket, brand=Ralphs"
+"North Shore, CA",,retail,446120,VIP Nails,"49950 Jefferson Street, Indio, 92201",,,33.6860053,-116.2671482,,,w_203540697,shop=beauty
+"North Shore, CA",,retail,445120,ampm,"2084 South Marina Drive, Salton City, CA, 92274",,,33.2788592,-115.9655725,,,w_207552160,"shop=convenience, brand=ampm"
+"North Shore, CA",,retail,445230,Madison Street Produce,,,madisonstproduce.com,33.7069761,-116.2510453,,,w_211768867,shop=greengrocer
+"North Shore, CA",,retail,446110,Walgreens,"80925 Highway 111, Indio, 92201",760-347-8274,https://www.walgreens.com/locator/walgreens-80925+us+highway+111-indio-ca-92201/id=9080,33.7067375,-116.2520722,,,w_211803588,"shop=chemist, brand=Walgreens"
+"North Shore, CA",,retail,445110,Walmart Supercenter,"82491 Avenue 42, Indio, CA, 92203",+1 760-262-8004,https://www.walmart.com/store/2181-indio-ca,33.7402342,-116.2292959,,,w_294440364,"shop=supermarket, brand=Walmart, operator=Walmart"
+"North Shore, CA",,retail,445120,ampm,"41910 Jackson Street, Indio, 92203",,,33.744387,-116.2158965,,,w_294764983,"shop=convenience, brand=ampm"
+"North Shore, CA",,retail,445120,Fastrip Food Store,"51893 Cesar Chavez Street, Coachella, 92236",760-398-1230,,33.6713279,-116.1821514,,,w_306326740,shop=convenience
+"North Shore, CA",,retail,446120,The Old Fashioned Barber Shop,"51807 Cesar Chavez Street, Coachella, 92236",760-398-2926,,33.6721477,-116.1821386,,,w_306326840,shop=beauty
+"North Shore, CA",,retail,445120,Mother Earth Nutrition,"52565 Cesar Chavez Street, Coachella, 92236",,,33.6661601,-116.182272,,,w_306626228,shop=convenience
+"North Shore, CA",,retail,445120,Perez Market,"52565 Cesar Chavez Street, Coachella, 92236",,,33.6660502,-116.1822731,,,w_306626230,shop=convenience
+"North Shore, CA",,retail,445120,ampm,"52138 Cesar Chavez Street, Coachella, CA, 92236",,,33.6704033,-116.1809205,,,w_401875607,"shop=convenience, brand=ampm"
+"North Shore, CA",,retail,445120,West Shores Market,"2113 Marina Drive, Salton City, CA, 92274",,,33.2803232,-115.9615501,,,w_406617024,shop=convenience
+"North Shore, CA",,retail,446120,Tresses by the Sea,"2116 Marina Drive, Salton City, CA, 92274",,,33.2811255,-115.9610072,,,w_407100851,shop=beauty
+"North Shore, CA",,retail,445110,Cardenas,"82266 Highway 111, Indio, 92201",+1-760-342-0214,https://www.cardenasmarkets.com,33.7166325,-116.2300976,,,w_468954791,"shop=supermarket, brand=Cardenas"
+"North Shore, CA",,retail,446110,CVS Pharmacy,"82270 Highway 111, Indio",+1-760-342-2008,https://www.cvs.com/store-locator/indio-ca-pharmacies/82-270-highway-111-indio-ca-92201/storeid=9648,33.7152462,-116.2298069,,,w_468954793,"shop=chemist, brand=CVS Pharmacy"
+"North Shore, CA",,retail,445110,Food 4 Less,"82124 Highway 111, Indio, CA",+17608634186,,33.7165589,-116.2331281,,,w_468954794,"shop=supermarket, brand=Food 4 Less"
+"North Shore, CA",,retail,445210,meat market,,,,33.71319,-116.2334203,,,w_468954799,shop=butcher
+"North Shore, CA",,retail,452319,Dollar Tree,"82025 Highway 111, Indio, CA, 92201",+1-760-347-8108,,33.7132298,-116.2326569,,,w_468954801,"shop=variety_store, brand=Dollar Tree"
+"North Shore, CA",,retail,446110,Rite Aid,,,https://www.riteaid.com/locations/ca/coachella/51101-cesar-chavez-street.html,33.677676,-116.182269,,,w_1092247380,"shop=chemist, brand=Rite Aid"
+"North Shore, CA",,retail,445120,Skip's,"98775 Grapefruit Boulevard, Mecca, CA, 92254",+1-760-393-3661,,33.5281197,-115.9434277,,,w_1197272194,shop=convenience
+"North Shore, CA",,retail,452319,99 Cents Only Stores,,,,33.7087562,-116.2718818,,,w_1230839688,"shop=variety_store, brand=99 Cents Only Stores"
+"North Shore, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/la-quinta/5594/,33.7088142,-116.2739098,,,w_1230840745,"shop=variety_store, brand=Dollar Tree"
+"North Shore, CA",,retail,452319,Family Dollar,"2108 Service Road, Salton City, CA, 92274",,,33.2803687,-115.9669158,,,w_1276208712,"shop=variety_store, brand=Family Dollar"
+"North Shore, CA",,retail,452319,Dollar General,"2110 Service Road, Salton City, CA, 92274",+1-760-394-6883,,33.2807943,-115.9669668,,,w_1276208713,"shop=variety_store, brand=Dollar General"
+"North Shore, CA",,retail,445120,Sinclair,,,,33.6386672,-116.1381474,,,w_1339749950,"shop=convenience, brand=Sinclair"
+"North Shore, CA",,retail,445120,7-Eleven,,,,33.7081241,-116.2423686,,,w_1340668719,"shop=convenience, brand=7-Eleven"
+"North Shore, CA",,retail,445120,,,,,33.7079697,-116.2519169,,,w_1340903055,shop=convenience
+"North Shore, CA",,retail,445120,,,,,33.7118838,-116.2370611,,,w_1340903088,shop=convenience
+"North Shore, CA",,retail,445120,ExtraMile,"46651 Dillon Road, Coachella, CA, 92236",,,33.7091802,-116.1807927,,,r_2423184,"shop=convenience, brand=ExtraMile"

@@ -1,0 +1,75 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Greeley Hill, CA",,retail,445120,Columbia Mercantile,,,,38.0357375,-120.4004094,,,n_614359380,shop=convenience
+"Greeley Hill, CA",,retail,445110,Twain Harte Market,,,,38.0399728,-120.2248706,,,n_737551611,shop=supermarket
+"Greeley Hill, CA",,retail,445120,7-Eleven,"22950 Joaquin Gulley, Twain Harte, CA, 95383-1689",+1 209-586-1157,https://www.7-eleven.com/locations/ca/twain-harte/22950-joaquin-gulley-26688,38.0382736,-120.2299722,,,n_765351096,"shop=convenience, brand=7-Eleven, operator=7-Eleven Store"
+"Greeley Hill, CA",,retail,445120,Lush Meadows Market,,,,37.5067517,-119.825106,,,n_825273804,shop=convenience
+"Greeley Hill, CA",,retail,445120,Buck Meadows General Store,,,,37.815397,-120.0630554,,,n_1748172896,shop=convenience
+"Greeley Hill, CA",,retail,445120,La Grange General Store,,,,37.6626101,-120.4646865,,,n_2891851311,shop=convenience
+"Greeley Hill, CA",,retail,445110,Grocery Outlet,,,,37.9755488,-120.378671,,,n_3441671975,"shop=supermarket, brand=Grocery Outlet"
+"Greeley Hill, CA",,retail,445110,Safeway,"1291 Sanguinetti Road, Sonora, CA, 95370",+1 209-533-7810,https://local.safeway.com/safeway/ca/sonora/1291-sanguinetti-rd.html,37.9737519,-120.3620445,,,n_3441680643,"shop=supermarket, brand=Safeway"
+"Greeley Hill, CA",,retail,445120,R&L Mini Mart,,,,38.0273049,-120.4056947,,,n_4216515130,shop=convenience
+"Greeley Hill, CA",,retail,445120,Chinese Camp Store,"13750 Highway 120, Jamestown, 95327",,https://www.facebook.com/Chinese-Camp-Store-600940963279055/,37.8730241,-120.4327996,,,n_4243030189,shop=convenience
+"Greeley Hill, CA",,retail,445120,Crane Flat Service Station & General Store,,,,37.7530911,-119.79701,,,n_4469497411,shop=convenience
+"Greeley Hill, CA",,retail,445110,Mar-Val's Main Street Market,"Main Street, Groveland, CA, 95321",,,37.8403301,-120.224262,,,n_4585618692,shop=supermarket
+"Greeley Hill, CA",,retail,445292,Yosemite Sweet Tooth,,,,37.4845705,-119.9650703,,,n_4643608878,shop=confectionery
+"Greeley Hill, CA",,retail,446120,Mariposa Hair Salon,,,,37.4856909,-119.9657276,,,n_4643611861,shop=beauty
+"Greeley Hill, CA",,retail,445120,,"Highway 140, El Portal, CA, 95318",,,37.6786151,-119.7646827,,,n_4814284226,shop=convenience
+"Greeley Hill, CA",,retail,445120,The Oasis Market & Cafe,,,,37.4326323,-120.0981087,,,n_4868818800,"shop=convenience, amenity=cafe"
+"Greeley Hill, CA",,retail,445120,Miner's Mart,,,,37.8224008,-120.2607457,,,n_5009361377,shop=convenience
+"Greeley Hill, CA",,retail,445110,Save Mart,,,,37.9746122,-120.365691,,,n_5581531870,"shop=supermarket, brand=Save Mart"
+"Greeley Hill, CA",,retail,445120,Sweetwater,,,,37.4842237,-119.9644883,,,n_5860100905,shop=convenience
+"Greeley Hill, CA",,retail,445292,Yosemite Fudge Lady,95327,+1 209-984-4346,,37.9543164,-120.4227699,,,n_6639184585,shop=confectionery
+"Greeley Hill, CA",,retail,452210,Stogies Gold Country Lounge,95327,+1 209-984-0584,,37.9530211,-120.4232702,,,n_6639259486,shop=department_store
+"Greeley Hill, CA",,retail,445120,Yosemite Lakes Country Store,,,,37.8158349,-119.9389161,,,n_9061211315,shop=convenience
+"Greeley Hill, CA",,retail,445120,Claim Jumper Outpost,17586 Highway 120,+12099627153,,37.8241086,-120.257524,,,n_9061254575,shop=convenience
+"Greeley Hill, CA",,retail,445120,Evergreen Lodge General Store & Gift Shop,,,https://www.evergreenlodge.com/yosemite-dining/general-store-gift-shop/,37.8756553,-119.8581878,,,n_9215113550,shop=convenience
+"Greeley Hill, CA",,retail,446120,Beauty Nails II,,,,37.9747446,-120.3437622,,,n_10038141047,shop=beauty
+"Greeley Hill, CA",,retail,452210,Kohl's,"13777 Mono Way, Sonora, CA, 95370",+1 209-532-2805,https://www.kohls.com/stores/ca/sonora-1404.shtml,37.9759836,-120.3418115,,,n_10038141089,"shop=department_store, brand=Kohl's"
+"Greeley Hill, CA",,retail,452210,TJ Maxx,,,,37.9751769,-120.3407631,,,n_10038141103,"shop=department_store, brand=TJ Maxx"
+"Greeley Hill, CA",,retail,453991,,,,,37.9742319,-120.3439279,,,n_10297593900,shop=tobacco
+"Greeley Hill, CA",,retail,452210,Big Lots,"1141 Sanguinetti Road, Sonora, CA, 95370",+1 209-533-1810,https://local.biglots.com/ca/sonora/1141-sanguinetti-rd,37.9722544,-120.3640587,,,n_10297593904,"shop=department_store, brand=Big Lots"
+"Greeley Hill, CA",,retail,445310,Twain Harte Liquor,,,,38.0392943,-120.2300913,,,n_10297691326,shop=alcohol
+"Greeley Hill, CA",,retail,445120,ampm,,,,37.9770525,-120.3163252,,,n_10297755173,"shop=convenience, brand=ampm"
+"Greeley Hill, CA",,retail,446120,,,,,37.9767109,-120.3240863,,,n_10297755177,shop=beauty
+"Greeley Hill, CA",,retail,452210,Ross,"1025 Mono Way, Sonora, CA, 95370",+1 209-532-1849,,37.9747872,-120.3664454,,,n_10297809014,"shop=department_store, brand=Ross"
+"Greeley Hill, CA",,retail,453991,,,,,37.9758054,-120.3695881,,,n_10297809024,shop=tobacco
+"Greeley Hill, CA",,retail,452319,Dollar Tree,,,,37.9747249,-120.3713488,,,n_10297809025,"shop=variety_store, brand=Dollar Tree"
+"Greeley Hill, CA",,retail,445110,Wilco,,,,37.975235,-120.3704805,,,n_10297809026,"shop=supermarket, brand=Wilco"
+"Greeley Hill, CA",,retail,445210,Rawhide Quality Meats,"18256 Highway 108, Jamestown, CA, 95327",+1-209-984-3609,,37.9534705,-120.4251454,,,n_10297824294,shop=butcher
+"Greeley Hill, CA",,retail,453991,,,,,37.9755862,-120.3629748,,,n_11077911094,shop=tobacco
+"Greeley Hill, CA",,retail,445292,,,,,37.9744041,-120.3406923,,,n_11077956811,shop=confectionery
+"Greeley Hill, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/sonora/2122/,37.9746406,-120.3406527,,,n_11077956812,"shop=variety_store, brand=Dollar Tree"
+"Greeley Hill, CA",,retail,445310,The Independent Wine Co.,,,,37.9851974,-120.3830738,,,n_11978776205,shop=wine
+"Greeley Hill, CA",,retail,445292,The Candy Vault,,,,37.9847575,-120.383072,,,n_12018233373,shop=confectionery
+"Greeley Hill, CA",,retail,445210,Kevin and Randi's Old Fashioned Meat Market,,,,37.8381246,-120.2314327,,,n_12180678132,shop=butcher
+"Greeley Hill, CA",,retail,445120,Xpress Mart,,,,37.8401149,-120.225044,,,n_12180684331,shop=convenience
+"Greeley Hill, CA",,retail,446120,Rush Creek Spa,,,,37.812643,-119.8819636,,,n_12180938025,shop=beauty
+"Greeley Hill, CA",,retail,445120,Columbia Market and Deli,"22620 Parrotts Ferry Rd., Columbia, CA, 95310",(209) 532-7511,,38.0325055,-120.4052803,,,n_12466229335,shop=convenience
+"Greeley Hill, CA",,retail,445110,Walmart Supercenter,"1101 Sanguinetti Road, Sonora, CA, 95370",+1 209-533-2617,https://www.walmart.com/store/2030-sonora-ca,37.9717067,-120.3656774,,,w_128898359,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Greeley Hill, CA",,retail,445120,Trading Post,,,,37.7020395,-120.4046335,,,w_170523391,shop=convenience
+"Greeley Hill, CA",,retail,445110,Pioneer Market,,,,37.4884852,-119.9718514,,,w_178548438,shop=supermarket
+"Greeley Hill, CA",,retail,446110,Rite Aid,"4994 Joe Howard Street, Mariposa, CA, 95338",+1-209-742-7600,https://www.riteaid.com/locations/ca/mariposa/4994-joe-howard-street.html,37.4919638,-119.9741492,,,w_178548441,"shop=chemist, brand=Rite Aid"
+"Greeley Hill, CA",,retail,445120,Midpines Country Store,,,,37.5513941,-119.9234457,,,w_227744524,shop=convenience
+"Greeley Hill, CA",,retail,445120,Cathey's Valley Food & Gas,,,,37.4310786,-120.0984525,,,w_227744529,shop=convenience
+"Greeley Hill, CA",,retail,445110,Barendregt's Grocery,,,,37.9528838,-120.4228794,,,w_247240485,shop=supermarket
+"Greeley Hill, CA",,retail,445120,Kwik Serve,,,,37.9516852,-120.4242057,,,w_256327232,shop=convenience
+"Greeley Hill, CA",,retail,445310,Gianelli Vineyards Wine Tasting Room,"18158 Main Street, Jamestown, 95327",+1 209 984-1500,https://gianellivineyards.com/tasting-room/,37.9523036,-120.4237777,,,w_256327237,shop=wine
+"Greeley Hill, CA",,retail,445110,Save Mart,,,,37.9833652,-120.3842222,,,w_290892064,"shop=supermarket, brand=Save Mart"
+"Greeley Hill, CA",,retail,445110,Greeley Hill Market,"6386 Greeley Hill Road, Coulterville, CA, 95311",209-878-0441,,37.7417262,-120.1316715,,,w_414459277,shop=supermarket
+"Greeley Hill, CA",,retail,445110,High Country Health Food Store & Cafe,"5186 Highway 49, Mariposa, CA, 95338",,highcountryhealthfoods.com,37.4931273,-119.9744951,,,w_417225039,shop=supermarket
+"Greeley Hill, CA",,retail,445120,General Store,,,,37.8830545,-119.8556103,,,w_444939205,shop=convenience
+"Greeley Hill, CA",,retail,452319,Stage Stop Mini Mart,"5099 Central Yosemite Highway, Mariposa, CA, 95338",,,37.4885152,-119.9696594,,,w_457828569,"shop=general, amenity=fast_food"
+"Greeley Hill, CA",,retail,445120,El Portal Market,"10913 Central Yosemite Highway (CA-140), El Portal, CA, 95318",,,37.6746522,-119.7821847,,,w_470135473,shop=convenience
+"Greeley Hill, CA",,retail,445120,,"317 South Washington Street, Sonora, 95370",,,37.9811266,-120.3816643,,,w_551963307,shop=convenience
+"Greeley Hill, CA",,retail,445120,,"331 South Washington Street, Sonora, 95370",,,37.9807514,-120.3814491,,,w_551964212,shop=convenience
+"Greeley Hill, CA",,retail,445120,Rivian,18707 Main Street,,https://rivian.com/spaces/yosemite,37.8384403,-120.2309788,,,w_552851054,"shop=convenience, brand=Rivian, operator=Rivian"
+"Greeley Hill, CA",,retail,445292,Brown's Coffee House,"11212 Main Street, Columbia, 95310",,,38.03511,-120.4009858,,,w_554768280,shop=confectionery
+"Greeley Hill, CA",,retail,445292,Columbia Candy Kitchen,"22734 Main Street, Columbia, 95310",,,38.0346002,-120.4011143,,,w_554768289,shop=confectionery
+"Greeley Hill, CA",,retail,445110,,"24559 STATE HIGHWAY 108, MI-WUK VILLAGE, 95346",,,38.0670448,-120.1884403,,,w_554938498,shop=supermarket
+"Greeley Hill, CA",,retail,445120,Bear Creek Station,,,,37.9709039,-120.2390982,,,w_557840632,shop=convenience
+"Greeley Hill, CA",,retail,446191,Nature’s Whole Food Depot,"19073 Standard Road, Sonora, CA, 95370",+1-209-532-8878,https://natureswholefooddepot.com/,37.9703757,-120.31397,,,w_582644574,shop=health_food
+"Greeley Hill, CA",,retail,445120,Chevron,"18151 State Highway 108, Jamestown, CA, 95327",,,37.9525005,-120.4242486,,,w_582664453,"shop=convenience, brand=Chevron"
+"Greeley Hill, CA",,retail,445120,ampm,"15 Pesce Way, Sonora, 95370",,,37.9942123,-120.3841436,,,w_582668569,"shop=convenience, brand=ampm"
+"Greeley Hill, CA",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ca/sonora/15467,37.9966112,-120.2688206,,,w_583818102,"shop=variety_store, brand=Dollar General"
+"Greeley Hill, CA",,retail,445120,,,,,37.4889628,-119.8122365,,,w_675104593,shop=convenience
+"Greeley Hill, CA",,retail,452319,Dollar General,18300 State Highway 108,,https://www.dollargeneral.com/store-directory/ca/jamestown/14538,37.9545072,-120.4249049,,,w_900979342,"shop=variety_store, brand=Dollar General, operator=Satellite Healthcare"

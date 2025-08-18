@@ -1,0 +1,148 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Edison, CA",,retail,445120,,,,,35.2663663,-118.915147,,,n_1659685749,shop=convenience
+"Edison, CA",,retail,445120,Fastrip,,,,35.26166,-118.9140134,,,n_1659685781,shop=convenience
+"Edison, CA",,retail,445110,County Fair Market,,,,35.2603549,-118.913783,,,n_1659685806,shop=supermarket
+"Edison, CA",,retail,445120,,,,,35.2598991,-118.9149977,,,n_1659685812,shop=convenience
+"Edison, CA",,retail,445120,Mobil Mart,"2 Oak Street, 93304",,,35.3544159,-119.038598,,,n_2252356588,"shop=convenience, brand=Mobil Mart"
+"Edison, CA",,retail,445120,7-Eleven,"820 Wilson Avenue, Bakersfield, CA, 93308-3239",+1 661-393-1982,https://www.7-eleven.com/locations/ca/bakersfield/820-wilson-ave-16946,35.4174572,-119.038637,,,n_3246986191,"shop=convenience, brand=7-Eleven"
+"Edison, CA",,retail,445120,Deli Mart,,,,35.3837463,-119.0752537,,,n_3466886616,shop=convenience
+"Edison, CA",,retail,445110,Walmart Neighborhood Market,"5037 East Brundage Lane, Bakersfield, CA, 93307",+1 661-448-8147,https://www.walmart.com/store/3141-bakersfield-ca,35.3533911,-118.947655,,,n_4093403024,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Edison, CA",,retail,445230,Murray Family Farms,,,https://www.murrayfamilyfarms.org/,35.2949141,-118.753957,,,n_4938688126,shop=greengrocer
+"Edison, CA",,retail,445110,Walmart Neighborhood Market,"3111 North Chester, Bakersfield, CA, 93308",+1 661-368-7010,https://www.walmart.com/store/3140-bakersfield-ca,35.434523,-119.022288,,,n_5315598905,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Edison, CA",,retail,445110,Walmart Neighborhood Market,"1249 Allen Road, Bakersfield, CA, 93314",+1 661-535-6373,https://www.walmart.com/store/3139-bakersfield-ca,35.3701262,-119.1474617,,,n_5315598907,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Edison, CA",,retail,445110,Walmart Neighborhood Market,"5625 Calloway Drive, Bakersfield, CA, 93312",+1 661-368-7065,https://www.walmart.com/store/3138-bakersfield-ca,35.411874,-119.112528,,,n_5315598908,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Edison, CA",,retail,445110,Walmart Supercenter,"2601 Fashion Place, Bakersfield, CA, 93306",+1 661-873-7120,https://www.walmart.com/store/1624-bakersfield-ca,35.391531,-118.960829,,,n_5315601366,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Edison, CA",,retail,452210,Kohl's,"5385 Gosford Road, Bakersfield, CA, 93313",+1 661-664-7410,https://www.kohls.com/stores/ca/bakersfield-713.shtml,35.306215,-119.0954709,,,n_6384117044,"shop=department_store, brand=Kohl's"
+"Edison, CA",,retail,445310,,,,,35.3541918,-119.0218315,,,n_6783209462,shop=alcohol
+"Edison, CA",,retail,452210,Ross,"3761 Ming Avenue, Bakersfield, CA, 93309",+1 661-835-7523,,35.3386425,-119.0451006,,,n_7880432227,"shop=department_store, brand=Ross"
+"Edison, CA",,retail,445110,FoodMaxx,,,,35.3412164,-119.051032,,,n_7880432228,"shop=supermarket, brand=FoodMaxx"
+"Edison, CA",,retail,445110,Robert's Market,,,,35.3418772,-118.9316768,,,n_8229031554,shop=supermarket
+"Edison, CA",,retail,445120,Speedway,"2023 Mettler Frontage Road West, Bakersfield, CA, 93313",,https://www.speedway.com/locations/CA/Bakersfield/2023-METTLER-FRONTAGE-RD-W,35.0606684,-118.9694666,,,n_8846897795,"shop=convenience, brand=Speedway"
+"Edison, CA",,retail,445120,Speedway,"8200 Kimber Avenue, Bakersfield, CA, 93307",,https://www.speedway.com/locations/CA/Bakersfield/8200-KIMBER-AVE,35.3512226,-118.9132,,,n_9178725741,"shop=convenience, brand=Speedway"
+"Edison, CA",,retail,445120,,,,,35.375842,-118.9138149,,,n_9571829824,shop=convenience
+"Edison, CA",,retail,446191,Apple Tree Health Food,"1910 North Chester Avenue, 93308",+16613936287,,35.4235872,-119.0207236,,,n_10027875017,shop=health_food
+"Edison, CA",,retail,452210,Ross,"9000 Rosedale Highway, Bakersfield, CA, 93312",+1 661-587-0627,,35.3854445,-119.1017748,,,n_10236770746,"shop=department_store, brand=Ross"
+"Edison, CA",,retail,445110,Smart & Final Extra!,,,,35.3855515,-119.1119803,,,n_10236770751,"shop=supermarket, brand=Smart & Final"
+"Edison, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/bakersfield/2759/,35.3843229,-119.1119019,,,n_10236770753,"shop=variety_store, brand=Dollar Tree"
+"Edison, CA",,retail,453991,Shafter Tobacco Shop,"701 Central Valley Highway, Shafter, CA, 93263",(661) 746-3977,,35.5010135,-119.2726744,,,n_10746993475,shop=tobacco
+"Edison, CA",,retail,446191,First Step Nutrition,"300 State Avenue, Shafter, CA, 93263",(661) 746-6509,https://www.shopfirststep.com/,35.500417,-119.2734339,,,n_10747152330,shop=health_food
+"Edison, CA",,retail,452210,Ross,"5253 Gosford Road, Bakersfield, CA, 93313",+1 661-663-9800,,35.3070104,-119.0951173,,,n_11018699233,"shop=department_store, brand=Ross"
+"Edison, CA",,retail,445120,,,,,35.2957066,-119.0750516,,,n_11018699238,shop=convenience
+"Edison, CA",,retail,446110,CVS Pharmacy,,,,35.3404063,-119.1286888,,,n_11104910568,"shop=chemist, brand=CVS Pharmacy"
+"Edison, CA",,retail,445210,,,,,35.3411921,-119.129759,,,n_11104910571,shop=butcher
+"Edison, CA",,retail,452210,Target,"11000 Stockdale Highway, Bakersfield, CA, 93311-3635",+1 661-617-3657,https://www.target.com/sl/bakersfield-west/2715,35.3501747,-119.1247521,,,n_11104910572,"shop=department_store, brand=Target"
+"Edison, CA",,retail,445110,Albertsons,"2691 Mount Vernon Avenue, Bakersfield, CA, 93306",+1 661-872-3511,https://local.albertsons.com/ca/bakersfield/2691-mt-vernon-ave.html,35.3961086,-118.9659554,,,n_11651078051,"shop=supermarket, brand=Albertsons"
+"Edison, CA",,retail,445110,Sprouts Farmers Market,"3535 Panama Lane, Bakersfield, CA, 93313",+1 661-539-3501,https://www.sprouts.com/store/ca/bakersfield/panama-ln/,35.294601,-119.041661,,,n_11651078053,"shop=supermarket, brand=Sprouts Farmer Market"
+"Edison, CA",,retail,445110,Albertsons,"7900 White Lane, Bakersfield, CA, 93309",+1 661-836-9691,https://local.albertsons.com/ca/bakersfield/7900-white-ln.html,35.3192809,-119.0902668,,,n_11651078054,"shop=supermarket, brand=Albertsons"
+"Edison, CA",,retail,445110,Trader Joe's,"8200 Stockdale Highway, Bakersfield, CA, 93311",+1 661-837-8863,https://locations.traderjoes.com/ca/bakersfield/14/,35.3570306,-119.0933723,,,n_11651078055,"shop=supermarket, brand=Trader Joe's"
+"Edison, CA",,retail,445110,Sprouts Farmers Market,"10650 Stockdale Highway, Bakersfield, CA, 93311",+1 661-617-8957,https://www.sprouts.com/store/ca/bakersfield/stockdale-hwy/,35.3516587,-119.1219319,,,n_11651078056,"shop=supermarket, brand=Sprouts Farmer Market"
+"Edison, CA",,retail,445110,Albertsons,"13045 Rosedale Highway, Bakersfield, CA, 93314",+1-661-587-0153,https://local.albertsons.com/ca/bakersfield/13045-rosedale-hwy.html,35.3820332,-119.1463628,,,n_11651078057,"shop=supermarket, brand=Albertsons"
+"Edison, CA",,retail,446110,Walgreens,,,,35.3246673,-119.1272783,,,n_11773669899,"shop=chemist, brand=Walgreens"
+"Edison, CA",,retail,452210,Target,"2901 Ming Avenue, Bakersfield, CA, 93304-4144",+1 661-617-2000,https://www.target.com/sl/bakersfield-central/2524,35.3366157,-119.0360011,,,n_11774379867,"shop=department_store, brand=Target"
+"Edison, CA",,retail,452210,Macy's,,,,35.3381998,-119.0318061,,,n_11774379868,"shop=department_store, brand=Macy's"
+"Edison, CA",,retail,452210,JCPenney,,,,35.3367557,-119.0314377,,,n_11774421069,"shop=department_store, brand=JCPenney"
+"Edison, CA",,retail,445210,,,,,35.3025675,-119.0564177,,,n_11775520497,shop=butcher
+"Edison, CA",,retail,453991,Royal Smoke,"35315 Merle Haggard Drive, Bakersfield, CA, 93308",,,35.4409509,-119.0734565,,,n_11872651622,shop=tobacco
+"Edison, CA",,retail,445120,Sully's,,,,35.3401363,-119.1301359,,,n_11933148736,shop=convenience
+"Edison, CA",,retail,445110,Los Reyes Market,,,,35.321553,-119.0047212,,,n_11937269278,shop=supermarket
+"Edison, CA",,retail,445120,Sully's,"250 Coffee Road, Bakersfield, CA, 93309",,,35.3569466,-119.091836,,,n_12065367764,shop=convenience
+"Edison, CA",,retail,445292,Dewar's Candy,"2700 Calloway Drive, 93312",,https://dewarscandy.com/,35.3845734,-119.1095056,,,n_12582268601,shop=confectionery
+"Edison, CA",,retail,446120,Diamond Nails & Lashes,"16123 Stockdale Highway, Bakersfield, CA, 93314",+1-661-829-5061,,35.3533059,-119.1814693,,,n_12602307247,shop=beauty
+"Edison, CA",,retail,445110,Wood-Dale Meat Market,"16137 Stockdale Highway, Bakersfield, CA, 93314",,,35.3531067,-119.1817875,,,n_12602326940,shop=supermarket
+"Edison, CA",,retail,445120,Sully's,"16101 Stockdale Highway, Bakersfield, CA, 93314",,,35.3540625,-119.1815109,,,n_12614963747,shop=convenience
+"Edison, CA",,retail,445120,Countryside Market,,,,35.4070406,-118.8600254,,,n_12705215866,shop=convenience
+"Edison, CA",,retail,445110,Vons,,,,35.3187802,-119.0268654,,,n_12897021848,"shop=supermarket, brand=Vons"
+"Edison, CA",,retail,445120,,,,,35.3187028,-119.0737886,,,w_59329739,shop=convenience
+"Edison, CA",,retail,445110,FoodMaxx,"1115 Union Avenue, Bakersfield, 93307",+1 661 631 8020,https://locations.foodmaxx.com/ll/US/CA/Bakersfield/1115-Union-Avenue,35.3668526,-119.0035857,,,w_59436474,"shop=supermarket, brand=FoodMaxx"
+"Edison, CA",,retail,445110,Albertsons,"1520 Brundage Lane, Bakersfield, CA, 93304",+1 661-328-0818,https://local.albertsons.com/ca/bakersfield/1520-brundage-ln.html,35.3554796,-119.0195916,,,w_59439705,"shop=supermarket, brand=Albertsons"
+"Edison, CA",,retail,445120,7-Eleven,,,,35.3746204,-119.0033524,,,w_59480057,"shop=convenience, brand=7-Eleven"
+"Edison, CA",,retail,445120,Chevron,,,,35.3039269,-119.0571104,,,w_59522509,"shop=convenience, brand=Chevron"
+"Edison, CA",,retail,445120,Circle K,,,,35.3036342,-119.0560502,,,w_59571992,"shop=convenience, brand=Circle K"
+"Edison, CA",,retail,445110,Vallarta,"8200 Rosedale Highway, Bakersfield, CA, 93312-2150",+1 661-410-5007,https://vallartasupermarkets.com/store-locations/vallarta-supermarkets-local-grocery-store-in-bakersfield-53-rosedale-hwy/,35.3857835,-119.0933477,,,w_59591494,"shop=supermarket, brand=Vallarta"
+"Edison, CA",,retail,452210,Kohl's,"9400 Rosedale Highway, Bakersfield, CA, 93312",+1 661-588-4535,https://www.kohls.com/stores/ca/bakersfield-702.shtml,35.3847317,-119.1071061,,,w_59591608,"shop=department_store, brand=Kohl's"
+"Edison, CA",,retail,452210,Target,"9100 Rosedale Highway, Bakersfield, CA, 93312-2143",+1 661-589-0554,https://www.target.com/sl/bakersfield-nw/1384,35.3856756,-119.1031441,,,w_59592683,"shop=department_store, brand=Target"
+"Edison, CA",,retail,452319,Dollar Tree,"2505 South H Street, 93304",,https://www.dollartree.com/locations/ca/bakersfield/1262/,35.3317267,-119.0229521,,,w_59592929,"shop=variety_store, brand=Dollar Tree"
+"Edison, CA",,retail,445110,Vons,"9000 Ming Avenue, Bakersfield, CA, 93311",+1 661-663-0595,https://local.vons.com/ca/bakersfield/9000-ming-ave.html,35.3416331,-119.1025678,,,w_59593057,"shop=supermarket, brand=Vons"
+"Edison, CA",,retail,452210,Ross,"4300 California Avenue, Bakersfield, CA, 93309-1018",+1 661-324-5033,,35.3692655,-119.0498795,,,w_59593183,"shop=department_store, brand=Ross"
+"Edison, CA",,retail,445110,Walmart Supercenter,"8400 Rosedale Highway, Bakersfield, CA, 93312",+1 661-588-2097,https://www.walmart.com/store/2557-bakersfield-ca,35.3863514,-119.0956989,,,w_59593253,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Edison, CA",,retail,446110,Walgreens,"4306 Ming Avenue, Bakersfield, CA, 93309",,https://www.walgreens.com/locator/walgreens-4306+ming+ave-bakersfield-ca-93309/id=6756,35.3403569,-119.0507098,,,w_59593295,"shop=chemist, brand=Walgreens"
+"Edison, CA",,retail,446120,Ulta Beauty,"9280 Rosedale Highway, Bakersfield, CA, 93312",+1 661-498-8283,https://www.ulta.com/stores/bakersfield-ca-1639,35.3859528,-119.1053936,,,w_59593472,"shop=beauty, brand=Ulta Beauty"
+"Edison, CA",,retail,445110,Rite Aid,,,,35.3415199,-119.1015615,,,w_59593745,shop=supermarket
+"Edison, CA",,retail,452210,Burlington,"4400 California Avenue, Bakersfield, CA, 93309-1102",+1 661-326-0437,https://stores.burlington.com/ca/bakersfield/544,35.3693672,-119.0514032,,,w_59593890,"shop=department_store, brand=Burlington"
+"Edison, CA",,retail,445110,Albertsons,"8200 East Stockdale Highway, Bakersfield, CA, 93311",+1 661-833-6071,https://local.albertsons.com/ca/bakersfield/8200-e-stockdale-hwy.html,35.3560698,-119.0940512,,,w_59593915,"shop=supermarket, brand=Albertsons"
+"Edison, CA",,retail,445110,Rancho Market,,,,35.3301871,-119.0229205,,,w_59594035,shop=supermarket
+"Edison, CA",,retail,446110,CVS Pharmacy,,,,35.3228295,-119.0552219,,,w_59595966,"shop=chemist, brand=CVS Pharmacy"
+"Edison, CA",,retail,445110,Smart & Final,,,,35.3896919,-119.0254141,,,w_59596170,"shop=supermarket, brand=Smart & Final"
+"Edison, CA",,retail,445110,,,,,35.353305,-119.0277699,,,w_59596605,shop=supermarket
+"Edison, CA",,retail,445110,FoodMaxx,,,,35.3194108,-119.0727353,,,w_59597848,"shop=supermarket, brand=FoodMaxx"
+"Edison, CA",,retail,445110,Dollar General Market,"2900 Niles Street, Bakersfield, CA, 93306",,https://www.dollargeneral.com/store-directory/ca/bakersfield/13226,35.3772605,-118.9537975,,,w_59690396,"shop=supermarket, brand=Dollar General"
+"Edison, CA",,retail,445120,,,,,35.368366,-119.0930282,,,w_59690398,shop=convenience
+"Edison, CA",,retail,445120,Mobil Mart,,,,35.3538019,-119.1461845,,,w_59692852,"shop=convenience, brand=Mobil Mart"
+"Edison, CA",,retail,445120,,,,,35.3176206,-119.0915019,,,w_59693709,shop=convenience
+"Edison, CA",,retail,445120,Chevron,,,,35.3548046,-119.1461564,,,w_59694425,"shop=convenience, brand=Chevron"
+"Edison, CA",,retail,445120,7-Eleven,,,,35.2962848,-119.0276377,,,w_59695672,"shop=convenience, brand=7-Eleven"
+"Edison, CA",,retail,445110,Smart & Final,,,,35.3555152,-119.057298,,,w_59727184,"shop=supermarket, brand=Smart & Final"
+"Edison, CA",,retail,445110,Save Mart,,,,35.3999103,-119.108495,,,w_59730514,"shop=supermarket, brand=Save Mart"
+"Edison, CA",,retail,445110,ALDI,"5190 Stockdale Highway, Bakersfield, CA, 93309-2671",+1 661-335-6139,https://stores.aldi.us/ca/bakersfield/5190-stockdale-hwy,35.3557651,-119.0594778,,,w_59731048,"shop=supermarket, brand=ALDI"
+"Edison, CA",,retail,445110,,,,,35.3547647,-119.0373014,,,w_59731381,shop=supermarket
+"Edison, CA",,retail,445110,Albertsons,"3500 Panama Lane, Bakersfield, CA, 93313",+1 661-827-0394,https://local.albertsons.com/ca/bakersfield/3500-panama-ln.html,35.2966785,-119.0413801,,,w_59731604,"shop=supermarket, brand=Albertsons"
+"Edison, CA",,retail,445120,ampm,,,,35.3826889,-119.0889507,,,w_59732130,"shop=convenience, brand=ampm"
+"Edison, CA",,retail,445110,Food 4 Less,,,,35.3975163,-119.0166251,,,w_59732967,"shop=supermarket, brand=Food 4 Less"
+"Edison, CA",,retail,445110,Food Co,,,,35.3159625,-119.0228413,,,w_59732970,shop=supermarket
+"Edison, CA",,retail,445110,Grocery Outlet,,,,35.3338702,-119.0727239,,,w_59733046,"shop=supermarket, brand=Grocery Outlet"
+"Edison, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-9550+hageman+rd-bakersfield-ca-93312/id=6526,35.3986835,-119.1084182,,,w_59733089,"shop=chemist, brand=Walgreens"
+"Edison, CA",,retail,445110,Foods Co,,,,35.3945133,-118.9743328,,,w_59788655,"shop=supermarket, brand=Foods Co"
+"Edison, CA",,retail,452210,Target,"3401 Mall View Road, Bakersfield, CA, 93306-3060",+1 661-872-9929,https://www.target.com/sl/bakersfield-ne/614,35.3940068,-118.9549504,,,w_59792530,"shop=department_store, brand=Target"
+"Edison, CA",,retail,445110,,,,,35.398849,-118.9515561,,,w_59795363,shop=supermarket
+"Edison, CA",,retail,452210,Big Lots,"2621 Fashion Place, Bakersfield, CA, 93306",+1 661-871-1546,https://local.biglots.com/ca/bakersfield/2621-fashion-pl,35.3921961,-118.9589137,,,w_59798122,"shop=department_store, brand=Big Lots"
+"Edison, CA",,retail,445110,Albertsons,"6045 Coffee Road, Bakersfield, CA, 93308",+1 661-587-2870,https://local.albertsons.com/ca/bakersfield/6045-coffee-rd.html,35.4139481,-119.0941067,,,w_59798136,"shop=supermarket, brand=Albertsons"
+"Edison, CA",,retail,445120,ampm,"4800 Fairfax Road, Bakersfield, 93306",,,35.3973275,-118.9304417,,,w_59814935,"shop=convenience, brand=ampm"
+"Edison, CA",,retail,445110,Walmart Supercenter,"6225 Colony Street, Bakersfield, CA, 93307",+1 661-398-7297,https://www.walmart.com/store/1574-bakersfield-ca,35.2987519,-119.029375,,,w_59822569,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Edison, CA",,retail,445120,ampm,,,,35.3399193,-119.0383506,,,w_59889938,"shop=convenience, brand=ampm"
+"Edison, CA",,retail,445110,,,,,35.3028797,-119.0006396,,,w_59974293,shop=supermarket
+"Edison, CA",,retail,445110,,,,,35.3014562,-118.9939755,,,w_59982360,shop=supermarket
+"Edison, CA",,retail,445110,,,,,35.3951536,-118.9938198,,,w_60016644,shop=supermarket
+"Edison, CA",,retail,445120,Samco,,,,35.3681979,-119.0391275,,,w_60019607,shop=convenience
+"Edison, CA",,retail,445110,Stop & Shop Market,"1007 East Brundage Lane, Bakersfield, 93307",+1-661-335-0500,,35.353664,-118.9927298,,,w_60023339,shop=supermarket
+"Edison, CA",,retail,445110,,,,,35.4144312,-119.0297515,,,w_60030075,shop=supermarket
+"Edison, CA",,retail,445110,,,,,35.3937298,-118.9873611,,,w_60030264,shop=supermarket
+"Edison, CA",,retail,445110,,,,,35.4201289,-119.03207,,,w_60056821,shop=supermarket
+"Edison, CA",,retail,445110,,,,,35.3253418,-119.0394374,,,w_60061385,shop=supermarket
+"Edison, CA",,retail,445110,,,,,35.3989612,-118.9856327,,,w_60086634,shop=supermarket
+"Edison, CA",,retail,445110,Vons,"5700 Stockdale Highway, Bakersfield, CA, 93309",+1 661-328-6950,https://local.vons.com/ca/bakersfield/5700-stockdale-hwy.html,35.3554627,-119.0650064,,,w_131286296,"shop=supermarket, brand=Vons"
+"Edison, CA",,retail,445110,Vons,"4500 Coffee Road, Bakersfield, CA, 93308",+1 661-589-0316,https://local.vons.com/ca/bakersfield/4500-coffee-rd.html,35.4001794,-119.0903406,,,w_131286655,"shop=supermarket, brand=Vons"
+"Edison, CA",,retail,452319,Dollar Tree,"5360 Olive Drive, 93308",,https://www.dollartree.com/locations/ca/bakersfield/1255/,35.4133856,-119.0609682,,,w_131286734,"shop=variety_store, brand=Dollar Tree"
+"Edison, CA",,retail,445110,Vallarta,,,,35.2944976,-119.0189039,,,w_155250865,"shop=supermarket, brand=Vallarta"
+"Edison, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/bakersfield-ca-pharmacies/5184-stockdale-hwy-bakersfield-ca-93309/storeid=5495,35.3546583,-119.0591715,,,w_155512683,"shop=chemist, brand=CVS Pharmacy"
+"Edison, CA",,retail,446110,Walgreens,BUILDING,,,35.3096937,-119.0928403,,,w_175390863,"shop=chemist, brand=Walgreens"
+"Edison, CA",,retail,445110,Walmart Supercenter,"5075 Gosford Road, Bakersfield, CA, 93313",+1 661-282-3099,https://www.walmart.com/store/5134-bakersfield-ca,35.3088562,-119.0954944,,,w_175391142,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Edison, CA",,retail,445120,,,,,35.266415,-119.023792,,,w_190559136,shop=convenience
+"Edison, CA",,retail,445120,Shell,,,,34.991989,-118.9412058,,,w_219298421,"shop=convenience, brand=Shell"
+"Edison, CA",,retail,445120,Flying J Travel Center,"17047 Zachary Avenue, Bakersfield, CA, 93263",,https://locations.pilotflyingj.com/us/ca/bakersfield/17047-zachary-ave,35.5312775,-119.1880036,,,w_230491575,shop=convenience
+"Edison, CA",,retail,445120,,,,,35.2674657,-119.2275877,,,w_249605799,shop=convenience
+"Edison, CA",,retail,445110,WinCo Foods,,,,35.2949384,-119.0781794,,,w_253567663,"shop=supermarket, brand=WinCo Foods"
+"Edison, CA",,retail,445120,,,,,35.2666763,-119.2533625,,,w_304002375,shop=convenience
+"Edison, CA",,retail,445120,,,,,35.3980523,-118.8799732,,,w_312003616,shop=convenience
+"Edison, CA",,retail,445110,Robert's Market,"1467 South Fairfax Road, Bakersfield, CA, 93307",,,35.3418511,-118.9316811,,,w_884912885,shop=supermarket
+"Edison, CA",,retail,445110,Aldi,"2120 Panama Lane, Bakersfield, CA, 93307-6536",+1 661-505-6963,https://stores.aldi.us/ca/bakersfield/2120-panama-ln,35.2968542,-119.0261651,,,w_935016843,"shop=supermarket, brand=Aldi"
+"Edison, CA",,retail,445120,ampm,"451 East Lerdo Highway, Shafter, CA, 93263",,,35.4994209,-119.2706953,,,w_1093912763,"shop=convenience, brand=ampm"
+"Edison, CA",,retail,452319,Dollar General,"337 East Lerdo Highway, Shafter, CA, 93263",,https://www.dollargeneral.com/store-directory/ca/shafter/14107,35.4995778,-119.2719306,,,w_1093912764,"shop=variety_store, brand=Dollar General"
+"Edison, CA",,retail,445210,La Carne Meat market,"327 State Avenue, Shafter, CA, 93263",,,35.5010898,-119.2735568,,,w_1101307194,shop=butcher
+"Edison, CA",,retail,446110,Shafter Pharmacy,"825 Central Valley Highway, Shafter, CA, 93263",,,35.500154,-119.2716436,,,w_1101340077,shop=chemist
+"Edison, CA",,retail,445120,Chevron,"863 Central Valley Highway, Shafter, CA, 93263",,,35.5000386,-119.2713146,,,w_1101340078,"shop=convenience, brand=Chevron"
+"Edison, CA",,retail,445120,The Corner Market,"6000 East Lerdo Highway, Shafter, CA, 93263",,https://thecornermarket.com/,35.5003786,-119.1695084,,,w_1105378517,shop=convenience
+"Edison, CA",,retail,445120,Shell,,,,35.5002364,-119.2632602,,,w_1106720136,"shop=convenience, brand=Shell"
+"Edison, CA",,retail,445120,,,,,35.2095081,-118.8416543,,,w_1113237332,shop=convenience
+"Edison, CA",,retail,445120,Chevron,,,,35.0599639,-119.0055444,,,w_1116919251,"shop=convenience, brand=Chevron"
+"Edison, CA",,retail,446110,Rite Aid,,,https://www.riteaid.com/locations/ca/bakersfield/9700-panama-lane.html,35.2967423,-119.1107968,,,w_1119287370,"shop=chemist, brand=Rite Aid"
+"Edison, CA",,retail,445120,,"538 Central Avenue, Shafter, CA, 93263",,,35.5040387,-119.2723443,,,w_1125026829,"shop=convenience, operator=Jiffy's Food STore"
+"Edison, CA",,retail,445110,Smart & Final,,,,35.3928047,-118.9691713,,,w_1135310401,"shop=supermarket, brand=Smart & Final"
+"Edison, CA",,retail,445120,Colony Market,"18699 Beech Avenue, Shafter, CA, 93263",+16617460506,,35.4709796,-119.2612186,,,w_1158030800,shop=convenience
+"Edison, CA",,retail,445120,Shafter Family Discount,"18470 Shafter Avenue, Shafter, CA, 93263",,,35.4801902,-119.2782913,,,w_1163424065,shop=convenience
+"Edison, CA",,retail,445120,Chevron,"31109 7th Standard Road, Shafter, CA, 93263",,,35.441104,-119.2505405,,,w_1164542632,"shop=convenience, brand=Chevron"
+"Edison, CA",,retail,445120,Countryside Market & Restuarants,"31110 7th Standard Road, Shafter, CA, 93263",,,35.4422008,-119.2512878,,,w_1164547305,shop=convenience
+"Edison, CA",,retail,445120,Chevron,"6600 East Lerdo Highway, Shafter, CA, 93263",,,35.5001226,-119.1610529,,,w_1183730852,"shop=convenience, brand=Chevron"
+"Edison, CA",,retail,445120,Smith's Corner Mini Mart,"18487 Shafter Avenue, Shafter, CA, 93263",,,35.4790847,-119.2789283,,,w_1193583430,shop=convenience
+"Edison, CA",,retail,452319,Family Dollar,"2110 Niles Street, Bakersfield, CA, 93305",,,35.3771689,-118.9690224,,,w_1230914157,"shop=variety_store, brand=Family Dollar"
+"Edison, CA",,retail,446110,CVS Pharmacy,"6500 Niles Street, Bakersfield, CA, 93306",,https://www.cvs.com/store-locator/bakersfield-ca-pharmacies/6500-niles-street-bakersfield-ca-93306/storeid=7001,35.3766579,-118.9307755,,,w_1230928880,"shop=chemist, brand=CVS Pharmacy"
+"Edison, CA",,retail,452319,Dollar General,"1811 Morning Drive, Bakersfield, CA, 93306",,https://www.dollargeneral.com/store-directory/ca/bakersfield/17387,35.375394,-118.9135263,,,w_1230929630,"shop=variety_store, brand=Dollar General"

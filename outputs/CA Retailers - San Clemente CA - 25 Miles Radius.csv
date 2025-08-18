@@ -1,0 +1,898 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"San Clemente, CA",,retail,445120,7-Eleven,"20034 Santa Ana Avenue, Costa Mesa, CA, 92626",+1 714-549-0985,https://www.7-eleven.com/locations/ca/costa-mesa/20034-santa-ana-ave-13794,33.6659023,-117.882196,,,n_362643511,"shop=convenience, brand=7-Eleven, operator=7-11"
+"San Clemente, CA",,retail,445120,7-Eleven,"3001 South Bristol Street, Costa Mesa, CA, 92626-3035",+1 714-557-6633,https://www.7-eleven.com/locations/ca/costa-mesa/3001-s-bristol-st-ste-a-27621,33.6803294,-117.886193,,,n_362650936,"shop=convenience, brand=7-Eleven, operator=7-11"
+"San Clemente, CA",,retail,445120,7-Eleven,"675 Paularino Avenue, Costa Mesa, CA, 92626",+1 714-751-4652,https://www.7-eleven.com/locations/ca/costa-mesa/675-paularino-ave-18226,33.6819885,-117.8842168,,,n_363121987,"shop=convenience, brand=7-Eleven, operator=7-11"
+"San Clemente, CA",,retail,445110,Trader Joe's,"4225 Campus Drive, Irvine, CA, 92612",+1 949-509-6138,https://locations.traderjoes.com/ca/irvine/111/,33.6503583,-117.8375537,,,n_364554102,"shop=supermarket, brand=Trader Joe's, operator=Trader Joe's"
+"San Clemente, CA",,retail,445110,Sprouts Farmers Market,"471 College Boulevard, Oceanside, CA, 92057",+1 760-726-7274,https://www.sprouts.com/store/ca/oceanside/college-blvd/,33.244442,-117.291178,,,n_365319442,"shop=supermarket, brand=Sprouts Farmers Market"
+"San Clemente, CA",,retail,445110,El Tigre Foods Warehouse,,,,33.368481,-117.249825,,,n_365319590,shop=supermarket
+"San Clemente, CA",,retail,445110,Albertsons,"3450 Marron Road, Oceanside, CA, 92056",+1 760-729-3468,https://local.albertsons.com/ca/oceanside/3450-marron-rd.html,33.1796149,-117.296568,,,n_365319802,"shop=supermarket, brand=Albertsons"
+"San Clemente, CA",,retail,445120,7-Eleven,"1749 South Coast Highway, Oceanside, CA, 92054-5319",+1 760-433-6505,https://www.7-eleven.com/locations/ca/oceanside/1749-south-coast-hwy-26190,33.175353,-117.362651,,,n_365328183,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,445120,7-Eleven,"711 Oceanside Bvd, Oceanside, CA, 92054-5225",+1 760-722-9376,https://www.7-eleven.com/locations/ca/oceanside/711-oceanside-bvd-17043,33.18443,-117.367331,,,n_365328215,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/oceanside/4625-frazee-rd-33053,33.2376228,-117.2978689,,,n_365328317,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,445120,7-Eleven,"2255 Mission Avenue, Oceanside, 92058",,,33.2081193,-117.3593736,,,n_365328702,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,445120,7-Eleven,"2850 Thunder Drive, Oceanside, CA, 92056-4239",+1 760-724-0854,https://www.7-eleven.com/locations/ca/oceanside/2850-thunder-dr-13615,33.1951193,-117.2877993,,,n_365328957,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/fallbrook/631-s-main-st-21800,33.37686,-117.251756,,,n_365328969,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,445120,Company of Angels school store,,,,33.6593322,-117.9406137,,,n_506871849,shop=convenience
+"San Clemente, CA",,retail,445120,Circle K,"3361 Mission Avenue, Oceanside, 92058",,,33.217938,-117.341094,,,n_596020924,"shop=convenience, brand=Circle K, operator=Mobil"
+"San Clemente, CA",,retail,445120,Z Mart,"3200 Mission Avenue, Oceanside, 92058",,,33.21384,-117.348235,,,n_596230612,shop=convenience
+"San Clemente, CA",,retail,445110,Major Market Grocery Store,"835 South Main Avenue, Fallbrook, 92028",,,33.3753813,-117.2528639,,,n_596421640,shop=supermarket
+"San Clemente, CA",,retail,445110,,3770 Mission Avenue,,,33.226474,-117.333352,,,n_596526426,shop=supermarket
+"San Clemente, CA",,retail,452210,Target,"443 College Boulevard, Oceanside, CA, 92057-5435",+1 760-666-6778,https://www.target.com/sl/oceanside-east/2871,33.247039,-117.293228,,,n_596802559,"shop=department_store, brand=Target"
+"San Clemente, CA",,retail,452210,Ross,463 College Boulevard,,,33.244313,-117.29247,,,n_596922335,"shop=department_store, brand=Ross"
+"San Clemente, CA",,retail,445120,Express Fuel,"3865 Mission Avenue, Oceanside, 92058",,,33.226623,-117.328069,,,n_597037925,shop=convenience
+"San Clemente, CA",,retail,445120,Chevron,656 Benet Road,,,33.2138869,-117.357021,,,n_597057014,"shop=convenience, brand=Chevron"
+"San Clemente, CA",,retail,445120,7-Eleven,"2985 Via Las Rosas, Oceanside, CA, 92054",+1 760-433-6680,https://www.7-eleven.com/locations/ca/oceanside/2985-via-las-rosas-18159,33.1865582,-117.3286549,,,n_597171590,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,445110,Ralphs,"21751 Lake Forest Drive, Lake Forest, CA, 92630",+1 949-855-1242,https://www.ralphs.com/stores/grocery/ca/lake-forest/heritage-plaza/703/00079,33.6474401,-117.687623,,,n_677280656,"shop=supermarket, brand=Ralphs"
+"San Clemente, CA",,retail,445292,See's Candies,"3501 Pacific Coast Highway, Corona Del Mar, CA, 92625",,https://www.sees.com/,33.5947997,-117.8694223,,,n_711757388,"shop=confectionery, brand=See's Candies"
+"San Clemente, CA",,retail,445310,Dads Liquor,,,,33.4114935,-117.6005667,,,n_725158472,shop=alcohol
+"San Clemente, CA",,retail,446120,Nails By Karen,,,,33.417585,-117.602533,,,n_763985334,"shop=beauty, operator=Karen"
+"San Clemente, CA",,retail,445120,Chevron,,,,33.4671857,-117.699716,,,n_764082286,"shop=convenience, amenity=fuel, brand=Chevron"
+"San Clemente, CA",,retail,445310,Party Time Liquor,"34210 Pacific Coast Highway, Dana Point, CA, 92629",,,33.467574,-117.695648,,,n_764082292,shop=alcohol
+"San Clemente, CA",,retail,445120,7-Eleven,"28933 Crown Valley Parkway, Laguna Niguel, CA, 92677-1514",+1 949-831-9650,https://www.7-eleven.com/locations/ca/laguna-niguel/28933-crown-valley-pkwy-16254,33.5424736,-117.691859,,,n_764896177,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,445110,Albertsons,"27702 Crown Valley Parkway, Ladera Ranch, CA, 92694",+1-949-364-2040,https://local.albertsons.com/ca/ladera-ranch/27702-crown-valley-pkwy-suite-b.html,33.5624303,-117.6461601,,,n_764946394,"shop=supermarket, brand=Albertsons"
+"San Clemente, CA",,retail,445110,Albertsons,"29941 Alicia Parkway, Laguna Niguel, CA, 92677",+1 949-495-1891,https://local.albertsons.com/ca/laguna-niguel/29941-alicia-pkwy.html,33.5282882,-117.717662,,,n_789325432,"shop=supermarket, brand=Albertsons"
+"San Clemente, CA",,retail,445120,Shell,"27882 Aliso Creek Road, Aliso Viejo, CA, 92656",,,33.5582926,-117.7237153,,,n_796698640,"shop=convenience, amenity=fuel, brand=Shell"
+"San Clemente, CA",,retail,445110,Stater Bros.,"24336 El Toro Road, Laguna Woods, CA, 92637",+1 949-598-3235,https://www.staterbros.com/stores/124,33.6081853,-117.7317358,,,n_797948340,"shop=supermarket, brand=Stater Bros."
+"San Clemente, CA",,retail,445110,,,,,33.7646365,-117.4893216,,,n_821736565,shop=grocery
+"San Clemente, CA",,retail,445120,Arco,,,,33.6840393,-117.3666472,,,n_834107036,"shop=convenience, amenity=fuel, brand=ARCO"
+"San Clemente, CA",,retail,452210,Ross,"32051 Camino Capistrano, San Juan Capistrano, CA, 92675",+1 949-496-2338,,33.4969582,-117.663575,,,n_838089308,"shop=department_store, brand=Ross"
+"San Clemente, CA",,retail,452210,Kohl's,"3410 Marron Road, Oceanside, CA, 92056",+1 760-730-3520,https://www.kohls.com/stores/ca/oceanside-700.shtml,33.1792978,-117.2981904,,,n_975338710,"shop=department_store, brand=Kohl's"
+"San Clemente, CA",,retail,445110,Trader Joe's,"2570 Vista Way, Oceanside, CA, 92054",+1 760-433-9994,https://locations.traderjoes.com/ca/oceanside/22/,33.1840258,-117.3318769,,,n_1009389232,"shop=supermarket, brand=Trader Joe's"
+"San Clemente, CA",,retail,445110,Major Marketplace,"5256 South Mission Road, Bonsall, CA, 92003",,,33.2954356,-117.221637,,,n_1066791124,shop=supermarket
+"San Clemente, CA",,retail,446120,Beauty Source,,,,33.7334968,-117.7597046,,,n_1150448615,shop=beauty
+"San Clemente, CA",,retail,446120,Esprit Nails & Spa,,,,33.7346923,-117.7618236,,,n_1153885188,shop=beauty
+"San Clemente, CA",,retail,446120,Happy Nails,,,,33.7233246,-117.7713776,,,n_1153889720,shop=beauty
+"San Clemente, CA",,retail,446120,Lilliana Skincare Boutique,49 Vantis Drive,,,33.579255,-117.7291864,,,n_1158364957,shop=beauty
+"San Clemente, CA",,retail,446120,Unique Impressions,59 Vantis Drive,,,33.579855,-117.7290255,,,n_1158364996,shop=beauty
+"San Clemente, CA",,retail,446120,Second Street Beauty,"6286 Irvine Boulevard, CA",,,33.6971058,-117.7429835,,,n_1236719525,shop=beauty
+"San Clemente, CA",,retail,453991,Smoke Depot,,,,33.2274224,-117.3324718,,,n_1395070238,shop=tobacco
+"San Clemente, CA",,retail,445120,7-Eleven,"1118 South El Camino Real, San Clemente, CA, 92672-4203",+1 949-498-3120,https://www.7-eleven.com/locations/ca/san-clemente/1118-s-el-camino-real-13789,33.4203752,-117.608114,,,n_1782756512,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,445310,BevMo!,"2500 Vista Way, Oceanside",(760) 967-8606,,33.183905,-117.3334589,,,n_1782785182,"shop=alcohol, brand=BevMo!"
+"San Clemente, CA",,retail,452210,Ross,"2505 Vista Way, Oceanside, CA, 92054",+1 760-439-4040,,33.1827194,-117.3322784,,,n_1782785267,"shop=department_store, brand=Ross"
+"San Clemente, CA",,retail,445110,Trader Joe's,"25410 Marguerite Parkway, Mission Viejo, CA, 92692",+1 949-581-5638,https://locations.traderjoes.com/ca/mission-viejo/126/,33.5925609,-117.658887,,,n_1829361396,"shop=supermarket, brand=Trader Joe's"
+"San Clemente, CA",,retail,445110,Albertsons,"33601 Del Obispo Street, Dana Point, CA, 92629",+1 949-496-7900,https://local.albertsons.com/ca/dana-point/33601-del-obispo-st.html,33.4750479,-117.6861051,,,n_1830431560,"shop=supermarket, brand=Albertsons"
+"San Clemente, CA",,retail,446120,Bath & Body Works,"1079 Newport Center Drive, Newport Beach, CA, 92660",+1-949-721-1186,,33.615121,-117.876349,,,n_1834807330,"shop=cosmetics, brand=Bath & Body Works"
+"San Clemente, CA",,retail,445230,Tustin Farmers Market,El Camino Real,,,33.7434561,-117.8234126,,,n_2428265554,shop=greengrocer
+"San Clemente, CA",,retail,452210,Mainside PX,,,,33.3029814,-117.310478,,,n_2636173063,shop=department_store
+"San Clemente, CA",,retail,445110,Sprouts Farmers Market,"27765 Santa Margarita Parkway, Mission Viejo, CA, 92691",+1 949-587-3003,https://www.sprouts.com/store/ca/mission-viejo/santa-margarita-pkwy/,33.6542966,-117.645924,,,n_2644804298,"shop=supermarket, brand=Sprouts Farmers Market"
+"San Clemente, CA",,retail,445110,Walmart Neighborhood Market,"1046 Mission Avenue, Oceanside, CA, 92054",+1 760-696-9906,https://www.walmart.com/store/5637-oceanside-ca,33.199721,-117.3749031,,,n_2794026329,"shop=supermarket, brand=Walmart, operator=Walmart"
+"San Clemente, CA",,retail,445110,Trader Joe's,"30652 Santa Margarita Parkway, Rancho Santa Margarita, CA, 92688",+1 949-888-3640,https://locations.traderjoes.com/ca/rancho-santa-margarita/27/,33.642285,-117.5954056,,,n_2944759499,"shop=supermarket, brand=Trader Joe's"
+"San Clemente, CA",,retail,445110,Trader Joe's,"638 Camino de Los Mares, San Clemente, CA, 92673",+1 949-240-9996,https://locations.traderjoes.com/ca/san-clemente/16/,33.4594075,-117.652459,,,n_2962302140,"shop=supermarket, brand=Trader Joe's"
+"San Clemente, CA",,retail,445310,S & R Market & Liquor,"31742 Rancho Viejo Road, San Juan Capistrano, CA, 92675",,,33.5019619,-117.6534763,,,n_2992999507,shop=alcohol
+"San Clemente, CA",,retail,452210,Western Apparel,,,,33.5021343,-117.653162,,,n_2992999511,shop=department_store
+"San Clemente, CA",,retail,445110,Marbella Market,,,,33.5073665,-117.6592451,,,n_2993126505,shop=supermarket
+"San Clemente, CA",,retail,445120,Circle K,,,,33.6839932,-117.8162021,,,n_3134614835,"shop=convenience, brand=Circle K"
+"San Clemente, CA",,retail,446120,Sunny Salon,,,,33.6806097,-117.8379868,,,n_3134653402,shop=beauty
+"San Clemente, CA",,retail,446120,Evershine Threading,,,,33.5966585,-117.2412007,,,n_3291313361,shop=beauty
+"San Clemente, CA",,retail,445110,Pavilions,"26022 Marguerite Parkway, Mission Viejo, 92692",,https://local.pavilions.com/ca/mission-viejo/26022-marguerite-pkwy.html,33.585968,-117.6575,,,n_3352632942,"shop=supermarket, brand=Pavilions"
+"San Clemente, CA",,retail,446120,Lovely Nails,,,,33.6797978,-117.6626956,,,n_3382225499,shop=beauty
+"San Clemente, CA",,retail,452210,Ross,"3900 South Bristol Street, Santa Ana, CA, 92704",+1 714-546-2600,,33.6952942,-117.8874747,,,n_3463184622,"shop=department_store, brand=Ross"
+"San Clemente, CA",,retail,445292,,,,,33.5998009,-117.6361528,,,n_3502006857,shop=confectionery
+"San Clemente, CA",,retail,445120,La Tiendita Express,"24882 Muirlands Boulevard, Lake Forest, CA, 92630",,,33.6222054,-117.6966845,,,n_3574951784,shop=convenience
+"San Clemente, CA",,retail,446120,Brow Mantra Threading Salon,"6614 Irvine Center Drive, Irvine, 92618",,,33.6690217,-117.76524,,,n_3583788677,shop=beauty
+"San Clemente, CA",,retail,445292,See's Candies,"6616 Irvine Center Drive, Irvine, 92618",,,33.6689746,-117.765173,,,n_3583788678,"shop=confectionery, brand=See's Candies"
+"San Clemente, CA",,retail,446120,Lovely Nails & Spa,"6646 Irvine Center Drive, Irvine, 92618",,,33.6683548,-117.764292,,,n_3583788690,shop=beauty
+"San Clemente, CA",,retail,452319,Dollar Tree,,,,33.6770858,-117.6647089,,,n_3649611306,"shop=variety_store, brand=Dollar Tree"
+"San Clemente, CA",,retail,446120,Happy Nails,,,,33.6805686,-117.6670642,,,n_3651864606,shop=beauty
+"San Clemente, CA",,retail,446110,Medical Plaza Pharmacy,,,,33.6738734,-117.6625552,,,n_3651866990,"shop=chemist, amenity=pharmacy"
+"San Clemente, CA",,retail,446120,Tres Jolie Beauty Salon & Supply,,,,33.6360145,-117.6827349,,,n_3656137796,shop=beauty
+"San Clemente, CA",,retail,445310,,,,,33.6611788,-117.6690663,,,n_3658066944,shop=alcohol
+"San Clemente, CA",,retail,446120,Win Nails Spa,,,,33.6602573,-117.6681329,,,n_3658403229,shop=beauty
+"San Clemente, CA",,retail,446120,Apple Nail Salon,"30001 Crown Valley Parkway, Laguna Niguel, CA, 92677",+1 949-495-8888,,33.5271543,-117.7110058,,,n_3675629209,shop=beauty
+"San Clemente, CA",,retail,446120,Henna Threading & Beauty,"21701 Lake Forest Drive, 92630",,,33.6477163,-117.6851332,,,n_3676873300,shop=beauty
+"San Clemente, CA",,retail,445120,7-Eleven,"21701 Lake Forest Drive, Lake Forest, CA, 92630-2752",+1 949-770-6546,https://www.7-eleven.com/locations/ca/lake-forest/21701-lake-forest-dr-20803,33.6478256,-117.685195,,,n_3676880239,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,445310,Viejo Liquor,"26063 La Paz Road, Mission Viejo, CA, 92691",,,33.600047,-117.6751626,,,n_3694457442,shop=alcohol
+"San Clemente, CA",,retail,446120,Saltwater Hair @ The Perfect Ten,"139 Avenida del Mar, San Clemente, 92672",,,33.4265313,-117.613973,,,n_3762117067,shop=beauty
+"San Clemente, CA",,retail,446120,San Clemente Nails & Waxing Spa,"164 Avenida del Mar, San Clemente, 92672",,,33.4263351,-117.6147486,,,n_3762117082,shop=beauty
+"San Clemente, CA",,retail,445292,Schmid's San Clemente,"99 Avenida del Mar, San Clemente, 92672",,,33.4272478,-117.6128901,,,n_3762117118,shop=confectionery
+"San Clemente, CA",,retail,446120,Coco Lash Artistry,"302 North Avenida de la Estrella, San Clemente",,,33.4289973,-117.6134843,,,n_3763109396,shop=beauty
+"San Clemente, CA",,retail,446120,The Brow Boutique,"306 North Avenida de la Estrella, San Clemente",+1 949 492 8218,http://www.brow-boutique.com/,33.4290531,-117.6135436,,,n_3763109398,shop=beauty
+"San Clemente, CA",,retail,446120,Maui Brown Microblading,"310 North Avenida de la Estrella, San Clemente",+1 949 204 9608,https://www.mauibrowi.com/,33.4291312,-117.6136214,,,n_3763109400,shop=beauty
+"San Clemente, CA",,retail,445120,ampm,,,,33.2897545,-117.226355,,,n_3815256464,"shop=convenience, brand=ampm"
+"San Clemente, CA",,retail,445120,Pier Market,"618 Avenida Victoria, San Clemente, 92672",,,33.420082,-117.6196509,,,n_3936304835,shop=convenience
+"San Clemente, CA",,retail,446120,V Spa Boutique,"416 North El Camino Real, San Clemente, 92672",,,33.429331,-117.6147042,,,n_3946915971,shop=beauty
+"San Clemente, CA",,retail,446120,Rituals,"210 North El Camino Real, San Clemente, 92672",,,33.4283036,-117.613538,,,n_3946926884,"shop=cosmetics, brand=Rituals"
+"San Clemente, CA",,retail,445310,Catalina Market,,,,33.4262315,-117.6123424,,,n_3954377172,shop=alcohol
+"San Clemente, CA",,retail,445310,Salt Creek Wine Company,"30100 Town Center Drive, Laguna Niguel, CA, 92677",,,33.5259949,-117.7130909,,,n_3977019265,shop=wine
+"San Clemente, CA",,retail,446120,Healthy Nails,,,,33.5266053,-117.7102394,,,n_3982511327,shop=beauty
+"San Clemente, CA",,retail,446120,Jenny's Nail Salon,"30100 Town Center Drive, Laguna Niguel, CA, 92677",,,33.5259022,-117.7132383,,,n_3983269556,shop=beauty
+"San Clemente, CA",,retail,446191,Apple-A-Day Health Foods,,,,33.5225241,-117.7148293,,,n_3985007055,shop=health_food
+"San Clemente, CA",,retail,446120,Salon Bleu,,+1 949 366 2060,https://scsalonbleu.com/,33.4270397,-117.6116929,,,n_4030259206,shop=beauty
+"San Clemente, CA",,retail,446120,Ambitious Edge,"705 North El Camino Real, San Clemente, CA, 92672",,,33.4303209,-117.6181128,,,n_4037199737,shop=beauty
+"San Clemente, CA",,retail,446120,Amazing Lash Studio,"3800 Barranca Parkway, Irvine, CA, 92606",,,33.6844751,-117.812381,,,n_4067301095,"shop=beauty, brand=Amazing Lash Studio"
+"San Clemente, CA",,retail,445120,Sam's Liquour,,,,33.6626835,-117.668093,,,n_4069462829,shop=convenience
+"San Clemente, CA",,retail,445310,Texas Wine & Spirits,"945 Carlsbad Village Drive, Carlsbad, CA, 92008",,,33.1621116,-117.34391,,,n_4073631160,shop=alcohol
+"San Clemente, CA",,retail,445310,Frisby Cellars Tasting Room,"20331 Lake Forest Drive, Lake Forest, 92630",,,33.6668824,-117.6637057,,,n_4109650002,shop=wine
+"San Clemente, CA",,retail,445210,Billy's Meats Seafood and Deli,,+1 949 498 5924,https://www.billyssanclemente.com/,33.426998,-117.6132293,,,n_4140852595,shop=butcher
+"San Clemente, CA",,retail,453991,Super Smoke Depot,"401 South El Camino Real, San Clemente, CA, 92672",,,33.4261702,-117.6109563,,,n_4163659186,shop=tobacco
+"San Clemente, CA",,retail,453110,Wildflower,,+1 949 498 3454,,33.4215078,-117.6081627,,,n_4163659187,shop=florist
+"San Clemente, CA",,retail,452319,99 Cents Only Stores,,,https://locations.99only.com/ca/sanclemente/discount-store-186.html,33.435909,-117.6203192,,,n_4305298697,"shop=variety_store, brand=99 Cents Only Stores"
+"San Clemente, CA",,retail,446120,ProfessioNail & Spa,"27412 Portola Parkway, Foothill Ranch, CA, 92610",+1 949 4204888,http://professionailandspa.net,33.6713842,-117.6530389,,,n_4322780837,shop=beauty
+"San Clemente, CA",,retail,445310,Amazing Grapes,,,,33.6364781,-117.6082485,,,n_4337976416,shop=wine
+"San Clemente, CA",,retail,445310,Mesa Market Wine & Spirits,,,,33.6492975,-117.5830694,,,n_4339339583,shop=alcohol
+"San Clemente, CA",,retail,446120,Salon 74,,,,33.6497246,-117.5828128,,,n_4339339585,shop=beauty
+"San Clemente, CA",,retail,445120,Circle K,,,,33.6490656,-117.581396,,,n_4339342300,"shop=convenience, brand=Circle K"
+"San Clemente, CA",,retail,445310,Super Stop,,,,33.4618594,-117.6954334,,,n_4365624589,shop=alcohol
+"San Clemente, CA",,retail,445230,Mission Ranch Markets,"23166 Los Alisos Boulevard, 92691",9497075879,https://missionranchmarkets.com/,33.6261718,-117.6774823,,,n_4370492391,shop=greengrocer
+"San Clemente, CA",,retail,445110,Sprouts Farmers Market,"550 Camino De Estrella, San Clemente, CA, 92672",+1 949-542-1036,https://www.sprouts.com/store/ca/san-clemente/camino-de-estrella/,33.4569228,-117.6560617,,,n_4382495105,"shop=supermarket, brand=Sprouts Farmers Market"
+"San Clemente, CA",,retail,446120,Zen Nails,"26548 Moulton Parkway, Laguna Hills, CA, 92653",,,33.5778996,-117.701085,,,n_4400700545,shop=beauty
+"San Clemente, CA",,retail,446120,Bath & Body Works,"27150 Alicia Parkway, Laguna Niguel, CA, 92677",+1-949-643-3758,https://www.hours-locations.com/bath-body-works/ca/laguna-niguel/,33.5686953,-117.7130734,,,n_4427217052,"shop=cosmetics, brand=Bath & Body Works"
+"San Clemente, CA",,retail,446120,Phenix Salon Suites,,,,33.640039,-117.6010611,,,n_4439973667,shop=beauty
+"San Clemente, CA",,retail,452210,Sears,,,,33.6412868,-117.6012974,,,n_4439973668,"shop=department_store, brand=Sears"
+"San Clemente, CA",,retail,446120,18/8 Fine Men's Salons,,,,33.6382736,-117.5903495,,,n_4440009706,shop=beauty
+"San Clemente, CA",,retail,453110,Bird of Paradise Couture Florals,"17775 Main Street, Irvine, CA, 92614",+1-949-474-7311,https://www.bopflorist.com/,33.6864824,-117.8572001,,,n_4466344696,shop=florist
+"San Clemente, CA",,retail,446120,"Lash, Brow & Botique",,,,33.4268395,-117.6133831,,,n_4489465743,shop=beauty
+"San Clemente, CA",,retail,446120,Salon Incognito,,,,33.4267811,-117.6134401,,,n_4489471344,shop=beauty
+"San Clemente, CA",,retail,446120,Hair Addix Salon,"2585 Pio Pico Drive #200, Carlsbad, CA, 92008",+1-760-434-7073,http://www.hairaddix.com,33.169044,-117.3446741,,,n_4514884074,"shop=beauty, operator=Tracy Beverson"
+"San Clemente, CA",,retail,445120,7-Eleven,"27001 Moulton Parkway, Laguna Hills, CA, 92656",+1 949-362-5270,https://www.7-eleven.com/locations/ca/laguna-hills/27001-moulton-pkwy-a-120-33278,33.5712903,-117.7006395,,,n_4524100097,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,446120,Sparkly Nails,"27001 Moulton Parkway, Laguna Hills, CA, 92656",+1-949-831-0106,,33.5709974,-117.7006219,,,n_4524100102,shop=beauty
+"San Clemente, CA",,retail,446120,Nicky's Salon,"27001 Moulton Parkway, Laguna Hills, CA, 92656",+1-949-643-1310,,33.5709566,-117.7006205,,,n_4524100103,shop=beauty
+"San Clemente, CA",,retail,445120,,,,,33.5730504,-117.7074284,,,n_4529720479,shop=convenience
+"San Clemente, CA",,retail,446120,Hollywood Tans,"27032 La Paz Road, Aliso Viejo, CA, 92656",+1-949-362-8267,http://hollywoodtans.com/locations/hollywood-tans-aliso-viejo-ca/,33.5702289,-117.707149,,,n_4529726765,shop=beauty
+"San Clemente, CA",,retail,446120,Taj Threading,"26882 La Paz Road, Aliso Viejo, CA, 92656",+1-949-643-5538,https://tajthreading.com/,33.5724576,-117.7064151,,,n_4529726773,shop=beauty
+"San Clemente, CA",,retail,453110,Aliso Viejo Florist,"26880 La Paz Road, Aliso Viejo, CA, 92656",+1-949-831-5505,https://www.alisoviejoflorist.com/,33.5725101,-117.706377,,,n_4529726774,shop=florist
+"San Clemente, CA",,retail,446120,Lashes on Broadway,"26878 La Paz Road, Aliso Viejo, CA, 92656",+1-949-229-2797,http://www.lashesonbroadway.com/,33.5725646,-117.7063446,,,n_4529726775,shop=beauty
+"San Clemente, CA",,retail,446120,Rtistic Salon,"418 North El Camino Real, San Clemente, 92672",,,33.4293664,-117.6147815,,,n_4544043687,shop=beauty
+"San Clemente, CA",,retail,452210,TJ Maxx,,,,33.6522663,-117.647905,,,n_4563114393,"shop=department_store, brand=TJ Maxx"
+"San Clemente, CA",,retail,446120,OC Hair And Makeup,"30622 Santa Margarita Parkway, Rancho Santa Margarita, CA, 92688",949-326-7878,https://ochairandmakeup.com/,33.6412253,-117.5956846,,,n_4580915467,shop=beauty
+"San Clemente, CA",,retail,445310,Nektar,,,,33.5649867,-117.6316856,,,n_4674380691,shop=beverages
+"San Clemente, CA",,retail,446120,Majestic Spa,"6761 Quail Hill Parkway, Irvine, 92603",,,33.6548577,-117.7780496,,,n_4700488955,shop=beauty
+"San Clemente, CA",,retail,446120,Images Luxury Nail Lounge,"6705 Quail Hill Parkway, Irvine, 92603",,,33.6553789,-117.7780139,,,n_4700488966,shop=beauty
+"San Clemente, CA",,retail,446120,New Look Skin Center,"6701 Quail Hill Parkway, Irvine, 92603",,,33.6553826,-117.7781186,,,n_4700488967,shop=beauty
+"San Clemente, CA",,retail,445110,Trader Joe's,"8086 East Coast Highway, Newport Beach, CA, 92657",+1 949 7404,https://locations.traderjoes.com/ca/newport-beach/125/,33.5688054,-117.8307333,,,n_4866729431,"shop=supermarket, brand=Trader Joe's"
+"San Clemente, CA",,retail,445110,Pavilions,,,https://local.pavilions.com/ca/newport-beach/2660-san-miguel-dr.html,33.6266048,-117.8485703,,,n_4866748359,"shop=supermarket, brand=Pavilions"
+"San Clemente, CA",,retail,445120,7-Eleven,"14098 Red Hill Avenue, Tustin, CA, 92780",+1 714-832-7584,https://www.7-eleven.com/locations/ca/tustin/14090-red-hill-avenue-39017,33.7321235,-117.8162775,,,n_4870198388,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/carlsbad/201-oak-ave-13601,33.1567787,-117.3501939,,,n_4922485724,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,445110,Island Pacific Seafood Market,"23811 El Toro Road, Lake Forest, CA, 92630",+1 949-317-0863,https://islandpacificmarket.com/stores/listing/lake-forest,33.6180406,-117.7069995,,,n_4936133379,"shop=supermarket, brand=Island Pacific Supermarket, operator=Abacus Business Capital, Inc."
+"San Clemente, CA",,retail,445292,Rocky Mountain Chocolate Factory,,,,33.4391255,-117.627223,,,n_4947812091,"shop=confectionery, brand=Rocky Mountain Chocolate Factory"
+"San Clemente, CA",,retail,446120,Planet Beauty,,,,33.4396269,-117.6279894,,,n_4947812107,shop=beauty
+"San Clemente, CA",,retail,445120,7-Eleven,"15265 Culver Drive, Irvine, CA, 92604-3085",+1 949-552-2945,https://www.7-eleven.com/locations/ca/irvine/15265-culver-dr-26846,33.6972984,-117.7979238,,,n_4964265935,"shop=convenience, brand=7-Eleven, operator=7-Eleven"
+"San Clemente, CA",,retail,445120,7-Eleven,"14460 Newport Avenue, Tustin, CA, 92780-5603",+1 714-838-2223,https://www.7-eleven.com/locations/ca/tustin/14460-newport-ave-ste-a-25817,33.7326174,-117.8270663,,,n_4972335794,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,446120,,"1072 Walnut Avenue, Tustin, 92780",,,33.7312494,-117.8270798,,,n_4972867058,shop=beauty
+"San Clemente, CA",,retail,446120,Beauty Unlimited,"1076 Walnut Avenue, Tustin, 92780",,,33.7312149,-117.8270291,,,n_4972867060,shop=beauty
+"San Clemente, CA",,retail,446120,Lucky Nails and Spa,"14077 Newport Avenue, Tustin, CA, 92780",,,33.736142,-117.824706,,,n_4981149552,shop=beauty
+"San Clemente, CA",,retail,446120,Shelza Threading,,,,33.4587828,-117.6497615,,,n_5002241013,shop=beauty
+"San Clemente, CA",,retail,446120,Hair Aria,"14581 Red Hill Avenue, Tustin, 92780",,,33.7272574,-117.8229473,,,n_5006060145,shop=beauty
+"San Clemente, CA",,retail,446120,Hair Express,"14575 Red Hill Avenue, Tustin, 92780",,,33.7272988,-117.8229054,,,n_5006060147,shop=beauty
+"San Clemente, CA",,retail,452319,Dollar Tree,"14551 Red Hill Avenue, Tustin, 92780",,,33.7275706,-117.822493,,,n_5006060156,"shop=variety_store, brand=Dollar Tree"
+"San Clemente, CA",,retail,445120,7-Eleven,"20562 Regency Lane, Lake Forest, CA, 92630",+1 949-768-5433,https://www.7-eleven.com/locations/ca/lake-forest/20562-regency-ln-34527,33.6642999,-117.6652729,,,n_5006115376,"shop=convenience, brand=7-Eleven, operator=7-Eleven"
+"San Clemente, CA",,retail,446120,,,,,33.4373825,-117.6248478,,,n_5008358994,shop=beauty
+"San Clemente, CA",,retail,445110,Target,"4255 Campus Drive, Irvine, CA, 92612",+1-949-988-6230,https://www.target.com/sl/irvine-university-town-center/3233,33.6495776,-117.8390276,,,n_5160350023,"shop=supermarket, brand=Target"
+"San Clemente, CA",,retail,445110,Irvine Village Market,"41 Prism, Irvine, CA, 92618",,,33.653167,-117.750999,,,n_5185023293,shop=supermarket
+"San Clemente, CA",,retail,445120,Maw 'n Paw Kettlecore,,,,33.6006185,-117.6926976,,,n_5227338016,shop=convenience
+"San Clemente, CA",,retail,446120,Nail Chateua,,,,33.6006565,-117.6928532,,,n_5227338018,shop=beauty
+"San Clemente, CA",,retail,446120,La Mirage Hair Salon,,,,33.6006621,-117.6933038,,,n_5227338528,shop=beauty
+"San Clemente, CA",,retail,452210,Big Lots,24841 Alicia Parkway,,,33.6011558,-117.6933172,,,n_5227338531,"shop=department_store, brand=Big Lots"
+"San Clemente, CA",,retail,445110,Grocery Outlet,,,,33.3687336,-117.24982,,,n_5266775210,"shop=supermarket, brand=Grocery Outlet"
+"San Clemente, CA",,retail,445310,Total Wine,"1280 Bison Avenue Newport, Newport Beach, CA, 92660",+1 949-209-9060,https://www.totalwine.com/store-info/1122,33.638312,-117.862557,,,n_5289014586,"shop=alcohol, brand=Total Wine"
+"San Clemente, CA",,retail,446120,Sage Salon & Spa,,,,33.5030235,-117.6533027,,,n_5338045036,shop=beauty
+"San Clemente, CA",,retail,445310,Larry's Liquor & Jr. Market,,,,33.4433422,-117.6428434,,,n_5341609829,shop=alcohol
+"San Clemente, CA",,retail,446120,Ma Jolie Salon,,,,33.4421795,-117.6445198,,,n_5347962776,shop=beauty
+"San Clemente, CA",,retail,446120,Luxe Nail Spa,,,,33.7002766,-117.8885889,,,n_5384151609,shop=beauty
+"San Clemente, CA",,retail,446120,LunchboxWax,"23866 Aliso Creek Road, Laguna Niguel, CA, 92677",+1-949-245-6707,https://www.lunchboxwax.com/laguna-niguel/,33.5547678,-117.7136592,,,n_5504521894,shop=beauty
+"San Clemente, CA",,retail,445292,See's Candies,"23956 Aliso Creek Road, Laguna Niguel, CA, 92677",+1-949-349-0021,http://ca.lagunaniguel.sees.com/chocolate_shops_laguna-niguel_ca_la-ca-106.html,33.554554,-117.712048,,,n_5504521903,"shop=confectionery, brand=See's Candies"
+"San Clemente, CA",,retail,445292,Popbar,,,,33.677466,-117.8859775,,,n_5562787635,shop=confectionery
+"San Clemente, CA",,retail,446120,Crew,,,,33.6774819,-117.8861409,,,n_5562787636,shop=beauty
+"San Clemente, CA",,retail,445120,Shell,"660 Douglas Drive, CA",,,33.2449306,-117.3220901,,,n_5580211492,"shop=convenience, amenity=fuel"
+"San Clemente, CA",,retail,446120,Restore Hyper Wellness,"2885 El Camino Real, Tustin, 92782",,,33.7247421,-117.7939092,,,n_5589171645,"shop=beauty, amenity=healthcare, brand=Restore Hyper Wellness"
+"San Clemente, CA",,retail,453991,Vintage Cigars,,,,33.6972459,-117.8875268,,,n_5623311690,shop=tobacco
+"San Clemente, CA",,retail,446120,Top 3D Nails,,,,33.6975931,-117.8875315,,,n_5623311693,shop=beauty
+"San Clemente, CA",,retail,446120,Bonjour Spa Nails,,,,33.6988171,-117.886982,,,n_5623311694,shop=beauty
+"San Clemente, CA",,retail,446120,Sheer Beauty Supply,,,,33.6988137,-117.8868101,,,n_5623311700,shop=beauty
+"San Clemente, CA",,retail,452210,TJ Maxx,,,,33.6962521,-117.887513,,,n_5623311701,"shop=department_store, brand=TJ Maxx"
+"San Clemente, CA",,retail,446120,Modern,,,,33.69673,-117.8867816,,,n_5623311705,shop=beauty
+"San Clemente, CA",,retail,446120,SalonCentric,,,,33.6974454,-117.8878812,,,n_5625625830,shop=beauty
+"San Clemente, CA",,retail,446120,Jo Malone,,,,33.6913356,-117.889892,,,n_5625667710,"shop=perfumery, brand=Jo Malone"
+"San Clemente, CA",,retail,445292,Godiva Chocolatier,,,,33.6901474,-117.8879328,,,n_5625748617,"shop=chocolate, brand=Godiva Chocolatier"
+"San Clemente, CA",,retail,446120,Diptyque',,,,33.6912554,-117.889891,,,n_5631377515,"shop=perfumery, brand=Diptyque'"
+"San Clemente, CA",,retail,446120,Kiehl's,,,,33.6907764,-117.889649,,,n_5631377832,"shop=cosmetics, brand=Kiehl's"
+"San Clemente, CA",,retail,446120,MAC Cosmetics,,,,33.6907036,-117.8899233,,,n_5631377834,"shop=cosmetics, brand=MAC Cosmetics"
+"San Clemente, CA",,retail,445292,Sugarfina,,,,33.690899,-117.8890751,,,n_5631393104,shop=confectionery
+"San Clemente, CA",,retail,446120,The Art Of Shaving,,,,33.690684,-117.8879345,,,n_5631407032,shop=cosmetics
+"San Clemente, CA",,retail,446120,Fresh,,,,33.6907904,-117.8879348,,,n_5631407036,shop=cosmetics
+"San Clemente, CA",,retail,446120,Aveda,,,,33.6906332,-117.8879343,,,n_5631407038,"shop=cosmetics, brand=Aveda"
+"San Clemente, CA",,retail,446120,Sephora,,,,33.6900016,-117.8879324,,,n_5631407043,"shop=cosmetics, brand=Sephora"
+"San Clemente, CA",,retail,446120,Bath & Body Works,,,,33.6914886,-117.8876065,,,n_5631434712,"shop=cosmetics, brand=Bath & Body Works"
+"San Clemente, CA",,retail,445292,See's Candies,"3333 Bristol Street, Costa Mesa, CA, 92626",+1 (714) 850-1529,https://chocolateshops.sees.com/ca/costamesa/chocolate_shops_costa-mesa_ca_1ca091.html,33.6907906,-117.8875606,,,n_5631434715,"shop=confectionery, brand=See's Candies"
+"San Clemente, CA",,retail,446120,The Hair Shop,,,,33.6979856,-117.884989,,,n_5631445448,shop=beauty
+"San Clemente, CA",,retail,446120,Removery,,,,33.6991926,-117.88501,,,n_5631486938,"shop=beauty, brand=Removery"
+"San Clemente, CA",,retail,446120,XpresSpa,,,,33.6788835,-117.8619728,,,n_5642658422,shop=beauty
+"San Clemente, CA",,retail,445120,Ciao Gourmet Market,,,,33.6764286,-117.8636784,,,n_5642718223,shop=convenience
+"San Clemente, CA",,retail,445110,Mother's Market,,,,33.6116521,-117.7141101,,,n_5646569964,shop=supermarket
+"San Clemente, CA",,retail,445310,Total Wine,,,,33.6139986,-117.7101871,,,n_5646570040,"shop=alcohol, brand=Total Wine"
+"San Clemente, CA",,retail,446120,Medusa Salon,,,,33.6384521,-117.9618516,,,n_5675886421,shop=beauty
+"San Clemente, CA",,retail,445310,Super Stop Mini Mart,"1913 Pomona Avenue, Costa Mesa, CA, 92627",(949) 631-3815,,33.6440838,-117.9280788,,,n_5797366804,shop=alcohol
+"San Clemente, CA",,retail,446120,Crabtree & Evelyn,,,,33.6922739,-117.8930121,,,n_5850036894,shop=cosmetics
+"San Clemente, CA",,retail,453991,Tinder Box,,,,33.6927509,-117.8928133,,,n_5850036896,shop=tobacco
+"San Clemente, CA",,retail,446120,L'Occitane,,,,33.6922542,-117.8928081,,,n_5850036898,"shop=cosmetics, brand=L'Occitane"
+"San Clemente, CA",,retail,446120,Sephora,,,,33.6924516,-117.8930214,,,n_5850036923,"shop=cosmetics, brand=Sephora"
+"San Clemente, CA",,retail,446191,Harry & David,,,,33.6926953,-117.8928131,,,n_5850036936,shop=health_food
+"San Clemente, CA",,retail,445292,See's Candies,"3333 Bear Street, Costa Mesa, CA, 92626",+1 (714) 557-5948,https://chocolateshops.sees.com/ca/costamesa/chocolate_shops_costa-mesa_ca_1ca047.html,33.6928494,-117.8928163,,,n_5850036963,"shop=confectionery, brand=See's Candies"
+"San Clemente, CA",,retail,446120,Beauty Source,,,,33.456159,-117.6040868,,,n_5959814877,shop=beauty
+"San Clemente, CA",,retail,445110,ALDI,"18294 Collier Avenue, Lake Elsinore, CA, 92530-2754",+1 951-579-4089,https://stores.aldi.us/ca/lake-elsinore/18294-collier-ave,33.691873,-117.3394059,,,n_6007728091,"shop=supermarket, brand=ALDI"
+"San Clemente, CA",,retail,446120,Ulta Beauty,"18418 Collier Avenue, Lake Elsinore, CA, 92530",+1 951-228-0214,https://www.ulta.com/stores/lake-elsinore-ca-1253,33.6899308,-117.337938,,,n_6007772346,"shop=beauty, brand=Ulta Beauty"
+"San Clemente, CA",,retail,452210,Marshalls,,,,33.6897257,-117.3381552,,,n_6007779227,"shop=department_store, brand=Marshalls"
+"San Clemente, CA",,retail,452319,Five Below,,+1 951-245-9877,https://locations.fivebelow.com/ca/lake-elsinore/18438-collier-avenue,33.6902518,-117.337622,,,n_6007784228,"shop=variety_store, brand=Five Below"
+"San Clemente, CA",,retail,446120,True Touch Nail & Spa,,,,33.6898817,-117.3426942,,,n_6008987581,shop=beauty
+"San Clemente, CA",,retail,445110,Grocery Outlet,,,,33.6960806,-117.335998,,,n_6013084614,"shop=supermarket, brand=Grocery Outlet"
+"San Clemente, CA",,retail,452319,Dollar Tree,,,,33.6962415,-117.3361842,,,n_6013089579,"shop=variety_store, brand=Dollar Tree"
+"San Clemente, CA",,retail,446120,ProffesioNail & Spa,,,,33.6947193,-117.3361418,,,n_6013163827,shop=beauty
+"San Clemente, CA",,retail,446120,iTan,,,,33.6951169,-117.3357107,,,n_6013167231,shop=beauty
+"San Clemente, CA",,retail,446120,Kut N Beauty Salon and Supply,,,,33.6951647,-117.3357629,,,n_6013168419,shop=beauty
+"San Clemente, CA",,retail,446120,iBrows Threading Salon,,,,33.6953958,-117.3358958,,,n_6013174491,shop=beauty
+"San Clemente, CA",,retail,452319,99 Cents Only Stores,,,https://locations.99only.com/ca/lakeelsinore/discount-store-234.html,33.6922262,-117.3399583,,,n_6013176637,"shop=variety_store, brand=99 Cents Only Stores"
+"San Clemente, CA",,retail,445310,Central Market and Liquor,,,,33.693719,-117.3351052,,,n_6013360051,shop=alcohol
+"San Clemente, CA",,retail,445292,See's Candies,,,,33.456187,-117.6571959,,,n_6049944812,"shop=confectionery, brand=See's Candies"
+"San Clemente, CA",,retail,446120,Allure Nails,"460 Camino de Estrella, San Clemente, 92672",,,33.4560382,-117.6569653,,,n_6049944814,shop=beauty
+"San Clemente, CA",,retail,446120,Syrens Hair Parlor,,,,33.4252502,-117.6158343,,,n_6053426349,shop=beauty
+"San Clemente, CA",,retail,445310,San Clemente Wine Company,"212 1/2 Avenida del Mar, San Clemente, 92672",,,33.4256425,-117.6157008,,,n_6053426354,shop=alcohol
+"San Clemente, CA",,retail,446120,Waves Beyond Skin Care,,,,33.4251478,-117.6155509,,,n_6058717143,shop=beauty
+"San Clemente, CA",,retail,446120,Polish Nail Lounge,,,https://www.facebook.com/PolishNailLoungeMissionViejo/,33.5796974,-117.6692122,,,n_6111996870,shop=beauty
+"San Clemente, CA",,retail,452210,TJ Maxx,,,,33.5735952,-117.725409,,,n_6376245914,"shop=department_store, brand=TJ Maxx"
+"San Clemente, CA",,retail,446120,Lovely Nails,"30824 Pacific Coast Highway, Laguna Beach, CA, 92651",,,33.5160976,-117.7559886,,,n_6388092383,shop=beauty
+"San Clemente, CA",,retail,446120,Sendero Nails and Lashes,,,,33.5214957,-117.6187626,,,n_6538524982,shop=beauty
+"San Clemente, CA",,retail,446120,The Powder Room,,,,33.5217416,-117.6173732,,,n_6538530691,shop=beauty
+"San Clemente, CA",,retail,446120,Professional Nail,,,,33.4548112,-117.6072518,,,n_6682103805,shop=beauty
+"San Clemente, CA",,retail,446120,Palm Beach Tan,,,https://palmbeachtan.com/locations/CA/plaza-pacifica-avenida-pico,33.4548358,-117.6071972,,,n_6682103806,"shop=beauty, brand=Palm Beach Tan"
+"San Clemente, CA",,retail,446120,Newport Nails,3117 Newport Boulevard,,https://newportnails.com/,33.6151475,-117.9309123,,,n_6770856891,shop=beauty
+"San Clemente, CA",,retail,445110,Monarch Beach Market,,,,33.4886929,-117.7109441,,,n_7087302287,shop=supermarket
+"San Clemente, CA",,retail,446110,Rite Aid,,,,33.4665564,-117.697088,,,n_7096626586,"shop=chemist, brand=Rite Aid"
+"San Clemente, CA",,retail,446120,Happy Nails,,,,33.5574719,-117.7105722,,,n_7167068046,shop=beauty
+"San Clemente, CA",,retail,446120,Planet Beauty,,,,33.5575389,-117.7105327,,,n_7167068047,shop=beauty
+"San Clemente, CA",,retail,446120,Optimal Skin Therapy,,,,33.4320065,-117.6264355,,,n_7273271512,shop=beauty
+"San Clemente, CA",,retail,453991,The Tobacco Stop,"3312 Bristol Street, Santa Ana, CA, 92704",+1 (714) 540-3713,,33.7034432,-117.886063,,,n_7355051051,shop=tobacco
+"San Clemente, CA",,retail,446120,Diva's Threading Beauty Salon,"3336 Bristol Street, Santa Ana, CA, 92704",+1 (714) 540-4690,,33.7032356,-117.8858381,,,n_7355051053,shop=beauty
+"San Clemente, CA",,retail,452319,Dollar Tree,"3309 South Bristol Street, Santa Ana, CA, 92704",+1 (714) 371-1979,https://www.dollartree.com/locations/ca/santa-ana/4530/,33.7029061,-117.8844668,,,n_7355051056,"shop=variety_store, brand=Dollar Tree"
+"San Clemente, CA",,retail,446120,Nail Center & Spa,"3315 Bristol Street, Santa Ana, CA, 92704",+1 (714) 754-0404,,33.7024974,-117.8844667,,,n_7355051058,shop=beauty
+"San Clemente, CA",,retail,446110,Rite Aid,"3325 Bristol Street, Santa Ana, CA, 92704",+1 (714) 979-4060,https://www.riteaid.com/locations/ca/santa-ana/3325-south-bristol-street.html,33.7020463,-117.8844666,,,n_7355051060,"shop=chemist, brand=Rite Aid"
+"San Clemente, CA",,retail,445120,7-Eleven,"25361 Alicia Parkway, Laguna Hills, CA, 92653-4959",+1 949-581-9228,https://www.7-eleven.com/locations/ca/laguna-hills/25361-alicia-pkwy-25242,33.5938854,-117.6979394,,,n_7365360981,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,446110,Walgreens,,,,33.5920153,-117.660329,,,n_7365485781,"shop=chemist, brand=Walgreens"
+"San Clemente, CA",,retail,445110,Smart & Final Extra!,,,,33.1896559,-117.36012,,,n_7477889314,"shop=supermarket, brand=Smart & Final"
+"San Clemente, CA",,retail,446120,Jayden Presleigh Salon And Spa,,,,33.1602687,-117.3490741,,,n_7504188532,shop=beauty
+"San Clemente, CA",,retail,446120,Professional Nails & Spa,,+1 949 595 0081,http://professionalnailslagunahills.com,33.5948031,-117.6787797,,,n_7620792858,shop=beauty
+"San Clemente, CA",,retail,453110,El Camino Florist,,,,33.1645167,-117.3520301,,,n_8280168496,shop=florist
+"San Clemente, CA",,retail,445110,Sprouts Farmers Market,"2618 El Camino Real, Carlsbad, CA, 92008",+1 760-730-1123,https://sprouts.com/store/ca/carlsbad/carlsbad,33.1764097,-117.3250281,,,n_8332520316,"shop=supermarket, brand=Sprouts Farmers Market, operator=Sprouts Farmers Market"
+"San Clemente, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/oceanside-ca-pharmacies/3925-n-river-rd-oceanside-ca-92058/storeid=9585,33.2447683,-117.323272,,,n_8609449364,"shop=chemist, brand=CVS Pharmacy"
+"San Clemente, CA",,retail,445110,ALDI,"4251 Oceanside Boulevard, Oceanside, CA, 92056-3471",+1-833-479-7052,https://stores.aldi.us/ca/oceanside/4251-oceanside-blvd,33.2079607,-117.2819851,,,n_8624327164,"shop=supermarket, brand=ALDI"
+"San Clemente, CA",,retail,445110,ALDI,"24270 El Toro Road, Laguna Woods, CA, 92637-3435",+1 949-273-0341,https://stores.aldi.us/ca/laguna-woods/24270-el-toro-rd,33.609552,-117.7234237,,,n_8663612432,"shop=supermarket, brand=ALDI"
+"San Clemente, CA",,retail,446120,Beauty Break,,,,33.4587039,-117.652844,,,n_8836594020,shop=beauty
+"San Clemente, CA",,retail,446120,Ocean View Nails,,,,33.4576163,-117.6520387,,,n_8836594021,shop=beauty
+"San Clemente, CA",,retail,446120,Bowhead Salon,"380 Camino de Estrella, San Clemente, 92672",+1 949 303 9599,https://www.bowheadsalon.com/,33.4559302,-117.6577163,,,n_8947316483,shop=beauty
+"San Clemente, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/fallbrook-ca-pharmacies/1101-s-mission-rd-fallbrook-ca-92028/storeid=9110,33.373623,-117.254155,,,n_9038367789,"shop=chemist, brand=CVS Pharmacy"
+"San Clemente, CA",,retail,446120,City Threading,,,,33.525629,-117.7134955,,,n_9139124149,shop=beauty
+"San Clemente, CA",,retail,452210,Kohl's,"22215 El Paseo, Rancho Santa Margarita, CA, 92688",+1 949-635-9314,https://www.kohls.com/stores/ca/ranchosantamargarita-548.shtml,33.6400059,-117.594741,,,n_9150005517,"shop=department_store, brand=Kohl's"
+"San Clemente, CA",,retail,445310,All Liquor,,,,33.6295371,-117.6642149,,,n_9166250717,shop=alcohol
+"San Clemente, CA",,retail,446120,Happy Nails and Spa,,,,33.5622133,-117.6472825,,,n_9241855847,shop=beauty
+"San Clemente, CA",,retail,453110,,,,,33.5958101,-117.8705845,,,n_9363217415,shop=florist
+"San Clemente, CA",,retail,453110,Blooms,,,,33.5944477,-117.8686006,,,n_9363236219,shop=florist
+"San Clemente, CA",,retail,446120,Alth,,,,33.6173983,-117.9279782,,,n_9364486607,shop=beauty
+"San Clemente, CA",,retail,446120,Aesop,,,,33.6181856,-117.928162,,,n_9364566527,"shop=cosmetics, brand=Aesop"
+"San Clemente, CA",,retail,445110,O.C. Kosher Market,,,,33.7383674,-117.8246967,,,n_9432371381,shop=supermarket
+"San Clemente, CA",,retail,452319,Daiso Japan,,,,33.7440827,-117.8181603,,,n_9437512282,"shop=variety_store, brand=Daiso"
+"San Clemente, CA",,retail,446191,Ivy's Bridge To Better Health,,,,33.7409247,-117.823936,,,n_9437532360,shop=health_food
+"San Clemente, CA",,retail,453110,The Vine Floral Studio,,,,33.7409238,-117.824334,,,n_9437532362,shop=florist
+"San Clemente, CA",,retail,445292,See's Candies,,,,33.7251693,-117.7910541,,,n_9467347345,"shop=confectionery, brand=See's Candies"
+"San Clemente, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/irvine-ca-pharmacies/15333-culver-blvd-suite-300-irvine-ca-92604/storeid=6768,33.6961591,-117.7994691,,,n_9591158269,"shop=chemist, brand=CVS Pharmacy"
+"San Clemente, CA",,retail,446120,Lovely Nail & Spa,,,,33.695973,-117.7994011,,,n_9591158273,shop=beauty
+"San Clemente, CA",,retail,446120,Ms Slim,,,,33.6955399,-117.7984973,,,n_9591158285,shop=beauty
+"San Clemente, CA",,retail,446120,Vital Beauty,,,,33.6965653,-117.7981217,,,n_9591158289,shop=beauty
+"San Clemente, CA",,retail,445310,BevMo!,,,,33.6968113,-117.8006029,,,n_9591158303,"shop=alcohol, brand=BevMo!"
+"San Clemente, CA",,retail,445310,,,,,33.7446031,-117.8140652,,,n_9622616766,shop=alcohol
+"San Clemente, CA",,retail,445120,Zot-N-Go,,,https://uci.campusdish.com/en/LocationsAndMenus/StudentCenter/ZotNGoMarket,33.648433,-117.8427363,,,n_9661959286,"shop=convenience, operator=UCI Dining"
+"San Clemente, CA",,retail,446120,Palace Beauty,,,,33.6887772,-117.8338506,,,n_9667302621,shop=beauty
+"San Clemente, CA",,retail,445120,7-Eleven,"6602 Irvine Center Drive, Irvine, CA, 92618",+1 949-341-0255,https://www.7-eleven.com/locations/ca/irvine/6602-irvine-center-dr-35601,33.6693018,-117.7656036,,,n_9720041292,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,445292,Balboa Candy,,,,33.6023758,-117.8990356,,,n_9796051965,shop=confectionery
+"San Clemente, CA",,retail,446120,Hada's Beauty Bar,"326 Marine Avenue, Newport Beach, CA, 92662",,,33.608205,-117.889697,,,n_9842727879,shop=beauty
+"San Clemente, CA",,retail,445292,Too Sweet Chocolate,"302 Marine Avenue, Newport Beach, CA, 92662",,,33.6071851,-117.8896879,,,n_9842727880,shop=chocolate
+"San Clemente, CA",,retail,445110,Olive Oil and Beyond,"210 Marine Avenue, Balboa Island, CA, 92662",,,33.606232,-117.889651,,,n_9842727884,shop=supermarket
+"San Clemente, CA",,retail,445292,Balboa Candy,"301 Marine Avenue, Newport Beach, CA, 92662",,,33.6070749,-117.8899501,,,n_9842727889,shop=confectionery
+"San Clemente, CA",,retail,446120,Skin Laundry,"123 Newport Center Drive, Newport Beach, CA, 92660",,,33.6145423,-117.874673,,,n_9937788592,"shop=beauty, brand=Skin Laundry"
+"San Clemente, CA",,retail,445292,See's Candies,"135 Newport Center Drive, Newport Beach, CA, 92660",,https://chocolateshops.sees.com/ca/newportbeach/chocolate_shops_newport-beach_ca_1ca108.html,33.6148778,-117.874637,,,n_9937788596,"shop=confectionery, brand=See's Candies"
+"San Clemente, CA",,retail,446120,Ulta Beauty,"427 Newport Center Drive, Newport Beach, CA, 92660",+1 949-640-0726,https://www.ulta.com/stores/newport-beach-ca-620,33.6163954,-117.874033,,,n_9941548059,"shop=cosmetics, brand=Ulta Beauty"
+"San Clemente, CA",,retail,445110,Whole Foods Market,"415 Newport Center Drive East, Newport Beach, CA, 92660",+1 949-999-8572,https://www.wholefoodsmarket.com/stores/newport,33.6165755,-117.8738232,,,n_9941548060,"shop=supermarket, brand=Whole Foods Market"
+"San Clemente, CA",,retail,446120,Madison Reed,"313 Newport Center Drive, Newport Beach, CA, 92660",+1-949-867-4277,https://www.madison-reed.com/colorbar/booking/newportbeach/services,33.6151166,-117.8750418,,,n_9976015492,"shop=beauty, brand=Madison Reed"
+"San Clemente, CA",,retail,452210,On,"343 Newport Center Drive, Newport Beach, CA, 92660",,,33.6156687,-117.875121,,,n_9976015505,shop=department_store
+"San Clemente, CA",,retail,446120,Paris Nails,,,,33.5942721,-117.2450397,,,n_10134424516,shop=beauty
+"San Clemente, CA",,retail,446120,ZO Skin Centre,"401 Newport Center Drive, Newport Beach, CA, 92660",+1-949-408-0800,https://newportbeach.zoskincentre.com/,33.6163512,-117.8747326,,,n_10158425885,shop=beauty
+"San Clemente, CA",,retail,446120,Lovely Nails,,,,33.7411946,-117.8208367,,,n_10159696875,shop=beauty
+"San Clemente, CA",,retail,445210,Honey Baked Ham,,,https://www.honeybaked.com/stores/10000059,33.7406731,-117.8208301,,,n_10159696881,"shop=butcher, amenity=fast_food, brand=Honey Baked Ham"
+"San Clemente, CA",,retail,446120,Genesa Threading,,,,33.7410416,-117.8208347,,,n_10159696884,shop=beauty
+"San Clemente, CA",,retail,446120,L'Occitane,"1047 Newport Center Drive, Newport Beach, CA, 92660",+1-949-718-0928,https://www.loccitane.com/on/demandware.store/Sites-OCC_US-Site/en_US/Stores-ShowStore?id=04OCST036,33.6157976,-117.8766956,,,n_10160980442,"shop=cosmetics, brand=L'Occitane"
+"San Clemente, CA",,retail,446120,Saje,"1089 Newport Center Drive, Newport Beach, CA, 92660",+1-949-759-1768,https://www.saje.com/ca/locations/CA/newport-beach/fashion-island,33.6150098,-117.8759764,,,n_10160980446,"shop=cosmetics, brand=Saje"
+"San Clemente, CA",,retail,446120,Lush,"249 Newport Center Drive, Newport Beach, CA, 92660",+1-949-759-1756,https://www.lushusa.com/shop?StoreID=413,33.6160029,-117.8757279,,,n_10160980454,"shop=cosmetics, brand=Lush"
+"San Clemente, CA",,retail,445310,Tuscany,,,,33.6642061,-117.2980556,,,n_10181089867,shop=alcohol
+"San Clemente, CA",,retail,446120,Blü Nail Bar and Spa,"1031 Newport Center Drive, Newport Beach, CA, 92660",+1-949-219-9888,https://www.blunailbarandspa.com/,33.6158729,-117.8762378,,,n_10181599246,shop=beauty
+"San Clemente, CA",,retail,446120,Creative Nails,,,,33.5932396,-117.2469191,,,n_10198255742,shop=beauty
+"San Clemente, CA",,retail,446110,Via Lido Drugs,,,,33.6180923,-117.9292762,,,n_10285001442,shop=chemist
+"San Clemente, CA",,retail,446120,Lucy's Nail Bar,,,,33.6635526,-117.2962269,,,n_10287875163,shop=beauty
+"San Clemente, CA",,retail,445120,Circle K,,,,33.6600848,-117.299689,,,n_10288335930,"shop=convenience, brand=Circle K"
+"San Clemente, CA",,retail,452319,Dollar Tree,13721 Newport Avenue,,,33.741597,-117.8205907,,,n_10290200544,"shop=variety_store, brand=Dollar Tree"
+"San Clemente, CA",,retail,446120,Diamond Nails & Spa,,,,33.6619148,-117.2997761,,,n_10292328482,shop=beauty
+"San Clemente, CA",,retail,445110,Mother’s,2963 Michelson Drive,,,33.6721685,-117.8461826,,,n_10293963682,shop=supermarket
+"San Clemente, CA",,retail,446120,Voluspa,"245 Newport Center Drive, Newport Beach, CA, 92660",+1-949-717-6855,https://www.voluspa.com/pages/fashion-island,33.6159826,-117.8755759,,,n_10294200301,shop=perfumery
+"San Clemente, CA",,retail,446120,Only Nailz,"1050 Pacific Coast Highway, Laguna Beach, CA, 92651",,,33.5345657,-117.7771205,,,n_10294231616,shop=beauty
+"San Clemente, CA",,retail,446120,Ocean NailBar,,,https://oceannailbar.com/,33.5337075,-117.7764874,,,n_10294231626,shop=beauty
+"San Clemente, CA",,retail,453110,The English Garden,,,,33.5333618,-117.7766414,,,n_10294231628,shop=florist
+"San Clemente, CA",,retail,446191,Cream of the Crop,,,,33.1715288,-117.3593829,,,n_10294246291,shop=health_food
+"San Clemente, CA",,retail,446120,Cosmo Nail Bar,"274 Broadway Street, Laguna Beach, 92651",,,33.5439134,-117.7844137,,,n_10295447269,shop=beauty
+"San Clemente, CA",,retail,445292,Rocky Mountain Chocolate Factory,"248 South Coast Highway, Laguna Beach, CA, 92651",,,33.542273,-117.7838285,,,n_10295608343,"shop=confectionery, brand=Rocky Mountain Chocolate Factory"
+"San Clemente, CA",,retail,446120,Bee Sugared,120 Tustin Avenue,,,33.6202873,-117.9222197,,,n_10302676235,shop=beauty
+"San Clemente, CA",,retail,446120,Cindy’s Nails & Lashes,120 Tustin Avenue,,,33.6202652,-117.922169,,,n_10302676237,shop=beauty
+"San Clemente, CA",,retail,446120,Glamorous Nails & Spa,120 Tustin Avenue,,,33.6203105,-117.9222712,,,n_10302676243,shop=beauty
+"San Clemente, CA",,retail,446120,Le Fleur Boutique,120 Tustin Avenue,,,33.6203542,-117.9223596,,,n_10302676245,shop=beauty
+"San Clemente, CA",,retail,445310,Balboa Wine,,,,33.6022155,-117.9005565,,,n_10303152630,shop=wine
+"San Clemente, CA",,retail,446120,Skinthetix,,,,33.6071154,-117.8899471,,,n_10303197985,shop=beauty
+"San Clemente, CA",,retail,446120,Hairy Little Things,,,,33.618538,-117.9290544,,,n_10309091128,shop=beauty
+"San Clemente, CA",,retail,446120,Le Labo,,,,33.6189762,-117.9285761,,,n_10309091133,shop=perfumery
+"San Clemente, CA",,retail,446120,Magic Nails,3404 Via Lido,,,33.6183699,-117.9285349,,,n_10309091134,shop=beauty
+"San Clemente, CA",,retail,446120,Beach Feet Spahhh,243 Broadway Street,,https://beachfeetspahhh.com,33.5433857,-117.7845338,,,n_10602696710,shop=beauty
+"San Clemente, CA",,retail,445120,,,,,33.1800225,-117.3261384,,,n_10610275827,shop=convenience
+"San Clemente, CA",,retail,446120,Max Relax Spa,,,,33.6293818,-117.7175841,,,n_10612191391,shop=beauty
+"San Clemente, CA",,retail,446120,Golden File Nail Salon,,,,33.6292742,-117.719157,,,n_10612209705,shop=beauty
+"San Clemente, CA",,retail,446120,Experience Divine Vibes,228 Forest Avenue,,https://experiencedivinevibes.com,33.5425825,-117.7831665,,,n_10617347124,shop=cosmetics
+"San Clemente, CA",,retail,446120,,,,,33.6642819,-117.2966956,,,n_10658370294,shop=beauty
+"San Clemente, CA",,retail,445120,Shell,"23852 El Toro Road, Lake Forest, CA, 92630",+1-949-380-9280,https://find.shell.com/us/fuel/12597236-23852-el-toro-rd,33.6155506,-117.7060798,,,n_10742083333,"shop=convenience, brand=Shell"
+"San Clemente, CA",,retail,445310,BevMo!,"23635 El Toro Road, Lake Forest, CA, 92630",+1-949-462-2101,https://www.bevmo.com/stores/lake-forest,33.6195899,-117.703794,,,n_10747713655,"shop=alcohol, brand=BevMo!"
+"San Clemente, CA",,retail,446120,European Wax Center,"23632 El Toro Road, Lake Forest, CA, 92630",+1-949-455-0031,https://locations.waxcenter.com/ca/lakeforest/lake-forest-0136.html,33.6186414,-117.7022007,,,n_10757296074,"shop=beauty, brand=European Wax Center"
+"San Clemente, CA",,retail,445110,Tula Market,"24418 Rockfield Boulevard, Lake Forest, CA, 92630",+1-949-581-5150,https://www.tulamarket.com/,33.6152788,-117.7032622,,,n_10757782967,shop=supermarket
+"San Clemente, CA",,retail,446120,Nails Lite,"24402 Rockfield Boulevard, Lake Forest, CA, 92630",+1-949-581-1178,,33.615059,-117.7033894,,,n_10757821164,shop=beauty
+"San Clemente, CA",,retail,453991,CigarSpots,"23532 El Toro Road, Lake Forest, CA, 92630",+1 949-830-7110,https://cigarspots.com/,33.6203937,-117.6985215,,,n_10776466533,"shop=tobacco, brand=CigarSpots"
+"San Clemente, CA",,retail,446120,Bel Age Nails and Spa,"23532 El Toro Road, Lake Forest, CA, 92630",+1 949-472-8838,https://belagenails.com/,33.6210007,-117.6981573,,,n_10776720561,shop=beauty
+"San Clemente, CA",,retail,446120,Belle Fleur,,,,33.5972271,-117.2411344,,,n_10778498321,shop=beauty
+"San Clemente, CA",,retail,453991,,,,,33.5966278,-117.2412512,,,n_10778945107,shop=tobacco
+"San Clemente, CA",,retail,446120,Nail Palace,,,,33.5966802,-117.2411651,,,n_10778945109,shop=beauty
+"San Clemente, CA",,retail,445110,Pinoy Pam's Best,"23635 El Toro Road, Lake Forest, CA, 92630",+1 949-292-7695; +1 949-454-0412,https://pinoypamsbest.com/,33.6200639,-117.7042051,,,n_10791161244,shop=supermarket
+"San Clemente, CA",,retail,446120,Twins Nails & Spa,"23615 El Toro Road, Lake Forest, CA, 92630",+1 949-770-7781,,33.6207858,-117.7029479,,,n_10791243112,shop=beauty
+"San Clemente, CA",,retail,445120,ExtraMile,"24571 Trabuco Road, Lake Forest, CA, 92630",+1 949-380-9292,https://www.chevronextramile.com/station-finder/24571-trabuco-road-lake-forest-ca-92630-2161-id206213/,33.6547559,-117.7010099,,,n_10795443540,"shop=convenience, brand=ExtraMile"
+"San Clemente, CA",,retail,445120,Baby Nutritional Center,"24602 Raymond Way, Lake Forest, CA, 92630",,,33.6205473,-117.7019903,,,n_10805887006,shop=convenience
+"San Clemente, CA",,retail,445310,Village Wine & Spirits,,+1 949-455-0400,,33.6294703,-117.7054177,,,n_10806655901,shop=alcohol
+"San Clemente, CA",,retail,446120,Allure Nail Lounge,"28251 Marguerite Parkway, Mission Viejo, CA, 92692",+1 949-276-4526,,33.5523446,-117.6714775,,,n_10810794215,shop=beauty
+"San Clemente, CA",,retail,446120,Blush & Co.,,,,33.1704639,-117.3578125,,,n_10832499807,shop=beauty
+"San Clemente, CA",,retail,453991,Outer Limits,,,,33.1710596,-117.3588491,,,n_10832522406,shop=tobacco
+"San Clemente, CA",,retail,446110,Rite Aid,1201 South Coast Highway,,https://www.riteaid.com/locations/ca/oceanside/1201-south-coast-highway.html,33.1830689,-117.3693625,,,n_10847502581,"shop=chemist, brand=Rite Aid"
+"San Clemente, CA",,retail,446120,,,,,33.7417835,-117.8203483,,,n_10847752380,shop=beauty
+"San Clemente, CA",,retail,446120,B&K Dreamy,,,,33.5989374,-117.2405608,,,n_10858327799,shop=beauty
+"San Clemente, CA",,retail,445310,Mesa Foods and Liquors,,,,33.5829268,-117.6326245,,,n_10866003288,shop=alcohol
+"San Clemente, CA",,retail,453110,Oceanside Florist,,,,33.1728995,-117.3604869,,,n_10914011605,shop=florist
+"San Clemente, CA",,retail,453110,French Florist - Orange County,"1741 Newport Boulevard, Costa Mesa, CA, 92627",+1-949-535-3088,https://www.frenchflorist.com,33.6378422,-117.922248,,,n_10946020869,shop=florist
+"San Clemente, CA",,retail,453110,Flowerful,"24191 Paseo de Valencia, Lake Forest, CA, 92630",,https://goflowerful.com/,33.6109451,-117.7141213,,,n_10983426071,shop=florist
+"San Clemente, CA",,retail,446120,Zia Threading,"24102 El Toro Road, Lake Forest, CA, 92630",,,33.6120715,-117.7141235,,,n_10983428854,shop=beauty
+"San Clemente, CA",,retail,446120,Brilliant Nails and Spa,"24102 El Toro Road, Lake Forest, CA, 92630",+1 949-380-8808,,33.6121518,-117.7143485,,,n_10983428857,shop=beauty
+"San Clemente, CA",,retail,445120,Mercado El Rey,"23532 El Toro Road, Lake Forest, CA, 92630",+1 949-380-0021,,33.6200129,-117.6988178,,,n_10991199157,shop=convenience
+"San Clemente, CA",,retail,452319,Daiso Japan,"23608 El Toro Road, Lake Forest, CA, 92630",+1-949-951-3051,https://daisous.com/,33.6186365,-117.7005833,,,n_10991476954,"shop=variety_store, brand=Daiso"
+"San Clemente, CA",,retail,446120,Ulta Beauty,"23608 El Toro Road, Lake Forest, CA, 92630",+1 949-470-9531,https://www.ulta.com/stores/lake-forest-ca-467,33.6187995,-117.7005069,,,n_10991476955,"shop=cosmetics, brand=Ulta Beauty"
+"San Clemente, CA",,retail,446191,A Better Day,"24601 Raymond Way, Lake Forest, CA, 92630",+1 949-273-3811,https://lucy2.goherbalife.com/,33.6218554,-117.7006019,,,n_11009606865,shop=health_food
+"San Clemente, CA",,retail,446120,RN Hair and Nails Salon,"24601 Raymond Way, Lake Forest, CA, 92630",+1 949-859-7580,,33.6217166,-117.700968,,,n_11009606871,shop=beauty
+"San Clemente, CA",,retail,445120,India Super Mart,"24601 Raymond Way, Lake Forest, CA, 92630",,https://theindiasupermart.com/,33.6217987,-117.7008742,,,n_11009606877,"shop=convenience, operator=India Super Mart LLC"
+"San Clemente, CA",,retail,446120,Impression Hair & Nail Salon,"24601 Raymond Way, Lake Forest, CA, 92630",+1 949-280-3263,,33.6216027,-117.7002419,,,n_11009606883,shop=beauty
+"San Clemente, CA",,retail,446120,OC Threading Salon,"24601 Raymond Way, Lake Forest, CA, 92630",+1 949-587-9088,,33.6216972,-117.7003622,,,n_11009606889,shop=beauty
+"San Clemente, CA",,retail,445120,Manila Food Mart,"24601 Raymond Way, Lake Forest, CA, 92630",+1 949-328-9980,https://manilafoodmart.com/,33.6218151,-117.7005486,,,n_11009606890,shop=convenience
+"San Clemente, CA",,retail,453110,Mission Viejo Florist,"24601 Raymond Way, Lake Forest, CA, 92630",+1 949-768-6788,https://missionviejoflorist.com/,33.6216814,-117.7010024,,,n_11009606892,shop=florist
+"San Clemente, CA",,retail,453991,Johnny's Up In Smoke,"24602 Raymond Way, Lake Forest, CA, 92630",+1 949-770-7374,,33.6207076,-117.7021768,,,n_11023604115,shop=tobacco
+"San Clemente, CA",,retail,446120,Pearl Hair & Nails,"24602 Raymond Way, Lake Forest, CA, 92630",+1 949-707-1273,,33.6209745,-117.7020666,,,n_11028819228,shop=beauty
+"San Clemente, CA",,retail,446120,Endurance Body Sculpting+,"24602 Raymond Way, Lake Forest, CA, 92630",+1 949-317-3038,https://endurancebodysculpting.com/,33.6212037,-117.7018534,,,n_11033377465,shop=beauty
+"San Clemente, CA",,retail,445120,Valentina Market & Carniceria,"24602 Raymond Way, Lake Forest, CA, 92630",+1 949-581-9660,,33.621245,-117.701743,,,n_11033392928,shop=convenience
+"San Clemente, CA",,retail,446120,H&Q Day Spa,"24602 Raymond Way, Lake Forest, CA, 92630",+1 949-273-3868,,33.621081,-117.7020485,,,n_11033412763,shop=beauty
+"San Clemente, CA",,retail,453110,No. 21 Floral Design,"1000 Quail Street, Newport Beach, CA, 92660",+1-949-370-8894,https://no.21floraldesign.com,33.6592725,-117.8656557,,,n_11061285859,shop=florist
+"San Clemente, CA",,retail,446120,Ti*Li,,,,33.590189,-117.2522363,,,n_11076247690,shop=beauty
+"San Clemente, CA",,retail,445120,7-Eleven,,,,33.6701872,-117.9197311,,,n_11124427605,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,446120,Newport Beauty Salon,,,,33.7390233,-117.8207186,,,n_11175357254,shop=beauty
+"San Clemente, CA",,retail,445110,International India Bazaar,"638 El Camino Real, Tustin",+1 714-832-4671,,33.7390653,-117.8248729,,,n_11218449016,shop=supermarket
+"San Clemente, CA",,retail,445120,Side Door,,,,33.6453092,-117.8394567,,,n_11258652451,shop=convenience
+"San Clemente, CA",,retail,446120,Beauty Studios OC,"2360 Newport Boulevad, Costa Mesa, CA, 92627",+1-949-645-1339,https://thebeautystudios.net,33.6561208,-117.903135,,,n_11266237506,"shop=beauty, operator=Florence Pham"
+"San Clemente, CA",,retail,445292,PUDN,,+1 (951) 304.9935,https://famouspudn.com/,33.5657751,-117.211868,,,n_11276017898,shop=confectionery
+"San Clemente, CA",,retail,446120,Marys Beauty,,,,33.434114,-117.6240526,,,n_11276018794,shop=beauty
+"San Clemente, CA",,retail,446120,Happiness,,,,33.5669056,-117.2129907,,,n_11276029707,shop=beauty
+"San Clemente, CA",,retail,446191,Cactus Nutrition Spot,,,,33.5657823,-117.2120467,,,n_11276032178,shop=health_food
+"San Clemente, CA",,retail,446120,Wonder Nails & Spa,,,,33.5969253,-117.2481594,,,n_11280358187,shop=beauty
+"San Clemente, CA",,retail,445310,Murrieta Country Market,,,,33.5544894,-117.215314,,,n_11281774045,shop=alcohol
+"San Clemente, CA",,retail,446120,Treat - A Salon and Spa,"42 Prism, Irvine, CA, 92618",,,33.653192,-117.7503481,,,n_11286621688,shop=beauty
+"San Clemente, CA",,retail,446120,The Finest Nails,"23600 El Toro Road, 92630",+1 949-855-8632,,33.6196186,-117.7010332,,,n_11301443165,shop=beauty
+"San Clemente, CA",,retail,446120,Sugar Coat Nails & Spa,"25431 Trabuco Road, 92630",+1 949-472-5010,,33.6478897,-117.6860117,,,n_11310671235,shop=beauty
+"San Clemente, CA",,retail,453110,Bloom Room Flowers,"25441 Trabuco Road, 92630",+1 949-215-0002,https://bloomroomoc.com/,33.6480202,-117.6857409,,,n_11310671492,shop=florist
+"San Clemente, CA",,retail,446120,Revive Aesthetics,"25411 Trabuco Road, 92630",+1 949-599-8509,https://reviveaestheticsoc.com/,33.6485201,-117.6864498,,,n_11310738957,shop=beauty
+"San Clemente, CA",,retail,446120,Gold Star Nails,"25422 Trabuco Road, 92630",+1 949-830-1296,,33.6477161,-117.6869638,,,n_11310920372,shop=beauty
+"San Clemente, CA",,retail,453110,Lake Forest Floral Design,21771 Lake Forest Drive,+1 949-855-6724,,33.6469315,-117.6885824,,,n_11310952986,shop=florist
+"San Clemente, CA",,retail,445310,Louie's Liquor,,,,33.5609103,-117.2117584,,,n_11361225236,shop=alcohol
+"San Clemente, CA",,retail,453991,The Hype,,,,33.5614924,-117.2118256,,,n_11361225241,shop=tobacco
+"San Clemente, CA",,retail,446120,,,,,33.5615321,-117.2117764,,,n_11361225242,shop=beauty
+"San Clemente, CA",,retail,445210,,,,,33.5609425,-117.2117958,,,n_11361225245,shop=butcher
+"San Clemente, CA",,retail,446120,Stud Cuts,,,,33.4300587,-117.616575,,,n_11415715332,shop=beauty
+"San Clemente, CA",,retail,445310,Village Spirit Shop,"502 South Main Avenue, Fallbrook, CA, 92028",,,33.378408,-117.2511926,,,n_11418295074,shop=alcohol
+"San Clemente, CA",,retail,453110,Fallbrook Florist,"522 South Main Avenue, Fallbrook, 92028",,https://www.fallbrookflorist.net/,33.3779774,-117.2512181,,,n_11418295080,shop=florist
+"San Clemente, CA",,retail,445120,7-Eleven,"631 South Main Street, Fallbrook, CA, 92028-2945",+1 760-728-0583,https://www.7-eleven.com/locations/ca/fallbrook/631-s.-main-st.-21800,33.3769925,-117.251788,,,n_11418295207,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,446120,Indego blue,,,,33.3789635,-117.2516781,,,n_11418295250,shop=beauty
+"San Clemente, CA",,retail,453991,Smoke Chalet,"235 East Mission Road, Fallbrook, CA, 92028",,,33.3844866,-117.2493151,,,n_11421018088,shop=tobacco
+"San Clemente, CA",,retail,445110,Frazier Farms Natural Grocery,"1820 Oceanside Boulevard, 92054",,https://frazierfarmsmarket.com/,33.1936453,-117.3588372,,,n_11427038469,shop=grocery
+"San Clemente, CA",,retail,453110,Colette Floral Studio,,,https://colettefloral.com/,33.4251958,-117.6136968,,,n_11439414643,shop=florist
+"San Clemente, CA",,retail,446110,Rite Aid,,,https://www.riteaid.com/locations/ca/costa-mesa/211-east-17th-street.html,33.6347234,-117.918792,,,n_11450611714,"shop=chemist, brand=Rite Aid"
+"San Clemente, CA",,retail,445110,Sprouts Farmers Market,"225 East 17th Street, Costa Mesa, CA, 92627",+1 949-698-1094,https://www.sprouts.com/store/ca/costa-mesa/costa-mesa-newport/,33.6344767,-117.9184402,,,n_11450611719,"shop=supermarket, brand=Sprouts Farmers Market"
+"San Clemente, CA",,retail,453110,Every Bloomin' Thing Fine Flowers,"250 East 17th Street, Costa Mesa, CA, 92627",949-646-7899,http://everybloominthingoc.com,33.6342931,-117.9168148,,,n_11464713947,"shop=florist, operator=Bettina Miller"
+"San Clemente, CA",,retail,446120,Newport Nails,,,,33.6112122,-117.8915715,,,n_11570004172,shop=beauty
+"San Clemente, CA",,retail,446110,Rite Aid,,,https://www.riteaid.com/locations/ca/newport-beach/1016-bayside-drive.html,33.6112133,-117.8922499,,,n_11570004176,"shop=chemist, brand=Rite Aid"
+"San Clemente, CA",,retail,445120,7-Eleven,"4221 Macarthur Boulevard, Newport Beach, CA, 92660",+1 949-752-7209,https://www.7-eleven.com/locations/ca/newport-beach/4221-macarthur-blvd-35765,33.6640935,-117.8641392,,,n_11573721071,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,445110,Ralphs,"1150 Irvine Avenue, Newport Beach, CA, 92660",+1 949-646-1411,https://www.ralphs.com/stores/grocery/ca/newport-beach/westcliff-plaza/703/00745,33.6293411,-117.9068694,,,n_11607935093,"shop=supermarket, brand=Ralphs"
+"San Clemente, CA",,retail,445110,Stater Bros.,"2180 Newport Boulevard, Costa Mesa, CA, 92627",+1 949-646-2324,https://www.staterbros.com/stores/25,33.6506885,-117.9087398,,,n_11607935094,"shop=supermarket, brand=Stater Bros."
+"San Clemente, CA",,retail,453991,Fire Up Smoke Shop,,,,33.4426924,-117.6426169,,,n_11704579923,shop=tobacco
+"San Clemente, CA",,retail,446120,Creative Nail and Spa,"3033 Bristol St, #119, Costa Mesa, CA, 92626",714-434-3797,https://creativenailandspacostamesa.com,33.6815948,-117.8867265,,,n_11782245228,"shop=beauty, operator=Lena Nguyen"
+"San Clemente, CA",,retail,445310,Mike's Liquor & Market,,,,33.1871889,-117.3725865,,,n_11794882957,shop=alcohol
+"San Clemente, CA",,retail,445110,Stater Bros. Markets,"16750 Lakeshore Drive, Lake Elsinore, CA, 92530",+1 951-674-1349,https://www.staterbros.com/stores/98,33.6868861,-117.3679824,,,n_11809317193,"shop=supermarket, brand=Stater Bros."
+"San Clemente, CA",,retail,445110,Trader Joe's,"32151 Camino Capistrano, San Juan Capistrano, CA, 92675",+1 949-496-4150,https://locations.traderjoes.com/ca/san-juan-capistrano/249/,33.4960297,-117.6634466,,,n_11809317194,"shop=supermarket, brand=Trader Joe's"
+"San Clemente, CA",,retail,445110,Ralphs,"28231 Crown Valley Parkway, Laguna Niguel, CA, 92677",+1 949-831-0767,https://www.ralphs.com/stores/grocery/ca/laguna-niguel/laguna-niguel-site-1/703/00738,33.5538624,-117.6873699,,,n_11809317195,"shop=supermarket, brand=Ralphs"
+"San Clemente, CA",,retail,445110,Ralphs,"5345 Alton Parkway, Irvine, CA, 92604",+1 949-552-0597,https://www.ralphs.com/stores/grocery/ca/irvine/alton-square/703/00154,33.6719801,-117.7897901,,,n_11809317196,"shop=supermarket, brand=Ralphs"
+"San Clemente, CA",,retail,453110,Saddleback Flowers,,,,33.7399292,-117.8233032,,,n_11863306291,shop=florist
+"San Clemente, CA",,retail,446120,,,,,33.7383754,-117.8249254,,,n_11913645342,shop=beauty
+"San Clemente, CA",,retail,446120,Thera Health Spa,,,,33.7389163,-117.8248733,,,n_11913645349,shop=beauty
+"San Clemente, CA",,retail,446120,Eco Now,"2930 Bristol Street, Costa Mesa, CA, 92626",657-900-2833,https://www.econowca.com/,33.6774684,-117.8858928,,,n_11982470297,shop=cosmetics
+"San Clemente, CA",,retail,452210,Target,"289 East 17th Street, Costa Mesa, CA, 92627-3831",+1 949-763-2392,https://www.target.com/sl/costa-mesa-17th-st/3391,33.632402,-117.916925,,,n_12035679437,"shop=department_store, brand=Target"
+"San Clemente, CA",,retail,453991,Casa Carreras Cigar,"106 Avenida Miramar, 92672",9494433113,,33.4286283,-117.6152692,,,n_12060303869,shop=tobacco
+"San Clemente, CA",,retail,446110,CVS Pharmacy,,,,33.6422459,-117.9202272,,,n_12113893969,"shop=chemist, brand=CVS Pharmacy"
+"San Clemente, CA",,retail,446120,Fill Up Buttercup,"1125 Victoria Street, Costa Mesa, CA, 92627",+1 714-785-6686,https://www.fillupbuttercup.com,33.6513691,-117.9466337,,,n_12146887924,shop=cosmetics
+"San Clemente, CA",,retail,446191,Amis de la Terre Zero-Waste Market,"1125 Victoria Street, Costa Mesa, CA, 92627",+1 949-612-7068,https://www.amisdelaterremarket.com,33.6513679,-117.9468983,,,n_12146911338,shop=health_food
+"San Clemente, CA",,retail,446120,Fill Up Buttercup,"Costa Mesa, CA, 92627",,,33.6513691,-117.9466337,,,n_12146915719,shop=cosmetics
+"San Clemente, CA",,retail,446191,Fermentation Farm,"1125 Victoria Street, Costa Mesa, CA, 92627",+1 949-650-0830,https://fermfarm.com,33.6515697,-117.9471273,,,n_12146939533,"shop=health_food, amenity=restaurant"
+"San Clemente, CA",,retail,445310,Newport Wine and Spirits,,,,33.5946562,-117.8690977,,,n_12193456218,shop=alcohol
+"San Clemente, CA",,retail,446110,CVS Pharmacy,"2701 Harbor Blvd, Costa Mesa, CA, 92626",,,33.6719374,-117.9216183,,,n_12208369832,"shop=chemist, brand=CVS Pharmacy"
+"San Clemente, CA",,retail,453991,Aficionado Cigar Bar,23825 El Toro Road,,,33.6171757,-117.7064838,,,n_12252032497,"shop=tobacco, brand=Smoker Friendly"
+"San Clemente, CA",,retail,452210,TJ Maxx & HomeGoods,"2817 Park Avenue, Tustin, CA, 92782",+1 714-258-8452,,33.6971858,-117.8250855,,,n_12378484922,"shop=department_store, brand=TJ Maxx;HomeGoods"
+"San Clemente, CA",,retail,445110,Mother's,,,,33.6426327,-117.9163163,,,n_12383918348,shop=supermarket
+"San Clemente, CA",,retail,446120,Newport Nails,92660,949-287-6200,https://newportnails.com/newport-hills/,33.6259446,-117.8489137,,,n_12386643802,shop=beauty
+"San Clemente, CA",,retail,445310,Old World Liquor,,,,33.7114254,-117.7596909,,,n_12396698310,shop=alcohol
+"San Clemente, CA",,retail,446120,Barefoot Beauty Studio,,,,33.7110404,-117.7597439,,,n_12398579713,shop=beauty
+"San Clemente, CA",,retail,452319,Dollar Tree,,,,33.5738451,-117.7254509,,,n_12437564459,"shop=variety_store, brand=Dollar Tree"
+"San Clemente, CA",,retail,445292,Rocket Fizz,"823 Spectrum Center Drive, Irvine, CA, 92618",,,33.6489704,-117.7420659,,,n_12442832378,"shop=confectionery, brand=Rocket Fizz"
+"San Clemente, CA",,retail,445110,Frazier Farms,,,,33.1937478,-117.3587812,,,n_12466355353,shop=supermarket
+"San Clemente, CA",,retail,445120,Wisconsin Market,,,,33.1870141,-117.3757997,,,n_12487171138,shop=convenience
+"San Clemente, CA",,retail,453110,Semper Fi Florist,"521 Vandegrift Boulevard, Oceanside, CA, 92057",,,33.2557591,-117.2994971,,,n_12586517353,shop=florist
+"San Clemente, CA",,retail,452319,Dollar Tree,"4908 North River Road, Oceanside, CA, 92057",,,33.2510886,-117.3006748,,,n_12586517354,"shop=variety_store, brand=Dollar Tree"
+"San Clemente, CA",,retail,445110,Grocery Outlet,"1527 Mission Avenue, Oceanside, CA, 92058",+1+760-696-9900,https://www.groceryoutlet.com/store-locator?store_location=oceanside%2C+ca,33.2003625,-117.3678604,,,n_12658118874,"shop=supermarket, brand=Grocery Outlet"
+"San Clemente, CA",,retail,452210,dd's Discounts,"1527 Mission Avenue, Oceanside, CA, 92058",+1-760-721-2172,https://ddsdiscounts.com,33.2008043,-117.3668475,,,n_12658125155,"shop=department_store, brand=dd's Discounts"
+"San Clemente, CA",,retail,445110,El Super,"1527 Mission Avenue, Oceanside, CA, 92058",1+760-681-5130,https://elsupermarkets.com/store/oceanside/,33.2006047,-117.3673051,,,n_12658129047,"shop=supermarket, brand=El Super"
+"San Clemente, CA",,retail,453110,Kissed By Tulips,"1838 Newport Boulevard, Costa Mesa, CA, 92627",+1-949-287-6622,,33.6415586,-117.9180144,,,n_12688082170,shop=florist
+"San Clemente, CA",,retail,446120,Shades Tan,"603 Vista Way, Oceanside, CA",,https://www.shadestan.com,33.1725985,-117.3584551,,,n_12692906561,shop=beauty
+"San Clemente, CA",,retail,446120,Beauty Boost Med Spa,"20341 SW Birch St., Newport Beach, CA, 92660",(949) 514-8602,https://beautyboostmedspa.com/,33.6569425,-117.877998,,,n_12704331516,shop=beauty
+"San Clemente, CA",,retail,446120,Vegan Liftz,"1300 Avenida Vista Hermosa, San Clemente, CA, 92673",949-248-0131,https://veganliftz.com/,33.4585833,-117.5928518,,,n_12723483376,shop=beauty
+"San Clemente, CA",,retail,453991,Mission Smoke Shop,"27736 Santa Margarita Parkway, Mission Viejo, CA, 92691",+1 949-699-3700,,33.6513217,-117.6463113,,,n_12836169718,shop=tobacco
+"San Clemente, CA",,retail,446120,Top Nails,"27740 Santa Margarita Parkway, Mission Viejo, CA, 92691",+1 949-454-1994,,33.6512503,-117.6462093,,,n_12836169719,shop=beauty
+"San Clemente, CA",,retail,446120,,1167 Irvine Boulevard,,,33.7479917,-117.8083163,,,n_12856849631,shop=beauty
+"San Clemente, CA",,retail,445120,Rocket,,,,33.6757996,-117.3241556,,,n_12858915040,"shop=convenience, brand=Rocket"
+"San Clemente, CA",,retail,445120,7-Eleven,,,,33.6762557,-117.3247974,,,n_12858915042,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,445292,See's Candies,,,,33.6784401,-117.6654081,,,n_12872219808,"shop=confectionery, brand=See's Candies"
+"San Clemente, CA",,retail,446120,Naumov’s Barbershop,,,,33.4257078,-117.6112642,,,n_12889528746,shop=beauty
+"San Clemente, CA",,retail,445110,Tokyo Central,,,,33.6797531,-117.9205653,,,n_13004744172,"shop=supermarket, operator=Tokyo Central"
+"San Clemente, CA",,retail,446120,Zen Nail Lounge,,,,33.6580592,-117.9181693,,,n_13005423389,shop=beauty
+"San Clemente, CA",,retail,446120,Dylan Blue Nail Spa,,,,33.7114107,-117.8180723,,,n_13007126091,shop=beauty
+"San Clemente, CA",,retail,446120,Ritz Nails,,,,33.6973596,-117.8284952,,,n_13007152358,shop=beauty
+"San Clemente, CA",,retail,446120,Stars Threading,,,,33.7004859,-117.8294655,,,n_13007169099,shop=beauty
+"San Clemente, CA",,retail,445292,Teuscher Chocolates,,+1-949-612-8181,,33.6032865,-117.8736869,,,n_13009463577,shop=chocolate
+"San Clemente, CA",,retail,446120,Demming Beauty Loft,"Corona Del Mar, CA, 92625",+1-949-633-1518,,33.6033128,-117.8737252,,,n_13009463578,shop=beauty
+"San Clemente, CA",,retail,453110,Paul’s Flowers,,+1-949-644-8990,,33.6026826,-117.8730363,,,n_13011060263,shop=florist
+"San Clemente, CA",,retail,446120,South Coast Electrolysis,,,,33.6014486,-117.8729797,,,n_13011953056,shop=beauty
+"San Clemente, CA",,retail,446120,Lash Pilot,"2711 E Coast Highway, Corona Del Mar, CA, 92625",+1-714-260-3910,https://www.lashpilot.com,33.601524,-117.8730102,,,n_13011953057,shop=beauty
+"San Clemente, CA",,retail,446110,CVS Pharmacy,,,,33.6405412,-117.87647,,,n_13012206454,"shop=chemist, brand=CVS Pharmacy"
+"San Clemente, CA",,retail,445120,Circle K,,,,33.6622505,-117.8966454,,,n_13012210251,"shop=convenience, brand=Circle K"
+"San Clemente, CA",,retail,445120,7-Eleven,,,,33.65609,-117.9071922,,,n_13012368805,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,452319,Dollar Tree,"2230 Fairview Road, Costa Mesa, CA, 92626",,,33.6551918,-117.9069512,,,n_13012368809,"shop=variety_store, brand=Dollar Tree"
+"San Clemente, CA",,retail,446120,Dylan Blue Nail Spa,,,,33.6721247,-117.9211576,,,n_13012413985,shop=beauty
+"San Clemente, CA",,retail,446120,Palm Beach Tan,,,,33.6715904,-117.9197614,,,n_13012413991,"shop=beauty, brand=Palm Beach Tan"
+"San Clemente, CA",,retail,446120,La Belle Nail Spa,,,,33.6723766,-117.9185318,,,n_13012433279,shop=beauty
+"San Clemente, CA",,retail,446120,My Head 2 Toe,,,,33.6547263,-117.9170791,,,n_13012433287,shop=beauty
+"San Clemente, CA",,retail,446120,Aroma Head Salon,,,,33.6728208,-117.9190229,,,n_13012433296,shop=beauty
+"San Clemente, CA",,retail,446120,,,,,33.6729179,-117.9188394,,,n_13012459608,shop=beauty
+"San Clemente, CA",,retail,446120,White Feather Lashes,,,,33.6724757,-117.9185339,,,n_13012459618,shop=beauty
+"San Clemente, CA",,retail,446120,Purelux Scalp Spa,,,,33.6383814,-117.8633818,,,n_13016306426,shop=beauty
+"San Clemente, CA",,retail,446110,CVS Pharmacy,,,,33.6279241,-117.9068137,,,n_13019486847,"shop=chemist, brand=CVS Pharmacy"
+"San Clemente, CA",,retail,446120,,,,,33.6420423,-117.9153389,,,n_13020222533,shop=beauty
+"San Clemente, CA",,retail,445310,,,,,33.6419815,-117.9154229,,,n_13020222534,shop=alcohol
+"San Clemente, CA",,retail,446120,Newport Nails,,,,33.6291723,-117.9065817,,,n_13022232565,shop=beauty
+"San Clemente, CA",,retail,445210,Wild Fork,,,,33.6284907,-117.9091773,,,n_13022262554,shop=butcher
+"San Clemente, CA",,retail,446120,LaserAway,,,,33.6313172,-117.913565,,,n_13023491821,"shop=beauty, brand=LaserAway"
+"San Clemente, CA",,retail,445310,BevMo!,,,,33.6428023,-117.920227,,,n_13024849752,"shop=alcohol, brand=BevMo!"
+"San Clemente, CA",,retail,445310,,,,,33.6516901,-117.9079858,,,n_13027000970,shop=alcohol
+"San Clemente, CA",,retail,446120,Del Mar Nails & Spa,,,,33.5949467,-117.8688039,,,n_13043879463,shop=beauty
+"San Clemente, CA",,retail,445110,Grocery Outlet,,,,33.6419535,-117.9202211,,,n_13050665753,"shop=supermarket, brand=Grocery Outlet"
+"San Clemente, CA",,retail,453110,Island Florals,,,,33.6791337,-117.9098783,,,n_13050665755,shop=florist
+"San Clemente, CA",,retail,446110,Irvine Pharmacy,,+19496511111,,33.7075451,-117.782351,,,n_13076350664,shop=chemist
+"San Clemente, CA",,retail,445210,Prime Meat Market,,,,33.7079068,-117.7820103,,,n_13076350671,shop=butcher
+"San Clemente, CA",,retail,452210,Target,"3750 Barranca Parkway, Irvine, CA, 92606",+1 949-857-8337,https://www.target.com/sl/irvine/336,33.6853683,-117.8132841,,,w_30265679,"shop=department_store, brand=Target"
+"San Clemente, CA",,retail,445110,Stater Bros.,"25636 Crown Valley Parkway, Ladera Ranch, CA, 92694",+1 949-462-9696,https://www.staterbros.com/stores/203,33.564133,-117.631188,,,w_30994351,"shop=supermarket, brand=Stater Bros."
+"San Clemente, CA",,retail,452210,Macy's Home Furniture,,,,33.6932794,-117.8929016,,,w_40869143,"shop=department_store, brand=Macy's"
+"San Clemente, CA",,retail,445110,Ralphs,"23801 Washington Avenue, Murrieta, CA, 92562",+1 951-677-2297,https://www.ralphs.com/stores/grocery/ca/murrieta/plaza-del-oro-sc/703/00118,33.570396,-117.2346176,,,w_43971826,"shop=supermarket, brand=Ralphs"
+"San Clemente, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/murrieta-ca-pharmacies/23791-washington-ave-murrieta-ca-92562/storeid=9157,33.570831,-117.2350658,,,w_43972233,"shop=chemist, amenity=pharmacy, brand=CVS Pharmacy"
+"San Clemente, CA",,retail,445120,Circle K,"26871 Aliso Creek Road, Aliso Viejo, CA, 92656",,,33.5724687,-117.7238544,,,w_44123428,"shop=convenience, brand=Circle K"
+"San Clemente, CA",,retail,445110,Ralphs,"26901 Aliso Creek Road, Aliso Viejo, CA, 92656",+1 949-362-3727,https://www.ralphs.com/stores/grocery/ca/aliso-viejo/aliso-pacific-plaza/703/00755,33.5714561,-117.7256547,,,w_44123471,"shop=supermarket, brand=Ralphs"
+"San Clemente, CA",,retail,445110,Albertsons,"3925 Mission Avenue, Oceanside, CA, 92058",+1 760-433-8107,https://local.albertsons.com/ca/oceanside/3925-mission-ave.html,33.2275462,-117.3239024,,,w_53697765,"shop=supermarket, brand=Albertsons"
+"San Clemente, CA",,retail,445120,ampm,,,,33.6607426,-117.2990249,,,w_62333837,"shop=convenience, brand=ampm"
+"San Clemente, CA",,retail,445120,ExtraMile,"31640 Mission Trail, Lake Elsinore, CA, 92530-4565",+1-951- 674-6393,https://www.chevronextramile.com/station-finder/31640-mission-trl-lake-elsinore-ca-92530-4565-id90802/,33.6609592,-117.3010311,,,w_62333855,"shop=convenience, brand=ExtraMile"
+"San Clemente, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/lake-elsinore/31805-grape-st-35344,33.6630137,-117.2978361,,,w_62334279,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,445110,Mercado Gonzàlez Northgate Market,"2263 Harbor Boulevard, Costa Mesa, 92626",,https://www.northgatemarket.com/mercado,33.6569489,-117.9168865,,,w_66785248,"shop=supermarket, operator=Northgate Gonzalez"
+"San Clemente, CA",,retail,452210,TJ Maxx Homegoods,"2300 Harbor Boulevard, Costa Mesa, CA, 92626",+1 9495749058,https://tjmaxx.tjx.com/store/stores/Costa+Mesa-CA-92626/23/aboutstore,33.6576952,-117.9168365,,,w_66785581,"shop=department_store, brand=TJ Maxx"
+"San Clemente, CA",,retail,445110,Smart & Final,"711 West 19th Street, Costa Mesa, CA, 92627",,,33.6427298,-117.9282566,,,w_69338689,"shop=supermarket, brand=Smart & Final"
+"San Clemente, CA",,retail,445110,Trader Joe's,"620 West 17th Street, Costa Mesa, CA, 92627",+1 949-642-5134,https://locations.traderjoes.com/ca/costa-mesa/35/,33.636757,-117.924685,,,w_70003748,"shop=supermarket, brand=Trader Joe's"
+"San Clemente, CA",,retail,445230,Grower's Direct,"101 East 17th Street, Costa Mesa, 92627",,,33.6358285,-117.9235326,,,w_70185747,shop=greengrocer
+"San Clemente, CA",,retail,452210,Target,"3030 Harbor Boulevard, Costa Mesa, CA, 92626-2562",+1 714-979-0372,https://www.target.com/sl/costa-mesa/1293,33.6825497,-117.9173065,,,w_70336375,"shop=department_store, brand=Target"
+"San Clemente, CA",,retail,445110,Sprouts Farmers Market,"3030 Harbor Boulevard, Costa Mesa, CA, 92626",+1 714-751-6399,https://www.sprouts.com/store/ca/costa-mesa/costa-mesa-harbor-blvd/,33.6816326,-117.9174153,,,w_70337516,"shop=supermarket, brand=Sprouts Farmer Market"
+"San Clemente, CA",,retail,445120,Circle K,"3006 Harbor Boulevard, Costa Mesa, CA, 92626",,,33.6804692,-117.9184585,,,w_70337765,"shop=convenience, brand=Circle K"
+"San Clemente, CA",,retail,445110,Mitsuwa,"665 Paularino Avenue, Costa Mesa, CA, 92626",714-557-6699,https://mitsuwa.com/cm/,33.6814555,-117.8840566,,,w_71270499,shop=supermarket
+"San Clemente, CA",,retail,445110,Walmart Supercenter,"705 College Boulevard, Oceanside, CA, 92057",+1-760-631-0434,https://www.walmart.com/store/2245-oceanside-ca,33.2412149,-117.2908826,,,w_77684730,"shop=supermarket, brand=Walmart, operator=Walmart"
+"San Clemente, CA",,retail,446110,CVS Pharmacy,"4615 Frazee Road, Oceanside, CA",,https://www.cvs.com/store-locator/oceanside-ca-pharmacies/4615-frazee-road-oceanside-ca-92057/storeid=9532,33.2381021,-117.2984174,,,w_77687362,"shop=chemist, brand=CVS Pharmacy"
+"San Clemente, CA",,retail,445110,Vons,"185 East 17th Street, Costa Mesa, CA, 92627",+1 949-515-3444,https://local.vons.com/ca/costa-mesa/185-e-17th-st.html,33.6345184,-117.9204372,,,w_83219703,"shop=supermarket, brand=Vons"
+"San Clemente, CA",,retail,445120,ExtraMile,"1687 Orange Avenue, Costa Mesa, 92627",,,33.6352536,-117.9193664,,,w_83348154,"shop=convenience, brand=ExtraMile"
+"San Clemente, CA",,retail,445120,,"1654 Santa Ana Avenue, Costa Mesa, 92627",,,33.6316402,-117.9162783,,,w_83348628,shop=convenience
+"San Clemente, CA",,retail,445120,,"1901 Newport Boulevard, Costa Mesa, 92627",,,33.6433217,-117.9158371,,,w_86094123,shop=convenience
+"San Clemente, CA",,retail,445110,Trader Joe's,"26541 Aliso Creek Road, Aliso Viejo, CA, 92656",+1 949-643-5531,https://www.traderjoes.com/stores,33.5773894,-117.7245276,,,w_98965005,"shop=supermarket, brand=Trader Joe's"
+"San Clemente, CA",,retail,452210,Target,"900 Spectrum Center Drive, Irvine, CA, 92618",+1 949-885-0114,https://www.target.com/sl/irvine-spectrum/2128,33.6478657,-117.7408375,,,w_99574645,"shop=department_store, brand=Target"
+"San Clemente, CA",,retail,445110,H Mart,"3931 Irvine Boulevard, Irvine, CA, 92602",+1-949-739-7474,https://www.hmart.com/storelocator/index/index/id/128,33.7240812,-117.7721375,,,w_99985443,"shop=supermarket, brand=H Mart"
+"San Clemente, CA",,retail,445120,Ortega Oaks Candy Store and Goods,"34950 Ortega Highway, Lake Elsinore",,http://www.the74candystore.com,33.6127893,-117.4262931,,,w_100946310,shop=convenience
+"San Clemente, CA",,retail,445110,Amazon Fresh,"13672 Jamboree Road, Irvine, CA, 92602",,,33.7199264,-117.7923451,,,w_101121784,"shop=supermarket, brand=Amazon Fresh"
+"San Clemente, CA",,retail,446120,Ulta Beauty,"13676 Jamboree Road, Irvine, CA, 92602",+1 714-573-2675,https://www.ulta.com/stores/irvine-ca-736,33.7202528,-117.7920213,,,w_101121785,"shop=cosmetics, brand=Ulta Beauty"
+"San Clemente, CA",,retail,446120,Happy Nails,"26601 Aliso Creek Road, Aliso Viejo, CA, 92656",,,33.5755111,-117.7249963,,,w_101438354,shop=beauty
+"San Clemente, CA",,retail,445120,ExtraMile,"6320 Irvine Boulevard, Irvine, 92620",,,33.6951419,-117.7415493,,,w_101568496,"shop=convenience, brand=ExtraMile"
+"San Clemente, CA",,retail,446110,Walgreens,"6316 Irvine Boulevard, Irvine, CA, 92620",,https://www.walgreens.com/locator/walgreens-6316+irvine+blvd-irvine-ca-92620/id=9883,33.69609,-117.7418797,,,w_101619532,"shop=chemist, brand=Walgreens"
+"San Clemente, CA",,retail,445110,Ralphs,"6300 Irvine Boulevard, Irvine, CA, 92620",+1 949-559-1139,https://www.ralphs.com/stores/grocery/ca/irvine/woodbury-town-center/703/00299,33.6966014,-117.7427086,,,w_101619537,"shop=supermarket, brand=Ralphs"
+"San Clemente, CA",,retail,445110,Trader Joe's,"6222 Irvine Boulevard, Irvine, CA, 92620",+1 949-551-6402,https://locations.traderjoes.com/ca/irvine/210/,33.6984553,-117.7432359,,,w_101627801,"shop=supermarket, brand=Trader Joe's"
+"San Clemente, CA",,retail,445120,ExtraMile,,,,33.7337367,-117.761148,,,w_102683964,"shop=convenience, brand=ExtraMile"
+"San Clemente, CA",,retail,445120,ExtraMile,,,,33.7226332,-117.771989,,,w_103305938,"shop=convenience, brand=ExtraMile"
+"San Clemente, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/irvine-ca-pharmacies/3981-irvine-boulevard-irvine-ca-92602/storeid=9562,33.7229215,-117.7705575,,,w_103305945,"shop=chemist, brand=CVS Pharmacy"
+"San Clemente, CA",,retail,445110,Lake Elsinore Market,,,,33.6570566,-117.3757891,,,w_104936600,shop=supermarket
+"San Clemente, CA",,retail,452210,Target,"13200 Jamboree Road, Irvine, CA, 92602",+1 714-838-1209,https://www.target.com/sl/irvine-north/1238,33.727061,-117.7857408,,,w_106578029,"shop=department_store, brand=Target"
+"San Clemente, CA",,retail,452210,Target,"2300 Park Avenue, Tustin, CA, 92782",+1 714-361-2100,https://www.target.com/sl/tustin/2151,33.7002786,-117.8273557,,,w_106581400,"shop=department_store, brand=Target"
+"San Clemente, CA",,retail,452210,Nordstrom,"800 Spectrum Center Drive, Irvine, CA, 92618",,https://www.nordstrom.com/store-details/nordstrom-irvine-spectrum-center,33.6487155,-117.7427615,,,w_106587418,"shop=department_store, brand=Nordstrom"
+"San Clemente, CA",,retail,445310,BevMo!,24390 Village Walk Place,,,33.5681114,-117.213651,,,w_106912519,"shop=alcohol, brand=BevMo!"
+"San Clemente, CA",,retail,452210,Macy's,"101 Newport Center Drive, Newport Beach, 92660",,https://www.macys.com/stores/ca/newportbeach/fashion-island_528.html,33.614462,-117.8754144,,,w_107263884,"shop=department_store, brand=Macy's"
+"San Clemente, CA",,retail,452210,Bloomingdale's,"701 Newport Center Drive, Newport Beach, CA, 92660",+1-949-729-6600,https://locations.bloomingdales.com/newport-fashion-island,33.6174402,-117.8758671,,,w_107263890,"shop=department_store, brand=Bloomingdale's"
+"San Clemente, CA",,retail,452210,Neiman Marcus,"601 Newport Center Drive, Newport Beach, CA, 92660",+1-949-759-1900,https://www.neimanmarcus.com/stores/newport%20beach/ca/newport%20beach%20-%20fashion%20island,33.6179216,-117.8751084,,,w_107263894,"shop=department_store, brand=Neiman Marcus"
+"San Clemente, CA",,retail,452210,Nordstrom,"901 Newport Center Drive, Newport Beach, CA, 92660",+1-949-610-0700,https://www.nordstrom.com/store-details/united-states/ca/newport-beach/nordstrom-fashion-island,33.6160629,-117.8776645,,,w_107263897,"shop=department_store, brand=Nordstrom"
+"San Clemente, CA",,retail,445120,ampm,,,,33.5948624,-117.2470947,,,w_112118758,"shop=convenience, brand=ampm"
+"San Clemente, CA",,retail,445110,Stater Bros.,"36010 Hidden Springs Road, Wildomar, CA, 92595",+1 951-678-3191,https://www.staterbros.com/stores/174,33.597239,-117.2477823,,,w_112118769,"shop=supermarket, brand=Stater Bros."
+"San Clemente, CA",,retail,445120,Shell Select,23805 Clinton Keith Road,,,33.5961718,-117.2433322,,,w_112118998,"shop=convenience, brand=Shell Select"
+"San Clemente, CA",,retail,445120,ExtraMile,"23905 Catt Road, Wildomar, CA, 92595",,,33.5975658,-117.2433992,,,w_112119159,"shop=convenience, brand=ExtraMile"
+"San Clemente, CA",,retail,445120,ampm,"14111 Jeffrey Road, Irvine, 92620",,,33.6956,-117.7633577,,,w_113645862,"shop=convenience, brand=ampm"
+"San Clemente, CA",,retail,446110,CVS Pharmacy,,,,33.7341608,-117.7595764,,,w_113757242,"shop=chemist, brand=CVS Pharmacy"
+"San Clemente, CA",,retail,445110,Pavilions,"3901 Portola Parkway, Irvine, CA, 92620",+1-657-273-5753,https://local.pavilions.com/ca/irvine/3901-portola-pkwy.html,33.7350009,-117.7606698,,,w_113757245,"shop=supermarket, brand=Pavilions"
+"San Clemente, CA",,retail,445110,Albertsons,"30901 Riverside Drive, Lake Elsinore, CA, 92530",+1 951-245-4461,https://local.albertsons.com/ca/lake-elsinore/30901-riverside-dr.html,33.686074,-117.3670048,,,w_118778627,"shop=supermarket, brand=Albertsons"
+"San Clemente, CA",,retail,445120,ampm,"1501 North Melrose Drive, Oceanside, CA, 92056",,,33.2201048,-117.259321,,,w_122351535,"shop=convenience, brand=ampm"
+"San Clemente, CA",,retail,446110,CVS Pharmacy,"1150 Baker Street, Costa Mesa, CA, 92626",,https://www.cvs.com/store-locator/costa-mesa-ca-pharmacies/1150-baker-st-costa-mesa-ca-92626/storeid=9484,33.6805021,-117.9056484,,,w_127106462,"shop=chemist, brand=CVS Pharmacy"
+"San Clemente, CA",,retail,445120,,"3000 Fairview Road, Costa Mesa, CA, 92626",,,33.6805817,-117.9071876,,,w_127106465,shop=convenience
+"San Clemente, CA",,retail,445120,Speedway,"751 Baker Street, Costa Mesa, CA, 92626",,https://www.speedway.com/locations/CA/Costa-Mesa/751-BAKER-ST,33.6796969,-117.8882687,,,w_127288324,"shop=convenience, brand=Speedway"
+"San Clemente, CA",,retail,445110,Newport Coast® Shopping Center,"21181 Newport Coast Drive, Newport Beach, 92657",,https://local.pavilions.com/ca/newport-coast-1911.html,33.6067248,-117.8277802,,,w_129368753,shop=supermarket
+"San Clemente, CA",,retail,445110,Pavilions,"600 Pacific Coast Highway, Laguna Beach, 92651",,https://local.pavilions.com/ca/laguna-beach/600-n-pacific-coast-hwy.html,33.5464266,-117.7935676,,,w_129382037,"shop=supermarket, brand=Pavilions"
+"San Clemente, CA",,retail,445110,Pavilions,"1000 Bayside Drive, 92660",,https://local.pavilions.com/ca/newport-beach/1000-bayside-dr.html,33.6113064,-117.8926096,,,w_129382229,"shop=supermarket, brand=Pavilions"
+"San Clemente, CA",,retail,445110,Pavilions,"22451 Antonio Parkway, Rancho Santa Margarita, CA, 92688",+1 (949) 858-0164,https://local.pavilions.com/ca/rancho-santa-margarita/22451-antonio-pkwy.html,33.6368277,-117.5915834,,,w_129382676,"shop=supermarket, brand=Pavilions"
+"San Clemente, CA",,retail,445110,Vons,"985 Tamarack Avenue, Carlsbad, CA, 92008",+1 760-729-4722,https://local.vons.com/ca/carlsbad/985-tamarack-ave.html,33.1522641,-117.3339653,,,w_130005377,"shop=supermarket, brand=Vons"
+"San Clemente, CA",,retail,445110,Vons,"2560 El Camino Real, Oceanside, CA, 92008",+1 760-729-2771,https://local.vons.com/ca/carlsbad/2560-el-camino-real.html,33.178714,-117.3247382,,,w_130005518,"shop=supermarket, brand=Vons"
+"San Clemente, CA",,retail,445110,Vons,"11800 De Palma Road, Temescal Valley, CA, 92883",+1 951-603-0809,https://local.vons.com/ca/temescal-valley/11800-de-palma-rd.html,33.7474233,-117.4531732,,,w_130007118,"shop=supermarket, brand=Vons"
+"San Clemente, CA",,retail,445110,Vons,"CA, 92626",+1 714-751-4270,https://local.vons.com/ca/costa-mesa/2701-b-harbor-blvd.html,33.6718034,-117.9202799,,,w_130008574,"shop=supermarket, brand=Vons"
+"San Clemente, CA",,retail,445110,Pavilions,"27320 Alicia Parkway, Laguna Niguel, CA, 92677",,https://local.pavilions.com/ca/laguna-niguel/27320-alicia-pkwy.html,33.5661596,-117.7128182,,,w_132258392,"shop=supermarket, brand=Pavilions"
+"San Clemente, CA",,retail,445110,Vons,"845 College Boulevard, Oceanside, CA, 92057",+1 760-630-4884,https://local.vons.com/ca/oceanside/845-college-blvd.html,33.2407601,-117.2947782,,,w_132687581,"shop=supermarket, brand=Vons"
+"San Clemente, CA",,retail,445110,Vons,"32401 Camino Capistrano, San Juan Capistrano, CA, 92675",+1 949-661-7594,https://local.vons.com/ca/san-juan-capistrano/32401-camino-capistrano.html,33.4926591,-117.6636083,,,w_133113503,"shop=supermarket, brand=Vons"
+"San Clemente, CA",,retail,445110,Vons,"3650 Bristol Street, Santa Ana, CA, 92704",+1 714-540-0510,https://local.vons.com/ca/santa-ana/3650-s-bristol-st.html,33.6981916,-117.8870867,,,w_133124757,"shop=supermarket, brand=Vons"
+"San Clemente, CA",,retail,445110,Ralphs,"31481 Santa Margarita Parkway, Rancho Santa Margarita, CA, 92688",+1 949-589-0156,https://www.ralphs.com/stores/grocery/ca/rancho-santa-margarita/mercado-del-lago-rancho-santa-margarita-shopping-center/703/00078,33.6507379,-117.5821386,,,w_134726917,"shop=supermarket, brand=Ralphs"
+"San Clemente, CA",,retail,452210,Walmart,"27470 Alicia Parkway, Laguna Niguel, CA, 92677",+1 949-360-0758,https://www.walmart.com/store/2206-laguna-niguel-ca,33.5635053,-117.7129814,,,w_137931334,"shop=department_store, brand=Walmart, operator=Walmart"
+"San Clemente, CA",,retail,452210,Kohl's,"27380 Heather Ridge, Laguna Niguel, CA, 92677",+1 949-349-0023,https://www.kohls.com/stores/ca/lagunaniguel-618.shtml,33.5653676,-117.7111241,,,w_137931337,"shop=department_store, brand=Kohl's"
+"San Clemente, CA",,retail,445120,Circle K,"27430 Alicia Parkway, Laguna Niguel, CA, 92677",,,33.5647375,-117.7150881,,,w_137931340,"shop=convenience, brand=Circle K"
+"San Clemente, CA",,retail,445120,Mobil,"23431 Aliso Viejo Parkway, Aliso Viejo, 92656",,,33.5875565,-117.720869,,,w_137932370,"shop=convenience, amenity=fuel, brand=Mobil"
+"San Clemente, CA",,retail,453991,Cigar Oasis,"26841 Aliso Creek Road, Aliso Viejo, CA, 92656",,,33.5750765,-117.7244776,,,w_138165463,shop=tobacco
+"San Clemente, CA",,retail,445120,ampm,"27491 La Paz Road, Laguna Niguel, CA, 92677",,,33.5637329,-117.7084199,,,w_138166541,"shop=convenience, brand=ampm"
+"San Clemente, CA",,retail,445110,Sprouts Farmers Market,"27271 La Paz Road, Laguna Niguel, CA, 92677",+1 949-349-1999,https://www.sprouts.com/store/ca/laguna-niguel/la-paz-rd/,33.5674353,-117.7093044,,,w_138166554,"shop=supermarket, brand=Sprouts Farmers Market"
+"San Clemente, CA",,retail,445110,Stater Bros.,"26892 La Paz Road, Aliso Viejo, CA, 92656",+1 949-643-0511,https://www.staterbros.com/stores/143,33.5720909,-117.7058608,,,w_138166902,"shop=supermarket, brand=Stater Bros."
+"San Clemente, CA",,retail,452210,Target,"26932 La Paz Road, Aliso Viejo, CA, 92656",+1 949-643-0337,https://www.target.com/sl/aliso-viejo-target-store/259,33.5713907,-117.7049844,,,w_138166903,"shop=department_store, brand=Target"
+"San Clemente, CA",,retail,445110,Whole Foods Market,"23932 Aliso Creek Road, Laguna Niguel, CA, 92677",+1 949-900-5830,https://www.wholefoodsmarket.com/stores/lagunaniguel,33.5543906,-117.7125844,,,w_138169717,"shop=supermarket, brand=Whole Foods Market"
+"San Clemente, CA",,retail,452210,Target,"24500 Alicia Parkway, Mission Viejo, CA, 92691",+1 949-583-1298,https://www.target.com/sl/alicia-parkway/300,33.6063148,-117.6881604,,,w_138358966,"shop=department_store, brand=Target"
+"San Clemente, CA",,retail,445120,Circle K,,,,33.6122776,-117.7124472,,,w_138512327,"shop=convenience, brand=Circle K"
+"San Clemente, CA",,retail,445110,Sprouts Farmers Market,"24332 Rockfield Boulevard, Lake Forest, CA, 92630",+1 949-427-4020,https://www.sprouts.com/store/ca/lake-forest/lake-forest/,33.6156803,-117.705175,,,w_138515822,"shop=supermarket, brand=Sprouts Farmers Market"
+"San Clemente, CA",,retail,452210,Ross,"24392 Rockfield Boulevard, Lake Forest, CA, 92630",+1 949-588-0146,https://www.rossstores.com/,33.6147604,-117.7041284,,,w_138515829,"shop=department_store, brand=Ross"
+"San Clemente, CA",,retail,452319,Dollar Tree,"23611 El Toro Road, Lake Forest, CA, 92630-4706",+1-949-330-8100,https://www.dollartree.com/locations/ca/lake-forest/9135/,33.6204601,-117.7024148,,,w_138516367,"shop=variety_store, brand=Dollar Tree"
+"San Clemente, CA",,retail,445110,Nina's Indian & British Groceries,"23542 El Toro Road, Lake Forest, CA, 92630",+1 949-583-2789,https://www.natrajusa.com/ninasgrocery,33.6209625,-117.6993892,,,w_138516368,shop=supermarket
+"San Clemente, CA",,retail,445110,Ralphs,"23716 El Toro Road, Lake Forest, CA, 92630",+1 949-380-1009,https://www.ralphs.com/stores/grocery/ca/lake-forest/el-toro-rockfield/703/00288,33.6166705,-117.7019071,,,w_138516370,"shop=supermarket, brand=Ralphs"
+"San Clemente, CA",,retail,452319,Five Below,"23620 El Toro Road, Lake Forest, CA, 92630",+1-949-229-3795,https://locations.fivebelow.com/ca/lake-forest/23620-el-toro-road-unit-m4,33.6180981,-117.7009809,,,w_138516371,"shop=variety_store, brand=Five Below"
+"San Clemente, CA",,retail,445110,Smart & Final Extra!,"23631 El Toro Road, Lake Forest, 92630",+1 949-770-8281,https://smartandfinal.com/,33.6211076,-117.7040559,,,w_138516506,"shop=supermarket, brand=Smart & Final"
+"San Clemente, CA",,retail,445120,7-Eleven,32060 Clinton Keith Road,,https://www.7-eleven.com/locations/ca/wildomar/32060-clinton-keith-rd-33595,33.5938091,-117.2470066,,,w_140949392,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,445110,Whole Foods Market,"2847 Park Avenue, Tustin, CA, 92782",+1 714-566-7650,https://www.wholefoodsmarket.com/stores/tustin,33.6963207,-117.8256119,,,w_143166139,"shop=supermarket, brand=Whole Foods Market"
+"San Clemente, CA",,retail,445110,Gelson's,"24 Monarch Bay Plaza, Dana Point, 92629",+1 949 488 8147,,33.4848755,-117.7229849,,,w_160335126,"shop=supermarket, brand=Gelson's"
+"San Clemente, CA",,retail,445110,Wholesome Choice,"18040 Culver Drive, Irvine, 92612",+1-949-551-4111,https://www.wholesomechoice.com,33.6642971,-117.8252997,,,w_171532127,shop=supermarket
+"San Clemente, CA",,retail,445110,Albertsons,"4541 Campus Drive, Irvine, CA, 92612",+1 949-854-8282,https://local.albertsons.com/ca/irvine/4541-campus-dr.html,33.650143,-117.8313718,,,w_171553127,"shop=supermarket, brand=Albertsons"
+"San Clemente, CA",,retail,445110,Albertsons,"4150 Oceanside Boulevard, Oceanside, CA, 92056",+1-760-940-8282,https://local.albertsons.com/ca/oceanside/4150-oceanside-blvd.html,33.2078023,-117.2873864,,,w_184255041,"shop=supermarket, brand=Albertsons"
+"San Clemente, CA",,retail,445110,99 Ranch Market,"5402 Walnut Avenue, Irvine, CA, 92604",,,33.6904905,-117.7696239,,,w_184681574,"shop=supermarket, brand=99 Ranch Market"
+"San Clemente, CA",,retail,445120,,,,,33.7304612,-117.7877139,,,w_184706246,shop=convenience
+"San Clemente, CA",,retail,445120,,,,,33.727679,-117.7943197,,,w_184706250,shop=convenience
+"San Clemente, CA",,retail,445110,Ralphs,"13321 Jamboree Road, Tustin, CA, 92782",+1 714-544-0491,https://www.ralphs.com/stores/grocery/ca/tustin/tustin-village-center/703/00139,33.7293464,-117.7901179,,,w_184706254,"shop=supermarket, brand=Ralphs"
+"San Clemente, CA",,retail,445310,Total Wine,"2952 El Camino Real, Tustin, CA, 92782",+1 714-665-4257,https://www.totalwine.com/store-info/1103,33.7218098,-117.7959699,,,w_184707312,"shop=alcohol, brand=Total Wine"
+"San Clemente, CA",,retail,452210,Ross,"2851 El Camino Real, Tustin, CA, 92782",+1 714-731-9360,,33.7263377,-117.7924324,,,w_184707331,"shop=department_store, brand=Ross"
+"San Clemente, CA",,retail,445110,Sprouts Farmers Market,"3011 El Camino Real, Tustin, CA, 92782",+1 714-734-8760,https://www.sprouts.com/store/ca/tustin/tustin-jamboree-rd/,33.7251124,-117.7906719,,,w_184707334,"shop=supermarket, brand=Sprouts Farmers Market"
+"San Clemente, CA",,retail,452210,TJ Maxx,"2951 El Camino Real, Tustin, CA, 92782",,,33.7256348,-117.7914319,,,w_184707344,"shop=department_store, brand=TJ Maxx"
+"San Clemente, CA",,retail,445110,Ralphs,"2555 Eastbluff Drive, Newport Beach, CA, 92660",+1 949-644-2060,https://www.ralphs.com/stores/grocery/ca/newport-beach/eastbluff-village/703/00744,33.6407702,-117.8756523,,,w_185713500,"shop=supermarket, brand=Ralphs"
+"San Clemente, CA",,retail,445110,Albertsons,"14201 Jeffrey Road, Irvine, CA, 92620",+1 949-733-0698,https://local.albertsons.com/ca/irvine/14201-jeffrey-rd.html,33.6952482,-117.7654067,,,w_186428359,"shop=supermarket, brand=Albertsons"
+"San Clemente, CA",,retail,452210,Kohl's,"14101 Jeffrey Road, Irvine, CA, 92620",+1 949-451-0017,https://www.kohls.com/stores/ca/irvine-598.shtml,33.696447,-117.7642538,,,w_186428380,"shop=department_store, brand=Kohl's"
+"San Clemente, CA",,retail,445110,Pavilions,"3100 West Balboa Boulevard, Newport Beach, 92663",,https://local.pavilions.com/ca/newport-beach/3100-w-balboa-blvd.html,33.6147275,-117.9311077,,,w_188709099,"shop=supermarket, brand=Pavilions"
+"San Clemente, CA",,retail,445120,7-Eleven,"1910,1920 West Balboa Boulevard, Newport Beach, CA, 92663",+1 949-673-6910,https://www.7-eleven.com/locations/ca/newport-beach/1920-west-balboa-blvd-17734,33.6085921,-117.9268184,,,w_188709217,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,445110,99 Ranch Market,"1112 Walnut Avenue, Tustin, 92780",,,33.7311983,-117.8266292,,,w_194858655,"shop=supermarket, brand=99 Ranch Market"
+"San Clemente, CA",,retail,452210,Big Lots,"13852 Red Hill Avenue, Tustin, CA, 92780",,,33.7341555,-117.8131496,,,w_194858656,"shop=department_store, brand=Big Lots"
+"San Clemente, CA",,retail,445110,Ralphs,"32555 Golden Lantern Street, Dana Point, CA, 92629",+1 949-661-6334,https://www.ralphs.com/stores/grocery/ca/dana-point/ocean-ranch-village/703/00739,33.4902404,-117.6996355,,,w_202622147,"shop=supermarket, brand=Ralphs"
+"San Clemente, CA",,retail,445110,Ralphs,"372 East 17th Street, Costa Mesa, CA, 92627",+1 949-645-1277,https://www.ralphs.com/stores/grocery/ca/costa-mesa/costa-mesa/703/00033,33.631906,-117.9123607,,,w_212832196,"shop=supermarket, brand=Ralphs"
+"San Clemente, CA",,retail,445120,Circle K,"4550 Barranca Parkway, Irvine, CA, 92604",,,33.6785821,-117.8016198,,,w_214487695,"shop=convenience, brand=Circle K"
+"San Clemente, CA",,retail,445110,The Village Mart,"120 Pacific Coast Highway, Laguna Beach, CA, 92651",,,33.542744,-117.7847515,,,w_220537629,shop=grocery
+"San Clemente, CA",,retail,445110,Mothers Market,"3049 Pacific Coast Highway, Corona Del Mar, CA, 92625",,,33.5979259,-117.8721017,,,w_222800791,shop=supermarket
+"San Clemente, CA",,retail,453110,1-800 FLOWERS,"2983 Harbor Boulevard, Costa Mesa, 92626",,,33.6797948,-117.9196998,,,w_228727870,shop=florist
+"San Clemente, CA",,retail,446110,Rite Aid,"630 East 1st Street, Tustin, CA, 92780",,,33.7452133,-117.8168579,,,w_228737728,"shop=chemist, brand=Rite Aid"
+"San Clemente, CA",,retail,445110,Sprouts Farmers Market,"14945 Holt Avenue, Tustin, CA, 92780",+1 714-415-4381,https://www.sprouts.com/store/ca/tustin/tustin-holt-ave/,33.7469631,-117.8157011,,,w_228737732,"shop=supermarket, brand=Sprouts Farmers Market"
+"San Clemente, CA",,retail,445110,Smart & Final,"1114 Irvine Boulevard, Tustin, CA, 92780",,,33.7470039,-117.8102818,,,w_228737740,"shop=supermarket, brand=Smart & Final"
+"San Clemente, CA",,retail,452210,Kohl's,"18182 Irvine Boulevard, Tustin, CA, 92780",+1 714-544-4910,https://www.kohls.com/stores/ca/tustin-1382.shtml,33.7474425,-117.8157798,,,w_228737749,"shop=department_store, brand=Kohl's"
+"San Clemente, CA",,retail,445110,Trader Joe's,"1198 Irvine Boulevard, Tustin, CA, 92780",+1 714-505-3289,https://locations.traderjoes.com/ca/tustin/197/,33.7464493,-117.8095622,,,w_228737758,"shop=supermarket, brand=Trader Joe's"
+"San Clemente, CA",,retail,445110,Albertsons,"13270 Newport Avenue, Tustin, CA, 92780",+1-714-544-8525,https://local.albertsons.com/ca/tustin/13270-newport-ave.html,33.745182,-117.8128454,,,w_228737770,"shop=supermarket, brand=Albertsons"
+"San Clemente, CA",,retail,445110,Aldi,"1091 Old Irvine Boulevard, Tustin, CA, 92780",+1 844-479-7192,https://stores.aldi.us/ca/tustin/1091-irvine-blvd,33.7492082,-117.8091557,,,w_228737776,"shop=supermarket, brand=Aldi"
+"San Clemente, CA",,retail,446110,CVS Pharmacy,"671 East 1st Street, Tustin, CA, 92780",,https://www.cvs.com/store-locator/tustin-ca-pharmacies/671-east-1st-street-tustin-ca-92780/storeid=8877,33.7463903,-117.8157914,,,w_228737793,"shop=chemist, brand=CVS Pharmacy"
+"San Clemente, CA",,retail,445110,Trader Joe's,"3329 South Bristol Street, Santa Ana, CA, 92704",+1 714-424-9304,https://locations.traderjoes.com/ca/santa-ana/113/,33.7013466,-117.8842233,,,w_228745490,"shop=supermarket, brand=Trader Joe's"
+"San Clemente, CA",,retail,445120,ExtraMile,"3801 Bristol Street, Santa Ana, 92704",,,33.6972197,-117.8847687,,,w_228745496,"shop=convenience, brand=ExtraMile"
+"San Clemente, CA",,retail,452210,Target,"3300 Bristol Street, Santa Ana, CA, 92704",+1 714-641-4944,https://www.target.com/sl/santa-ana-south-coast/250,33.7028591,-117.8876418,,,w_228745503,"shop=department_store, brand=Target"
+"San Clemente, CA",,retail,445120,,"25491 Alicia Parkway, Laguna Hills, 92653",,,33.5924863,-117.6990809,,,w_229303749,shop=convenience
+"San Clemente, CA",,retail,445110,Ralphs,"25539 Paseo De Valencia, Laguna Hills, CA, 92653",+1 949-951-0966,https://www.ralphs.com/stores/grocery/ca/laguna-hills/aliso-hills-sc/703/00223,33.5909521,-117.6980817,,,w_229303751,"shop=supermarket, brand=Ralphs"
+"San Clemente, CA",,retail,445120,Mobil Snack Shop,"21721 Lake Forest Drive, Lake Forest, 92630",+1 949-770-1007,https://www.exxon.com/en/find-station/mobil-lakeforest-ca-lakeforestmobil-200313104,33.6474003,-117.6858242,,,w_229304974,shop=convenience
+"San Clemente, CA",,retail,446110,CVS Pharmacy,"21761 Lake Forest Drive, Lake Forest, CA, 92630",,https://www.cvs.com/store-locator/lake-forest-ca-pharmacies/21761-lake-forest-drive-lake-forest-ca-92630/storeid=9587,33.6472764,-117.6880981,,,w_229304985,"shop=chemist, brand=CVS Pharmacy"
+"San Clemente, CA",,retail,445210,Wild Fork Foods,"22785 Santa Margarita Parkway, Mission Viejo, 92691",9493044400,wildforkfoods.com,33.6532622,-117.6462565,,,w_262610407,shop=butcher
+"San Clemente, CA",,retail,445120,Alta Dena Express,,,,33.7485519,-117.8103253,,,w_285113534,shop=convenience
+"San Clemente, CA",,retail,445110,Trader Joe's,"32351 Golden Lantern Street;Street of the Golden Lantern, Laguna Niguel, CA, 92677",+1 949-493-8599,https://locations.traderjoes.com/ca/laguna-niguel/103/,33.4930125,-117.6966048,,,w_287395993,"shop=supermarket, brand=Trader Joe's"
+"San Clemente, CA",,retail,445110,Walmart Neighborhood Market,"30491 Avenida de las Flores, Rancho Santa Margarita, CA, 92688",+1 949-207-5070,https://www.walmart.com/store/5600/rancho-santa%20margarita-ca/whats-new,33.6407585,-117.6014094,,,w_290774331,"shop=supermarket, brand=Walmart, operator=Walmart"
+"San Clemente, CA",,retail,452210,Target,"30602 Santa Margarita Parkway, Rancho Santa Margarita, CA, 92688",+1 949-459-1543,https://www.target.com/sl/rancho-santa-margarita/914,33.6414325,-117.5982754,,,w_290774337,"shop=department_store, brand=Target"
+"San Clemente, CA",,retail,452210,Ross,"30612 Santa Margarita Parkway, Rancho Santa Margarita, CA, 92688",+1 949-589-1559,,33.6410319,-117.5971875,,,w_291218657,"shop=department_store, brand=Ross"
+"San Clemente, CA",,retail,446110,Walgreens,"30592 Santa Margarita Parkway, Rancho Santa Margarita, CA, 92688",,,33.6431345,-117.5977626,,,w_291218663,"shop=chemist, brand=Walgreens"
+"San Clemente, CA",,retail,445110,Ralphs,"638 Camino De Los Mares, San Clemente, CA, 92673",+1 949-496-8616,https://www.ralphs.com/stores/grocery/ca/san-clemente/ocean-view-plaza/703/00015,33.4574063,-117.6515665,,,w_292692616,"shop=supermarket, brand=Ralphs"
+"San Clemente, CA",,retail,445110,Stater Bros.,"616 Camino de Los Mares, San Clemente, CA, 92673",+1 949-496-8283,https://www.staterbros.com/stores/149,33.4589549,-117.6536559,,,w_292692636,"shop=supermarket, brand=Stater Bros."
+"San Clemente, CA",,retail,453110,Beach City Florist,"1109 South El Camino Real, San Clemente, 92672",+1 949 302 8516,,33.4208444,-117.6076402,,,w_292693279,shop=florist
+"San Clemente, CA",,retail,445110,Ralphs,"903 South El Camino Real, San Clemente, CA, 92672",+1 949-361-8729,https://www.ralphs.com/stores/grocery/ca/san-clemente/s-san-clemente/703/00221,33.4228409,-117.6086557,,,w_292693283,"shop=supermarket, brand=Ralphs"
+"San Clemente, CA",,retail,445120,Rocket,"795 South El Camino Real, San Clemente, CA, 92672",,,33.4234717,-117.6091131,,,w_292693287,"shop=convenience, brand=Rocket"
+"San Clemente, CA",,retail,445120,,"27101 Ortega Highway, San Juan Capistrano, 92675",,,33.5034195,-117.6576483,,,w_295607570,shop=convenience
+"San Clemente, CA",,retail,445120,Chevron,,,,33.5031604,-117.6575328,,,w_295607571,"shop=convenience, amenity=fuel, brand=Chevron"
+"San Clemente, CA",,retail,445110,H Mart,"3825 Alton Parkway, Irvine, CA, 92606",,,33.6836575,-117.8136933,,,w_308170717,"shop=supermarket, brand=H Mart"
+"San Clemente, CA",,retail,445110,Sprouts Farmers Market,"3775 Alton Parkway, Irvine, CA, 92606",+1 949-705-5435,https://www.sprouts.com/store/ca/irvine/alton-pkwy/,33.6844753,-117.8150017,,,w_308170718,"shop=supermarket, brand=Sprouts Farmers Market"
+"San Clemente, CA",,retail,452210,Marshalls,"3781 Alton Parkway, Irvine, 92606",,,33.6842071,-117.8145842,,,w_308170766,"shop=department_store, brand=Marshalls"
+"San Clemente, CA",,retail,445110,Ralphs,"17605 Harvard Avenue, Irvine, CA, 92614",+1 949-851-3161,https://www.ralphs.com/stores/grocery/ca/irvine/harvard-place/703/00080,33.6771261,-117.8331704,,,w_312650481,"shop=supermarket, brand=Ralphs"
+"San Clemente, CA",,retail,445120,ampm,,,,33.7064943,-117.3591075,,,w_318116963,"shop=convenience, brand=ampm, operator=Arco"
+"San Clemente, CA",,retail,445110,Gelson's,"1660 San Miguel Drive, Corona Del Mar, CA, 92625",,,33.6114671,-117.8632645,,,w_320525210,"shop=supermarket, brand=Gelson's"
+"San Clemente, CA",,retail,445120,ampm,"26731 Portola Parkway, Foothill Ranch, CA, 92610",,,33.680375,-117.6642092,,,w_331020383,"shop=convenience, brand=ampm"
+"San Clemente, CA",,retail,452210,Target,"26762 Portola Parkway, Foothill Ranch, CA, 92610",+1 949-454-2360,https://www.target.com/sl/foothill-ranch/913,33.6763192,-117.6644407,,,w_331119859,"shop=department_store, brand=Target"
+"San Clemente, CA",,retail,445110,Walmart Supercenter,"26502 Towne Centre Drive;Towne Center Drive, Foothill Ranch, CA, 92610",+1 949-588-7923,https://www.walmart.com/store/2218-foothill-ranch-ca,33.6798005,-117.6711952,,,w_331119860,"shop=supermarket, brand=Walmart, operator=Walmart"
+"San Clemente, CA",,retail,445110,Ralphs,"26751 Portola Parkway, Foothill Ranch, CA, 92610",+1 949-457-9349,https://www.ralphs.com/stores/grocery/ca/foothill-ranch/foothill-marketplace/703/00099,33.6803004,-117.6630542,,,w_331157866,"shop=supermarket, brand=Ralphs"
+"San Clemente, CA",,retail,453110,Conroy's,"28442 Marguerite Parkway, Mission Viejo, 92692",,,33.5499358,-117.6703605,,,w_331441533,shop=florist
+"San Clemente, CA",,retail,445120,Shell,"21712 Plano Trabuco Drive, Trabuco Canyon, CA, 92679",,,33.6469425,-117.5772655,,,w_332067973,"shop=convenience, brand=Shell"
+"San Clemente, CA",,retail,445110,Smart & Final Extra!,"21672 Plano Trabuco Drive, Trabuco Canyon, CA, 92679",,,33.6477053,-117.5761183,,,w_332067974,"shop=supermarket, brand=Smart & Final"
+"San Clemente, CA",,retail,445110,Stater Bros.,"22351 El Toro Road, Lake Forest, CA, 92630",+1 949-581-3440,https://www.staterbros.com/stores/142,33.6388174,-117.6798821,,,w_337856406,"shop=supermarket, brand=Stater Bros."
+"San Clemente, CA",,retail,445120,Circle K,,,,33.637475,-117.6801319,,,w_337856411,"shop=convenience, brand=Circle K"
+"San Clemente, CA",,retail,445110,Ralphs,"700 Pacific Coast Highway, Laguna Beach, CA, 92651",+1 949-497-6410,https://www.ralphs.com/stores/grocery/ca/laguna-beach/laguna-beach/703/00004,33.5376266,-117.7787526,,,w_338348643,"shop=supermarket, brand=Ralphs"
+"San Clemente, CA",,retail,445120,7-Eleven,"1601 MacArthur Boulevard, Santa Ana, CA, 92704",+1 714-540-1875,https://www.7-eleven.com/locations/ca/santa-ana/1441-w-macarthur-35633,33.7005014,-117.887969,,,w_339130664,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,445120,,"4760 Irvine Boulevard, Irvine, CA, 92620",,,33.7139494,-117.7609523,,,w_342868120,shop=convenience
+"San Clemente, CA",,retail,445110,Zion Market,"4800 Irvine Boulevard, Irvine, CA, 92620",,,33.712281,-117.7607326,,,w_342868124,shop=supermarket
+"San Clemente, CA",,retail,445110,Grocery Outlet,"22475 El Toro Road, Lake Forest, 92630",,,33.6364324,-117.682387,,,w_344533476,"shop=supermarket, brand=Grocery Outlet"
+"San Clemente, CA",,retail,446110,Walgreens,"24328 Muirlands Boulevard, Lake Forest, 92630",,https://www.walgreens.com/locator/walgreens-24382+muirlands+blvd-lake+forest-ca-92630/id=3936,33.6282125,-117.7049362,,,w_346997638,"shop=chemist, brand=Walgreens"
+"San Clemente, CA",,retail,445120,7-Eleven,"24386 Muirlands Boulevard, Lake Forest, CA, 92630",+1 949-859-9191,https://www.7-eleven.com/locations/ca/lake-forest/24386-muirlands-blvd-22646,33.6278626,-117.7055079,,,w_346997647,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,445110,ALDI,"23330 El Toro Road, Lake Forest, CA, 92630",,https://stores.aldi.us/ca/lake-forest/23330-el-toro-road,33.6228022,-117.6954985,,,w_347320927,"shop=supermarket, brand=ALDI"
+"San Clemente, CA",,retail,445120,Chevron,"23891 Bridger Road, Lake Forest, CA, 92630",+1-949-837-1459,https://www.chevronwithtechron.com/en_us/home/gas-station-near-me.html?/station/23891-BRIDGER-RD-EL-TORO-CA-926303712-id90141,33.6155665,-117.7077336,,,w_347402190,"shop=convenience, brand=Chevron"
+"San Clemente, CA",,retail,445120,ExtraMile,"23631 Rockfield Boulevard, Lake Forest, 92630",,,33.6299681,-117.7168919,,,w_349336256,"shop=convenience, brand=ExtraMile"
+"San Clemente, CA",,retail,445120,ampm,"29880 Santa Margarita Parkway, Rancho Santa Margarita, CA, 92688",,,33.6378778,-117.6083732,,,w_353339593,"shop=convenience, brand=ampm"
+"San Clemente, CA",,retail,445120,Food Mart,,,,33.6418386,-117.6043042,,,w_353362451,shop=convenience
+"San Clemente, CA",,retail,445210,El Toro Gourmet Meats,"23522 El Toro Road, Lake Forest, 92630",+1 949-855-0215,https://eltorogourmetmeats.com/,33.6212665,-117.698526,,,w_356951312,shop=butcher
+"San Clemente, CA",,retail,446110,CVS Pharmacy,"26686 Portola Parkway, Foothill Ranch, 92610",,https://www.cvs.com/store-locator/foothill-ranch-ca-pharmacies/26686-portola-pkwy-foothill-ranch-ca-92610/storeid=8834,33.6800183,-117.6667741,,,w_360639388,"shop=chemist, brand=CVS Pharmacy"
+"San Clemente, CA",,retail,445310,Wine Exchange,"1544 Brookhollow Drive, Santa Ana, CA, 92705",,,33.7153732,-117.8458461,,,w_360762395,shop=wine
+"San Clemente, CA",,retail,453991,A1 Smoke & Cigar,"22359 El Toro Road, Lake Forest, 92630",,,33.6388272,-117.680509,,,w_361092095,shop=tobacco
+"San Clemente, CA",,retail,446120,Klassy Nail & Spa,"22357 El Toro Road, Lake Forest, 92630",,,33.6388181,-117.6804504,,,w_361092099,shop=beauty
+"San Clemente, CA",,retail,452319,Dollar Tree,"22477 El Toro Road, Lake Forest, 92630",,https://www.dollartree.com/locations/ca/lake-forest/8622/,33.6362222,-117.6826464,,,w_361093529,"shop=variety_store, brand=Dollar Tree"
+"San Clemente, CA",,retail,445110,Albertsons,"24251 Muirlands Boulevard, Lake Forest, CA, 92630",+1 949-581-1642,https://local.albertsons.com/ca/lake-forest/24251-muirlands-blvd.html,33.6304501,-117.7064754,,,w_361285485,"shop=supermarket, brand=Albertsons"
+"San Clemente, CA",,retail,445120,,,,,33.6615802,-117.6686701,,,w_361313853,shop=convenience
+"San Clemente, CA",,retail,446120,Cosmo Nail Bar,"1338 Bison Avenue, Newport Beach, 92660",,,33.6383794,-117.859989,,,w_361355862,shop=beauty
+"San Clemente, CA",,retail,446120,Planet Beauty,"1342 Bison Avenue, Newport Beach, 92660",,,33.6382246,-117.8600039,,,w_361355870,shop=beauty
+"San Clemente, CA",,retail,445120,H&S Food Mart,,,,33.5258498,-117.7114567,,,w_363048806,shop=convenience
+"San Clemente, CA",,retail,445120,Grab n Go 24/7,"20572 Lake Forest Drive, Lake Forest, 92630",,,33.6635872,-117.6661072,,,w_366327869,shop=convenience
+"San Clemente, CA",,retail,445120,ExtraMile,,,,33.6764183,-117.8604618,,,w_374777099,"shop=convenience, brand=ExtraMile"
+"San Clemente, CA",,retail,445110,Mitsuwa Marketplace,"14230 Culver Drive, Irvine, CA, 92604",+1 949 559 6633,,33.7067086,-117.7832992,,,w_378241192,"shop=supermarket, brand=Mitsuwa Marketplace"
+"San Clemente, CA",,retail,452319,Daiso Japan,"14280 Culver Drive, Irvine, 92604",,,33.7061836,-117.7838173,,,w_378241195,"shop=variety_store, brand=Daiso"
+"San Clemente, CA",,retail,446110,CVS Pharmacy,"14330 Culver Drive, Irvine, 92604",,https://www.cvs.com/store-locator/irvine-ca-pharmacies/14330-culver-drive-irvine-ca-92604/storeid=9497,33.705587,-117.7843757,,,w_378241198,"shop=chemist, brand=CVS Pharmacy"
+"San Clemente, CA",,retail,445110,Ralphs,"14400 Culver Drive, Irvine, CA, 92604",+1 949-552-3065,https://www.ralphs.com/stores/grocery/ca/irvine/heritage-plaza/703/00161,33.7046008,-117.7853679,,,w_378241203,"shop=supermarket, brand=Ralphs"
+"San Clemente, CA",,retail,445110,Smart & Final,"14417 Culver Drive, Irvine, 92604",,,33.7064866,-117.787249,,,w_378241205,"shop=supermarket, brand=Smart & Final"
+"San Clemente, CA",,retail,445110,Trader Joe's,"14443 Culver Drive, Irvine, CA, 92604",+1 949-857-8108,https://locations.traderjoes.com/ca/irvine/37/,33.7061563,-117.7884428,,,w_378241207,"shop=supermarket, brand=Trader Joe's"
+"San Clemente, CA",,retail,445120,Circle K,,,,33.705421,-117.7878821,,,w_378241213,"shop=convenience, brand=Circle K"
+"San Clemente, CA",,retail,445310,Fred's Market Liquor,"220 South Ola Vista, San Clemente, 92672",,,33.4251158,-117.614058,,,w_384546654,shop=alcohol
+"San Clemente, CA",,retail,445110,Albertsons,"6601 Quail Hill Parkway, Irvine, CA, 92603",+1 949-509-6109,https://local.albertsons.com/ca/irvine/6601-quail-hill-pkwy.html,33.6558165,-117.7782533,,,w_384907672,"shop=supermarket, brand=Albertsons"
+"San Clemente, CA",,retail,445120,ampm,"6501 Quail Hill Parkway, Irvine, CA, 92603",,,33.6540399,-117.7794799,,,w_384907678,"shop=convenience, brand=ampm"
+"San Clemente, CA",,retail,445120,7-Eleven,"502 North El Camino Real, San Clemente, CA, 92672",+1 949-498-5970,https://www.7-eleven.com/locations/ca/san-clemente/502-n-el-camino-real-13788,33.4294484,-117.6157579,,,w_386243415,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,446120,Skinthetix,"542 North El Camino Real, San Clemente, 92672",,,33.4298073,-117.6169448,,,w_386243428,shop=beauty
+"San Clemente, CA",,retail,453991,Inner Limits Smoke Shop,"508 North El Camino Real, San Clemente, 92672",,,33.429545,-117.615865,,,w_386243429,shop=tobacco
+"San Clemente, CA",,retail,445310,Victoria Market & Liquor,"230 South Ola Vista, San Clemente, 92672",,,33.4247517,-117.613668,,,w_386272586,shop=alcohol
+"San Clemente, CA",,retail,446120,Salon Real,"424 North El Camino Real, San Clemente, 92672",,,33.4294184,-117.6149892,,,w_391477386,shop=beauty
+"San Clemente, CA",,retail,445120,The Pier Grill & Tackle,,,,33.4179252,-117.6233051,,,w_391799647,"shop=convenience, amenity=fast_food"
+"San Clemente, CA",,retail,445120,Circle K,"901 Avenida Pico, San Clemente, 92673",,,33.4521437,-117.6091792,,,w_394196723,"shop=convenience, brand=Circle K"
+"San Clemente, CA",,retail,445120,Circle K,,,,33.4389877,-117.6208207,,,w_394196724,"shop=convenience, brand=Circle K"
+"San Clemente, CA",,retail,445110,Albertsons,"804 Avenida Pico, San Clemente, CA, 92673",+1 949-492-1755,https://local.albertsons.com/ca/san-clemente/804-avenida-pico.html,33.4427528,-117.6139484,,,w_394242179,"shop=supermarket, brand=Albertsons"
+"San Clemente, CA",,retail,452210,Walmart,"951 Avenida Pico, San Clemente, CA, 92673",+1 949-498-6669,https://www.walmart.com/store/2527-san-clemente-ca,33.4556803,-117.6062289,,,w_395695579,"shop=department_store, brand=Walmart, operator=Walmart"
+"San Clemente, CA",,retail,445120,ampm,,,,33.6273885,-117.2748461,,,w_401780091,"shop=convenience, brand=ampm"
+"San Clemente, CA",,retail,445120,AMPM,"604 Douglas Drive, Oceanside, CA, 92058",,,33.243956,-117.3233509,,,w_401860854,shop=convenience
+"San Clemente, CA",,retail,445120,ampm,"34342 Pacific Coast Highway, Dana Point, CA, 92629",,,33.4647637,-117.6848581,,,w_401867411,"shop=convenience, brand=ampm"
+"San Clemente, CA",,retail,445120,ampm,"28662 Camino Capistrano, San Juan Capistrano, 92675",,,33.5479225,-117.6737469,,,w_401868668,"shop=convenience, brand=ampm"
+"San Clemente, CA",,retail,445120,ampm,"27682 Crown Valley Parkway, Mission Viejo, CA, 92691",,,33.5602522,-117.6703554,,,w_401869857,"shop=convenience, brand=ampm"
+"San Clemente, CA",,retail,445120,ampm,"27402 Antonio Parkway, Ladera Ranch, CA, 92694",,,33.5648767,-117.6283893,,,w_401870443,"shop=convenience, brand=ampm"
+"San Clemente, CA",,retail,445120,ampm,,,,33.599232,-117.6761926,,,w_401870896,"shop=convenience, brand=ampm"
+"San Clemente, CA",,retail,445120,ampm,"14231 Red Hill Avenue, Tustin, CA, 92780",,,33.7312501,-117.8182934,,,w_401872599,"shop=convenience, brand=ampm"
+"San Clemente, CA",,retail,446110,Rite Aid,"801 North El Camino Real, San Clemente, 92672",,https://www.riteaid.com/locations/ca/san-clemente/801-north-el-camino-real.html,33.4311447,-117.6189871,,,w_403392407,"shop=chemist, brand=Rite Aid"
+"San Clemente, CA",,retail,452210,Target,"990 Avenida Vista Hermosa, San Clemente, CA, 92673",+1 949-456-8668,https://www.target.com/sl/san-clemente/2730,33.4637212,-117.6063721,,,w_403508424,"shop=department_store, brand=Target"
+"San Clemente, CA",,retail,445120,7-Eleven,3407 College Boulevard,,,33.1812085,-117.2968388,,,w_404150495,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,445120,7-Eleven,"1089 Carlsbad Village Drive, Carlsbad, CA, 92008-1804",+1 760-729-0616,https://www.7-eleven.com/locations/ca/carlsbad/1089-carlsbad-village-dr-39310,33.1625802,-117.3426474,,,w_404151412,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,445120,Food Mart,"1145 Carlsbad Village Drive, Carlsbad, CA, 92008",,,33.1633631,-117.3413125,,,w_404151507,shop=convenience
+"San Clemente, CA",,retail,445120,ExtraMile,"1601 North Coast Highway, Oceanside, CA, 92054",,,33.2090374,-117.3872396,,,w_404159214,"shop=convenience, brand=ExtraMile"
+"San Clemente, CA",,retail,445120,Shell,"2400 South El Camino Real, San Clemente, CA, 92672",,,33.4120684,-117.60099,,,w_404164733,"shop=convenience, amenity=fuel, brand=Shell"
+"San Clemente, CA",,retail,445120,,"2400 South El Camino Real, San Clemente, CA, 92672",,,33.4122301,-117.6011298,,,w_404164734,shop=convenience
+"San Clemente, CA",,retail,445120,ExtraMile,"970 Tamarack Avenue, Carlsbad, CA, 92008",,,33.1532396,-117.3352355,,,w_404648241,"shop=convenience, brand=ExtraMile"
+"San Clemente, CA",,retail,445120,San Clemente Ranch Market,"101 West el Portal, San Clemente, 92672",+1 949 498 7872,https://www.scranchmarket.com/,33.4303908,-117.6216208,,,w_404743644,shop=convenience
+"San Clemente, CA",,retail,445110,Smart & Final,,,,33.1617106,-117.3433781,,,w_405143705,"shop=supermarket, brand=Smart & Final"
+"San Clemente, CA",,retail,445120,Food Mart,"920 Carlsbad Village Drive, Carlsbad, CA, 92008",,,33.1623856,-117.3445343,,,w_405144051,shop=convenience
+"San Clemente, CA",,retail,445310,Big Pig Liquor Store,"305 Carlsbad Village Drive, Carlsbad, CA, 92008",,,33.1582246,-117.3506986,,,w_405150155,shop=alcohol
+"San Clemente, CA",,retail,445120,7-Eleven,"1802 North El Camino Real, San Clemente, CA, 92672",+1 949-492-8488,https://www.7-eleven.com/locations/ca/san-clemente/1802-n-el-camino-real-16483,33.4325472,-117.6316464,,,w_405337702,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,445120,ExtraMile,,,,33.4378011,-117.6239023,,,w_405373712,"shop=convenience, brand=ExtraMile"
+"San Clemente, CA",,retail,445110,Hanson's Market,,,,33.4375261,-117.6240809,,,w_405373713,shop=supermarket
+"San Clemente, CA",,retail,445110,Crown Valley International Market,"27771 Center Drive, Mission Viejo, CA, 92692",+1 949 340 1010,,33.558622,-117.657136,,,w_406668188,shop=supermarket
+"San Clemente, CA",,retail,445120,,"606 Camino de Los Mares, San Clemente, 92673",,,33.4596611,-117.6544219,,,w_415121280,shop=convenience
+"San Clemente, CA",,retail,445292,Tom's Farms Candy Shoppe,,,,33.7725618,-117.4875667,,,w_419355854,shop=confectionery
+"San Clemente, CA",,retail,445110,Tom's Farms Farmers Market,,,,33.7725678,-117.4877487,,,w_419355855,shop=supermarket
+"San Clemente, CA",,retail,445120,ExtraMile,"16221 Lake Forest Drive, Irvine, 92618",,,33.6295201,-117.7259575,,,w_419787958,"shop=convenience, brand=ExtraMile"
+"San Clemente, CA",,retail,445120,Kristi's Korner Country Store,,,,33.6463114,-117.4175038,,,w_422854500,shop=convenience
+"San Clemente, CA",,retail,452319,Ortega's Capistrano Trading Post,"31741 Camino Capistrano, San Juan Capistrano, 92675",+1 949 486 3993,https://capistranotradingpost.com/,33.5018176,-117.6631426,,,w_423970954,shop=variety_store
+"San Clemente, CA",,retail,446110,CVS Pharmacy,"28221 Crown Valley Parkway, Laguna Niguel, CA, 92677",,https://www.cvs.com/store-locator/laguna-niguel-ca-pharmacies/28221-crown-valley-pky-laguna-niguel-ca-92677/storeid=8863,33.5532735,-117.6872074,,,w_428256843,"shop=chemist, brand=CVS Pharmacy"
+"San Clemente, CA",,retail,445120,Lea's Mini Mart,,,,33.6444969,-117.3545248,,,w_430078467,shop=convenience
+"San Clemente, CA",,retail,445120,Valley Mart Deli,,,,33.6162862,-117.3070836,,,w_430109854,shop=convenience
+"San Clemente, CA",,retail,446110,CVS Pharmacy,"22361 Antonio Parkway, Rancho Santa Margarita, CA, 92688",,https://www.cvs.com/store-locator/rancho-santa-margarita-ca-pharmacies/22361-antonio-pkwy-rancho-santa-margarita-ca-92688/storeid=6770,33.6382606,-117.5906675,,,w_431471101,"shop=chemist, brand=CVS Pharmacy"
+"San Clemente, CA",,retail,445310,BevMo!,"22372 El Paseo, Rancho Santa Margarita, 92688",9492163506,https://bevmo.com/,33.639877,-117.5917991,,,w_432308271,"shop=alcohol, brand=BevMo!"
+"San Clemente, CA",,retail,452210,Target,"25601 Jeronimo Road, Mission Viejo, CA, 92691",+1 949-680-1064,https://www.target.com/sl/mission-viejo-n/2163,33.6235571,-117.6809586,,,w_436306481,"shop=department_store, brand=Target"
+"San Clemente, CA",,retail,445120,ampm,"29080 Portola Parkway, Lake Forest, 92630",,,33.6628877,-117.6537169,,,w_436484054,"shop=convenience, brand=ampm"
+"San Clemente, CA",,retail,445110,Ralphs,"27730 Santa Margarita Parkway, Mission Viejo, CA, 92691",+1 949-837-0380,https://www.ralphs.com/stores/grocery/ca/mission-viejo/portola-plaza/703/00117,33.6514909,-117.6468838,,,w_436484125,"shop=supermarket, brand=Ralphs"
+"San Clemente, CA",,retail,446120,Ulta Beauty,"30682 Santa Margarita Parkway, Rancho Santa Margarita, CA, 92688",+1 949-635-9301,https://www.ulta.com/stores/rancho-santa-margarita-ca-499,33.642829,-117.5960621,,,w_436653872,"shop=cosmetics, brand=Ulta Beauty"
+"San Clemente, CA",,retail,445120,7-Eleven,"23012 Los Alisos Boulevard, Mission Viejo, CA, 92691",+1 949-581-4080,https://www.7-eleven.com/locations/ca/mission-viejo/23012-los-alisos-16446,33.6283302,-117.6652356,,,w_436994774,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,452210,TJ Maxx,"500 Camino de Estrella, San Clemente, 92672",+1 949 443 5139,,33.45608,-117.6562837,,,w_440510763,"shop=department_store, brand=TJ Maxx"
+"San Clemente, CA",,retail,446120,Ultra Beauty,"510 Camino de Estrella, San Clemente, 92672",,,33.456393,-117.6560975,,,w_440510764,shop=beauty
+"San Clemente, CA",,retail,445120,,,,,33.7072266,-117.8071303,,,w_441475283,shop=convenience
+"San Clemente, CA",,retail,445110,Smart & Final Extra!,"26560 Moulton Parkway, Laguna Hills, CA, 92653",,,33.5769596,-117.7012969,,,w_442362721,"shop=supermarket, brand=Smart & Final"
+"San Clemente, CA",,retail,445120,7-Eleven,"26572 Junipero Serra Road, San Juan Capistrano, CA, 92675",+1 949-493-8283,https://www.7-eleven.com/locations/ca/san-juan-capistrano/26572-junipero-serra-rd-39050,33.5197289,-117.6670819,,,w_445094427,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,445110,99 Ranch Market,"15333 Culver Drive, Irvine, CA, 92604",+1 949-651-8899,,33.6964068,-117.798391,,,w_446040310,"shop=supermarket, brand=99 Ranch Market"
+"San Clemente, CA",,retail,452210,Target,"2267 South El Camino Real, Oceanside, CA, 92054",+1 760-967-8335,https://www.target.com/sl/oceanside/303,33.1841818,-117.3303115,,,w_448848383,"shop=department_store, brand=Target"
+"San Clemente, CA",,retail,445110,Stater Bros.,2170 Vista Way,,,33.182943,-117.3424427,,,w_450137346,"shop=supermarket, brand=Stater Bros."
+"San Clemente, CA",,retail,445120,Shell,2315 Vista Way,,,33.1816494,-117.3376339,,,w_450137747,"shop=convenience, brand=Shell"
+"San Clemente, CA",,retail,445110,Walmart Supercenter,"2100 Vista Way, Oceanside, CA, 92054",+1 760-966-0026,https://www.walmart.com/store/2494-oceanside-ca,33.1813509,-117.3473062,,,w_450284493,"shop=supermarket, brand=Walmart, operator=Walmart"
+"San Clemente, CA",,retail,445120,Marine Corps Exchange,,,,33.2287402,-117.3904196,,,w_451092159,shop=convenience
+"San Clemente, CA",,retail,445120,Marine Corps Exchange,,,,33.2240658,-117.3952605,,,w_451117139,shop=convenience
+"San Clemente, CA",,retail,445110,Gelson's,"30922 Pacific Coast Highway, Laguna Beach, 92651",,,33.5146653,-117.7550388,,,w_451813362,"shop=supermarket, brand=Gelson's"
+"San Clemente, CA",,retail,445120,ampm,,,,33.6152981,-117.6791063,,,w_459926026,"shop=convenience, brand=ampm"
+"San Clemente, CA",,retail,445310,Normand's Liquor,"1618 North El Camino Real, San Clemente, 92672",,,33.432368,-117.6286267,,,w_460975747,shop=alcohol
+"San Clemente, CA",,retail,445120,Circle K,,,,33.621903,-117.9384937,,,w_469595413,"shop=convenience, brand=Circle K"
+"San Clemente, CA",,retail,445120,,,,,33.418369,-117.604027,,,w_475153037,shop=convenience
+"San Clemente, CA",,retail,445120,76,,,,33.1815531,-117.2968173,,,w_480326186,"shop=convenience, brand=76"
+"San Clemente, CA",,retail,445120,ExtraMile,"26302 Oso Parkway, Mission Viejo, 92691",,,33.579458,-117.6704376,,,w_481315637,"shop=convenience, brand=ExtraMile"
+"San Clemente, CA",,retail,445110,,"2801 South El Camino Real, San Clemente, CA, 92672",(949) 218-1906,,33.4051855,-117.5973875,,,w_485034851,shop=supermarket
+"San Clemente, CA",,retail,445120,ExtraMile,"14082 Red Hill Avenue, Tustin, CA, 92780",,,33.7324715,-117.8160745,,,w_495238766,"shop=convenience, brand=ExtraMile"
+"San Clemente, CA",,retail,446120,Top Knot,"3043 Harding Street, Carlsbad, 92008",,,33.1613307,-117.3444299,,,w_498120847,shop=beauty
+"San Clemente, CA",,retail,445120,ExtraMile,,,,33.4854839,-117.72516,,,w_500257419,"shop=convenience, brand=ExtraMile"
+"San Clemente, CA",,retail,445120,ampm,"1727 East Dyer Road, Santa Ana, CA, 92705",,,33.7091917,-117.8487636,,,w_501404708,"shop=convenience, brand=ampm"
+"San Clemente, CA",,retail,445120,7-Eleven,"1700 East Dyer Road, Santa Ana, CA, 92705",,https://www.7-eleven.com/locations/ca/santa-ana/1700-e-dyer-road-33155,33.7079759,-117.8502072,,,w_501404712,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,453110,Hey Flower Man,"2729 Carlsbad Boulevard, Carlsbad, CA, 92008",,,33.1606017,-117.3532521,,,w_501550012,shop=florist
+"San Clemente, CA",,retail,445110,H Mart,"2600,2610 Alton Parkway, Irvine, CA, 92606",,,33.6892251,-117.8344534,,,w_504262121,"shop=supermarket, brand=H Mart"
+"San Clemente, CA",,retail,445120,Circle K,,,,33.672888,-117.6554359,,,w_505350040,"shop=convenience, brand=Circle K"
+"San Clemente, CA",,retail,445120,,"26282 Oso Parkway, Mission Viejo, 92691",,,33.5794619,-117.6709957,,,w_506610074,shop=convenience
+"San Clemente, CA",,retail,445310,Liquor Locker,"34092 Doheny Park Road, Dana Point, 92624",,,33.4677384,-117.6759967,,,w_507447456,shop=alcohol
+"San Clemente, CA",,retail,445110,Whole Foods Market,"283 Broadway Street, Laguna Beach, CA, 92651",+1 949-376-7888,https://www.wholefoodsmarket.com/stores/lagunabeach,33.5438795,-117.783833,,,w_509111355,"shop=supermarket, brand=Whole Foods Market"
+"San Clemente, CA",,retail,445110,Stater Bros.,"14171 Red Hill Avenue, Tustin, CA, 92780",+1 714-544-1812,https://www.staterbros.com/stores/37,33.7321747,-117.8178639,,,w_512182526,"shop=supermarket, brand=Stater Bros."
+"San Clemente, CA",,retail,445120,Circle K,,,,33.626251,-117.2704955,,,w_514661952,"shop=convenience, brand=Circle K"
+"San Clemente, CA",,retail,445120,Chevron,,,,33.6158869,-117.9004187,,,w_516916583,"shop=convenience, amenity=fuel, brand=Chevron"
+"San Clemente, CA",,retail,445110,Walmart Supercenter,"16555 Von Karman Avenue, Irvine, CA, 92606",+1 949-623-7467,https://www.walmart.com/store/5644-irvine-ca,33.6988147,-117.8357219,,,w_542168700,"shop=supermarket, brand=Walmart, operator=Walmart"
+"San Clemente, CA",,retail,445120,Trabuco General Store,,,,33.6600111,-117.5902367,,,w_543597681,shop=convenience
+"San Clemente, CA",,retail,446110,CVS Pharmacy,"27702 Crown Valley Parkway, Ladera Ranch, 92694",,,33.5637142,-117.6453611,,,w_544912944,"shop=chemist, brand=CVS Pharmacy"
+"San Clemente, CA",,retail,445120,Mobil Mart,"27702 Crown Valley Parkway, Ladera Ranch, 92694",,,33.563606,-117.6461537,,,w_544913685,"shop=convenience, brand=Mobil Mart"
+"San Clemente, CA",,retail,445110,Baron's,,,,33.5907188,-117.2498025,,,w_546661979,shop=supermarket
+"San Clemente, CA",,retail,446110,Rite Aid,,,https://www.riteaid.com/locations/ca/wildomar/32450-clinton-keith-road.html,33.5896005,-117.2511665,,,w_546662790,"shop=chemist, brand=Rite Aid"
+"San Clemente, CA",,retail,445310,The Outpost Liquor,"6110 Pacific Coast Highway, Newport Beach, 92663",,,33.6264829,-117.9486807,,,w_547724454,shop=alcohol
+"San Clemente, CA",,retail,446120,Pink Nails,"4509 West Coast Highway, Newport Beach, CA, 92663",+1 949 402 9372,https://www.pinknailsnpb.com/,33.6220076,-117.9378012,,,w_548208877,shop=beauty
+"San Clemente, CA",,retail,445110,Albertsons,"30241 Golden Lantern Street, Laguna Niguel, CA, 92677",+1 949-363-0456,https://local.albertsons.com/ca/laguna-niguel/30241-golden-lantern.html,33.5240865,-117.6877746,,,w_550745082,"shop=supermarket, brand=Albertsons"
+"San Clemente, CA",,retail,445120,A Market,"3400 Pacific Coast Highway, Newport Beach, CA, 92663",,,33.6215793,-117.9284224,,,w_551512939,shop=convenience
+"San Clemente, CA",,retail,445310,Bal-Post Liquor,,,,33.6218815,-117.9379118,,,w_551538015,shop=alcohol
+"San Clemente, CA",,retail,445310,Liquor Mart,"1125 Victoria Street, Costa Mesa, CA, 92627",,,33.6518146,-117.9464894,,,w_552693748,shop=alcohol
+"San Clemente, CA",,retail,446110,CVS Pharmacy,"171 East 17th Street, Costa Mesa, 92627",,https://www.cvs.com/store-locator/costa-mesa-ca-pharmacies/175-e-17th-st-costa-mesa-ca-92627/storeid=9863,33.6358008,-117.9205125,,,w_553135939,"shop=chemist, brand=CVS Pharmacy"
+"San Clemente, CA",,retail,445120,7-Eleven,"1495 Superior Avenue, Newport Beach, CA, 92663",+1 949-650-4239,https://www.7-eleven.com/locations/ca/newport-beach/1495-superior-25703,33.6285559,-117.9315615,,,w_553418020,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,445310,BevMo!,"34215 Pacific Coast Highway, Dana Point, 92629",,,33.4667626,-117.6948378,,,w_557150972,"shop=alcohol, brand=BevMo!"
+"San Clemente, CA",,retail,445120,,,,,33.5402139,-117.7812791,,,w_565840494,shop=convenience
+"San Clemente, CA",,retail,445120,,"604 Pacific Coast Highway, Laguna Beach, 92651",,,33.5395662,-117.7808347,,,w_565840496,shop=convenience
+"San Clemente, CA",,retail,452319,99 Cents Only Stores,1006 Mission Avenue,,https://locations.99only.com/ca/oceanside/discount-store-95.html,33.1998118,-117.3753464,,,w_576285226,"shop=variety_store, brand=99 Cents Only Stores"
+"San Clemente, CA",,retail,445110,Ralphs,"811 Avenida Talega, San Clemente, CA, 92673",+1 949-940-0167,https://www.ralphs.com/stores/grocery/ca/san-clemente/talega-village-center/703/00287,33.4622964,-117.598422,,,w_585779532,"shop=supermarket, brand=Ralphs"
+"San Clemente, CA",,retail,452210,Nordstrom,,,https://www.nordstrom.com/store-details/nordstrom-south-coast-plaza,33.6924791,-117.8897067,,,w_589101109,"shop=department_store, brand=Nordstrom, operator=Nordstrom"
+"San Clemente, CA",,retail,452210,Macy's,,,https://www.macys.com/stores/ca/costamesa/south-coast-plaza_523.html,33.6910421,-117.89051,,,w_589101111,"shop=department_store, brand=Macy's"
+"San Clemente, CA",,retail,452210,Saks Fifth Avenue,"Costa Mesa, 92626",,,33.6896587,-117.8900495,,,w_589102150,"shop=department_store, brand=Saks Fifth Avenue"
+"San Clemente, CA",,retail,452210,Bloomingdale's,,,,33.6892125,-117.8881648,,,w_589102157,"shop=department_store, brand=Bloomingdale's"
+"San Clemente, CA",,retail,452210,Macy's The Men's Store,,,,33.6901794,-117.890269,,,w_589102158,"shop=department_store, brand=Macy's"
+"San Clemente, CA",,retail,452210,Sears,,,,33.6923625,-117.8874436,,,w_589105673,"shop=department_store, brand=Sears"
+"San Clemente, CA",,retail,445110,Trader Joe's,"24231 Avenida De La Carlota, Laguna Hills, CA, 92653",+1 949-461-0927,https://locations.traderjoes.com/ca/laguna-hills/39/,33.6098531,-117.7029493,,,w_591440723,"shop=supermarket, brand=Trader Joe's"
+"San Clemente, CA",,retail,445120,ExtraMile,,,,33.6140531,-117.7094713,,,w_591440740,"shop=convenience, brand=ExtraMile"
+"San Clemente, CA",,retail,445110,Pavilions,"989 Avenida Pico, San Clemente, 92673",,https://local.pavilions.com/ca/san-clemente/989-avendia-pico.html,33.456721,-117.6033615,,,w_631113646,"shop=supermarket, brand=Pavilions"
+"San Clemente, CA",,retail,452210,Target,"18287 Collier Avenue, Lake Elsinore, CA, 92530-2755",+1 951-674-2620,https://www.target.com/sl/lake-elsinore/2195,33.68903,-117.3427773,,,w_637365404,"shop=department_store, brand=Target"
+"San Clemente, CA",,retail,445120,Circle K,,,,33.6930269,-117.3353384,,,w_637953090,"shop=convenience, brand=Circle K"
+"San Clemente, CA",,retail,445310,Bob's Fine Wines,"470 Camino de Estrella, San Clemente, 92672",,,33.455853,-117.656514,,,w_642718265,shop=alcohol
+"San Clemente, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/corona-ca-pharmacies/11950-de-palma-rd-corona-ca-92883/storeid=8816,33.7467547,-117.4513385,,,w_665996271,"shop=chemist, brand=CVS Pharmacy"
+"San Clemente, CA",,retail,445120,,"51 Technology Drive, Irvine, CA, 92618",,,33.6560582,-117.7400292,,,w_673686961,shop=convenience
+"San Clemente, CA",,retail,445120,SOI Marine Corps Exchange,520407 Basilone Road,,,33.3945699,-117.5134347,,,w_681309754,shop=convenience
+"San Clemente, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/mission-viejo/27271-trabuco-rd-35346,33.6135314,-117.6547165,,,w_686360570,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,445120,Circle K,"26052 Marguerite Parkway, Mission Viejo, 92692",,,33.5846654,-117.6594731,,,w_686360603,"shop=convenience, brand=Circle K"
+"San Clemente, CA",,retail,445110,Gelson's,"5521 Alton Parkway, Irvine, CA, 92618",(949) 551-6093,https://www.gelsons.com/,33.6702503,-117.7866706,,,w_691317775,"shop=supermarket, brand=Gelson's"
+"San Clemente, CA",,retail,445120,Circle K,"5793 Alton Parkway, Irvine, CA, 92618",,,33.6689222,-117.7866974,,,w_691317781,"shop=convenience, brand=Circle K"
+"San Clemente, CA",,retail,445110,Gelson's,"30721 Gateway Place, Rancho Mission Viejo, CA, 92675",,,33.5210644,-117.6190519,,,w_696270074,"shop=supermarket, brand=Gelson's"
+"San Clemente, CA",,retail,445110,Albertsons,"1133 South Mission Road, Fallbrook, CA, 92028",+1 760-723-8177,https://local.albertsons.com/ca/fallbrook/1133-s-mission-rd.html,33.3717377,-117.255877,,,w_719628807,"shop=supermarket, brand=Albertsons"
+"San Clemente, CA",,retail,445120,76,,,,33.3711032,-117.2509177,,,w_719632296,"shop=convenience, brand=76"
+"San Clemente, CA",,retail,445120,7-Eleven,487 Vandegrift Boulevard,,https://www.7-eleven.com/locations/ca/oceanside/487-vandegrift-blvd-20342,33.2545252,-117.2999944,,,w_719633894,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,445310,Broadway Liquor-Mart,"278 Broadway Street, Laguna Beach",,,33.5439893,-117.7844989,,,w_740431414,shop=alcohol
+"San Clemente, CA",,retail,445299,Dejong's Cash and Carry Dairy,,,,33.6282389,-117.2941961,,,w_742694048,shop=dairy
+"San Clemente, CA",,retail,445110,Ralphs,"24871 Del Prado, Dana Point, CA, 92629",+1 949-661-4145,https://www.ralphs.com/stores/grocery/ca/dana-point/lantern-bay-village/703/00188,33.4665747,-117.6960025,,,w_758009231,"shop=supermarket, brand=Ralphs"
+"San Clemente, CA",,retail,445120,,,,,33.4896646,-117.711643,,,w_758058832,shop=convenience
+"San Clemente, CA",,retail,446120,Get My Point Body Piercing,"34144 Pacific Coast Highway, Dana Point, CA, 92629",,,33.4667475,-117.701569,,,w_758881782,shop=beauty
+"San Clemente, CA",,retail,445120,Circle K,"34138 Pacific Coast Highway, Dana Point, CA, 92629",+1 (949) 240-5129,,33.466855,-117.701887,,,w_758881783,"shop=convenience, brand=Circle K"
+"San Clemente, CA",,retail,445110,Smart & Final,"26911 Trabuco Road, Mission Viejo, 92691",,https://www.smartandfinal.com/,33.6208984,-117.6595155,,,w_764260726,"shop=supermarket, brand=Smart & Final"
+"San Clemente, CA",,retail,446110,CVS Pharmacy,"26851 Trabuco Road, Mission Viejo, 92691",,https://www.cvs.com/store-locator/mission-viejo-ca-pharmacies/26851-trabuco-rd-mission-viejo-ca-92691/storeid=8891,33.6221108,-117.658829,,,w_764260727,"shop=chemist, brand=CVS Pharmacy"
+"San Clemente, CA",,retail,452210,Big Lots,"27142 La Paz Road, Mission Viejo, CA, 92692",+1 949-380-1725,https://local.biglots.com/ca/mission-viejo/27142-la-paz-rd,33.5958712,-117.6567055,,,w_765284375,"shop=department_store, brand=Big Lots"
+"San Clemente, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/mission-viejo-ca-pharmacies/25272-marguerite-pky-mission-viejo-ca-92692/storeid=9485,33.595217,-117.6569859,,,w_765284379,"shop=chemist, brand=CVS Pharmacy"
+"San Clemente, CA",,retail,445110,Ralphs,"25104 Marguerite Parkway, Mission Viejo, CA, 92692",+1 949-830-3066,https://www.ralphs.com/stores/grocery/ca/mission-viejo/la-paz-marguerite-sc/703/00076,33.5973471,-117.6564211,,,w_765284383,"shop=supermarket, brand=Ralphs"
+"San Clemente, CA",,retail,445120,Shell Food Mart,,(949) 830-5740,,33.6001245,-117.6718605,,,w_779526709,shop=convenience
+"San Clemente, CA",,retail,452319,43 Area PX,,,,33.3453204,-117.410821,,,w_782545158,shop=general
+"San Clemente, CA",,retail,446110,Walgreens,"3000 South Bristol Street, Santa Ana, CA, 92704",,,33.7071736,-117.8859305,,,w_784943914,"shop=chemist, brand=Walgreens"
+"San Clemente, CA",,retail,445210,La Pradera Carniceria,"3047 Bristol Street, Santa Ana, CA, 92704",+1 (714) 662-1234,,33.7067618,-117.8852029,,,w_785248140,shop=butcher
+"San Clemente, CA",,retail,445310,Key Market Liquir,"3041 South Bristol Street, Santa Ana, CA, 92704",+1 (714) 957-5728,,33.7067624,-117.8850583,,,w_785248141,shop=alcohol
+"San Clemente, CA",,retail,446120,Tina Beauty Salon & Supply,"3041 Bristol Street, Santa Ana, 92704",,https://www.tinasbeautysalonandsupply.com/,33.7067514,-117.8847138,,,w_785248143,shop=beauty
+"San Clemente, CA",,retail,445120,76,"26411 Crown Valley Parkway, Mission Viejo, CA, 92691",,,33.5617827,-117.6701375,,,w_789202856,"shop=convenience, brand=76"
+"San Clemente, CA",,retail,452210,Target,"27551 Puerta Real, Mission Viejo, CA, 92691",+1 949-317-5522,https://www.target.com/sl/mission-viejo-south/3315,33.5624993,-117.6717849,,,w_789202857,"shop=department_store, brand=Target"
+"San Clemente, CA",,retail,445120,7-Eleven,"24401 Ridge Route Drive, Laguna Hills, CA, 92653",+1 949-455-0357,https://www.7-eleven.com/locations/ca/laguna-hills/24401-ridge-route-dr-a-101-29200,33.6213093,-117.732704,,,w_790230896,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,445120,,,,,33.6767104,-117.7583254,,,w_812830336,shop=convenience
+"San Clemente, CA",,retail,445120,Sand Canyon Service Station,,,,33.6767317,-117.758623,,,w_812830338,"shop=convenience, amenity=fuel, brand=76"
+"San Clemente, CA",,retail,445110,Bristol Farms,"810 Avocado Avenue, Newport Beach, CA, 92660",+1 949-760-6514,https://www.bristolfarms.com,33.6062584,-117.873326,,,w_816452322,shop=supermarket
+"San Clemente, CA",,retail,445310,San'O Mart Liquor,"3119 South El Camino Real, San Clemente",,,33.4029575,-117.5962461,,,w_833955636,shop=alcohol
+"San Clemente, CA",,retail,445110,Whole Foods Market,"8525 Research Drive, Irvine, CA, 92618",+1 949-777-8500,https://www.wholefoodsmarket.com/stores/irvine,33.6462998,-117.744373,,,w_837275930,"shop=supermarket, brand=Whole Foods Market"
+"San Clemente, CA",,retail,445120,,,,,33.5926676,-117.7282546,,,w_843296893,shop=convenience
+"San Clemente, CA",,retail,445120,Chevron,"23022 Aliso Creek Road, Aliso Viejo, CA, 92656",,,33.5929054,-117.7285397,,,w_843296895,"shop=convenience, amenity=fuel, brand=Chevron"
+"San Clemente, CA",,retail,445120,ampm,,,,33.6805369,-117.8802899,,,w_844622562,"shop=convenience, brand=ampm"
+"San Clemente, CA",,retail,445120,Power Market,,,,33.6035754,-117.8728828,,,w_844635947,shop=convenience
+"San Clemente, CA",,retail,446120,Salty Lash,"2727 Roosevelt Street, Carlsbad, CA, 92008",,,33.1627155,-117.3499895,,,w_886564442,shop=beauty
+"San Clemente, CA",,retail,445110,WinCo Foods,"2245 South El Camino Real, Oceanside, CA, 92054",,,33.1854632,-117.3303854,,,w_900937010,"shop=supermarket, brand=WinCo Foods"
+"San Clemente, CA",,retail,445120,Chevron,,,,33.5831379,-117.6314798,,,w_910984379,"shop=convenience, amenity=fuel, brand=Chevron"
+"San Clemente, CA",,retail,445110,Walmart Supercenter,"29260 Central Avenue, Lake Elsinore, CA, 92532",+1 951-245-5990,https://www.walmart.com/store/2077-lake-elsinore-ca,33.6929548,-117.3322111,,,w_939049343,"shop=supermarket, brand=Walmart"
+"San Clemente, CA",,retail,445120,,"810 Tamarack Avenue, Carlsbad, CA, 92008",,,33.1521593,-117.3380725,,,w_961509321,shop=convenience
+"San Clemente, CA",,retail,446120,Sephora,"2999 El Camino Real, Tustin, CA, 92782",+1 714-669-7746,https://www.sephora.com/happening/stores/tustin-market-place,33.7236852,-117.7928523,,,w_1030862089,"shop=cosmetics, brand=Sephora"
+"San Clemente, CA",,retail,446120,Mii Box Beauty,,,,33.6804689,-117.7786453,,,w_1041811036,shop=beauty
+"San Clemente, CA",,retail,446120,The Nail Bar,,,,33.6806482,-117.7787484,,,w_1041811040,shop=beauty
+"San Clemente, CA",,retail,453110,Irvine Village Flowers,,,,33.6809065,-117.7780115,,,w_1041811060,shop=florist
+"San Clemente, CA",,retail,445120,,,,,33.643054,-117.931738,,,w_1056489008,shop=convenience
+"San Clemente, CA",,retail,445310,Power Liquor,"1888 Placentia Avenue, CA",,,33.6428641,-117.9317213,,,w_1056489009,shop=alcohol
+"San Clemente, CA",,retail,445120,,,,,33.6437927,-117.9317063,,,w_1056489013,shop=convenience
+"San Clemente, CA",,retail,446120,Kat Beauty Salon,"409 30th Street, Newport Beach, CA, 92663",,,33.6148276,-117.9296927,,,w_1057994018,shop=beauty
+"San Clemente, CA",,retail,445310,Sportsman's Liquor Store,"2615 Newport Boulevard, Newport Beach, CA, 92663",,,33.6122499,-117.9293008,,,w_1061825687,shop=alcohol
+"San Clemente, CA",,retail,453991,Up in Smoke - Smoke Shop,"2611,2613 Newport Boulevard, Newport Beach, CA, 92663",,,33.6121185,-117.9292703,,,w_1061825689,shop=tobacco
+"San Clemente, CA",,retail,445120,Lombardy's Market & Deli,"508 West Balboa Boulevard, Newport Beach, CA, 92661",+1 (949) 877-0061,https://www.lombardysdeli.com/,33.6042617,-117.9069114,,,w_1072359303,"shop=convenience, amenity=fast_food"
+"San Clemente, CA",,retail,445120,,,,,33.2044969,-117.3652465,,,w_1075416793,shop=convenience
+"San Clemente, CA",,retail,445110,Stater Bros.,"15150 Kensington Park Drive, Tustin, CA, 92782",+1 657-235-6641,https://www.staterbros.com/stores/198,33.7115094,-117.8163645,,,w_1080374015,"shop=supermarket, brand=Stater Bros."
+"San Clemente, CA",,retail,445310,Korker Liquor,"2229 Pacific Coast Highway, Corona Del Mar, CA, 92625",+1 949-673-0916,,33.6050457,-117.8756064,,,w_1085501195,shop=alcohol
+"San Clemente, CA",,retail,446110,Rite Aid,"3141 Pacific Coast Highway, Corona Del Mar, CA, 92625",,,33.597016,-117.871724,,,w_1085501816,"shop=chemist, amenity=pharmacy, brand=Rite Aid"
+"San Clemente, CA",,retail,445120,,,,,33.4308218,-117.6151857,,,w_1106389214,shop=convenience
+"San Clemente, CA",,retail,445120,Dino Market,"Harbor Boulevard, Costa Mesa, CA, 92626",,,33.6636128,-117.9187242,,,w_1125935931,shop=convenience
+"San Clemente, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-1726+superior+ave-costa+mesa-ca-92627/id=11652,33.6369537,-117.9222965,,,w_1127825235,"shop=chemist, brand=Walgreens"
+"San Clemente, CA",,retail,445120,,"2602 Newport Boulevard, Costa Mesa, CA, 92627",,,33.662886,-117.8960594,,,w_1130737271,shop=convenience
+"San Clemente, CA",,retail,445120,Shell,"1512 Bristol Street, Costa Mesa, CA, 92626",,,33.6660793,-117.8820751,,,w_1147043574,"shop=convenience, brand=Shell"
+"San Clemente, CA",,retail,452210,Target,"31874 Del Obispo Street, San Juan Capistrano, CA, 92675-3204",+1 949-538-4940,https://www.target.com/sl/san-juan-capistrano/3366,33.4984854,-117.6594649,,,w_1148024959,"shop=department_store, brand=Target"
+"San Clemente, CA",,retail,445110,Albertsons,"23893 Clinton Keith Road, Wildomar, CA, 92595",+1 951-600-4607,https://local.albertsons.com/ca/wildomar/23893-clinton-keith-rd.html,33.595663,-117.2414567,,,w_1159194701,"shop=supermarket, brand=Albertsons"
+"San Clemente, CA",,retail,445120,CdM Market,CA,,,33.6050585,-117.8758711,,,w_1161208096,shop=convenience
+"San Clemente, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/wildomar/24116-clinton-keith-road-37623,33.5981385,-117.2405563,,,w_1162587475,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,445110,Grocery Outlet,,,,33.5994068,-117.2398463,,,w_1162587481,"shop=supermarket, brand=Grocery Outlet"
+"San Clemente, CA",,retail,446110,CVS Pharmacy,"17625 Harvard Avenue, Irvine, CA, 92614",,https://www.cvs.com/store-locator/irvine-ca-pharmacies/17625-harvard-avenue-irvine-ca-92614/storeid=9561,33.6766515,-117.8333502,,,w_1235002118,"shop=chemist, brand=CVS Pharmacy"
+"San Clemente, CA",,retail,445120,PX,,,,33.422734,-117.5570658,,,w_1245120863,shop=convenience
+"San Clemente, CA",,retail,445310,BevMo!,"27662 Antonio Parkway, Ladera Ranch, CA, 92694",,,33.5613787,-117.6283864,,,w_1247776880,"shop=alcohol, brand=BevMo!"
+"San Clemente, CA",,retail,452319,Five Below,"27582 Antonio Parkway, Ladera Ranch, CA, 92694",+1 949-373-5963,https://locations.fivebelow.com/ca/ladera-ranch/27582-antonio-pkwy,33.562399,-117.6279192,,,w_1247776883,"shop=variety_store, brand=Five Below"
+"San Clemente, CA",,retail,445110,Trader Joe's,"27542 Antonio Parkway, Ladera Ranch, CA, 92694",+1 949-239-6429,https://locations.traderjoes.com/ca/ladera-ranch/257/,33.5628704,-117.6275277,,,w_1247776885,"shop=supermarket, brand=Trader Joe's"
+"San Clemente, CA",,retail,445110,Albertsons,"23072 Alicia Parkway, Mission Viejo, CA, 92692",+1 949-583-7337,https://local.albertsons.com/ca/mission-viejo/23072-alicia-pkwy.html,33.6275249,-117.6361323,,,w_1250876863,"shop=supermarket, brand=Albertsons"
+"San Clemente, CA",,retail,446120,Sola Salons,"1218 Irvine Boulevard, Tustin, CA, 92780",,,33.7460603,-117.8090242,,,w_1258850910,"shop=beauty, brand=Sola Salons"
+"San Clemente, CA",,retail,445110,Stater Bros.,"1175 Baker Street, Costa Mesa, CA, 92626",+1 714-437-0754,https://www.staterbros.com/stores/35,33.6789201,-117.9063072,,,w_1263891442,"shop=supermarket, brand=Stater Bros."
+"San Clemente, CA",,retail,452210,Big Lots,"1702 Oceanside Boulevard, Oceanside, CA, 92054",+1 760-453-0661,https://local.biglots.com/ca/oceanside/1702-oceanside-blvd,33.1924202,-117.3608946,,,w_1279935417,"shop=department_store, brand=Big Lots"
+"San Clemente, CA",,retail,445110,Stater Bros.,"32281 Mission Trail, Lake Elsinore, CA, 92530",+1 951-245-5802,https://www.staterbros.com/stores/189,33.6531334,-117.2982219,,,w_1307058596,"shop=supermarket, brand=Stater Bros."
+"San Clemente, CA",,retail,446120,Planet Beauty,"3881 Alton Parkway, Irvine, CA, 92606",,,33.6825128,-117.8118237,,,w_1324220457,shop=beauty
+"San Clemente, CA",,retail,446120,Cosmo Nail Bar,"3881 Alton Parkway, Irvine, CA, 92606",,,33.6823774,-117.8115782,,,w_1324220461,shop=beauty
+"San Clemente, CA",,retail,445120,7-Eleven,"3975 Alton Parkway, Irvine, CA, 92606",+1 949-476-3158,https://www.7-eleven.com/locations/ca/irvine/3975-alton-pkwy-ste-b-36079,33.6819465,-117.8123368,,,w_1324220467,"shop=convenience, brand=7-Eleven"
+"San Clemente, CA",,retail,453110,Flowers and Friends,,+1 949 366 9150,,33.4326441,-117.633155,,,w_1373155082,shop=florist
+"San Clemente, CA",,retail,445110,Grocery Outlet,,,,33.7492233,-117.809949,,,w_1388926438,"shop=supermarket, brand=Grocery Outlet"
+"San Clemente, CA",,retail,452319,Five Below,"2300 Harbor Boulevard, Costa Mesa, CA, 92626",+1 9495037533,https://locations.fivebelow.com/ca/costa-mesa/2300-harbor-blvd,33.6580625,-117.9170094,,,w_1413600116,"shop=variety_store, brand=Five Below, operator=Five Below"
+"San Clemente, CA",,retail,445110,,"28231 Crown Valley Parkway, Laguna Niguel, CA, 92677",,,33.5538539,-117.6873746,,,r_13074501,shop=supermarket

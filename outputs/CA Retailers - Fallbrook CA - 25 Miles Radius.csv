@@ -1,0 +1,814 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Fallbrook, CA",,retail,445110,Albertsons,,,https://local.albertsons.com/ca/escondido/1509-e-valley-pkwy.html,33.1318495,-117.05952,,,n_365319363,"shop=supermarket, brand=Albertsons"
+"Fallbrook, CA",,retail,445110,Albertsons,"151 Woodland Parkway, San Marcos, CA, 92069",+1 760-736-8880,https://local.albertsons.com/ca/san-marcos/151-woodland-pkwy.html,33.1400088,-117.1384078,,,n_365319393,"shop=supermarket, brand=Albertsons"
+"Fallbrook, CA",,retail,445110,Sprouts Farmers Market,"471 College Boulevard, Oceanside, CA, 92057",+1 760-726-7274,https://www.sprouts.com/store/ca/oceanside/college-blvd/,33.244442,-117.291178,,,n_365319442,"shop=supermarket, brand=Sprouts Farmers Market"
+"Fallbrook, CA",,retail,445110,Ralphs,"2417 East Valley Parkway, Escondido, CA, 92027",+1 760-740-0334,https://www.ralphs.com/stores/grocery/ca/escondido/ferrara-plaza/703/00090,33.1404803,-117.0428558,,,n_365319547,"shop=supermarket, brand=Ralphs"
+"Fallbrook, CA",,retail,445110,El Tigre Foods Warehouse,,,,33.368481,-117.249825,,,n_365319590,shop=supermarket
+"Fallbrook, CA",,retail,445110,Albertsons,"1924 West 11th Avenue, Escondido, CA, 92029",+1 760-738-1669,https://local.albertsons.com/ca/escondido/1570-w-valley-pkwy.html,33.1087912,-117.105855,,,n_365319668,"shop=supermarket, brand=Albertsons"
+"Fallbrook, CA",,retail,445110,Albertsons,"3450 Marron Road, Oceanside, CA, 92056",+1 760-729-3468,https://local.albertsons.com/ca/oceanside/3450-marron-rd.html,33.1796149,-117.296568,,,n_365319802,"shop=supermarket, brand=Albertsons"
+"Fallbrook, CA",,retail,445110,Gelson's,"7660 El Camino Real, Carlsbad, CA, 92009",,,33.0873168,-117.267067,,,n_365319914,shop=supermarket
+"Fallbrook, CA",,retail,445110,Albertsons,"1601 South Melrose Drive, Vista, CA, 92081",+1-760-598-0142,https://local.albertsons.com/ca/vista/1601-s-melrose-dr.html,33.1668328,-117.248091,,,n_365319926,"shop=supermarket, brand=Albertsons"
+"Fallbrook, CA",,retail,445110,Harvest Ranch Market #2,,,,33.0356349,-117.2381936,,,n_365319956,shop=supermarket
+"Fallbrook, CA",,retail,445110,Food 4 Less,"500 Hacienda Drive, Vista, 92081",,,33.1929312,-117.2509145,,,n_365319984,"shop=supermarket, brand=Food 4 Less"
+"Fallbrook, CA",,retail,445120,7-Eleven,"1334 West Valley Parkway, Escondido, CA, 92029",+1 760-746-1298,https://www.7-eleven.com/locations/ca/escondido/1334-w-valley-pkwy-27495,33.1135696,-117.1021033,,,n_365327854,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/encinitas/102-leucadia-blvd-13627,33.0649835,-117.3016427,,,n_365327872,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,7-Eleven,"555 West Country Club Lane, Escondido, CA, 92026-1226",+1 760-743-5351,https://www.7-eleven.com/locations/ca/escondido/555-west-country-club-ln-21804,33.158349,-117.09992,,,n_365327920,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,7-Eleven,"592 Santa Fe Drive, Encinitas, CA, 92024-4640",+1 760-753-4047,https://www.7-eleven.com/locations/ca/encinitas/592-santa-fe-dr-13620,33.0365202,-117.2796415,,,n_365327924,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,7-Eleven,"1560 East Grand, Escondido, CA, 92027-3113",+1 760-743-4077,https://www.7-eleven.com/locations/ca/escondido/1560-east-grand-13629,33.130742,-117.058311,,,n_365327976,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,7-Eleven,"1749 South Coast Highway, Oceanside, CA, 92054-5319",+1 760-433-6505,https://www.7-eleven.com/locations/ca/oceanside/1749-south-coast-hwy-26190,33.175353,-117.362651,,,n_365328183,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,7-Eleven,"260 East Mission Avenue, Escondido, CA, 92025-1826",+1 760-745-4760,https://www.7-eleven.com/locations/ca/escondido/260-e-mission-avenue-21785,33.131263,-117.08377,,,n_365328203,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,7-Eleven,"711 Oceanside Bvd, Oceanside, CA, 92054-5225",+1 760-722-9376,https://www.7-eleven.com/locations/ca/oceanside/711-oceanside-bvd-17043,33.18443,-117.367331,,,n_365328215,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/cardiff-by-the-sea/2211-san-elijo-avenue-25766,33.0192044,-117.2811461,,,n_365328224,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/san-marcos/578-e-mission-road-18977,33.1454406,-117.149661,,,n_365328264,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/escondido/1030-n-broadway-22894,33.134231,-117.086657,,,n_365328277,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,7-Eleven,"1860 West El Norte Parkway, Escondido, CA, 92026-3343",+1 760-741-5426,https://www.7-eleven.com/locations/ca/escondido/1860-w-el-norte-pkwy-21803,33.1549453,-117.1246934,,,n_365328314,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/oceanside/4625-frazee-rd-33053,33.2376228,-117.2978689,,,n_365328317,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,7-Eleven,"768 North Midway Drive, Escondido, CA, 92027",+1 760-743-1231,https://www.7-eleven.com/locations/ca/escondido/768-midway-ave-13606,33.1446991,-117.055726,,,n_365328338,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,7-Eleven,"1501 North Santa Fe Avenue, Vista, 92084",,https://www.7-eleven.com/locations/ca/vista/1501-n-santa-fe-ave-15923,33.2215087,-117.2446082,,,n_365328349,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,7-Eleven,,,,33.0465898,-117.2572123,,,n_365328354,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,7-Eleven,,,,33.13614,-117.09281,,,n_365328365,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,7-Eleven,"1650 West San Marcos Boulevard, San Marcos, CA, 92078-4021",+1 760-752-9848,https://www.7-eleven.com/locations/ca/san-marcos/1650-w-san-marcos-blvd-16054,33.1317663,-117.20767,,,n_365328413,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,7-Eleven,"895 East Vista Way, Vista, CA, 92084-5237",+1 760-941-2266,https://www.7-eleven.com/locations/ca/vista/895-east-vista-way-23302,33.210704,-117.232356,,,n_365328429,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,7-Eleven,,,,33.053325,-117.246295,,,n_365328476,shop=convenience
+"Fallbrook, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/vista/1610-s-melrose-dr-33376,33.1672312,-117.246769,,,n_365328493,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,7-Eleven,"1531 West Mission Road, San Marcos, CA, 92069",+1 760-744-5710,https://www.7-eleven.com/locations/ca/san-marcos/1531-w-mission-rd-21142,33.1507087,-117.1935503,,,n_365328607,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,7-Eleven,"105 West D Street, Encinitas, CA, 92024-3516",+1 760-753-0615,https://www.7-eleven.com/locations/ca/encinitas/105-west-d-st-18087,33.045791,-117.294118,,,n_365328669,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,7-Eleven,"2255 Mission Avenue, Oceanside, 92058",,,33.2081193,-117.3593736,,,n_365328702,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,7-Eleven,"2240 Encinitas Boulevard, Encinitas, CA, 92024-4345",+1 760-942-2727,https://www.7-eleven.com/locations/ca/encinitas/2240-encinitas-blvd-21805,33.0381032,-117.2389152,,,n_365328709,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,7-Eleven,"2850 Thunder Drive, Oceanside, CA, 92056-4239",+1 760-724-0854,https://www.7-eleven.com/locations/ca/oceanside/2850-thunder-dr-13615,33.1951193,-117.2877993,,,n_365328957,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/fallbrook/631-s-main-st-21800,33.37686,-117.251756,,,n_365328969,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,452210,North County Regional Center San Diego County Law Library,CA,,,33.1919813,-117.2550357,,,n_368170929,shop=department_store
+"Fallbrook, CA",,retail,445110,Sprouts Farmers Market,"3243 Camino De Los Coches, La Costa, CA, 92009",+1 760-635-0625,https://www.sprouts.com/store/ca/carlsbad/carlsbad-rancho-santa-fe/,33.0749554,-117.2387789,,,n_451964738,"shop=supermarket, brand=Sprouts Farmers Market"
+"Fallbrook, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/carlsbad-ca-pharmacies/7740-rancho-santa-fe-road-carlsbad-ca-92009/storeid=9528,33.0805292,-117.237088,,,n_451964755,"shop=chemist, brand=CVS Pharmacy"
+"Fallbrook, CA",,retail,446120,Nail 2000+ Spa,,,,33.0191883,-117.1134311,,,n_551064579,shop=beauty
+"Fallbrook, CA",,retail,446120,Grace Threading,,,,33.0193639,-117.1123274,,,n_551064636,shop=beauty
+"Fallbrook, CA",,retail,445120,7-Eleven,"900 North Santa Fe Avenue, Vista, CA, 92084",+1-760-945-4482,https://www.7-eleven.com/locations/ca/vista/900-north-santa-fe-24085,33.2121526,-117.2453881,,,n_595997786,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445310,Wine Steals,"1953 San Elijo Avenue, Cardiff-By-The-Sea, 92007",,,33.023186,-117.283402,,,n_596000429,shop=alcohol
+"Fallbrook, CA",,retail,445120,Circle K,"3361 Mission Avenue, Oceanside, 92058",,,33.217938,-117.341094,,,n_596020924,"shop=convenience, brand=Circle K, operator=Mobil"
+"Fallbrook, CA",,retail,445310,Port Brewing and The Lost Abby,"155 Mata Way, San Marcos, 92069",,,33.141537,-117.149141,,,n_596156814,shop=alcohol
+"Fallbrook, CA",,retail,445120,Z Mart,"3200 Mission Avenue, Oceanside, 92058",,,33.21384,-117.348235,,,n_596230612,shop=convenience
+"Fallbrook, CA",,retail,445110,Major Market Grocery Store,"835 South Main Avenue, Fallbrook, 92028",,,33.3753813,-117.2528639,,,n_596421640,shop=supermarket
+"Fallbrook, CA",,retail,445110,Grocery Outlet,"125 South Rancho Santa Fe Road, San Marcos, CA, 92078",,,33.147664,-117.198481,,,n_596457751,"shop=supermarket, brand=Grocery Outlet"
+"Fallbrook, CA",,retail,445110,,3770 Mission Avenue,,,33.226474,-117.333352,,,n_596526426,shop=supermarket
+"Fallbrook, CA",,retail,445120,Chevron Food Mart,2295 South Melrose Drive,,,33.146038,-117.2417919,,,n_596761918,shop=convenience
+"Fallbrook, CA",,retail,452210,Target,"443 College Boulevard, Oceanside, CA, 92057-5435",+1 760-666-6778,https://www.target.com/sl/oceanside-east/2871,33.247039,-117.293228,,,n_596802559,"shop=department_store, brand=Target"
+"Fallbrook, CA",,retail,446110,Walgreens,"3507 Cannon Road, Oceanside, CA, 92056",,,33.172045,-117.254944,,,n_596894861,"shop=chemist, brand=Walgreens"
+"Fallbrook, CA",,retail,452210,Ross,463 College Boulevard,,,33.244313,-117.29247,,,n_596922335,"shop=department_store, brand=Ross"
+"Fallbrook, CA",,retail,445120,Express Fuel,"3865 Mission Avenue, Oceanside, 92058",,,33.226623,-117.328069,,,n_597037925,shop=convenience
+"Fallbrook, CA",,retail,445120,Chevron,656 Benet Road,,,33.2138869,-117.357021,,,n_597057014,"shop=convenience, brand=Chevron"
+"Fallbrook, CA",,retail,445120,7-Eleven,"2985 Via Las Rosas, Oceanside, CA, 92054",+1 760-433-6680,https://www.7-eleven.com/locations/ca/oceanside/2985-via-las-rosas-18159,33.1865582,-117.3286549,,,n_597171590,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445110,Sprouts Farmers Market,"1327 Encinitas Boulevard, Encinitas, CA, 92024",+1 760-633-4747,https://www.sprouts.com/store/ca/encinitas/encinitas-blvd/,33.0447942,-117.260776,,,n_619045738,"shop=supermarket, brand=Sprouts Farmers Market"
+"Fallbrook, CA",,retail,445110,Trader Joe's,"40665 Winchester Road, Temecula, CA, 92591",+1 951-296-9964,https://locations.traderjoes.com/ca/temecula/102/,33.5288349,-117.156097,,,n_701686401,"shop=supermarket, brand=Trader Joe's"
+"Fallbrook, CA",,retail,445310,Dads Liquor,,,,33.4114935,-117.6005667,,,n_725158472,shop=alcohol
+"Fallbrook, CA",,retail,446120,Nails By Karen,,,,33.417585,-117.602533,,,n_763985334,"shop=beauty, operator=Karen"
+"Fallbrook, CA",,retail,452210,JCPenney,,,,33.0695717,-117.06426,,,n_800031220,"shop=department_store, brand=JCPenney"
+"Fallbrook, CA",,retail,445120,Palomar General Store,,,,33.3142063,-116.8655837,,,n_822324582,shop=convenience
+"Fallbrook, CA",,retail,445120,Arco,,,,33.6840393,-117.3666472,,,n_834107036,"shop=convenience, amenity=fuel, brand=ARCO"
+"Fallbrook, CA",,retail,445110,Albertsons,"31960 Temecula Parkway, Temecula, CA, 92592",+1 951-303-1133,https://local.albertsons.com/ca/temecula/31960-temecula-pkwy.html,33.4821656,-117.1004202,,,n_835997659,"shop=supermarket, brand=Albertsons"
+"Fallbrook, CA",,retail,452319,Five Below,,,,33.4776451,-117.1026796,,,n_836014887,"shop=variety_store, brand=Five Below"
+"Fallbrook, CA",,retail,445110,Frazier Farms,,,,33.1976992,-117.2459335,,,n_845627280,shop=supermarket
+"Fallbrook, CA",,retail,445120,7-Eleven,,,,33.4819424,-117.0930052,,,n_846402962,"shop=convenience, amenity=fuel, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,Hazit,,,,33.4722602,-117.1239818,,,n_878251837,shop=convenience
+"Fallbrook, CA",,retail,445110,Stater Bros.,"780 Sycamore Avenue, Vista, CA, 92083",+1 760-727-7080,https://www.staterbros.com/stores/156,33.163037,-117.219024,,,n_921662787,"shop=supermarket, brand=Stater Bros."
+"Fallbrook, CA",,retail,452210,Ross,"1038 North El Camino Real, Encinitas, CA, 92024",+1 760-753-0040,,33.065417,-117.2659599,,,n_929792280,"shop=department_store, brand=Ross"
+"Fallbrook, CA",,retail,445292,See's Candies,,,,33.0531156,-117.2617789,,,n_937428966,"shop=confectionery, brand=See's Candies"
+"Fallbrook, CA",,retail,445120,Old Town Liquor,,,,33.4901861,-117.1453075,,,n_961013146,shop=convenience
+"Fallbrook, CA",,retail,445110,Stater Bros.,"1451 North Santa Fe Avenue, Vista, CA, 92084",+1-760-726-8485,https://www.staterbros.com/stores/157,33.2203403,-117.2434166,,,n_967626945,"shop=supermarket, brand=Stater Bros."
+"Fallbrook, CA",,retail,452210,Target,"1751 University Drive, Vista, CA, 92083-7775",+1 760-941-0220,https://www.target.com/sl/vista-north-university-drive/1040,33.1687066,-117.2151587,,,n_967634897,"shop=department_store, brand=Target"
+"Fallbrook, CA",,retail,452210,Target,"3150 Business Park Drive, Vista, CA, 92081-8520",+1 760-208-6111,https://www.target.com/sl/vista-south-business-park-drive/2165,33.136486,-117.2291078,,,n_974336751,"shop=department_store, brand=Target"
+"Fallbrook, CA",,retail,452210,Kohl's,"3410 Marron Road, Oceanside, CA, 92056",+1 760-730-3520,https://www.kohls.com/stores/ca/oceanside-700.shtml,33.1792978,-117.2981904,,,n_975338710,"shop=department_store, brand=Kohl's"
+"Fallbrook, CA",,retail,445120,7-Eleven,"44535 Bedford Court, Temecula, CA, 92592-2552",+1 951-693-4977,https://www.7-eleven.com/locations/ca/temecula/44535-bedford-court-33074,33.4788535,-117.1385701,,,n_988350466,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445110,Trader Joe's,92083,,,33.1701533,-117.218354,,,n_1001375378,"shop=supermarket, brand=Trader Joe's"
+"Fallbrook, CA",,retail,445310,South Coast Winery,,+1 951 587 9463,,33.5338835,-117.0538491,,,n_1004965572,shop=wine
+"Fallbrook, CA",,retail,445110,Trader Joe's,"2570 Vista Way, Oceanside, CA, 92054",+1 760-433-9994,https://locations.traderjoes.com/ca/oceanside/22/,33.1840258,-117.3318769,,,n_1009389232,"shop=supermarket, brand=Trader Joe's"
+"Fallbrook, CA",,retail,445110,Major Marketplace,"5256 South Mission Road, Bonsall, CA, 92003",,,33.2954356,-117.221637,,,n_1066791124,shop=supermarket
+"Fallbrook, CA",,retail,445110,Smart & Final,395 North Escondido Boulevard,,https://www.smartandfinal.com/,33.1224729,-117.0877682,,,n_1095773680,"shop=supermarket, brand=Smart & Final"
+"Fallbrook, CA",,retail,452210,Burlington,"1740 University Drive, Vista, 92083",,,33.1722416,-117.2146081,,,n_1111148742,"shop=department_store, brand=Burlington"
+"Fallbrook, CA",,retail,445120,Rainbow Oaks Country Market,,,,33.4132389,-117.1586672,,,n_1203451946,shop=convenience
+"Fallbrook, CA",,retail,445120,am pm,,,,33.1979487,-117.1276816,,,n_1214271974,"shop=convenience, operator=Arco"
+"Fallbrook, CA",,retail,445110,Stater Bros.,"30712 Benton Road, Winchester, CA, 92596",+1 951-926-6432,https://www.staterbros.com/stores/177,33.5923887,-117.121872,,,n_1247205836,"shop=supermarket, brand=Stater Bros."
+"Fallbrook, CA",,retail,445310,Winchester Store,,,,33.7069724,-117.0851795,,,n_1264853759,shop=alcohol
+"Fallbrook, CA",,retail,452319,99 Cents Only Stores,25270 Madison Avenue,+1 (951) 698-9971,https://locations.99only.com/ca/murrieta/discount-store-127.html,33.5556297,-117.1962687,,,n_1276492597,"shop=variety_store, brand=99 Cents Only Stores"
+"Fallbrook, CA",,retail,445310,Ponte Family Estate,,,,33.5366424,-117.05034,,,n_1288908178,shop=wine
+"Fallbrook, CA",,retail,445230,Maria's Farmers Market,,,,33.3651802,-117.0842136,,,n_1291363370,shop=greengrocer
+"Fallbrook, CA",,retail,445120,The Pala Store,"11781 Pala Mission Road, Pala, CA, 92059",(760) 742-3262,,33.3649957,-117.074263,,,n_1293342590,shop=convenience
+"Fallbrook, CA",,retail,446120,Ulta Beauty,"1266 Auto Park Way, Escondido, CA, 92029",+1-760-740-8659,https://www.ulta.com/stores/escondido-ca-1276,33.11224,-117.098325,,,n_1343921213,"shop=cosmetics, brand=Ulta Beauty"
+"Fallbrook, CA",,retail,445120,Valero,,,,33.7147205,-117.18566,,,n_1349777217,"shop=convenience, amenity=fuel, brand=Valero"
+"Fallbrook, CA",,retail,445292,Dulcería Ninaz,"1029 East Valley Parkway, Escondido, 92025",,,33.1293923,-117.0690948,,,n_1364074504,shop=confectionery
+"Fallbrook, CA",,retail,446120,Nails by Laura,"1071 East Valley Parkway, Escondido, 92025",,,33.1296085,-117.0685986,,,n_1364074513,shop=beauty
+"Fallbrook, CA",,retail,445120,K&S Market,,,,33.1292357,-117.0667545,,,n_1364078880,shop=convenience
+"Fallbrook, CA",,retail,446120,Perfection Nails & Hair,,,,33.1294909,-117.0668809,,,n_1364078882,shop=beauty
+"Fallbrook, CA",,retail,452210,Ross,"1202 Auto Park Way, Escondido, CA, 92029",+1 760-432-0360,https://www.rossstores.com/,33.1096875,-117.0970336,,,n_1388247084,"shop=department_store, brand=Ross"
+"Fallbrook, CA",,retail,445120,Lena's Liquor,,,,33.1323914,-117.0687958,,,n_1394403008,shop=convenience
+"Fallbrook, CA",,retail,453991,Smoke Depot,,,,33.2274224,-117.3324718,,,n_1395070238,shop=tobacco
+"Fallbrook, CA",,retail,445120,Food Mart,,,,33.0701491,-117.0702549,,,n_1404163933,shop=convenience
+"Fallbrook, CA",,retail,445230,Eduardo Produce,,,,33.1213165,-117.1013569,,,n_1441596484,shop=greengrocer
+"Fallbrook, CA",,retail,445210,Talone Custom Slaughter,,,,33.121495,-117.101517,,,n_1441596490,shop=butcher
+"Fallbrook, CA",,retail,445230,Pala Rey Produce,,,,33.3435829,-117.1292339,,,n_1442259145,shop=greengrocer
+"Fallbrook, CA",,retail,445120,Quik Korner,,,,33.1113423,-117.0820088,,,n_1445188439,"shop=convenience, amenity=fuel"
+"Fallbrook, CA",,retail,445110,Sprouts Farmers Market,"510 West 13th Avenue, Escondido, CA, 92025",+1 760-743-1528,https://www.sprouts.com/store/ca/escondido/w-13th-ave/,33.1080924,-117.080649,,,n_1446003019,"shop=supermarket, brand=Sprouts Farmers Market"
+"Fallbrook, CA",,retail,452210,Kohl's,"720 Center Drive;Ronald Packard Parkway, San Marcos, CA, 92069",+1 760-741-1480,https://www.kohls.com/stores/ca/sanmarcos-707.shtml,33.1348211,-117.1239273,,,n_1446005419,"shop=department_store, brand=Kohl's"
+"Fallbrook, CA",,retail,452210,Walmart,"732 Center Drive, San Marcos, CA, 92069",+1 760-233-8009,https://www.walmart.com/store/3494-san-marcos-ca,33.1357328,-117.1234722,,,n_1446005420,"shop=department_store, brand=Walmart, operator=Walmart"
+"Fallbrook, CA",,retail,445120,Qwik Korner,,,,33.1353996,-117.0798279,,,n_1499609739,shop=convenience
+"Fallbrook, CA",,retail,445120,Midway Mini Market,,,,33.1445285,-117.0555064,,,n_1579237771,shop=convenience
+"Fallbrook, CA",,retail,445120,Corner Liquor/Food Store,,,,33.1364231,-117.050714,,,n_1780010557,shop=convenience
+"Fallbrook, CA",,retail,445120,7-Eleven,"1118 South El Camino Real, San Clemente, CA, 92672-4203",+1 949-498-3120,https://www.7-eleven.com/locations/ca/san-clemente/1118-s-el-camino-real-13789,33.4203752,-117.608114,,,n_1782756512,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445310,BevMo!,"2500 Vista Way, Oceanside",(760) 967-8606,,33.183905,-117.3334589,,,n_1782785182,"shop=alcohol, brand=BevMo!"
+"Fallbrook, CA",,retail,452210,Ross,"2505 Vista Way, Oceanside, CA, 92054",+1 760-439-4040,,33.1827194,-117.3322784,,,n_1782785267,"shop=department_store, brand=Ross"
+"Fallbrook, CA",,retail,445110,Major Market,"1855 South Centre City Parkway, Escondido, CA, 92025",,https://majormarketgrocery.com/,33.1009336,-117.0752148,,,n_1809707850,shop=supermarket
+"Fallbrook, CA",,retail,446110,Rite Aid,,,,33.1019861,-117.0757504,,,n_1809707851,"shop=chemist, brand=Rite Aid"
+"Fallbrook, CA",,retail,445120,Chevron,,,,33.0679992,-117.066441,,,n_1833777977,"shop=convenience, brand=Chevron"
+"Fallbrook, CA",,retail,452210,Target,"280 East Via Rancho Parkway, Escondido, CA, 92025-8005",+1 760-705-9019,https://www.target.com/sl/escondido-south/2802,33.0699065,-117.065386,,,n_1833777990,"shop=department_store, brand=Target"
+"Fallbrook, CA",,retail,445110,Trader Joe's,"1885 South Centre City Parkway, Escondido, CA, 92025",+1 760-233-4020,https://locations.traderjoes.com/ca/escondido/105/,33.1000685,-117.0747179,,,n_1999508500,"shop=supermarket, brand=Trader Joe's"
+"Fallbrook, CA",,retail,445110,Smart & Final Extra!,"479 Encinitas Boulevard, Encinitas, 92024",,,33.0465296,-117.282203,,,n_2331415425,"shop=supermarket, brand=Smart & Final"
+"Fallbrook, CA",,retail,445120,Vale,,,,33.0478173,-117.284996,,,n_2353019120,shop=convenience
+"Fallbrook, CA",,retail,446120,Cindy's Nails,"11677 West Bernardo Drive, San Diego, CA, 92128",,,33.0323971,-117.0789488,,,n_2397160489,shop=beauty
+"Fallbrook, CA",,retail,446120,Massage Heights,,,,33.0471528,-117.2579832,,,n_2407427085,shop=beauty
+"Fallbrook, CA",,retail,446120,Happiness Nails & Spa,,,,33.0471645,-117.2577266,,,n_2407427086,shop=beauty
+"Fallbrook, CA",,retail,445120,Pala Mini Mart,"11152 Pala Road, Pala, CA, 92059",,,33.364217,-117.0875575,,,n_2616784833,shop=convenience
+"Fallbrook, CA",,retail,452210,Mainside PX,,,,33.3029814,-117.310478,,,n_2636173063,shop=department_store
+"Fallbrook, CA",,retail,445110,Walmart Neighborhood Market,"1046 Mission Avenue, Oceanside, CA, 92054",+1 760-696-9906,https://www.walmart.com/store/5637-oceanside-ca,33.199721,-117.3749031,,,n_2794026329,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Fallbrook, CA",,retail,445120,7-Eleven,"405 North Twin Oaks Valley, San Marcos, CA, 92069",+1 760-591-9853,https://www.7-eleven.com/locations/ca/san-marcos/405-n-twin-oaks-vly-110-33970,33.1444887,-117.1621778,,,n_3285090865,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445110,Ralphs,"306 South Twin Oaks Valley Road, San Marcos, CA, 92078",+1 760-891-0618,https://www.ralphs.com/stores/grocery/ca/san-marcos/campus-marketplace/703/00683,33.1306589,-117.166728,,,n_3285182372,"shop=supermarket, brand=Ralphs"
+"Fallbrook, CA",,retail,446120,Evershine Threading,,,,33.5966585,-117.2412007,,,n_3291313361,shop=beauty
+"Fallbrook, CA",,retail,446120,Saltwater Hair @ The Perfect Ten,"139 Avenida del Mar, San Clemente, 92672",,,33.4265313,-117.613973,,,n_3762117067,shop=beauty
+"Fallbrook, CA",,retail,446120,San Clemente Nails & Waxing Spa,"164 Avenida del Mar, San Clemente, 92672",,,33.4263351,-117.6147486,,,n_3762117082,shop=beauty
+"Fallbrook, CA",,retail,445292,Schmid's San Clemente,"99 Avenida del Mar, San Clemente, 92672",,,33.4272478,-117.6128901,,,n_3762117118,shop=confectionery
+"Fallbrook, CA",,retail,446120,Coco Lash Artistry,"302 North Avenida de la Estrella, San Clemente",,,33.4289973,-117.6134843,,,n_3763109396,shop=beauty
+"Fallbrook, CA",,retail,446120,The Brow Boutique,"306 North Avenida de la Estrella, San Clemente",+1 949 492 8218,http://www.brow-boutique.com/,33.4290531,-117.6135436,,,n_3763109398,shop=beauty
+"Fallbrook, CA",,retail,446120,Maui Brown Microblading,"310 North Avenida de la Estrella, San Clemente",+1 949 204 9608,https://www.mauibrowi.com/,33.4291312,-117.6136214,,,n_3763109400,shop=beauty
+"Fallbrook, CA",,retail,445120,ampm,,,,33.2897545,-117.226355,,,n_3815256464,"shop=convenience, brand=ampm"
+"Fallbrook, CA",,retail,445110,Walmart Supercenter,"1550 Leucadia Boulevard, Encinitas, CA, 92024",+1 760-704-0243,https://www.walmart.com/store/5886-encinitas-ca,33.0691844,-117.266312,,,n_3932988148,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Fallbrook, CA",,retail,445120,Pier Market,"618 Avenida Victoria, San Clemente, 92672",,,33.420082,-117.6196509,,,n_3936304835,shop=convenience
+"Fallbrook, CA",,retail,446120,V Spa Boutique,"416 North El Camino Real, San Clemente, 92672",,,33.429331,-117.6147042,,,n_3946915971,shop=beauty
+"Fallbrook, CA",,retail,446120,Rituals,"210 North El Camino Real, San Clemente, 92672",,,33.4283036,-117.613538,,,n_3946926884,"shop=cosmetics, brand=Rituals"
+"Fallbrook, CA",,retail,445110,El Nopalito,,,,33.0370247,-117.2801537,,,n_3952878373,shop=supermarket
+"Fallbrook, CA",,retail,445310,Catalina Market,,,,33.4262315,-117.6123424,,,n_3954377172,shop=alcohol
+"Fallbrook, CA",,retail,446120,Salon Bleu,,+1 949 366 2060,https://scsalonbleu.com/,33.4270397,-117.6116929,,,n_4030259206,shop=beauty
+"Fallbrook, CA",,retail,446120,Ambitious Edge,"705 North El Camino Real, San Clemente, CA, 92672",,,33.4303209,-117.6181128,,,n_4037199737,shop=beauty
+"Fallbrook, CA",,retail,445120,ampm,,,,33.1310685,-117.1214723,,,n_4041808555,"shop=convenience, brand=ampm"
+"Fallbrook, CA",,retail,445120,ampm,,,,33.1445619,-117.097229,,,n_4042233889,"shop=convenience, brand=ampm"
+"Fallbrook, CA",,retail,445120,ampm,"761 North Broadway, Escondido, CA, 92025",,,33.1298412,-117.0857586,,,n_4042750601,"shop=convenience, brand=ampm"
+"Fallbrook, CA",,retail,445110,Sprouts Farmers Market,"149 South Las Posas Road, San Marcos, CA, 92078",+1 760-208-6041,https://www.sprouts.com/store/ca/san-marcos/s-las-posas-rd/,33.1405197,-117.1906977,,,n_4043009089,"shop=supermarket, brand=Sprouts Farmers Market"
+"Fallbrook, CA",,retail,446120,Shape Threading Salon,"711 Center Drive, San Marcos, CA, 92069",,,33.133608,-117.1237611,,,n_4044990251,shop=beauty
+"Fallbrook, CA",,retail,446120,ProfessioNAIL,,,,33.1356765,-117.1216191,,,n_4045005327,shop=beauty
+"Fallbrook, CA",,retail,445310,Liquor,,,,33.1340641,-117.1194448,,,n_4045035889,shop=alcohol
+"Fallbrook, CA",,retail,446120,Ballyhoo Salon,,,,33.1343998,-117.1192192,,,n_4045038854,shop=beauty
+"Fallbrook, CA",,retail,452210,Ross,"181 South Las Posas Road, San Marcos, CA, 92078",+1 760-736-8192,,33.1385658,-117.1926791,,,n_4045185005,"shop=department_store, brand=Ross"
+"Fallbrook, CA",,retail,446120,iTan,"1003 West San Marcos Boulevard, San Marcos, CA",,,33.1344001,-117.1883153,,,n_4045208489,shop=beauty
+"Fallbrook, CA",,retail,446120,Best Nails,"633 South Rancho Santa Fe Road, San Marcos, 92078",,,33.1334707,-117.2062206,,,n_4045249579,shop=beauty
+"Fallbrook, CA",,retail,445120,Campus Liquor,,,,33.1362353,-117.1633876,,,n_4045272189,shop=convenience
+"Fallbrook, CA",,retail,446120,Emily's Nails & Spa,,,,33.135805,-117.1863526,,,n_4045410710,shop=beauty
+"Fallbrook, CA",,retail,453991,Dab Central Smoke Shop,,,,33.1357907,-117.1866208,,,n_4045411294,shop=tobacco
+"Fallbrook, CA",,retail,446120,Che Bangs the Salon,"985 Woodland Parkway, San Marcos, CA, 92069",,,33.1557703,-117.1289414,,,n_4045550148,shop=beauty
+"Fallbrook, CA",,retail,445110,WinCo Foods,"555 Grand Avenue, San Marcos, 92078",,,33.135105,-117.1763246,,,n_4045684689,"shop=supermarket, brand=WinCo Foods"
+"Fallbrook, CA",,retail,446120,Nail Bar,"731 West San Marcos Boulevard, San Marcos, 92078",,,33.1364279,-117.18019,,,n_4045700193,shop=beauty
+"Fallbrook, CA",,retail,445110,San Marcos Market,,,,33.1436138,-117.1658426,,,n_4045763092,shop=supermarket
+"Fallbrook, CA",,retail,453991,Monster E-Cigs,,,,33.1510128,-117.1916005,,,n_4045864703,shop=tobacco
+"Fallbrook, CA",,retail,445110,Albertsons,"1301 East Vista Way, Vista, CA, 92084",+1 760-806-2785,https://local.albertsons.com/ca/vista/1301-e-vista-way.html,33.2185202,-117.224407,,,n_4048140686,"shop=supermarket, brand=Albertsons"
+"Fallbrook, CA",,retail,445120,Food Mart,"500 West San Marcos Boulevard, San Marcos, CA, 92069",,,33.1395994,-117.1721621,,,n_4063505926,shop=convenience
+"Fallbrook, CA",,retail,453991,American Smoke Shop,"1551 West Mission Road, San Marcos, CA, 92069",,,33.1514635,-117.1941941,,,n_4063678513,shop=tobacco
+"Fallbrook, CA",,retail,452210,Ross,"1831 University Drive, Vista, CA, 92083",+1 760-758-6992,,33.1695063,-117.2164836,,,n_4064116269,"shop=department_store, brand=Ross"
+"Fallbrook, CA",,retail,445110,Pala Mesa Market,,,,33.3326131,-117.1620916,,,n_4064423805,shop=supermarket
+"Fallbrook, CA",,retail,453991,Kings Smoke Shop,"410 West Felicita Avenue, Escondido, CA, 92025",,,33.1047057,-117.0754207,,,n_4065415311,shop=tobacco
+"Fallbrook, CA",,retail,445110,Cardenas,"25310 Madison Avenue, Murrieta, 92562",1-(951) 387-3125,https://locations.cardenasmarkets.com/ll/us/ca/murrieta/25310-madison-ave/,33.5548652,-117.19527,,,n_4071156825,"shop=supermarket, brand=Cardenas"
+"Fallbrook, CA",,retail,445310,Texas Wine & Spirits,"945 Carlsbad Village Drive, Carlsbad, CA, 92008",,,33.1621116,-117.34391,,,n_4073631160,shop=alcohol
+"Fallbrook, CA",,retail,446120,Nails by Taffy,"1061 West El Norte Parkway, Escondido, CA, 92026",,,33.1467278,-117.1078943,,,n_4073791412,shop=beauty
+"Fallbrook, CA",,retail,445310,Cal Oaks Liquor,"40790 California Oaks Road, Murrieta, CA, 92562",+19514611563,,33.5692303,-117.2049977,,,n_4096436796,shop=alcohol
+"Fallbrook, CA",,retail,445210,Billy's Meats Seafood and Deli,,+1 949 498 5924,https://www.billyssanclemente.com/,33.426998,-117.6132293,,,n_4140852595,shop=butcher
+"Fallbrook, CA",,retail,445120,Santa Fe Liquor,"Encinitas, CA",,,33.0366507,-117.27971,,,n_4143719189,shop=convenience
+"Fallbrook, CA",,retail,453991,Super Smoke Depot,"401 South El Camino Real, San Clemente, CA, 92672",,,33.4261702,-117.6109563,,,n_4163659186,shop=tobacco
+"Fallbrook, CA",,retail,453110,Wildflower,,+1 949 498 3454,,33.4215078,-117.6081627,,,n_4163659187,shop=florist
+"Fallbrook, CA",,retail,446120,Twig,,,,33.1265861,-117.2533266,,,n_4229142736,shop=beauty
+"Fallbrook, CA",,retail,452319,99 Cents Only Stores,,,https://locations.99only.com/ca/sanclemente/discount-store-186.html,33.435909,-117.6203192,,,n_4305298697,"shop=variety_store, brand=99 Cents Only Stores"
+"Fallbrook, CA",,retail,445120,Gourmet Liquor,,,,33.1573161,-117.2006278,,,n_4358167443,shop=convenience
+"Fallbrook, CA",,retail,446120,"Lash, Brow & Botique",,,,33.4268395,-117.6133831,,,n_4489465743,shop=beauty
+"Fallbrook, CA",,retail,446120,Salon Incognito,,,,33.4267811,-117.6134401,,,n_4489471344,shop=beauty
+"Fallbrook, CA",,retail,446120,Hair Addix Salon,"2585 Pio Pico Drive #200, Carlsbad, CA, 92008",+1-760-434-7073,http://www.hairaddix.com,33.169044,-117.3446741,,,n_4514884074,"shop=beauty, operator=Tracy Beverson"
+"Fallbrook, CA",,retail,446120,Rtistic Salon,"418 North El Camino Real, San Clemente, 92672",,,33.4293664,-117.6147815,,,n_4544043687,shop=beauty
+"Fallbrook, CA",,retail,445110,Seaside Market,,,,33.0220057,-117.2820777,,,n_4629690759,shop=supermarket
+"Fallbrook, CA",,retail,445310,Mar Vista Liquor,,,,33.0208496,-117.2820712,,,n_4629690766,shop=alcohol
+"Fallbrook, CA",,retail,446120,Fragrance Outlet,,,,33.1275124,-117.3214142,,,n_4653464303,shop=perfumery
+"Fallbrook, CA",,retail,453110,Fower Frenzy,,,,33.0370885,-117.2921756,,,n_4654147580,shop=florist
+"Fallbrook, CA",,retail,452210,Ross,"30141 Antelope Road, Menifee, CA, 92584",+1 951-246-4178,,33.683576,-117.1696089,,,n_4707796191,"shop=department_store, brand=Ross"
+"Fallbrook, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/carlsbad/201-oak-ave-13601,33.1567787,-117.3501939,,,n_4922485724,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445292,Rocky Mountain Chocolate Factory,,,,33.4391255,-117.627223,,,n_4947812091,"shop=confectionery, brand=Rocky Mountain Chocolate Factory"
+"Fallbrook, CA",,retail,446120,Planet Beauty,,,,33.4396269,-117.6279894,,,n_4947812107,shop=beauty
+"Fallbrook, CA",,retail,446120,,,,,33.4373825,-117.6248478,,,n_5008358994,shop=beauty
+"Fallbrook, CA",,retail,446120,European Wax Center,"Via Campanile, Carlsbad, CA, 92009",,https://locations.waxcenter.com/ca/carlsbad/carlsbad-la-costa-0072.html,33.0814615,-117.2325701,,,n_5020943215,"shop=beauty, brand=European Wax Center"
+"Fallbrook, CA",,retail,445110,Grocery Outlet,,,,33.3687336,-117.24982,,,n_5266775210,"shop=supermarket, brand=Grocery Outlet"
+"Fallbrook, CA",,retail,445110,ALDI,"1750 University Drive, Vista, CA, 92083-7772",+1 760-658-9292,https://stores.aldi.us/ca/vista/1750-university-dr,33.1722562,-117.2151824,,,n_5275798527,"shop=supermarket, brand=ALDI"
+"Fallbrook, CA",,retail,445310,Larry's Liquor & Jr. Market,,,,33.4433422,-117.6428434,,,n_5341609829,shop=alcohol
+"Fallbrook, CA",,retail,446120,Ma Jolie Salon,,,,33.4421795,-117.6445198,,,n_5347962776,shop=beauty
+"Fallbrook, CA",,retail,445120,Shell,"660 Douglas Drive, CA",,,33.2449306,-117.3220901,,,n_5580211492,"shop=convenience, amenity=fuel"
+"Fallbrook, CA",,retail,445120,,145 North Emerald Drive,,,33.1895541,-117.2789451,,,n_5585007446,shop=convenience
+"Fallbrook, CA",,retail,445310,Ponte Vinyard,,,,33.5366189,-117.0502952,,,n_5724065520,shop=wine
+"Fallbrook, CA",,retail,445310,Miramonte Winery,,,https://www.miramontewinery.com/,33.5255994,-117.0778612,,,n_5724305951,"shop=wine, amenity=restaurant"
+"Fallbrook, CA",,retail,445110,Sprouts Farmers Market,"16415 Paseo del Sur, San Diego, CA, 92127",+1 858-798-8232,https://www.sprouts.com/store/ca/san-diego/san-diego-del-sur/,33.0198021,-117.1233783,,,n_5866470188,"shop=supermarket, brand=Sprouts Farmers Market"
+"Fallbrook, CA",,retail,446120,Beauty Source,,,,33.456159,-117.6040868,,,n_5959814877,shop=beauty
+"Fallbrook, CA",,retail,445110,ALDI,"18294 Collier Avenue, Lake Elsinore, CA, 92530-2754",+1 951-579-4089,https://stores.aldi.us/ca/lake-elsinore/18294-collier-ave,33.691873,-117.3394059,,,n_6007728091,"shop=supermarket, brand=ALDI"
+"Fallbrook, CA",,retail,446120,Ulta Beauty,"18418 Collier Avenue, Lake Elsinore, CA, 92530",+1 951-228-0214,https://www.ulta.com/stores/lake-elsinore-ca-1253,33.6899308,-117.337938,,,n_6007772346,"shop=beauty, brand=Ulta Beauty"
+"Fallbrook, CA",,retail,452210,Marshalls,,,,33.6897257,-117.3381552,,,n_6007779227,"shop=department_store, brand=Marshalls"
+"Fallbrook, CA",,retail,452319,Five Below,,+1 951-245-9877,https://locations.fivebelow.com/ca/lake-elsinore/18438-collier-avenue,33.6902518,-117.337622,,,n_6007784228,"shop=variety_store, brand=Five Below"
+"Fallbrook, CA",,retail,446120,True Touch Nail & Spa,,,,33.6898817,-117.3426942,,,n_6008987581,shop=beauty
+"Fallbrook, CA",,retail,445110,Grocery Outlet,,,,33.6960806,-117.335998,,,n_6013084614,"shop=supermarket, brand=Grocery Outlet"
+"Fallbrook, CA",,retail,452319,Dollar Tree,,,,33.6962415,-117.3361842,,,n_6013089579,"shop=variety_store, brand=Dollar Tree"
+"Fallbrook, CA",,retail,446120,ProffesioNail & Spa,,,,33.6947193,-117.3361418,,,n_6013163827,shop=beauty
+"Fallbrook, CA",,retail,446120,iTan,,,,33.6951169,-117.3357107,,,n_6013167231,shop=beauty
+"Fallbrook, CA",,retail,446120,Kut N Beauty Salon and Supply,,,,33.6951647,-117.3357629,,,n_6013168419,shop=beauty
+"Fallbrook, CA",,retail,446120,iBrows Threading Salon,,,,33.6953958,-117.3358958,,,n_6013174491,shop=beauty
+"Fallbrook, CA",,retail,452319,99 Cents Only Stores,,,https://locations.99only.com/ca/lakeelsinore/discount-store-234.html,33.6922262,-117.3399583,,,n_6013176637,"shop=variety_store, brand=99 Cents Only Stores"
+"Fallbrook, CA",,retail,445310,Central Market and Liquor,,,,33.693719,-117.3351052,,,n_6013360051,shop=alcohol
+"Fallbrook, CA",,retail,446120,Syrens Hair Parlor,,,,33.4252502,-117.6158343,,,n_6053426349,shop=beauty
+"Fallbrook, CA",,retail,445310,San Clemente Wine Company,"212 1/2 Avenida del Mar, San Clemente, 92672",,,33.4256425,-117.6157008,,,n_6053426354,shop=alcohol
+"Fallbrook, CA",,retail,446120,Waves Beyond Skin Care,,,,33.4251478,-117.6155509,,,n_6058717143,shop=beauty
+"Fallbrook, CA",,retail,446120,Sola Salons,,,,33.564002,-117.2038012,,,n_6265148782,"shop=beauty, brand=Sola Salons"
+"Fallbrook, CA",,retail,445110,Northgate Market,,,,33.2164651,-117.2286666,,,n_6399823282,shop=supermarket
+"Fallbrook, CA",,retail,446120,Top Nails & Spa,,,,33.2178418,-117.2245554,,,n_6399823392,shop=beauty
+"Fallbrook, CA",,retail,445310,Sidewalk Spirits,,,,33.2222591,-117.2258361,,,n_6399823407,shop=alcohol
+"Fallbrook, CA",,retail,446120,Professional Nail,,,,33.4548112,-117.6072518,,,n_6682103805,shop=beauty
+"Fallbrook, CA",,retail,446120,Palm Beach Tan,,,https://palmbeachtan.com/locations/CA/plaza-pacifica-avenida-pico,33.4548358,-117.6071972,,,n_6682103806,"shop=beauty, brand=Palm Beach Tan"
+"Fallbrook, CA",,retail,446120,Lashbar,,,,33.0202646,-117.1237682,,,n_6757862950,shop=beauty
+"Fallbrook, CA",,retail,445110,Canyon Lake Market,"31682 Railroad Canyon Road, Canyon Lake, CA, 92587",,,33.6726501,-117.2532172,,,n_6852863676,shop=supermarket
+"Fallbrook, CA",,retail,446120,Optimal Skin Therapy,,,,33.4320065,-117.6264355,,,n_7273271512,shop=beauty
+"Fallbrook, CA",,retail,446120,Color Nails,961 Palomar Airport Road,,,33.1215433,-117.3142264,,,n_7298122726,shop=beauty
+"Fallbrook, CA",,retail,452210,Ross,"334 West El Norte Parkway, Escondido, CA, 92026-1925",+1 760-796-7672,,33.1438851,-117.0943506,,,n_7320643085,"shop=department_store, brand=Ross"
+"Fallbrook, CA",,retail,445120,Food Mart,,,,33.0672993,-117.2645408,,,n_7352970563,shop=convenience
+"Fallbrook, CA",,retail,445310,Country Wine & Spirits,,,,33.1510779,-117.3076479,,,n_7367805634,shop=alcohol
+"Fallbrook, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/san-marcos-ca-pharmacies/734-s-rancho-santa-fe-rd-san-marcos-ca-92078/storeid=9166,33.1327426,-117.2088506,,,n_7417803465,"shop=chemist, brand=CVS Pharmacy"
+"Fallbrook, CA",,retail,445110,ALDI,"30163 Haun Road, Menifee, CA, 92584-6825",+1 951-221-8425,https://stores.aldi.us/ca/menifee/30163-haun-rd,33.6826029,-117.1767064,,,n_7455528323,"shop=supermarket, brand=ALDI"
+"Fallbrook, CA",,retail,446120,Ulta Beauty,"185 South Las Posas Road, San Marcos, CA, 92078",+1 760-744-0853,https://www.ulta.com/stores/san-marcos-ca-244,33.1383666,-117.1931311,,,n_7474555475,"shop=beauty, brand=Ulta Beauty"
+"Fallbrook, CA",,retail,445110,Smart & Final Extra!,,,,33.1896559,-117.36012,,,n_7477889314,"shop=supermarket, brand=Smart & Final"
+"Fallbrook, CA",,retail,446120,Jayden Presleigh Salon And Spa,,,,33.1602687,-117.3490741,,,n_7504188532,shop=beauty
+"Fallbrook, CA",,retail,446120,Bath & Body Works,,,,33.0647397,-117.2663625,,,n_7638709501,"shop=cosmetics, brand=Bath & Body Works"
+"Fallbrook, CA",,retail,446120,Dr. K Cosmetic,,,,33.1298519,-117.1668185,,,n_7747153188,shop=cosmetics
+"Fallbrook, CA",,retail,446120,GoBahli Nails,,,,33.1296079,-117.1666861,,,n_7747153193,shop=beauty
+"Fallbrook, CA",,retail,446120,Born Pretty Nails,"1882 West El Norte Parkway, Escondido, CA, 92026",,,33.1555606,-117.1248342,,,n_7754960252,shop=beauty
+"Fallbrook, CA",,retail,446120,Elements Salon,"1874 West El Norte Parkway, Escondido, CA, 92026",760-743-5571,,33.1554109,-117.1245823,,,n_7754960260,shop=beauty
+"Fallbrook, CA",,retail,445120,7-Eleven,"1766 North Coast Highway 101, Encinitas, CA, 92024",+1 760-944-9864,https://www.7-eleven.com/locations/ca/encinitas/1766-n-coast-hwy-101-39526,33.0793791,-117.3075338,,,n_7848168023,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,452319,99 Cents Only Stores,,,,33.0439113,-117.2589893,,,n_7857780455,"shop=variety_store, brand=99 Cents Only Stores"
+"Fallbrook, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/murrieta/40210-murrieta-ht-spgs-rd-33552,33.5555903,-117.1736399,,,n_7965771929,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,446120,LashMi,,,,33.1263462,-117.3235444,,,n_8155919325,shop=cosmetics
+"Fallbrook, CA",,retail,446120,Color Nails And Spa,"Carlsbad, CA, 92009",17609290971,,33.1044444,-117.2680555,,,n_8174268052,shop=beauty
+"Fallbrook, CA",,retail,453110,El Camino Florist,,,,33.1645167,-117.3520301,,,n_8280168496,shop=florist
+"Fallbrook, CA",,retail,445110,Sprouts Farmers Market,"2618 El Camino Real, Carlsbad, CA, 92008",+1 760-730-1123,https://sprouts.com/store/ca/carlsbad/carlsbad,33.1764097,-117.3250281,,,n_8332520316,"shop=supermarket, brand=Sprouts Farmers Market, operator=Sprouts Farmers Market"
+"Fallbrook, CA",,retail,445120,Shell,,,,33.5905548,-117.1238827,,,n_8356237818,"shop=convenience, brand=Shell"
+"Fallbrook, CA",,retail,453991,Smoke Shop,,,,33.1328752,-117.2051856,,,n_8441651090,shop=tobacco
+"Fallbrook, CA",,retail,445110,Pauma Valley Trading Center,"16220 CA-76, Pauma Valley, CA, 92061",+17607423206,,33.3030745,-116.977328,,,n_8446689373,shop=supermarket
+"Fallbrook, CA",,retail,446120,Best City Nails,,,,33.4828732,-117.0950502,,,n_8603575898,shop=beauty
+"Fallbrook, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/oceanside-ca-pharmacies/3925-n-river-rd-oceanside-ca-92058/storeid=9585,33.2447683,-117.323272,,,n_8609449364,"shop=chemist, brand=CVS Pharmacy"
+"Fallbrook, CA",,retail,445110,ALDI,"1352 West Valley Parkway, Escondido, CA, 92029-2132",+1 760-983-2941,https://stores.aldi.us/ca/escondido/1352b-w-valley-pkwy,33.1127791,-117.1039186,,,n_8624308274,"shop=supermarket, brand=ALDI"
+"Fallbrook, CA",,retail,445110,ALDI,"4251 Oceanside Boulevard, Oceanside, CA, 92056-3471",+1-833-479-7052,https://stores.aldi.us/ca/oceanside/4251-oceanside-blvd,33.2079607,-117.2819851,,,n_8624327164,"shop=supermarket, brand=ALDI"
+"Fallbrook, CA",,retail,446120,Gel Touch Nail And Spa,2521 Palomar Airport Road,,,33.127352,-117.2694174,,,n_8975303817,shop=beauty
+"Fallbrook, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/fallbrook-ca-pharmacies/1101-s-mission-rd-fallbrook-ca-92028/storeid=9110,33.373623,-117.254155,,,n_9038367789,"shop=chemist, brand=CVS Pharmacy"
+"Fallbrook, CA",,retail,446120,European Wax Center,"10445 Craftsman Way, San Diego, CA, 92127",,https://locations.waxcenter.com/ca/sandiego/san-diego-4s-ranch-0088.html,33.0196465,-117.1136926,,,n_9289258756,"shop=beauty, brand=European Wax Center"
+"Fallbrook, CA",,retail,446120,Seva Beauty,,,,33.1358276,-117.1231605,,,n_9431635002,"shop=beauty, brand=Seva Beauty"
+"Fallbrook, CA",,retail,446120,Precision Hair And Nail Salon,"27314 Jefferson Ave, #4, Temecula, CA, 92590",951-296-9007,https://precisionhairandnailsalon.com,33.5230264,-117.1658023,,,n_9684620894,shop=beauty
+"Fallbrook, CA",,retail,446120,Classic NAIL and SPA,"25359 Madison Avenue, Murrieta, CA, 92562",,,33.5515548,-117.1960083,,,n_10062397035,shop=beauty
+"Fallbrook, CA",,retail,445120,Jacksons,,,,33.5536597,-117.1954817,,,n_10112421792,"shop=convenience, brand=Jacksons"
+"Fallbrook, CA",,retail,446120,Paris Nails,,,,33.5942721,-117.2450397,,,n_10134424516,shop=beauty
+"Fallbrook, CA",,retail,445120,7-Eleven,"801 S Twin Oaks Valley Road, San Marcos, CA, 92078",+1 760-290-3204,https://www.7-eleven.com/locations/ca/san-marcos/801-s-twinoaks-valley-rd-39902,33.1230839,-117.1657383,,,n_10164930451,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,446120,Nail Bar Twin Oaks,"803 South Twin Oaks Valley Road, San Marcos, CA, 92078",,,33.1229218,-117.1654611,,,n_10164930452,shop=beauty
+"Fallbrook, CA",,retail,446120,Fashion Nails,"997 West San Marcos Boulevard, San Marcos, CA, 92078",,,33.1342941,-117.1872763,,,n_10164930460,shop=beauty
+"Fallbrook, CA",,retail,445310,e Food Stores and Liquor,"997 West San Marcos Boulevard, San Marcos, CA, 92078",,,33.1347088,-117.1872926,,,n_10164930463,shop=alcohol
+"Fallbrook, CA",,retail,445110,Lilac Foods,,+17607490400,,33.2359752,-117.052162,,,n_10174642528,shop=supermarket
+"Fallbrook, CA",,retail,445310,Tuscany,,,,33.6642061,-117.2980556,,,n_10181089867,shop=alcohol
+"Fallbrook, CA",,retail,446120,Creative Nails,,,,33.5932396,-117.2469191,,,n_10198255742,shop=beauty
+"Fallbrook, CA",,retail,446120,Lucy's Nail Bar,,,,33.6635526,-117.2962269,,,n_10287875163,shop=beauty
+"Fallbrook, CA",,retail,445120,Circle K,,,,33.6600848,-117.299689,,,n_10288335930,"shop=convenience, brand=Circle K"
+"Fallbrook, CA",,retail,453991,The Glass Warehouse Smoke Shop,"27453 Jefferson Avenue, 92590",,,33.5179934,-117.1639981,,,n_10288640809,shop=tobacco
+"Fallbrook, CA",,retail,446120,Diamond Nails & Spa,,,,33.6619148,-117.2997761,,,n_10292328482,shop=beauty
+"Fallbrook, CA",,retail,446191,Cream of the Crop,,,,33.1715288,-117.3593829,,,n_10294246291,shop=health_food
+"Fallbrook, CA",,retail,452210,Saver's,"25125 Madison Avenue, 92596",1 (951) 461-8624,https://www.savers.com/,33.5553785,-117.2004933,,,n_10538425309,shop=department_store
+"Fallbrook, CA",,retail,446120,,,,,33.5566741,-117.200386,,,n_10571660663,shop=beauty
+"Fallbrook, CA",,retail,445120,,,,,33.1800225,-117.3261384,,,n_10610275827,shop=convenience
+"Fallbrook, CA",,retail,445110,Baron's,,,,33.6860142,-117.1698404,,,n_10650240932,shop=supermarket
+"Fallbrook, CA",,retail,446120,Sola Salons,,,,33.6861676,-117.1702521,,,n_10650258062,"shop=beauty, brand=Sola Salons"
+"Fallbrook, CA",,retail,446120,Cosmo,,,,33.6857206,-117.1689315,,,n_10651014919,shop=beauty
+"Fallbrook, CA",,retail,446120,,,,,33.6642819,-117.2966956,,,n_10658370294,shop=beauty
+"Fallbrook, CA",,retail,446120,Magic Brow,,,,33.5989428,-117.1685379,,,n_10705224061,shop=beauty
+"Fallbrook, CA",,retail,446120,Blooming Nails,,,,33.5989344,-117.1675016,,,n_10705232171,shop=beauty
+"Fallbrook, CA",,retail,445110,Grocery Outlet,39573 Los Alamos Road,,,33.5752544,-117.1795481,,,n_10738283391,"shop=supermarket, brand=Grocery Outlet"
+"Fallbrook, CA",,retail,446120,Joie,,,,33.5757021,-117.1788565,,,n_10738283397,shop=beauty
+"Fallbrook, CA",,retail,446120,La Jolet,,,,33.5764154,-117.1779463,,,n_10738290708,shop=beauty
+"Fallbrook, CA",,retail,446120,Brushedd Salon,,,,33.5758567,-117.1773701,,,n_10738290710,shop=beauty
+"Fallbrook, CA",,retail,446120,Belle Fleur,,,,33.5972271,-117.2411344,,,n_10778498321,shop=beauty
+"Fallbrook, CA",,retail,453991,,,,,33.5966278,-117.2412512,,,n_10778945107,shop=tobacco
+"Fallbrook, CA",,retail,446120,Nail Palace,,,,33.5966802,-117.2411651,,,n_10778945109,shop=beauty
+"Fallbrook, CA",,retail,446120,Lush,,,,33.5244802,-117.1537032,,,n_10797747387,"shop=cosmetics, brand=Lush"
+"Fallbrook, CA",,retail,445120,ampm,,,,33.5991818,-117.1763906,,,n_10832463387,"shop=convenience, brand=ampm"
+"Fallbrook, CA",,retail,446120,Blush & Co.,,,,33.1704639,-117.3578125,,,n_10832499807,shop=beauty
+"Fallbrook, CA",,retail,453991,Outer Limits,,,,33.1710596,-117.3588491,,,n_10832522406,shop=tobacco
+"Fallbrook, CA",,retail,446120,European Wax Center,"40134 California Oaks Road, CA",,https://locations.waxcenter.com/ca/murrieta/murrieta-cal-oaks-0991.html,33.5661793,-117.2043588,,,n_10834075145,"shop=beauty, brand=European Wax Center"
+"Fallbrook, CA",,retail,446110,Rite Aid,1201 South Coast Highway,,https://www.riteaid.com/locations/ca/oceanside/1201-south-coast-highway.html,33.1830689,-117.3693625,,,n_10847502581,"shop=chemist, brand=Rite Aid"
+"Fallbrook, CA",,retail,446120,Ulta Beauty,"40460 Winchester Road, Temecula, CA, 92591",+1 951-296-0776,https://www.ulta.com/stores/temecula-ca-1131,33.5274347,-117.151372,,,n_10856715415,"shop=beauty, brand=Ulta Beauty"
+"Fallbrook, CA",,retail,445310,Total Wine,"40432 Winchester Road, Temecula, CA, 92591",+1 951-719-3712,https://www.totalwine.com/store-info/california-temecula/1123,33.529746,-117.15121,,,n_10857383782,"shop=alcohol, brand=Total Wine"
+"Fallbrook, CA",,retail,446120,B&K Dreamy,,,,33.5989374,-117.2405608,,,n_10858327799,shop=beauty
+"Fallbrook, CA",,retail,446120,Serenity MD Weight Loss & Medical Spa,,,,33.5236101,-117.1582144,,,n_10858359559,shop=beauty
+"Fallbrook, CA",,retail,453110,Oceanside Florist,,,,33.1728995,-117.3604869,,,n_10914011605,shop=florist
+"Fallbrook, CA",,retail,445120,Cardiff Valero Market,,,,33.0268417,-117.2731866,,,n_10957413520,shop=convenience
+"Fallbrook, CA",,retail,446120,Sola Salons,,,,33.5223515,-117.1522707,,,n_11006384104,"shop=beauty, brand=Sola Salons"
+"Fallbrook, CA",,retail,446120,Bel Mondo,,,,33.5245246,-117.1496987,,,n_11006397252,shop=beauty
+"Fallbrook, CA",,retail,446120,Ti*Li,,,,33.590189,-117.2522363,,,n_11076247690,shop=beauty
+"Fallbrook, CA",,retail,453991,Vibez Smoke,,,,33.5577955,-117.201583,,,n_11132458626,shop=tobacco
+"Fallbrook, CA",,retail,446120,Greenleaf,,1-951-696-0878,,33.5742407,-117.2040148,,,n_11163969922,shop=beauty
+"Fallbrook, CA",,retail,446120,,,,,33.5705903,-117.1822955,,,n_11214406762,shop=beauty
+"Fallbrook, CA",,retail,446120,SalonCentric,,,,33.5531523,-117.1970326,,,n_11217080966,shop=beauty
+"Fallbrook, CA",,retail,445310,BevMo!,,,,33.1958475,-117.2486096,,,n_11246924422,"shop=alcohol, brand=BevMo!"
+"Fallbrook, CA",,retail,445110,rodeo's,,,,33.2007282,-117.2469134,,,n_11246924423,shop=supermarket
+"Fallbrook, CA",,retail,445292,PUDN,,+1 (951) 304.9935,https://famouspudn.com/,33.5657751,-117.211868,,,n_11276017898,shop=confectionery
+"Fallbrook, CA",,retail,446120,Marys Beauty,,,,33.434114,-117.6240526,,,n_11276018794,shop=beauty
+"Fallbrook, CA",,retail,446120,Happiness,,,,33.5669056,-117.2129907,,,n_11276029707,shop=beauty
+"Fallbrook, CA",,retail,446191,Cactus Nutrition Spot,,,,33.5657823,-117.2120467,,,n_11276032178,shop=health_food
+"Fallbrook, CA",,retail,453991,,,,,33.5715231,-117.182525,,,n_11276299987,shop=tobacco
+"Fallbrook, CA",,retail,453110,,,,,33.5714328,-117.18253,,,n_11276299988,shop=florist
+"Fallbrook, CA",,retail,446120,Wonder Nails & Spa,,,,33.5969253,-117.2481594,,,n_11280358187,shop=beauty
+"Fallbrook, CA",,retail,445310,Murrieta Country Market,,,,33.5544894,-117.215314,,,n_11281774045,shop=alcohol
+"Fallbrook, CA",,retail,446120,Royal Touch,40962 California Oaks Road,,,33.5676723,-117.2037467,,,n_11282396004,shop=beauty
+"Fallbrook, CA",,retail,446120,Lex,40954 California Oaks Road,,,33.5677811,-117.2037688,,,n_11282396005,shop=beauty
+"Fallbrook, CA",,retail,453991,Smoke Express,,,,33.5245673,-117.1616841,,,n_11296475817,shop=tobacco
+"Fallbrook, CA",,retail,446120,,,,,33.5287758,-117.1554433,,,n_11298099998,shop=beauty
+"Fallbrook, CA",,retail,446120,In Style,,,,33.5583871,-117.2009376,,,n_11342568844,shop=beauty
+"Fallbrook, CA",,retail,446120,Illustrious Beauty Bar,,,,33.5583458,-117.2010114,,,n_11342639169,shop=beauty
+"Fallbrook, CA",,retail,446120,Ivy's,26487 Ynez Road,,,33.5216393,-117.158642,,,n_11345111615,shop=beauty
+"Fallbrook, CA",,retail,445310,Louie's Liquor,,,,33.5609103,-117.2117584,,,n_11361225236,shop=alcohol
+"Fallbrook, CA",,retail,453991,The Hype,,,,33.5614924,-117.2118256,,,n_11361225241,shop=tobacco
+"Fallbrook, CA",,retail,446120,,,,,33.5615321,-117.2117764,,,n_11361225242,shop=beauty
+"Fallbrook, CA",,retail,445210,,,,,33.5609425,-117.2117958,,,n_11361225245,shop=butcher
+"Fallbrook, CA",,retail,445110,Advanced Emission Specialist's,"29770 Bradley Road, Menifee, CA, 92586",+1-951-246-8147,https://aessmog.com,33.6883173,-117.1870759,,,n_11380696151,"shop=supermarket, operator=Krysta Cano"
+"Fallbrook, CA",,retail,446120,La Mode,,,,33.5565872,-117.2005136,,,n_11382779089,shop=beauty
+"Fallbrook, CA",,retail,446120,Paris Nails And Spa,,,,33.5544481,-117.1949415,,,n_11406432358,shop=beauty
+"Fallbrook, CA",,retail,446120,Stud Cuts,,,,33.4300587,-117.616575,,,n_11415715332,shop=beauty
+"Fallbrook, CA",,retail,445310,Village Spirit Shop,"502 South Main Avenue, Fallbrook, CA, 92028",,,33.378408,-117.2511926,,,n_11418295074,shop=alcohol
+"Fallbrook, CA",,retail,453110,Fallbrook Florist,"522 South Main Avenue, Fallbrook, 92028",,https://www.fallbrookflorist.net/,33.3779774,-117.2512181,,,n_11418295080,shop=florist
+"Fallbrook, CA",,retail,445120,7-Eleven,"631 South Main Street, Fallbrook, CA, 92028-2945",+1 760-728-0583,https://www.7-eleven.com/locations/ca/fallbrook/631-s.-main-st.-21800,33.3769925,-117.251788,,,n_11418295207,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,446120,Indego blue,,,,33.3789635,-117.2516781,,,n_11418295250,shop=beauty
+"Fallbrook, CA",,retail,453991,Smoke Chalet,"235 East Mission Road, Fallbrook, CA, 92028",,,33.3844866,-117.2493151,,,n_11421018088,shop=tobacco
+"Fallbrook, CA",,retail,445310,,,,,33.5724905,-117.1830732,,,n_11426093975,shop=alcohol
+"Fallbrook, CA",,retail,445110,Frazier Farms Natural Grocery,"1820 Oceanside Boulevard, 92054",,https://frazierfarmsmarket.com/,33.1936453,-117.3588372,,,n_11427038469,shop=grocery
+"Fallbrook, CA",,retail,453110,Colette Floral Studio,,,https://colettefloral.com/,33.4251958,-117.6136968,,,n_11439414643,shop=florist
+"Fallbrook, CA",,retail,446120,Jade Nails,,,,33.6666301,-117.2626978,,,n_11597433366,shop=beauty
+"Fallbrook, CA",,retail,446120,Dream Tan,,,,33.6668355,-117.2634526,,,n_11597464169,shop=beauty
+"Fallbrook, CA",,retail,445120,Food Mart,,,,33.6676101,-117.2649714,,,n_11597464173,shop=convenience
+"Fallbrook, CA",,retail,445110,Seoul Asian Market,,,,33.5560139,-117.1751889,,,n_11643156201,shop=supermarket
+"Fallbrook, CA",,retail,452210,Burlington,,,,33.4775294,-117.1028367,,,n_11660997232,"shop=department_store, brand=Burlington"
+"Fallbrook, CA",,retail,445110,Amazon Fresh,,,,33.5575843,-117.1793272,,,n_11685351271,"shop=supermarket, brand=Amazon Fresh"
+"Fallbrook, CA",,retail,453991,Fire Up Smoke Shop,,,,33.4426924,-117.6426169,,,n_11704579923,shop=tobacco
+"Fallbrook, CA",,retail,445310,Mike's Liquor & Market,,,,33.1871889,-117.3725865,,,n_11794882957,shop=alcohol
+"Fallbrook, CA",,retail,445110,ALDI,"32130 Temecula Parkway, Temecula, CA, 92592",+1 855-955-2534,https://stores.aldi.us/ca/temecula/32130-temecula-pkwy,33.482943,-117.0968201,,,n_11809317188,"shop=supermarket, brand=ALDI"
+"Fallbrook, CA",,retail,445110,Ralphs,"30125 Antelope Road, Menifee, CA, 92584",+1 951-679-2117,https://www.ralphs.com/stores/grocery/ca/menifee/menifee-town-center/703/00140,33.6842435,-117.1689336,,,n_11809317190,"shop=supermarket, brand=Ralphs"
+"Fallbrook, CA",,retail,445110,Stater Bros. Markets,"16750 Lakeshore Drive, Lake Elsinore, CA, 92530",+1 951-674-1349,https://www.staterbros.com/stores/98,33.6868861,-117.3679824,,,n_11809317193,"shop=supermarket, brand=Stater Bros."
+"Fallbrook, CA",,retail,445110,Barons Market,,,,33.5142365,-117.1024405,,,n_12012657186,shop=supermarket
+"Fallbrook, CA",,retail,453991,Casa Carreras Cigar,"106 Avenida Miramar, 92672",9494433113,,33.4286283,-117.6152692,,,n_12060303869,shop=tobacco
+"Fallbrook, CA",,retail,445120,7-Eleven,,,,33.7218634,-117.1566854,,,n_12133171075,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,446120,Lashbar,,+1 858-769-9591,https://www.lashbar.com/delsur,33.0202811,-117.123693,,,n_12138526160,shop=beauty
+"Fallbrook, CA",,retail,446120,Sephora,,,,33.5244184,-117.153641,,,n_12150138744,"shop=cosmetics, brand=Sephora"
+"Fallbrook, CA",,retail,445110,,,,,33.1366638,-117.2054554,,,n_12168870607,shop=grocery
+"Fallbrook, CA",,retail,446120,Nails Now,,,,33.5100251,-117.1266307,,,n_12181371166,shop=beauty
+"Fallbrook, CA",,retail,446120,Nugenes Nails,,,,33.5098762,-117.12767,,,n_12181371170,shop=beauty
+"Fallbrook, CA",,retail,446120,Above & Beyond Beauty: The Hive Style House,,,,33.5098317,-117.1277278,,,n_12181371175,shop=beauty
+"Fallbrook, CA",,retail,446120,Rancho Nails & Spa,"3440 Del Lago Boulevard, Plaza del Lago",,,33.0707271,-117.070373,,,n_12191904105,shop=beauty
+"Fallbrook, CA",,retail,445310,Lago Country Wine & Spirits,,,,33.0704997,-117.0703731,,,n_12191904107,shop=alcohol
+"Fallbrook, CA",,retail,452319,Last Chance Store,,,,33.0722561,-117.066687,,,n_12191957237,shop=variety_store
+"Fallbrook, CA",,retail,446120,European Wax Center,,,,33.5054368,-117.1471994,,,n_12193712919,"shop=beauty, brand=European Wax Center"
+"Fallbrook, CA",,retail,446120,Vivian Spa & Nails,,,,33.5061326,-117.1472377,,,n_12193712926,shop=beauty
+"Fallbrook, CA",,retail,446120,Beauty By Threading,,,,33.505364,-117.1487384,,,n_12193712931,shop=beauty
+"Fallbrook, CA",,retail,446120,Salon 29,,,,33.5054105,-117.1472535,,,n_12193712933,shop=beauty
+"Fallbrook, CA",,retail,446120,SalonDLM,,,,33.5039915,-117.1516028,,,n_12195904672,shop=beauty
+"Fallbrook, CA",,retail,453991,Smoke & Dreams,,,,33.5037951,-117.1510165,,,n_12195904685,shop=tobacco
+"Fallbrook, CA",,retail,446120,Talk of the Town Luxury Salon Suites,,,,33.5041434,-117.1516249,,,n_12195904689,shop=beauty
+"Fallbrook, CA",,retail,446120,Aloha Nails & Botique,,,,33.5036909,-117.1511826,,,n_12195904690,shop=beauty
+"Fallbrook, CA",,retail,446120,Sola Salons,,,,33.5258538,-117.153628,,,n_12289023146,"shop=beauty, brand=Sola Salons"
+"Fallbrook, CA",,retail,445110,Asian Mini Mart - Menifee's Asian Market,"29800 Bradley Road, Menifee, CA, 92586",(951) 923-2682,https://asianminimartmenifee.com,33.6882935,-117.1879535,,,n_12303149795,"shop=supermarket, brand=Asian Mini Mart, operator=Asian Mini Mart"
+"Fallbrook, CA",,retail,446120,Kreate Beauty Supply House,,,,33.4832007,-117.0853275,,,n_12360490052,shop=beauty
+"Fallbrook, CA",,retail,446120,Canny Nails & Spa,,,,33.4851031,-117.0811274,,,n_12360490060,shop=beauty
+"Fallbrook, CA",,retail,445310,Temecula Wine & Spirits,,,,33.4862229,-117.0773866,,,n_12360490061,shop=alcohol
+"Fallbrook, CA",,retail,446120,Bvon Nails,,,,33.4846134,-117.079354,,,n_12360490068,shop=beauty
+"Fallbrook, CA",,retail,446120,Mojave Rain Salon & Apothecary,,,,33.4859481,-117.0773203,,,n_12360490077,shop=beauty
+"Fallbrook, CA",,retail,446120,European Wax Center,,,,33.4841268,-117.0816186,,,n_12360490088,"shop=beauty, brand=European Wax Center"
+"Fallbrook, CA",,retail,446120,TT Nails & Spa,,,,33.4787943,-117.1013299,,,n_12363488750,shop=beauty
+"Fallbrook, CA",,retail,445120,,,,,33.4791807,-117.1034447,,,n_12363488765,shop=convenience
+"Fallbrook, CA",,retail,446120,Salon de Cheveux,,,,33.480992,-117.1009122,,,n_12363503328,shop=beauty
+"Fallbrook, CA",,retail,453991,,,,,33.4820431,-117.1010546,,,n_12363503333,shop=tobacco
+"Fallbrook, CA",,retail,446120,Tip & Toe Spa,,,,33.4820129,-117.1010399,,,n_12363503341,shop=beauty
+"Fallbrook, CA",,retail,446120,Sally’s Nail Spa,,,,33.4815851,-117.0896094,,,n_12372730049,shop=beauty
+"Fallbrook, CA",,retail,453991,,,,,33.4822077,-117.0896651,,,n_12372730052,shop=tobacco
+"Fallbrook, CA",,retail,446120,Bath & Body Works,,,,33.479941,-117.0960365,,,n_12372730064,"shop=cosmetics, brand=Bath & Body Works"
+"Fallbrook, CA",,retail,445120,7-Eleven,,,,33.4818394,-117.0927962,,,n_12372730065,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,446120,Red Persimmon Nails & Spa,,,,33.4809086,-117.0921743,,,n_12372730071,shop=beauty
+"Fallbrook, CA",,retail,445292,See's Candies,,,,33.4808739,-117.0922669,,,n_12372730073,"shop=confectionery, brand=See's Candies"
+"Fallbrook, CA",,retail,445310,Grazing Theory Wine and Cheese Shop,,,,33.4791266,-117.0974853,,,n_12392689117,shop=wine
+"Fallbrook, CA",,retail,445310,Marshall Stuart Fine Wines,,,,33.4788978,-117.0974154,,,n_12392689128,shop=wine
+"Fallbrook, CA",,retail,446120,Majestic Brows Threading Salon,,,,33.4823996,-117.0947922,,,n_12392840815,shop=beauty
+"Fallbrook, CA",,retail,445120,,,,,33.2199398,-117.2254166,,,n_12409416119,shop=convenience
+"Fallbrook, CA",,retail,446120,Ladive Nails & Spa,,,,33.5535503,-117.138143,,,n_12434056746,shop=beauty
+"Fallbrook, CA",,retail,446120,European Wax Center,,,,33.5532653,-117.1381405,,,n_12434056751,"shop=beauty, brand=European Wax Center"
+"Fallbrook, CA",,retail,446120,Esmee Nails,,,,33.5132635,-117.103,,,n_12434499914,shop=beauty
+"Fallbrook, CA",,retail,452319,Dollar Tree,"30910 Benton Road, Winchester, CA, 92596",,,33.5919626,-117.1206691,,,n_12454199300,"shop=variety_store, brand=Dollar Tree"
+"Fallbrook, CA",,retail,445120,ExtraMile,,,,33.1390433,-117.1748773,,,n_12457447634,"shop=convenience, brand=ExtraMile"
+"Fallbrook, CA",,retail,446120,Kiara Threading,,,,33.5198556,-117.1594704,,,n_12457681586,shop=beauty
+"Fallbrook, CA",,retail,446191,Artisan’s Palate,,,,33.5199723,-117.1596314,,,n_12457765706,shop=health_food
+"Fallbrook, CA",,retail,446120,Phoenix Salon Suites,,,,33.5216096,-117.1605805,,,n_12457765712,shop=beauty
+"Fallbrook, CA",,retail,446120,KT Nails,,,,33.103941,-117.2661426,,,n_12462056562,shop=beauty
+"Fallbrook, CA",,retail,445110,Frazier Farms,,,,33.1937478,-117.3587812,,,n_12466355353,shop=supermarket
+"Fallbrook, CA",,retail,446120,The Cosmetics Company Store,,,,33.1264233,-117.3215777,,,n_12467494371,shop=cosmetics
+"Fallbrook, CA",,retail,446191,Thousand Petal Lotus,"264 Vista Village Drive, Vista, CA, 92084",,https://www.thousandpetallotusvista.com,33.1990984,-117.2484939,,,n_12472989367,shop=health_food
+"Fallbrook, CA",,retail,445310,,"264 Vista Village Drive, Vista, CA, 92084",,,33.1989804,-117.2486911,,,n_12472989378,shop=alcohol
+"Fallbrook, CA",,retail,445120,Wisconsin Market,,,,33.1870141,-117.3757997,,,n_12487171138,shop=convenience
+"Fallbrook, CA",,retail,446120,Moon Nails,,+1 760-753-3466,,33.0479714,-117.2616056,,,n_12491212118,shop=beauty
+"Fallbrook, CA",,retail,446120,Lilly Beauty VIP Lounge,,,,33.5190429,-117.1519216,,,n_12582575694,shop=beauty
+"Fallbrook, CA",,retail,446120,Temecula Salon-Day Spa,,,,33.5190464,-117.1520202,,,n_12582575695,shop=beauty
+"Fallbrook, CA",,retail,446120,Félicie Nail Salon,,,,33.5190472,-117.151749,,,n_12582575696,shop=beauty
+"Fallbrook, CA",,retail,453110,Semper Fi Florist,"521 Vandegrift Boulevard, Oceanside, CA, 92057",,,33.2557591,-117.2994971,,,n_12586517353,shop=florist
+"Fallbrook, CA",,retail,452319,Dollar Tree,"4908 North River Road, Oceanside, CA, 92057",,,33.2510886,-117.3006748,,,n_12586517354,"shop=variety_store, brand=Dollar Tree"
+"Fallbrook, CA",,retail,445110,Grocery Outlet,"1527 Mission Avenue, Oceanside, CA, 92058",+1+760-696-9900,https://www.groceryoutlet.com/store-locator?store_location=oceanside%2C+ca,33.2003625,-117.3678604,,,n_12658118874,"shop=supermarket, brand=Grocery Outlet"
+"Fallbrook, CA",,retail,452210,dd's Discounts,"1527 Mission Avenue, Oceanside, CA, 92058",+1-760-721-2172,https://ddsdiscounts.com,33.2008043,-117.3668475,,,n_12658125155,"shop=department_store, brand=dd's Discounts"
+"Fallbrook, CA",,retail,445110,El Super,"1527 Mission Avenue, Oceanside, CA, 92058",1+760-681-5130,https://elsupermarkets.com/store/oceanside/,33.2006047,-117.3673051,,,n_12658129047,"shop=supermarket, brand=El Super"
+"Fallbrook, CA",,retail,446120,Karen Allen Salon,,,,33.5240432,-117.1537327,,,n_12674426726,shop=beauty
+"Fallbrook, CA",,retail,446120,LaserAway,,,,33.5240089,-117.1538351,,,n_12674426756,"shop=beauty, brand=LaserAway"
+"Fallbrook, CA",,retail,445292,Sunny Candy,,,,33.5247265,-117.154538,,,n_12682634843,shop=confectionery
+"Fallbrook, CA",,retail,446120,Bath & Body Works,,,,33.5247881,-117.1543902,,,n_12682634857,"shop=cosmetics, brand=Bath & Body Works"
+"Fallbrook, CA",,retail,453991,Lung Doctor Smoke Shop,,,,33.1133589,-117.0795519,,,n_12685992540,shop=tobacco
+"Fallbrook, CA",,retail,445310,Georgia’s Liquor,,,,33.1131809,-117.0794,,,n_12685992554,shop=alcohol
+"Fallbrook, CA",,retail,446120,Shades Tan,"603 Vista Way, Oceanside, CA",,https://www.shadestan.com,33.1725985,-117.3584551,,,n_12692906561,shop=beauty
+"Fallbrook, CA",,retail,446120,Perfume Gallery,,,,33.524646,-117.1550818,,,n_12703995101,shop=perfumery
+"Fallbrook, CA",,retail,446120,Ten Perfect Nails,,,,33.5258099,-117.1530758,,,n_12703995116,shop=beauty
+"Fallbrook, CA",,retail,445292,Rocky Mountain Chocolate Factory,,,,33.5244765,-117.1543718,,,n_12703995120,"shop=confectionery, brand=Rocky Mountain Chocolate Factory"
+"Fallbrook, CA",,retail,452319,Miniso,,,,33.524382,-117.1546719,,,n_12703995131,"shop=variety_store, brand=Miniso"
+"Fallbrook, CA",,retail,446120,Vegan Liftz,"1300 Avenida Vista Hermosa, San Clemente, CA, 92673",949-248-0131,https://veganliftz.com/,33.4585833,-117.5928518,,,n_12723483376,shop=beauty
+"Fallbrook, CA",,retail,446120,Healthy Nail Spa,,,,33.5257706,-117.1497108,,,n_12724511642,shop=beauty
+"Fallbrook, CA",,retail,445120,Fuel Up! Food Mart,,,,33.5262703,-117.1573758,,,n_12724511647,shop=convenience
+"Fallbrook, CA",,retail,446120,Bella Vida Medspa,,,,33.5226718,-117.1572251,,,n_12724511653,shop=beauty
+"Fallbrook, CA",,retail,446120,Rejuv Laser Spa,,,,33.5257805,-117.149876,,,n_12724511659,shop=beauty
+"Fallbrook, CA",,retail,445120,Rocket,,,,33.6757996,-117.3241556,,,n_12858915040,"shop=convenience, brand=Rocket"
+"Fallbrook, CA",,retail,445120,7-Eleven,,,,33.6762557,-117.3247974,,,n_12858915042,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,446120,Naumov’s Barbershop,,,,33.4257078,-117.6112642,,,n_12889528746,shop=beauty
+"Fallbrook, CA",,retail,446120,,,,,33.0650321,-117.3013498,,,n_13025964745,shop=beauty
+"Fallbrook, CA",,retail,445310,Leucadia Liquor,,,,33.0608075,-117.301141,,,n_13025964750,shop=alcohol
+"Fallbrook, CA",,retail,445110,Ralphs,"23801 Washington Avenue, Murrieta, CA, 92562",+1 951-677-2297,https://www.ralphs.com/stores/grocery/ca/murrieta/plaza-del-oro-sc/703/00118,33.570396,-117.2346176,,,w_43971826,"shop=supermarket, brand=Ralphs"
+"Fallbrook, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/murrieta-ca-pharmacies/23791-washington-ave-murrieta-ca-92562/storeid=9157,33.570831,-117.2350658,,,w_43972233,"shop=chemist, amenity=pharmacy, brand=CVS Pharmacy"
+"Fallbrook, CA",,retail,445120,,,,,33.5631192,-117.207894,,,w_43990964,shop=convenience
+"Fallbrook, CA",,retail,445110,Albertsons,"3925 Mission Avenue, Oceanside, CA, 92058",+1 760-433-8107,https://local.albertsons.com/ca/oceanside/3925-mission-ave.html,33.2275462,-117.3239024,,,w_53697765,"shop=supermarket, brand=Albertsons"
+"Fallbrook, CA",,retail,445110,WinCo Foods,,,,33.5305916,-117.1539787,,,w_55881435,"shop=supermarket, brand=WinCo Foods"
+"Fallbrook, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/temecula-ca-pharmacies/40365-winchester-rd-temecula-ca-92591/storeid=9550,33.5328068,-117.1520642,,,w_55883366,"shop=chemist, brand=CVS Pharmacy"
+"Fallbrook, CA",,retail,446120,Mai Roc Stylez,,,,33.5068031,-117.1485551,,,w_56228083,shop=beauty
+"Fallbrook, CA",,retail,445120,Food Mart,,,,33.5099658,-117.1248463,,,w_56228607,"shop=convenience, operator=Shell"
+"Fallbrook, CA",,retail,445120,ampm,,,,33.6607426,-117.2990249,,,w_62333837,"shop=convenience, brand=ampm"
+"Fallbrook, CA",,retail,445120,ExtraMile,"31640 Mission Trail, Lake Elsinore, CA, 92530-4565",+1-951- 674-6393,https://www.chevronextramile.com/station-finder/31640-mission-trl-lake-elsinore-ca-92530-4565-id90802/,33.6609592,-117.3010311,,,w_62333855,"shop=convenience, brand=ExtraMile"
+"Fallbrook, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/lake-elsinore/31805-grape-st-35344,33.6630137,-117.2978361,,,w_62334279,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445110,Trader Joe's,"115 North El Camino Real, Encinitas, CA, 92024",+1 760-634-2114,https://locations.traderjoes.com/ca/encinitas/25/,33.047117,-117.2557968,,,w_68173147,"shop=supermarket, brand=Trader Joe's"
+"Fallbrook, CA",,retail,445120,Santa Fe Shell,"510 Santa Fe Drive, Encinitas, 92024",,,33.0367488,-117.2801774,,,w_69451980,"shop=convenience, amenity=fuel, brand=Shell"
+"Fallbrook, CA",,retail,445120,ampm,,,,33.4807909,-117.1024696,,,w_69963744,"shop=convenience, brand=ampm"
+"Fallbrook, CA",,retail,446120,NeoMed Spa,,,,33.4781745,-117.1043726,,,w_69964608,shop=beauty
+"Fallbrook, CA",,retail,445120,Jacksons,,,,33.4799854,-117.1005451,,,w_71051360,"shop=convenience, operator=Shell"
+"Fallbrook, CA",,retail,452210,Kohl's,"32085 Temecula Parkway, Temecula, CA, 92592",+1 951-302-2112,https://www.kohls.com/stores/ca/temecula-606.shtml,33.4787327,-117.0989807,,,w_71055081,"shop=department_store, brand=Kohl's"
+"Fallbrook, CA",,retail,445120,ampm,"1550 East Grand Avenue, Escondido, CA, 92027",,,33.1304432,-117.0593275,,,w_75837367,"shop=convenience, brand=ampm"
+"Fallbrook, CA",,retail,445110,Walmart Neighborhood Market,"1266 East Valley Parkway, Escondido, CA, 92027",+1 760-871-6760,https://www.walmart.com/store/3084-escondido-ca,33.1319914,-117.0664108,,,w_75837395,"shop=supermarket, brand=Walmart"
+"Fallbrook, CA",,retail,445120,ampm,,,,33.1372606,-117.0511551,,,w_76145419,"shop=convenience, brand=ampm"
+"Fallbrook, CA",,retail,445110,Food 4 Less,"644 North Broadway, Escondido, 92025",,https://www.food4less.com/,33.1287318,-117.0829998,,,w_76146141,"shop=supermarket, brand=Food 4 Less"
+"Fallbrook, CA",,retail,445110,Walmart Supercenter,"705 College Boulevard, Oceanside, CA, 92057",+1-760-631-0434,https://www.walmart.com/store/2245-oceanside-ca,33.2412149,-117.2908826,,,w_77684730,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Fallbrook, CA",,retail,446110,CVS Pharmacy,"4615 Frazee Road, Oceanside, CA",,https://www.cvs.com/store-locator/oceanside-ca-pharmacies/4615-frazee-road-oceanside-ca-92057/storeid=9532,33.2381021,-117.2984174,,,w_77687362,"shop=chemist, brand=CVS Pharmacy"
+"Fallbrook, CA",,retail,445110,Western Eagle Foundation,,,,33.5275159,-117.1596727,,,w_77965388,shop=supermarket
+"Fallbrook, CA",,retail,445120,Circle K,,,,33.1659596,-117.2218515,,,w_78551144,"shop=convenience, brand=Circle K"
+"Fallbrook, CA",,retail,452210,Burlington,"650 Sycamore Avenue, Vista, CA, 92081",+1 760-727-6422,https://stores.burlington.com/ca/vista/330,33.1660192,-117.2176108,,,w_78551182,"shop=department_store, brand=Burlington"
+"Fallbrook, CA",,retail,445110,Albertsons,"1929 West San Marcos Boulevard, San Marcos, CA, 92078",+1 760-598-7272,https://local.albertsons.com/ca/san-marcos/1929-w-san-marcos-blvd.html,33.1319245,-117.2109631,,,w_79463915,"shop=supermarket, brand=Albertsons"
+"Fallbrook, CA",,retail,445120,,,,,33.1309668,-117.2094321,,,w_79463922,shop=convenience
+"Fallbrook, CA",,retail,452210,Target,"1010 North El Camino Real, Encinitas, CA, 92024",+1 760-633-1406,https://www.target.com/sl/encinitas/1029,33.0626059,-117.2651288,,,w_79672151,"shop=department_store, brand=Target, operator=Target"
+"Fallbrook, CA",,retail,445110,Ralphs,"33145 Temecula Parkway, Temecula, CA, 92592",+1 951-303-3102,https://www.ralphs.com/stores/grocery/ca/temecula/vail-ranch/703/00686,33.4843053,-117.0798201,,,w_79876658,"shop=supermarket, brand=Ralphs"
+"Fallbrook, CA",,retail,445120,Circle K,,,,33.4855795,-117.0794378,,,w_79876665,"shop=convenience, brand=Circle K, operator=Mobil"
+"Fallbrook, CA",,retail,445110,Smart & Final,"32937 Temecula Parkway, Temecula, CA, 92592",+1 951-302-7046,https://stores.bestbuy.com/ca/temecula/32937-us-hwy-79-1076.html,33.4840947,-117.0810197,,,w_79876790,"shop=supermarket, brand=Smart & Final"
+"Fallbrook, CA",,retail,452210,TJ Maxx,"216 North El Camino Real, Encinitas, 92024",760-942-1275,www1.tjmaxx.com/tjx/directions.aspx?sid=140,33.0495171,-117.261965,,,w_80219768,"shop=department_store, brand=TJ Maxx, operator=The TJX Companies, Inc."
+"Fallbrook, CA",,retail,446120,Facelogic Spa,"208 North El Camino Real, Encinitas, 92024",760-840-3223,facelogicspa.com/pages/spas/encinitas-california/about,33.0489459,-117.2610427,,,w_80219772,shop=beauty
+"Fallbrook, CA",,retail,446120,Rosie's Nails II,"204 North El Camino Real, Encinitas, 92024",760-753-5970,,33.0489133,-117.260412,,,w_80219781,shop=beauty
+"Fallbrook, CA",,retail,445120,ampm,,,,33.5031684,-117.1495378,,,w_82652028,"shop=convenience, brand=ampm"
+"Fallbrook, CA",,retail,445120,ampm,,,,33.5384656,-117.1441606,,,w_83872318,"shop=convenience, brand=ampm"
+"Fallbrook, CA",,retail,445120,Circle K,,,,33.4990603,-117.1531304,,,w_84267712,"shop=convenience, brand=Circle K"
+"Fallbrook, CA",,retail,446110,Walgreens,"125 West Bobier Drive, Vista, 92083",,,33.2216642,-117.2459123,,,w_84272247,"shop=chemist, brand=Walgreens"
+"Fallbrook, CA",,retail,452210,Walmart,"41200 Murrieta Hot Springs Road, Murrieta, CA, 92562",+1 951-696-7135,https://www.walmart.com/store/2952-murrieta-ca,33.5526275,-117.1926596,,,w_85104682,"shop=department_store, brand=Walmart, operator=Walmart"
+"Fallbrook, CA",,retail,445120,ampm,,,,33.5210879,-117.1660603,,,w_86199019,"shop=convenience, brand=ampm"
+"Fallbrook, CA",,retail,452210,Kohl's,"24661 Madison Avenue, Murrieta, CA, 92562",+1 951-461-7512,https://www.kohls.com/stores/ca/murrieta-585.shtml,33.5617304,-117.2079207,,,w_86304634,"shop=department_store, brand=Kohl's"
+"Fallbrook, CA",,retail,452210,Burlington,"39855 Alta Murrieta Drive, Murrieta, CA, 92563",+1 951-677-8204,https://stores.burlington.com/ca/murrieta/748,33.5602418,-117.1798048,,,w_91800016,"shop=department_store, brand=Burlington"
+"Fallbrook, CA",,retail,445120,7-Eleven,"263 East Grand Avenue, Escondido, CA, 92025",+1 760-741-3628,https://www.7-eleven.com/locations/ca/escondido/263-e-grand-21786,33.1225753,-117.0787856,,,w_94333957,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445292,Swirlz Candy & Novelty Emporium,"105 East Grand Avenue, Escondido, 92025",,http://swirlzcandy.com/,33.121556,-117.0809571,,,w_94333990,shop=confectionery
+"Fallbrook, CA",,retail,453110,Linda's Flowers & Gift Shop,"183 South Juniper Street, Escondido, 92025",,,33.1222878,-117.0784699,,,w_94789749,shop=florist
+"Fallbrook, CA",,retail,453110,Country Flowers & Antiques,"523 West Valley Parkway, Escondido, 92025",,http://countryflowers.biz/,33.1193977,-117.0881463,,,w_95045370,shop=florist
+"Fallbrook, CA",,retail,445120,Latino's Market,"525 West Grand Avenue, Escondido, 92025",,,33.1184347,-117.0872679,,,w_95046721,shop=convenience
+"Fallbrook, CA",,retail,445110,Walmart Supercenter,"1800 University Drive, Vista, CA, 92083",+1 760-945-7995,https://www.walmart.com/store/2094-vista-ca,33.1725931,-117.2167689,,,w_95896981,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Fallbrook, CA",,retail,445120,Good Nutrition,333 East Valley Parkway,,,33.1241073,-117.0785498,,,w_96520735,shop=convenience
+"Fallbrook, CA",,retail,446120,Tiger Lily Day Spa & Boutique,111 North Ivy Street,,,33.1238399,-117.0777372,,,w_96520736,shop=beauty
+"Fallbrook, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/murrieta/41260-murrieta-hot-sprgs-33062,33.5521993,-117.1956537,,,w_97036337,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,Snack 'n' Bottle Shop,"703 East Valley Parkway, Escondido, 92025",,,33.1271556,-117.0736836,,,w_100401100,shop=convenience
+"Fallbrook, CA",,retail,445292,See's Candies,"1005 East Valley Parkway, Escondido, 92025",,https://www.sees.com/,33.1290716,-117.0695383,,,w_100402241,"shop=confectionery, brand=See's Candies"
+"Fallbrook, CA",,retail,445120,,,,,33.1298134,-117.0670803,,,w_100402440,shop=convenience
+"Fallbrook, CA",,retail,445120,La Sorpresa Barata,"840 East Valley Parkway, Escondido, 92025",,,33.1287475,-117.0717618,,,w_100404109,shop=convenience
+"Fallbrook, CA",,retail,445120,Ortega Oaks Candy Store and Goods,"34950 Ortega Highway, Lake Elsinore",,http://www.the74candystore.com,33.6127893,-117.4262931,,,w_100946310,shop=convenience
+"Fallbrook, CA",,retail,446110,Walgreens,111 West Washington Avenue,,https://www.walgreens.com/locator/walgreens-111+w+washington+ave-escondido-ca-92025/id=5455,33.1263291,-117.0845322,,,w_101867554,"shop=chemist, brand=Walgreens"
+"Fallbrook, CA",,retail,445120,Korner Market,,,,33.1266393,-117.0774265,,,w_102386839,shop=convenience
+"Fallbrook, CA",,retail,445292,Peterson's Donut Corner,,,,33.1128983,-117.0791743,,,w_102647272,shop=confectionery
+"Fallbrook, CA",,retail,445210,Talone Meat Market,,,,33.1214007,-117.1010825,,,w_102647451,shop=butcher
+"Fallbrook, CA",,retail,452210,TJ Maxx,1274 Auto Park Way,,http://www.tjmaxx.com/,33.1129346,-117.0988859,,,w_102946901,"shop=department_store, brand=TJ Maxx"
+"Fallbrook, CA",,retail,452210,Target,"1280 Auto Park Way, Escondido, CA, 92029",+1 760-489-6119,https://www.target.com/sl/escondido/274,33.1135754,-117.0993425,,,w_102946916,"shop=department_store, brand=Target"
+"Fallbrook, CA",,retail,453110,Allen’s Flowers,"101 West 2nd Avenue, Escondido, 92025",,https://www.rosemaryduffflorist.com/,33.1204713,-117.0809222,,,w_103460175,shop=florist
+"Fallbrook, CA",,retail,445120,Rocket,41010 California Oaks Road,,,33.5671508,-117.2055697,,,w_103761590,shop=convenience
+"Fallbrook, CA",,retail,452210,Target,"41040 California Oaks Road, Murrieta, CA, 92562-5749",+1 951-696-7527,https://www.target.com/sl/murrieta/1283,33.5657853,-117.2031842,,,w_103761598,"shop=department_store, brand=Target"
+"Fallbrook, CA",,retail,445110,Target,"27818 Clinton Keith Road, Murrieta, CA, 92562-8554",+1 951-704-1123,https://www.target.com/sl/murrieta-north/2499,33.6041842,-117.1729956,,,w_103915988,"shop=supermarket, brand=Target"
+"Fallbrook, CA",,retail,445110,Albertsons,"41000 California Oaks Road, Murrieta, CA, 92562",+1 951-600-1027,https://local.albertsons.com/ca/murrieta/41000-california-oaks-rd.html,33.5669208,-117.2037429,,,w_103916755,"shop=supermarket, brand=Albertsons"
+"Fallbrook, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-40663+california+oaks+rd-murrieta-ca-92562/id=9884,33.5725091,-117.2041664,,,w_104732019,"shop=chemist, brand=Walgreens"
+"Fallbrook, CA",,retail,445110,Barons Market,40545 California Oaks Road,,,33.575282,-117.2030913,,,w_104732029,shop=supermarket
+"Fallbrook, CA",,retail,452319,Dollar Tree,"40565 California Oaks Road, Murrieta, CA, 92562",,https://www.dollartree.com/locations/ca/murrieta/2326/,33.5746052,-117.2035709,,,w_104732035,"shop=variety_store, brand=Dollar Tree"
+"Fallbrook, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/murrieta/8515/,33.5999088,-117.1768948,,,w_104904926,"shop=variety_store, brand=Dollar Tree"
+"Fallbrook, CA",,retail,445110,Lake Elsinore Market,,,,33.6570566,-117.3757891,,,w_104936600,shop=supermarket
+"Fallbrook, CA",,retail,445310,BevMo!,24390 Village Walk Place,,,33.5681114,-117.213651,,,w_106912519,"shop=alcohol, brand=BevMo!"
+"Fallbrook, CA",,retail,445120,7-Eleven,"40981 California Oaks Road, Murrieta, CA, 92562-5748",+1 951-696-8291,https://www.7-eleven.com/locations/ca/murrieta/40981-california-oaks-rd-39498,33.567928,-117.2067377,,,w_106940575,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,Circle K,,,,33.4752688,-117.1281125,,,w_107476657,"shop=convenience, brand=Circle K"
+"Fallbrook, CA",,retail,445110,Smart & Final,25060 Madison Avenue,,,33.5586535,-117.1998536,,,w_108260268,"shop=supermarket, brand=Smart & Final"
+"Fallbrook, CA",,retail,452210,TJ Maxx,,,,33.682905,-117.1724048,,,w_108692924,"shop=department_store, brand=TJ Maxx"
+"Fallbrook, CA",,retail,452210,Kohl's,"30252 Haun Road, Menifee, CA, 92584",+1 951-301-9605,https://www.kohls.com/stores/ca/menifee-1282.shtml,33.6818382,-117.1722419,,,w_108692927,"shop=department_store, brand=Kohl's"
+"Fallbrook, CA",,retail,452210,Target,"30340 Haun Road, Menifee, CA, 92584-6806",+1 951-723-6151,https://www.target.com/sl/menifee/2471,33.680334,-117.1722311,,,w_108692929,"shop=department_store, brand=Target"
+"Fallbrook, CA",,retail,445120,,,,,33.59222,-117.1239142,,,w_108781532,shop=convenience
+"Fallbrook, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/winchester-ca-pharmacies/30736-benton-rd-winchester-ca-92596/storeid=8848,33.5914594,-117.1223625,,,w_108781536,"shop=chemist, brand=CVS Pharmacy"
+"Fallbrook, CA",,retail,445120,ampm,,,,33.5948624,-117.2470947,,,w_112118758,"shop=convenience, brand=ampm"
+"Fallbrook, CA",,retail,445110,Stater Bros.,"36010 Hidden Springs Road, Wildomar, CA, 92595",+1 951-678-3191,https://www.staterbros.com/stores/174,33.597239,-117.2477823,,,w_112118769,"shop=supermarket, brand=Stater Bros."
+"Fallbrook, CA",,retail,445120,Shell Select,23805 Clinton Keith Road,,,33.5961718,-117.2433322,,,w_112118998,"shop=convenience, brand=Shell Select"
+"Fallbrook, CA",,retail,445120,ExtraMile,"23905 Catt Road, Wildomar, CA, 92595",,,33.5975658,-117.2433992,,,w_112119159,"shop=convenience, brand=ExtraMile"
+"Fallbrook, CA",,retail,452210,Big Lots,"25260 Madison Avenue, Murrieta, CA, 92562",+1 951-698-1417,https://local.biglots.com/ca/murrieta/25260-madison-ave,33.5559334,-117.1963879,,,w_112261226,"shop=department_store, brand=Big Lots"
+"Fallbrook, CA",,retail,446110,Walgreens,40420 Murrieta Hot Springs Road,,https://www.walgreens.com/locator/walgreens-40420+murrieta+hot+springs+rd-murrieta-ca-92563/id=1995,33.5557471,-117.1769051,,,w_112263196,"shop=chemist, brand=Walgreens"
+"Fallbrook, CA",,retail,445120,Shell Select,40452 Murrieta Hot Springs Road,,,33.5556969,-117.1780533,,,w_112263197,"shop=convenience, brand=Shell Select"
+"Fallbrook, CA",,retail,445110,Trader Joe's,40388 Murrieta Hot Springs Road,,https://locations.traderjoes.com/ca/murrieta/258/,33.5539161,-117.1759818,,,w_112264176,"shop=supermarket, brand=Trader Joe's"
+"Fallbrook, CA",,retail,445310,,,,,33.5276652,-117.0656569,,,w_112648064,shop=wine
+"Fallbrook, CA",,retail,445310,Baily Winery,,,,33.5232184,-117.0825659,,,w_112648079,shop=wine
+"Fallbrook, CA",,retail,445110,Albertsons,"1571 San Elijo Road, San Marcos, CA, 92078",+1 760-798-1058,https://local.albertsons.com/ca/san-marcos/1571-san-elijo-rd-s.html,33.0969248,-117.1996228,,,w_114639398,"shop=supermarket, brand=Albertsons"
+"Fallbrook, CA",,retail,452319,Dollar Tree,"1349 East Pennsylvania Avenue, Escondido, 92027",,https://www.dollartree.com/locations/ca/escondido/2982/,33.1310352,-117.0631439,,,w_116434031,"shop=variety_store, brand=Dollar Tree"
+"Fallbrook, CA",,retail,445110,Vallarta,1315 East Valley Parkway,,http://www.vallartasupermarket.com/,33.1304669,-117.0641916,,,w_116434038,"shop=supermarket, brand=Vallarta"
+"Fallbrook, CA",,retail,445110,Trader Joe's,"2629 Gateway Road, Carlsbad, CA, 92009",+1 760-603-8473,https://locations.traderjoes.com/ca/carlsbad/220/,33.1266646,-117.2546645,,,w_118264615,"shop=supermarket, brand=Trader Joe's"
+"Fallbrook, CA",,retail,445110,Stater Bros.,"2687 Gateway Road, Carlsbad, CA, 92009",+1 760-929-7900,https://www.staterbros.com/stores/186,33.1265259,-117.2516498,,,w_118264616,"shop=supermarket, brand=Stater Bros."
+"Fallbrook, CA",,retail,445110,Albertsons,"30901 Riverside Drive, Lake Elsinore, CA, 92530",+1 951-245-4461,https://local.albertsons.com/ca/lake-elsinore/30901-riverside-dr.html,33.686074,-117.3670048,,,w_118778627,"shop=supermarket, brand=Albertsons"
+"Fallbrook, CA",,retail,445110,Stater Bros.,"635 North Broadway, Escondido, 92025",,https://www.staterbros.com/,33.1276073,-117.0861146,,,w_119402587,"shop=supermarket, brand=Stater Bros."
+"Fallbrook, CA",,retail,445110,Northgate Market,606 Escondido Bl,,http://www.northgatemarkets.com/,33.1266289,-117.0865149,,,w_119402594,shop=supermarket
+"Fallbrook, CA",,retail,452319,Dollar Tree,"628 North Escondido Boulevard, Escondido, 92025",,https://www.dollartree.com/locations/ca/escondido/2324/,33.127502,-117.087379,,,w_119402616,"shop=variety_store, brand=Dollar Tree"
+"Fallbrook, CA",,retail,445120,ampm,,,,33.1258491,-117.0884099,,,w_119510714,"shop=convenience, brand=ampm"
+"Fallbrook, CA",,retail,445310,Juice Bar,,,,33.507533,-117.1470753,,,w_119971976,shop=beverages
+"Fallbrook, CA",,retail,445230,,,,,33.4784718,-117.1013449,,,w_119980286,"shop=greengrocer, operator=Stater Bros."
+"Fallbrook, CA",,retail,445210,,,,,33.4780025,-117.1015885,,,w_119980289,"shop=butcher, operator=Stater Bros."
+"Fallbrook, CA",,retail,445310,,,,,33.4780969,-117.1017451,,,w_119980291,"shop=alcohol, operator=Stater Bros."
+"Fallbrook, CA",,retail,452319,,,,,33.4782448,-117.1016458,,,w_119980666,"shop=general, operator=Stater Bros."
+"Fallbrook, CA",,retail,445110,,,,,33.4782028,-117.1013875,,,w_119980668,"shop=supermarket, operator=Stater Bros."
+"Fallbrook, CA",,retail,445110,Stater Bros.,"31813 Temecula Parkway, Temecula, CA, 92592",+1 951-303-1244,https://www.staterbros.com/stores/138,33.4783244,-117.1015101,,,w_119980687,"shop=supermarket, brand=Stater Bros."
+"Fallbrook, CA",,retail,446120,Regal Nails,,,,33.4806537,-117.0945239,,,w_120078796,"shop=beauty, brand=Regal Nails"
+"Fallbrook, CA",,retail,445110,Walmart Supercenter,"32225 Temecula Parkway, Temecula, CA, 92592",+1 951-506-7613,https://www.walmart.com/store/2708-temecula-ca,33.4801997,-117.0943595,,,w_120079321,"shop=supermarket, brand=Walmart, operator=Wal-Mart"
+"Fallbrook, CA",,retail,452319,,,,,33.4799123,-117.0941488,,,w_120081022,"shop=general, operator=Wal-Mart"
+"Fallbrook, CA",,retail,445230,,,,,33.4805777,-117.0938951,,,w_120081023,"shop=greengrocer, operator=Wal-Mart"
+"Fallbrook, CA",,retail,452210,Ross,"39845 Alta Murrieta Drive, Murrieta, CA, 92563",+1 951-698-5533,,33.5607329,-117.1798543,,,w_120759719,"shop=department_store, brand=Ross"
+"Fallbrook, CA",,retail,446120,,,,,33.4855851,-117.0767152,,,w_121005211,shop=beauty
+"Fallbrook, CA",,retail,445110,Walmart Supercenter,"3405 Marron Road, Oceanside, CA, 92056",+1 760-730-1371,https://www.walmart.com/store/5075-oceanside-ca,33.1770631,-117.2977516,,,w_122350410,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Fallbrook, CA",,retail,445120,ExtraMile,,,,33.1788318,-117.2947162,,,w_122350986,"shop=convenience, brand=ExtraMile"
+"Fallbrook, CA",,retail,445120,ampm,"1501 North Melrose Drive, Oceanside, CA, 92056",,,33.2201048,-117.259321,,,w_122351535,"shop=convenience, brand=ampm"
+"Fallbrook, CA",,retail,452210,Target,"29676 Rancho California Road, Temecula, CA, 92591-5283",+1 951-676-2668,https://www.target.com/sl/rancho-california/359,33.5068591,-117.1459364,,,w_122475222,"shop=department_store, brand=Target"
+"Fallbrook, CA",,retail,445120,Country Store,,,,33.6759857,-117.1374318,,,w_124287743,shop=convenience
+"Fallbrook, CA",,retail,445120,,"400 Sycamore Avenue, Vista, CA, 92083",,,33.1675981,-117.2132988,,,w_126861270,shop=convenience
+"Fallbrook, CA",,retail,446110,Walgreens,310 Sycamore Avenue,,https://www.walgreens.com/locator/walgreens-310+sycamore+ave-vista-ca-92083/id=9389,33.1689748,-117.2119825,,,w_126861276,"shop=chemist, brand=Walgreens"
+"Fallbrook, CA",,retail,452319,Dollar Tree,,,https://locations.99only.com/ca/temecula/discount-store-334.html,33.5332684,-117.1517536,,,w_127570995,"shop=variety_store, brand=Dollar Tree"
+"Fallbrook, CA",,retail,445310,Ferrara Winery,"1120 West 15th Avenue, Escondido, 92025",,http://www.ferrarawinery.com/,33.102631,-117.0867652,,,w_129846752,"shop=wine, amenity=bar"
+"Fallbrook, CA",,retail,445110,Vons,"985 Tamarack Avenue, Carlsbad, CA, 92008",+1 760-729-4722,https://local.vons.com/ca/carlsbad/985-tamarack-ave.html,33.1522641,-117.3339653,,,w_130005377,"shop=supermarket, brand=Vons"
+"Fallbrook, CA",,retail,445110,Vons,"2560 El Camino Real, Oceanside, CA, 92008",+1 760-729-2771,https://local.vons.com/ca/carlsbad/2560-el-camino-real.html,33.178714,-117.3247382,,,w_130005518,"shop=supermarket, brand=Vons"
+"Fallbrook, CA",,retail,445110,Vons,"6951 Alga Road, Carlsbad, CA, 92009",+1 760-431-0157,https://local.vons.com/ca/carlsbad/6951-el-camino-real.html,33.103426,-117.2686781,,,w_130005926,"shop=supermarket, brand=Vons"
+"Fallbrook, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/temecula/4730/,33.4776667,-117.1043184,,,w_130598818,"shop=variety_store, brand=Dollar Tree"
+"Fallbrook, CA",,retail,446120,iTan,,,,33.4809345,-117.0969209,,,w_130608593,shop=beauty
+"Fallbrook, CA",,retail,445110,Vons,"262 North El Camino Real, Encinitas, CA, 92024",+1 760-942-4044,https://local.vons.com/ca/encinitas/262-n-el-camino-real.html,33.0511726,-117.2621357,,,w_131287998,"shop=supermarket, brand=Vons"
+"Fallbrook, CA",,retail,445110,Vons,"453 Santa Fe Drive, Encinitas, CA, 92024",+1-760-633-9770,https://local.vons.com/ca/encinitas/453-santa-fe-dr.html,33.0347943,-117.282757,,,w_131288837,"shop=supermarket, brand=Vons"
+"Fallbrook, CA",,retail,445110,Vons,"330 West El Norte Parkway, Escondido, CA, 92026",+1 760-741-0928,https://local.vons.com/ca/escondido/330-w-el-norte-pkwy.html,33.1434628,-117.0940269,,,w_131288947,"shop=supermarket, brand=Vons"
+"Fallbrook, CA",,retail,445110,Vons,"2345 East Valley Parkway, Escondido, CA, 92027",+1 760-489-5950,https://local.vons.com/ca/escondido/2345-e-valley-pkwy.html,33.1391375,-117.044499,,,w_131289414,"shop=supermarket, brand=Vons"
+"Fallbrook, CA",,retail,445110,Vons,"351 West Felicita Avenue, Escondido, CA, 92025",+1 760-743-8860,https://local.vons.com/ca/escondido/351-w-felicita-ave.html,33.103077,-117.0731449,,,w_131289551,"shop=supermarket, brand=Vons"
+"Fallbrook, CA",,retail,445110,Vons,"1000 West El Norte Parkway, Escondido, CA, 92027",+1 760-747-5920,https://local.vons.com/ca/escondido/1000-w-el-norte-pkwy.html,33.1486888,-117.1063965,,,w_131289654,"shop=supermarket, brand=Vons"
+"Fallbrook, CA",,retail,445120,Kwik Stop,,,,33.1361795,-117.0709636,,,w_131838713,"shop=convenience, amenity=fuel"
+"Fallbrook, CA",,retail,445110,Vons,"38995 Sky Canyon Drive, Murrieta, CA, 92563",+1 951-600-9583,https://local.vons.com/ca/murrieta/38995-sky-canyon-dr.html,33.5542735,-117.1385704,,,w_132686785,"shop=supermarket, brand=Vons"
+"Fallbrook, CA",,retail,445110,Vons,"845 College Boulevard, Oceanside, CA, 92057",+1 760-630-4884,https://local.vons.com/ca/oceanside/845-college-blvd.html,33.2407601,-117.2947782,,,w_132687581,"shop=supermarket, brand=Vons"
+"Fallbrook, CA",,retail,445110,ALDI,"671 South Rancho Santa Fe Road, San Marcos, CA, 92078",+1 844-479-7060,https://stores.aldi.us/ca/san-marcos/671-s-rancho-santa-fe-road,33.1322422,-117.2053556,,,w_133111681,"shop=supermarket, brand=ALDI"
+"Fallbrook, CA",,retail,445110,Vons,"27220 Sun City Boulevard, Sun City, CA, 92586",+1 951-679-0127,https://local.vons.com/ca/sun-city/27220-sun-city-blvd.html,33.7127958,-117.1931381,,,w_133439846,"shop=supermarket, brand=Vons"
+"Fallbrook, CA",,retail,445110,Vons,"29530 Rancho California Road, Temecula, CA, 92591",+1 951-695-6773,https://local.vons.com/ca/temecula/29530-rancho-california-rd.html,33.5052095,-117.1479007,,,w_133440185,"shop=supermarket, brand=Vons"
+"Fallbrook, CA",,retail,445110,Vons,"940 South Santa Fe Avenue, 92083",,https://local.vons.com/ca/vista-2121.html,33.1942273,-117.2325704,,,w_133790383,"shop=supermarket, brand=Vons"
+"Fallbrook, CA",,retail,452210,Ross,"32155 Temecula Parkway, Temecula, CA, 92592",+1 951-303-3028,,33.4793869,-117.0967961,,,w_137918366,"shop=department_store, brand=Ross"
+"Fallbrook, CA",,retail,452210,Marshalls,,,,33.4795754,-117.0963294,,,w_137918492,"shop=department_store, brand=Marshalls"
+"Fallbrook, CA",,retail,446110,CVS Pharmacy,"1655 South Centre City Parkway, Escondido, CA, 92025",,https://www.cvs.com/store-locator/escondido-ca-pharmacies/1655-s-centre-city-pkwy-escondido-ca-92025/storeid=9108,33.103516,-117.0770761,,,w_139195767,"shop=chemist, brand=CVS Pharmacy"
+"Fallbrook, CA",,retail,445110,Jimbo's Naturally,"1633 South Centre City Parkway, Escondido, CA, 92025",,https://www.jimbos.com/,33.1042084,-117.0775776,,,w_139195771,shop=supermarket
+"Fallbrook, CA",,retail,445110,Sprouts Farmers Market,"32413 Highway 79 South, Temecula, CA, 92592",+1 951-303-0087,https://www.sprouts.com/store/ca/temecula/hwy-79-south/,33.4808551,-117.0917949,,,w_139326447,"shop=supermarket, brand=Sprouts Farmers Market"
+"Fallbrook, CA",,retail,445120,7-Eleven,32060 Clinton Keith Road,,https://www.7-eleven.com/locations/ca/wildomar/32060-clinton-keith-rd-33595,33.5938091,-117.2470066,,,w_140949392,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445310,Holiday Wine Cellar,"302 West Mission Avenue, Escondido, 92025",,https://www.holidaywinecellar.com/,33.1294464,-117.0899187,,,w_141724226,shop=alcohol
+"Fallbrook, CA",,retail,445120,7-Eleven,"850 West Mission Avenue, Escondido, CA, 92025",+1 760-743-0322,https://www.7-eleven.com/locations/ca/escondido/850-west-mission-avenue-21793,33.1270049,-117.0972878,,,w_142341536,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,Circle K,,,,33.4787042,-117.1376458,,,w_142866030,"shop=convenience, brand=Circle K"
+"Fallbrook, CA",,retail,445120,Food Mart,,,,33.4820956,-117.1431606,,,w_142872802,"shop=convenience, operator=Shell"
+"Fallbrook, CA",,retail,445120,Food Mart,,,,33.4542325,-117.1014316,,,w_145219011,"shop=convenience, brand=Pechanga"
+"Fallbrook, CA",,retail,445120,ampm,,,,33.1168796,-117.0959557,,,w_145814014,"shop=convenience, brand=ampm"
+"Fallbrook, CA",,retail,446120,Professional Nail,,,,33.4803003,-117.0997282,,,w_148535933,shop=beauty
+"Fallbrook, CA",,retail,446110,CVS Pharmacy,"10560 4S Commons Drive, San Diego, CA, 92127",,https://www.cvs.com/store-locator/san-diego-ca-pharmacies/10560-4s-commons-dr-san-diego-ca-92127/storeid=9131,33.01899,-117.1108102,,,w_155738434,"shop=chemist, brand=CVS Pharmacy"
+"Fallbrook, CA",,retail,452210,Ross,40438 Winchester Road,,,33.5294564,-117.150748,,,w_165130434,"shop=department_store, brand=Ross"
+"Fallbrook, CA",,retail,445110,Roots,40458 Winchester Road,,,33.5279936,-117.1500933,,,w_165130551,shop=supermarket
+"Fallbrook, CA",,retail,453991,Smoke Shop,,,,33.4779958,-117.1043991,,,w_165474698,shop=tobacco
+"Fallbrook, CA",,retail,446120,Pro Happy Nails & Spa,,951-303-3655,,33.4823996,-117.0896816,,,w_165556238,shop=beauty
+"Fallbrook, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/temecula-ca-pharmacies/30640-rancho-california-rd-temecula-ca-92591/storeid=9920,33.5100937,-117.1256092,,,w_165557241,"shop=chemist, brand=CVS Pharmacy"
+"Fallbrook, CA",,retail,445120,Circle K,,,,33.1288748,-117.0888055,,,w_171440577,"shop=convenience, brand=Circle K"
+"Fallbrook, CA",,retail,445120,Ash & Washington Liquor,,,,33.1333226,-117.0683712,,,w_172202928,shop=convenience
+"Fallbrook, CA",,retail,445120,Shell,,,,33.0680582,-117.0670697,,,w_172472695,"shop=convenience, brand=Shell"
+"Fallbrook, CA",,retail,445230,Rancho Fruit Market,,,,33.4931049,-117.1481122,,,w_179343618,shop=greengrocer
+"Fallbrook, CA",,retail,445120,7-Eleven,"1177 North Escondido Blvd;Decatur Way, Escondido, 92026",,https://www.7-eleven.com/locations/ca/escondido/1177-n-escondido-blvd-27524,33.1356528,-117.0925703,,,w_182775447,"shop=convenience, brand=7-Eleven, operator=7-Eleven"
+"Fallbrook, CA",,retail,445110,Albertsons,"4150 Oceanside Boulevard, Oceanside, CA, 92056",+1-760-940-8282,https://local.albertsons.com/ca/oceanside/4150-oceanside-blvd.html,33.2078023,-117.2873864,,,w_184255041,"shop=supermarket, brand=Albertsons"
+"Fallbrook, CA",,retail,445120,7-Eleven,692 West San Marcos Boulevard,,https://www.7-eleven.com/locations/ca/san-marcos/696-w-san-marcos-blvd-33971,33.1375755,-117.1788242,,,w_189986825,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,Cstop,,,,33.115923,-117.0839198,,,w_200495981,"shop=convenience, amenity=fuel"
+"Fallbrook, CA",,retail,445210,,,,,33.521154,-117.1537443,,,w_201214534,"shop=butcher, operator=Costco"
+"Fallbrook, CA",,retail,445310,,,,,33.534233,-117.0752962,,,w_204487932,shop=wine
+"Fallbrook, CA",,retail,445230,Lazy Acres Natural Market,,,,33.0501299,-117.2889384,,,w_212578042,shop=greengrocer
+"Fallbrook, CA",,retail,445310,BevMo!,"212 North El Camino Real, Encinitas, 92024",760-943-6631,https://www.bevmo.com/Misc/StoreDetail.aspx?sid=16,33.0489286,-117.2617783,,,w_225853642,"shop=alcohol, brand=BevMo!, operator=BevMo!"
+"Fallbrook, CA",,retail,452319,Dollar Tree,"218 North El Camino Real, Encinitas, 92024",760-632-1569,https://www.dollartree.com/locations/ca/encinitas/4162/,33.0498353,-117.2620352,,,w_225853644,"shop=variety_store, brand=Dollar Tree, operator=Dollar Tree, Inc."
+"Fallbrook, CA",,retail,446120,MedSpa xl,"208 North El Camino Real, Encinitas, 92024",760-753-2050,medspaxl.com,33.0489251,-117.2611286,,,w_225853650,shop=beauty
+"Fallbrook, CA",,retail,445120,,,,,33.0498127,-117.2608623,,,w_225853733,shop=convenience
+"Fallbrook, CA",,retail,445120,,,,,33.0114072,-117.2632276,,,w_229569233,shop=convenience
+"Fallbrook, CA",,retail,445110,Ralphs,"125 North El Camino Real, Encinitas, CA, 92024",+1 760-942-5472,https://www.ralphs.com/stores/grocery/ca/encinitas/encinitas-village-square/703/00168,33.0482437,-117.2569697,,,w_232293172,"shop=supermarket, brand=Ralphs"
+"Fallbrook, CA",,retail,445120,Food Mart,"1296 West Valley Parkway, Escondido, 92029",,,33.1144606,-117.1015058,,,w_264712219,shop=convenience
+"Fallbrook, CA",,retail,445120,ampm,,,,33.6407944,-117.1675402,,,w_270493384,"shop=convenience, brand=ampm"
+"Fallbrook, CA",,retail,445110,Albertsons,"28047 Scott Road, Murrieta, CA, 92563",+1 951-246-1586,https://local.albertsons.com/ca/murrieta/28047-scott-rd.html,33.6393115,-117.1697926,,,w_270493388,"shop=supermarket, brand=Albertsons"
+"Fallbrook, CA",,retail,445120,,,,,33.6411011,-117.1688048,,,w_270493389,shop=convenience
+"Fallbrook, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-33060+antelope+rd-murrieta-ca-92563/id=10948,33.6409365,-117.1669397,,,w_270493393,"shop=chemist, brand=Walgreens"
+"Fallbrook, CA",,retail,445292,See's Candies,26483 Ynez Road,,,33.5221152,-117.1579499,,,w_273632366,"shop=confectionery, brand=See's Candies"
+"Fallbrook, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/temecula/4294/,33.5200321,-117.1599592,,,w_273632690,"shop=variety_store, brand=Dollar Tree"
+"Fallbrook, CA",,retail,445110,Food 4 Less,,,,33.5228401,-117.1607963,,,w_273632796,"shop=supermarket, brand=Food 4 Less"
+"Fallbrook, CA",,retail,452210,TJ Maxx,,,,33.5222387,-117.1607882,,,w_273632797,"shop=department_store, brand=TJ Maxx"
+"Fallbrook, CA",,retail,452210,Macy's Women’s,,,https://www.macys.com/stores/ca/temecula/promenade-temecula_535.html,33.5232731,-117.1541197,,,w_274205545,"shop=department_store, brand=Macy's"
+"Fallbrook, CA",,retail,452210,"Macy's Mens’, Kids’, & Household",,,,33.5242564,-117.1558731,,,w_274205546,"shop=department_store, brand=Macy's"
+"Fallbrook, CA",,retail,452210,JCPenney,,,,33.5254167,-117.1546129,,,w_274437309,"shop=department_store, brand=JCPenney"
+"Fallbrook, CA",,retail,445120,Circle K,,,,33.6857377,-117.176118,,,w_281240034,"shop=convenience, brand=Circle K"
+"Fallbrook, CA",,retail,445110,Lopez Market,,,,33.4982611,-117.1530719,,,w_283644062,shop=supermarket
+"Fallbrook, CA",,retail,445120,Rancho Liquor,,,,33.4974518,-117.1527215,,,w_283644064,shop=convenience
+"Fallbrook, CA",,retail,453110,Beach City Florist,"1109 South El Camino Real, San Clemente, 92672",+1 949 302 8516,,33.4208444,-117.6076402,,,w_292693279,shop=florist
+"Fallbrook, CA",,retail,445110,Ralphs,"903 South El Camino Real, San Clemente, CA, 92672",+1 949-361-8729,https://www.ralphs.com/stores/grocery/ca/san-clemente/s-san-clemente/703/00221,33.4228409,-117.6086557,,,w_292693283,"shop=supermarket, brand=Ralphs"
+"Fallbrook, CA",,retail,445120,Rocket,"795 South El Camino Real, San Clemente, CA, 92672",,,33.4234717,-117.6091131,,,w_292693287,"shop=convenience, brand=Rocket"
+"Fallbrook, CA",,retail,452210,Big Lots,"27411 Ynez Road, Temecula, CA, 92591",+1 951-506-1092,https://local.biglots.com/ca/temecula/27411-ynez-rd,33.5056657,-117.1524645,,,w_302131932,"shop=department_store, brand=Big Lots"
+"Fallbrook, CA",,retail,445110,88 Ranch Marketplace,,,,33.5048632,-117.1520909,,,w_302131935,shop=supermarket
+"Fallbrook, CA",,retail,445110,Albertsons,"30530 Rancho California Road, Temecula, CA, 92591",+1 951-694-0244,https://local.albertsons.com/ca/temecula/30530-rancho-california-rd.html,33.5101411,-117.127211,,,w_312523091,"shop=supermarket, brand=Albertsons"
+"Fallbrook, CA",,retail,445120,,,,,33.0490636,-117.2888942,,,w_313038440,shop=convenience
+"Fallbrook, CA",,retail,445120,7-Eleven,,,,33.5069109,-117.1433022,,,w_314939376,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,ampm,,,,33.7064943,-117.3591075,,,w_318116963,"shop=convenience, brand=ampm, operator=Arco"
+"Fallbrook, CA",,retail,445110,Sprouts Farmers Market,"39606 Winchester Road, Temecula, CA, 92591",+1 951-694-3680,https://www.sprouts.com/store/ca/temecula/rancho-temecula/,33.5413623,-117.1424899,,,w_368995231,"shop=supermarket, brand=Sprouts Farmers Market"
+"Fallbrook, CA",,retail,446110,CVS Pharmacy,"479 Encinitas Boulevard, Encinitas, 92024",,https://www.cvs.com/store-locator/encinitas-ca-pharmacies/455-encinitas-blvd-encinitas-ca-92024/storeid=9181,33.0462773,-117.2831971,,,w_371530437,"shop=chemist, brand=CVS Pharmacy"
+"Fallbrook, CA",,retail,445120,Primo Food Mart,"1535 West Vista Way, Vista, CA, 92083",,,33.1912473,-117.2739709,,,w_382835358,shop=convenience
+"Fallbrook, CA",,retail,445310,Fred's Market Liquor,"220 South Ola Vista, San Clemente, 92672",,,33.4251158,-117.614058,,,w_384546654,shop=alcohol
+"Fallbrook, CA",,retail,445120,7-Eleven,"502 North El Camino Real, San Clemente, CA, 92672",+1 949-498-5970,https://www.7-eleven.com/locations/ca/san-clemente/502-n-el-camino-real-13788,33.4294484,-117.6157579,,,w_386243415,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,446120,Skinthetix,"542 North El Camino Real, San Clemente, 92672",,,33.4298073,-117.6169448,,,w_386243428,shop=beauty
+"Fallbrook, CA",,retail,453991,Inner Limits Smoke Shop,"508 North El Camino Real, San Clemente, 92672",,,33.429545,-117.615865,,,w_386243429,shop=tobacco
+"Fallbrook, CA",,retail,445310,Victoria Market & Liquor,"230 South Ola Vista, San Clemente, 92672",,,33.4247517,-117.613668,,,w_386272586,shop=alcohol
+"Fallbrook, CA",,retail,446120,Salon Real,"424 North El Camino Real, San Clemente, 92672",,,33.4294184,-117.6149892,,,w_391477386,shop=beauty
+"Fallbrook, CA",,retail,445120,The Pier Grill & Tackle,,,,33.4179252,-117.6233051,,,w_391799647,"shop=convenience, amenity=fast_food"
+"Fallbrook, CA",,retail,445110,Jimbo's,,,,33.0721146,-117.2650298,,,w_391855558,shop=supermarket
+"Fallbrook, CA",,retail,445120,Circle K,"901 Avenida Pico, San Clemente, 92673",,,33.4521437,-117.6091792,,,w_394196723,"shop=convenience, brand=Circle K"
+"Fallbrook, CA",,retail,445120,Circle K,,,,33.4389877,-117.6208207,,,w_394196724,"shop=convenience, brand=Circle K"
+"Fallbrook, CA",,retail,445110,Albertsons,"804 Avenida Pico, San Clemente, CA, 92673",+1 949-492-1755,https://local.albertsons.com/ca/san-clemente/804-avenida-pico.html,33.4427528,-117.6139484,,,w_394242179,"shop=supermarket, brand=Albertsons"
+"Fallbrook, CA",,retail,452210,Walmart,"951 Avenida Pico, San Clemente, CA, 92673",+1 949-498-6669,https://www.walmart.com/store/2527-san-clemente-ca,33.4556803,-117.6062289,,,w_395695579,"shop=department_store, brand=Walmart, operator=Walmart"
+"Fallbrook, CA",,retail,445120,,,,,33.5639909,-117.2068588,,,w_401778820,shop=convenience
+"Fallbrook, CA",,retail,445120,ampm,,,,33.6273885,-117.2748461,,,w_401780091,"shop=convenience, brand=ampm"
+"Fallbrook, CA",,retail,445120,,,,,33.6844518,-117.1894284,,,w_401786505,shop=convenience
+"Fallbrook, CA",,retail,445120,ampm,,,,33.1659061,-117.2150518,,,w_401796638,"shop=convenience, brand=ampm"
+"Fallbrook, CA",,retail,445120,ampm,"1991 Palomar Airport Road, Carlsbad, CA, 92011",,,33.1193675,-117.2818623,,,w_401800333,"shop=convenience, brand=ampm"
+"Fallbrook, CA",,retail,445120,ExtraMile,,,,33.5188587,-117.1627285,,,w_401824025,"shop=convenience, brand=ExtraMile"
+"Fallbrook, CA",,retail,445120,ampm,"1187 West San Marcos Boulevard, San Marcos, CA, 92078",,,33.1330756,-117.1933935,,,w_401849672,"shop=convenience, brand=ampm"
+"Fallbrook, CA",,retail,445120,ampm,"1403 South Santa Fe Avenue, Vista, CA, 92083",,,33.1842668,-117.2233258,,,w_401855296,"shop=convenience, brand=ampm"
+"Fallbrook, CA",,retail,445120,ampm,"1244 North Santa Fe Avenue, Vista, CA, 92083",,,33.2170542,-117.2453527,,,w_401858901,"shop=convenience, brand=ampm"
+"Fallbrook, CA",,retail,445120,AMPM,"604 Douglas Drive, Oceanside, CA, 92058",,,33.243956,-117.3233509,,,w_401860854,shop=convenience
+"Fallbrook, CA",,retail,445110,Smart & Final,770 West San Marcos Boulevard,,,33.1372843,-117.1809582,,,w_401885241,"shop=supermarket, brand=Smart & Final"
+"Fallbrook, CA",,retail,445110,Stater Bros.,"1330 East Mission Road, San Marcos, CA, 92069",+1 760-741-5052,https://www.staterbros.com/stores/152,33.1368435,-117.1294944,,,w_402052882,"shop=supermarket, brand=Stater Bros."
+"Fallbrook, CA",,retail,445120,7-Eleven,"1062 West El Norte Parkway, Escondido, CA, 92026",+1 760-741-7600,https://www.7-eleven.com/locations/ca/escondido/1062-w-el-norte-pkwy-39651,33.1473816,-117.1073625,,,w_402058229,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,My Goods Market,,,,33.1467896,-117.1073957,,,w_402058778,shop=convenience
+"Fallbrook, CA",,retail,446110,CVS Pharmacy,"997 Woodland Parkway, San Marcos, CA, 92069",,https://www.cvs.com/store-locator/san-marcos-ca-pharmacies/997-woodland-pkwy-san-marcos-ca-92069/storeid=8818,33.1562944,-117.1288123,,,w_402128395,"shop=chemist, brand=CVS Pharmacy"
+"Fallbrook, CA",,retail,445310,Total Wine,"561 Grand Avenue, San Marcos, CA, 92078",+1 760-621-6127,https://www.totalwine.com/store-info/1137,33.1354026,-117.1756526,,,w_402144206,"shop=alcohol, brand=Total Wine"
+"Fallbrook, CA",,retail,445120,Rancho Santa Fe Food Mart,,,,33.1485119,-117.1986354,,,w_402160023,shop=convenience
+"Fallbrook, CA",,retail,446110,Rite Aid,"801 North El Camino Real, San Clemente, 92672",,https://www.riteaid.com/locations/ca/san-clemente/801-north-el-camino-real.html,33.4311447,-117.6189871,,,w_403392407,"shop=chemist, brand=Rite Aid"
+"Fallbrook, CA",,retail,452210,Target,"990 Avenida Vista Hermosa, San Clemente, CA, 92673",+1 949-456-8668,https://www.target.com/sl/san-clemente/2730,33.4637212,-117.6063721,,,w_403508424,"shop=department_store, brand=Target"
+"Fallbrook, CA",,retail,445120,,,,,33.2187669,-117.0341816,,,w_403668236,shop=convenience
+"Fallbrook, CA",,retail,445120,,"636 Sycamore Avenue, Vista, 92081",,,33.1665726,-117.2160962,,,w_404105450,shop=convenience
+"Fallbrook, CA",,retail,445120,,600 Hacienda Drive,,,33.1933523,-117.2541189,,,w_404141135,shop=convenience
+"Fallbrook, CA",,retail,445120,7-Eleven,3407 College Boulevard,,,33.1812085,-117.2968388,,,w_404150495,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,7-Eleven,"1089 Carlsbad Village Drive, Carlsbad, CA, 92008-1804",+1 760-729-0616,https://www.7-eleven.com/locations/ca/carlsbad/1089-carlsbad-village-dr-39310,33.1625802,-117.3426474,,,w_404151412,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,Food Mart,"1145 Carlsbad Village Drive, Carlsbad, CA, 92008",,,33.1633631,-117.3413125,,,w_404151507,shop=convenience
+"Fallbrook, CA",,retail,445120,ExtraMile,"1601 North Coast Highway, Oceanside, CA, 92054",,,33.2090374,-117.3872396,,,w_404159214,"shop=convenience, brand=ExtraMile"
+"Fallbrook, CA",,retail,445120,Shell,"2400 South El Camino Real, San Clemente, CA, 92672",,,33.4120684,-117.60099,,,w_404164733,"shop=convenience, amenity=fuel, brand=Shell"
+"Fallbrook, CA",,retail,445120,,"2400 South El Camino Real, San Clemente, CA, 92672",,,33.4122301,-117.6011298,,,w_404164734,shop=convenience
+"Fallbrook, CA",,retail,445120,Circle K,"4730 Pala Road, Fallbrook, CA",,,33.3287941,-117.1625423,,,w_404164740,"shop=convenience, brand=Circle K"
+"Fallbrook, CA",,retail,445120,Circle K,"7602 El Camino Real, Carlsbad, CA, 92009",,,33.0875716,-117.2685485,,,w_404268386,shop=convenience
+"Fallbrook, CA",,retail,445120,Chevron,,,,33.0999172,-117.3108902,,,w_404270904,"shop=convenience, brand=Chevron"
+"Fallbrook, CA",,retail,445120,Mobil Mart,"899 Palomar Airport Road, Carlsbad, CA, 92009",,,33.1215088,-117.3196277,,,w_404647143,"shop=convenience, brand=Mobil Mart"
+"Fallbrook, CA",,retail,445120,7-Eleven,"901 Palomar Airport Road, Carlsbad, 92011",,https://www.7-eleven.com/locations/ca/carlsbad/901-palomar-airport-rd-27109,33.1216182,-117.3185787,,,w_404647249,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,ExtraMile,"970 Tamarack Avenue, Carlsbad, CA, 92008",,,33.1532396,-117.3352355,,,w_404648241,"shop=convenience, brand=ExtraMile"
+"Fallbrook, CA",,retail,445120,San Clemente Ranch Market,"101 West el Portal, San Clemente, 92672",+1 949 498 7872,https://www.scranchmarket.com/,33.4303908,-117.6216208,,,w_404743644,shop=convenience
+"Fallbrook, CA",,retail,445110,Smart & Final,,,,33.1617106,-117.3433781,,,w_405143705,"shop=supermarket, brand=Smart & Final"
+"Fallbrook, CA",,retail,445120,Food Mart,"920 Carlsbad Village Drive, Carlsbad, CA, 92008",,,33.1623856,-117.3445343,,,w_405144051,shop=convenience
+"Fallbrook, CA",,retail,445310,Big Pig Liquor Store,"305 Carlsbad Village Drive, Carlsbad, CA, 92008",,,33.1582246,-117.3506986,,,w_405150155,shop=alcohol
+"Fallbrook, CA",,retail,445120,ExtraMile,"850 Palomar Airport Road, Carlsbad, CA, 92008",,,33.1223166,-117.3194828,,,w_405154621,"shop=convenience, brand=ExtraMile"
+"Fallbrook, CA",,retail,445120,7-Eleven,"1802 North El Camino Real, San Clemente, CA, 92672",+1 949-492-8488,https://www.7-eleven.com/locations/ca/san-clemente/1802-n-el-camino-real-16483,33.4325472,-117.6316464,,,w_405337702,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,ExtraMile,,,,33.4378011,-117.6239023,,,w_405373712,"shop=convenience, brand=ExtraMile"
+"Fallbrook, CA",,retail,445110,Hanson's Market,,,,33.4375261,-117.6240809,,,w_405373713,shop=supermarket
+"Fallbrook, CA",,retail,452210,Kohl's,"134 North El Camino Real, Encinitas, CA, 92024",+1 760-633-3326,https://www.kohls.com/stores/ca/encinitas-1415.shtml,33.0473841,-117.2608839,,,w_405950741,"shop=department_store, brand=Kohl's"
+"Fallbrook, CA",,retail,445120,Kristi's Korner Country Store,,,,33.6463114,-117.4175038,,,w_422854500,shop=convenience
+"Fallbrook, CA",,retail,445120,Lea's Mini Mart,,,,33.6444969,-117.3545248,,,w_430078467,shop=convenience
+"Fallbrook, CA",,retail,445120,Valley Mart Deli,,,,33.6162862,-117.3070836,,,w_430109854,shop=convenience
+"Fallbrook, CA",,retail,452210,Target,"2267 South El Camino Real, Oceanside, CA, 92054",+1 760-967-8335,https://www.target.com/sl/oceanside/303,33.1841818,-117.3303115,,,w_448848383,"shop=department_store, brand=Target"
+"Fallbrook, CA",,retail,445110,Stater Bros.,2170 Vista Way,,,33.182943,-117.3424427,,,w_450137346,"shop=supermarket, brand=Stater Bros."
+"Fallbrook, CA",,retail,445120,Shell,2315 Vista Way,,,33.1816494,-117.3376339,,,w_450137747,"shop=convenience, brand=Shell"
+"Fallbrook, CA",,retail,445110,Walmart Supercenter,"2100 Vista Way, Oceanside, CA, 92054",+1 760-966-0026,https://www.walmart.com/store/2494-oceanside-ca,33.1813509,-117.3473062,,,w_450284493,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Fallbrook, CA",,retail,445120,Marine Corps Exchange,,,,33.2287402,-117.3904196,,,w_451092159,shop=convenience
+"Fallbrook, CA",,retail,445120,Marine Corps Exchange,,,,33.2240658,-117.3952605,,,w_451117139,shop=convenience
+"Fallbrook, CA",,retail,445310,,"1430 Vantage Court, Vista, 92081",,,33.1360476,-117.2248398,,,w_452022526,shop=beverages
+"Fallbrook, CA",,retail,445120,Mobile Mart,,,,33.0486774,-117.2849633,,,w_457800515,shop=convenience
+"Fallbrook, CA",,retail,445310,Normand's Liquor,"1618 North El Camino Real, San Clemente, 92672",,,33.432368,-117.6286267,,,w_460975747,shop=alcohol
+"Fallbrook, CA",,retail,445110,Vons,"3439 Via Montebello, Carlsbad, CA, 92009",+1 760-633-0114,https://local.vons.com/ca/carlsbad/3439-via-montebello.html,33.0814446,-117.2320412,,,w_464745324,"shop=supermarket, brand=Vons"
+"Fallbrook, CA",,retail,445110,Stater Bros.,"1048 North El Camino Real, Encinitas, CA, 92024",+1 760-943-7738,https://www.staterbros.com/stores/158,33.0669525,-117.2666104,,,w_474091349,"shop=supermarket, brand=Stater Bros."
+"Fallbrook, CA",,retail,445120,,,,,33.418369,-117.604027,,,w_475153037,shop=convenience
+"Fallbrook, CA",,retail,445120,76,,,,33.1815531,-117.2968173,,,w_480326186,"shop=convenience, brand=76"
+"Fallbrook, CA",,retail,445120,ExtraMile,,,,33.1906078,-117.2802335,,,w_484805408,"shop=convenience, brand=ExtraMile"
+"Fallbrook, CA",,retail,445110,,"2801 South El Camino Real, San Clemente, CA, 92672",(949) 218-1906,,33.4051855,-117.5973875,,,w_485034851,shop=supermarket
+"Fallbrook, CA",,retail,445310,Total Wine,"1018 North El Camino Real, Encinitas, CA, 92024",,,33.0633253,-117.2662528,,,w_485614219,"shop=alcohol, brand=Total Wine"
+"Fallbrook, CA",,retail,446120,Top Knot,"3043 Harding Street, Carlsbad, 92008",,,33.1613307,-117.3444299,,,w_498120847,shop=beauty
+"Fallbrook, CA",,retail,453110,Hey Flower Man,"2729 Carlsbad Boulevard, Carlsbad, CA, 92008",,,33.1606017,-117.3532521,,,w_501550012,shop=florist
+"Fallbrook, CA",,retail,445120,7-Eleven,"1693 Melrose Drive, San Marcos, CA, 92078",+1 760-591-0182,https://www.7-eleven.com/locations/ca/san-marcos/1693-melrose-dr-33990,33.1067869,-117.2217817,,,w_512173200,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,Circle K,,,,33.626251,-117.2704955,,,w_514661952,"shop=convenience, brand=Circle K"
+"Fallbrook, CA",,retail,445110,Ralphs,"7140 Avenida Encinas, Carlsbad, CA, 92011",+1 760-431-1060,https://www.ralphs.com/stores/grocery/ca/carlsbad/poinsettia-village/703/00175,33.1011716,-117.3104869,,,w_530724617,"shop=supermarket, brand=Ralphs"
+"Fallbrook, CA",,retail,445110,Target,"17170 Camino Del Sur, San Diego, CA, 92127-4166",+1 858-227-3918,https://www.target.com/sl/san-diego-del-sur/2855,33.0195482,-117.1253242,,,w_531739220,"shop=supermarket, brand=Target"
+"Fallbrook, CA",,retail,445120,,,,,33.1343801,-117.3307707,,,w_544462183,shop=convenience
+"Fallbrook, CA",,retail,445110,Baron's,,,,33.5907188,-117.2498025,,,w_546661979,shop=supermarket
+"Fallbrook, CA",,retail,446110,Rite Aid,,,https://www.riteaid.com/locations/ca/wildomar/32450-clinton-keith-road.html,33.5896005,-117.2511665,,,w_546662790,"shop=chemist, brand=Rite Aid"
+"Fallbrook, CA",,retail,452210,Walmart,"1266 East Valley Parkway, Escondido, CA, 92027",+1 760-871-6760,https://www.walmart.com/store/5996-escondido-ca,33.1302126,-117.0629795,,,w_553191095,"shop=department_store, brand=Walmart, operator=Walmart"
+"Fallbrook, CA",,retail,452319,99 Cents Only Stores,"155 South Rancho Santa Fe Road, San Marcos, 92078",,https://locations.99only.com/ca/sanmarcos/discount-store-307.html,33.147017,-117.198792,,,w_576277142,"shop=variety_store, brand=99 Cents Only Stores"
+"Fallbrook, CA",,retail,452319,99 Cents Only Stores,1006 Mission Avenue,,https://locations.99only.com/ca/oceanside/discount-store-95.html,33.1998118,-117.3753464,,,w_576285226,"shop=variety_store, brand=99 Cents Only Stores"
+"Fallbrook, CA",,retail,452319,99 Cents Only Stores,"705 East Vista Way, Vista, 92084",,https://locations.99only.com/ca/vista/discount-store-244.html,33.2070933,-117.2354037,,,w_576286089,"shop=variety_store, brand=99 Cents Only Stores"
+"Fallbrook, CA",,retail,452319,99 Cents Only Stores,,,https://locations.99only.com/ca/escondido/discount-store-408.html,33.1220117,-117.0875147,,,w_576286939,"shop=variety_store, brand=99 Cents Only Stores"
+"Fallbrook, CA",,retail,445110,Ralphs,"811 Avenida Talega, San Clemente, CA, 92673",+1 949-940-0167,https://www.ralphs.com/stores/grocery/ca/san-clemente/talega-village-center/703/00287,33.4622964,-117.598422,,,w_585779532,"shop=supermarket, brand=Ralphs"
+"Fallbrook, CA",,retail,445120,7-Eleven,5802 Van Allen Way,,https://www.7-eleven.com/locations/ca/carlsbad/5802-van-allen-way-32942,33.1360866,-117.2873283,,,w_624564486,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445110,Pavilions,"989 Avenida Pico, San Clemente, 92673",,https://local.pavilions.com/ca/san-clemente/989-avendia-pico.html,33.456721,-117.6033615,,,w_631113646,"shop=supermarket, brand=Pavilions"
+"Fallbrook, CA",,retail,452210,Target,"18287 Collier Avenue, Lake Elsinore, CA, 92530-2755",+1 951-674-2620,https://www.target.com/sl/lake-elsinore/2195,33.68903,-117.3427773,,,w_637365404,"shop=department_store, brand=Target"
+"Fallbrook, CA",,retail,445120,Circle K,,,,33.6930269,-117.3353384,,,w_637953090,"shop=convenience, brand=Circle K"
+"Fallbrook, CA",,retail,445120,Jacksons,"665 Palomar Airport Road, Carlsbad, CA, 92011",+1 760-918-6716,,33.1218035,-117.3245153,,,w_651473142,"shop=convenience, brand=Jacksons"
+"Fallbrook, CA",,retail,445120,,,,,33.5498964,-117.1406299,,,w_656118830,shop=convenience
+"Fallbrook, CA",,retail,445110,Albertsons,"39140 Winchester Road, Murrieta, CA, 92563",+1 951-600-4461,https://local.albertsons.com/ca/murrieta/39140-winchester-rd.html,33.5510677,-117.1386269,,,w_656118833,"shop=supermarket, brand=Albertsons"
+"Fallbrook, CA",,retail,445120,Speedway,"39055 Winchester Road, Murrieta, CA, 92563",,https://www.speedway.com/locations/CA/Murrieta/39055-WINCHESTER-RD,33.551232,-117.1412156,,,w_656120164,"shop=convenience, brand=Speedway"
+"Fallbrook, CA",,retail,445110,Stater Bros.,"25904 Newport Road, Menifee, CA, 92584",+1 951-672-6780,https://www.staterbros.com/stores/111,33.6864803,-117.2068451,,,w_665215018,"shop=supermarket, brand=Stater Bros."
+"Fallbrook, CA",,retail,445110,Stater Bros.,"29995 Canyon Hills Road, Lake Elsinore, CA, 92532",+1 951-244-2014,https://www.staterbros.com/stores/187,33.6662335,-117.2624356,,,w_665997474,"shop=supermarket, brand=Stater Bros."
+"Fallbrook, CA",,retail,446110,CVS Pharmacy,27749 Clinton Keith Road,,https://www.cvs.com/store-locator/murrieta-ca-pharmacies/27749-clinton-keith-road-murrieta-ca-92562/storeid=7786,33.5981906,-117.1770443,,,w_669056454,"shop=chemist, brand=CVS Pharmacy"
+"Fallbrook, CA",,retail,445110,Sprouts Farmers Market,"2634 Gateway Road, Carlsbad, CA, 92009",+1 760-827-8916,https://www.sprouts.com/store/ca/carlsbad/bressi-ranch/,33.1294145,-117.2542614,,,w_672442395,"shop=supermarket, brand=Sprouts Farmers Market"
+"Fallbrook, CA",,retail,445310,BevMo!,"Gateway Road, Carlsbad",,,33.128382,-117.2534723,,,w_672442398,"shop=alcohol, brand=BevMo!"
+"Fallbrook, CA",,retail,446110,Rite Aid,,,https://www.riteaid.com/locations/ca/menifee/28995-newport-road.html,33.68438,-117.1544444,,,w_677097686,"shop=chemist, brand=Rite Aid"
+"Fallbrook, CA",,retail,445110,Stater Bros.,"29061 Newport Road, Menifee, CA, 92584",+1 951-723-6141,https://www.staterbros.com/stores/197,33.6837265,-117.1526066,,,w_677097692,"shop=supermarket, brand=Stater Bros."
+"Fallbrook, CA",,retail,445120,7-Eleven,,,,33.1117847,-117.0822638,,,w_679926736,"shop=convenience, amenity=fuel, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,SOI Marine Corps Exchange,520407 Basilone Road,,,33.3945699,-117.5134347,,,w_681309754,shop=convenience
+"Fallbrook, CA",,retail,445120,,,,,33.6855594,-117.1676164,,,w_697179717,shop=convenience
+"Fallbrook, CA",,retail,445120,7-Eleven,"1702 South Escondido Boulevard, Escondido, 92025",,https://www.7-eleven.com/locations/ca/escondido/1702-s-escondido-13619,33.104662,-117.0725645,,,w_719583687,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445110,Albertsons,"1133 South Mission Road, Fallbrook, CA, 92028",+1 760-723-8177,https://local.albertsons.com/ca/fallbrook/1133-s-mission-rd.html,33.3717377,-117.255877,,,w_719628807,"shop=supermarket, brand=Albertsons"
+"Fallbrook, CA",,retail,445120,76,,,,33.3711032,-117.2509177,,,w_719632296,"shop=convenience, brand=76"
+"Fallbrook, CA",,retail,445120,7-Eleven,487 Vandegrift Boulevard,,https://www.7-eleven.com/locations/ca/oceanside/487-vandegrift-blvd-20342,33.2545252,-117.2999944,,,w_719633894,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445299,Dejong's Cash and Carry Dairy,,,,33.6282389,-117.2941961,,,w_742694048,shop=dairy
+"Fallbrook, CA",,retail,445110,Aldi,"29655 Rancho California Road, Temecula, CA, 92591-5284",+1 951-309-2178,https://stores.aldi.us/ca/temecula/29655-rancho-california-rd,33.5061608,-117.1421096,,,w_762853889,"shop=supermarket, brand=Aldi"
+"Fallbrook, CA",,retail,452319,43 Area PX,,,,33.3453204,-117.410821,,,w_782545158,shop=general
+"Fallbrook, CA",,retail,446110,Rite Aid,"3813 Plaza Drive, Oceanside, 92056",,,33.1807806,-117.2925852,,,w_791585439,"shop=chemist, brand=Rite Aid"
+"Fallbrook, CA",,retail,445110,Sprouts Farmers Market,"1400 East Vista Way, Vista, CA, 92084",+1 760-936-4010,https://www.sprouts.com/store/ca/vista/vista/,33.2201103,-117.2269821,,,w_807674370,"shop=supermarket, brand=Sprouts Farmers Market"
+"Fallbrook, CA",,retail,445310,Ruiz Liquor,,,,33.2334322,-117.2259385,,,w_818162038,shop=alcohol
+"Fallbrook, CA",,retail,445120,7-Eleven,"1595 East Vista Way, Vista, CA, 92084",+1 760-758-4591,https://www.7-eleven.com/locations/ca/vista/1595-e-vista-way-21795,33.222827,-117.2256233,,,w_818162106,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/vista/2575/,33.2146441,-117.2291358,,,w_818162520,"shop=variety_store, brand=Dollar Tree"
+"Fallbrook, CA",,retail,445120,Shell,,,,33.1278476,-117.251767,,,w_828598151,"shop=convenience, brand=Shell"
+"Fallbrook, CA",,retail,445120,7-Eleven,3251 Business Park Drive,,https://www.7-eleven.com/locations/ca/vista/3251-business-park-dr-32326,33.1326629,-117.2286993,,,w_832779125,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445310,San'O Mart Liquor,"3119 South El Camino Real, San Clemente",,,33.4029575,-117.5962461,,,w_833955636,shop=alcohol
+"Fallbrook, CA",,retail,446120,Salty Lash,"2727 Roosevelt Street, Carlsbad, CA, 92008",,,33.1627155,-117.3499895,,,w_886564442,shop=beauty
+"Fallbrook, CA",,retail,445110,WinCo Foods,"2245 South El Camino Real, Oceanside, CA, 92054",,,33.1854632,-117.3303854,,,w_900937010,"shop=supermarket, brand=WinCo Foods"
+"Fallbrook, CA",,retail,445110,ALDI,"1330 East Valley Parkway, Escondido, CA, 92027-2312",+1 760-670-2402,https://stores.aldi.us/ca/escondido/1330-e-valley-parkway,33.1325898,-117.0652144,,,w_930031616,"shop=supermarket, brand=ALDI"
+"Fallbrook, CA",,retail,445110,Walmart Supercenter,"29260 Central Avenue, Lake Elsinore, CA, 92532",+1 951-245-5990,https://www.walmart.com/store/2077-lake-elsinore-ca,33.6929548,-117.3322111,,,w_939049343,"shop=supermarket, brand=Walmart"
+"Fallbrook, CA",,retail,445110,ALDI,"333 North El Camino Real, Encinitas, CA, 92024-2810",+1 877-479-1104,https://stores.aldi.us/ca/encinitas/333-n-el-camino-real,33.0555493,-117.2604655,,,w_956431100,"shop=supermarket, brand=ALDI"
+"Fallbrook, CA",,retail,445120,,"810 Tamarack Avenue, Carlsbad, CA, 92008",,,33.1521593,-117.3380725,,,w_961509321,shop=convenience
+"Fallbrook, CA",,retail,445110,ALDI,"39025 Date Street, Murrieta, CA, 92563",+1 833-479-7088,https://stores.aldi.us/ca/murrieta/39025-date-st,33.5521868,-117.1411916,,,w_993450863,"shop=supermarket, brand=ALDI"
+"Fallbrook, CA",,retail,445110,Ralphs,"10525 4S Commons Drive, San Diego, CA, 92127",+1 858-675-7028,https://www.ralphs.com/stores/grocery/ca/san-diego/4s-commons-town-center/703/00105,33.0191413,-117.1127733,,,w_1006868809,"shop=supermarket, brand=Ralphs"
+"Fallbrook, CA",,retail,445110,Jimbo's,"10511 4S Commons Drive, San Diego, CA, 92127",,,33.018891,-117.1138399,,,w_1006868812,shop=supermarket
+"Fallbrook, CA",,retail,446120,Ulta Beauty,"10455 Reserve Drive, San Diego, CA, 92127",+1 858-676-6831,https://www.ulta.com/stores/san-diego-ca-1100,33.0205073,-117.1135766,,,w_1006868822,"shop=cosmetics, brand=Ulta Beauty"
+"Fallbrook, CA",,retail,445120,7-Eleven,"39566 Los Alamos Road, Murrieta, CA, 92563",,https://www.7-eleven.com/locations/ca/murrieta/39566-los-alamos-rd-37067,33.5745195,-117.1773836,,,w_1009202350,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,Kangaroo Express,,,,33.4749559,-117.1298758,,,w_1066593557,"shop=convenience, brand=Kangaroo Express"
+"Fallbrook, CA",,retail,445120,,,,,33.2044969,-117.3652465,,,w_1075416793,shop=convenience
+"Fallbrook, CA",,retail,445110,Grocery Outlet,"35958 Winchester Road, Winchester, CA, 92596",,,33.5991625,-117.1157005,,,w_1097151156,"shop=grocery, brand=Grocery Outlet"
+"Fallbrook, CA",,retail,445120,,,,,33.4308218,-117.6151857,,,w_1106389214,shop=convenience
+"Fallbrook, CA",,retail,446110,CVS Pharmacy,"23743 Jackson Avenue, CA",,https://www.cvs.com/store-locator/murrieta-ca-pharmacies/23743-jackson-ave-murrieta-ca-92562/storeid=7554,33.5849311,-117.2195713,,,w_1115898758,"shop=chemist, brand=CVS Pharmacy"
+"Fallbrook, CA",,retail,445110,Sprouts Farmers Market,"27281 Newport Road, Menifee, CA, 92584",+1 951-370-1317,https://www.sprouts.com/store/ca/menifee/443-menifee/,33.6832679,-117.1831278,,,w_1133967056,"shop=supermarket, brand=Sprouts Farmers Market"
+"Fallbrook, CA",,retail,445110,ALDI,"28230 Clinton Keith Road, Murrieta, CA, 92563",+1 855-479-1176,https://stores.aldi.us/ca/murrieta/28230-clinton-keith-road,33.5992466,-117.1674889,,,w_1151579814,"shop=supermarket, brand=ALDI"
+"Fallbrook, CA",,retail,445120,Jacksons,,,,33.5738262,-117.1781727,,,w_1151673454,"shop=convenience, brand=Jacksons"
+"Fallbrook, CA",,retail,445110,Albertsons,"23893 Clinton Keith Road, Wildomar, CA, 92595",+1 951-600-4607,https://local.albertsons.com/ca/wildomar/23893-clinton-keith-rd.html,33.595663,-117.2414567,,,w_1159194701,"shop=supermarket, brand=Albertsons"
+"Fallbrook, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/wildomar/24116-clinton-keith-road-37623,33.5981385,-117.2405563,,,w_1162587475,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445110,Grocery Outlet,,,,33.5994068,-117.2398463,,,w_1162587481,"shop=supermarket, brand=Grocery Outlet"
+"Fallbrook, CA",,retail,445110,Smart & Final,,,,33.1890806,-117.2811281,,,w_1200921623,"shop=supermarket, brand=Smart & Final"
+"Fallbrook, CA",,retail,445110,Stater Bros.,"25050 Hancock Avenue, Murrieta, CA, 92562",+1 951-677-4117,https://www.staterbros.com/stores/139,33.5710688,-117.1822252,,,w_1210580702,"shop=supermarket, brand=Stater Bros."
+"Fallbrook, CA",,retail,446110,CVS Pharmacy,25080 Hancock Avenue,,https://www.cvs.com/store-locator/murrieta-ca-pharmacies/25080-hancock-ave-murrieta-ca-92562/storeid=9628,33.5701863,-117.181979,,,w_1210580704,"shop=chemist, brand=CVS Pharmacy"
+"Fallbrook, CA",,retail,445120,Circle K,,,,33.5721219,-117.1834678,,,w_1231951488,"shop=convenience, brand=Circle K"
+"Fallbrook, CA",,retail,445120,ampm,,,,33.7154211,-117.1795123,,,w_1242671814,"shop=convenience, brand=ampm"
+"Fallbrook, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-27975+bradley+rd-menifee-ca-92586/id=6126,33.7147495,-117.1926873,,,w_1242672377,"shop=chemist, brand=Walgreens"
+"Fallbrook, CA",,retail,445110,Stater Bros.,"27160 Sun City Boulevard, Menifee, CA, 92586",+1 951-679-6655,https://www.staterbros.com/stores/83,33.7115381,-117.1923633,,,w_1242672379,"shop=supermarket, brand=Stater Bros."
+"Fallbrook, CA",,retail,445120,PX,,,,33.422734,-117.5570658,,,w_1245120863,shop=convenience
+"Fallbrook, CA",,retail,452210,Big Lots,"1702 Oceanside Boulevard, Oceanside, CA, 92054",+1 760-453-0661,https://local.biglots.com/ca/oceanside/1702-oceanside-blvd,33.1924202,-117.3608946,,,w_1279935417,"shop=department_store, brand=Big Lots"
+"Fallbrook, CA",,retail,446120,Luminous Nails & Spa,"427 Santa Fe Drive, Encinitas, CA, 92024",+1-760-942-0649,,33.0352078,-117.2837967,,,w_1283782901,shop=beauty
+"Fallbrook, CA",,retail,446120,iTAN Sun Spray Spa,"421 Santa Fe Drive, Encinitas, CA, 92024",760-942-9632,https://itan.com/locations/itan-encinitas/,33.0353196,-117.2837913,,,w_1283782903,shop=beauty
+"Fallbrook, CA",,retail,445120,ampm,,,,33.6900969,-117.2405318,,,w_1304166778,"shop=convenience, brand=ampm"
+"Fallbrook, CA",,retail,445120,7-Eleven,"470 North Melrose Drive, Vista, CA, 92083",,https://www.7-eleven.com/locations/ca/vista/470-north-melrose-13625,33.2044423,-117.2549844,,,w_1306931181,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445110,Stater Bros.,"32281 Mission Trail, Lake Elsinore, CA, 92530",+1 951-245-5802,https://www.staterbros.com/stores/189,33.6531334,-117.2982219,,,w_1307058596,"shop=supermarket, brand=Stater Bros."
+"Fallbrook, CA",,retail,445120,ExtraMile,"2051 Sheridan Road, Encinitas, CA, 92024",,,33.0847389,-117.2998226,,,w_1319089951,"shop=convenience, brand=ExtraMile"
+"Fallbrook, CA",,retail,445120,7-Eleven,"35970 Winchester Road, Winchester, CA, 92596",,,33.5980511,-117.1167664,,,w_1346506160,"shop=convenience, brand=7-Eleven"
+"Fallbrook, CA",,retail,445120,Harrah's Rincon Travel Plaza,,,,33.2654377,-116.9541812,,,w_1356105987,shop=convenience
+"Fallbrook, CA",,retail,453110,Flowers and Friends,,+1 949 366 9150,,33.4326441,-117.633155,,,w_1373155082,shop=florist
