@@ -1,0 +1,19 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Perrytown, AR",,retail,445110,Super 1 Foods,"909 North Hervey Street, Hope, AR, 71801",+1-870-777-5001,,33.6766073,-93.5994218,,,n_6135480647,shop=supermarket
+"Perrytown, AR",,retail,452319,Dollar Tree,"1301 North Hervey Street, Hope, AR, 71801",,https://www.dollartree.com/locations/ar/hope/2501/,33.680721,-93.6034643,,,n_8819136015,"shop=variety_store, brand=Dollar Tree"
+"Perrytown, AR",,retail,445120,Superstop,,,,33.8020848,-93.3800653,,,n_11133283225,shop=convenience
+"Perrytown, AR",,retail,445120,Love's,,,,33.8289163,-93.3948291,,,w_224315975,"shop=convenience, brand=Love's"
+"Perrytown, AR",,retail,445110,Walmart Supercenter,"1710 South 4th Street, Nashville, AR, 71852",+1 870-845-1881,https://www.walmart.com/store/33-nashville-ar,33.9253649,-93.8574526,,,w_589132390,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Perrytown, AR",,retail,445120,Super Station,"1615 North Hervey Street, Hope, AR, 71801",,,33.6806966,-93.6062601,,,w_909331343,shop=convenience
+"Perrytown, AR",,retail,445120,Suny's Food Mart,"5370 US Highway 67, Fulton, AR, 71838",,,33.6098086,-93.8102171,,,w_952806200,shop=convenience
+"Perrytown, AR",,retail,445110,Walmart Supercenter,"2400 North Hervey Street, Hope, AR, 71801",+1 870-777-5500,https://www.walmart.com/store/1065-hope-ar,33.6808403,-93.6145939,,,w_952809469,"shop=supermarket, brand=Walmart"
+"Perrytown, AR",,retail,445120,E-Z Mart,"2403 North Hervey Street, Hope, AR, 71801",,,33.6839202,-93.6136064,,,w_952809485,shop=convenience
+"Perrytown, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/lewisville/949,33.3557524,-93.5797438,,,w_1200634902,"shop=variety_store, brand=Dollar General"
+"Perrytown, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/hope/3148,33.6695254,-93.5717006,,,w_1200733547,"shop=variety_store, brand=Dollar General"
+"Perrytown, AR",,retail,452319,Family Dollar,,,,33.8069753,-93.3755799,,,w_1200733551,"shop=variety_store, brand=Family Dollar"
+"Perrytown, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/prescott/263,33.808208,-93.3766658,,,w_1200733552,"shop=variety_store, brand=Dollar General"
+"Perrytown, AR",,retail,445110,Cash Saver,,,,33.8103263,-93.374884,,,w_1200733554,shop=supermarket
+"Perrytown, AR",,retail,452319,Family Dollar,,,,34.0311709,-93.5069849,,,w_1200743410,"shop=variety_store, brand=Family Dollar"
+"Perrytown, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/blevins/18879,33.8711012,-93.5744509,,,w_1215863708,"shop=variety_store, brand=Dollar General"
+"Perrytown, AR",,retail,445110,Piggly Wiggly,"1704 East 3rd Street, Hope, AR, 71801",+1 870-777-8831,,33.6690184,-93.5712992,,,w_1240586611,"shop=supermarket, brand=Piggly Wiggly"
+"Perrytown, AR",,retail,453110,Charlotte Rose,"1110 West 1st Street North, Prescott, AR, 71857",,,33.8076061,-93.3757309,,,w_1387829015,shop=florist

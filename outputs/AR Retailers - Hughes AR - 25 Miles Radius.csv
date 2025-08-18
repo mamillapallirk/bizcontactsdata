@@ -1,0 +1,62 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Hughes, AR",,retail,452319,Family Dollar,,,,35.2091828,-90.2033703,,,n_1239655076,"shop=variety_store, brand=Family Dollar"
+"Hughes, AR",,retail,445110,Walmart Neighborhood Market,"2401 Goodman Road West, Horn Lake, MS, 38637",+1 662-342-5929,https://www.walmart.com/store/3593-horn-lake-ms,34.961086,-90.032598,,,n_5315598255,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Hughes, AR",,retail,452319,Family Dollar,,,,35.2760742,-90.4692175,,,n_5436375922,"shop=variety_store, brand=Family Dollar"
+"Hughes, AR",,retail,445110,Edwards Food giant,"460 South Alabama Street, Marianna, AR, 72360",(870) 295-9311,https://www.edwardsfoodgiant.com/,34.7619145,-90.7683292,,,n_7050483667,shop=supermarket
+"Hughes, AR",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-4028+goodman+rd+w-horn+lake-ms-38637/id=6754,34.9636571,-90.061291,,,n_7149757390,"shop=chemist, brand=Walgreens"
+"Hughes, AR",,retail,445120,Petro,3900 Petro Road,1 (870) 702-5540,,35.1543551,-90.135907,,,n_8086364364,shop=convenience
+"Hughes, AR",,retail,445110,Kroger,"300 West Service Road, West Memphis, AR, 72301",+1 870-732-2692,https://www.kroger.com/stores/grocery/ar/west-memphis/w-memphis/025/00469,35.1681193,-90.1920318,,,n_8389289058,"shop=supermarket, brand=Kroger"
+"Hughes, AR",,retail,445110,ALDI,"4065 Goodman Road West, Horn Lake, MS, 38637",+1 833-470-7076,https://stores.aldi.us/ms/horn-lake/4065-goodman-road-west,34.9619158,-90.0618115,,,n_8663463359,"shop=supermarket, brand=ALDI"
+"Hughes, AR",,retail,445120,Love's,,,,35.1537864,-90.1383451,,,n_11051805634,"shop=convenience, brand=Love's"
+"Hughes, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/west-memphis/1731,35.1450901,-90.1962731,,,n_11273078211,"shop=variety_store, brand=Dollar General"
+"Hughes, AR",,retail,445110,,,,,35.0662437,-90.0702642,,,n_12074300037,shop=supermarket
+"Hughes, AR",,retail,445120,,,,,35.0592284,-90.6881394,,,n_12166252852,shop=convenience
+"Hughes, AR",,retail,445120,TA,,,,35.1363989,-90.4881082,,,n_12166255031,"shop=convenience, brand=TA"
+"Hughes, AR",,retail,445120,,,,,35.1359832,-90.4892002,,,n_12166255035,shop=convenience
+"Hughes, AR",,retail,445120,PJ’s,,,,35.1470042,-90.2918492,,,n_12166260857,shop=convenience
+"Hughes, AR",,retail,445120,,,,,35.146995,-90.2923439,,,n_12166260858,shop=convenience
+"Hughes, AR",,retail,445120,DK,,,,34.9856597,-90.9074649,,,n_12166262234,shop=convenience
+"Hughes, AR",,retail,445120,Circle K,"3971 Goodman Road West, Horn Lake, MS, 38637",+1 662-280-1946,,34.9619921,-90.0598653,,,n_12310192529,"shop=convenience, brand=Circle K"
+"Hughes, AR",,retail,445120,,,,,35.0643079,-90.0583796,,,n_12670934955,shop=convenience
+"Hughes, AR",,retail,445120,,,,,34.8386629,-90.3008673,,,w_142440759,"shop=convenience, amenity=fuel"
+"Hughes, AR",,retail,445120,,,,,34.8193759,-90.3154959,,,w_142440760,"shop=convenience, amenity=fuel"
+"Hughes, AR",,retail,445120,,,,,34.8587729,-90.2480657,,,w_142440762,"shop=convenience, amenity=fuel"
+"Hughes, AR",,retail,445120,,,,,34.8163892,-90.3954339,,,w_142440763,"shop=convenience, amenity=fuel"
+"Hughes, AR",,retail,445120,Flying J,"3400 Service Loop Road, West Memphis, AR, 72301",,,35.1541741,-90.1439223,,,w_219424152,shop=convenience
+"Hughes, AR",,retail,445120,Love's,,,,34.9865919,-90.9052448,,,w_224315866,"shop=convenience, brand=Love's"
+"Hughes, AR",,retail,452210,Sears,"209 Shoppingway Boulevard, West Memphis, AR, 72301",,,35.1672059,-90.1888809,,,w_384668097,"shop=department_store, brand=Sears"
+"Hughes, AR",,retail,446110,Walgreens,"1800 North Missouri Street, West Memphis, AR, 72301",,https://www.walgreens.com/locator/walgreens-1800+n+missouri+st-west+memphis-ar-72301/id=5789,35.1672208,-90.1861429,,,w_384668101,"shop=chemist, brand=Walgreens"
+"Hughes, AR",,retail,445110,Walmart Neighborhood Market,"2100 Highway 77, Marion, AR, 72364",+1 870-394-7308,https://www.walmart.com/store/4654-marion-ar,35.1979382,-90.1825391,,,w_499747003,"shop=supermarket, brand=Walmart"
+"Hughes, AR",,retail,445120,Flash Mart,"1621 North Missouri Street, West Memphis, AR, 72301",+18704000188,,35.1640811,-90.1842465,,,w_534396134,shop=convenience
+"Hughes, AR",,retail,445120,Shell,,,,35.2130807,-90.2064766,,,w_534396189,"shop=convenience, brand=Shell"
+"Hughes, AR",,retail,452319,Dollar General,"3732 I-55 Service Road, Marion, AR, 72364",,https://www.dollargeneral.com/store-directory/ar/marion/9061,35.2173242,-90.2076481,,,w_534396292,"shop=variety_store, brand=Dollar General"
+"Hughes, AR",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/tn/memphis/6818/,35.004072,-90.1077686,,,w_623554265,"shop=variety_store, brand=Dollar Tree"
+"Hughes, AR",,retail,445110,Kroger,"3926 Goodman Road West, Horn Lake, MS, 38637",+1 662-393-7868,https://www.kroger.com/stores/grocery/ms/horn-lake/goodman-rd-and-horn-lake/025/00499,34.964455,-90.0597217,,,w_642114656,"shop=supermarket, brand=Kroger"
+"Hughes, AR",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ms/horn-lake/2020/,34.9642919,-90.0585334,,,w_642114657,"shop=variety_store, brand=Dollar Tree"
+"Hughes, AR",,retail,445110,Walmart Supercenter,"4150 Goodman Road West, Horn Lake, MS, 38637",+1 662-253-6184,https://www.walmart.com/store/6964/horn-lake-ms,34.9647058,-90.063225,,,w_642114708,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Hughes, AR",,retail,445110,Walmart Supercenter,"205 Deadrick Road, Forrest City, AR, 72335",+1 870-633-0021,https://www.walmart.com/store/91-forrest-city-ar,35.0280727,-90.7935746,,,w_771448348,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Hughes, AR",,retail,445110,Walmart Supercenter,"798 West Service Road, West Memphis, AR, 72301",+1 870-732-0175,https://www.walmart.com/store/70-west-memphis-ar,35.1654621,-90.20001,,,w_903252941,"shop=supermarket, brand=Walmart"
+"Hughes, AR",,retail,445120,Shell,"700 North Service Road, West Memphis, AR, 72301",,,35.1656195,-90.1751507,,,w_903252951,"shop=convenience, brand=Shell"
+"Hughes, AR",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ar/marion/8494/,35.203202,-90.1918661,,,w_979688475,"shop=variety_store, brand=Dollar Tree"
+"Hughes, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/earle/11357,35.276318,-90.471844,,,w_1046499630,"shop=variety_store, brand=Dollar General"
+"Hughes, AR",,retail,445120,Jordan's,"9595 US-70, Proctor, AR, 72376",+1-870-733-1216,,35.1467349,-90.2933766,,,w_1126407251,shop=convenience
+"Hughes, AR",,retail,445120,Flash Market,"101 East Broadway Boulevard, West Memphis, AR, 72301",+1-870-514-1600,,35.1461824,-90.1844986,,,w_1126610835,shop=convenience
+"Hughes, AR",,retail,446110,Walgreens,"346 West Broadway Boulevard, West Memphis, AR, 72301",+1-870-733-0138,https://www.walgreens.com/locator/walgreens-346+w+broadway+st-west+memphis-ar-72301/id=2774,35.1456638,-90.1930885,,,w_1126842637,"shop=chemist, brand=Walgreens"
+"Hughes, AR",,retail,445120,Broadway Deli & Pizza,"400 West Broadway Boulevard, West Memphis, AR, 72301",,,35.145995,-90.1939981,,,w_1126842641,shop=convenience
+"Hughes, AR",,retail,445110,Marion Market Place,"220 East Military Road, Marion, AR, 72364",,,35.2139019,-90.2056946,,,w_1154865992,shop=supermarket
+"Hughes, AR",,retail,445120,Flash Market,"3440 I-55 Service Road, Marion, AR, 72364",,,35.2132422,-90.2061245,,,w_1154866004,shop=convenience
+"Hughes, AR",,retail,445120,Citgo,"5660 U.S. 64 Highway, Parkin, AR, 72373",,,35.2728775,-90.555347,,,w_1158069735,"shop=convenience, brand=Citgo"
+"Hughes, AR",,retail,445120,Valero,"5665 U.S. 64 Highway, Parkin, AR, 72373",,,35.2720372,-90.5554139,,,w_1158069736,"shop=convenience, brand=Valero"
+"Hughes, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ms/walls/5886,34.9921883,-90.0945193,,,w_1191200108,"shop=variety_store, brand=Dollar General"
+"Hughes, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/marianna/9702,34.777527,-90.7732522,,,w_1201478543,"shop=variety_store, brand=Dollar General"
+"Hughes, AR",,retail,446110,Quess Pharmacy,,,,35.1457799,-90.1952448,,,w_1201537711,shop=chemist
+"Hughes, AR",,retail,445110,Gene Stimson's Big Star #3,,,,35.1472167,-90.1945754,,,w_1201537712,shop=supermarket
+"Hughes, AR",,retail,445110,Gene Stimson's Big Star #14,,,,35.1471251,-90.1603813,,,w_1201537714,shop=supermarket
+"Hughes, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/forrest-city/14772,35.0587385,-90.8082433,,,w_1202520249,"shop=variety_store, brand=Dollar General"
+"Hughes, AR",,retail,445120,Speedway,,,,35.0395722,-90.7891111,,,w_1202520254,"shop=convenience, brand=Speedway"
+"Hughes, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/hughes/11344,34.9495372,-90.4816468,,,w_1202696307,"shop=variety_store, brand=Dollar General"
+"Hughes, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/proctor/23887,35.1076022,-90.2941628,,,w_1202696312,"shop=variety_store, brand=Dollar General"
+"Hughes, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/tn/memphis/23977,35.0528222,-90.0615009,,,w_1222594125,"shop=variety_store, brand=Dollar General"
+"Hughes, AR",,retail,445120,QwikTrip,,,,35.1625971,-90.1746961,,,w_1303575022,"shop=convenience, brand=QuikTrip"
+"Hughes, AR",,retail,445120,,,,,35.1469959,-90.2918576,,,w_1318978176,shop=convenience
+"Hughes, AR",,retail,445120,Shamrock Gas,"824 Old Military Road, Marion, AR, 72364",,,35.211175,-90.2110329,,,w_1419230532,shop=convenience

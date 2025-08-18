@@ -1,0 +1,5 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Catherine, AL",,retail,445110,Walmart Supercenter,"34301 Highway 43, Thomasville, AL, 36784",+1 334-636-0219,https://www.walmart.com/store/1174-thomasville-al,31.9396079,-87.7389141,,,n_4234468821,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Catherine, AL",,retail,452319,Dollar General,103 Miller Avenue,,https://www.dollargeneral.com/store-directory/al/linden/2624,32.2969056,-87.7971028,,,w_508173471,"shop=variety_store, brand=Dollar General"
+"Catherine, AL",,retail,452319,Family Dollar,"303 South Main Street, Linden, AL, 36748",,,32.3039086,-87.797463,,,w_508173489,"shop=variety_store, brand=Family Dollar"
+"Catherine, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/uniontown/8392,32.4501115,-87.515229,,,w_1082140821,"shop=variety_store, brand=Dollar General"

@@ -1,0 +1,19 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Pollard, AL",,retail,445120,Kwik Stop,,,,30.9780651,-87.2596075,,,n_4731556721,shop=convenience
+"Pollard, AL",,retail,445110,Walmart Supercenter,"911 North Main Street, Atmore, AL, 36502",+1 251-368-1403,https://www.walmart.com/store/7247-atmore-al,31.0379679,-87.4951729,,,n_5315596479,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Pollard, AL",,retail,445110,Walmart Supercenter,"2578 Douglas Avenue, Brewton, AL, 36426",+1 251-867-4680,https://www.walmart.com/store/1620-brewton-al,31.148441,-87.063735,,,n_5315601368,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Pollard, AL",,retail,445120,Ruth's,,,,30.8580543,-86.8733598,,,n_7731190923,shop=convenience
+"Pollard, AL",,retail,445120,Tom Thumb,"2171 Douglas Avenue, Brewton, AL, 36426",1-251-867-7678,,31.1414871,-87.0692689,,,n_9385926437,shop=convenience
+"Pollard, AL",,retail,445120,Pic N Sav,"2135 Douglas Avenue, Brewton, AL, 36426",,,31.1402595,-87.0692951,,,n_9385926491,shop=convenience
+"Pollard, AL",,retail,445120,Circle K,,,,31.2019141,-87.3101848,,,n_9934775098,"shop=convenience, brand=Circle K"
+"Pollard, AL",,retail,445120,,,,,31.2004701,-87.3101298,,,n_9934775101,shop=convenience
+"Pollard, AL",,retail,446110,Scott's Pharmacy,"6505 US-29, Molino, FL, 32577",+1-850-619-0326,https://www.scottspharmacyrx.com/,30.7173381,-87.350253,,,n_11077827472,shop=chemist
+"Pollard, AL",,retail,445110,Piggly Wiggly,"11204 North Florida Highway 97, Walnut Hill, FL, 32568",+1 850-327-4001,https://www.foodgiant.com,30.9942725,-87.488462,,,n_11618396409,"shop=supermarket, brand=Piggly Wiggly"
+"Pollard, AL",,retail,445110,Piggly Wiggly,"201 Forrest Avenue, East Brewton, AL, 36426",+1 251-867-3858,,31.0990199,-87.0653141,,,n_11618396410,"shop=supermarket, brand=Piggly Wiggly"
+"Pollard, AL",,retail,445110,Piggly Wiggly,"3367 Wallace Lake Road, Pace, FL, 32571",+1 850-304-7383,,30.6839576,-87.1811213,,,n_11618396445,"shop=supermarket, brand=Piggly Wiggly"
+"Pollard, AL",,retail,452319,Dollar General,935 Sidney E Manning Boulevard,,https://www.dollargeneral.com/store-directory/al/flomaton/7404,31.0072644,-87.2654922,,,w_317326061,"shop=variety_store, brand=Dollar General"
+"Pollard, AL",,retail,446110,Walgreens,"2040 Douglas Avenue, Brewton, AL, 36426",,,31.1391985,-87.0682458,,,w_1017592305,"shop=chemist, brand=Walgreens"
+"Pollard, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/fl/milton/18942,30.9049588,-87.0345516,,,w_1089012862,"shop=variety_store, brand=Dollar General"
+"Pollard, AL",,retail,445120,Country Express,"13010 Highway 87 N, Jay, FL, 32565",,,30.9064052,-87.0333803,,,w_1089013793,shop=convenience
+"Pollard, AL",,retail,452319,Dollar General,2612 Jackson,,https://www.dollargeneral.com/store-directory/al/castleberry/11768,31.2957881,-87.0215187,,,w_1234909358,"shop=variety_store, brand=Dollar General"
+"Pollard, AL",,retail,445120,Creek Convenience Store,"116 Poarch Road, Atmore, AL, 36502",,,31.1046771,-87.4806049,,,w_1366095833,shop=convenience

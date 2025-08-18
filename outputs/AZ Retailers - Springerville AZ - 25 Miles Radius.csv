@@ -1,0 +1,9 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Springerville, AZ",,retail,445120,Lazy Trout Market,,,,34.0267442,-109.4505971,,,n_3048130672,shop=convenience
+"Springerville, AZ",,retail,445120,Store and Ranger Station,,,,34.362483,-109.3750008,,,n_7798723763,shop=convenience
+"Springerville, AZ",,retail,445120,Circle K,,,,34.1332829,-109.27511,,,n_10025810983,"shop=convenience, brand=Circle K"
+"Springerville, AZ",,retail,445110,Safeway,,,,34.1304391,-109.2895294,,,n_12871227702,shop=grocery
+"Springerville, AZ",,retail,445120,Big Lake Store & Marina,,,,33.8757303,-109.4133277,,,n_12879308701,shop=convenience
+"Springerville, AZ",,retail,445110,Bashas',"150 Main Street, Eagar, AZ, 85925",,,34.1136361,-109.2931679,,,w_863609305,"shop=supermarket, brand=Bashas'"
+"Springerville, AZ",,retail,445110,Alpine Country Store,"42651 US 180, Alpine, AZ, 85920",1-928-339-1982,,33.8486744,-109.1446711,,,w_979871309,shop=supermarket
+"Springerville, AZ",,retail,445120,The Tackle Shop,"25373 US 191, Alpine, AZ, 85920",+1-928-339-4338,,33.8482637,-109.1469255,,,w_979871312,"shop=convenience, operator=Denise & Gary Engels"

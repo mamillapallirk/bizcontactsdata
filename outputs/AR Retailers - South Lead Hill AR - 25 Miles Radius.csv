@@ -1,0 +1,53 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"South Lead Hill, AR",,retail,445120,,,,,36.1400051,-93.1220775,,,n_1179021730,shop=convenience
+"South Lead Hill, AR",,retail,445110,Hudsons,,,,36.2359199,-93.1067267,,,n_1179052574,shop=supermarket
+"South Lead Hill, AR",,retail,445120,,,,,36.2336266,-93.1304642,,,n_1179180183,shop=convenience
+"South Lead Hill, AR",,retail,445110,Cash Saver 870,,,,36.2297633,-93.0988437,,,n_1179457965,shop=supermarket
+"South Lead Hill, AR",,retail,445110,,,,,36.2490137,-93.1147787,,,n_1179663982,shop=supermarket
+"South Lead Hill, AR",,retail,452210,Belk,"5 Branson Landing Blvd, 65616",417-239-3314,https://belk.com/,36.6469754,-93.2153253,,,n_2628091319,"shop=department_store, brand=Belk"
+"South Lead Hill, AR",,retail,445120,,,,,36.6101889,-93.2344766,,,n_2672305240,shop=convenience
+"South Lead Hill, AR",,retail,445120,,,,,36.6182882,-93.2276101,,,n_2672305255,shop=convenience
+"South Lead Hill, AR",,retail,445120,,,,,36.6250262,-93.2170208,,,n_2672305260,shop=convenience
+"South Lead Hill, AR",,retail,445110,Harter House,,,,36.609604,-93.235331,,,n_4317063190,shop=supermarket
+"South Lead Hill, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/mo/hollister/4532,36.611867,-93.229693,,,n_4317084489,"shop=variety_store, brand=Dollar General"
+"South Lead Hill, AR",,retail,445120,Country Mart,,,,36.6940713,-93.1227184,,,n_4640250988,shop=convenience
+"South Lead Hill, AR",,retail,445120,Rapid Roberts,,,,36.5048326,-93.2207716,,,n_6468458132,shop=convenience
+"South Lead Hill, AR",,retail,453991,Elite Vapor Pro,"1320 A3 HWY 62-65 N
+Harrison, AR 72601",870-204-6051,https://www.elitevaporpros.com/,36.2646262,-93.1376849,,,n_6715759954,shop=tobacco
+"South Lead Hill, AR",,retail,452210,Sears,"1320 North Main Street
+Harrison, AR 72601",(870) 741-5466,http://www.searshometownstores.com/home/ar/harrison/3127,36.2457441,-93.1170904,,,n_6727503116,shop=department_store
+"South Lead Hill, AR",,retail,445310,"""End Of The Trail"" All American Wine Cellar","150 Top of the Rock Road, Ridgedale, MO, 65739",+1-800-225-6343,http://www.topoftherock.com/dining/wine-cellar-en.html,36.5430485,-93.2499298,,,n_8622405664,shop=wine
+"South Lead Hill, AR",,retail,446120,Heavenly Beauty Salon,,,,36.4188288,-92.9130273,,,n_10056028865,shop=beauty
+"South Lead Hill, AR",,retail,453110,Hodge Podge Floral & Gift Boutique,,,,36.4201577,-92.9145391,,,n_10082533986,shop=florist
+"South Lead Hill, AR",,retail,445120,Snappy Mart,,,,36.3674914,-92.5466787,,,n_11164481139,shop=convenience
+"South Lead Hill, AR",,retail,445292,Kilwins,"813 Branson Landing Boulevard, Branson, MO, 65616",417-334-9240,Kilwins.com/Branson,36.6453231,-93.213784,,,n_12094103787,"shop=confectionery, brand=Kilwins"
+"South Lead Hill, AR",,retail,446191,Nature's Wonders,"910A US 62, 72601",,,36.2548652,-93.1232564,,,n_12856205601,shop=health_food
+"South Lead Hill, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/gassville/7265,36.2836427,-92.4949568,,,w_246375750,"shop=variety_store, brand=Dollar General"
+"South Lead Hill, AR",,retail,445110,Sunfest,"119 West Main Street, Gassville, AR, 72635",+18704356180,https://www.gwfoodsinc.com/,36.282686,-92.4960927,,,w_246375751,shop=supermarket
+"South Lead Hill, AR",,retail,445120,,,,,36.639613,-93.2167094,,,w_264336562,shop=convenience
+"South Lead Hill, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/yellville/11130,36.2265368,-92.6871836,,,w_430215599,"shop=variety_store, brand=Dollar General"
+"South Lead Hill, AR",,retail,445110,Harp's,,,,36.2264111,-92.6836507,,,w_430215601,shop=supermarket
+"South Lead Hill, AR",,retail,446110,CVS Pharmacy,"105 Loyd Road, Branson, MO, 65616",,https://www.cvs.com/store-locator/branson-mo-pharmacies/105-loyd-st-branson-mo-65616/storeid=10003,36.6450419,-93.2260259,,,w_522569510,"shop=chemist, brand=CVS Pharmacy"
+"South Lead Hill, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/mo/branson/11212,36.6421871,-93.188921,,,w_522593296,"shop=variety_store, brand=Dollar General"
+"South Lead Hill, AR",,retail,445110,Sunfest,,,,36.6431249,-93.1881886,,,w_522593298,shop=supermarket
+"South Lead Hill, AR",,retail,445120,Casey's General Store,"615 West Main Street, Branson, MO, 65616",,,36.6449946,-93.2249858,,,w_777196988,"shop=convenience, brand=Casey's General Store"
+"South Lead Hill, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/mo/branson/18700,36.6400965,-93.2160458,,,w_839382154,"shop=variety_store, brand=Dollar General"
+"South Lead Hill, AR",,retail,446120,Cedar Creek Spa,"190 Top of the Rock Road, Ridgedale, MO, 65739",+1-800-225-6343,https://bigcedar.com/spa/,36.5377475,-93.2759425,,,w_905829085,shop=beauty
+"South Lead Hill, AR",,retail,445110,Walmart Supercenter,"168 Walmart Drive, Flippin, AR, 72634",+1-870-453-2211,https://www.walmart.com/store/1147-flippin-ar,36.2752774,-92.6045654,,,w_908562023,"shop=supermarket, brand=Walmart, operator=Walmart"
+"South Lead Hill, AR",,retail,445120,,,,,36.6477723,-93.2177069,,,w_926930633,shop=convenience
+"South Lead Hill, AR",,retail,445110,ALDI,"1105 Highway 62/65 North, Harrison, AR, 72601",+1 855-955-2534,https://stores.aldi.us/ar/harrison/1105-hwy-62-65-north,36.2591032,-93.1254587,,,w_934748056,"shop=supermarket, brand=ALDI"
+"South Lead Hill, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/harrison/12468,36.2345305,-93.1326315,,,w_1060184374,"shop=variety_store, brand=Dollar General"
+"South Lead Hill, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/harrison/3943,36.258897,-93.1274155,,,w_1060187684,"shop=variety_store, brand=Dollar General"
+"South Lead Hill, AR",,retail,445110,Walmart Supercenter,"161 North Walmart Drive, Harrison, AR, 72601",+1 870-365-8400,https://www.walmart.com/store/2-harrison-ar,36.269002,-93.139044,,,w_1060189287,"shop=supermarket, brand=Walmart, operator=Walmart"
+"South Lead Hill, AR",,retail,452319,Dollar General,6403 Highway 5 North,,https://www.dollargeneral.com/store-directory/ar/midway/13974,36.385521,-92.4609129,,,w_1158548008,"shop=variety_store, brand=Dollar General"
+"South Lead Hill, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/lakeview/23578,36.3673486,-92.550458,,,w_1204590215,"shop=variety_store, brand=Dollar General"
+"South Lead Hill, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/bull-shoals/7980,36.3747798,-92.6014349,,,w_1204643856,"shop=variety_store, brand=Dollar General"
+"South Lead Hill, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/lead-hill/11014,36.4054103,-92.9045335,,,w_1204643857,"shop=variety_store, brand=Dollar General"
+"South Lead Hill, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/omaha/19672,36.455237,-93.1889351,,,w_1204643858,"shop=variety_store, brand=Dollar General"
+"South Lead Hill, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/pyatt/22582,36.243514,-92.8440053,,,w_1204643865,"shop=variety_store, brand=Dollar General"
+"South Lead Hill, AR",,retail,452319,Dollar General,"Harrison, AR, 72601",,https://www.dollargeneral.com/store-directory/ar/harrison/16876,36.1382835,-93.1216877,,,w_1204713343,"shop=variety_store, brand=Dollar General"
+"South Lead Hill, AR",,retail,452319,Dollar General,,,,36.6341882,-93.0995414,,,w_1295093690,"shop=variety_store, brand=Dollar General"
+"South Lead Hill, AR",,retail,446110,Walgreens,,,,36.6104822,-93.2289435,,,w_1295990336,"shop=chemist, brand=Walgreens"
+"South Lead Hill, AR",,retail,445310,Sundown Liquor,"315 Main Street East, Alpena, AR, 72611",,,36.2948498,-93.2891314,,,w_1328585474,shop=alcohol
+"South Lead Hill, AR",,retail,445120,White Oak Station,"104 Highway 412, Alpena, AR, 72611",,,36.2937947,-93.2982416,,,w_1328585691,shop=convenience
+"South Lead Hill, AR",,retail,445120,Phillips 66,,,,36.2442925,-93.109303,,,w_1418218868,"shop=convenience, brand=Phillips 66"

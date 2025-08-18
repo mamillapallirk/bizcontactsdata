@@ -1,0 +1,49 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Thorsby, AL",,retail,452210,Belk,,,,33.2327461,-86.8021973,,,n_459390701,"shop=department_store, brand=Belk, operator=Belk"
+"Thorsby, AL",,retail,452210,Target,"250 South Colonial Drive, Alabaster, AL, 35007-4657",+1 205-564-2608,https://www.target.com/sl/alabaster/2276,33.2243459,-86.8043602,,,n_459390707,"shop=department_store, brand=Target"
+"Thorsby, AL",,retail,445230,,,,,32.6911199,-86.7957566,,,n_1429046724,shop=greengrocer
+"Thorsby, AL",,retail,445230,,,,,32.8008797,-86.9140101,,,n_1429046726,shop=greengrocer
+"Thorsby, AL",,retail,445120,Food Mart,"2241 7th Street South, Clanton, 35045",,,32.8008634,-86.5765696,,,n_2505394234,"shop=convenience, amenity=fuel"
+"Thorsby, AL",,retail,445120,Jet-Pep,"2261 7th Street South, Clanton, AL, 35045",,,32.8001978,-86.5753002,,,n_2505394238,"shop=convenience, amenity=fuel"
+"Thorsby, AL",,retail,445120,Texaco,"2320 7th Street South, Clanton, AL, 35045",,,32.7996424,-86.5731948,,,n_2505394243,"shop=convenience, amenity=fuel"
+"Thorsby, AL",,retail,445110,Publix,"90 Marketplace Circle, Calera, AL, 35040",+1 205-668-3585,https://www.publix.com/locations/1281,33.1555779,-86.7485346,,,n_2760034105,"shop=supermarket, brand=Publix"
+"Thorsby, AL",,retail,452210,Big Lots,"3550 Pelham Parkway, Pelham, AL, 35124",+1 205-620-5051,https://local.biglots.com/al/pelham/3550-pelham-pkwy,33.2649118,-86.8122851,,,n_4840193224,"shop=department_store, brand=Big Lots"
+"Thorsby, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/pelham/12246,33.263938,-86.8124484,,,n_4840193228,"shop=variety_store, brand=Dollar General"
+"Thorsby, AL",,retail,452210,TJ Maxx,,,,33.2236663,-86.8038966,,,n_8941907815,"shop=department_store, brand=TJ Maxx"
+"Thorsby, AL",,retail,446120,Ulta Beauty,"100 South Colonial Drive, Alabaster, AL, 35007",+1 205-664-4985,https://www.ulta.com/stores/alabaster-al-1084,33.2257461,-86.8045431,,,n_8941907833,"shop=cosmetics, brand=Ulta Beauty"
+"Thorsby, AL",,retail,445292,La Fiesta Snack Bar And Dulcería,"410 1st Street Southwest, Alabaster, AL",+1 205-624-3191,,33.2396704,-86.8183735,,,n_11762759252,shop=confectionery
+"Thorsby, AL",,retail,445110,Lucky's FoodLand,"4000 AL 25, Montevallo, AL, 35115",+1 205-665-5124,,33.0917618,-86.8648624,,,n_12500584535,"shop=supermarket, brand=FoodLand"
+"Thorsby, AL",,retail,445120,,,,,32.8442319,-86.5978016,,,n_12535243385,shop=convenience
+"Thorsby, AL",,retail,452319,Dollar General,"155 Birmingham Road, Centreville, AL, 35042-2949",+1 205-928-6820,https://www.dollargeneral.com/store-directory/al/centreville/9138,32.9472749,-87.1448767,,,n_12602256488,"shop=variety_store, brand=Dollar General"
+"Thorsby, AL",,retail,446110,CVS Pharmacy,"155 Birmingham Road, Centreville, AL, 35402",+1 205-926-4654,,32.9472775,-87.1451237,,,n_12602256500,"shop=chemist, brand=CVS Pharmacy"
+"Thorsby, AL",,retail,452319,Five Below,"100 South Colonial Drive, Alabaster, AL, 35007",+1 205-564-1095,https://locations.fivebelow.com/al/alabaster/100-s-colonial-dr,33.2259199,-86.8045403,,,n_12861953001,"shop=variety_store, brand=Five Below"
+"Thorsby, AL",,retail,445120,Loves' #368,,,,32.844847,-86.5915783,,,w_220383386,shop=convenience
+"Thorsby, AL",,retail,445120,Circle K,,,,33.1804395,-86.6153225,,,w_569166394,"shop=convenience, brand=Circle K"
+"Thorsby, AL",,retail,445110,Piggly Wiggly,"211 West College Street, Columbiana, AL, 35051",+1 205-669-9916,,33.1791063,-86.6133071,,,w_569166397,"shop=supermarket, brand=Piggly Wiggly"
+"Thorsby, AL",,retail,445310,ABC Beverages,,,,33.1793324,-86.6139413,,,w_569166399,shop=alcohol
+"Thorsby, AL",,retail,445120,,,,,33.1783649,-86.6050588,,,w_690258115,shop=convenience
+"Thorsby, AL",,retail,452210,JCPenney,,,,33.2226227,-86.8022847,,,w_698363626,"shop=department_store, brand=JCPenney"
+"Thorsby, AL",,retail,445110,Walmart Supercenter,"5100 U.S. 31, Calera, AL, 35040",+1 205-668-0831,https://www.walmart.com/store/3271-calera-al,33.1464208,-86.7518383,,,w_807671039,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Thorsby, AL",,retail,445120,Headley,,,,32.8862102,-86.6245443,,,w_824722010,shop=convenience
+"Thorsby, AL",,retail,445110,Walmart Neighborhood Market,"9085 Highway 119, Alabaster, AL, 35007",+1 205-624-6229,https://www.walmart.com/store/4756/alabaster-al,33.2121987,-86.8298012,,,w_870061882,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Thorsby, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/alabaster/9539,33.2138347,-86.8248607,,,w_870061889,"shop=variety_store, brand=Dollar General"
+"Thorsby, AL",,retail,445110,Publix,"9200 Highway 119, Alabaster, AL, 35007-5344",+1 205-663-3443,https://www.publix.com/locations/1073,33.2127058,-86.8256557,,,w_870061890,"shop=supermarket, brand=Publix"
+"Thorsby, AL",,retail,446110,CVS Pharmacy,,,,33.2146532,-86.8278442,,,w_870061893,"shop=chemist, brand=CVS Pharmacy"
+"Thorsby, AL",,retail,445110,Walmart Supercenter,"630 Colonial Promenade Parkway, Alabaster, AL, 35007",+1 205-620-0360,https://www.walmart.com/store/423-alabaster-al,33.2354875,-86.8012835,,,w_870236304,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Thorsby, AL",,retail,452210,Belk,,,,33.2327608,-86.8021965,,,w_870236314,"shop=department_store, brand=Belk"
+"Thorsby, AL",,retail,452210,Ross,"300 Colonial Promenade Parkway, Alabaster, AL, 35007",+1 205-663-1319,,33.2317788,-86.8021313,,,w_870236316,"shop=department_store, brand=Ross"
+"Thorsby, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/alabaster/4579/,33.2320907,-86.8022601,,,w_870513407,"shop=variety_store, brand=Dollar Tree"
+"Thorsby, AL",,retail,446110,,,,,33.218775,-86.825569,,,w_921953497,shop=chemist
+"Thorsby, AL",,retail,445110,,,,,33.2170917,-86.8264418,,,w_921953510,shop=supermarket
+"Thorsby, AL",,retail,445110,ALDI,"113 Simmsville Road, Alabaster, AL, 35007",+1 833-470-7038,https://stores.aldi.us/al/alabaster/113-simmsville-rd,33.2399113,-86.8154814,,,w_940866324,"shop=supermarket, brand=ALDI"
+"Thorsby, AL",,retail,445110,Piggly Wiggly,"24716 US-31, Jemison, AL, 35085",+1 205-688-2477,,32.9591894,-86.7420219,,,w_1069806466,"shop=supermarket, brand=Piggly Wiggly"
+"Thorsby, AL",,retail,446110,Hayes Drug,"24724 US-31, Jemison, AL, 35085",,,32.9594803,-86.7421703,,,w_1069806470,shop=chemist
+"Thorsby, AL",,retail,452319,Dollar General,"8898 County Road 42 East, Jemison, AL, 35085",,https://www.dollargeneral.com/store-directory/al/jemison/8862,32.9583581,-86.742272,,,w_1069806472,"shop=variety_store, brand=Dollar General"
+"Thorsby, AL",,retail,452319,Dollar General,"110 Cedar Street, Montevallo, AL, 35115",,https://www.dollargeneral.com/store-directory/al/montevallo/4962,33.0928915,-86.86227,,,w_1154319432,"shop=variety_store, brand=Dollar General"
+"Thorsby, AL",,retail,445120,,,,,33.139679,-86.7519431,,,w_1154360283,shop=convenience
+"Thorsby, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/calera/1881/,33.1483036,-86.748558,,,w_1154360324,"shop=variety_store, brand=Dollar Tree"
+"Thorsby, AL",,retail,445110,Maplesville Supermarket,"8331 Alabama Highway 22, Maplesville, AL, 36750",,,32.7736297,-86.8757609,,,w_1161544401,shop=supermarket
+"Thorsby, AL",,retail,452319,Dollar General,"8331 Alabama Highway 22, Maplesville, AL, 36750",,https://www.dollargeneral.com/store-directory/al/maplesville/1000,32.7732405,-86.8761273,,,w_1161544402,"shop=variety_store, brand=Dollar General"
+"Thorsby, AL",,retail,452319,Dollar General,,,,33.0755627,-86.5715285,,,w_1263564433,"shop=variety_store, brand=Dollar General"
+"Thorsby, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/columbiana-al-pharmacies/227-west-college-st-columbiana-al-35051/storeid=4866,33.1792015,-86.6146782,,,w_1263564449,"shop=chemist, brand=CVS Pharmacy"
+"Thorsby, AL",,retail,445110,Walmart Supercenter,"1415 7th Street South, Clanton, AL, 35045",+1 205-755-7574,https://www.walmart.com/store/424-clanton-al,32.8167395,-86.6093644,,,w_1311909801,"shop=supermarket, brand=Walmart, operator=Walmart"

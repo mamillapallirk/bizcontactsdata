@@ -1,0 +1,6 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"St. Johns, AZ",,retail,445120,Store and Ranger Station,,,,34.362483,-109.3750008,,,n_7798723763,shop=convenience
+"St. Johns, AZ",,retail,445120,Midway Store,,,,34.2719184,-109.6928756,,,w_354135483,shop=convenience
+"St. Johns, AZ",,retail,445120,Jiffy Store,,,,34.4425852,-109.6346169,,,w_522299949,shop=convenience
+"St. Johns, AZ",,retail,452319,Family Dollar,,,,34.4501945,-109.6309405,,,w_522299964,shop=variety_store
+"St. Johns, AZ",,retail,452319,Dollar General,"1180 West Cleveland Street, St Johns, AZ, 85936",,https://www.dollargeneral.com/store-directory/az/saint-johns/10201,34.5059228,-109.381558,,,w_840714045,"shop=variety_store, brand=Dollar General"

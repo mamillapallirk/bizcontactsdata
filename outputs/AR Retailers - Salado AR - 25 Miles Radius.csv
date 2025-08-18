@@ -1,0 +1,30 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Salado, AR",,retail,445120,Rick's,,,,35.4254864,-91.8396926,,,n_603373132,"shop=convenience, amenity=fuel"
+"Salado, AR",,retail,445120,Valero,,,,35.4246472,-91.8402828,,,n_603373134,"shop=convenience, amenity=fuel, brand=Valero"
+"Salado, AR",,retail,445120,Doublebees,,,,35.702331,-91.4581526,,,n_11163449410,shop=convenience
+"Salado, AR",,retail,445120,,,,,35.7331602,-91.1973287,,,n_12547996988,shop=convenience
+"Salado, AR",,retail,453991,Tobacco Haven,,,,35.9443502,-91.5491924,,,n_12752973732,shop=tobacco
+"Salado, AR",,retail,445120,Casey's General Store,,,,35.9408888,-91.5487735,,,n_12752973737,"shop=convenience, brand=Casey's General Store"
+"Salado, AR",,retail,445210,Superior,,8702012375,,35.9358521,-91.5479008,,,n_12754619308,shop=butcher
+"Salado, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/pangburn/8491,35.4254657,-91.835558,,,w_69720329,"shop=variety_store, brand=Dollar General"
+"Salado, AR",,retail,445120,,,,,35.4321475,-91.8872183,,,w_431875039,shop=convenience
+"Salado, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/drasco/11801,35.6337597,-91.946524,,,w_555383095,"shop=variety_store, brand=Dollar General"
+"Salado, AR",,retail,445110,Walmart Supercenter,"3150 Harrison Street, Batesville, AR, 72501",+1 870-793-9004,https://www.walmart.com/store/119-batesville-ar,35.7626457,-91.614053,,,w_563136675,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Salado, AR",,retail,445120,,,,,35.7619304,-91.6399252,,,w_564804864,shop=convenience
+"Salado, AR",,retail,445110,Kroger,"303 South Saint Louis Street, Batesville, AR, 72501",+1 870-793-2143,https://www.kroger.com/stores/grocery/ar/batesville/batesville-ar/025/00687,35.7761271,-91.6396812,,,w_564804878,"shop=supermarket, brand=Kroger"
+"Salado, AR",,retail,446110,Walgreens,"1045 South Saint Louis Street, Batesville, AR, 72501",+1-870-307-0262,https://www.walgreens.com/locator/walgreens-1045+s+saint+louis+st-batesville-ar-72501/id=12417,35.7691245,-91.640463,,,w_565125776,"shop=chemist, brand=Walgreens"
+"Salado, AR",,retail,445120,Littlefield Express,"1509 South Saint Louis Street, Batesville, AR, 72501",+1-870-793-4316,,35.7642586,-91.640676,,,w_565864186,shop=convenience
+"Salado, AR",,retail,445110,El Guero Mexican Store,"1009 Chaney Drive, Batesville, AR, 72501",+1-870-793-2130,,35.7649994,-91.6406466,,,w_565864189,shop=supermarket
+"Salado, AR",,retail,452319,Dollar General,"858 North Central Avenue, Batesville, AR, 72501",,https://www.dollargeneral.com/store-directory/ar/batesville/765,35.7761635,-91.6589839,,,w_639129359,"shop=variety_store, brand=Dollar General"
+"Salado, AR",,retail,445110,Walmart Supercenter,"1211 Highway 367 North, Newport, AR, 72112",+1 870-523-2500,https://www.walmart.com/store/18-newport-ar,35.6178916,-91.2549348,,,w_1021317850,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Salado, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/cushman/21043,35.8655496,-91.7534955,,,w_1198567221,"shop=variety_store, brand=Dollar General"
+"Salado, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/bradford/11621,35.4215123,-91.4494457,,,w_1203123873,"shop=variety_store, brand=Dollar General"
+"Salado, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/batesville/16909,35.8205386,-91.5940798,,,w_1203422437,"shop=variety_store, brand=Dollar General"
+"Salado, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/concord/23034,35.6629503,-91.8501763,,,w_1203422440,"shop=variety_store, brand=Dollar General"
+"Salado, AR",,retail,452319,Dollar General,,,,35.7140164,-91.2105195,,,w_1204346383,"shop=variety_store, brand=Dollar General"
+"Salado, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/newark/7116,35.702501,-91.4477521,,,w_1204486468,"shop=variety_store, brand=Dollar General"
+"Salado, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/batesville/14497,35.7003442,-91.6242893,,,w_1204486475,"shop=variety_store, brand=Dollar General"
+"Salado, AR",,retail,452319,Dollar General,"333 North Main Street, Cave City, AR, 72521",,https://www.dollargeneral.com/store-directory/ar/cave-city/4309,35.9452748,-91.5496842,,,w_1204486488,"shop=variety_store, brand=Dollar General"
+"Salado, AR",,retail,452319,Dollar General,"Bald Knob, AR, 72010",,https://www.dollargeneral.com/store-directory/ar/bald-knob/17716,35.4127022,-91.577015,,,w_1216406530,"shop=variety_store, brand=Dollar General"
+"Salado, AR",,retail,445110,Hometown Market,"111 North Main Street, Cave City, AR, 72521",+1-870-283-5187,https://cavecity.millershometownmarket.com/,35.9423318,-91.5493166,,,w_1373667051,shop=supermarket
+"Salado, AR",,retail,445110,Harps,"1740 Batesville Boulevard, Batesville, AR, 72501",,,35.7073872,-91.6311029,,,w_1415438794,"shop=supermarket, brand=Harps"

@@ -1,0 +1,29 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Union Springs, AL",,retail,445310,ABC,,,,32.4218528,-85.6927586,,,n_8191686092,shop=alcohol
+"Union Springs, AL",,retail,452319,Dollar Tree,,,,32.4187283,-85.695945,,,n_8191686158,"shop=variety_store, brand=Dollar Tree"
+"Union Springs, AL",,retail,445110,Piggly Wiggly,"205 East Conecuh, Union Springs, AL, 36726",+1 334-738-3904,,32.1467615,-85.7121883,,,n_9820951413,"shop=supermarket, brand=Piggly Wiggly"
+"Union Springs, AL",,retail,452319,Family Dollar,,,,32.1467844,-85.7116556,,,n_9820951414,"shop=variety_store, brand=Family Dollar"
+"Union Springs, AL",,retail,446120,,,,,32.1467842,-85.7124678,,,n_9821018907,shop=beauty
+"Union Springs, AL",,retail,446110,Main Drug Store,,,,32.146286,-85.7156538,,,n_9821018908,shop=chemist
+"Union Springs, AL",,retail,445310,Wine and Spirits,,,,32.0515248,-86.0440926,,,n_10796028581,shop=alcohol
+"Union Springs, AL",,retail,445120,Food Mart,,,,32.0515833,-86.0441652,,,n_10796028582,"shop=convenience, brand=Food Mart"
+"Union Springs, AL",,retail,445110,Food Giant,"247 Eufaula Avenue, Clayton, AL, 36016",,,31.8790142,-85.4392416,,,w_511442357,shop=supermarket
+"Union Springs, AL",,retail,452319,Dollar General,,,,32.0788553,-85.5220853,,,w_755799844,"shop=variety_store, brand=Dollar General"
+"Union Springs, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/tuskegee-al-pharmacies/202-w-martin-luther-king-hwy-tuskegee-al-36083/storeid=4940,32.4232469,-85.6923152,,,w_880729281,"shop=chemist, brand=CVS Pharmacy"
+"Union Springs, AL",,retail,452319,Family Dollar,,,,32.4229131,-85.6927124,,,w_880729282,"shop=variety_store, brand=Family Dollar"
+"Union Springs, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/tuskegee/11901,32.4215636,-85.6930878,,,w_880729285,"shop=variety_store, brand=Dollar General"
+"Union Springs, AL",,retail,452319,LilyMag's Boutique,,,,31.8783844,-85.4488743,,,w_1079038914,shop=general
+"Union Springs, AL",,retail,445310,ABC Store,,,,31.8783594,-85.4484344,,,w_1079038918,shop=alcohol
+"Union Springs, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/clayton/1370,31.87885,-85.4475573,,,w_1079038927,"shop=variety_store, brand=Dollar General"
+"Union Springs, AL",,retail,445120,,,,,32.4248855,-85.6889317,,,w_1116987470,shop=convenience
+"Union Springs, AL",,retail,445120,,,,,32.4058299,-85.7166444,,,w_1116987472,"shop=convenience, brand=Chevron"
+"Union Springs, AL",,retail,452319,,,,,32.4048824,-85.719361,,,w_1116987474,"shop=variety_store, brand=Dollar General"
+"Union Springs, AL",,retail,445120,,,,,32.4297735,-85.6795853,,,w_1117011113,"shop=convenience, brand=Valero"
+"Union Springs, AL",,retail,445120,Z-Tec,"11974 Troy Highway, 36064",,,32.1932032,-86.1166869,,,w_1180090448,"shop=convenience, amenity=fuel"
+"Union Springs, AL",,retail,445120,Spooky's,,,,32.1457082,-85.7087524,,,w_1180106381,shop=convenience
+"Union Springs, AL",,retail,445120,Sunoco,,,,32.1465238,-85.7086953,,,w_1180106382,"shop=convenience, brand=Sunoco"
+"Union Springs, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/union-springs/8835,32.1457469,-85.7128159,,,w_1180106387,"shop=variety_store, brand=Dollar General"
+"Union Springs, AL",,retail,445120,,,,,32.0784122,-85.5168708,,,w_1180239987,shop=convenience
+"Union Springs, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/midway/17399,32.0780179,-85.5240132,,,w_1180239990,"shop=variety_store, brand=Dollar General"
+"Union Springs, AL",,retail,445120,,,,,32.0458401,-86.0370954,,,w_1180285746,shop=convenience
+"Union Springs, AL",,retail,446110,Clayton Drugs,"23 Court Square, Clayton, AL, 36016",,,31.8779354,-85.4490555,,,w_1207578415,shop=chemist

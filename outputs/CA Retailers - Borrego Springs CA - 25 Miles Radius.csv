@@ -1,0 +1,26 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Borrego Springs, CA",,retail,445110,Dons Market,"30250 Highway 78, 92070",+1-760-765-3272,https://www.donsmarketsantaysabel.com/,33.1093752,-116.6749675,,,n_365319834,shop=supermarket
+"Borrego Springs, CA",,retail,445120,,,,,33.5696244,-116.1819846,,,n_1221410263,shop=convenience
+"Borrego Springs, CA",,retail,445120,,,,,32.9792606,-116.4365147,,,n_1298545398,shop=convenience
+"Borrego Springs, CA",,retail,445110,Center Market,,+1-760-767-3311,,33.2575622,-116.3800057,,,n_1829326108,shop=supermarket
+"Borrego Springs, CA",,retail,445120,Banner Store,,,,33.0684606,-116.5474641,,,n_1960764992,shop=convenience
+"Borrego Springs, CA",,retail,445120,Desert Pantry Grocers,,,,33.2560612,-116.3798317,,,n_4668875548,shop=convenience
+"Borrego Springs, CA",,retail,445120,Warner Springs Gas Mart,,,,33.2832051,-116.6346755,,,n_9530330876,"shop=convenience, amenity=fuel, operator=Warner Springs Ranch Resort, LLC"
+"Borrego Springs, CA",,retail,445120,,,,,33.1773332,-116.6899787,,,n_10263014399,shop=convenience
+"Borrego Springs, CA",,retail,445120,Alamo,,,,33.4622321,-116.0962308,,,n_10266368265,"shop=convenience, amenity=fuel"
+"Borrego Springs, CA",,retail,445120,Village Liquor & Food,,,,33.2563839,-116.3766662,,,n_10269035975,shop=convenience
+"Borrego Springs, CA",,retail,445310,Julian Hard Cider Tasting Room,,,,33.0979323,-116.6466272,,,n_11057308087,shop=alcohol
+"Borrego Springs, CA",,retail,445120,Mirage Gas Company,"755 Palm Canyon Drive, Borrego Springs, CA, 92004",+1 760-767-7405,,33.2563383,-116.3726921,,,n_11280517204,"shop=convenience, amenity=fuel"
+"Borrego Springs, CA",,retail,445292,Candy Basket,"2116 Main Street, Julian, CA, 92036",+1 760-765-0785,,33.0783217,-116.6017498,,,n_12377223515,shop=confectionery
+"Borrego Springs, CA",,retail,445120,ampm,"2084 South Marina Drive, Salton City, CA, 92274",,,33.2788592,-115.9655725,,,w_207552160,"shop=convenience, brand=ampm"
+"Borrego Springs, CA",,retail,445120,,,,,33.3515213,-116.7406153,,,w_243195158,shop=convenience
+"Borrego Springs, CA",,retail,445120,Agua Caliente General Store,,,,32.9551269,-116.3026982,,,w_250913639,shop=convenience
+"Borrego Springs, CA",,retail,445120,Ramco,"1913 Main Street, Julian, 92036",,,33.076721,-116.6002572,,,w_250913650,shop=convenience
+"Borrego Springs, CA",,retail,445120,West Shores Market,"2113 Marina Drive, Salton City, CA, 92274",,,33.2803232,-115.9615501,,,w_406617024,shop=convenience
+"Borrego Springs, CA",,retail,446120,Tresses by the Sea,"2116 Marina Drive, Salton City, CA, 92274",,,33.2811255,-115.9610072,,,w_407100851,shop=beauty
+"Borrego Springs, CA",,retail,452319,Stagecoach Trails General Store,7878 Great Southern Overland Stage Route,,,33.0602776,-116.4248752,,,w_474276425,shop=general
+"Borrego Springs, CA",,retail,452319,Jack’s Grocery,"2117 Main Street, Julian, 92036",,,33.0780789,-116.6020229,,,w_526639037,shop=general
+"Borrego Springs, CA",,retail,445310,Mountain Spirits Liquor,"2120 Main Street, Julian",,,33.0784076,-116.6018316,,,w_526639082,shop=alcohol
+"Borrego Springs, CA",,retail,445120,Santa Rosa Pit Stop,,,,33.560559,-116.5443933,,,w_1155955864,shop=convenience
+"Borrego Springs, CA",,retail,452319,Family Dollar,"2108 Service Road, Salton City, CA, 92274",,,33.2803687,-115.9669158,,,w_1276208712,"shop=variety_store, brand=Family Dollar"
+"Borrego Springs, CA",,retail,452319,Dollar General,"2110 Service Road, Salton City, CA, 92274",+1-760-394-6883,,33.2807943,-115.9669668,,,w_1276208713,"shop=variety_store, brand=Dollar General"

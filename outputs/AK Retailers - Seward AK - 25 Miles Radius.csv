@@ -1,0 +1,8 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Seward, AK",,retail,452210,Brown & Hawkins,"209 Fourth Avenue, 99664",,http://brownandhawkins.com/,60.1015468,-149.4404976,,,n_4789370524,shop=department_store
+"Seward, AK",,retail,445310,Tony's Liquor Store,,,,60.1007598,-149.4408702,,,n_4944420359,shop=alcohol
+"Seward, AK",,retail,445310,Primrose Provisions,,,,60.1007817,-149.438591,,,n_6654003084,shop=wine
+"Seward, AK",,retail,445120,Gateway Liquor & Food Mart,,,,60.1188329,-149.4408032,,,n_7393871913,shop=convenience
+"Seward, AK",,retail,445110,Safeway,"1907 Seward Highway, Seward, AK, 99664",+1 907-224-6900,https://local.safeway.com/safeway/ak/seward/1907-seward-hwy.html,60.126009,-149.43657,,,w_129384903,"shop=supermarket, brand=Safeway"
+"Seward, AK",,retail,445110,Three Bears,,,,60.12417,-149.4386272,,,w_708132673,shop=supermarket
+"Seward, AK",,retail,445120,Moose Pass Mercantile,,,,60.4026699,-149.3630129,,,w_708132679,shop=convenience

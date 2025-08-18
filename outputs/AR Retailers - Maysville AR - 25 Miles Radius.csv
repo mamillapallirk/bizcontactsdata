@@ -1,0 +1,128 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Maysville, AR",,retail,446120,Fancy Nails,4404 West Walnut Street Ste 6,,,36.3340626,-94.1787571,,,n_1127235366,shop=beauty
+"Maysville, AR",,retail,445120,Mi Tienda,875 East Jefferson Street,,,36.1815994,-94.5339392,,,n_1127251119,shop=convenience
+"Maysville, AR",,retail,452319,Dollar Tree,1443 Highway 412 West,,,36.1775027,-94.5566739,,,n_1127252764,"shop=variety_store, brand=Dollar Tree"
+"Maysville, AR",,retail,445110,Akin's Natural Foods,4011 West Walnut Street,,,36.3364258,-94.1764355,,,n_1127253834,shop=supermarket
+"Maysville, AR",,retail,445110,The Fresh Market,2107 Promenade Boulevard,,,36.3046499,-94.1766334,,,n_1127300236,"shop=supermarket, brand=The Fresh Market"
+"Maysville, AR",,retail,445299,Braum's,2305 Southeast Walton Boulevard,,,36.3356788,-94.186554,,,n_1127422801,"shop=dairy, amenity=fast_food, brand=Braum's"
+"Maysville, AR",,retail,446120,Bella Mia,108 North 34th Street,,,36.3354409,-94.1670906,,,n_1127441545,shop=beauty
+"Maysville, AR",,retail,446120,Luxury Nails,315 Highway 412 West Lot A,,,36.1731758,-94.5440723,,,n_1127546388,shop=beauty
+"Maysville, AR",,retail,445110,Harps Grocery Store,300 South Gentry Boulevard,,,36.2649054,-94.4795107,,,n_1127574485,shop=supermarket
+"Maysville, AR",,retail,445110,Walmart Neighborhood Market,"5000 Pauline Whitaker Parkway, Rogers, AR, 72758",+1 479-254-1004,https://www.walmart.com/store/5837-rogers-ar,36.2955619,-94.185901,,,n_1196594073,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Maysville, AR",,retail,452210,JCPenney,,,,36.3034447,-94.1732597,,,n_2320662728,"shop=department_store, brand=JCPenney, operator=jcpenny"
+"Maysville, AR",,retail,446120,Sephora,,,,36.3052821,-94.176666,,,n_2321016617,"shop=cosmetics, brand=Sephora"
+"Maysville, AR",,retail,445292,Popdipity Gourmet Popcorn,"2203 Promenade Boulevard, Rogers, AR, 72758",(479) 478-2953,https://www.popdipity.com/,36.3039122,-94.1753096,,,n_2321031097,shop=confectionery
+"Maysville, AR",,retail,445292,Candy Craze,,,,36.3049017,-94.1745739,,,n_2322208379,shop=confectionery
+"Maysville, AR",,retail,445292,Rocky Mountain Chocolate,,,,36.305319,-94.174759,,,n_2322208391,shop=confectionery
+"Maysville, AR",,retail,445292,Great American Cookie,,,,36.3047245,-94.1747617,,,n_2322208392,shop=confectionery
+"Maysville, AR",,retail,446120,The Body Shop,,,,36.3049666,-94.1756656,,,n_2322218299,"shop=cosmetics, brand=The Body Shop"
+"Maysville, AR",,retail,452210,Gordmans,,,,36.3088994,-94.1757525,,,n_2324920225,"shop=department_store, brand=Gordmans"
+"Maysville, AR",,retail,446120,Bella Vista Beauty Salon,,,,36.4652635,-94.3008429,,,n_2533560664,shop=beauty
+"Maysville, AR",,retail,445110,Harps Food Store,"404 Towncenter, 72714",,,36.4768761,-94.2470203,,,n_2535886359,shop=supermarket
+"Maysville, AR",,retail,445110,,,,,36.6461293,-94.4522677,,,n_3985431938,shop=supermarket
+"Maysville, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/decatur/7978,36.3361815,-94.4598419,,,n_4932601713,"shop=variety_store, brand=Dollar General"
+"Maysville, AR",,retail,452210,Marshalls,,,,36.3332004,-94.1767015,,,n_5282900201,"shop=department_store, brand=Marshalls"
+"Maysville, AR",,retail,445120,White Oak Station,,,,36.3139435,-94.1797782,,,n_5284125188,shop=convenience
+"Maysville, AR",,retail,446120,Club Tan,,,,36.3116056,-94.180018,,,n_5284125191,shop=beauty
+"Maysville, AR",,retail,446120,Nails & Spa,,,,36.3118021,-94.1784589,,,n_5284125193,shop=beauty
+"Maysville, AR",,retail,446120,T. Michaels Salon and Spa,"11 Halsted Circle, Rogers, AR, 72756",,,36.3348276,-94.1605009,,,n_5292328984,shop=beauty
+"Maysville, AR",,retail,446120,Ulta Beauty,"2203 South Promenade Boulevard, Rogers, AR, 72758",+1 479-631-0038,https://www.ulta.com/stores/rogers-ar-419,36.3087449,-94.1749671,,,n_5292329009,"shop=beauty, brand=Ulta Beauty"
+"Maysville, AR",,retail,452210,TJ Maxx,,,,36.3088314,-94.176158,,,n_5292329011,"shop=department_store, brand=TJ Maxx"
+"Maysville, AR",,retail,446120,Rouge Salon and Nail Spa,,,,36.3102015,-94.1799843,,,n_5292480473,shop=beauty
+"Maysville, AR",,retail,446120,Spa 810,,,,36.2979138,-94.1861725,,,n_5292521587,shop=beauty
+"Maysville, AR",,retail,446120,European Wax Center,,,https://locations.waxcenter.com/ar/rogers/rogers-0789.html,36.2957113,-94.1842786,,,n_5294603673,"shop=beauty, brand=European Wax Center"
+"Maysville, AR",,retail,446120,Adella Nail Bar,,,,36.2956913,-94.1841778,,,n_5294603677,shop=beauty
+"Maysville, AR",,retail,445110,Walmart Neighborhood Market,"906 Southwest Regional Airport Boulevard, Bentonville, AR, 72712",+1 479-268-7678,https://www.walmart.com/store/4686-bentonville-ar,36.337252,-94.223909,,,n_5315597955,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Maysville, AR",,retail,445120,Circle N,,,,36.2048269,-94.7822402,,,n_6468458049,shop=convenience
+"Maysville, AR",,retail,446120,,,,,36.2967952,-94.1875178,,,n_7115482240,shop=beauty
+"Maysville, AR",,retail,453110,Eden's Flower Truck,,,,36.2754823,-94.2970368,,,n_7507257081,shop=florist
+"Maysville, AR",,retail,445110,Walmart Neighborhood Market,"1400 North Walton Boulevard, Bentonville, AR, 72712",+1 479-268-9829,https://www.walmart.com/store/4376/bentonville-ar,36.3891104,-94.2193802,,,n_7575059535,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Maysville, AR",,retail,445110,World Food,,,,36.3350122,-94.1947589,,,n_8026709285,shop=supermarket
+"Maysville, AR",,retail,445120,Kum & Go,,,https://www.kumandgo.com/store-locator?details=0405,36.3428173,-94.1846859,,,n_8200240543,"shop=convenience, brand=Kum & Go"
+"Maysville, AR",,retail,445110,Homeland Grocery Store,,,,36.4144743,-94.8138499,,,n_9659594684,shop=supermarket
+"Maysville, AR",,retail,446110,Walgreens,"1119 South Main Street, Grove, OK, 74344",(918) 786-6867,https://www.walgreens.com/locator/walgreens-1119+s+main+st-grove-ok-74344/id=10643,36.5835259,-94.7685322,,,n_9821347584,"shop=chemist, brand=Walgreens"
+"Maysville, AR",,retail,452319,Dollar General,"414 21st Street, Grove, OK, 74344",(918) 786-0668,https://www.dollargeneral.com/store-directory/ok/grove/3376,36.6015827,-94.7883439,,,n_9821377521,"shop=variety_store, brand=Dollar General"
+"Maysville, AR",,retail,445120,,,,,36.2969679,-94.1854152,,,n_9975857556,shop=convenience
+"Maysville, AR",,retail,446120,Pinnacle Nail Spa,"2204 Promenade Boulevard, Rogers, AR, 72758",479-202-5321,https://www.pinnaclehillspromenade.com/en/directory/pinnacle-nail-spa-26612.html,36.303214,-94.1788163,,,n_10121898792,shop=beauty
+"Maysville, AR",,retail,452319,Dollar General,"197 State Hwy 59, Sulphur Springs, AR, 72768",+14797361447,https://www.dollargeneral.com/store-directory/ar/sulphur-springs/22405,36.4812659,-94.4565312,,,n_10920743986,"shop=variety_store, brand=Dollar General"
+"Maysville, AR",,retail,446120,The Spa at Shangri-La,"57301 East Highway 125, Monkey Island, OK, 74331",+1 918 257 7734,https://www.shangrilaok.com/wellness,36.560243,-94.8387908,,,n_11115899501,shop=beauty
+"Maysville, AR",,retail,452319,Dollar General,202 Highway 412 West,,https://www.dollargeneral.com/store-directory/ar/siloam-springs/242,36.1721338,-94.5436936,,,n_11177266521,"shop=variety_store, brand=Dollar General"
+"Maysville, AR",,retail,446120,Asian Nails,,,,36.1747129,-94.5518636,,,n_12040806725,shop=beauty
+"Maysville, AR",,retail,445120,412 Fuel & Feed,,,,36.1787258,-94.6422882,,,n_12040817487,shop=convenience
+"Maysville, AR",,retail,445120,,,,,36.1878514,-94.7078736,,,n_12040817543,shop=convenience
+"Maysville, AR",,retail,445120,Jiffy Trip,,,,36.1730776,-94.546575,,,n_12040898358,shop=convenience
+"Maysville, AR",,retail,446120,Onyx Nail Bar,,,,36.180241,-94.5119771,,,n_12044025123,shop=beauty
+"Maysville, AR",,retail,446120,Nail Tech,,,,36.1814174,-94.5115282,,,n_12044692600,shop=beauty
+"Maysville, AR",,retail,445120,Braich Arrow Express,,,,36.1773966,-94.2581563,,,n_12054149581,shop=convenience
+"Maysville, AR",,retail,445120,Littlefield's Country Market,,,,36.634553,-94.8739323,,,n_12222998230,shop=convenience
+"Maysville, AR",,retail,445120,The Wood Shed,,,,36.6357505,-94.8743442,,,n_12223051949,shop=convenience
+"Maysville, AR",,retail,446120,Glam'd Nail Spa,,,,36.3571296,-94.2389995,,,n_12288873908,shop=beauty
+"Maysville, AR",,retail,445120,Speedy's,,,,36.2058576,-94.7801183,,,n_12292084762,shop=convenience
+"Maysville, AR",,retail,452319,Dollar General,,,,36.1070597,-94.571266,,,n_12292260295,"shop=variety_store, brand=Dollar General"
+"Maysville, AR",,retail,445210,Carniceria Romero,"4408 W Walnut St , Rogers, AR 72756",,,36.333046,-94.1787949,,,n_12947665058,shop=butcher
+"Maysville, AR",,retail,446120,Cellini Nail Lounge,,,,36.3618327,-94.1962785,,,n_13042497302,shop=beauty
+"Maysville, AR",,retail,445120,Kahoots,,,,36.571647,-94.9711512,,,n_13049018483,shop=convenience
+"Maysville, AR",,retail,452319,Dollar General,,,,36.5724262,-94.971877,,,n_13049029826,"shop=variety_store, brand=Dollar General"
+"Maysville, AR",,retail,445110,Walmart Supercenter,"100 Commercial Drive, Pineville, MO, 64856",+1 417-226-5800,https://www.walmart.com/store/5261-pineville-mo,36.5078173,-94.2779026,,,w_81304142,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Maysville, AR",,retail,445310,Discount Smokes & Liquor,"22176 US Highway 71, Pineville, MO, 64856",,,36.4996238,-94.2691126,,,w_124905399,shop=alcohol
+"Maysville, AR",,retail,445299,Braum's,1119 North Walton Boulevard,,,36.3854335,-94.2217973,,,w_124912299,"shop=dairy, amenity=fast_food, brand=Braum's"
+"Maysville, AR",,retail,445110,Walmart Neighborhood Market,"3510 Southeast 14th Street, Bentonville, AR, 72712",+1 479-621-6450,https://www.walmart.com/store/2741-bentonville-ar,36.3542659,-94.1710646,,,w_210857397,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Maysville, AR",,retail,445110,Walmart Supercenter,"406 South Walton Boulevard, Bentonville, AR, 72712",+1 479-273-0060,https://www.walmart.com/store/100-bentonville-ar,36.3681821,-94.2249403,,,w_211510144,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Maysville, AR",,retail,452210,Dillard's,"2101 Promenade Boulevard, Rogers, AR, 72758",+1 479-936-7984,https://www.dillards.com/stores/arkansas/pinnacle-hills-promenade-rogers/0408,36.3064485,-94.1771632,,,w_223584654,"shop=department_store, brand=Dillard's"
+"Maysville, AR",,retail,452319,Dollar General,"1760 Forest Hills Boulevard, Bella Vista, AR, 72715",,https://www.dollargeneral.com/store-directory/ar/bella-vista/5712,36.4638411,-94.3023437,,,w_246302710,"shop=variety_store, brand=Dollar General"
+"Maysville, AR",,retail,445110,Allen's Food Market,60 Sugar Creek Center,,,36.4404415,-94.2360138,,,w_246572170,shop=supermarket
+"Maysville, AR",,retail,445110,Walmart Supercenter,"2901 Highway 412 East, Siloam Springs, AR, 72761",+1 479-524-5101,https://www.walmart.com/store/4-siloam-springs-ar,36.1833676,-94.5127186,,,w_280176638,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Maysville, AR",,retail,445110,ALDI,"2802 Highway 412 East, Siloam Springs, AR, 72761",+1 855-955-2534,https://stores.aldi.us/ar/siloam-springs/2802-hwy-412-east,36.1800809,-94.5131734,,,w_280177472,"shop=supermarket, brand=ALDI"
+"Maysville, AR",,retail,445299,Braum's,"551 Highway 412 West, Siloam Springs, AR, 72761",,,36.1740583,-94.5467455,,,w_280180152,"shop=dairy, amenity=fast_food, brand=Braum's"
+"Maysville, AR",,retail,445110,Harps,"201 Highway 412 West, Siloam Springs, AR, 72761",,,36.1735699,-94.543191,,,w_280180758,shop=supermarket
+"Maysville, AR",,retail,445120,Citgo,1014 South Mount Olive Street,,,36.1728981,-94.5418389,,,w_300881258,"shop=convenience, brand=Citgo"
+"Maysville, AR",,retail,445230,Oriental Food market,399 Highway 412 West,,,36.1733951,-94.544482,,,w_301091157,shop=greengrocer
+"Maysville, AR",,retail,445120,,998 South Lincoln Street,,,36.1744108,-94.5286479,,,w_301092678,"shop=convenience, brand=Phillips 66"
+"Maysville, AR",,retail,445310,McGoo's Liquor,,,,36.1719177,-94.5311139,,,w_306047636,shop=alcohol
+"Maysville, AR",,retail,446120,Savvy,105 West University Street,,,36.1862364,-94.5418169,,,w_308940526,shop=beauty
+"Maysville, AR",,retail,445120,,925 West Tulsa Street,,,36.1783834,-94.5505261,,,w_312519292,shop=convenience
+"Maysville, AR",,retail,452210,Target,"2404 Promenade Boulevard, Rogers, AR, 72758-9080",+1 479-986-1100,https://www.target.com/sl/rogers/2498,36.2993588,-94.1727959,,,w_342650785,"shop=department_store, brand=Target"
+"Maysville, AR",,retail,445110,Harps,1211 North Walton Boulevard,,,36.3869443,-94.2225004,,,w_457903006,"shop=supermarket, brand=Harps"
+"Maysville, AR",,retail,445120,The Station II,,,,36.1755391,-94.5673661,,,w_483063539,shop=convenience
+"Maysville, AR",,retail,445292,Little Debbie Company Store,105 South Gentry Boulevard,,,36.266948,-94.4798005,,,w_484860386,shop=confectionery
+"Maysville, AR",,retail,452319,Dollar General,"100 North Gentry Boulevard, Gentry, AR, 72734",,https://www.dollargeneral.com/store-directory/ar/gentry/3208,36.267708,-94.4774775,,,w_484860394,"shop=variety_store, brand=Dollar General"
+"Maysville, AR",,retail,445110,Walmart Neighborhood Market,"1800 East Centerton Boulevard, Bentonville, AR, 72712",+1 479-795-4100,https://www.walmart.com/store/6953-centerton-ar,36.3588923,-94.2530591,,,w_495337661,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Maysville, AR",,retail,445120,Kum & Go,,,https://www.kumandgo.com/store-locator?details=0412,36.336901,-94.2535283,,,w_495337664,"shop=convenience, brand=Kum & Go"
+"Maysville, AR",,retail,445120,Kum & Go,,,https://www.kumandgo.com/store-locator?details=0416,36.3635312,-94.1976581,,,w_495337682,"shop=convenience, brand=Kum & Go"
+"Maysville, AR",,retail,445110,Walmart Neighborhood Market,"935 South Holly Street, Siloam Springs, AR, 72761",+1 479-549-9060,https://www.walmart.com/store/6960-siloam-springs-ar,36.1752208,-94.557513,,,w_506286718,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Maysville, AR",,retail,445120,Walmart Grab & Go,,,,36.1757655,-94.5575118,,,w_506286723,shop=convenience
+"Maysville, AR",,retail,445120,,1295 North Mount Olive Street,,,36.195732,-94.5404463,,,w_506289300,shop=convenience
+"Maysville, AR",,retail,445120,,,,,36.1952872,-94.5236236,,,w_506289305,shop=convenience
+"Maysville, AR",,retail,445120,Casey's General Store,2655 Highway 412 East,,,36.1816781,-94.5150838,,,w_506290195,"shop=convenience, brand=Casey's General Store"
+"Maysville, AR",,retail,445310,Spiritueux Wine & Liquors,,,,36.3123372,-94.1718656,,,w_507081382,shop=alcohol
+"Maysville, AR",,retail,445120,Southwest City Station,,,,36.517728,-94.6105507,,,w_518698901,shop=convenience
+"Maysville, AR",,retail,445120,Circle K,,,,36.5766403,-94.7684186,,,w_524990154,"shop=convenience, brand=Circle K"
+"Maysville, AR",,retail,445110,Walmart Supercenter,"2115 South Main Street, Grove, OK, 74344",+1 918-786-8561,https://www.walmart.com/store/90-grove-ok,36.5762736,-94.7657488,,,w_525002834,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Maysville, AR",,retail,445110,Harp's Food Store,,,,36.5824108,-94.7711193,,,w_525224722,shop=supermarket
+"Maysville, AR",,retail,452210,Sears Hometown,,,,36.5783899,-94.7715743,,,w_525976215,"shop=department_store, brand=Sears Hometown"
+"Maysville, AR",,retail,445110,Walmart Neighborhood Market,"205 North Main Street, Bentonville, AR, 72712",+1 479-268-9244,https://www.walmart.com/store/3164-bentonville-ar,36.3736965,-94.2091858,,,w_533179978,"shop=supermarket, brand=Walmart, operator=Wal-Mart Stores, Inc."
+"Maysville, AR",,retail,445110,Walmart Neighborhood Market,"1703 East Central Avenue, Bentonville, AR, 72712",+1 479-418-0227,https://www.walmart.com/store/2686/bentonville-ar,36.372262,-94.1890175,,,w_533182187,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Maysville, AR",,retail,445292,KYYA Chocolate,,,,36.2088009,-94.2326736,,,w_533264077,shop=chocolate
+"Maysville, AR",,retail,445292,KYYA Chocolate,,,,36.3727842,-94.2090916,,,w_642707241,shop=chocolate
+"Maysville, AR",,retail,445120,Love's,,,https://www.loves.com/locations/658,36.1754576,-94.5737208,,,w_650426299,"shop=convenience, brand=Love's"
+"Maysville, AR",,retail,452319,Dollar General,"1000 Cheri Whitlock Drive, Siloam Springs, AR, 72761",,https://www.dollargeneral.com/store-directory/ar/siloam-springs/18366,36.1953046,-94.5317037,,,w_821426220,"shop=variety_store, brand=Dollar General"
+"Maysville, AR",,retail,452210,Belk,503 North 46th Street,,,36.339135,-94.1765444,,,w_827256941,"shop=department_store, brand=Belk"
+"Maysville, AR",,retail,452210,Ross,"481 North 46th Street, Rogers, AR, 72756",+1 479-631-0187,,36.3385343,-94.1767878,,,w_827256942,"shop=department_store, brand=Ross"
+"Maysville, AR",,retail,452319,Dollar Tree,475 North 46th Street,,https://www.dollartree.com/locations/ar/rogers/8806/,36.3382381,-94.1769641,,,w_827256943,"shop=variety_store, brand=Dollar Tree"
+"Maysville, AR",,retail,452210,Kohl's,"301 North 46th Street, Rogers, AR, 72756",+1 479-636-8809,https://www.kohls.com/stores/ar/rogers-457.shtml,36.3374897,-94.1767549,,,w_827256945,"shop=department_store, brand=Kohl's, operator=Kohl's Rogers-AR"
+"Maysville, AR",,retail,452319,Dollar General,"406 1st Avenue Northeast, Gravette, AR, 72736",,https://www.dollargeneral.com/store-directory/ar/gravette/151,36.4254587,-94.4528721,,,w_851353735,"shop=variety_store, brand=Dollar General"
+"Maysville, AR",,retail,445310,Stateline Liquor,,,,36.5030405,-94.482777,,,w_851365846,shop=alcohol
+"Maysville, AR",,retail,445310,Stateline Liquor,,,,36.4991362,-94.480767,,,w_851365847,shop=alcohol
+"Maysville, AR",,retail,445110,Harp's Grocery Store,,,,36.4209922,-94.4523225,,,w_853492952,shop=supermarket
+"Maysville, AR",,retail,445110,ALDI,"1006 Southwest 14th Street, Bentonville, AR, 72712",+1 855-955-2534,https://stores.aldi.us/ar/bentonville/1006-sw-14th-street,36.3577791,-94.224126,,,w_934747545,"shop=supermarket, brand=ALDI"
+"Maysville, AR",,retail,445120,Canteen,,,,36.2179674,-94.6453181,,,w_996498537,shop=convenience
+"Maysville, AR",,retail,445110,Sugar Creek Center,"30 Sugar Creek Center, Bella Vista, AR, 72714",,,36.4400218,-94.2360138,,,w_1002820594,shop=supermarket
+"Maysville, AR",,retail,445120,,121 South Elm Street,,,36.20604,-94.235254,,,w_1088954396,shop=convenience
+"Maysville, AR",,retail,445120,Walmart,"1300 South Walton Boulevard, Bentonville, AR, 72712",+1-479-271-2209,https://www.walmart.com/store/7368-bentonville-ar,36.3574826,-94.2146951,,,w_1177911986,"shop=convenience, brand=Walmart, operator=Walmart"
+"Maysville, AR",,retail,452319,Dollar Tree,"110 Gordon Hollow Road, Pineville, MO, 64856",,https://www.dollartree.com/locations/mo/jane/7403/,36.5078217,-94.2829581,,,w_1201415873,"shop=variety_store, brand=Dollar Tree"
+"Maysville, AR",,retail,452319,Dollar General,"14956 West Highway 12, Gentry, AR, 72734",,https://www.dollargeneral.com/store-directory/ar/gentry/22590,36.2620217,-94.3522965,,,w_1205266656,"shop=variety_store, brand=Dollar General"
+"Maysville, AR",,retail,445310,Stock Tank Liquor,,,,36.1805026,-94.5103233,,,w_1206658874,shop=alcohol
+"Maysville, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/bentonville/23820,36.3127201,-94.3044791,,,w_1241862765,"shop=variety_store, brand=Dollar General"
+"Maysville, AR",,retail,452319,The Jane Store,"2980 Rains Road, Pineville, MO, 64856",,,36.5465974,-94.3054755,,,w_1252097916,shop=general
+"Maysville, AR",,retail,445120,Jiffy Trip,,,,36.1815885,-94.4976792,,,w_1300298643,shop=convenience
+"Maysville, AR",,retail,445120,,,,,36.4093937,-94.823366,,,w_1328669543,shop=convenience

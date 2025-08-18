@@ -1,0 +1,6 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Ouzinkie, AK",,retail,445110,Safeway,"2685 Mill Bay Road, Kodiak, AK, 99615",+1 907-481-1500,https://local.safeway.com/safeway/ak/kodiak/2685-mill-bay-rd.html,57.8107759,-152.3675601,,,w_108343361,"shop=supermarket, brand=Safeway"
+"Ouzinkie, AK",,retail,445310,Safeway Liquor,"502 Marine Way, 99615",,https://local.safeway.com/ak/kodiak-2522.html,57.7885226,-152.4080831,,,w_132189171,shop=alcohol
+"Ouzinkie, AK",,retail,452210,Walmart,"2911 Mill Bay Road, Kodiak, AK, 99615",+1-907-481-1670,https://www.walmart.com/store/2711-kodiak-ak,57.8119554,-152.365307,,,w_209450680,"shop=department_store, brand=Walmart, operator=Walmart"
+"Ouzinkie, AK",,retail,445110,Kodiak Commissary,,,https://www.commissaries.com/shopping/store-locations/kodiak,57.733604,-152.5055493,,,w_238687082,"shop=supermarket, operator=Defense Commissary Agency"
+"Ouzinkie, AK",,retail,452210,Coast Guard Exchange,"BLD 26 Albatross Avenue, Kodiak, AK, 99615",,https://shopcgx.com/store-locations.html,57.7385017,-152.5015644,,,w_238687110,"shop=department_store, operator=Coast Guard Exchange System"

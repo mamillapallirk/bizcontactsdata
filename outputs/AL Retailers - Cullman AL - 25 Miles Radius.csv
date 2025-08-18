@@ -1,0 +1,72 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Cullman, AL",,retail,445120,,,,,34.2060882,-86.8722498,,,n_4640806660,shop=convenience
+"Cullman, AL",,retail,445120,,,,,34.203912,-86.8279799,,,n_4640851729,shop=convenience
+"Cullman, AL",,retail,445120,,,,,34.2026653,-86.8284171,,,n_4640851730,shop=convenience
+"Cullman, AL",,retail,453991,Steampunk Vape,,,,33.8529195,-86.8176457,,,n_5046688851,shop=tobacco
+"Cullman, AL",,retail,446120,Ulta Beauty,"1108 Cullman Shopping Center Northwest, Cullman, AL, 35055",+1 256-734-8874,https://www.ulta.com/stores/cullman-al-1115,34.1824338,-86.849606,,,n_5712412163,"shop=beauty, brand=Ulta Beauty"
+"Cullman, AL",,retail,445110,Piggly Wiggly,"415 Caldwell Drive, Warrior, AL, 35180",+1 205-647-3241,,33.8072708,-86.8104039,,,n_5713950595,"shop=supermarket, brand=Piggly Wiggly"
+"Cullman, AL",,retail,446120,Palm Beach Tan,,,https://palmbeachtan.com/locations/AL/Cullman-Patriot-Way-South-West,34.1525005,-86.8408219,,,n_5716212063,"shop=beauty, brand=Palm Beach Tan"
+"Cullman, AL",,retail,452210,TJ Maxx,,,,34.1509252,-86.8393091,,,n_5716219673,"shop=department_store, brand=TJ Maxx"
+"Cullman, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/cullman/881/,34.1503634,-86.839315,,,n_5716219674,"shop=variety_store, brand=Dollar Tree"
+"Cullman, AL",,retail,446110,,,,,33.9040332,-86.6204991,,,n_7810229622,shop=chemist
+"Cullman, AL",,retail,445110,S & S Foods,,,,34.1753911,-86.6191135,,,n_7810359076,"shop=supermarket, brand=Grocery Outlet"
+"Cullman, AL",,retail,452319,Dollar General,"Hayden, AL, 35079",,https://www.dollargeneral.com/store-directory/al/hayden/9077,33.9104355,-86.7280589,,,n_9862852918,"shop=variety_store, brand=Dollar General"
+"Cullman, AL",,retail,445110,Dollar General,"Eva, AL, 35621",,https://www.dollargeneral.com/store-directory/al/eva/7550,34.3316885,-86.7604605,,,n_10720010218,"shop=supermarket, brand=Dollar General"
+"Cullman, AL",,retail,452319,Dollar General,,,,34.3682213,-86.9000347,,,n_10981774995,"shop=variety_store, brand=Dollar General"
+"Cullman, AL",,retail,445120,,,,,34.3684135,-86.9080844,,,n_10981774999,shop=convenience
+"Cullman, AL",,retail,445120,Murphy USA,,,,34.4543686,-86.947645,,,n_10981786736,"shop=convenience, brand=Murphy USA"
+"Cullman, AL",,retail,446120,,,,,34.4527481,-86.9470762,,,n_10981786743,shop=beauty
+"Cullman, AL",,retail,445110,Dollar General Market,,,https://www.dollargeneral.com/store-directory/al/falkville/11230,34.3693436,-86.9067668,,,n_10981814309,"shop=supermarket, brand=Dollar General Market"
+"Cullman, AL",,retail,445110,Kroger,"241 Highway 31 Southwest, Hartselle, AL, 35640",+1 256-751-2102,https://www.kroger.com/stores/grocery/al/hartselle/crestwood-shopping-center/026/00894,34.4395711,-86.9427948,,,n_11651005437,"shop=supermarket, brand=Kroger"
+"Cullman, AL",,retail,445120,,,,,34.2072238,-86.8821291,,,n_12180406444,shop=convenience
+"Cullman, AL",,retail,445120,Tiger Mart,,,,34.2086339,-86.8816239,,,n_12180406445,"shop=convenience, brand=Tiger Mart"
+"Cullman, AL",,retail,452319,Dollar General,,,,34.2506699,-86.8226119,,,n_12351232683,"shop=variety_store, brand=Dollar General"
+"Cullman, AL",,retail,445120,,,,,34.1722565,-87.1148363,,,n_12535281934,shop=convenience
+"Cullman, AL",,retail,445120,Shell,,,,33.9838218,-86.5869197,,,n_12564678247,"shop=convenience, brand=Shell"
+"Cullman, AL",,retail,453991,Tobacco Country,"1309 4th Street Southwest, Cullman, AL, 35055",,,34.1724607,-86.8527245,,,n_12761944600,shop=tobacco
+"Cullman, AL",,retail,445120,Love's,,,,34.3672971,-86.8937219,,,w_220388747,"shop=convenience, brand=Love's"
+"Cullman, AL",,retail,452319,Dollar General,,,,34.1980522,-87.1640748,,,w_289934562,"shop=variety_store, brand=Dollar General"
+"Cullman, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/cullman/11184,34.2090744,-87.0544542,,,w_289934563,"shop=variety_store, brand=Dollar General"
+"Cullman, AL",,retail,445120,Lakeshore Quick Stop,21320 Highway 278,,,34.1447374,-87.3128788,,,w_289937165,shop=convenience
+"Cullman, AL",,retail,445120,,,,,34.2076622,-86.8766399,,,w_469799321,shop=convenience
+"Cullman, AL",,retail,445120,Conoco,"5982 Highway 157, Cullman, AL, 35058",,,34.2076962,-86.8748658,,,w_469799323,"shop=convenience, brand=Conoco"
+"Cullman, AL",,retail,445110,Walmart Supercenter,"626 Olive Street Southwest, Cullman, AL, 35055",+1 256-739-1664,https://www.walmart.com/store/670-cullman-al,34.1490925,-86.8421996,,,w_511599556,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Cullman, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/warrior-al-pharmacies/434-hwy-31-warrior-al-35180/storeid=4843,33.8061109,-86.8117761,,,w_601115127,"shop=chemist, brand=CVS Pharmacy"
+"Cullman, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/warrior/1642,33.8085468,-86.812445,,,w_601116104,"shop=variety_store, brand=Dollar General"
+"Cullman, AL",,retail,445110,Walmart Supercenter,"5601 Highway 157, Cullman, AL, 35058",+1 256-615-6667,https://www.walmart.com/store/7280-cullman-al,34.2043165,-86.8695694,,,w_601354365,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Cullman, AL",,retail,445110,ALDI,"1831 Cherokee Avenue Southwest, Cullman, AL, 35055",+1 833-470-7039,https://stores.aldi.us/al/cullman/1831-cherokee-ave-sw,34.1534389,-86.8420516,,,w_601414948,"shop=supermarket, brand=ALDI"
+"Cullman, AL",,retail,445120,Ice House,,,,34.1717869,-86.8503082,,,w_608375942,shop=convenience
+"Cullman, AL",,retail,445120,,,,,34.4456944,-86.7549078,,,w_669926626,"shop=convenience, amenity=fuel"
+"Cullman, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/somerville/9874,34.4466893,-86.7559097,,,w_669926634,"shop=variety_store, brand=Dollar General"
+"Cullman, AL",,retail,445120,,,,,34.4463725,-86.7572295,,,w_669926640,"shop=convenience, amenity=fuel"
+"Cullman, AL",,retail,445110,Publix,"1104 Cullman Shopping Center Northwest, Cullman, AL, 35055-2855",+1 256-736-7000,https://www.publix.com/locations/1503,34.1814387,-86.8494003,,,w_718229805,"shop=supermarket, brand=Publix"
+"Cullman, AL",,retail,452210,Belk,,,,34.1825383,-86.8510923,,,w_718229810,"shop=department_store, brand=Belk"
+"Cullman, AL",,retail,445310,ABC Store,,,,34.1830513,-86.851387,,,w_718229811,shop=alcohol
+"Cullman, AL",,retail,452210,Ross,"1224 Cullman Shopping Center, Cullman, AL, 35055",+1 256-736-9216,,34.183295,-86.8515211,,,w_718229812,"shop=department_store, brand=Ross"
+"Cullman, AL",,retail,452319,Five Below,,+1 256-736-5496,https://locations.fivebelow.com/al/cullman/1230-cullman-shopping-ctr-nw,34.1837195,-86.8515856,,,w_718229814,"shop=variety_store, brand=Five Below"
+"Cullman, AL",,retail,445120,Circle K,,,,34.2065056,-86.8753703,,,w_729962256,"shop=convenience, brand=Circle K"
+"Cullman, AL",,retail,445120,,,,,34.2061835,-86.8736651,,,w_729962260,shop=convenience
+"Cullman, AL",,retail,452319,Po' Boys Country Store,,,,33.8465019,-86.6617446,,,w_836597117,shop=general
+"Cullman, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/locust-fork/24526,33.9070185,-86.6162201,,,w_836826043,"shop=variety_store, brand=Dollar General"
+"Cullman, AL",,retail,445120,We-Tote-Em,"68960 Main Street, Blountsville, AL, 35031",+1-205-429-3949,,34.0804403,-86.590469,,,w_844471101,shop=convenience
+"Cullman, AL",,retail,445120,,,,,34.0880622,-86.5873119,,,w_844480280,shop=convenience
+"Cullman, AL",,retail,445120,Wavaho,,,,34.0964529,-86.5796059,,,w_844480282,shop=convenience
+"Cullman, AL",,retail,445110,Lucky's Supermarket,"70670 Main Street, Blountsville, AL, 35031",,,34.0992835,-86.5740777,,,w_844480287,shop=supermarket
+"Cullman, AL",,retail,452319,Dollar General,"70680 Main Street, Blountsville, AL, 35031",,https://www.dollargeneral.com/store-directory/al/blountsville/9783,34.0995757,-86.5736686,,,w_844480288,"shop=variety_store, brand=Dollar General"
+"Cullman, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/vinemont/20150,34.3010013,-86.996181,,,w_943366524,"shop=variety_store, brand=Dollar General"
+"Cullman, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/warrior/12990,33.852156,-86.8161815,,,w_969983990,"shop=variety_store, brand=Dollar General"
+"Cullman, AL",,retail,445120,Hartselle Food Mart,,,,34.4445486,-86.9323036,,,w_970875085,shop=convenience
+"Cullman, AL",,retail,445110,Walmart Supercenter,"1201 Highway 31 Northwest, Hartselle, AL, 35640",+1 256-773-1675,https://www.walmart.com/store/1124-hartselle-al,34.4524541,-86.9488278,,,w_1008692184,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Cullman, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/cullman/15179,34.1778008,-86.741987,,,w_1159107853,"shop=variety_store, brand=Dollar General"
+"Cullman, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/cullman/8504/,34.205148,-86.8729208,,,w_1159200622,"shop=variety_store, brand=Dollar Tree"
+"Cullman, AL",,retail,445120,,,,,34.448567,-86.9029737,,,w_1179863793,shop=convenience
+"Cullman, AL",,retail,445120,,,,,34.4498422,-86.903757,,,w_1179863796,shop=convenience
+"Cullman, AL",,retail,445120,,Main Street East,,,34.4497716,-86.9030185,,,w_1179863799,shop=convenience
+"Cullman, AL",,retail,445120,,,,,34.4496889,-86.9066198,,,w_1179863804,shop=convenience
+"Cullman, AL",,retail,445120,,,,,33.8849105,-86.7656798,,,w_1277948076,shop=convenience
+"Cullman, AL",,retail,452319,Dollar General,,,,34.1747485,-86.6110371,,,w_1308408950,"shop=variety_store, brand=Dollar General"
+"Cullman, AL",,retail,452319,Dollar General,,,,34.277639,-86.4951266,,,w_1308408953,"shop=variety_store, brand=Dollar General"
+"Cullman, AL",,retail,445120,Pilot,,+1-256-338-1277,,34.1168782,-86.8637532,,,w_1314211599,"shop=convenience, brand=Pilot"
+"Cullman, AL",,retail,452319,Dollar General,"120 US 278 West, Cullman, AL, 35057",,,34.1702766,-86.8813587,,,w_1378279402,"shop=variety_store, brand=Dollar General"
+"Cullman, AL",,retail,445210,Smith Farms,"1825 4th Street Southwest, Cullman, AL, 35055",,,34.171113,-86.8721265,,,w_1378289116,shop=butcher
+"Cullman, AL",,retail,446110,Hospital Discount Pharmacy,"1201 4th Street Southwest, Cullman, AL, 35055",,,34.1724196,-86.851228,,,w_1378289121,shop=chemist

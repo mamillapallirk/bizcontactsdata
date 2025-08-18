@@ -1,0 +1,5 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"King Cove, AK",,retail,445310,Gould's Liquor Store 123B,,,,55.0602905,-162.3148805,,,n_12467176710,shop=alcohol
+"King Cove, AK",,retail,445110,Bearfoot Inn,,,,55.203143,-162.7165046,,,n_12634171939,"shop=supermarket, amenity=nightclub"
+"King Cove, AK",,retail,445110,Gould's Store,123 Ram's Creek Road,,,55.0603847,-162.3151216,,,w_1347743751,shop=supermarket
+"King Cove, AK",,retail,445110,AC Store 401,401 Harbor Road,,,55.0597561,-162.3291165,,,w_1347743753,shop=supermarket

@@ -1,0 +1,24 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Oakman, AL",,retail,445120,Glen Allen Grocery,,,,33.9114919,-87.7402971,,,n_457277479,shop=convenience
+"Oakman, AL",,retail,445120,Hubbert's,,,,33.8279541,-87.7396533,,,n_457278644,shop=convenience
+"Oakman, AL",,retail,445120,B&M Grocery,,,,33.8499883,-87.7336564,,,n_457304243,shop=convenience
+"Oakman, AL",,retail,445110,Piggly Wiggly,"17884 Highway 18 East, Berry, AL, 35546",+1 205-689-4566,,33.6591541,-87.601334,,,n_3111707533,"shop=supermarket, brand=Piggly Wiggly"
+"Oakman, AL",,retail,445120,F & G Quick Stop,,,,33.6590668,-87.6026138,,,n_3111712884,shop=convenience
+"Oakman, AL",,retail,445120,Marathon,,,,33.4659137,-87.6271769,,,n_6554212585,"shop=convenience, brand=Marathon"
+"Oakman, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/northport/6314,33.4650668,-87.6276959,,,n_6554212586,"shop=variety_store, brand=Dollar General"
+"Oakman, AL",,retail,445230,Sandlin Produce,"3403 Airport Road, Jasper, 35504",(205) 387-0320,,33.89635,-87.2694168,,,n_9517526017,shop=greengrocer
+"Oakman, AL",,retail,453991,Jasper smoke & vape,"151 Highway 78, Jasper, AL",+1 205-512-1077,,33.8490393,-87.275232,,,n_11751898969,shop=tobacco
+"Oakman, AL",,retail,445210,Sipsey Deer Processing,"3345 County Road 35, Fayette, AL, 35555",+1 205-932-5179,,33.6482599,-87.811858,,,n_11762865708,shop=butcher
+"Oakman, AL",,retail,445120,,,,,33.8436084,-87.2515669,,,n_12696654479,shop=convenience
+"Oakman, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/cordova/9358,33.7538345,-87.1632805,,,w_479818571,"shop=variety_store, brand=Dollar General"
+"Oakman, AL",,retail,445110,Piggly Wiggly,"79 Mill Street, Cordova, AL, 35550",+1 205-483-9225,,33.7587045,-87.1816684,,,w_479818572,"shop=supermarket, brand=Piggly Wiggly"
+"Oakman, AL",,retail,445110,Walmart Supercenter,"1801 Highway 78 East, Jasper, AL, 35501",+1 205-384-1100,https://www.walmart.com/store/287-jasper-al,33.8429408,-87.254475,,,w_498085819,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Oakman, AL",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-100+n+airport+rd-jasper-al-35504/id=9683,33.8491455,-87.267882,,,w_498327530,"shop=chemist, brand=Walgreens"
+"Oakman, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/jasper-al-pharmacies/101-n-airport-rd-jasper-al-35504/storeid=4834,33.8488835,-87.2669985,,,w_498331667,"shop=chemist, brand=CVS Pharmacy"
+"Oakman, AL",,retail,445110,Walmart Supercenter,"205 House-Carlson Drive, Batesville, MS, 38606",+1 205-932-5277,https://www.walmart.com/store/1052-fayette-al,33.7316881,-87.8086996,,,w_697187646,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Oakman, AL",,retail,445110,ALDI,"40 North Walston Bridge Road, Jasper, AL, 35504",+1 833-470-7078,https://stores.aldi.us/al/jasper/40-north-walston-bridge-rd,33.8468258,-87.2578905,,,w_940777296,"shop=supermarket, brand=ALDI"
+"Oakman, AL",,retail,445120,,,,,33.7499272,-87.0588985,,,w_1117295828,shop=convenience
+"Oakman, AL",,retail,445110,Walmart Supercenter,"690 Highway 78, Sumiton, AL, 35148",+1 205-648-4100,https://www.walmart.com/store/2723-sumiton-al,33.7454027,-87.0417514,,,w_1215118435,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Oakman, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/jasper/6397,33.8320636,-87.2825996,,,w_1234954486,"shop=variety_store, brand=Dollar General"
+"Oakman, AL",,retail,445120,Love's,"Jasper, AL",,,33.791036,-87.2424705,,,w_1258811612,"shop=convenience, brand=Love's"
+"Oakman, AL",,retail,445120,Mobil Mart,,,,33.8477793,-87.2888322,,,w_1304811879,"shop=convenience, brand=Mobil Mart"

@@ -1,0 +1,55 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Jackson, AL",,retail,445120,Hollytree Grocery,"11620 AL Hwy 65, Hollytree, 35751",,,34.8022599,-86.2493836,,,n_463676090,shop=convenience
+"Jackson, AL",,retail,445120,Chevron,,,,34.7005509,-86.3848185,,,n_993705534,"shop=convenience, brand=Chevron"
+"Jackson, AL",,retail,445110,Lucky's Supermarket,"17175 State Highway 75, Henagar, 35978",,,34.6307875,-85.7451278,,,n_3462799957,"shop=supermarket, operator=Ragland Bro's"
+"Jackson, AL",,retail,452319,Dollar General,"32 Bellview Road, Henagar, AL, 35978",,https://www.dollargeneral.com/store-directory/al/henagar/634,34.6315487,-85.7434384,,,n_3462799959,"shop=variety_store, brand=Dollar General"
+"Jackson, AL",,retail,445110,Fyffe Foodland,,,,34.443161,-85.908923,,,n_6376600463,shop=supermarket
+"Jackson, AL",,retail,452319,Dollar General,"1258 Main Street, Fyffe, AL, 35971",,https://www.dollargeneral.com/store-directory/al/fyffe/3986,34.4447625,-85.9083855,,,n_6376600464,"shop=variety_store, brand=Dollar General"
+"Jackson, AL",,retail,445120,MAPCO,,,,34.5090321,-85.6937654,,,n_6376730066,shop=convenience
+"Jackson, AL",,retail,452319,Dollar General,"Section, AL",,,34.5834304,-85.9896827,,,n_10778297652,"shop=variety_store, brand=Dollar General"
+"Jackson, AL",,retail,445110,FoodLand,"Section, AL",,,34.5839248,-85.9886103,,,n_10778297653,"shop=supermarket, brand=FoodLand"
+"Jackson, AL",,retail,452210,TJ Maxx,"Scottsboro, AL",,,34.6663693,-86.0150482,,,n_11300391987,"shop=department_store, brand=TJ Maxx"
+"Jackson, AL",,retail,445110,FoodLand,,,,34.8715627,-85.8146351,,,n_11331222628,"shop=supermarket, brand=FoodLand"
+"Jackson, AL",,retail,452319,Dollar General,"4397 Cathedral Caverns Highway, Grant, AL, 35747",,https://www.dollargeneral.com/store-directory/al/grant/4136,34.513529,-86.2604967,,,n_11331855394,"shop=variety_store, brand=Dollar General"
+"Jackson, AL",,retail,445120,,,,,34.5113126,-86.2609434,,,n_11331855395,shop=convenience
+"Jackson, AL",,retail,445120,,,,,34.516379,-86.2567968,,,n_11331855397,shop=convenience
+"Jackson, AL",,retail,445110,Grant Foodland,,,,34.5152071,-86.2572208,,,n_11503377251,shop=supermarket
+"Jackson, AL",,retail,446120,Gigi's Hair & Nail Salon,"Rainsville, AL, 35986",,,34.4985447,-85.8547403,,,n_11578514389,shop=beauty
+"Jackson, AL",,retail,446110,Rainsville Drugs,"Rainsville, AL, 35986",,,34.4983514,-85.8544685,,,n_11578514391,shop=chemist
+"Jackson, AL",,retail,445120,Triple-T Mini Market,"Section, AL",,,34.586173,-85.9902922,,,n_11578609370,shop=convenience
+"Jackson, AL",,retail,445110,Piggly Wiggly,"6022 Highway 72 East, Gurley, AL, 35748",+1 256-776-3661,https://www.shopmypig.com/,34.69547,-86.371,,,n_11651005442,"shop=supermarket, brand=Piggly Wiggly"
+"Jackson, AL",,retail,452319,Dollar Tree,"McCurdy Avenue North, Rainsville, AL",,https://www.dollartree.com/locations/al/rainsville/8278/,34.4942271,-85.8465463,,,n_11658339923,"shop=variety_store, brand=Dollar Tree"
+"Jackson, AL",,retail,446120,Rainsville Nails,"Rainsville, AL",,,34.4934262,-85.8466569,,,n_11658339961,shop=beauty
+"Jackson, AL",,retail,445110,Walmart Supercenter,24833 John T Reid Prkwy,+1 256 574 1126,https://www.walmart.com/store/712-scottsboro-al,34.6684279,-86.0060493,,,w_82660484,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Jackson, AL",,retail,445120,Shop,,,,34.6985349,-86.3833934,,,w_387728539,shop=convenience
+"Jackson, AL",,retail,452319,Dollar General,,,,34.698885,-86.3845344,,,w_387728555,"shop=variety_store, brand=Dollar General"
+"Jackson, AL",,retail,445120,Foothills Country Store,"Veterans Drive, Scottsboro, AL",,,34.6329337,-85.9707442,,,w_424129758,shop=convenience
+"Jackson, AL",,retail,452210,JCPenney,,,,34.6522545,-86.0343495,,,w_470025897,"shop=department_store, brand=JCPenney"
+"Jackson, AL",,retail,445110,Piggly Wiggly,"101 County Park Road, Scottsboro, AL, 35768",+1 256-574-4175,,34.6515044,-86.0348669,,,w_665672936,"shop=supermarket, brand=Piggly Wiggly"
+"Jackson, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/scottsboro/6175/,34.648045,-86.0291874,,,w_665712196,"shop=variety_store, brand=Dollar Tree"
+"Jackson, AL",,retail,452319,Ollie's Bargain Outlet,,,,34.6479013,-86.0294466,,,w_665712197,"shop=variety_store, brand=Ollie's Bargain Outlet"
+"Jackson, AL",,retail,445110,Bruce's Foodland,"1402 County Park Road, Scottsboro, 35769",,,34.6463946,-86.0322815,,,w_665718958,shop=supermarket
+"Jackson, AL",,retail,446120,Kala Nails,,,,34.6465549,-86.0327089,,,w_665718960,shop=beauty
+"Jackson, AL",,retail,446110,Big C Drugs,,,,34.6663312,-86.0359591,,,w_665934598,shop=chemist
+"Jackson, AL",,retail,445120,,,,,34.6288328,-86.0507996,,,w_666214819,shop=convenience
+"Jackson, AL",,retail,445110,Save-A-Lot,,,,34.6259776,-86.0503929,,,w_666388082,"shop=supermarket, brand=Save-A-Lot"
+"Jackson, AL",,retail,452319,Dollar General,,,,34.6256906,-86.0505951,,,w_666388083,"shop=variety_store, brand=Dollar General"
+"Jackson, AL",,retail,445110,Publix,"24540 John T Reid Parkway, Scottsboro, AL, 35768",+1 256-672-6056,https://www.publix.com/locations/1830,34.6661102,-86.0154907,,,w_1219567570,"shop=supermarket, brand=Publix"
+"Jackson, AL",,retail,445120,Lakeside Grocery,"Veterans Drive, Scottsboro, AL",,,34.6508831,-85.9924508,,,w_1219573570,shop=convenience
+"Jackson, AL",,retail,445120,Sunshine Food Mart,,,,34.6507475,-85.9891693,,,w_1219573576,shop=convenience
+"Jackson, AL",,retail,445120,Quick Mart,"2307 South Broad Street, Scottsboro, AL, 35768",+1 256 594 1533,,34.6414834,-86.0386672,,,w_1219573577,shop=convenience
+"Jackson, AL",,retail,445120,,,,,34.6101723,-86.0682848,,,w_1219693104,shop=convenience
+"Jackson, AL",,retail,445120,,,,,34.6388996,-86.0397317,,,w_1219695690,shop=convenience
+"Jackson, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/tn/south-pittsburg/459,35.0093036,-85.7059812,,,w_1221603498,"shop=variety_store, brand=Dollar General"
+"Jackson, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/tn/south-pittsburg/19542,35.0070976,-85.6626476,,,w_1221603499,"shop=variety_store, brand=Dollar General"
+"Jackson, AL",,retail,445120,Love's Stop N Go,AL,,,34.4698433,-85.7870185,,,w_1245471826,shop=convenience
+"Jackson, AL",,retail,445120,Mapco,"Rainsville, AL, 35986",,,34.4831361,-85.8208415,,,w_1245471839,"shop=convenience, brand=Mapco"
+"Jackson, AL",,retail,452319,Dollar General,"1569 Main Street East, Rainsville, AL, 35986",+1 251 263 5921,https://www.dollargeneral.com/store-directory/al/rainsville/23703.html,34.4846584,-85.8224697,,,w_1245471840,"shop=variety_store, brand=Dollar General"
+"Jackson, AL",,retail,446120,Sue & Sandy's Beauty Shop,,,,34.4905617,-85.8401306,,,w_1245471851,shop=beauty
+"Jackson, AL",,retail,445120,Delta Express,"Rainsville, AL, 35986",,,34.4935353,-85.8471521,,,w_1245471859,shop=convenience
+"Jackson, AL",,retail,446120,Beautifully Bronzed,"Rainsville, AL, 35986",,,34.4980867,-85.8541825,,,w_1245480867,shop=beauty
+"Jackson, AL",,retail,452319,Dollar General,"Fyffe, AL",,https://www.dollargeneral.com/store-directory/al/fyffe/21974,34.5429441,-85.911042,,,w_1245491208,"shop=variety_store, brand=Dollar General"
+"Jackson, AL",,retail,445120,Delta Express,AL,,,34.544082,-85.9141575,,,w_1245491211,shop=convenience
+"Jackson, AL",,retail,445120,Triple T Farm & Tackle,"Section, AL",,,34.5851819,-85.9904814,,,w_1245491216,shop=convenience
+"Jackson, AL",,retail,445120,Fuel & City,AL,,,34.5281416,-85.8947715,,,w_1254203732,shop=convenience
+"Jackson, AL",,retail,446120,Merle Norman,"Rainsville, AL",,,34.4931714,-85.8463419,,,w_1254203743,"shop=cosmetics, brand=Merle Norman Cosmetics"

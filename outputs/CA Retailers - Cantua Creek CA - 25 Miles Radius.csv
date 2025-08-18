@@ -1,0 +1,22 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Cantua Creek, CA",,retail,445120,Harper Country Store,,,,36.713895,-120.4790998,,,n_1754431803,shop=convenience
+"Cantua Creek, CA",,retail,445120,Chevron FoodMart,"46330 West Panoche Road, Firebaugh, CA, 93622",,,36.6389896,-120.6262939,,,n_2527019138,"shop=convenience, operator=Chevron"
+"Cantua Creek, CA",,retail,445120,Food Mart,,,,36.6385089,-120.6274994,,,n_2527019140,shop=convenience
+"Cantua Creek, CA",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ca/coalinga/13673,36.1444654,-120.3554547,,,n_2651173660,"shop=variety_store, brand=Dollar General"
+"Cantua Creek, CA",,retail,445110,Star Super Market,,,,36.7520544,-120.3880001,,,n_2948075108,shop=supermarket
+"Cantua Creek, CA",,retail,445110,Garcia's Market,,,,36.7485731,-120.3876976,,,n_2948076184,shop=supermarket
+"Cantua Creek, CA",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ca/mendota/14278,36.75455,-120.3798922,,,n_2948092058,"shop=variety_store, brand=Dollar General"
+"Cantua Creek, CA",,retail,446110,Rite Aid,,,https://www.riteaid.com/locations/ca/kerman/456-s-madera-avenue.html,36.7287496,-120.059809,,,n_2948118479,"shop=chemist, brand=Rite Aid"
+"Cantua Creek, CA",,retail,446110,CVS Pharmacy,,,,36.7341773,-120.0592976,,,n_2948121236,"shop=chemist, brand=CVS Pharmacy"
+"Cantua Creek, CA",,retail,445120,Chase,,,,36.2548007,-120.2507083,,,n_4345138990,shop=convenience
+"Cantua Creek, CA",,retail,445120,ampm,,,,36.2546362,-120.253168,,,n_10261274327,"shop=convenience, brand=ampm"
+"Cantua Creek, CA",,retail,445120,Shell,,,,36.2531218,-120.2389334,,,n_12691775968,shop=convenience
+"Cantua Creek, CA",,retail,445110,,,,,36.7511301,-120.3861823,,,w_61101975,shop=supermarket
+"Cantua Creek, CA",,retail,445110,,,,,36.6083383,-120.1887791,,,w_61171130,shop=supermarket
+"Cantua Creek, CA",,retail,445110,,,,,36.144756,-120.3561225,,,w_195058748,shop=supermarket
+"Cantua Creek, CA",,retail,445120,Shasta Market,,,,36.7341827,-120.1050826,,,w_321249285,shop=convenience
+"Cantua Creek, CA",,retail,445110,Walmart Supercenter,"14061 West Whitesbridge Avenue, Kerman, CA, 93630",+1 559-846-1200,https://www.walmart.com/store/5701/kerman-ca,36.7326529,-120.0440871,,,w_578544817,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Cantua Creek, CA",,retail,446110,CVS Pharmacy,,,,36.7343223,-120.0595194,,,w_983166950,"shop=chemist, brand=CVS Pharmacy"
+"Cantua Creek, CA",,retail,452319,Dollar Tree,"111 Belmont Avenue, Mendota",,https://www.dollartree.com/locations/ca/mendota/6452/,36.7498363,-120.3883745,,,w_1230901058,"shop=variety_store, brand=Dollar Tree"
+"Cantua Creek, CA",,retail,452319,Family Dollar,21790 West Colorado Avenue,,,36.6040054,-120.1828748,,,w_1230901099,"shop=variety_store, brand=Family Dollar"
+"Cantua Creek, CA",,retail,452319,Family Dollar,,,,36.7497876,-120.3875312,,,w_1306405397,"shop=variety_store, brand=Family Dollar"

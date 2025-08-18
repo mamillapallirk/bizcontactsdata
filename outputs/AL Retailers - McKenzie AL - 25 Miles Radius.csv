@@ -1,0 +1,26 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"McKenzie, AL",,retail,445110,Walmart Supercenter,501 Willow Ln,+1-334-382-2655,https://www.walmart.com/store/1462-greenville-al,31.849507,-86.647223,,,n_5315601723,"shop=supermarket, brand=Walmart, operator=Walmart"
+"McKenzie, AL",,retail,445210,Conecuh Sausage,,,,31.4548794,-86.9655631,,,n_7021755187,shop=butcher
+"McKenzie, AL",,retail,445120,Love's Travel Stop,"16101 US-84, 36401",+1-251-578-4496,https://www.loves.com/locations/225,31.4197536,-87.0080276,,,n_7368460385,"shop=convenience, brand=Love's"
+"McKenzie, AL",,retail,445110,Piggly Wiggly,"1130 Martin Luther King Junior Expressway, Andalusia, AL, 35420",+1 334-222-9121,https://pigglywigglyofandalusia.com/,31.3175749,-86.4629008,,,n_8729085715,"shop=supermarket, brand=Piggly Wiggly"
+"McKenzie, AL",,retail,452319,Dollar Tree,"1138 Martin Luther King Junior Expressway, Andalusia, AL, 36420",+1-334-658-6107,https://www.dollartree.com/locations/al/andalusia/4637/,31.3174122,-86.462469,,,n_8729095560,"shop=variety_store, brand=Dollar Tree"
+"McKenzie, AL",,retail,445120,Pic-N-Sav,"550 West Bypass, Andalusia, AL, 36420",+1 334 222 1804,https://www.picnsav.com/stores/pic-n-sav-andalusia,31.3043066,-86.5008304,,,n_9385768602,shop=convenience
+"McKenzie, AL",,retail,445120,Evergreen Foodmart,"401 Perryman Street, Evergreen, AL, 36401",,,31.4357853,-86.944567,,,n_9386969943,shop=convenience
+"McKenzie, AL",,retail,445120,One Stop,"447 West Front Street, Evergreen, AL, 36401",,,31.4293148,-86.9605509,,,n_9386969961,shop=convenience
+"McKenzie, AL",,retail,452319,Family Dollar,"450 West Front Street, Evergreen, AL, 36401",,,31.4300707,-86.9612449,,,n_9386969966,shop=variety_store
+"McKenzie, AL",,retail,452319,Dollar Tree,"218 West Front Street, Evergreen, AL, 36401",,,31.4319854,-86.9578081,,,n_9386969968,"shop=variety_store, brand=Dollar Tree"
+"McKenzie, AL",,retail,445110,Pic-N-Sav,"320 West Front Street, Evergreen, AL, 36401",+1 251 578 3844,https://www.picnsav.com/stores/pic-n-sav-evergreen,31.4314116,-86.9592375,,,n_9386969969,shop=supermarket
+"McKenzie, AL",,retail,445110,Piggly Wiggly,"90 Liberty Hill Place, Evergreen, AL, 36401",+1 251-578-1938,,31.4579772,-86.9617329,,,n_11495582317,"shop=supermarket, brand=Piggly Wiggly"
+"McKenzie, AL",,retail,445120,GX Market,,,,31.4551196,-86.9625446,,,n_11495582327,shop=convenience
+"McKenzie, AL",,retail,445120,,,,,31.6511615,-86.7769064,,,w_761146864,shop=convenience
+"McKenzie, AL",,retail,445110,Walmart Supercenter,"1991 M.L.K. Jr Expressway, Andalusia, AL, 36420",+1 334-222-6561,https://www.walmart.com/store/1091-andalusia-al,31.3216695,-86.4450417,,,w_1017626922,"shop=supermarket, brand=Walmart, operator=Walmart"
+"McKenzie, AL",,retail,446110,CVS Pharmacy,"210 West Front Street, Evergreen, AL, 36401",,https://www.cvs.com/store-locator/evergreen-al-pharmacies/210-w-front-st-evergreen-al-36401/storeid=4847,31.432471,-86.9573123,,,w_1017695808,"shop=chemist, brand=CVS Pharmacy"
+"McKenzie, AL",,retail,452319,Dollar General,"516 West Front Street, Evergreen, AL, 36401",,https://www.dollargeneral.com/store-directory/al/evergreen/3991,31.429772,-86.9622166,,,w_1017695816,"shop=variety_store, brand=Dollar General"
+"McKenzie, AL",,retail,445120,,,,,31.4954885,-86.3686866,,,w_1035475136,shop=convenience
+"McKenzie, AL",,retail,452319,Dollar General,,,,31.3075817,-86.4862633,,,w_1193186266,"shop=variety_store, brand=Dollar General"
+"McKenzie, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/andalusia-al-pharmacies/1204-dr-m-l-k-jr-expy-andalusia-al-36420/storeid=7077,31.3180757,-86.4607448,,,w_1193186276,"shop=chemist, brand=CVS Pharmacy"
+"McKenzie, AL",,retail,452319,Dollar General,"118 Shelby Street, Andalusia, AL, 36421",,https://www.dollargeneral.com/store-directory/al/andalusia/4027,31.3200407,-86.4622369,,,w_1193186285,"shop=variety_store, brand=Dollar General"
+"McKenzie, AL",,retail,452319,Dirt Cheap,,,,31.3203283,-86.4575521,,,w_1193186294,shop=variety_store
+"McKenzie, AL",,retail,452319,Dollar General,2612 Jackson,,https://www.dollargeneral.com/store-directory/al/castleberry/11768,31.2957881,-87.0215187,,,w_1234909358,"shop=variety_store, brand=Dollar General"
+"McKenzie, AL",,retail,452319,Dollar General,"100 Short Street, Greenville, AL, 36037",,https://www.dollargeneral.com/store-directory/al/greenville/10273,31.8301423,-86.6154653,,,w_1235074936,"shop=variety_store, brand=Dollar General"
+"McKenzie, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/greenville/16820,31.818156,-86.6812999,,,w_1235075117,"shop=variety_store, brand=Dollar General"

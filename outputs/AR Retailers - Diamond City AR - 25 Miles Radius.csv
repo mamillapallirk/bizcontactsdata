@@ -1,0 +1,77 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Diamond City, AR",,retail,445110,Hudsons,,,,36.2359199,-93.1067267,,,n_1179052574,shop=supermarket
+"Diamond City, AR",,retail,445120,,,,,36.2336266,-93.1304642,,,n_1179180183,shop=convenience
+"Diamond City, AR",,retail,445110,Cash Saver 870,,,,36.2297633,-93.0988437,,,n_1179457965,shop=supermarket
+"Diamond City, AR",,retail,445110,,,,,36.2490137,-93.1147787,,,n_1179663982,shop=supermarket
+"Diamond City, AR",,retail,445120,Branson First Stop,"220 Branson Hills Parkway, Branson, MO, 65616",417-335-4566,,36.6700374,-93.2250199,,,n_2621726262,shop=convenience
+"Diamond City, AR",,retail,445120,,"Shepherd of the Hills Expwy, 65616",,,36.6677913,-93.2514903,,,n_2621753324,shop=convenience
+"Diamond City, AR",,retail,445120,,,,,36.6687508,-93.2503369,,,n_2621753381,shop=convenience
+"Diamond City, AR",,retail,445120,EZ Center,"1901 W 76 Country Blvd, 65616",417-334-8210,,36.6430588,-93.2539366,,,n_2621859111,shop=convenience
+"Diamond City, AR",,retail,445120,76 Pure Country,"1029 West Main Street, 65616",417-336-6678,http://www.conocophillips.com/Pages/default.aspx,36.6448489,-93.2339915,,,n_2622966261,shop=convenience
+"Diamond City, AR",,retail,445120,Dalton's Express,"1130 W 76 Country Blvd, 65616",417-334-8041,,36.6414742,-93.2365412,,,n_2623074817,shop=convenience
+"Diamond City, AR",,retail,445120,Pit Stop & Smoke Shop,"1140 W 76 Country Blvd, 65616",417-449-7827,,36.6408157,-93.2374316,,,n_2623074857,shop=convenience
+"Diamond City, AR",,retail,445120,2-For-1 Show Tickets & Attractions,"W 76 Country Blvd, 65616",,,36.6429399,-93.2364714,,,n_2623074884,shop=convenience
+"Diamond City, AR",,retail,445120,Phillips 66,"2652 Shepherd of the Hills Expwy, 65616",417-332-1839,https://www.ajsonestop.com/,36.6529784,-93.272031,,,n_2623113482,"shop=convenience, amenity=fuel, brand=Phillips 66, operator=AJ's One Stop"
+"Diamond City, AR",,retail,445120,White Oak Station,"4017 W 76 Country Blvd, 65616",417-339-3911,,36.6520735,-93.2922419,,,n_2623113596,shop=convenience
+"Diamond City, AR",,retail,445120,Branson Star Stop,"3579 Shepherd of the Hills Expwy, 65616",417-336-8590,,36.6520089,-93.2891976,,,n_2623113645,shop=convenience
+"Diamond City, AR",,retail,452210,Belk,"5 Branson Landing Blvd, 65616",417-239-3314,https://belk.com/,36.6469754,-93.2153253,,,n_2628091319,"shop=department_store, brand=Belk"
+"Diamond City, AR",,retail,445120,,,,,36.6101889,-93.2344766,,,n_2672305240,shop=convenience
+"Diamond City, AR",,retail,445120,,,,,36.6182882,-93.2276101,,,n_2672305255,shop=convenience
+"Diamond City, AR",,retail,445120,,,,,36.6250262,-93.2170208,,,n_2672305260,shop=convenience
+"Diamond City, AR",,retail,445110,Rhodes Family Price Chopper,"2210 West 76 Country Boulevard, Branson, MO, 65616",417-334-6438,,36.6397638,-93.2613711,,,n_2672417340,shop=supermarket
+"Diamond City, AR",,retail,445120,White Oak Station,,,,36.6320662,-93.2795762,,,n_2672425962,shop=convenience
+"Diamond City, AR",,retail,446120,Perfumania,"306 Tanger Factory Outlet Center, 65616",,,36.6450376,-93.2630233,,,n_2684557736,"shop=perfumery, brand=Perfumania"
+"Diamond City, AR",,retail,445230,Vitamin World,"217A Tanger Factory Outlet Center, 65616",,,36.6460641,-93.262849,,,n_2684574028,shop=greengrocer
+"Diamond City, AR",,retail,446120,Bath & Body Works,"503 Tanger Factory Outlet Center, 65616",,,36.6446073,-93.2640561,,,n_2684574040,"shop=cosmetics, brand=Bath & Body Works"
+"Diamond City, AR",,retail,445120,Hitch-N-Post,"5439 State Highway 165, 65616",417-334-3395,,36.5832196,-93.3062567,,,n_2692115375,shop=convenience
+"Diamond City, AR",,retail,445120,The Pantry,"164 Fall Creek Drive, 65616",,thepantry.com,36.6045449,-93.2863954,,,n_2693776831,shop=convenience
+"Diamond City, AR",,retail,445110,Harter House,,,,36.609604,-93.235331,,,n_4317063190,shop=supermarket
+"Diamond City, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/mo/hollister/4532,36.611867,-93.229693,,,n_4317084489,"shop=variety_store, brand=Dollar General"
+"Diamond City, AR",,retail,445120,Country Mart,,,,36.6940713,-93.1227184,,,n_4640250988,shop=convenience
+"Diamond City, AR",,retail,446120,Ulta Beauty,"1033 Branson Hills Parkway, Branson, MO, 65616",+1 417-336-2002,https://www.ulta.com/stores/branson-mo-634,36.6684513,-93.2282664,,,n_5089310676,"shop=beauty, brand=Ulta Beauty"
+"Diamond City, AR",,retail,445120,Rapid Roberts,,,,36.5048326,-93.2207716,,,n_6468458132,shop=convenience
+"Diamond City, AR",,retail,453991,Elite Vapor Pro,"1320 A3 HWY 62-65 N
+Harrison, AR 72601",870-204-6051,https://www.elitevaporpros.com/,36.2646262,-93.1376849,,,n_6715759954,shop=tobacco
+"Diamond City, AR",,retail,452210,Sears,"1320 North Main Street
+Harrison, AR 72601",(870) 741-5466,http://www.searshometownstores.com/home/ar/harrison/3127,36.2457441,-93.1170904,,,n_6727503116,shop=department_store
+"Diamond City, AR",,retail,445310,"""End Of The Trail"" All American Wine Cellar","150 Top of the Rock Road, Ridgedale, MO, 65739",+1-800-225-6343,http://www.topoftherock.com/dining/wine-cellar-en.html,36.5430485,-93.2499298,,,n_8622405664,shop=wine
+"Diamond City, AR",,retail,446120,Heavenly Beauty Salon,,,,36.4188288,-92.9130273,,,n_10056028865,shop=beauty
+"Diamond City, AR",,retail,453110,Hodge Podge Floral & Gift Boutique,,,,36.4201577,-92.9145391,,,n_10082533986,shop=florist
+"Diamond City, AR",,retail,445120,Snappy Mart,,,,36.3674914,-92.5466787,,,n_11164481139,shop=convenience
+"Diamond City, AR",,retail,445292,Kilwins,"813 Branson Landing Boulevard, Branson, MO, 65616",417-334-9240,Kilwins.com/Branson,36.6453231,-93.213784,,,n_12094103787,"shop=confectionery, brand=Kilwins"
+"Diamond City, AR",,retail,446191,Nature's Wonders,"1601 Shepherd of the Hills Expressway, 65616",,,36.6640392,-93.2465034,,,n_12856184001,shop=health_food
+"Diamond City, AR",,retail,446191,Nature's Wonders,"910A US 62, 72601",,,36.2548652,-93.1232564,,,n_12856205601,shop=health_food
+"Diamond City, AR",,retail,452210,Walmart,"2050 West 76 Country Boulevard, Branson, MO, 65616",+1 417-334-5005,https://www.walmart.com/store/32-branson-mo,36.6390558,-93.259823,,,w_261635260,"shop=department_store, brand=Walmart, operator=Walmart"
+"Diamond City, AR",,retail,445110,Walmart Supercenter,"1101 Branson Hills Parkway, Branson, MO, 65616",+1 417-334-2137,https://www.walmart.com/store/4381-branson-mo,36.6702271,-93.2300115,,,w_264236459,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Diamond City, AR",,retail,452319,Dollar Tree,"1076 Branson Hills Parkway, Branson, MO, 65616",417-334-9234,https://www.dollartree.com/locations/mo/branson/4170/,36.6719091,-93.2248063,,,w_264237320,"shop=variety_store, brand=Dollar Tree"
+"Diamond City, AR",,retail,452210,Target,"1200 Branson Hills Parkway, Branson, MO, 65616",+1 417-243-4500,https://www.target.com/sl/branson/2098,36.6741759,-93.2260643,,,w_264238196,"shop=department_store, brand=Target"
+"Diamond City, AR",,retail,452210,TJ Maxx,"1100 Branson Hills Parkway, Branson, MO, 65616",,,36.6740621,-93.2251427,,,w_264238213,"shop=department_store, brand=TJ Maxx"
+"Diamond City, AR",,retail,445120,,,,,36.639613,-93.2167094,,,w_264336562,shop=convenience
+"Diamond City, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/yellville/11130,36.2265368,-92.6871836,,,w_430215599,"shop=variety_store, brand=Dollar General"
+"Diamond City, AR",,retail,445110,Harp's,,,,36.2264111,-92.6836507,,,w_430215601,shop=supermarket
+"Diamond City, AR",,retail,446110,CVS Pharmacy,"105 Loyd Road, Branson, MO, 65616",,https://www.cvs.com/store-locator/branson-mo-pharmacies/105-loyd-st-branson-mo-65616/storeid=10003,36.6450419,-93.2260259,,,w_522569510,"shop=chemist, brand=CVS Pharmacy"
+"Diamond City, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/mo/branson/11212,36.6421871,-93.188921,,,w_522593296,"shop=variety_store, brand=Dollar General"
+"Diamond City, AR",,retail,445110,Sunfest,,,,36.6431249,-93.1881886,,,w_522593298,shop=supermarket
+"Diamond City, AR",,retail,445120,76 Express,"3305 West 76 Country Boulevard, Branson, MO, 65616",417-334-7500,,36.638221,-93.281303,,,w_683982297,"shop=convenience, brand=76"
+"Diamond City, AR",,retail,445120,Casey's General Store,"615 West Main Street, Branson, MO, 65616",,,36.6449946,-93.2249858,,,w_777196988,"shop=convenience, brand=Casey's General Store"
+"Diamond City, AR",,retail,452210,Kohl's,"1001 Branson Hills Parkway, Branson, MO, 65616",+1 417-231-9996,https://www.kohls.com/stores/mo/branson-1103.shtml,36.6683941,-93.2262715,,,w_777207477,"shop=department_store, brand=Kohl's"
+"Diamond City, AR",,retail,445120,Pure Country,"432 Shepherd of the Hills Expressway, Branson, MO, 65616",,,36.6594793,-93.2233934,,,w_777207481,shop=convenience
+"Diamond City, AR",,retail,445120,Rapid Roberts,"695 Branson Landing Boulevard, Branson, MO, 65616",,,36.655666,-93.2210022,,,w_777207483,shop=convenience
+"Diamond City, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/mo/branson/18700,36.6400965,-93.2160458,,,w_839382154,"shop=variety_store, brand=Dollar General"
+"Diamond City, AR",,retail,446120,Cedar Creek Spa,"190 Top of the Rock Road, Ridgedale, MO, 65739",+1-800-225-6343,https://bigcedar.com/spa/,36.5377475,-93.2759425,,,w_905829085,shop=beauty
+"Diamond City, AR",,retail,445110,Walmart Supercenter,"168 Walmart Drive, Flippin, AR, 72634",+1-870-453-2211,https://www.walmart.com/store/1147-flippin-ar,36.2752774,-92.6045654,,,w_908562023,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Diamond City, AR",,retail,445120,,,,,36.6477723,-93.2177069,,,w_926930633,shop=convenience
+"Diamond City, AR",,retail,445110,ALDI,"1105 Highway 62/65 North, Harrison, AR, 72601",+1 855-955-2534,https://stores.aldi.us/ar/harrison/1105-hwy-62-65-north,36.2591032,-93.1254587,,,w_934748056,"shop=supermarket, brand=ALDI"
+"Diamond City, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/harrison/12468,36.2345305,-93.1326315,,,w_1060184374,"shop=variety_store, brand=Dollar General"
+"Diamond City, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/harrison/3943,36.258897,-93.1274155,,,w_1060187684,"shop=variety_store, brand=Dollar General"
+"Diamond City, AR",,retail,445110,Walmart Supercenter,"161 North Walmart Drive, Harrison, AR, 72601",+1 870-365-8400,https://www.walmart.com/store/2-harrison-ar,36.269002,-93.139044,,,w_1060189287,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Diamond City, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/lakeview/23578,36.3673486,-92.550458,,,w_1204590215,"shop=variety_store, brand=Dollar General"
+"Diamond City, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/bull-shoals/7980,36.3747798,-92.6014349,,,w_1204643856,"shop=variety_store, brand=Dollar General"
+"Diamond City, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/lead-hill/11014,36.4054103,-92.9045335,,,w_1204643857,"shop=variety_store, brand=Dollar General"
+"Diamond City, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/omaha/19672,36.455237,-93.1889351,,,w_1204643858,"shop=variety_store, brand=Dollar General"
+"Diamond City, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/pyatt/22582,36.243514,-92.8440053,,,w_1204643865,"shop=variety_store, brand=Dollar General"
+"Diamond City, AR",,retail,452319,Dollar General,,,,36.6341882,-93.0995414,,,w_1295093690,"shop=variety_store, brand=Dollar General"
+"Diamond City, AR",,retail,446110,Walgreens,,,,36.6104822,-93.2289435,,,w_1295990336,"shop=chemist, brand=Walgreens"
+"Diamond City, AR",,retail,445310,Sundown Liquor,"315 Main Street East, Alpena, AR, 72611",,,36.2948498,-93.2891314,,,w_1328585474,shop=alcohol
+"Diamond City, AR",,retail,445120,White Oak Station,"104 Highway 412, Alpena, AR, 72611",,,36.2937947,-93.2982416,,,w_1328585691,shop=convenience
+"Diamond City, AR",,retail,445120,Phillips 66,,,,36.2442925,-93.109303,,,w_1418218868,"shop=convenience, brand=Phillips 66"

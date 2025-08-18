@@ -1,0 +1,13 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Bombay Beach, CA",,retail,445120,,,,,33.6611555,-115.7208641,,,n_2454599380,shop=convenience
+"Bombay Beach, CA",,retail,445310,Date Shake,,,,33.0376783,-115.6221574,,,n_4728087489,shop=beverages
+"Bombay Beach, CA",,retail,445120,Alamo,,,,33.4622321,-116.0962308,,,n_10266368265,"shop=convenience, amenity=fuel"
+"Bombay Beach, CA",,retail,445120,ampm,"2084 South Marina Drive, Salton City, CA, 92274",,,33.2788592,-115.9655725,,,w_207552160,"shop=convenience, brand=ampm"
+"Bombay Beach, CA",,retail,445120,Niland Soco,"8004 US Highway 111, Niland, CA, 92257",,,33.2350593,-115.5186211,,,w_403663178,shop=convenience
+"Bombay Beach, CA",,retail,445120,Circle K,"123 East Main Street, Westmorland, CA, 92281",,,33.0377919,-115.621127,,,w_403665359,"shop=convenience, brand=Circle K"
+"Bombay Beach, CA",,retail,445120,West Shores Market,"2113 Marina Drive, Salton City, CA, 92274",,,33.2803232,-115.9615501,,,w_406617024,shop=convenience
+"Bombay Beach, CA",,retail,446120,Tresses by the Sea,"2116 Marina Drive, Salton City, CA, 92274",,,33.2811255,-115.9610072,,,w_407100851,shop=beauty
+"Bombay Beach, CA",,retail,452319,Big O Superstore,,,,33.2394853,-115.518699,,,w_847810640,shop=general
+"Bombay Beach, CA",,retail,445120,Skip's,"98775 Grapefruit Boulevard, Mecca, CA, 92254",+1-760-393-3661,,33.5281197,-115.9434277,,,w_1197272194,shop=convenience
+"Bombay Beach, CA",,retail,452319,Family Dollar,"2108 Service Road, Salton City, CA, 92274",,,33.2803687,-115.9669158,,,w_1276208712,"shop=variety_store, brand=Family Dollar"
+"Bombay Beach, CA",,retail,452319,Dollar General,"2110 Service Road, Salton City, CA, 92274",+1-760-394-6883,,33.2807943,-115.9669668,,,w_1276208713,"shop=variety_store, brand=Dollar General"

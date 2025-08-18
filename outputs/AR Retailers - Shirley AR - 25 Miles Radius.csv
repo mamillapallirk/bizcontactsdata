@@ -1,0 +1,28 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Shirley, AR",,retail,445110,Lewis Grocery and Ryan`s Deli,,,,35.8287565,-92.5594283,,,n_3319755577,shop=supermarket
+"Shirley, AR",,retail,452210,Antique Mall,,,,35.8285529,-92.5588136,,,n_3319761220,shop=department_store
+"Shirley, AR",,retail,445120,Arkansas Handmade,,,,35.8291629,-92.559986,,,n_3370897492,shop=convenience
+"Shirley, AR",,retail,445120,Elk & Eagle Trading Post,,,,35.8292865,-92.5599585,,,n_3372380772,shop=convenience
+"Shirley, AR",,retail,453991,Tobacco World,"296 Ingram Street, Clinton, AR, 72031",,,35.5988662,-92.4616697,,,n_9354217510,shop=tobacco
+"Shirley, AR",,retail,446120,Beyond Deep Therapeutic Massage,"296 Ingram Street, Clinton, AR, 72031",+1-501-757-3377,,35.5989013,-92.461854,,,n_9354217512,shop=beauty
+"Shirley, AR",,retail,446120,Oasis Hair & Tanning,"15 Victory Lane, Greers Ferry, AR, 72067",+1-501-825-6770,https://oasishairandtan.com,35.5674936,-92.1787894,,,n_9692868634,"shop=beauty, operator=Rene Haynes"
+"Shirley, AR",,retail,452319,Dollar General,,,,35.8682745,-92.3077912,,,n_12450128212,"shop=variety_store, brand=Dollar General"
+"Shirley, AR",,retail,445110,Walmart Supercenter,"1966 Highway 65 South, Clinton, AR, 72031",+1 501-745-2498,https://www.walmart.com/store/788-clinton-ar,35.5667653,-92.4544104,,,w_479558198,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Shirley, AR",,retail,445110,Walmart Supercenter,"409 Sylamore Avenue, Mountain View, AR, 72560",+1 870-269-4395,https://www.walmart.com/store/1114-mountain-view-ar,35.867208,-92.101783,,,w_480261193,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Shirley, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/drasco/11801,35.6337597,-91.946524,,,w_555383095,"shop=variety_store, brand=Dollar General"
+"Shirley, AR",,retail,445310,Gravity BrewWorks,"11512 Highway 14 East, Big Flat, AR, 72617",8704482077,http://gravitybrewworks.com,36.0083015,-92.3788361,,,w_997334586,shop=beverages
+"Shirley, AR",,retail,446110,Mitchell's Main Street Pharmacy,,,,35.8678656,-92.1153661,,,w_1057054926,shop=chemist
+"Shirley, AR",,retail,452319,Music and More General Store,,,,35.8816633,-92.1157537,,,w_1057419703,shop=general
+"Shirley, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/clinton/3979,35.5965273,-92.4569197,,,w_1097874572,"shop=variety_store, brand=Dollar General"
+"Shirley, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/bee-branch/15678,35.4533446,-92.3960323,,,w_1099447274,"shop=variety_store, brand=Dollar General"
+"Shirley, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/damascus/12339,35.3610014,-92.4121519,,,w_1099447673,"shop=variety_store, brand=Dollar General"
+"Shirley, AR",,retail,452319,Dollar General,"6254 Heber Springs Road West, Quitman, AR, 72131",,https://www.dollargeneral.com/store-directory/ar/quitman/7238,35.3798263,-92.2235442,,,w_1203459248,"shop=variety_store, brand=Dollar General"
+"Shirley, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/mountain-view/2633,35.8601488,-92.0915067,,,w_1204577958,"shop=variety_store, brand=Dollar General"
+"Shirley, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/leslie/17627,35.8320914,-92.5681341,,,w_1204643881,"shop=variety_store, brand=Dollar General"
+"Shirley, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/greenbrier/17432,35.3161421,-92.3452654,,,w_1217069992,"shop=variety_store, brand=Dollar General"
+"Shirley, AR",,retail,452319,Dollar Tree,"1141 Highway 25B, HEBER SPRINGS, AR, 72543",,https://www.dollartree.com/locations/ar/heber-springs/5372/,35.5034428,-92.0290639,,,w_1229499653,"shop=variety_store, brand=Dollar Tree"
+"Shirley, AR",,retail,445110,,,,,35.4913022,-92.0392143,,,w_1283646700,shop=supermarket
+"Shirley, AR",,retail,445120,,"540 Dave Creek Parkway, Fairfield Bay, AR, 72088",,,35.6073866,-92.2694084,,,w_1291050581,shop=convenience
+"Shirley, AR",,retail,445110,Walmart Supercenter,"1500 Highway 25B, Heber Spgs, AR, 72543",+1 501-362-8188,https://www.walmart.com/store/281-heber-spgs-ar,35.5072422,-92.0322407,,,w_1311916209,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Shirley, AR",,retail,445110,Aldi,,,,35.8633131,-92.1046788,,,w_1336010047,shop=supermarket
+"Shirley, AR",,retail,452319,Family Dollar,,,,35.5662704,-92.1793039,,,w_1346060934,"shop=variety_store, brand=Family Dollar"

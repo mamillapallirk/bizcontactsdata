@@ -1,0 +1,25 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Wilmar, AR",,retail,445110,Piggly Wiggly,,,,33.6243729,-91.7908756,,,n_2349431069,"shop=supermarket, brand=Piggly Wiggly"
+"Wilmar, AR",,retail,445110,Save-A-Lot,,,https://savealot.com/grocery-stores/monticello-71655-24253/,33.630536,-91.7964234,,,n_2349898988,"shop=supermarket, brand=Save-A-Lot"
+"Wilmar, AR",,retail,445120,La Casita Mexican Store,,,,33.6322043,-91.80274,,,n_2349898991,shop=convenience
+"Wilmar, AR",,retail,446110,Walgreens,"640 West Gaines Avenue, Monticello, AR, 71655",,https://www.walgreens.com/locator/walgreens-640+w+gaines+st-monticello-ar-71655/id=10666,33.6302875,-91.8013933,,,n_6579148534,"shop=chemist, brand=Walgreens"
+"Wilmar, AR",,retail,452319,Family Dollar,,,,33.6300623,-91.8008038,,,n_6579148555,"shop=variety_store, brand=Family Dollar"
+"Wilmar, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/hamburg/17940,33.3535461,-91.8479667,,,n_10588049396,"shop=variety_store, brand=Dollar General"
+"Wilmar, AR",,retail,445120,Missile Mart,,,,33.6095242,-92.0711315,,,n_11135741424,shop=convenience
+"Wilmar, AR",,retail,452319,Family Dollar,"317 South Martin Street, Warren, AR, 71671",,https://www.familydollar.com/locations/ar/warren/21256,33.6105058,-92.0706021,,,n_12160785667,"shop=variety_store, brand=Family Dollar"
+"Wilmar, AR",,retail,445110,Walmart Supercenter,"427 Highway 425 North, Monticello, AR, 71655",+1 870-367-0409,https://www.walmart.com/store/348-monticello-ar,33.6358067,-91.8047407,,,w_700589916,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Wilmar, AR",,retail,445110,Piggly Wiggly,"1307 North Lincoln Avenue, Star City, AR, 71667",+1 870-628-4443,,33.956548,-91.8412372,,,w_754812078,"shop=supermarket, brand=Piggly Wiggly"
+"Wilmar, AR",,retail,453110,Pickin' Flowers & Gifts,,,,33.94447,-91.8439779,,,w_754871185,shop=florist
+"Wilmar, AR",,retail,446110,Doctor’s Orders Pharmacy,,,,33.937902,-91.8441188,,,w_754885755,shop=chemist
+"Wilmar, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/star-city/461,33.936628,-91.8442369,,,w_754885756,"shop=variety_store, brand=Dollar General"
+"Wilmar, AR",,retail,453991,Tobacco SuperStore,,,,33.9412264,-91.843139,,,w_754891839,shop=tobacco
+"Wilmar, AR",,retail,453110,Sweet Peas,,,,33.941476,-91.8440105,,,w_873307299,shop=florist
+"Wilmar, AR",,retail,452319,Family Dollar,,,,33.9370859,-91.8430059,,,w_873336749,"shop=variety_store, brand=Family Dollar"
+"Wilmar, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/star-city/22482,33.9568626,-91.8413102,,,w_873354946,"shop=variety_store, brand=Dollar General"
+"Wilmar, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/rison/22759,33.8215744,-92.0033239,,,w_1200994283,"shop=variety_store, brand=Dollar General"
+"Wilmar, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/rison/16551,33.9357348,-92.0296029,,,w_1200994294,"shop=variety_store, brand=Dollar General"
+"Wilmar, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/monticello/22501,33.6292918,-91.7772635,,,w_1200994297,"shop=variety_store, brand=Dollar General"
+"Wilmar, AR",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ar/monticello/580/,33.6346099,-91.8030454,,,w_1200994307,"shop=variety_store, brand=Dollar Tree"
+"Wilmar, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/monticello/2552,33.6295632,-91.8056159,,,w_1200994309,"shop=variety_store, brand=Dollar General"
+"Wilmar, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/hermitage/13786,33.4477073,-92.1689023,,,w_1201022281,"shop=variety_store, brand=Dollar General"
+"Wilmar, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/warren/18224,33.6314804,-92.0627317,,,w_1201022288,"shop=variety_store, brand=Dollar General"

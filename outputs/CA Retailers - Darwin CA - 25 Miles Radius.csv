@@ -1,0 +1,5 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Darwin, CA",,retail,445120,,"Gill Station Coso Road, Olancha, CA, 93549",,,36.0477311,-117.9456802,,,n_12497363359,shop=convenience
+"Darwin, CA",,retail,445120,Panamint Springs General Store,"40440 CA 190, Panamint Springs, CA, 93522",+1-775-482-7680,https://www.panamintsprings.com/services/gas-station-general-store,36.3391247,-117.4676456,,,w_222149842,"shop=convenience, operator=Panamint Springs Resort"
+"Darwin, CA",,retail,445120,Mobil Mart,"601 South Highway 395, Olancha, CA, 93549",,,36.2740257,-118.0027778,,,w_295189462,"shop=convenience, brand=Mobil Mart, operator=mobil"
+"Darwin, CA",,retail,452319,General Store,,,,36.5379069,-117.7948999,,,w_496761826,shop=general

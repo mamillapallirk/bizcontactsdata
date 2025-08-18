@@ -1,0 +1,18 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Grannis, AR",,retail,445120,Scotty's Deli,,,,34.4326212,-94.4121642,,,n_359024173,shop=convenience
+"Grannis, AR",,retail,445110,Walmart Supercenter,"926 East Collin Raye Drive, De Queen, AR, 71832",+1 870-642-2794,https://www.walmart.com/store/279-de-queen-ar,34.043471,-94.319058,,,n_5315599017,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Grannis, AR",,retail,452319,My Dollar Plus,,,,34.1482151,-94.7495583,,,n_8941980062,shop=variety_store
+"Grannis, AR",,retail,446110,Walgreens,"803 Highway 71 North, Mena, AR, 71953",+1 479-394-5144,https://www.walgreens.com/locator/walgreens-803+highway+71+n-mena-ar-71953/id=15793,34.5861371,-94.223308,,,n_11180458085,"shop=chemist, brand=Walgreens"
+"Grannis, AR",,retail,445210,Prime Country Meats,,,,33.9386451,-94.3562303,,,n_11802782909,shop=butcher
+"Grannis, AR",,retail,445310,"Poco's Beer, Wine, & Spirits","910 US-71, Mena, AR",+1 479-385-2855,,34.5859326,-94.2210269,,,n_12018385504,shop=alcohol
+"Grannis, AR",,retail,446191,Farm House Herbs & Health Food,"819 Mena Street, Mena, AR",+1 479-385-2151,,34.5823722,-94.2350682,,,n_12018385507,shop=health_food
+"Grannis, AR",,retail,445120,Shell,"1121 US-71 South, Mena, AR, 71953-4033",+1 479-394-6182,https://find.shell.com/us/fuel/10047653-1121-highway-71-s/,34.5757297,-94.2397763,,,n_12018553191,"shop=convenience, brand=Shell"
+"Grannis, AR",,retail,452319,Dollar General,38709 North US 259,,https://www.dollargeneral.com/store-directory/ok/smithville/16969,34.4655284,-94.6549177,,,w_965778728,"shop=variety_store, brand=Dollar General"
+"Grannis, AR",,retail,452319,Dollar General,"4736 US 71, Hatfield, AR, 71945-7111",+1 479-326-8920,https://www.dollargeneral.com/store-directory/ar/hatfield/23932,34.4872249,-94.377367,,,w_1155424292,"shop=variety_store, brand=Dollar General"
+"Grannis, AR",,retail,452319,Dollar General,"1208 US Highway 71 South, Mena, AR, 71953-8007",+1 479-385-2772,https://www.dollargeneral.com/store-directory/ar/mena/13306,34.5717086,-94.2456059,,,w_1202224986,"shop=variety_store, brand=Dollar General"
+"Grannis, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/cove/11586,34.4342013,-94.4108872,,,w_1202224989,"shop=variety_store, brand=Dollar General"
+"Grannis, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/wickes/16209,34.2973734,-94.3400417,,,w_1202224990,"shop=variety_store, brand=Dollar General"
+"Grannis, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/lockesburg/14537,33.966822,-94.1669721,,,w_1202245484,"shop=variety_store, brand=Dollar General"
+"Grannis, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/horatio/12334,33.9388055,-94.3531853,,,w_1202245503,"shop=variety_store, brand=Dollar General"
+"Grannis, AR",,retail,445110,Walmart Supercenter,"600 Highway 71 North, Mena, AR, 71953",+1 479-394-0025,https://www.walmart.com/store/67-mena-ar,34.5884572,-94.2259035,,,w_1267604381,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Grannis, AR",,retail,445120,E-Z Mart;Shell,,,,34.16157,-94.7562447,,,r_12996491,"shop=convenience, amenity=fuel, brand=Shell"

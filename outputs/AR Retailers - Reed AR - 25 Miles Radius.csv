@@ -1,0 +1,18 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Reed, AR",,retail,445110,Piggly Wiggly,,,,33.6243729,-91.7908756,,,n_2349431069,"shop=supermarket, brand=Piggly Wiggly"
+"Reed, AR",,retail,445110,Save-A-Lot,,,https://savealot.com/grocery-stores/monticello-71655-24253/,33.630536,-91.7964234,,,n_2349898988,"shop=supermarket, brand=Save-A-Lot"
+"Reed, AR",,retail,445120,La Casita Mexican Store,,,,33.6322043,-91.80274,,,n_2349898991,shop=convenience
+"Reed, AR",,retail,445110,Tobacco store,"110 Crooked Bayou Drive, McGehee, AR, 71654",,,33.6107216,-91.3814912,,,n_4632400191,shop=supermarket
+"Reed, AR",,retail,446110,Walgreens,"640 West Gaines Avenue, Monticello, AR, 71655",,https://www.walgreens.com/locator/walgreens-640+w+gaines+st-monticello-ar-71655/id=10666,33.6302875,-91.8013933,,,n_6579148534,"shop=chemist, brand=Walgreens"
+"Reed, AR",,retail,452319,Family Dollar,,,,33.6300623,-91.8008038,,,n_6579148555,"shop=variety_store, brand=Family Dollar"
+"Reed, AR",,retail,445120,,,,,33.8774125,-91.4815968,,,n_11956823032,shop=convenience
+"Reed, AR",,retail,445110,Walmart Supercenter,"427 Highway 425 North, Monticello, AR, 71655",+1 870-367-0409,https://www.walmart.com/store/348-monticello-ar,33.6358067,-91.8047407,,,w_700589916,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Reed, AR",,retail,452210,Walmart,"1001 Us 65 South, McGehee, AR, 71654",+1 870-222-4184,https://www.walmart.com/store/289-mcgehee-ar,33.6042312,-91.3819147,,,w_729205800,"shop=department_store, brand=Walmart, operator=Walmart"
+"Reed, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/gould/16273,33.9899538,-91.5640765,,,w_1034172588,"shop=variety_store, brand=Dollar General"
+"Reed, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/monticello/22501,33.6292918,-91.7772635,,,w_1200994297,"shop=variety_store, brand=Dollar General"
+"Reed, AR",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ar/monticello/580/,33.6346099,-91.8030454,,,w_1200994307,"shop=variety_store, brand=Dollar Tree"
+"Reed, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/monticello/2552,33.6295632,-91.8056159,,,w_1200994309,"shop=variety_store, brand=Dollar General"
+"Reed, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/dermott/23037,33.5256658,-91.4312502,,,w_1201131562,"shop=variety_store, brand=Dollar General"
+"Reed, AR",,retail,445110,The Mad Butcher,,,,33.8783619,-91.4813152,,,w_1201167696,shop=supermarket
+"Reed, AR",,retail,452319,Dollar General,,,,33.8838868,-91.4824953,,,w_1201167698,"shop=variety_store, brand=Dollar General"
+"Reed, AR",,retail,452319,Family Dollar,,,,33.889259,-91.485335,,,w_1201167699,"shop=variety_store, brand=Family Dollar"

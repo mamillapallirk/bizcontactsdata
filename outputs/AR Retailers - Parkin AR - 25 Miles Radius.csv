@@ -1,0 +1,51 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Parkin, AR",,retail,452319,Family Dollar,,,,35.2091828,-90.2033703,,,n_1239655076,"shop=variety_store, brand=Family Dollar"
+"Parkin, AR",,retail,452319,Family Dollar,,,,35.2760742,-90.4692175,,,n_5436375922,"shop=variety_store, brand=Family Dollar"
+"Parkin, AR",,retail,445120,Petro,3900 Petro Road,1 (870) 702-5540,,35.1543551,-90.135907,,,n_8086364364,shop=convenience
+"Parkin, AR",,retail,445110,Kroger,"300 West Service Road, West Memphis, AR, 72301",+1 870-732-2692,https://www.kroger.com/stores/grocery/ar/west-memphis/w-memphis/025/00469,35.1681193,-90.1920318,,,n_8389289058,"shop=supermarket, brand=Kroger"
+"Parkin, AR",,retail,452319,Dollar Tree,,,,35.5285434,-90.4325951,,,n_9948399561,"shop=variety_store, brand=Dollar Tree"
+"Parkin, AR",,retail,445120,Love's,,,,35.1537864,-90.1383451,,,n_11051805634,"shop=convenience, brand=Love's"
+"Parkin, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/west-memphis/1731,35.1450901,-90.1962731,,,n_11273078211,"shop=variety_store, brand=Dollar General"
+"Parkin, AR",,retail,445120,,,,,35.0592284,-90.6881394,,,n_12166252852,shop=convenience
+"Parkin, AR",,retail,445120,TA,,,,35.1363989,-90.4881082,,,n_12166255031,"shop=convenience, brand=TA"
+"Parkin, AR",,retail,445120,,,,,35.1359832,-90.4892002,,,n_12166255035,shop=convenience
+"Parkin, AR",,retail,445120,PJ’s,,,,35.1470042,-90.2918492,,,n_12166260857,shop=convenience
+"Parkin, AR",,retail,445120,,,,,35.146995,-90.2923439,,,n_12166260858,shop=convenience
+"Parkin, AR",,retail,445120,Flying J,"3400 Service Loop Road, West Memphis, AR, 72301",,,35.1541741,-90.1439223,,,w_219424152,shop=convenience
+"Parkin, AR",,retail,452210,Sears,"209 Shoppingway Boulevard, West Memphis, AR, 72301",,,35.1672059,-90.1888809,,,w_384668097,"shop=department_store, brand=Sears"
+"Parkin, AR",,retail,446110,Walgreens,"1800 North Missouri Street, West Memphis, AR, 72301",,https://www.walgreens.com/locator/walgreens-1800+n+missouri+st-west+memphis-ar-72301/id=5789,35.1672208,-90.1861429,,,w_384668101,"shop=chemist, brand=Walgreens"
+"Parkin, AR",,retail,445110,Walmart Neighborhood Market,"2100 Highway 77, Marion, AR, 72364",+1 870-394-7308,https://www.walmart.com/store/4654-marion-ar,35.1979382,-90.1825391,,,w_499747003,"shop=supermarket, brand=Walmart"
+"Parkin, AR",,retail,445120,Flash Mart,"1621 North Missouri Street, West Memphis, AR, 72301",+18704000188,,35.1640811,-90.1842465,,,w_534396134,shop=convenience
+"Parkin, AR",,retail,445120,Shell,,,,35.2130807,-90.2064766,,,w_534396189,"shop=convenience, brand=Shell"
+"Parkin, AR",,retail,452319,Dollar General,"3732 I-55 Service Road, Marion, AR, 72364",,https://www.dollargeneral.com/store-directory/ar/marion/9061,35.2173242,-90.2076481,,,w_534396292,"shop=variety_store, brand=Dollar General"
+"Parkin, AR",,retail,445120,BP Shop,,,,35.3879872,-90.2715939,,,w_574536263,"shop=convenience, brand=BP Shop"
+"Parkin, AR",,retail,445110,Walmart Supercenter,"205 Deadrick Road, Forrest City, AR, 72335",+1 870-633-0021,https://www.walmart.com/store/91-forrest-city-ar,35.0280727,-90.7935746,,,w_771448348,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Parkin, AR",,retail,452319,Dollar Tree,809 Highway 64 East,,,35.2506572,-90.7768583,,,w_872200100,"shop=variety_store, brand=Dollar Tree"
+"Parkin, AR",,retail,445110,Walmart Supercenter,"800 Highway 64 East, Wynne, AR, 72396",+1 870-238-8129,https://www.walmart.com/store/68-wynne-ar,35.2534057,-90.7775006,,,w_872201583,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Parkin, AR",,retail,445110,Walmart Supercenter,"798 West Service Road, West Memphis, AR, 72301",+1 870-732-0175,https://www.walmart.com/store/70-west-memphis-ar,35.1654621,-90.20001,,,w_903252941,"shop=supermarket, brand=Walmart"
+"Parkin, AR",,retail,445120,Shell,"700 North Service Road, West Memphis, AR, 72301",,,35.1656195,-90.1751507,,,w_903252951,"shop=convenience, brand=Shell"
+"Parkin, AR",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ar/marion/8494/,35.203202,-90.1918661,,,w_979688475,"shop=variety_store, brand=Dollar Tree"
+"Parkin, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/earle/11357,35.276318,-90.471844,,,w_1046499630,"shop=variety_store, brand=Dollar General"
+"Parkin, AR",,retail,445120,Jordan's,"9595 US-70, Proctor, AR, 72376",+1-870-733-1216,,35.1467349,-90.2933766,,,w_1126407251,shop=convenience
+"Parkin, AR",,retail,445120,Flash Market,"101 East Broadway Boulevard, West Memphis, AR, 72301",+1-870-514-1600,,35.1461824,-90.1844986,,,w_1126610835,shop=convenience
+"Parkin, AR",,retail,446110,Walgreens,"346 West Broadway Boulevard, West Memphis, AR, 72301",+1-870-733-0138,https://www.walgreens.com/locator/walgreens-346+w+broadway+st-west+memphis-ar-72301/id=2774,35.1456638,-90.1930885,,,w_1126842637,"shop=chemist, brand=Walgreens"
+"Parkin, AR",,retail,445120,Broadway Deli & Pizza,"400 West Broadway Boulevard, West Memphis, AR, 72301",,,35.145995,-90.1939981,,,w_1126842641,shop=convenience
+"Parkin, AR",,retail,445110,Marion Market Place,"220 East Military Road, Marion, AR, 72364",,,35.2139019,-90.2056946,,,w_1154865992,shop=supermarket
+"Parkin, AR",,retail,445120,Flash Market,"3440 I-55 Service Road, Marion, AR, 72364",,,35.2132422,-90.2061245,,,w_1154866004,shop=convenience
+"Parkin, AR",,retail,445120,Citgo,"5660 U.S. 64 Highway, Parkin, AR, 72373",,,35.2728775,-90.555347,,,w_1158069735,"shop=convenience, brand=Citgo"
+"Parkin, AR",,retail,445120,Valero,"5665 U.S. 64 Highway, Parkin, AR, 72373",,,35.2720372,-90.5554139,,,w_1158069736,"shop=convenience, brand=Valero"
+"Parkin, AR",,retail,446110,Quess Pharmacy,,,,35.1457799,-90.1952448,,,w_1201537711,shop=chemist
+"Parkin, AR",,retail,445110,Gene Stimson's Big Star #3,,,,35.1472167,-90.1945754,,,w_1201537712,shop=supermarket
+"Parkin, AR",,retail,445110,Gene Stimson's Big Star #14,,,,35.1471251,-90.1603813,,,w_1201537714,shop=supermarket
+"Parkin, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/forrest-city/14772,35.0587385,-90.8082433,,,w_1202520249,"shop=variety_store, brand=Dollar General"
+"Parkin, AR",,retail,445120,Speedway,,,,35.0395722,-90.7891111,,,w_1202520254,"shop=convenience, brand=Speedway"
+"Parkin, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/wynne/22406,35.2106188,-90.7889427,,,w_1202582231,"shop=variety_store, brand=Dollar General"
+"Parkin, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/wynne/1847,35.2475018,-90.7828175,,,w_1202582242,"shop=variety_store, brand=Dollar General"
+"Parkin, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/hughes/11344,34.9495372,-90.4816468,,,w_1202696307,"shop=variety_store, brand=Dollar General"
+"Parkin, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/proctor/23887,35.1076022,-90.2941628,,,w_1202696312,"shop=variety_store, brand=Dollar General"
+"Parkin, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/cherry-valley/11806,35.4012465,-90.7599625,,,w_1203289368,"shop=variety_store, brand=Dollar General"
+"Parkin, AR",,retail,445310,Interstate Liquors,,,,35.2636773,-90.2275285,,,w_1303356680,shop=alcohol
+"Parkin, AR",,retail,445120,MYS Marion Travel Center,,,,35.2610722,-90.2260614,,,w_1303356681,shop=convenience
+"Parkin, AR",,retail,445120,QwikTrip,,,,35.1625971,-90.1746961,,,w_1303575022,"shop=convenience, brand=QuikTrip"
+"Parkin, AR",,retail,445120,,,,,35.1469959,-90.2918576,,,w_1318978176,shop=convenience
+"Parkin, AR",,retail,445120,Shamrock Gas,"824 Old Military Road, Marion, AR, 72364",,,35.211175,-90.2110329,,,w_1419230532,shop=convenience

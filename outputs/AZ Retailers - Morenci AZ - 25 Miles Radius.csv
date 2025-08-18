@@ -1,0 +1,6 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Morenci, AZ",,retail,445110,Bashas',,,,33.0514654,-109.3274818,,,w_134497511,shop=supermarket
+"Morenci, AZ",,retail,445120,,,,,32.9480843,-109.2294739,,,w_383718867,shop=convenience
+"Morenci, AZ",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/az/clifton/16559,33.0554548,-109.3100598,,,w_1089787416,"shop=variety_store, brand=Dollar General"
+"Morenci, AZ",,retail,452319,Family Dollar,,,,33.0561826,-109.3093739,,,w_1089787475,"shop=variety_store, brand=Family Dollar"
+"Morenci, AZ",,retail,445310,,,,,33.0473937,-109.294238,,,w_1089789832,shop=alcohol

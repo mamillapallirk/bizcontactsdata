@@ -1,0 +1,10 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Seligman, AZ",,retail,445110,,,,,35.3273273,-112.8754315,,,n_2886441229,shop=supermarket
+"Seligman, AZ",,retail,445120,Johnson’s Travel Center,,,,35.3092604,-112.8568673,,,n_8899500279,shop=convenience
+"Seligman, AZ",,retail,452319,Historic Route 66 General Store,,,,35.329127,-112.8850414,,,w_161302536,shop=general
+"Seligman, AZ",,retail,445120,A&W,"527 Chino Street, Seligman, AZ, 86337",,,35.3282662,-112.8853153,,,w_161302550,"shop=convenience, amenity=fast_food, brand=A&W"
+"Seligman, AZ",,retail,445120,Shell,"93 Lewis Avenue, Ash Fork, AZ, 86320",+1 928-637-2268,https://find.shell.com/us/fuel/10071782-93-lewis-ave/en_US,35.2229746,-112.4791895,,,w_323401773,"shop=convenience, brand=Shell"
+"Seligman, AZ",,retail,445120,Mobil Mart,,,,35.223503,-112.4788307,,,w_323401776,"shop=convenience, brand=Mobil Mart"
+"Seligman, AZ",,retail,452319,Family Dollar,"155 West Park Avenue, Ash Fork, AZ, 86320",+1 928-255-5183,https://locations.familydollar.com/az/ash-fork/29385/,35.2222856,-112.4807134,,,w_660307119,"shop=variety_store, brand=Family Dollar"
+"Seligman, AZ",,retail,445120,,,,,35.3282299,-112.8840929,,,w_771084658,"shop=convenience, amenity=fuel, brand=Chevron"
+"Seligman, AZ",,retail,445120,Trading Post,,,,35.218577,-112.4989647,,,w_838615628,shop=convenience

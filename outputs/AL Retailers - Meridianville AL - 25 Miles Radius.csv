@@ -1,0 +1,296 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Meridianville, AL",,retail,445120,Hollytree Grocery,"11620 AL Hwy 65, Hollytree, 35751",,,34.8022599,-86.2493836,,,n_463676090,shop=convenience
+"Meridianville, AL",,retail,446110,Walgreens,"298 Hughes Road, Madison, AL, 35758",,https://www.walgreens.com/locator/walgreens-298+hughes+rd-madison-al-35758/id=19809,34.7063144,-86.7428229,,,n_470512006,"shop=chemist, brand=Walgreens"
+"Meridianville, AL",,retail,452210,Target,"6275 University Drive Northwest, Huntsville, AL, 35806",+1 256-922-0169,https://www.target.com/sl/huntsville-west/1346,34.7410978,-86.6821021,,,n_493609205,"shop=department_store, brand=Target"
+"Meridianville, AL",,retail,445110,Star Supermarket,,,,34.7385841,-86.5762711,,,n_664322420,shop=supermarket
+"Meridianville, AL",,retail,445120,5 Pts. BP,,,,34.7383108,-86.5769873,,,n_667416160,shop=convenience
+"Meridianville, AL",,retail,445120,,,,,34.7489915,-86.5922688,,,n_696297448,shop=convenience
+"Meridianville, AL",,retail,445120,,,,,34.7157146,-86.6200866,,,n_697155266,shop=convenience
+"Meridianville, AL",,retail,452210,Target,"2750 Carl T Jones Drive Southeast, Huntsville, AL, 35802-4914",+1 256-650-3491,https://www.target.com/sl/huntsville-south/1367,34.6735029,-86.5422231,,,n_702326649,"shop=department_store, brand=Target"
+"Meridianville, AL",,retail,445120,,,,,34.7353462,-86.6334382,,,n_704025000,"shop=convenience, amenity=fuel"
+"Meridianville, AL",,retail,445120,,,,,34.7353984,-86.6327045,,,n_704025007,"shop=convenience, amenity=fuel"
+"Meridianville, AL",,retail,445120,,,,,34.7345146,-86.63355,,,n_704025052,shop=convenience
+"Meridianville, AL",,retail,445120,Discount Tobacco Center,,,,34.727745,-86.6266857,,,n_704043061,shop=convenience
+"Meridianville, AL",,retail,445120,Unisversity Jet Pep,,,,34.7350082,-86.6115459,,,n_704043123,shop=convenience
+"Meridianville, AL",,retail,445120,Shop,,,,34.7696091,-86.4841174,,,n_805570784,"shop=convenience, operator=Dollar General"
+"Meridianville, AL",,retail,445120,,,,,34.5877067,-86.4517152,,,n_921116254,shop=convenience
+"Meridianville, AL",,retail,452319,Dollar General,"4991 Winchester Road, New Market, AL, 35761",,https://www.dollargeneral.com/store-directory/al/new-market/6474,34.8929772,-86.4336499,,,n_967622051,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,445120,Mt. Gap food Mart,,,,34.6245366,-86.5413249,,,n_974272363,shop=convenience
+"Meridianville, AL",,retail,445120,Chevron,,,,34.7005509,-86.3848185,,,n_993705534,"shop=convenience, brand=Chevron"
+"Meridianville, AL",,retail,446120,Venus Nails,,,,34.6573573,-86.4879241,,,n_993725048,shop=beauty
+"Meridianville, AL",,retail,452210,TJ Maxx,"975 Airport Road Southwest, Huntsville, AL, 35802",+1-256-880-6829,https://tjmaxx.tjx.com/store/stores/Huntsville-AL-35802/705/aboutstore,34.689958,-86.5780382,,,n_1003335950,"shop=department_store, brand=TJ Maxx"
+"Meridianville, AL",,retail,452319,Family Dollar,"809 Wellman Avenue Northeast, Huntsville, 35801",,,34.7379942,-86.5761089,,,n_1004185595,"shop=variety_store, brand=Family Dollar, operator=Family Dollar"
+"Meridianville, AL",,retail,452210,,,,,34.7678363,-86.5854716,,,n_1004967598,"shop=department_store, operator=Big Lots"
+"Meridianville, AL",,retail,445120,C-Store,,,,34.7256564,-86.6385295,,,n_1016907759,shop=convenience
+"Meridianville, AL",,retail,445120,,,,,34.7391159,-86.5825501,,,n_1020326718,shop=convenience
+"Meridianville, AL",,retail,445310,Windmill Beverages,,,,34.8593841,-86.5706019,,,n_1536493660,shop=alcohol
+"Meridianville, AL",,retail,445110,Jamo's Grocery,,,,34.7266594,-86.6266602,,,n_1802247650,shop=supermarket
+"Meridianville, AL",,retail,445110,Choi's Oriental Food & Gifts,"402 Jordan Lane, 35805",,http://www.specialtygrocery.net/oriental/alabama/chois_oriental_food_gifts_al.html,34.7243624,-86.6270196,,,n_1802266330,shop=supermarket
+"Meridianville, AL",,retail,445110,Star Supermarket,,,,34.8646324,-86.5705267,,,n_2249386442,shop=supermarket
+"Meridianville, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/meridianville-al-pharmacies/12275-hwy-231-431n-meridianville-al-35759/storeid=5316,34.8703212,-86.5722191,,,n_2249386457,"shop=chemist, brand=CVS Pharmacy"
+"Meridianville, AL",,retail,452319,Family Dollar,,,,34.9304116,-86.5722641,,,n_2314716035,"shop=variety_store, brand=Family Dollar"
+"Meridianville, AL",,retail,445310,Wagon Wheel Liquors,"6846 US-431, Owens Cross Road, AL, 35763",,,34.6530422,-86.4804375,,,n_3462613492,shop=alcohol
+"Meridianville, AL",,retail,452319,Dollar General,"6466 Hwy 431 S, Owens Cross Roads, AL, 35763",,https://www.dollargeneral.com/store-directory/al/hampton-cove/6797,34.6649201,-86.4873308,,,n_3462662559,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,446120,US Nails,,,,34.6917296,-86.7177493,,,n_3878550087,shop=beauty
+"Meridianville, AL",,retail,445310,Madison Beverage,,,,34.6915839,-86.7166502,,,n_3878550223,shop=alcohol
+"Meridianville, AL",,retail,445310,Windmill Beverages,,,,34.6798845,-86.7524115,,,n_3884198487,shop=alcohol
+"Meridianville, AL",,retail,446120,I Love Nails,,,,34.6832165,-86.738875,,,n_3884198507,shop=beauty
+"Meridianville, AL",,retail,445110,Gordon Food Service Store,4710 University Drive Northwest,+1-256-517-8145,https://gfsstore.com/locations/huntsville/,34.7375482,-86.6469872,,,n_4712471444,"shop=supermarket, brand=Gordon Food Service Store"
+"Meridianville, AL",,retail,446120,Tip Top Nails,,,,34.7541378,-86.7473927,,,n_4737362884,shop=beauty
+"Meridianville, AL",,retail,452319,Dollar General,,,,34.7538934,-86.74865,,,n_4737362890,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,445110,Sprouts Farmers Market,"7504 US Highway 72 West, Madison, AL, 35758",+1 256-203-8334,https://www.sprouts.com/store/al/madison/huntsville-madison/,34.7584292,-86.7293907,,,n_4763191093,"shop=supermarket, brand=Sprouts Farmers Market"
+"Meridianville, AL",,retail,445110,Walmart Neighborhood Market,"2305 Jordan Lane Southwest, Huntsville, AL, 35805",+1 256-755-3080,https://www.walmart.com/store/5925-huntsville-al,34.7135989,-86.6249168,,,n_5315596644,"shop=supermarket, brand=Walmart Neighborhood Market, operator=Walmart"
+"Meridianville, AL",,retail,445110,Asian Market,"6125 University Drive Northwest, Huntsville, AL, 35806",+1-256-213-7466,https://asian-market.business.site/,34.7415503,-86.6767372,,,n_5317000836,shop=supermarket
+"Meridianville, AL",,retail,445110,The Fresh Market,"4800 Whitesburg Drive South, Huntsville, AL",+1-256-880-9042,https://stores.thefreshmarket.com/al/huntsville/83,34.6921142,-86.5702528,,,n_5736778188,"shop=supermarket, brand=The Fresh Market"
+"Meridianville, AL",,retail,446120,Revive Nails and Massage Therapy,,,,34.6596502,-86.5409566,,,n_5749611269,shop=beauty
+"Meridianville, AL",,retail,446120,Sun Kissed,,,,34.6591387,-86.5399684,,,n_5749611275,shop=beauty
+"Meridianville, AL",,retail,445120,Mediteranian Food,"4320 University Drive Northwest, Huntsville, AL, 35816",,,34.7359576,-86.6339821,,,n_5924688366,shop=convenience
+"Meridianville, AL",,retail,445120,El Azteca Supermercado,,+12562166232,,34.8165377,-86.9717117,,,n_6007970706,shop=convenience
+"Meridianville, AL",,retail,445120,,,,,34.7343853,-86.6281603,,,n_6634193230,shop=convenience
+"Meridianville, AL",,retail,446120,Victoria Nails,,,,34.816735,-86.4927026,,,n_6788421283,shop=beauty
+"Meridianville, AL",,retail,453110,Blue Violet Florist,7901 Memorial parkway,,,34.6618961,-86.5716504,,,n_6951293183,shop=florist
+"Meridianville, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/huntsville/6093,34.6443834,-86.5405131,,,n_7804838030,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,445110,Far East Market Madison,,2563258868,,34.7550083,-86.7163758,,,n_8120099217,shop=supermarket
+"Meridianville, AL",,retail,453991,Smoke Land,"2719 Patton Road Southwest, Huntsville, AL, 35805",2564893595,https://smokeland-al.business.site/,34.7124299,-86.6264895,,,n_8150310554,shop=tobacco
+"Meridianville, AL",,retail,452319,Dollar Tree,"935 US Highway 72 East, Athens, AL, 35611",+1-256-233-1006,https://www.dollartree.com/locations/al/athens/1368/,34.7888561,-86.9619859,,,n_8712951235,"shop=variety_store, brand=Dollar Tree"
+"Meridianville, AL",,retail,446120,Diva Nails,"1001 US Highway 72 East, Athens, AL, 35611",+1-256-444-2229,,34.7885983,-86.9605999,,,n_8712951245,shop=beauty
+"Meridianville, AL",,retail,445110,ALDI,"2900 Memorial Parkway Southwest, Huntsville, AL, 35801",+1 833-470-7083,https://stores.aldi.us/al/huntsville/2900-a-memorial-pkwy-sw,34.7066621,-86.5908024,,,n_8713131695,"shop=supermarket, brand=ALDI"
+"Meridianville, AL",,retail,445110,ALDI,"2125 Winchester Road Northeast, Huntsville, AL, 35811",+1 833-470-7082,https://stores.aldi.us/al/huntsville/2125-winchester-rd-ne,34.8176119,-86.495243,,,n_8713369962,"shop=supermarket, brand=ALDI"
+"Meridianville, AL",,retail,445310,,,,,34.6139519,-86.569488,,,n_8853842083,shop=alcohol
+"Meridianville, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/huntsville/2500/,34.6143802,-86.5694589,,,n_8863163472,"shop=variety_store, brand=Dollar Tree"
+"Meridianville, AL",,retail,446120,Victoria Nails,,,,34.6606378,-86.4849665,,,n_8889143356,shop=beauty
+"Meridianville, AL",,retail,445120,Circle K,"11040 Memorial Parkway Southwest, Huntsville, AL, 35803",,,34.6294929,-86.5680106,,,n_8927881618,"shop=convenience, brand=Circle K"
+"Meridianville, AL",,retail,445120,Speedway,"11431 South Memorial Parkway, Huntsville, AL, 35803",,,34.6298822,-86.5661464,,,n_8927881668,"shop=convenience, brand=Speedway"
+"Meridianville, AL",,retail,446191,Nature's Apothecary,,,,34.7678286,-86.5877886,,,n_9091062396,shop=health_food
+"Meridianville, AL",,retail,445120,Mapco Mart,"1409 Huntsville Highway, Fayetteville, TN, 37334",+1 931 433 6167,https://www.mapcorewards.com/store/deltaexpress3659,35.1293257,-86.5667719,,,n_9230660237,shop=convenience
+"Meridianville, AL",,retail,445110,Dollar General Market,"1416 Huntsville Highway, Fayetteville, TN, 37334",,https://www.dollargeneral.com/store-directory/tn/fayetteville/9809,35.1295436,-86.5643354,,,n_9230660238,"shop=supermarket, brand=Dollar General"
+"Meridianville, AL",,retail,445120,Speedway,"1375 Huntsville Highway, Fayetteville, TN, 37334",,,35.1301134,-86.567,,,n_9230660300,"shop=convenience, brand=Speedway"
+"Meridianville, AL",,retail,445120,J & M Market,,,,34.9136947,-86.633361,,,n_9309735779,shop=convenience
+"Meridianville, AL",,retail,445120,Mapco,,,,34.6138689,-86.5665599,,,n_9416708938,shop=convenience
+"Meridianville, AL",,retail,446120,LifeStyle Nail,"100 Outfield Drive, Madison, AL, 35758",+1(256)325-5001,https://lifestylenail100.com/,34.6843559,-86.7171265,,,n_9762284037,shop=beauty
+"Meridianville, AL",,retail,453991,Smoke Spot,"27035 Main Street, Ardmore, TN, 38449",931-427-2223,https://smokespotkratom.com,34.9922787,-86.8375164,,,n_9774960735,shop=tobacco
+"Meridianville, AL",,retail,445110,Kroger,"8404 Memorial Parkway Southwest, Huntsville, AL, 35802",+1 256-881-5696,https://www.kroger.com/stores/grocery/al/huntsville/logan-square/026/00849,34.6566457,-86.5712642,,,n_9862744917,"shop=supermarket, brand=Kroger"
+"Meridianville, AL",,retail,445110,Rural King,"3418 Memorial Parkway Northwest, Huntsville, AL, 35810",+12568980523,https://www.ruralking.com,34.7696628,-86.5844611,,,n_9886161405,shop=supermarket
+"Meridianville, AL",,retail,445110,Trader Joe's,"1100 Mid City Drive Northwest, Huntsville, AL, 35806",+1 256-890-7156,https://locations.traderjoes.com/al/huntsville/785/,34.7401294,-86.6651914,,,n_10293923395,"shop=supermarket, brand=Trader Joe's"
+"Meridianville, AL",,retail,452319,Family Dollar,,,,34.7704019,-86.6172733,,,n_10794746356,"shop=variety_store, brand=Family Dollar"
+"Meridianville, AL",,retail,445110,Publix,"310 Pelham Avenue Southwest, Huntsville, AL, 35801-5016",+1 256-534-2330,https://www.publix.com/locations/1451,34.7234245,-86.5839255,,,n_10823042890,"shop=supermarket, brand=Publix"
+"Meridianville, AL",,retail,445110,Halsey Foodservice,,,,34.7333388,-86.5878972,,,n_10828176859,shop=supermarket
+"Meridianville, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/harvest-al-pharmacies/5859-highway-53-harvest-al-35749/storeid=10516,34.8450922,-86.7129216,,,n_10975617707,"shop=chemist, brand=CVS Pharmacy"
+"Meridianville, AL",,retail,445120,,,,,34.6829485,-86.7377484,,,n_11059420646,shop=convenience
+"Meridianville, AL",,retail,446120,Vicky nail spa,"930 Old Monrovia Road Northwest, Huntsville, AL, 35806",,,34.7368621,-86.6614558,,,n_11282560548,shop=beauty
+"Meridianville, AL",,retail,446120,Donatella Nail Lounge,"5850 University Drive Northwest, Huntsville, AL, 35806",+12569647240,https://donatellanailloungehuntsville.com/,34.741087,-86.6630613,,,n_11303206425,shop=beauty
+"Meridianville, AL",,retail,446120,Infinity Med-I-Spa,"7914 Memorial Parkway Southwest, Huntsville, AL, 35802",+1-256-880-3672,https://med-i-spa.com/locations/huntsville/,34.6616146,-86.5718323,,,n_11368035181,shop=beauty
+"Meridianville, AL",,retail,446120,Classy Nails,"2750 Carl T Jones Drive Southeast, Huntsville, AL, 35802",1-256-880-8884,https://www.facebook.com/people/Classy-Nails/100086513105752/,34.6730214,-86.5413132,,,n_11370360561,shop=beauty
+"Meridianville, AL",,retail,452319,Five Below,"2750 Carl T Jones Drive Southeast, Huntsville, AL, 35802",1-256-880-5185,https://locations.fivebelow.com/al/huntsville/2750-carl-t-jones-drive,34.6744575,-86.5435569,,,n_11370360565,"shop=variety_store, brand=Five Below"
+"Meridianville, AL",,retail,446120,Bath & Body Works,"2750 Carl T Jones Drive Southeast, Huntsville, AL, 35802",1-256-947-5350,,34.6749187,-86.5445047,,,n_11370360568,"shop=cosmetics, brand=Bath & Body Works"
+"Meridianville, AL",,retail,452319,Dollar Tree,"2750 Carl T Jones Drive Southeast, Huntsville, AL, 35802",1-256-755-3224,https://www.dollartree.com/locations/al/huntsville/8686/,34.6749374,-86.5447902,,,n_11370375470,"shop=variety_store, brand=Dollar Tree"
+"Meridianville, AL",,retail,452210,Marshalls,"2750 Carl T Jones Drive Southeast, Huntsville, AL, 35802",1-256-881-8131,https://www.marshalls.com/us/store/stores/Huntsville-AL-35802/422/aboutstore,34.6749729,-86.5455986,,,n_11370375474,"shop=department_store, brand=Marshalls"
+"Meridianville, AL",,retail,446120,European Wax Center,"2750 Carl T Jones Drive Southeast, Huntsville, AL, 35802",1-256-936-4400,https://locations.waxcenter.com/al/huntsville/huntsville-valley-bend-1142.html,34.6749813,-86.5460573,,,n_11370375475,"shop=beauty, brand=European Wax Center"
+"Meridianville, AL",,retail,446120,Tonya Jones SalonSpa,"2722 Carl T Jones Drive Southeast, Huntsville, AL, 35802",1-256-277-9120,https://tonyajonessalon.com/about-us/locations/jones-valley/,34.6758815,-86.5479142,,,n_11370375483,shop=beauty
+"Meridianville, AL",,retail,445110,Kroger,"8855 Highway 72 West, Madison, AL, 35758",+1 256-870-4350,https://www.kroger.com/stores/grocery/al/madison/kroger-county-line-rd/026/00606,34.7445411,-86.7846719,,,n_11469124633,"shop=supermarket, brand=Kroger"
+"Meridianville, AL",,retail,446110,Walgreens,"1086 Jeff Road Northwest, Huntsville, AL, 35806",,https://www.walgreens.com/locator/walgreens-1086+jeff+rd+nw-huntsville-al-35806/id=15501,34.7869749,-86.7147036,,,n_11469154850,"shop=chemist, brand=Walgreens"
+"Meridianville, AL",,retail,445110,Piggly Wiggly,"26257 Main Street, Ardmore, TN, 38449",+1 913-427-3100,,34.9937293,-86.8505022,,,n_11651005434,"shop=supermarket, brand=Piggly Wiggly"
+"Meridianville, AL",,retail,445110,Publix,"4851 Whitesburg Drive Southeast, Huntsville, AL, 35802-1626",+1 256-650-2390,https://www.publix.com/locations/574,34.6927586,-86.5661762,,,n_11651005441,"shop=supermarket, brand=Publix"
+"Meridianville, AL",,retail,445110,Piggly Wiggly,"6022 Highway 72 East, Gurley, AL, 35748",+1 256-776-3661,https://www.shopmypig.com/,34.69547,-86.371,,,n_11651005442,"shop=supermarket, brand=Piggly Wiggly"
+"Meridianville, AL",,retail,445110,Piggly Wiggly,"10199 Highway 431, New Hope, AL, 35760",+1 256-723-4142,https://www.shopmypig.com/,34.5492435,-86.4301043,,,n_11651005443,"shop=supermarket, brand=Piggly Wiggly"
+"Meridianville, AL",,retail,446120,Solar Nails,"6212 Old Madison Pike Northwest, Huntsville, AL, 35806",,,34.7135526,-86.659276,,,n_12058589733,shop=beauty
+"Meridianville, AL",,retail,445120,Papa Jack's,,,,34.7135524,-86.6579988,,,n_12058589740,shop=convenience
+"Meridianville, AL",,retail,452210,Ross,"975 Airport Road Southwest, Huntsville, AL, 35802",+1-256-885-1392,https://www.rossstores.com/,34.6900952,-86.5766932,,,n_12121527272,"shop=department_store, brand=Ross"
+"Meridianville, AL",,retail,446120,Finest Nails & Spa,"975 Airport Road Southwest, Huntsville, AL, 35802",+1-256-880-9724,https://finest-nails.hub.biz/,34.6900875,-86.5770694,,,n_12121527274,shop=beauty
+"Meridianville, AL",,retail,446120,Summit Nails,6275 University Drive Northwest,+1-256-922-9217,https://summit-nails.hub.biz/,34.741589,-86.6785579,,,n_12167349159,shop=beauty
+"Meridianville, AL",,retail,452319,pOpshelf,"6275 University Drive Northwest, Huntsville, AL, 35806",+1-256-384-3346,https://www.popshelf.com/store/23946,34.744447,-86.6834418,,,n_12171210535,"shop=variety_store, brand=pOpshelf"
+"Meridianville, AL",,retail,446120,The Lash Lounge,"4800 Whitesburg Drive South, Huntsville, AL, 35802",+1-256-633-5274,https://www.thelashlounge.com/al-huntsville-whitesburg/,34.6938019,-86.5689077,,,n_12298408971,"shop=beauty, brand=The Lash Lounge"
+"Meridianville, AL",,retail,446120,Rockstar Nails & Spa,"4800 Whitesburg Drive South, Huntsville, AL, 35802",+1-256-881-1788,https://www.facebook.com/people/Rockstar-Nails-Spa/100063463094883/,34.6935664,-86.5701809,,,n_12298408982,shop=beauty
+"Meridianville, AL",,retail,446120,Palm Beach Tan,"4800 Whitesburg Drive South, Huntsville, AL, 35802",+1-256-880-0182,https://palmbeachtan.com/locations/AL/Huntsville-Whitesburg-Drive,34.6922979,-86.5700774,,,n_12298408993,"shop=beauty, brand=Palm Beach Tan"
+"Meridianville, AL",,retail,446110,Hazel Green Pharmacy,"13574 Highway 231 431 N, Hazel Green, AL, 35750",,,34.9102472,-86.5709711,,,n_12327702745,shop=chemist
+"Meridianville, AL",,retail,445120,,,,,34.772903,-86.5371394,,,n_12361402920,shop=convenience
+"Meridianville, AL",,retail,452319,Dollar Tree,,,,34.7649349,-86.5951958,,,n_12385126802,"shop=variety_store, brand=Dollar Tree"
+"Meridianville, AL",,retail,446120,Tip Top Nails,6125 University Drive Northwest,+1-256-922-0830,https://nailsalonhuntsville.com/,34.7422718,-86.6772618,,,n_12872461221,shop=beauty
+"Meridianville, AL",,retail,445310,Research Park Wine Merchants,6125 University Drive Northwest,+1-256-808-7473,https://www.researchparkwines.com/,34.7423624,-86.6772579,,,n_12872461222,shop=wine
+"Meridianville, AL",,retail,446120,Ulta Beauty,,,,34.7152998,-86.6740831,,,n_12889375209,"shop=cosmetics, brand=Ulta Beauty"
+"Meridianville, AL",,retail,446120,Sephora,,,,34.7165859,-86.6735846,,,n_12889375212,"shop=cosmetics, brand=Sephora"
+"Meridianville, AL",,retail,446120,Lush,,,,34.716489,-86.6735435,,,n_12889375222,"shop=cosmetics, brand=Lush"
+"Meridianville, AL",,retail,446120,Rejuvenation Nail Spa,,,,34.7174521,-86.6743904,,,n_12889386853,shop=beauty
+"Meridianville, AL",,retail,446120,Magnolia Soap and Bath,,,,34.7182682,-86.6737785,,,n_12889397989,shop=cosmetics
+"Meridianville, AL",,retail,446120,Bath & Body Works,,,,34.71653,-86.6731727,,,n_12889431119,"shop=cosmetics, brand=Bath & Body Works"
+"Meridianville, AL",,retail,446120,Vanity Beauty Bar,1799 University Drive Northwest,+1-256-472-9090,https://www.facebook.com/people/Vanity-Beauty-Bar/100092486387181/,34.7400413,-86.5953374,,,n_12941636185,shop=beauty
+"Meridianville, AL",,retail,445110,Indian Market,4320 University Drive Northwest,+1-256-585-1467,https://www.facebook.com/p/Indian-Bazaar-Huntsville-100054472899724/,34.7359591,-86.6343538,,,n_12952870698,shop=supermarket
+"Meridianville, AL",,retail,453991,Smokes Kingdom,4320 University Drive Northwest,,,34.7359633,-86.6342187,,,n_12952870699,shop=tobacco
+"Meridianville, AL",,retail,445120,La Palmita Grocery,4320 University Drive Northwest,,,34.7359574,-86.6340681,,,n_12952870700,shop=convenience
+"Meridianville, AL",,retail,446120,Diamond Nails,4320 University Drive Northwest,,,34.7359591,-86.6336753,,,n_12952880502,shop=beauty
+"Meridianville, AL",,retail,446120,Hair Queen Beauty,4710 University Drive Northwest,,,34.7377539,-86.6477216,,,n_12971983296,shop=beauty
+"Meridianville, AL",,retail,446120,Moon's Day Spa,4710 University Drive Northwest,Moon's Day Spa,https://moonsdayspa.com/,34.7374612,-86.648443,,,n_12972026403,shop=beauty
+"Meridianville, AL",,retail,446120,Tip Top Nails,4710 University Drive Northwest,,,34.7374155,-86.64846,,,n_12972026404,shop=beauty
+"Meridianville, AL",,retail,452319,Dollar General,4710 University Drive Northwest,+1-256-384-1890,https://www.dollargeneral.com/store-directory/al/huntsville/8520,34.7369598,-86.6486637,,,n_12972026406,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,453991,Kickin' My Habit Vape Store,"7429, Suite B Highway 72 West, 35758",2569707903,,34.7561267,-86.7258384,,,n_12992365501,shop=tobacco
+"Meridianville, AL",,retail,446120,VIP Nails,4925 University Drive Northwest,+1-256-430-1993,https://www.facebook.com/people/VIP-Nails-by-Valerie/100063694956084/,34.7368748,-86.6565364,,,n_12999980962,shop=beauty
+"Meridianville, AL",,retail,445110,India Mart,4925 University Drive Northwest,+1-256-874-6290,,34.7363076,-86.6562783,,,n_12999980967,shop=supermarket
+"Meridianville, AL",,retail,446120,Classy Beauty Supply,4925 University Drive Northwest,+1-256-716-1888,https://www.theclassybeauty.com/,34.7363349,-86.6551637,,,n_12999980972,shop=beauty
+"Meridianville, AL",,retail,445110,Walmart Supercenter,"11610 Memorial Parkway SW;Memorial Parkway Southwest, Huntsville, AL, 35803",+1 256-881-0581,https://www.walmart.com/store/434-huntsville-al,34.6157485,-86.5706914,,,w_57376888,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Meridianville, AL",,retail,445110,Publix,"12290 Highway 231, Meridianville, AL, 35759",+1 256-829-3488,https://www.publix.com/locations/1190,34.8708781,-86.5692645,,,w_77805541,"shop=supermarket, brand=Publix"
+"Meridianville, AL",,retail,445110,Kroger,"Huntsville, AL, 35810",+1 256-539-5136,https://www.kroger.com/stores/grocery/al/huntsville/huntsville/026/00508,34.7506914,-86.6007096,,,w_87654681,"shop=supermarket, brand=Kroger"
+"Meridianville, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/huntsville-al-pharmacies/100-providence-main-st-g-huntsville-al-35806/storeid=1774,34.7499546,-86.6940265,,,w_87655374,"shop=chemist, brand=CVS Pharmacy"
+"Meridianville, AL",,retail,445120,,,,,34.7451195,-86.5121913,,,w_87741034,shop=convenience
+"Meridianville, AL",,retail,445120,Hi & Bye,"1449 Oshaughnessy Avenue Northeast, Huntsville, AL, 35801",+1-256489-0912,,34.7431392,-86.5678881,,,w_87751308,shop=convenience
+"Meridianville, AL",,retail,445110,Garden Cove,"628 Meridian Street, Huntsville, 35801",+1-256 534-2683,,34.7383979,-86.5854578,,,w_87770909,shop=supermarket
+"Meridianville, AL",,retail,445110,Walmart Supercenter,"8650 Madison Boulevard, Madison, AL, 35758",+1-256-461-7403,https://www.walmart.com/store/2690-madison-al,34.6838013,-86.7412222,,,w_89118901,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Meridianville, AL",,retail,445110,Publix,"6707 U.S. 431, Owens Cross Roads, AL, 35763-9204",+1 256-512-0990,https://www.publix.com/locations/573,34.6589138,-86.4811296,,,w_97253035,"shop=supermarket, brand=Publix"
+"Meridianville, AL",,retail,445110,Walmart Neighborhood Market,"9020 Bailey Cove Road Southeast, Huntsville, AL, 35802",+1 256-970-6552,https://www.walmart.com/store/5716-huntsville-al,34.6472691,-86.5416291,,,w_104055562,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Meridianville, AL",,retail,445110,Publix,"12070 County Line Road, Madison, AL, 35756-2000",+1 256-230-2626,https://www.publix.com/locations/1185,34.7305157,-86.7879621,,,w_261469293,"shop=supermarket, brand=Publix"
+"Meridianville, AL",,retail,445110,Aldi,"4710 University Drive Northwest, Huntsville, AL, 35816",+1 833-470-7081,https://stores.aldi.us/al/huntsville/4710-university-dr,34.7366096,-86.6489123,,,w_289924337,"shop=supermarket, brand=Aldi"
+"Meridianville, AL",,retail,445120,,,,,34.5872705,-86.4502267,,,w_291326164,"shop=convenience, amenity=fuel, brand=Jet-Pep"
+"Meridianville, AL",,retail,445120,Circle K,,,,34.8079047,-86.7498145,,,w_310225592,"shop=convenience, brand=Circle K"
+"Meridianville, AL",,retail,445110,Walmart Supercenter,"330 Sutton Road Southeast, Owens Cross Roads, AL, 35763",+1 256-534-4140,https://www.walmart.com/store/5197/owens-cross%20roads-al/whats-new,34.6572737,-86.4856612,,,w_334301199,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Meridianville, AL",,retail,445110,Walmart Supercenter,"1011 US Highway 72 East, Athens, AL, 35611",+1-256-230-2981,https://www.walmart.com/store/661-athens-al,34.7886214,-86.9589193,,,w_343291781,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Meridianville, AL",,retail,445120,,,,,34.6773318,-86.75121,,,w_353647864,shop=convenience
+"Meridianville, AL",,retail,446110,CVS Pharmacy,"8503 Old Madison Pike, Madison, AL, 35758",,https://www.cvs.com/store-locator/madison-al-pharmacies/8503-old-madison-pike-madison-al-35758/storeid=4884,34.7062587,-86.7414563,,,w_360379153,"shop=chemist, brand=CVS Pharmacy"
+"Meridianville, AL",,retail,445110,Dollar General Market,"Madison, AL",,https://www.dollargeneral.com/store-directory/al/madison/12010,34.7072942,-86.7402299,,,w_360379154,"shop=supermarket, brand=Dollar General"
+"Meridianville, AL",,retail,445110,Whole Foods Market,"2501 Memorial Parkway Southwest, Huntsville, AL, 35801",+1 256-801-3741,https://www.wholefoodsmarket.com/stores/huntsville,34.7123409,-86.5898298,,,w_377624398,"shop=supermarket, brand=Whole Foods Market"
+"Meridianville, AL",,retail,445120,Circle K,"2220 Zierdt Road, Huntsville, AL, 35824",,,34.6454227,-86.7183331,,,w_384122846,"shop=convenience, brand=Circle K, operator=Circle K"
+"Meridianville, AL",,retail,452210,Belk,,,,34.7170624,-86.6751307,,,w_384127840,"shop=department_store, brand=Belk"
+"Meridianville, AL",,retail,446110,Walgreens,"8000 Madison Boulevard, Madison, AL, 35824",,https://www.walgreens.com/locator/walgreens-8000+madison+blvd-madison-al-35758/id=17363,34.6919274,-86.7175699,,,w_384543030,"shop=chemist, brand=Walgreens"
+"Meridianville, AL",,retail,445110,Publix,"8000 Madison Boulevard, Madison, AL, 35758-2035",+1 256-461-1860,https://www.publix.com/locations/598,34.6917603,-86.7183783,,,w_384543031,"shop=supermarket, brand=Publix"
+"Meridianville, AL",,retail,445310,ABC Beverages,"8505 Madison Boulevard, Madison, AL, 35758",,,34.6821306,-86.736547,,,w_384547580,shop=alcohol
+"Meridianville, AL",,retail,445110,Thahn Hung Asian Market,"8760 Madison Boulevard, Madison, AL, 35758",+1-256-464-0944,https://www.asianinalabama.com/,34.6805429,-86.7463973,,,w_384891498,shop=supermarket
+"Meridianville, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/huntsville/10857,34.8287688,-86.5699938,,,w_385266349,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,445110,Publix,"12796 Bailey Cove Road Southeast, Huntsville, AL, 35803",+1 256-885-0002,https://www.publix.com/locations/209,34.6227673,-86.5385053,,,w_386065150,"shop=supermarket, brand=Publix"
+"Meridianville, AL",,retail,445120,Shop,,,,34.6985349,-86.3833934,,,w_387728539,shop=convenience
+"Meridianville, AL",,retail,452319,Dollar General,,,,34.698885,-86.3845344,,,w_387728555,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,446120,Gentle Touch Salon,"12711 US-231, Hazel Green, AL, 35750",,,34.8828755,-86.5690828,,,w_388529919,shop=beauty
+"Meridianville, AL",,retail,445110,La Congeneida Mexican Supermarket,,,,34.7203582,-86.6057659,,,w_390311488,shop=supermarket
+"Meridianville, AL",,retail,452210,Kohl's,"2775 Carl T Jones Drive Southeast, Huntsville, AL, 35802",+1 256-883-8809,https://www.kohls.com/stores/al/huntsville-1438.shtml,34.6750029,-86.5390064,,,w_392186560,"shop=department_store, brand=Kohl's"
+"Meridianville, AL",,retail,445110,Walmart Supercenter,"3031 Memorial Parkway Southwest, Huntsville, AL, 35801",+1 256-536-2870,https://www.walmart.com/store/375-huntsville-al,34.7029961,-86.5856362,,,w_392187947,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Meridianville, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/huntsville/15357,34.6910264,-86.6105808,,,w_404971921,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,445120,,,,,34.7394526,-86.5764011,,,w_405528160,shop=convenience
+"Meridianville, AL",,retail,452319,Family Dollar,2715 University Drive Northwest,+1-256-715-4921,https://locations.familydollar.com/al/huntsville/2715-university-drive-nw,34.7356708,-86.6088266,,,w_405532506,"shop=variety_store, brand=Family Dollar"
+"Meridianville, AL",,retail,445110,Holiday International Market,"2701 Patton Road Southwest, Huntsville, AL, 35805",+1-256-533-1967,,34.7123684,-86.6258864,,,w_436606537,shop=supermarket
+"Meridianville, AL",,retail,445110,Kroger,"4579 Wall Triana Highway, Madison, AL, 35758",+1 256-461-8530,https://www.kroger.com/stores/grocery/al/madison/midtown-marketplace/026/00605,34.7082632,-86.748342,,,w_442277280,"shop=supermarket, brand=Kroger"
+"Meridianville, AL",,retail,445110,Publix,"22031 US Highway 72, Athens, AL, 35611",+1 256-230-2076,https://www.publix.com/locations/1203-eastside-junction,34.7839071,-86.9297371,,,w_442455646,"shop=supermarket, brand=Publix"
+"Meridianville, AL",,retail,445110,Hometown Market,"600 Jefferson Street South, Athens, AL, 35611",,https://www.hometownmarkets.com/,34.7965157,-86.9738098,,,w_442671546,shop=supermarket
+"Meridianville, AL",,retail,445292,Russell Stover Chocolates,"1699 US Highway 72 East, Athens, AL, 35611",+1-256-771-0023,https://www.russellstover.com/store-384,34.7823958,-86.9347167,,,w_443201923,shop=confectionery
+"Meridianville, AL",,retail,452319,Dollar General,"1233 Pryor Street East, Athens, AL, 35611",+1-256-233-5496,https://www.dollargeneral.com/store-directory/al/athens/2680,34.807342,-86.9503964,,,w_443407497,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,445310,Proc's Beverages,"207 US Highway 72 West, Athens, AL, 35611",,,34.789536,-86.972188,,,w_443433649,shop=alcohol
+"Meridianville, AL",,retail,452319,UG White Mercantile,"101 Jefferson Street North, Athens, AL, 35611",+1-256-232-4540,https://www.ugwhite.com/,34.8035442,-86.9724925,,,w_443452883,shop=general
+"Meridianville, AL",,retail,452319,Dollar General,"1210 Jefferson Street North, Athens, AL, 35611",,https://www.dollargeneral.com/store-directory/al/athens/5836,34.8152057,-86.9713259,,,w_443453219,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,446110,CVS Pharmacy,"215 US Highway 31 South, Athens, AL, 35611",+1-256-233-0514,https://www.cvs.com/store-locator/athens-al-pharmacies/215-hwy-31-south-athens-al-35611/storeid=4815,34.7972907,-86.9532139,,,w_443634088,"shop=chemist, brand=CVS Pharmacy"
+"Meridianville, AL",,retail,445310,ABC Store,"614 US Highway 31 South, Athens, AL, 35611",+1-256-232-5629,https://alabcboard.gov/,34.7918553,-86.9568312,,,w_443634091,shop=alcohol
+"Meridianville, AL",,retail,445310,Athens Beverage Company,"US Highway 31 South, Athens, AL, 35611",,,34.7916924,-86.9568322,,,w_443634092,shop=alcohol
+"Meridianville, AL",,retail,452319,Dollar General,"15297 Pike Road, Athens, AL, 35611",+1-256-434-8277,https://www.dollargeneral.com/store-directory/al/athens/14414,34.7786381,-86.9220295,,,w_443804290,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,445120,J MART,"1100 US Highway 72 East, Athens, AL, 35611",,,34.7850159,-86.9529649,,,w_444750946,shop=convenience
+"Meridianville, AL",,retail,445120,Marathon Gas - J-MART 401,"103 US Highway 72 West, Athens, AL, 35611",+1-256-233-4010,,34.7894781,-86.9712136,,,w_444750950,"shop=convenience, amenity=fuel, brand=Marathon"
+"Meridianville, AL",,retail,445120,Raceway,"1523 US Highway 72 East, Athens, AL, 35611",,,34.7812572,-86.9363081,,,w_444750951,"shop=convenience, amenity=fuel, brand=RaceWay"
+"Meridianville, AL",,retail,445120,Exxon,"1510 US Highway 72 East, Athens, AL, 35611",+1-256-216-1734,https://www.exxon.com/en/gas-station/athensexxon-309657,34.7817301,-86.9371281,,,w_444750952,"shop=convenience, amenity=fuel, brand=Exxon"
+"Meridianville, AL",,retail,445120,Valero,"1202 Market Street West, Athens, AL, 35611",,https://locations.valero.com/en-us/LocationDetails/Index/1202-W-MARKET-ST/0000026329,34.8061234,-86.9835483,,,w_444776369,"shop=convenience, amenity=fuel, brand=Valero"
+"Meridianville, AL",,retail,445110,Save-A-Lot,"625 US Highway 72 West, Athens, AL, 35611",+1-256-216-5780,,34.7882252,-86.9766259,,,w_445972143,"shop=supermarket, brand=Save-A-Lot"
+"Meridianville, AL",,retail,445110,Hometown Market,"100 US Highway 31 South, Athens, AL, 35611",,,34.8019297,-86.9537675,,,w_449253131,shop=supermarket
+"Meridianville, AL",,retail,452210,Goody's,"613 US Highway 72 West, Athens, AL, 35611",,,34.7883402,-86.9759614,,,w_450783011,"shop=department_store, brand=Goody's"
+"Meridianville, AL",,retail,452319,Dollar General,"6201 Old Madison Pike Northwest, Huntsville, AL, 35806",+1-256-666-4427,https://www.dollargeneral.com/store-directory/al/huntsville/19364,34.7125421,-86.658625,,,w_461174477,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,452319,Dollar General,"15024 East Limestone Road, Harvest, AL, 35749",+1-256-233-1056,https://www.dollargeneral.com/store-directory/al/harvest/9671,34.774133,-86.8318575,,,w_467280488,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,453110,Athens Florist,"105 Clinton Street South, Athens, AL, 35611",,http://www.athensfloristandflowers.com/,34.8025283,-86.9685872,,,w_468408349,shop=florist
+"Meridianville, AL",,retail,445120,Fuel City,"1113 Market Street West, Athens, AL, 35611",,,34.8050741,-86.9829919,,,w_471864488,"shop=convenience, amenity=fuel"
+"Meridianville, AL",,retail,445299,Belle Chevre,"18849 Upper Fort Hampton Road, Elkmont, AL, 35620",,https://www.bellechevre.com/creamery-tours-events/cheese-shop-and-tasting-room/,34.929023,-86.9737393,,,w_479907592,shop=cheese
+"Meridianville, AL",,retail,445120,,,,,34.9181391,-86.9089927,,,w_479912571,"shop=convenience, amenity=fuel, brand=BP"
+"Meridianville, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/elkmont/6245,34.9256753,-86.9873213,,,w_479915703,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,445110,Piggly Wiggly,"25460 Highway 127, Elkmont, AL, 35620",+1 256-732-4116,,34.9254083,-86.9872759,,,w_479915704,"shop=supermarket, brand=Piggly Wiggly"
+"Meridianville, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/athens/17686,34.8504443,-86.9730543,,,w_479918435,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,445310,ABC Select Spirits,,,,34.7508653,-86.7538864,,,w_480112320,shop=alcohol
+"Meridianville, AL",,retail,453991,Discount Tobacco Outlet,,,,34.7480436,-86.7841937,,,w_480313537,shop=tobacco
+"Meridianville, AL",,retail,445310,Windmill Beverages,,,,34.748201,-86.7848419,,,w_480313540,shop=alcohol
+"Meridianville, AL",,retail,445110,Walmart Supercenter,"8580 US Highway 72 West, Madison, AL, 35758",+1 256-716-6951,https://www.walmart.com/store/5703-madison-al,34.7511693,-86.7734852,,,w_480315600,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Meridianville, AL",,retail,446110,CVS Pharmacy,"8470 US Highway 72 West, Madison, AL, 35758",+1-256-837-3362,https://www.cvs.com/store-locator/madison-al-pharmacies/8470-hwy-72-west-madison-al-35758/storeid=7155,34.7494195,-86.7682493,,,w_480319165,"shop=chemist, brand=CVS Pharmacy"
+"Meridianville, AL",,retail,445120,Elkmont MiniMart,,,,34.9286587,-86.973582,,,w_480518963,"shop=convenience, operator=Dale"
+"Meridianville, AL",,retail,445310,ABC Store,"6790 University Drive Northwest, Huntsville, AL, 35806",,,34.7516823,-86.7010826,,,w_480867977,shop=alcohol
+"Meridianville, AL",,retail,453991,Tobacco Express,"800 US Highway 72 West, Athens, AL, 35613",,,34.7907695,-86.9782623,,,w_482040910,shop=tobacco
+"Meridianville, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/huntsville/6517/,34.7259962,-86.628267,,,w_483533003,"shop=variety_store, brand=Dollar Tree"
+"Meridianville, AL",,retail,452210,Target,"8207 US Highway 72 West, Madison, AL, 35758",+1 256-690-5890,https://www.target.com/sl/madison/2816,34.7488199,-86.756364,,,w_484958055,"shop=department_store, brand=Target"
+"Meridianville, AL",,retail,445110,ALDI,"7676 Highway 72 West, Madison, AL, 35758",+1 833-470-7097,https://stores.aldi.us/al/madison/7676-hwy-72-w,34.7557962,-86.7360884,,,w_488963129,"shop=supermarket, brand=ALDI"
+"Meridianville, AL",,retail,452210,Kohl's,"7630 Highway 72 West, Madison, AL, 35758",+1 256-722-0728,https://www.kohls.com/stores/al/madison-559.shtml,34.7577663,-86.7348159,,,w_489969753,"shop=department_store, brand=Kohl's"
+"Meridianville, AL",,retail,445110,Kroger,"7090 University Drive Northwest, Huntsville, AL, 35806",+1 256-726-0600,https://www.kroger.com/stores/grocery/al/huntsville/watercress/026/00677,34.7570139,-86.7118694,,,w_490785991,"shop=supermarket, brand=Kroger"
+"Meridianville, AL",,retail,452319,Dollar General,"5836 Alabama 53, 35749",,,34.8449221,-86.7107886,,,w_493621095,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,445120,Circle K,"1006 Harvest Road, Harvest, AL, 35749",,,34.8592306,-86.7484508,,,w_495991010,"shop=convenience, brand=Circle K"
+"Meridianville, AL",,retail,452319,Dollar General,"1031 US Highway 72 East, Athens, AL, 35611",,https://www.dollargeneral.com/store-directory/al/athens/9670,34.7861412,-86.9554072,,,w_518351861,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,445110,ALDI,"115 US Highway 72 East, Athens, AL, 35611",+1 833-470-7086,https://stores.aldi.us/al/athens/115-us-72,34.7904859,-86.9679813,,,w_545062148,"shop=supermarket, brand=ALDI"
+"Meridianville, AL",,retail,452319,Dollar General,"30664 US Highway 72, Madison, AL, 35758",,https://www.dollargeneral.com/store-directory/al/madison/9140,34.7472838,-86.7871252,,,w_588475746,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,445110,Publix,"5850 Alabama 58, Harvest, AL, 35749",+1 256-851-5958,https://www.publix.com/locations/1218,34.8464436,-86.7102666,,,w_588829472,"shop=supermarket, brand=Publix"
+"Meridianville, AL",,retail,452319,Dollar General,"1935 Jeff Road Northwest, Huntsville, AL, 35806",,https://www.dollargeneral.com/store-directory/al/huntsville/10745,34.8134611,-86.7126743,,,w_599061940,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,452319,Willowbrook Shoppe,,,,34.6613552,-86.5403793,,,w_602697492,shop=variety_store
+"Meridianville, AL",,retail,445110,Publix,"350 Hughes Road, Madison, AL, 35758",+1 256-464-3422,https://www.publix.com/locations/1638,34.7081229,-86.7438517,,,w_615311612,"shop=supermarket, brand=Publix"
+"Meridianville, AL",,retail,445310,The Open Bottle,"7061 University Drive NW, Huntsville, AL, 35806",+1-256-801-8990,https://liquorexpress.net/,34.7537805,-86.7116342,,,w_651824634,shop=alcohol
+"Meridianville, AL",,retail,445120,Twice Dailey,"115 Graphics Drive, Madison, AL, 35758",,,34.6707762,-86.7510108,,,w_684449133,shop=convenience
+"Meridianville, AL",,retail,445310,,"7520 US Highway 72 West, Madison, AL, 35758",,,34.7566332,-86.7302381,,,w_687883585,shop=alcohol
+"Meridianville, AL",,retail,445120,Shell,,,,34.6704825,-86.753072,,,w_694775688,"shop=convenience, brand=Shell"
+"Meridianville, AL",,retail,452319,Dollar General,"329 Pine Grove Road, Madison, AL, 35757",2564642412,https://www.dollargeneral.com/store-directory/al/madison/8898,34.794511,-86.7487392,,,w_698324238,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,445110,Walmart Supercenter,"2165 Winchester Road, Huntsville, AL, 35811",+1 256-716-6773,https://www.walmart.com/store/7324-huntsville-al,34.8201403,-86.4925224,,,w_723796340,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Meridianville, AL",,retail,445120,Mapco,,,,34.8184493,-86.4919234,,,w_723796342,"shop=convenience, brand=Mapco"
+"Meridianville, AL",,retail,452319,Dollar Tree,"6275 University Drive Northwest, Huntsville, AL, 35806",+1-256-963-0380,https://www.dollartree.com/locations/al/huntsville/431/,34.741177,-86.679101,,,w_728254448,"shop=variety_store, brand=Dollar Tree"
+"Meridianville, AL",,retail,452210,Ross,"6275 University Drive Northwest, Huntsville, AL, 35806",+1 256-922-0187,https://www.rossstores.com/,34.7411415,-86.6795424,,,w_728254449,"shop=department_store, brand=Ross"
+"Meridianville, AL",,retail,452210,Burlington,"6275 University Drive Northwest, Huntsville, AL, 35806",+1-256-971-0970,https://stores.burlington.com/al/huntsville/400/,34.7411012,-86.6801559,,,w_728254450,"shop=department_store, brand=Burlington"
+"Meridianville, AL",,retail,452319,Five Below,"6275 University Drive Northwest, Huntsville, AL, 35806",+1-256-971-9899,https://locations.fivebelow.com/al/huntsville/6275-university-drive-northwest,34.7433539,-86.6835307,,,w_728254457,"shop=variety_store, brand=Five Below"
+"Meridianville, AL",,retail,452210,bealls,"6275 University Drive Northwest, Huntsville, AL, 35806",+1-256-971-0023,https://stores.bealls.com/al/huntsville/clothing-store-767.html,34.7447977,-86.6835484,,,w_728254460,shop=department_store
+"Meridianville, AL",,retail,452210,Big Lots,"6275 University Drive Northwest, Huntsville, AL, 35806",+1 256-922-8590,https://local.biglots.com/al/huntsville/6275-university-dr-nw,34.7440694,-86.6805675,,,w_728254469,"shop=department_store, brand=Big Lots"
+"Meridianville, AL",,retail,445110,Walmart Supercenter,"6140 University Drive Northwest, Huntsville, AL, 35806",+1 256-837-7272,https://www.walmart.com/store/332-huntsville-al,34.7470387,-86.6758148,,,w_728262122,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Meridianville, AL",,retail,445120,Shell,,,,34.744884,-86.6778463,,,w_728262131,"shop=convenience, brand=Shell"
+"Meridianville, AL",,retail,445120,Circle K,6278 University Drive Northwest,,,34.7462558,-86.6821992,,,w_728262141,shop=convenience
+"Meridianville, AL",,retail,445310,Liquor Express,1812 University Drive Northwest,+1-256-539-4333,https://liquorexpress.net/,34.741554,-86.5982166,,,w_730289582,shop=alcohol
+"Meridianville, AL",,retail,445120,IGA Crossroads,,,,34.7295003,-86.7496053,,,w_742721214,shop=convenience
+"Meridianville, AL",,retail,445120,IGA Crossroads,,,,34.7070656,-86.7237604,,,w_742721925,shop=convenience
+"Meridianville, AL",,retail,445110,Kroger,"Huntsville, AL, 35811",+1 256-852-5770,https://www.kroger.com/stores/grocery/al/huntsville/huntsville/026/00517,34.8005281,-86.5348288,,,w_745030837,"shop=supermarket, brand=Kroger"
+"Meridianville, AL",,retail,445110,Publix,"2246 Winchester Road Northeast, Huntsville, AL, 35811-6800",+1 256-851-5807,https://www.publix.com/locations/1126,34.8162342,-86.489697,,,w_757341687,"shop=supermarket, brand=Publix"
+"Meridianville, AL",,retail,452319,Dollar General,Mooresville Road,,https://www.dollargeneral.com/store-directory/al/athens/20067,34.7705143,-86.8780108,,,w_798824315,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,445110,Walmart Supercenter,"14595 Highway 231-431 North, Hazel Green, AL, 35750",+1 256-828-0486,https://www.walmart.com/store/6878/hazel-green-al,34.9458818,-86.5748,,,w_824653485,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Meridianville, AL",,retail,446110,CVS Pharmacy,,,,34.6725477,-86.5385664,,,w_836203433,"shop=chemist, brand=CVS Pharmacy"
+"Meridianville, AL",,retail,452319,Dollar Tree,4806 University Drive Northwest,+1-256-715-9095,https://locations.dollartree.com/al/huntsville/4806-university-dr-nw,34.7371025,-86.6501383,,,w_940832685,"shop=variety_store, brand=Dollar Tree"
+"Meridianville, AL",,retail,445110,ALDI,"11909 South Memorial Parkway, Huntsville, AL, 35803",+1 833-470-7080,https://stores.aldi.us/al/huntsville/11909-memorial-pkwy-s,34.6127116,-86.5658373,,,w_940835101,"shop=supermarket, brand=ALDI"
+"Meridianville, AL",,retail,445310,The Liquor Store,4060 Memorial Parkway Southwest,,,34.6791566,-86.5772113,,,w_956443008,shop=alcohol
+"Meridianville, AL",,retail,445120,Mini Mart,4302 University Drive Northwest,,,34.735478,-86.6335195,,,w_961072867,shop=convenience
+"Meridianville, AL",,retail,445120,Food Mart,2305 Governors Drive Southwest,,,34.719503,-86.5976469,,,w_961152687,"shop=convenience, brand=Food Mart"
+"Meridianville, AL",,retail,445110,,,,,34.9475931,-86.573546,,,w_965045258,shop=supermarket
+"Meridianville, AL",,retail,446110,CVS Pharmacy,"11030 Memorial Parkway Southwest, Huntsville, AL, 35803",,https://www.cvs.com/store-locator/huntsville-al-pharmacies/11030-south-memorial-pkwy-huntsville-al-35803/storeid=10037,34.6300518,-86.5678422,,,w_965101121,"shop=chemist, brand=CVS Pharmacy"
+"Meridianville, AL",,retail,446110,Walgreens,"11399 Memorial Parkway Southwest, Huntsville, AL, 35803",,https://www.walgreens.com/locator/walgreens-11399+memorial+pkwy+se-huntsville-al-35803/id=10850,34.6308329,-86.5659592,,,w_965101126,"shop=chemist, brand=Walgreens"
+"Meridianville, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/tn/fayetteville/11258,35.0729015,-86.5711998,,,w_997962152,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,445110,Far East Market,"8108 Memorial Parkway Southwest, Huntsville, AL, 35802",+12568831577,,34.6583774,-86.5703238,,,w_1016429261,shop=supermarket
+"Meridianville, AL",,retail,445120,,,,,34.6128036,-86.5678677,,,w_1020987215,shop=convenience
+"Meridianville, AL",,retail,452319,Dollar General,"549 6th Street, Triana, AL, 35756",,https://www.dollargeneral.com/store-directory/al/madison/19594,34.5836856,-86.7378329,,,w_1041698620,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/hazel-green/8653,34.9472231,-86.5706649,,,w_1054886539,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,445110,Publix,"165 US Highway 31 North, Athens, AL, 35611",+1 256-771-5662,https://www.publix.com/locations/1790,34.8047394,-86.9525443,,,w_1059397719,"shop=supermarket, brand=Publix"
+"Meridianville, AL",,retail,445110,Publix,"2286 Zierdt Road, Huntsville, AL, 35824",+1 256-774-3888,https://www.publix.com/locations/1629,34.6477788,-86.719875,,,w_1062471600,"shop=supermarket, brand=Publix"
+"Meridianville, AL",,retail,445120,Sunoco,"1214 Sparkman Drive Northwest, Huntsville, AL, 35816",+1 256-830-2104,,34.7383035,-86.644965,,,w_1078586261,"shop=convenience, brand=Sunoco, operator=Sunoco LP"
+"Meridianville, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/huntsville/14131,34.737756,-86.6280335,,,w_1078586619,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,445110,Publix,"417 John Henry Way, Madison, AL, 35757",+1 256-325-0540,https://www.publix.com/locations/1726,34.7523986,-86.7624773,,,w_1082444936,"shop=supermarket, brand=Publix"
+"Meridianville, AL",,retail,445120,Citgo,"7803 AL-53, Toney, AL, 35773",256 858 2018,,34.8979993,-86.7495821,,,w_1104214828,"shop=convenience, brand=Citgo"
+"Meridianville, AL",,retail,445110,Publix,"1660 Old Monrovia Road Northwest, Huntsville, AL, 35806",+1 256-430-5443,https://www.publix.com/locations/1612,34.758484,-86.6802978,,,w_1105102688,"shop=supermarket, brand=Publix"
+"Meridianville, AL",,retail,445110,Publix,"9040 Memorial Parkway Southwest, Huntsville, AL, 35802",+1 256-650-6086,https://www.publix.com/locations/1785,34.6485683,-86.569185,,,w_1109772483,"shop=supermarket, brand=Publix"
+"Meridianville, AL",,retail,445120,Bethel Grocery,"25981 Alabama Highway 251, Toney, AL, 35773",,https://bethelgro.net/,34.93303,-86.8200154,,,w_1147494070,shop=convenience
+"Meridianville, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/huntsville/13651,34.7928716,-86.6169242,,,w_1160604315,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/huntsville/18531,34.7932567,-86.5707227,,,w_1160604319,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/athens/20944,34.9176102,-86.873817,,,w_1160892518,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,452319,Dollar General,"110 Main Street, Huntland, TN, 37345",,https://www.dollargeneral.com/store-directory/tn/huntland/9275,35.0718405,-86.2713971,,,w_1210215224,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/tn/flintville/12669,35.0934344,-86.416578,,,w_1210262698,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,445120,Howell Hill Grocery,,,,35.0585271,-86.5176097,,,w_1210262701,shop=convenience
+"Meridianville, AL",,retail,445110,IGA,"2762 Huntsville Highway, Fayetteville, TN, 37334",+1 931-526-4924,,35.0755752,-86.5709951,,,w_1210262708,"shop=supermarket, brand=IGA"
+"Meridianville, AL",,retail,452319,Dollar General,"1574 Winchester Highway, Fayetteville, TN, 37334",,https://www.dollargeneral.com/store-directory/tn/fayetteville/17137,35.1644116,-86.5343017,,,w_1210262718,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/tn/ardmore/17421,35.0653923,-86.8993558,,,w_1210262730,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/tn/ardmore/5,34.9965303,-86.8580219,,,w_1210262732,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/tn/taft/22729,35.0198338,-86.7135615,,,w_1221243179,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,452319,Dollar General,"3237 Huntsville Highway, Fayetteville, TN, 37334",,https://www.dollargeneral.com/store-directory/tn/fayetteville/20121,35.0078543,-86.577895,,,w_1221243180,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/huntsville-al-pharmacies/930-winchester-rd-huntsville-al-35811/storeid=2748,34.7972527,-86.5367896,,,w_1229269919,"shop=chemist, brand=CVS Pharmacy"
+"Meridianville, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/huntsville/8302,34.7133163,-86.5755446,,,w_1245039713,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,445120,Twice Daily,,,,34.7803558,-86.9297298,,,w_1273232456,shop=convenience
+"Meridianville, AL",,retail,445120,,,,,34.7670558,-86.8818314,,,w_1277945587,shop=convenience
+"Meridianville, AL",,retail,445120,,,,,34.7134295,-86.6596741,,,w_1301922525,shop=convenience
+"Meridianville, AL",,retail,445120,Buc-ee's,,,,34.7284888,-86.9325292,,,w_1308585445,"shop=convenience, brand=Buc-ee's"
+"Meridianville, AL",,retail,445110,Walmart Supercenter,"2200 Sparkman Drive Northwest, Huntsville, AL, 35810",+1 256-852-2236,https://www.walmart.com/store/433-huntsville-al,34.7651913,-86.5923266,,,w_1311787977,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Meridianville, AL",,retail,445110,Walmart Supercenter,"1224 Huntsville Highway, Fayetteville, TN, 37334",+1 931-433-3010,https://www.walmart.com/store/314-fayetteville-tn,35.1366309,-86.5645236,,,w_1311905343,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Meridianville, AL",,retail,445110,Publix,"7129 Wall Triana Hwy, Madison, AL, 35757",+1 256-722-3786,https://www.publix.com/locations/1642,34.793237,-86.7466688,,,w_1380800434,"shop=supermarket, brand=Publix"
+"Meridianville, AL",,retail,446120,Golden Nail Spa,"7127 Wall Triana Hwy, Madison, AL, 35757",+1-256-858-1426,,34.7928751,-86.7468837,,,w_1380825556,shop=beauty
+"Meridianville, AL",,retail,445110,Walmart Neighborhood Market,"7140 Wall Triana Highway, Madison, AL, 35757",+1 256-970-6193,https://www.walmart.com/store/7342-madison-al,34.7932609,-86.7508749,,,w_1381998828,"shop=supermarket, brand=Walmart Neighborhood Market, operator=Walmart"
+"Meridianville, AL",,retail,445120,Texaco,"7190 Wall Triana Highway, Madison, AL, 35757",+12567210700,,34.7943417,-86.7496728,,,w_1382085894,"shop=convenience, brand=Texaco"
+"Meridianville, AL",,retail,453991,Smokey's Vape & Tobacco,"7190 Wall Triana Highway, Madison, AL, 35757",+12568581114,https://smokysvape-tobacco.square.site/,34.7943318,-86.7499821,,,w_1382085898,shop=tobacco
+"Meridianville, AL",,retail,445120,Texaco,"4811 University Drive Northwest, Huntsville, AL, 35816",,,34.7367789,-86.6537258,,,w_1395876108,"shop=convenience, brand=Texaco"
+"Meridianville, AL",,retail,445120,,1800 University Drive Northwest,,,34.7407894,-86.595569,,,w_1408151890,shop=convenience
+"Meridianville, AL",,retail,445120,Bama Grocery,2310 University Drive Northwest,,,34.7384788,-86.6050374,,,w_1408904099,shop=convenience
+"Meridianville, AL",,retail,445120,Sunoco,2200 University Drive Northwest,,,34.739316,-86.6038681,,,w_1408904103,"shop=convenience, brand=Sunoco"
+"Meridianville, AL",,retail,445120,,2605 University Drive Northwest,,,34.7370215,-86.6061682,,,w_1408934314,shop=convenience
+"Meridianville, AL",,retail,445120,Chevron,,,,34.8091269,-86.7487105,,,w_1409507991,"shop=convenience, brand=Chevron"
+"Meridianville, AL",,retail,452319,Dollar General,"9120 Wall Triana Highway, Harvest, AL, 35749",,https://www.dollargeneral.com/store-directory/al/harvest/14006,34.8578809,-86.7494183,,,w_1417216569,"shop=variety_store, brand=Dollar General"
+"Meridianville, AL",,retail,445120,Mapco,,,https://www.mapcorewards.com/store-locator?location=mapco-5206-huntsville-al,34.7723244,-86.7146223,,,w_1422677464,shop=convenience

@@ -1,0 +1,17 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Silas, AL",,retail,445110,,,,,31.6819376,-88.6377429,,,n_9899928407,shop=supermarket
+"Silas, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ms/waynesboro/2432/,31.687162,-88.6309955,,,n_9900000745,"shop=variety_store, brand=Dollar Tree"
+"Silas, AL",,retail,452319,Dollar General,"271 Saint Peter Street, State Line, MS, 39362",+1 (601) 848-7240,https://www.dollargeneral.com/store-directory/ms/state-line/11131,31.4341518,-88.4727528,,,w_625863138,"shop=variety_store, brand=Dollar General"
+"Silas, AL",,retail,445120,Clark's,"279 Saint Peter Street, State Line, MS, 39362",+1 (601) 848-7808,,31.434814,-88.4724835,,,w_625869645,shop=convenience
+"Silas, AL",,retail,445110,Greer's CashSaver,"200 Main Street, State Line, MS, 39362",+1 (601) 848-7892,https://www.greers.com/,31.4380045,-88.4746935,,,w_625869648,shop=supermarket
+"Silas, AL",,retail,445120,Rapid Mart,"State Line, MS, 39362",,,31.4363902,-88.4746535,,,w_625869656,shop=convenience
+"Silas, AL",,retail,445120,,,,,31.5401587,-88.5277648,,,w_635403203,shop=convenience
+"Silas, AL",,retail,445120,Buckatunna Grocery,"1708 US 45, Buckatunna, MS, 39322",+1 (601) 648-2234,,31.5410094,-88.5283543,,,w_635403205,shop=convenience
+"Silas, AL",,retail,445120,Crazy K's Food and Fuel,"1873 US 45, Buckatunna, MS, 39322",+1 (601) 648-2455,,31.553075,-88.5308872,,,w_635457667,shop=convenience
+"Silas, AL",,retail,445120,Saint Stephens Park General Store,,,,31.5594242,-88.0347472,,,w_923006250,shop=convenience
+"Silas, AL",,retail,452319,Dollar General,"1842 US 45, Buckatunna, MS, 39322",+1 (601) 884-0436,https://www.dollargeneral.com/store-directory/ms/buckatunna/15255,31.549956,-88.5316024,,,w_1012220183,"shop=variety_store, brand=Dollar General"
+"Silas, AL",,retail,445110,Walmart Supercenter,"1350 Azalea Drive, Waynesboro, MS, 39367",+1 601-735-9716,https://www.walmart.com/store/785-waynesboro-ms,31.6889837,-88.6296434,,,w_1080059773,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Silas, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ms/waynesboro/17808,31.6433204,-88.6497107,,,w_1162630794,"shop=variety_store, brand=Dollar General"
+"Silas, AL",,retail,452319,Dollar General,"13661 Choctaw Avenue, Gilbertown, AL, 36908",,,31.8804548,-88.322913,,,w_1270973889,"shop=variety_store, brand=Dollar General"
+"Silas, AL",,retail,452319,Dollar General,"223 East Pushmataha Street, Butler, AL, 36904",,,32.0904362,-88.2187275,,,w_1312270542,"shop=variety_store, brand=Dollar General"
+"Silas, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ms/waynesboro/894,31.6816229,-88.6458414,,,w_1389938375,"shop=variety_store, brand=Dollar General"

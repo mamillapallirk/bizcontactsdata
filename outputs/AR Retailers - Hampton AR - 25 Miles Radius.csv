@@ -1,0 +1,25 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Hampton, AR",,retail,445120,The Corner,,,,33.7233902,-92.6185576,,,n_4501765689,shop=convenience
+"Hampton, AR",,retail,453110,Camden Flower Shop,"1265 Cash Road Southwest, Camden, AR, 71701",+1-870-836-5041,https://www.camdenflowershop.com/,33.5612264,-92.8528702,,,n_5773184375,shop=florist
+"Hampton, AR",,retail,445110,Brookshire's,"1345 Country Club Road, Camden, AR, 71701",+1-870-836-3900,,33.5754709,-92.853449,,,n_6104521473,shop=supermarket
+"Hampton, AR",,retail,445110,Brookshire's,"2202 North West Avenue, El Dorado, AR, 71730",+1-870-862-8381,,33.2345763,-92.6663619,,,n_6106864103,"shop=supermarket, brand=Brookshire's"
+"Hampton, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/el-dorado/745,33.234018,-92.6648447,,,n_6106864106,"shop=variety_store, brand=Dollar General"
+"Hampton, AR",,retail,445120,Missile Mart,,,,33.2580569,-92.6451856,,,n_11099177195,shop=convenience
+"Hampton, AR",,retail,445120,Break Time,,,,33.3296739,-92.551429,,,n_11099177224,shop=convenience
+"Hampton, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/camden/980,33.5347655,-92.8499754,,,n_11129854420,"shop=variety_store, brand=Dollar General"
+"Hampton, AR",,retail,445120,Littlefield Express,,,,33.6115489,-92.764313,,,n_11134782390,shop=convenience
+"Hampton, AR",,retail,445120,Missile Mart,,,,33.6095242,-92.0711315,,,n_11135741424,shop=convenience
+"Hampton, AR",,retail,445110,Mad Butcher,920 West 4th Street,,,33.8134195,-92.4221453,,,n_12000069800,shop=supermarket
+"Hampton, AR",,retail,452319,Family Dollar,"317 South Martin Street, Warren, AR, 71671",,https://www.familydollar.com/locations/ar/warren/21256,33.6105058,-92.0706021,,,n_12160785667,"shop=variety_store, brand=Family Dollar"
+"Hampton, AR",,retail,452319,Family Dollar,,,,33.7235109,-92.6192645,,,w_795095924,"shop=variety_store, brand=Family Dollar"
+"Hampton, AR",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-2135+n+west+ave-el+dorado-ar-71730/id=10198,33.2326111,-92.6650493,,,w_878846708,"shop=chemist, brand=Walgreens"
+"Hampton, AR",,retail,445110,Brookshire's,,,,33.2345163,-92.6661682,,,w_878846711,"shop=supermarket, brand=Brookshire's"
+"Hampton, AR",,retail,445110,Walmart Supercenter,"2730 North West Avenue, El Dorado, AR, 71730",+1 870-862-2128,https://www.walmart.com/store/530-el-dorado-ar,33.2420895,-92.6686833,,,w_878846716,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Hampton, AR",,retail,445110,Walmart Supercenter,"950 California Avenue Southwest, Camden, AR, 71701",+1 870-836-8000,https://www.walmart.com/store/171-camden-ar,33.5672014,-92.8368922,,,w_1066333113,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Hampton, AR",,retail,452210,Walmart,"1123 Highway 79 167 Bypass, Fordyce, AR, 71742",+1-870-352-5167,https://www.walmart.com/store/339-fordyce-ar,33.8204634,-92.4355726,,,w_1158558915,"shop=department_store, brand=Walmart, operator=Walmart"
+"Hampton, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/el-dorado/19000,33.2809633,-92.6677355,,,w_1196032244,"shop=variety_store, brand=Dollar General"
+"Hampton, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/hampton/3370,33.5310868,-92.4693391,,,w_1200860573,"shop=variety_store, brand=Dollar General"
+"Hampton, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/camden/16259,33.612082,-92.7607,,,w_1200912863,"shop=variety_store, brand=Dollar General"
+"Hampton, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/bearden/15002,33.7303387,-92.6259618,,,w_1200912865,"shop=variety_store, brand=Dollar General"
+"Hampton, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/hermitage/13786,33.4477073,-92.1689023,,,w_1201022281,"shop=variety_store, brand=Dollar General"
+"Hampton, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/warren/18224,33.6314804,-92.0627317,,,w_1201022288,"shop=variety_store, brand=Dollar General"

@@ -1,0 +1,16 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Wayton, AR",,retail,445120,,,,,36.1400051,-93.1220775,,,n_1179021730,shop=convenience
+"Wayton, AR",,retail,445110,Hudsons,,,,36.2359199,-93.1067267,,,n_1179052574,shop=supermarket
+"Wayton, AR",,retail,445120,,,,,36.2336266,-93.1304642,,,n_1179180183,shop=convenience
+"Wayton, AR",,retail,445110,Cash Saver 870,,,,36.2297633,-93.0988437,,,n_1179457965,shop=supermarket
+"Wayton, AR",,retail,452210,Sears,"1320 North Main Street
+Harrison, AR 72601",(870) 741-5466,http://www.searshometownstores.com/home/ar/harrison/3127,36.2457441,-93.1170904,,,n_6727503116,shop=department_store
+"Wayton, AR",,retail,445120,Hankins General Store,,,,35.7212895,-93.0962597,,,w_893650281,shop=convenience
+"Wayton, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/harrison/12468,36.2345305,-93.1326315,,,w_1060184374,"shop=variety_store, brand=Dollar General"
+"Wayton, AR",,retail,445120,Buffalo Outdoor Center,"4699 AR 43, Ponca, AR, 72670",+1 (870) 861-5514,https://www.buffaloriver.com,36.0227459,-93.3631755,,,w_1096063260,"shop=convenience, amenity=cafe"
+"Wayton, AR",,retail,445120,Top Of the Mountain Grocery,"Deer, AR, 72628",+18704285906,,35.8266598,-93.2096222,,,w_1108797409,shop=convenience
+"Wayton, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/jasper/11369,36.0126456,-93.1815519,,,w_1204713341,"shop=variety_store, brand=Dollar General"
+"Wayton, AR",,retail,452319,Dollar General,"Harrison, AR, 72601",,https://www.dollargeneral.com/store-directory/ar/harrison/16876,36.1382835,-93.1216877,,,w_1204713343,"shop=variety_store, brand=Dollar General"
+"Wayton, AR",,retail,452319,The Old Snowball House,,,,35.9068339,-92.8215612,,,w_1357454744,shop=general
+"Wayton, AR",,retail,452319,Kent General Store,"Mount Judea, AR",,,35.920556,-93.0597735,,,w_1388054085,shop=general
+"Wayton, AR",,retail,445120,Phillips 66,,,,36.2442925,-93.109303,,,w_1418218868,"shop=convenience, brand=Phillips 66"

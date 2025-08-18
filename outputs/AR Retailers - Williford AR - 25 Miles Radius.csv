@@ -1,0 +1,43 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Williford, AR",,retail,445110,Price Chopper,,,,36.3164315,-91.4849868,,,n_2780788401,shop=supermarket
+"Williford, AR",,retail,452319,Carroll's Variety Store,,,,36.2610464,-90.9697679,,,n_3362592989,shop=variety_store
+"Williford, AR",,retail,446120,Studio B Salon and Dayspa,,,,36.2619166,-90.9701305,,,n_3362592994,"shop=beauty, operator=Brittany Steimel"
+"Williford, AR",,retail,452210,Walmart,"1600 West Main Street, Walnut Ridge, AR, 72476",+1 870-886-6605,https://www.walmart.com/store/57-walnut-ridge-ar,36.07663,-90.97439,,,n_5315597525,"shop=department_store, brand=Walmart, operator=Walmart"
+"Williford, AR",,retail,445110,Harps Food Store,"1609 North Thomasville Street, Pocahontas, AR, 72455",,,36.2723963,-90.9757761,,,n_6936032864,shop=supermarket
+"Williford, AR",,retail,445110,SPRING RIVER DISPENSARY,"14818 Highway 63 South, Hardy, AR, 72542",(870)955-5050,https://springriverdispensary.com/,36.3385593,-91.4883238,,,n_9790471095,shop=supermarket
+"Williford, AR",,retail,445120,Snappy Mart,,,,36.2190308,-91.7564946,,,n_11118415971,shop=convenience
+"Williford, AR",,retail,452319,Dollar General,"Pocahontas, AR, 72455",,https://www.dollargeneral.com/store-directory/ar/pocahontas/19434,36.2548976,-90.9731431,,,n_11160235301,"shop=variety_store, brand=Dollar General"
+"Williford, AR",,retail,452319,Dollar Tree,,,,36.2500358,-90.9608839,,,n_11984568820,"shop=variety_store, brand=Dollar Tree"
+"Williford, AR",,retail,453991,Tobacco Haven,,,,35.9443502,-91.5491924,,,n_12752973732,shop=tobacco
+"Williford, AR",,retail,445120,Casey's General Store,,,,35.9408888,-91.5487735,,,n_12752973737,"shop=convenience, brand=Casey's General Store"
+"Williford, AR",,retail,445210,Superior,,8702012375,,35.9358521,-91.5479008,,,n_12754619308,shop=butcher
+"Williford, AR",,retail,445310,Southern Spirits and Liquor,"396 US 63, Ravenden, AR, 72459",,,36.2640687,-91.2917768,,,n_13022441612,shop=alcohol
+"Williford, AR",,retail,446110,Ash Flat Pharmacy,,,,36.2353917,-91.5998454,,,n_13022497723,shop=chemist
+"Williford, AR",,retail,445310,Triple D Liquor Store,,,,36.259053,-91.56272,,,n_13022521510,shop=alcohol
+"Williford, AR",,retail,452319,Dollar General,"196 Iroquois Drive, Cherokee Village, AR, 72529",,,36.3006043,-91.5310598,,,n_13059241786,"shop=variety_store, brand=Dollar General"
+"Williford, AR",,retail,445110,Walmart Supercenter,"1415 Highway 67 South, Pocahontas, AR, 72455",+1 870-892-7703,https://www.walmart.com/store/71-pocahontas-ar,36.2487424,-90.9633526,,,w_480306546,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Williford, AR",,retail,452210,Walmart,"333 East Walnut Street, Thayer, MO, 65791",+1 417-264-7195,https://www.walmart.com/store/837-thayer-mo,36.5248842,-91.5327509,,,w_578584940,"shop=department_store, brand=Walmart, operator=Walmart"
+"Williford, AR",,retail,445120,,,,,36.3177239,-91.4888188,,,w_1013257779,shop=convenience
+"Williford, AR",,retail,445310,The Liquor Store,"152 US-63, Hardy, AR, 72542",+18708565000,,36.3224579,-91.4881357,,,w_1013260954,shop=alcohol
+"Williford, AR",,retail,452319,Dollar General,"Hardy, AR, 72542",,https://www.dollargeneral.com/store-directory/ar/hardy/18596,36.3169627,-91.4862105,,,w_1153826925,"shop=variety_store, brand=Dollar General"
+"Williford, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/horseshoe-bend/7725,36.2208324,-91.757625,,,w_1198567228,"shop=variety_store, brand=Dollar General"
+"Williford, AR",,retail,452319,Dollar General,,,,36.2599854,-91.5338775,,,w_1203961631,"shop=variety_store, brand=Dollar General"
+"Williford, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/pocahontas/14855,36.256619,-91.0455287,,,w_1203961632,"shop=variety_store, brand=Dollar General"
+"Williford, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/imboden/7379,36.2046661,-91.1934192,,,w_1204486460,"shop=variety_store, brand=Dollar General"
+"Williford, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/ravenden/23022,36.2362927,-91.2489794,,,w_1204486461,"shop=variety_store, brand=Dollar General"
+"Williford, AR",,retail,452319,Dollar General,"333 North Main Street, Cave City, AR, 72521",,https://www.dollargeneral.com/store-directory/ar/cave-city/4309,35.9452748,-91.5496842,,,w_1204486488,"shop=variety_store, brand=Dollar General"
+"Williford, AR",,retail,445110,Walmart Supercenter,"219 Highway 412, Ash Flat, AR, 72513",+1 870-994-7520,https://www.walmart.com/store/160-ash-flat-ar,36.2411024,-91.5963436,,,w_1276751286,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Williford, AR",,retail,446120,Diann's Beauty Shop and Tanning,,,,36.2044666,-91.1911259,,,w_1292745202,shop=beauty
+"Williford, AR",,retail,452319,Family Dollar,,,,36.2033412,-91.189299,,,w_1292745208,"shop=variety_store, brand=Family Dollar"
+"Williford, AR",,retail,446110,Imboden Medical Pharmacy,,,,36.2017902,-91.171644,,,w_1295386779,shop=chemist
+"Williford, AR",,retail,445120,,,,,36.3155597,-91.4761148,,,w_1298947280,shop=convenience
+"Williford, AR",,retail,445110,Hometown Market,"111 North Main Street, Cave City, AR, 72521",+1-870-283-5187,https://cavecity.millershometownmarket.com/,35.9423318,-91.5493166,,,w_1373667051,shop=supermarket
+"Williford, AR",,retail,445120,Citgo,,,,36.2369429,-91.5975271,,,w_1417162852,"shop=convenience, brand=Citgo"
+"Williford, AR",,retail,445120,Murphy USA,,,,36.2391807,-91.5962436,,,w_1417163802,"shop=convenience, brand=Murphy USA"
+"Williford, AR",,retail,445120,Casey's General Store,,,,36.2606008,-91.546291,,,w_1417169244,shop=convenience
+"Williford, AR",,retail,445120,,,,,36.088218,-91.0735514,,,w_1420679871,shop=convenience
+"Williford, AR",,retail,445120,,,,,36.0842962,-91.0634506,,,w_1420679878,shop=convenience
+"Williford, AR",,retail,445120,,,,,36.2593089,-91.5383592,,,w_1421711308,shop=convenience
+"Williford, AR",,retail,445120,,,,,36.2381893,-90.9572193,,,w_1421967332,shop=convenience
+"Williford, AR",,retail,445120,,,,,36.2392467,-90.9589757,,,w_1421967333,shop=convenience
+"Williford, AR",,retail,445120,,,,,36.1046413,-91.0993804,,,w_1421972758,shop=convenience

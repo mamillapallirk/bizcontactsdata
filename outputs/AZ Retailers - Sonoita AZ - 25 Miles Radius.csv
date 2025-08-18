@@ -1,0 +1,42 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Sonoita, AZ",,retail,445110,Commissary,,,,31.5584081,-110.3506703,,,n_663041632,shop=supermarket
+"Sonoita, AZ",,retail,452210,Post Exchange,,,,31.5569132,-110.3527062,,,n_663041731,shop=department_store
+"Sonoita, AZ",,retail,445120,,,,,31.9623162,-110.7719118,,,n_1735987094,shop=convenience
+"Sonoita, AZ",,retail,445120,Parker Canyon Lake Store,"9000 South Parker Canyon Road, Elgin, AZ, 85611",+1-520-331-3318,http://www.parkercanyonlake.com/,31.4244289,-110.4487992,,,n_1962792657,shop=convenience
+"Sonoita, AZ",,retail,445120,Circle K,,,,31.5543111,-110.3001465,,,n_2222764683,"shop=convenience, brand=Circle K"
+"Sonoita, AZ",,retail,445310,Dos Cabezas Wineworks,,,https://www.doscabezas.com/,31.6800595,-110.6535201,,,n_3473590780,shop=alcohol
+"Sonoita, AZ",,retail,445310,Village of Elgin Winery,,,,31.6608268,-110.5261304,,,n_3473590785,shop=alcohol
+"Sonoita, AZ",,retail,445110,Safeway,"2190 East Fry Boulevard, Sierra Vista, AZ, 85635",+1 520-459-4204,https://local.safeway.com/safeway/az/sierra-vista/2190-e-fry-blvd.html,31.5530091,-110.2758681,,,n_3880926786,"shop=supermarket, brand=Safeway"
+"Sonoita, AZ",,retail,452319,99 Cent Store,,,,31.5557988,-110.2759472,,,n_5035613108,shop=variety_store
+"Sonoita, AZ",,retail,445120,Good 2 Go,"2632 East Fry Boulevard, Sierra Vista, AZ, 85635",+1 520 458 3580,,31.554168,-110.271931,,,n_9168508455,"shop=convenience, brand=Good 2 Go"
+"Sonoita, AZ",,retail,445120,Speedway,"1497 East Fry Boulevard, Sierra Vista, AZ, 85636",,https://www.speedway.com/locations/AZ/Sierra-Vista/1497-E-Fry-Blvd,31.5551724,-110.2824651,,,n_9168508457,"shop=convenience, brand=Speedway"
+"Sonoita, AZ",,retail,445310,Sonoita Vineyards,"290 Elgin Canelo Road, Elgin, AZ, 85611",,https://www.sonoitavineyards.com/,31.6234484,-110.5483086,,,n_9248352978,shop=wine
+"Sonoita, AZ",,retail,445310,Callaghan Vineyards,"336 Elgin Road, Elgin, AZ, 85611",,https://www.callaghanvineyards.com/,31.659424,-110.5502221,,,n_9248376820,shop=wine
+"Sonoita, AZ",,retail,446110,CVS Pharmacy,"240 West Continental Road, Green Valley, AZ, 85622",+1 520-625-7286,https://www.cvs.com/store-locator/green-valley-az-pharmacies/240-w-continental-rd-green-valley-az-85622/storeid=9254,31.8533709,-110.9955293,,,n_12630748930,"shop=chemist, brand=CVS Pharmacy"
+"Sonoita, AZ",,retail,452319,Super Sale Bin Store,"115 West Esperanza Boulevard, Green Valley, AZ",,,31.8683738,-110.9924958,,,n_13074160935,shop=variety_store
+"Sonoita, AZ",,retail,445110,Building 61610,,,,31.5584196,-110.3506525,,,w_52004173,shop=supermarket
+"Sonoita, AZ",,retail,445110,Walmart Supercenter,"500 North Highway 90 Bypass, Sierra Vista, AZ, 85635",+1 520-458-8790,https://www.walmart.com/store/1240-sierra-vista-az,31.5601058,-110.2604738,,,w_160734127,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Sonoita, AZ",,retail,445120,Circle K,,,,31.5282361,-110.2896463,,,w_168997466,"shop=convenience, brand=Circle K"
+"Sonoita, AZ",,retail,452319,Dollar Tree,,,,31.5532846,-110.2909502,,,w_188107086,"shop=variety_store, brand=Dollar Tree"
+"Sonoita, AZ",,retail,445110,Sierra Vista Natural Foods Cooperative,,,,31.5532486,-110.3002833,,,w_188130730,shop=supermarket
+"Sonoita, AZ",,retail,445120,Circle K,,,,31.5558307,-110.3055375,,,w_212427528,"shop=convenience, brand=Circle K"
+"Sonoita, AZ",,retail,445120,,,,,31.4309097,-110.9620041,,,w_226827511,shop=convenience
+"Sonoita, AZ",,retail,445120,Food Mart,"2222 North Highway 90, Huachuca City, AZ, 85616",,,31.6921324,-110.3492487,,,w_249662871,shop=convenience
+"Sonoita, AZ",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/az/huachuca-city/7335,31.629052,-110.3361427,,,w_259742788,"shop=variety_store, brand=Dollar General"
+"Sonoita, AZ",,retail,452319,Family Dollar,,,,31.6284557,-110.334907,,,w_259742824,"shop=variety_store, brand=Family Dollar"
+"Sonoita, AZ",,retail,452319,Sonoita Mercantile,"3235 Highway 82, Elgin, AZ, 85611",,,31.678631,-110.6554862,,,w_280794462,shop=general
+"Sonoita, AZ",,retail,445120,,,,,31.9639118,-110.4328432,,,w_291627621,shop=convenience
+"Sonoita, AZ",,retail,452319,Sonoita Mini Mart,"3160 Highway 83, Sonoita, AZ, 85637",,,31.6788022,-110.6561018,,,w_342833741,shop=general
+"Sonoita, AZ",,retail,446110,Walgreens,"1950 East Fry Boulevard, Sierra Vista, AZ, 85635",,https://www.walgreens.com/locator/walgreens-1950+e+fry+blvd-sierra+vista-az-85635/id=5027,31.5540291,-110.2781514,,,w_387016752,"shop=chemist, brand=Walgreens"
+"Sonoita, AZ",,retail,445120,Shell,"80 East Esperanza Boulevard, Green Valley, AZ, 85614-2420",+1 520-625-6839,https://find.shell.com/us/fuel/10006250-80-e-esperanza-blvd,31.8698411,-110.9891921,,,w_409489019,"shop=convenience, brand=Shell, operator=Shell"
+"Sonoita, AZ",,retail,445120,,,,,31.5596339,-110.2917888,,,w_465726717,shop=convenience
+"Sonoita, AZ",,retail,452210,Bealls,"18743 South Nogales Highway, Sahuarita, AZ, 85614",+1 520-399-9587,https://stores.bealls.com/az/sahuarita/18743-s-nogales-highway,31.9092109,-110.9790629,,,w_776453294,"shop=department_store, brand=Bealls"
+"Sonoita, AZ",,retail,445110,Safeway,"260 West Continental Road, Green Valley, AZ, 85622",+1 520-625-7283,https://local.safeway.com/safeway/az/green-valley/260-w-continental-rd.html,31.8527736,-110.9966386,,,w_819698604,"shop=supermarket, brand=Safeway"
+"Sonoita, AZ",,retail,446110,Walgreens,"375 West Continental Road, Green Valley, AZ, 85622",+1 520-648-2320,https://www.walgreens.com/locator/walgreens-375+w+continental+rd-green+valley-az-85622/id=5312,31.851598,-110.9986209,,,w_819698605,"shop=chemist, brand=Walgreens"
+"Sonoita, AZ",,retail,445120,Red Mountian Foods,"347 McKeown Avenue, Patagonia, AZ, 85624",,,31.5393251,-110.7543307,,,w_1041082792,shop=convenience
+"Sonoita, AZ",,retail,452319,Dollar General,"3165 Highway 83, Elgin, AZ, 85611",,https://www.dollargeneral.com/store-directory/az/sonoita/17334,31.6801636,-110.6550248,,,w_1071393804,"shop=variety_store, brand=Dollar General"
+"Sonoita, AZ",,retail,445110,Sprouts Farmers Market,"18755 South Nogales Highway, Green Valley, AZ, 85614",+1 520-729-3370,https://www.sprouts.com/store/az/green-valley/sahuarita/,31.9085047,-110.9790392,,,w_1075645504,"shop=supermarket, brand=Sprouts Farmers Market"
+"Sonoita, AZ",,retail,445120,,,,,31.8276095,-111.0132092,,,w_1076177673,shop=convenience
+"Sonoita, AZ",,retail,446110,,,,,31.9121783,-110.9794094,,,w_1086321994,shop=chemist
+"Sonoita, AZ",,retail,445110,Safeway,"1305 West Duval Mine Road, Green Valley, AZ, 85614",+1 520-648-2847,https://local.safeway.com/safeway/az/sahuarita/1305-w-duval-mine-rd.html,31.9009547,-110.9925528,,,w_1086564772,"shop=supermarket, brand=Safeway"
+"Sonoita, AZ",,retail,446110,Walgreens,"313 West Esperanza Boulevard, Green Valley, AZ, 85614",+1 520-648-2417,https://www.walgreens.com/locator/Walgreens-313+W+ESPERANZA+BLVD-GREEN+VALLEY-AZ-85614/id=2232,31.8697131,-110.9960829,,,w_1131709928,"shop=chemist, brand=Walgreens"

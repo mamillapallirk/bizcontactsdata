@@ -1,0 +1,83 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Douglas, AZ",,retail,445120,Circle K,,,,31.4444454,-109.923781,,,n_1812916823,"shop=convenience, brand=Circle K"
+"Douglas, AZ",,retail,445110,Safeway,"101 Naco Road, Bisbee, AZ, 85603",+1 520-432-3038,https://local.safeway.com/safeway/az/bisbee/101-naco-hwy.html,31.4012044,-109.9173271,,,n_4335719649,"shop=supermarket, brand=Safeway"
+"Douglas, AZ",,retail,445120,Oxxo,,,,31.3026582,-109.5327285,,,n_5264582296,"shop=convenience, brand=Oxxo"
+"Douglas, AZ",,retail,445120,OXXO,,,,31.2943341,-109.5805925,,,n_5264606701,shop=convenience
+"Douglas, AZ",,retail,452319,Waldo's,"Carretera Agua Prieta-Ascensión, Agua Prieta, Sonora, 84200",,,31.3158957,-109.5418405,,,n_5266655766,"shop=variety_store, brand=Waldo's, operator=Waldo's Mart"
+"Douglas, AZ",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50GGK,31.3187159,-109.5151955,,,n_5266655773,"shop=convenience, brand=Oxxo"
+"Douglas, AZ",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50YIR,31.3266871,-109.5171762,,,n_5266655779,"shop=convenience, brand=Oxxo"
+"Douglas, AZ",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/az/douglas/3116/,31.337741,-109.5623413,,,n_5266749513,"shop=variety_store, brand=Dollar Tree"
+"Douglas, AZ",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50YMW,31.3024257,-109.5533633,,,n_5266755771,"shop=convenience, brand=Oxxo"
+"Douglas, AZ",,retail,452319,Family Dollar,,,,31.4007005,-109.9173391,,,n_6927736234,"shop=variety_store, brand=Family Dollar"
+"Douglas, AZ",,retail,445120,BorderMart,,,,31.337477,-109.5590415,,,n_6970637812,shop=convenience
+"Douglas, AZ",,retail,445120,Speedway,"101 East 16th Street, Douglas, AZ, 85607",,https://www.speedway.com/locations/AZ/Douglas/101-E-16th-St,31.3503585,-109.5601335,,,n_9159737079,"shop=convenience, brand=Speedway"
+"Douglas, AZ",,retail,445120,Speedway,"1060 18th Street, Douglas, AZ, 85607",,https://www.speedway.com/locations/AZ/Douglas/1060-18th-St,31.3529778,-109.5458653,,,n_9159737080,"shop=convenience, brand=Speedway"
+"Douglas, AZ",,retail,445120,Good 2 Go Store,"1050 East 10th Street, Douglas, AZ, 85607",+1 520 364 5791,https://good2gostores.com/locations/523,31.3448856,-109.545937,,,n_9159737089,shop=convenience
+"Douglas, AZ",,retail,445120,Speedway,"1807 East 10th Street, Douglas, AZ, 85607",,https://www.speedway.com/locations/AZ/Douglas/1807-E-10th-St,31.3441302,-109.5333072,,,n_9159799969,"shop=convenience, brand=Speedway"
+"Douglas, AZ",,retail,452319,Family Dollar,"1900 East 10th Street, Douglas, AZ, 85607",,,31.3447768,-109.5319158,,,n_9159799970,"shop=variety_store, brand=Family Dollar"
+"Douglas, AZ",,retail,445120,Speedway,"906 West Highway 92, Bisbee, AZ, 85603",,https://www.speedway.com/locations/AZ/Bisbee/906-W-Highway-92,31.4023525,-109.9183638,,,n_9160953523,"shop=convenience, brand=Speedway"
+"Douglas, AZ",,retail,452319,Waldo's,,,,31.3216293,-109.5502808,,,n_12861506989,"shop=variety_store, brand=Waldo's"
+"Douglas, AZ",,retail,445120,Oxxo,,,,31.3218585,-109.5502808,,,n_12861506990,"shop=convenience, brand=Oxxo"
+"Douglas, AZ",,retail,452210,Coppel,,,,31.3226956,-109.5528014,,,n_12861506997,"shop=department_store, brand=Coppel"
+"Douglas, AZ",,retail,452210,Elektra,,,,31.3226318,-109.5513211,,,n_12861551913,"shop=department_store, brand=Elektra"
+"Douglas, AZ",,retail,452210,Coppel,,,,31.3225584,-109.5502617,,,n_12861551918,"shop=department_store, brand=Coppel, operator=Coppel Canada"
+"Douglas, AZ",,retail,445110,Casa LEY,,,,31.3213406,-109.5519557,,,n_12861551923,"shop=supermarket, operator=Casa LEY"
+"Douglas, AZ",,retail,445110,Mercado Zuarez Aquamundo,,,,31.3221632,-109.5797574,,,n_12861551924,"shop=supermarket, operator=Super Suarez"
+"Douglas, AZ",,retail,445110,Mercado Zuarez Pueblo Nuevo,,,,31.3022601,-109.5493866,,,n_12861551926,"shop=supermarket, operator=Super Suarez"
+"Douglas, AZ",,retail,445110,Ley Express El Zaino,,,,31.3151167,-109.5434123,,,n_12865714873,"shop=supermarket, operator=Casa Ley"
+"Douglas, AZ",,retail,445110,Bodega Aurrera,,,,31.3141489,-109.5377673,,,n_12865714874,"shop=supermarket, brand=Bodega Aurrera"
+"Douglas, AZ",,retail,445120,Oxxo,,,,31.3143796,-109.5821324,,,n_12865714880,"shop=convenience, brand=Oxxo"
+"Douglas, AZ",,retail,445120,Oxxo,,,,31.302291,-109.5376035,,,n_12865748904,"shop=convenience, brand=Oxxo"
+"Douglas, AZ",,retail,445299,Expendio Zaragoza,,,,31.3030601,-109.5428594,,,n_12865748908,"shop=dairy, operator=Zaragoza"
+"Douglas, AZ",,retail,445120,Oxxo,,,,31.3031206,-109.544604,,,n_12865748909,"shop=convenience, brand=Oxxo, operator=Oxxo"
+"Douglas, AZ",,retail,445120,Six,,,,31.303085,-109.5477859,,,n_12865748918,"shop=convenience, brand=Six"
+"Douglas, AZ",,retail,445310,Modelorama,,,,31.3030909,-109.548104,,,n_12865748919,"shop=alcohol, brand=Modelorama"
+"Douglas, AZ",,retail,445299,Queseria menonita La 35,,,,31.3025974,-109.5485745,,,n_12865748934,shop=cheese
+"Douglas, AZ",,retail,445120,Six,,,,31.3030609,-109.5560063,,,n_12865748956,"shop=convenience, brand=Six"
+"Douglas, AZ",,retail,445110,Walmart Supercenter,"199 West 5th Street, Douglas, AZ, 85607",+1 520-364-1281,https://www.walmart.com/store/1846-douglas-az,31.3382141,-109.5655424,,,w_31527052,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Douglas, AZ",,retail,445110,,,,,31.3399697,-109.5620658,,,w_31652033,shop=supermarket
+"Douglas, AZ",,retail,452210,JCPenney,,,,31.3410972,-109.5642062,,,w_31652080,"shop=department_store, brand=JCPenney"
+"Douglas, AZ",,retail,446120,UETA,,,,31.3377541,-109.5604491,,,w_155440985,shop=perfumery
+"Douglas, AZ",,retail,452319,Dollar General,,,,31.3410307,-109.5635438,,,w_160149199,"shop=variety_store, brand=Dollar General"
+"Douglas, AZ",,retail,452319,99 Cent Store,,,,31.3410008,-109.5578936,,,w_160151394,shop=variety_store
+"Douglas, AZ",,retail,445110,Bisbee Food Co-op,,,,31.4309968,-109.8945401,,,w_169059751,shop=supermarket
+"Douglas, AZ",,retail,445120,Good to Go,,,,31.4114351,-109.8784515,,,w_315620385,shop=convenience
+"Douglas, AZ",,retail,445120,High Desert Market,,,,31.4433696,-109.9202415,,,w_321495822,shop=convenience
+"Douglas, AZ",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/az/bisbee/11124,31.400078,-109.9197271,,,w_436396560,"shop=variety_store, brand=Dollar General"
+"Douglas, AZ",,retail,452210,Coppel,,,,31.3228438,-109.5527981,,,w_544606074,"shop=department_store, brand=Coppel"
+"Douglas, AZ",,retail,445120,Oxxo,,,,31.3148359,-109.5460382,,,w_544612421,"shop=convenience, brand=Oxxo"
+"Douglas, AZ",,retail,445110,Plaza Ariana y Michel,,,,31.3161051,-109.5417911,,,w_544612731,shop=supermarket
+"Douglas, AZ",,retail,445110,Casa LEY,,,,31.3154256,-109.5434485,,,w_544613056,"shop=supermarket, operator=Casa LEY"
+"Douglas, AZ",,retail,445120,OXXO,,,,31.3129497,-109.5528054,,,w_544620168,shop=convenience
+"Douglas, AZ",,retail,445120,Oxxo,,,,31.309402,-109.5529377,,,w_544620203,"shop=convenience, brand=Oxxo"
+"Douglas, AZ",,retail,445110,,,,,31.3023655,-109.5493436,,,w_544627605,"shop=supermarket, operator=Super Suarez"
+"Douglas, AZ",,retail,445120,Oxxo,Carretera Agua Prieta-Nacozari de García,,,31.2943431,-109.5807256,,,w_544640010,"shop=convenience, brand=Oxxo"
+"Douglas, AZ",,retail,452210,Elektra,,,https://www.elektra.mx,31.3226395,-109.5513324,,,w_544874876,"shop=department_store, brand=Elektra"
+"Douglas, AZ",,retail,445292,Dulcería Farith,,,,31.3204904,-109.5502765,,,w_547946632,shop=confectionery
+"Douglas, AZ",,retail,446110,FARMACIAS BENAVIDES,,,,31.3163225,-109.5385173,,,w_592435545,shop=chemist
+"Douglas, AZ",,retail,445120,Circle K,,,,31.3280288,-109.5529134,,,w_604699409,shop=convenience
+"Douglas, AZ",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50XNN,31.3284866,-109.5508655,,,w_605051657,"shop=convenience, brand=Oxxo"
+"Douglas, AZ",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50ASE,31.3289124,-109.5491385,,,w_605051658,"shop=convenience, brand=Oxxo"
+"Douglas, AZ",,retail,445299,ZARAGOZA,,,,31.3180272,-109.5522926,,,w_605090129,shop=dairy
+"Douglas, AZ",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50VNO,31.3249386,-109.5429224,,,w_605338135,"shop=convenience, brand=Oxxo"
+"Douglas, AZ",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=5050U,31.3261516,-109.5571508,,,w_605338140,"shop=convenience, brand=Oxxo"
+"Douglas, AZ",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50JFR,31.3183924,-109.5577719,,,w_605338146,"shop=convenience, brand=Oxxo"
+"Douglas, AZ",,retail,445120,OXXO,,,,31.3257702,-109.5373283,,,w_605346118,shop=convenience
+"Douglas, AZ",,retail,445110,Súper Suárez,,,,31.3195172,-109.5372538,,,w_605346119,shop=supermarket
+"Douglas, AZ",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50EFN,31.3198813,-109.5320838,,,w_605346122,"shop=convenience, brand=Oxxo"
+"Douglas, AZ",,retail,445110,Súper Blancos,,,,31.3261749,-109.5221184,,,w_605346123,shop=supermarket
+"Douglas, AZ",,retail,445110,Súper del Norte,,,,31.3298119,-109.5212819,,,w_605346126,shop=supermarket
+"Douglas, AZ",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50LSL,31.3285071,-109.5174048,,,w_605346129,"shop=convenience, brand=Oxxo"
+"Douglas, AZ",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50WQJ,31.3321634,-109.5607043,,,w_605410442,"shop=convenience, brand=Oxxo"
+"Douglas, AZ",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50DMM,31.329837,-109.5565659,,,w_605412945,"shop=convenience, brand=Oxxo"
+"Douglas, AZ",,retail,453110,Florería Del Río,,,,31.3297458,-109.5561209,,,w_605412946,shop=florist
+"Douglas, AZ",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50LPU,31.3241995,-109.587708,,,w_631981091,"shop=convenience, brand=Oxxo"
+"Douglas, AZ",,retail,445120,Circle K,,,,31.3297771,-109.546054,,,w_638327520,shop=convenience
+"Douglas, AZ",,retail,453110,,,,,31.396457,-109.9304529,,,w_734282004,shop=florist
+"Douglas, AZ",,retail,445120,,,,,31.3971984,-109.929062,,,w_734282006,shop=convenience
+"Douglas, AZ",,retail,445310,Bisbee Beverage,,,,31.3985148,-109.9264656,,,w_734282013,shop=beverages
+"Douglas, AZ",,retail,445120,OXXO,,,,31.3266718,-109.5528927,,,w_736854707,shop=convenience
+"Douglas, AZ",,retail,452319,Bisbee Office Supply,,,,31.4004736,-109.9193324,,,w_739867435,shop=general
+"Douglas, AZ",,retail,445110,Food City,"1300 San Antonio Avenue, Douglas, AZ",,,31.3473415,-109.5339682,,,w_862370709,"shop=supermarket, brand=Food City"
+"Douglas, AZ",,retail,445110,,,,,31.3222697,-109.5799566,,,w_1378977716,shop=supermarket
+"Douglas, AZ",,retail,445110,Bodega Aurrera,,,,31.314465,-109.5374063,,,r_19170579,"shop=supermarket, brand=Bodega Aurrera"

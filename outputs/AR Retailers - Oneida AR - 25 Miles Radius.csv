@@ -1,0 +1,27 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Oneida, AR",,retail,452210,,,,,34.5558379,-90.6537506,,,n_2680838545,shop=department_store
+"Oneida, AR",,retail,452210,Dixie Furniture,,,,34.5418121,-90.6284344,,,n_2687284498,shop=department_store
+"Oneida, AR",,retail,445110,Edwards Food giant,"460 South Alabama Street, Marianna, AR, 72360",(870) 295-9311,https://www.edwardsfoodgiant.com/,34.7619145,-90.7683292,,,n_7050483667,shop=supermarket
+"Oneida, AR",,retail,445120,doublequick,,,,34.5549639,-90.6647908,,,n_10866500942,shop=convenience
+"Oneida, AR",,retail,445310,,,,,34.5549187,-90.6659822,,,n_10866500945,shop=alcohol
+"Oneida, AR",,retail,452210,Sears Hometown,,,,34.5540151,-90.6628362,,,n_10866503981,"shop=department_store, brand=Sears Hometown"
+"Oneida, AR",,retail,445120,,,,,34.5542608,-90.651865,,,n_10866503992,shop=convenience
+"Oneida, AR",,retail,445120,,,,,34.5532395,-90.6504238,,,n_10866503995,shop=convenience
+"Oneida, AR",,retail,445120,Double Quick,,,,34.5556121,-90.7689174,,,n_10866524869,shop=convenience
+"Oneida, AR",,retail,445110,Az Mart,,,,34.5591816,-90.9098579,,,n_10866526204,shop=supermarket
+"Oneida, AR",,retail,445310,Messina’s,,,,34.5279592,-90.586459,,,w_262414926,shop=alcohol
+"Oneida, AR",,retail,445110,Hay's Supermarket,,,,34.5559727,-90.6568298,,,w_262415170,shop=supermarket
+"Oneida, AR",,retail,452319,Dollar General,,,,34.5472201,-90.6462036,,,w_263104358,"shop=variety_store, brand=Dollar General"
+"Oneida, AR",,retail,445110,Walmart Supercenter,"1000 South State Street, Clarksdale, MS, 38614",+1 662-627-1133,https://www.walmart.com/store/707-clarksdale-ms,34.1808322,-90.5904526,,,w_931124223,"shop=supermarket, brand=Walmart"
+"Oneida, AR",,retail,446110,Good Neighbor Pharmacy,,,,34.5294719,-90.5865127,,,w_967691080,shop=chemist
+"Oneida, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/helena/16069,34.5240865,-90.5918793,,,w_1003742140,"shop=variety_store, brand=Dollar General"
+"Oneida, AR",,retail,445120,Jordans Kwik Stop,,,,34.501088,-90.6102367,,,w_1184227323,shop=convenience
+"Oneida, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/elaine/20876,34.308384,-90.8553919,,,w_1201478536,"shop=variety_store, brand=Dollar General"
+"Oneida, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/marvell/1320,34.5578103,-90.907645,,,w_1201478537,"shop=variety_store, brand=Dollar General"
+"Oneida, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/marianna/9702,34.777527,-90.7732522,,,w_1201478543,"shop=variety_store, brand=Dollar General"
+"Oneida, AR",,retail,445120,Tiger 1 Mart,,,,34.1951003,-90.5646285,,,w_1235166326,shop=convenience
+"Oneida, AR",,retail,446120,"Pure Pampering Nails Salon, Beauty Bar & Fashion Boutique",,,,34.1965126,-90.5645736,,,w_1235166369,shop=beauty
+"Oneida, AR",,retail,452319,Family Dollar,,,,34.5599064,-90.9137306,,,w_1300109867,"shop=variety_store, brand=Family Dollar"
+"Oneida, AR",,retail,445120,Double Quick,,,,34.5593456,-90.9105919,,,w_1300109869,shop=convenience
+"Oneida, AR",,retail,445120,,,,,34.5608489,-90.9134289,,,w_1300109871,shop=convenience
+"Oneida, AR",,retail,445110,Walmart Supercenter,"602 Shelia Street, Helena-west Helena, AR, 72390",+1 870-572-2442,https://www.walmart.com/store/714-helena-west-helena-ar,34.5556037,-90.6506826,,,w_1311908894,"shop=supermarket, brand=Walmart, operator=Walmart"

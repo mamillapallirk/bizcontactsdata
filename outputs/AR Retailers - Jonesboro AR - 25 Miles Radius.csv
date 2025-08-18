@@ -1,0 +1,81 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Jonesboro, AR",,retail,452319,Family Dollar,,,,36.0521382,-90.488966,,,n_1371000939,"shop=variety_store, brand=Family Dollar"
+"Jonesboro, AR",,retail,445110,Bill's Fresh Market,"4225 Stadium Boulevard, Jonesboro, AR, 72404",870-336-0370,http://www.billsfreshmarket.com/location_details.php?id=6,35.7915339,-90.6706524,,,n_3533533128,shop=supermarket
+"Jonesboro, AR",,retail,445110,Walmart Neighborhood Market,2811 Creek Dr,+1-870-203-7009,https://www.walmart.com/store/6943/jonesboro-ar/whats-new,35.8240219,-90.671274,,,n_5315596537,"shop=supermarket, operator=Walmart"
+"Jonesboro, AR",,retail,452210,Walmart,"1600 West Main Street, Walnut Ridge, AR, 72476",+1 870-886-6605,https://www.walmart.com/store/57-walnut-ridge-ar,36.07663,-90.97439,,,n_5315597525,"shop=department_store, brand=Walmart, operator=Walmart"
+"Jonesboro, AR",,retail,446120,MzPip Spa,"3915 East Nettleton Avenue, Jonesboro, AR, 72401",,https://www.mzpipspa.com/,35.8249645,-90.6574377,,,n_8929036073,shop=beauty
+"Jonesboro, AR",,retail,445110,NEA Full Spectrum,"12001 Highway 49 North, Brookland, AR, 72417",(870) 634-6412,https://www.neafullspectrummedicine.com/,35.960958,-90.5664335,,,n_9790492535,"shop=supermarket, brand=Cannabis, operator=NEA Full Spectrum"
+"Jonesboro, AR",,retail,445110,Crop Co. - Jonesboro,"2929 S Caraway Rd, Jonesboro, AR, 72401",(870)336-2767,https://cropnea.com/,35.8092377,-90.6801349,,,n_9790520261,"shop=supermarket, brand=Medical Cannabis"
+"Jonesboro, AR",,retail,445120,Doublebee's,,,,35.8020813,-90.6970111,,,n_11180650161,shop=convenience
+"Jonesboro, AR",,retail,445310,The Party Store,"7205 US 49, Paragould, AR, 72450",870-236-7827,,35.9710439,-90.5551331,,,n_11284643189,shop=alcohol
+"Jonesboro, AR",,retail,445120,,,,,35.7966785,-90.7305653,,,n_11358322810,shop=convenience
+"Jonesboro, AR",,retail,445120,Shell,,,,35.677796,-90.5499206,,,n_11464447101,"shop=convenience, brand=Shell"
+"Jonesboro, AR",,retail,445110,Kroger Marketplace,"1725 South Caraway Road, Jonesboro, AR, 72401",+1 870-972-4739,https://www.kroger.com/stores/grocery/ar/jonesboro/jonesboro-marketplace/025/00409,35.8238811,-90.6800795,,,n_11877144248,"shop=supermarket, brand=Kroger"
+"Jonesboro, AR",,retail,452210,Burlington,"1525 South Caraway Road, Jonesboro, AR, 72401",+1 870-932-0240,https://stores.burlington.com/ar/jonesboro/977,35.8260099,-90.6790906,,,n_11982428118,"shop=department_store, brand=Burlington"
+"Jonesboro, AR",,retail,452319,Five Below,"1127 South Caraway Road, Jonesboro, AR, 72401",+1 870-933-6621,https://locations.fivebelow.com/ar/jonesboro/1127-south-caraway-road,35.8310383,-90.6788845,,,n_11982458853,"shop=variety_store, brand=Five Below"
+"Jonesboro, AR",,retail,446120,Merle Norman,"1121 South Caraway Road, Jonesboro, AR, 72401",,,35.8311851,-90.6789569,,,n_11982458855,"shop=cosmetics, brand=Merle Norman Cosmetics"
+"Jonesboro, AR",,retail,452210,TJ Maxx,"1235 South Caraway Road, Jonesboro, AR, 72401",,,35.8295733,-90.6789164,,,n_11982458859,"shop=department_store, brand=TJ Maxx"
+"Jonesboro, AR",,retail,445110,Natural Grocers,"1315 South Caraway Road, Jonesboro, AR, 72401",,,35.8291189,-90.6789527,,,n_11982458861,"shop=supermarket, brand=Natural Grocers"
+"Jonesboro, AR",,retail,452319,Dollar General,,,,35.7981029,-90.6706346,,,n_12456876889,"shop=variety_store, brand=Dollar General"
+"Jonesboro, AR",,retail,445110,Harps,"8121 US 49;AR 1, Brookland, AR, 72417",(870) 790-2321,,35.9085656,-90.5900326,,,n_13005833548,"shop=supermarket, brand=Harps"
+"Jonesboro, AR",,retail,452319,Brookland Sales Inc.,"8159 US 49;AR 1, Brookland, AR, 72417",(870) 933-8240,,35.9114479,-90.5887585,,,n_13005836576,shop=general
+"Jonesboro, AR",,retail,452210,Target,"3000 East Highland Drive, Jonesboro, AR, 72401",+1-870-934-9668,https://www.target.com/sl/jonesboro/1919,35.8234746,-90.666796,,,w_290254926,"shop=department_store, brand=Target"
+"Jonesboro, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/jonesboro/782,35.8647439,-90.6213469,,,w_391130551,"shop=variety_store, brand=Dollar General"
+"Jonesboro, AR",,retail,445120,,,,,35.8034521,-90.6701831,,,w_547164565,shop=convenience
+"Jonesboro, AR",,retail,445120,Kum & Go,,,https://www.kumandgo.com/store-locator?details=0395,35.812587,-90.6699524,,,w_547164626,"shop=convenience, brand=Kum & Go"
+"Jonesboro, AR",,retail,452210,Kohl's,"2117 Fair Park Boulevard, Jonesboro, AR, 72401",+1 870-932-5535,https://www.kohls.com/stores/ar/jonesboro-1029.shtml,35.8169266,-90.6750668,,,w_547533343,"shop=department_store, brand=Kohl's"
+"Jonesboro, AR",,retail,445110,ALDI,"2610 South Caraway Road, Jonesboro, AR, 72401",+1 855-955-2534,https://stores.aldi.us/ar/jonesboro/2610-s-caraway-road,35.8132505,-90.6774002,,,w_547533350,"shop=supermarket, brand=ALDI"
+"Jonesboro, AR",,retail,445110,Walmart Neighborhood Market,"2811 Creek Drive, Jonesboro, AR, 72401",+1 870-203-7009,https://www.walmart.com/store/6943-jonesboro-ar,35.8254757,-90.6714669,,,w_548438908,"shop=supermarket, brand=Walmart"
+"Jonesboro, AR",,retail,446110,Walgreens,,,,35.8291156,-90.6677981,,,w_548438941,"shop=chemist, brand=Walgreens"
+"Jonesboro, AR",,retail,445120,Kum & Go,,,https://www.kumandgo.com/store-locator?details=0362,35.8478713,-90.6778054,,,w_549653434,"shop=convenience, brand=Kum & Go"
+"Jonesboro, AR",,retail,445110,Walmart Supercenter,"1815 East Highland Drive, Jonesboro, AR, 72401",+1 870-931-5001,https://www.walmart.com/store/45-jonesboro-ar,35.8190073,-90.6852956,,,w_550741680,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Jonesboro, AR",,retail,445120,Murphy Express,,,,35.8257691,-90.6696422,,,w_554962402,"shop=convenience, brand=Murphy Express"
+"Jonesboro, AR",,retail,446110,Walgreens,"1330 South Caraway Road, Jonesboro, AR, 72401",,,35.8288873,-90.6768873,,,w_554962450,"shop=chemist, brand=Walgreens"
+"Jonesboro, AR",,retail,445110,Walmart Neighborhood Market,"3319 Harrisburg Road, Jonesboro, AR, 72404",+1 870-203-7018,https://www.walmart.com/store/6876-jonesboro-ar,35.8028991,-90.6988271,,,w_574636594,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Jonesboro, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/jonesboro/3744,35.8026798,-90.6958511,,,w_580286492,"shop=variety_store, brand=Dollar General"
+"Jonesboro, AR",,retail,445120,Kum & Go,,,https://www.kumandgo.com/store-locator?details=1393,35.8578629,-90.6572512,,,w_582619944,"shop=convenience, brand=Kum & Go"
+"Jonesboro, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/jonesboro/3485,35.8203956,-90.6497602,,,w_587935898,"shop=variety_store, brand=Dollar General"
+"Jonesboro, AR",,retail,445120,,,,,35.8215798,-90.6383681,,,w_587935915,shop=convenience
+"Jonesboro, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/bay/12421,35.7404702,-90.5646918,,,w_744212322,"shop=variety_store, brand=Dollar General"
+"Jonesboro, AR",,retail,445110,Walmart Supercenter,"1911 West Parker Road, Jonesboro, AR, 72404",+1 870-972-6350,https://www.walmart.com/store/128-jonesboro-ar,35.8160702,-90.734396,,,w_848070395,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Jonesboro, AR",,retail,452210,Big Lots,"1907 Woodsprings Road, Jonesboro, AR, 72401",+1 870-931-1163,https://local.biglots.com/ar/jonesboro/1907-woodsprings-rd,35.8168879,-90.7304875,,,w_903439155,"shop=department_store, brand=Big Lots"
+"Jonesboro, AR",,retail,445120,Tiger Mart,"1203 West Parker Road, Jonesboro, AR, 72404",,,35.8071173,-90.7226802,,,w_903439160,"shop=convenience, brand=Tiger Mart"
+"Jonesboro, AR",,retail,445110,ALDI,"2810 West Kingshighway, Paragould, AR, 72450",+1 855-955-2534,https://stores.aldi.us/ar/paragould/2810-w-kingshighway,36.0593992,-90.524571,,,w_934749515,"shop=supermarket, brand=ALDI"
+"Jonesboro, AR",,retail,445120,Quick Stop 2,,,,35.9961143,-90.3432428,,,w_1184671409,shop=convenience
+"Jonesboro, AR",,retail,445120,Mr. T's Express,"525 State Highway F, Cardwell, MO, 63829",,,35.9962881,-90.3425469,,,w_1184671413,shop=convenience
+"Jonesboro, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/jonesboro/14873,35.7446312,-90.6921208,,,w_1202609730,"shop=variety_store, brand=Dollar General"
+"Jonesboro, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/paragould/12506,36.0194528,-90.5251327,,,w_1203052384,"shop=variety_store, brand=Dollar General"
+"Jonesboro, AR",,retail,445120,Kum & Go,,,https://www.kumandgo.com/store-locator?details=0349,36.0200487,-90.5265967,,,w_1203052386,"shop=convenience, brand=Kum & Go"
+"Jonesboro, AR",,retail,445110,Walmart Neighborhood Market,"2600 Linwood Drive, Paragould, AR, 72450",+1 870-586-7946,https://www.walmart.com/store/5780-paragould-ar,36.0301971,-90.523232,,,w_1203052391,"shop=supermarket, brand=Walmart"
+"Jonesboro, AR",,retail,452210,American Freight,,,,36.0440825,-90.5101593,,,w_1203052398,"shop=department_store, brand=American Freight"
+"Jonesboro, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/paragould/19979,36.0532053,-90.4595909,,,w_1203052403,"shop=variety_store, brand=Dollar General"
+"Jonesboro, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/paragould/764,36.054208,-90.4879292,,,w_1203052404,"shop=variety_store, brand=Dollar General"
+"Jonesboro, AR",,retail,445120,Kum & Go,,,https://www.kumandgo.com/store-locator?details=0398,36.0606836,-90.5474407,,,w_1203052409,"shop=convenience, brand=Kum & Go"
+"Jonesboro, AR",,retail,452319,Dollar General,,,,36.0602999,-90.5460771,,,w_1203052410,"shop=variety_store, brand=Dollar General"
+"Jonesboro, AR",,retail,445120,Kum & Go,,,https://www.kumandgo.com/store-locator?details=0394,36.0605066,-90.5205577,,,w_1203052420,"shop=convenience, brand=Kum & Go"
+"Jonesboro, AR",,retail,445120,Casey's General Store,,,,36.0569771,-90.5111446,,,w_1203052426,"shop=convenience, brand=Casey's General Store"
+"Jonesboro, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/paragould/17203,36.070328,-90.5002888,,,w_1203052435,"shop=variety_store, brand=Dollar General"
+"Jonesboro, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/paragould/12258,36.1130164,-90.5081542,,,w_1203412397,"shop=variety_store, brand=Dollar General"
+"Jonesboro, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/jonesboro/13093,35.860642,-90.7026019,,,w_1203412404,"shop=variety_store, brand=Dollar General"
+"Jonesboro, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/jonesboro/16160,35.8816103,-90.658647,,,w_1203412405,"shop=variety_store, brand=Dollar General"
+"Jonesboro, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/jonesboro/16228,35.8569888,-90.7719868,,,w_1203412406,"shop=variety_store, brand=Dollar General"
+"Jonesboro, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/swifton/16303,35.8235565,-91.1342925,,,w_1203422434,"shop=variety_store, brand=Dollar General"
+"Jonesboro, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/paragould/21970,36.0711966,-90.6525471,,,w_1204346379,"shop=variety_store, brand=Dollar General"
+"Jonesboro, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/jonesboro/20705,35.8448206,-90.7043925,,,w_1206560123,"shop=variety_store, brand=Dollar General"
+"Jonesboro, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/weiner/18859,35.6257963,-90.8946691,,,w_1216406560,"shop=variety_store, brand=Dollar General"
+"Jonesboro, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/monette/11895,35.8899898,-90.3405112,,,w_1216635960,"shop=variety_store, brand=Dollar General"
+"Jonesboro, AR",,retail,445120,,,,,35.9088421,-90.8021364,,,w_1224806486,shop=convenience
+"Jonesboro, AR",,retail,445120,,,,,35.8145566,-90.7140753,,,w_1225202614,shop=convenience
+"Jonesboro, AR",,retail,445120,,,,,35.8959534,-90.7960954,,,w_1225206450,shop=convenience
+"Jonesboro, AR",,retail,452319,Dollar General,"8144 US 49;AR 1, Brookland, AR, 72417",+15013010520,,35.9106758,-90.5872641,,,w_1253860335,"shop=variety_store, brand=Dollar General"
+"Jonesboro, AR",,retail,445120,Jordan's Kwik Stop,"8039 US 49;AR 1, Brookland, AR, 72417",+18703360701,,35.9069721,-90.5890859,,,w_1253862118,shop=convenience
+"Jonesboro, AR",,retail,445120,,,,,35.8639512,-90.643942,,,w_1287625034,shop=convenience
+"Jonesboro, AR",,retail,445120,Casey's General Store,"401 West Main Street, Walnut Ridge, AR, 72476",,,36.0704418,-90.95932,,,w_1298948620,"shop=convenience, brand=Casey's General Store"
+"Jonesboro, AR",,retail,452319,Dollar Tree,"705 West Main Street, Walnut Ridge, AR, 72476",,,36.0728378,-90.9618384,,,w_1298948622,"shop=variety_store, brand=Dollar Tree"
+"Jonesboro, AR",,retail,445110,Walmart Supercenter,"512 Industrial Park Drive, Trumann, AR, 72472",+1 870-483-1971,https://www.walmart.com/store/229-trumann-ar,35.6815886,-90.5498403,,,w_1311908070,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Jonesboro, AR",,retail,445110,Walmart Supercenter,"2802 West Kingshighway, Paragould, AR, 72450",+1 870-236-9707,https://www.walmart.com/store/36-paragould-ar,36.0572837,-90.5228762,,,w_1311908377,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Jonesboro, AR",,retail,452210,JCPenney,"3000 East Highland Drive, Jonesboro, AR, 72401",,,35.8227345,-90.6653538,,,w_1338212852,"shop=department_store, brand=JCPenney"
+"Jonesboro, AR",,retail,452210,Dillard's,"3000 East Highland Drive, Jonesboro, AR, 72401",,,35.8231838,-90.6613206,,,w_1338212853,"shop=department_store, brand=Dillard's"
+"Jonesboro, AR",,retail,445110,Hays Supermarket,"402 East Kings Highway, Paragould, AR",,,36.0518361,-90.4820006,,,w_1383519541,shop=supermarket
+"Jonesboro, AR",,retail,445120,Citgo,"4673 Highway 18 South, Cash, AR, 72421",,,35.793963,-90.9361745,,,w_1388034733,"shop=convenience, brand=Citgo"
+"Jonesboro, AR",,retail,452319,Brookland Sales Inc.,"8159 US 49;AR 1, Brookland, AR, 72417",+18709338240,,35.9114393,-90.589028,,,w_1415324449,shop=general

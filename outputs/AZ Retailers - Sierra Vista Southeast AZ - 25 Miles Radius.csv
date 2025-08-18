@@ -1,0 +1,64 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Sierra Vista Southeast, AZ",,retail,445110,Commissary,,,,31.5584081,-110.3506703,,,n_663041632,shop=supermarket
+"Sierra Vista Southeast, AZ",,retail,452210,Post Exchange,,,,31.5569132,-110.3527062,,,n_663041731,shop=department_store
+"Sierra Vista Southeast, AZ",,retail,445120,Circle K,,,,31.4444454,-109.923781,,,n_1812916823,"shop=convenience, brand=Circle K"
+"Sierra Vista Southeast, AZ",,retail,445120,Parker Canyon Lake Store,"9000 South Parker Canyon Road, Elgin, AZ, 85611",+1-520-331-3318,http://www.parkercanyonlake.com/,31.4244289,-110.4487992,,,n_1962792657,shop=convenience
+"Sierra Vista Southeast, AZ",,retail,445120,Circle K,,,,31.5543111,-110.3001465,,,n_2222764683,"shop=convenience, brand=Circle K"
+"Sierra Vista Southeast, AZ",,retail,452319,Dollar Tree,"521 North Highway 90 Bypass, Sierra Vista, AZ, 85635",+1 520 439-4715,https://www.dollartree.com/locations/az/sierra-vista/2682/,31.5605051,-110.253708,,,n_2578702784,"shop=variety_store, brand=Dollar Tree"
+"Sierra Vista Southeast, AZ",,retail,445120,Speedway,"5620 South Highway 92, Hereford, AZ, 85615",,https://www.speedway.com/locations/AZ/Hereford/5620-S-Highway-92,31.4668751,-110.2583828,,,n_2957318220,"shop=convenience, brand=Speedway"
+"Sierra Vista Southeast, AZ",,retail,445110,Fry's Food and Drug,"4351 East Highway 90, Sierra Vista, AZ, 85635",+1 520-458-0989,https://www.frysfood.com/stores/grocery/az/sierra-vista/fry-blvd-hwy-90-bypass/660/00059,31.5562186,-110.2535455,,,n_2960336608,"shop=supermarket, brand=Fry's Food and Drug"
+"Sierra Vista Southeast, AZ",,retail,445310,Village of Elgin Winery,,,,31.6608268,-110.5261304,,,n_3473590785,shop=alcohol
+"Sierra Vista Southeast, AZ",,retail,445110,Safeway,"2190 East Fry Boulevard, Sierra Vista, AZ, 85635",+1 520-459-4204,https://local.safeway.com/safeway/az/sierra-vista/2190-e-fry-blvd.html,31.5530091,-110.2758681,,,n_3880926786,"shop=supermarket, brand=Safeway"
+"Sierra Vista Southeast, AZ",,retail,445110,Safeway,"101 Naco Road, Bisbee, AZ, 85603",+1 520-432-3038,https://local.safeway.com/safeway/az/bisbee/101-naco-hwy.html,31.4012044,-109.9173271,,,n_4335719649,"shop=supermarket, brand=Safeway"
+"Sierra Vista Southeast, AZ",,retail,452319,99 Cent Store,,,,31.5557988,-110.2759472,,,n_5035613108,shop=variety_store
+"Sierra Vista Southeast, AZ",,retail,452210,Ross,"575 North Highway 90 Bypass, Sierra Vista, AZ, 85635",+1 520-439-0890,,31.5611378,-110.2535749,,,n_5035615033,"shop=department_store, brand=Ross"
+"Sierra Vista Southeast, AZ",,retail,445110,Food City,"Sierra Vista, AZ, 85635",+1 520-439-6080,https://www.mifoodcity.com/store/111,31.5534721,-110.2549079,,,n_5035649918,"shop=supermarket, brand=Food City"
+"Sierra Vista Southeast, AZ",,retail,445120,Canyon General Gas Station,,,,31.3791054,-110.1496578,,,n_5298314484,"shop=convenience, amenity=fuel"
+"Sierra Vista Southeast, AZ",,retail,445120,Circle K,"3731 South Highway 92, Sierra Vista, AZ, 85650",,,31.5012766,-110.256462,,,n_5597364543,"shop=convenience, brand=Circle K"
+"Sierra Vista Southeast, AZ",,retail,452319,Family Dollar,,,,31.4007005,-109.9173391,,,n_6927736234,"shop=variety_store, brand=Family Dollar"
+"Sierra Vista Southeast, AZ",,retail,445120,Speedway,"906 West Highway 92, Bisbee, AZ, 85603",,https://www.speedway.com/locations/AZ/Bisbee/906-W-Highway-92,31.4023525,-109.9183638,,,n_9160953523,"shop=convenience, brand=Speedway"
+"Sierra Vista Southeast, AZ",,retail,445120,Good 2 Go,"2632 East Fry Boulevard, Sierra Vista, AZ, 85635",+1 520 458 3580,,31.554168,-110.271931,,,n_9168508455,"shop=convenience, brand=Good 2 Go"
+"Sierra Vista Southeast, AZ",,retail,445120,Speedway,"1497 East Fry Boulevard, Sierra Vista, AZ, 85636",,https://www.speedway.com/locations/AZ/Sierra-Vista/1497-E-Fry-Blvd,31.5551724,-110.2824651,,,n_9168508457,"shop=convenience, brand=Speedway"
+"Sierra Vista Southeast, AZ",,retail,445120,Speedway,"5217 South Highway 92, Sierra Vista, AZ, 85635",,https://www.speedway.com/locations/AZ/Sierra-Vista/5217-S-Highway-92,31.4743734,-110.2568988,,,n_9168560785,"shop=convenience, brand=Speedway"
+"Sierra Vista Southeast, AZ",,retail,452319,Dollar General,"4053 South Highway 92, Sierra Vista, AZ, 85650",,https://www.dollargeneral.com/store-directory/az/sierra-vista/5856,31.494837,-110.2567546,,,n_9168560814,"shop=variety_store, brand=Dollar General"
+"Sierra Vista Southeast, AZ",,retail,445310,Sonoita Vineyards,"290 Elgin Canelo Road, Elgin, AZ, 85611",,https://www.sonoitavineyards.com/,31.6234484,-110.5483086,,,n_9248352978,shop=wine
+"Sierra Vista Southeast, AZ",,retail,445310,Callaghan Vineyards,"336 Elgin Road, Elgin, AZ, 85611",,https://www.callaghanvineyards.com/,31.659424,-110.5502221,,,n_9248376820,shop=wine
+"Sierra Vista Southeast, AZ",,retail,453110,Friendly Flowers and More,"101 East Fremont Street, Tombstone, AZ, 85638",+15204448280,https://www.friendlyflowersandmore.com/,31.7146695,-110.0698893,,,n_9923081094,shop=florist
+"Sierra Vista Southeast, AZ",,retail,445310,The Beverage House,"3888 East Fry Boulevard, Sierra Vista, AZ, 85635",,,31.5532719,-110.2584843,,,n_12580542847,shop=beverages
+"Sierra Vista Southeast, AZ",,retail,445110,Building 61610,,,,31.5584196,-110.3506525,,,w_52004173,shop=supermarket
+"Sierra Vista Southeast, AZ",,retail,452210,Target,"4151 East Highway 90, Sierra Vista, AZ, 85635",+1 520-452-0035,https://www.target.com/sl/sierra-vista/735,31.5562644,-110.2557413,,,w_55618488,"shop=department_store, brand=Target"
+"Sierra Vista Southeast, AZ",,retail,445110,Walmart Supercenter,"500 North Highway 90 Bypass, Sierra Vista, AZ, 85635",+1 520-458-8790,https://www.walmart.com/store/1240-sierra-vista-az,31.5601058,-110.2604738,,,w_160734127,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Sierra Vista Southeast, AZ",,retail,452210,Dillard's,,+1 520-515-0151,https://www.dillards.com/stores/arizona/the-mall-at-sierra-vista-sierra-vista/0919,31.530621,-110.2598093,,,w_168925306,"shop=department_store, brand=Dillard's"
+"Sierra Vista Southeast, AZ",,retail,445120,Circle K,,,,31.5282361,-110.2896463,,,w_168997466,"shop=convenience, brand=Circle K"
+"Sierra Vista Southeast, AZ",,retail,445110,Bisbee Food Co-op,,,,31.4309968,-109.8945401,,,w_169059751,shop=supermarket
+"Sierra Vista Southeast, AZ",,retail,445120,Valero,,,,31.5550998,-110.2585296,,,w_169134640,"shop=convenience, brand=Valero"
+"Sierra Vista Southeast, AZ",,retail,452319,Dollar Tree,,,,31.5532846,-110.2909502,,,w_188107086,"shop=variety_store, brand=Dollar Tree"
+"Sierra Vista Southeast, AZ",,retail,445110,Sierra Vista Natural Foods Cooperative,,,,31.5532486,-110.3002833,,,w_188130730,shop=supermarket
+"Sierra Vista Southeast, AZ",,retail,445120,Circle K,,,,31.5558307,-110.3055375,,,w_212427528,"shop=convenience, brand=Circle K"
+"Sierra Vista Southeast, AZ",,retail,445310,Sarsparilla Emporium,"69 South 3rd Street, Tombstone, AZ, 85638",,,31.7136254,-110.0682465,,,w_244780341,shop=beverages
+"Sierra Vista Southeast, AZ",,retail,445120,Food Mart,"2222 North Highway 90, Huachuca City, AZ, 85616",,,31.6921324,-110.3492487,,,w_249662871,shop=convenience
+"Sierra Vista Southeast, AZ",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/az/huachuca-city/7335,31.629052,-110.3361427,,,w_259742788,"shop=variety_store, brand=Dollar General"
+"Sierra Vista Southeast, AZ",,retail,452319,Family Dollar,,,,31.6284557,-110.334907,,,w_259742824,"shop=variety_store, brand=Family Dollar"
+"Sierra Vista Southeast, AZ",,retail,445120,Good to Go,,,,31.4114351,-109.8784515,,,w_315620385,shop=convenience
+"Sierra Vista Southeast, AZ",,retail,445120,High Desert Market,,,,31.4433696,-109.9202415,,,w_321495822,shop=convenience
+"Sierra Vista Southeast, AZ",,retail,446110,Walgreens,"1950 East Fry Boulevard, Sierra Vista, AZ, 85635",,https://www.walgreens.com/locator/walgreens-1950+e+fry+blvd-sierra+vista-az-85635/id=5027,31.5540291,-110.2781514,,,w_387016752,"shop=chemist, brand=Walgreens"
+"Sierra Vista Southeast, AZ",,retail,452319,Dollar General,"1756 S Hwy 92, Sierra Vista, AZ, 85650",,https://www.dollargeneral.com/store-directory/az/hereford/16206,31.4389276,-110.2497633,,,w_390868770,"shop=variety_store, brand=Dollar General"
+"Sierra Vista Southeast, AZ",,retail,445120,Canyon General,,,,31.436897,-110.2480566,,,w_414874608,shop=convenience
+"Sierra Vista Southeast, AZ",,retail,445120,Doc's,,,,31.535249,-110.2581392,,,w_426686132,shop=convenience
+"Sierra Vista Southeast, AZ",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/az/bisbee/11124,31.400078,-109.9197271,,,w_436396560,"shop=variety_store, brand=Dollar General"
+"Sierra Vista Southeast, AZ",,retail,445120,Circle K,"200 South Highway 92, Sierra Vista, AZ, 85635",,,31.552602,-110.2582252,,,w_451470937,"shop=convenience, brand=Circle K"
+"Sierra Vista Southeast, AZ",,retail,445120,,,,,31.5596339,-110.2917888,,,w_465726717,shop=convenience
+"Sierra Vista Southeast, AZ",,retail,445120,Giant,,,,31.5538426,-110.2412581,,,w_515682921,shop=convenience
+"Sierra Vista Southeast, AZ",,retail,446120,Ulta Beauty,"501 Highway 90, Sierra Vista, AZ, 85635",+1 520-685-1671,https://www.ulta.com/stores/sierra-vista-az-1472,31.5595679,-110.2548245,,,w_700446437,"shop=cosmetics, brand=Ulta Beauty"
+"Sierra Vista Southeast, AZ",,retail,452319,Family Dollar,"4155 South Highway 92, Sierra Vista, AZ, 85650",,,31.4931091,-110.2566712,,,w_705631753,"shop=variety_store, brand=Family Dollar"
+"Sierra Vista Southeast, AZ",,retail,453110,,,,,31.396457,-109.9304529,,,w_734282004,shop=florist
+"Sierra Vista Southeast, AZ",,retail,445120,,,,,31.3971984,-109.929062,,,w_734282006,shop=convenience
+"Sierra Vista Southeast, AZ",,retail,445310,Bisbee Beverage,,,,31.3985148,-109.9264656,,,w_734282013,shop=beverages
+"Sierra Vista Southeast, AZ",,retail,452319,Bisbee Office Supply,,,,31.4004736,-109.9193324,,,w_739867435,shop=general
+"Sierra Vista Southeast, AZ",,retail,452319,Family Dollar,"208 North Sumner Street, Tombstone, AZ, 85638",(520) 457-4001,,31.7173455,-110.0693772,,,w_902862499,"shop=variety_store, brand=Family Dollar"
+"Sierra Vista Southeast, AZ",,retail,445120,Ike's Mini Market,"117 East Fremont Street, Tombstone, AZ, 85638",,,31.7143695,-110.0692408,,,w_902875525,shop=convenience
+"Sierra Vista Southeast, AZ",,retail,445120,Apache Market,"1007 East Fremont Street, Tombstone, AZ, 85638",(520) 457-9294,https://www.facebook.com/ApacheMarket,31.7110569,-110.0597785,,,w_903202796,shop=convenience
+"Sierra Vista Southeast, AZ",,retail,445120,Canyon General,"9500 East State Route 92, Hereford, AZ, 85615",+1-520-366-5640,,31.3790453,-110.1496514,,,w_1112495078,"shop=convenience, amenity=fuel"
+"Sierra Vista Southeast, AZ",,retail,452319,Dollar General,"9527 East State Route 92, Hereford, AZ, 85615",+1-520-497-1311,https://www.dollargeneral.com/store-directory/az/hereford/22613,31.3804646,-110.1498532,,,w_1112506133,"shop=variety_store, brand=Dollar General"
+"Sierra Vista Southeast, AZ",,retail,445120,Circle K,"15 West Bruce Street, Tombstone, AZ, 85638",+1-520-412-3144,https://www.circlek.com/store-locator/US/tombstone/15-w-bruce-st/2709536,31.7169476,-110.0708729,,,w_1157806110,"shop=convenience, brand=Circle K"
+"Sierra Vista Southeast, AZ",,retail,452319,Dollar General,,,,31.5539821,-110.240205,,,w_1391293670,"shop=variety_store, brand=Dollar General"

@@ -1,0 +1,29 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Clanton, AL",,retail,445230,,,,,32.6911199,-86.7957566,,,n_1429046724,shop=greengrocer
+"Clanton, AL",,retail,445230,,,,,32.8008797,-86.9140101,,,n_1429046726,shop=greengrocer
+"Clanton, AL",,retail,445120,Food Mart,"2241 7th Street South, Clanton, 35045",,,32.8008634,-86.5765696,,,n_2505394234,"shop=convenience, amenity=fuel"
+"Clanton, AL",,retail,445120,Jet-Pep,"2261 7th Street South, Clanton, AL, 35045",,,32.8001978,-86.5753002,,,n_2505394238,"shop=convenience, amenity=fuel"
+"Clanton, AL",,retail,445120,Texaco,"2320 7th Street South, Clanton, AL, 35045",,,32.7996424,-86.5731948,,,n_2505394243,"shop=convenience, amenity=fuel"
+"Clanton, AL",,retail,445120,Coosa Mart,"1669 Highway 31 North, Pratville, AL, 36022",,,32.547099,-86.4580469,,,n_2505394266,"shop=convenience, amenity=fuel, brand=BP"
+"Clanton, AL",,retail,445110,Publix,"90 Marketplace Circle, Calera, AL, 35040",+1 205-668-3585,https://www.publix.com/locations/1281,33.1555779,-86.7485346,,,n_2760034105,"shop=supermarket, brand=Publix"
+"Clanton, AL",,retail,445110,Lucky's FoodLand,"4000 AL 25, Montevallo, AL, 35115",+1 205-665-5124,,33.0917618,-86.8648624,,,n_12500584535,"shop=supermarket, brand=FoodLand"
+"Clanton, AL",,retail,445120,,,,,32.8442319,-86.5978016,,,n_12535243385,shop=convenience
+"Clanton, AL",,retail,445120,Loves' #368,,,,32.844847,-86.5915783,,,w_220383386,shop=convenience
+"Clanton, AL",,retail,445120,,,,,32.5384279,-86.45591,,,w_534126175,shop=convenience
+"Clanton, AL",,retail,445120,Circle K,,,,33.1804395,-86.6153225,,,w_569166394,"shop=convenience, brand=Circle K"
+"Clanton, AL",,retail,445110,Piggly Wiggly,"211 West College Street, Columbiana, AL, 35051",+1 205-669-9916,,33.1791063,-86.6133071,,,w_569166397,"shop=supermarket, brand=Piggly Wiggly"
+"Clanton, AL",,retail,445310,ABC Beverages,,,,33.1793324,-86.6139413,,,w_569166399,shop=alcohol
+"Clanton, AL",,retail,445120,,,,,33.1783649,-86.6050588,,,w_690258115,shop=convenience
+"Clanton, AL",,retail,445110,Walmart Supercenter,"5100 U.S. 31, Calera, AL, 35040",+1 205-668-0831,https://www.walmart.com/store/3271-calera-al,33.1464208,-86.7518383,,,w_807671039,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Clanton, AL",,retail,445120,Headley,,,,32.8862102,-86.6245443,,,w_824722010,shop=convenience
+"Clanton, AL",,retail,445110,Piggly Wiggly,"24716 US-31, Jemison, AL, 35085",+1 205-688-2477,,32.9591894,-86.7420219,,,w_1069806466,"shop=supermarket, brand=Piggly Wiggly"
+"Clanton, AL",,retail,446110,Hayes Drug,"24724 US-31, Jemison, AL, 35085",,,32.9594803,-86.7421703,,,w_1069806470,shop=chemist
+"Clanton, AL",,retail,452319,Dollar General,"8898 County Road 42 East, Jemison, AL, 35085",,https://www.dollargeneral.com/store-directory/al/jemison/8862,32.9583581,-86.742272,,,w_1069806472,"shop=variety_store, brand=Dollar General"
+"Clanton, AL",,retail,452319,Dollar General,"110 Cedar Street, Montevallo, AL, 35115",,https://www.dollargeneral.com/store-directory/al/montevallo/4962,33.0928915,-86.86227,,,w_1154319432,"shop=variety_store, brand=Dollar General"
+"Clanton, AL",,retail,445120,,,,,33.139679,-86.7519431,,,w_1154360283,shop=convenience
+"Clanton, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/calera/1881/,33.1483036,-86.748558,,,w_1154360324,"shop=variety_store, brand=Dollar Tree"
+"Clanton, AL",,retail,445110,Maplesville Supermarket,"8331 Alabama Highway 22, Maplesville, AL, 36750",,,32.7736297,-86.8757609,,,w_1161544401,shop=supermarket
+"Clanton, AL",,retail,452319,Dollar General,"8331 Alabama Highway 22, Maplesville, AL, 36750",,https://www.dollargeneral.com/store-directory/al/maplesville/1000,32.7732405,-86.8761273,,,w_1161544402,"shop=variety_store, brand=Dollar General"
+"Clanton, AL",,retail,452319,Dollar General,,,,33.0755627,-86.5715285,,,w_1263564433,"shop=variety_store, brand=Dollar General"
+"Clanton, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/columbiana-al-pharmacies/227-west-college-st-columbiana-al-35051/storeid=4866,33.1792015,-86.6146782,,,w_1263564449,"shop=chemist, brand=CVS Pharmacy"
+"Clanton, AL",,retail,445110,Walmart Supercenter,"1415 7th Street South, Clanton, AL, 35045",+1 205-755-7574,https://www.walmart.com/store/424-clanton-al,32.8167395,-86.6093644,,,w_1311909801,"shop=supermarket, brand=Walmart, operator=Walmart"

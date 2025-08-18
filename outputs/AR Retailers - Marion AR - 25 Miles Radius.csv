@@ -1,0 +1,53 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Marion, AR",,retail,445120,,,,,36.1400051,-93.1220775,,,n_1179021730,shop=convenience
+"Marion, AR",,retail,445110,Hudsons,,,,36.2359199,-93.1067267,,,n_1179052574,shop=supermarket
+"Marion, AR",,retail,445120,,,,,36.2336266,-93.1304642,,,n_1179180183,shop=convenience
+"Marion, AR",,retail,445110,Cash Saver 870,,,,36.2297633,-93.0988437,,,n_1179457965,shop=supermarket
+"Marion, AR",,retail,445110,,,,,36.2490137,-93.1147787,,,n_1179663982,shop=supermarket
+"Marion, AR",,retail,445120,On the Run,,,,36.3326516,-92.3802109,,,n_1258813039,"shop=convenience, brand=On the Run"
+"Marion, AR",,retail,453991,Elite Vapor Pro,"1320 A3 HWY 62-65 N
+Harrison, AR 72601",870-204-6051,https://www.elitevaporpros.com/,36.2646262,-93.1376849,,,n_6715759954,shop=tobacco
+"Marion, AR",,retail,452210,Sears,"1320 North Main Street
+Harrison, AR 72601",(870) 741-5466,http://www.searshometownstores.com/home/ar/harrison/3127,36.2457441,-93.1170904,,,n_6727503116,shop=department_store
+"Marion, AR",,retail,452210,Vintage Market,"6988 US-62, 72635",,,36.2896457,-92.4736543,,,n_9644543017,shop=department_store
+"Marion, AR",,retail,452210,Goodwill,"759 US-62 E, 72653",870-508-0040,,36.3478702,-92.3755695,,,n_9645839217,shop=department_store
+"Marion, AR",,retail,446120,Heavenly Beauty Salon,,,,36.4188288,-92.9130273,,,n_10056028865,shop=beauty
+"Marion, AR",,retail,453110,Hodge Podge Floral & Gift Boutique,,,,36.4201577,-92.9145391,,,n_10082533986,shop=florist
+"Marion, AR",,retail,452210,Big Lots,"759 Highway 62 East, Mountain Home, AR, 72653",+1 870-425-3017,https://local.biglots.com/ar/mountain-home/759-hwy-62-e,36.3496008,-92.3764565,,,n_11048624672,"shop=department_store, brand=Big Lots"
+"Marion, AR",,retail,445310,,,,,36.344664,-92.378651,,,n_11048624680,shop=alcohol
+"Marion, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/mountain-home/1065,36.3433609,-92.3825399,,,n_11048624683,"shop=variety_store, brand=Dollar General"
+"Marion, AR",,retail,446110,Walgreens,"Mountain Home, AR, 72653",,https://www.walgreens.com/locator/walgreens-350+highway+62+e-mountain+home-ar-72653/id=9743,36.3420618,-92.3815702,,,n_11048624684,"shop=chemist, brand=Walgreens"
+"Marion, AR",,retail,445120,Snappy Mart,,,,36.3406357,-92.3857085,,,n_11048624688,shop=convenience
+"Marion, AR",,retail,445120,Casey's General Store,,,,36.3404006,-92.3874487,,,n_11048684907,"shop=convenience, brand=Casey's General Store"
+"Marion, AR",,retail,445120,Lones,,,,36.3439013,-92.3366012,,,n_11164480461,shop=convenience
+"Marion, AR",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ar/mountain-home/2467/,36.3562363,-92.3383087,,,n_11164480710,"shop=variety_store, brand=Dollar Tree"
+"Marion, AR",,retail,445120,Snappy Mart,,,,36.3674914,-92.5466787,,,n_11164481139,shop=convenience
+"Marion, AR",,retail,446191,Nature's Wonders,"910A US 62, 72601",,,36.2548652,-93.1232564,,,n_12856205601,shop=health_food
+"Marion, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/gassville/7265,36.2836427,-92.4949568,,,w_246375750,"shop=variety_store, brand=Dollar General"
+"Marion, AR",,retail,445110,Sunfest,"119 West Main Street, Gassville, AR, 72635",+18704356180,https://www.gwfoodsinc.com/,36.282686,-92.4960927,,,w_246375751,shop=supermarket
+"Marion, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/yellville/11130,36.2265368,-92.6871836,,,w_430215599,"shop=variety_store, brand=Dollar General"
+"Marion, AR",,retail,445110,Harp's,,,,36.2264111,-92.6836507,,,w_430215601,shop=supermarket
+"Marion, AR",,retail,445110,Walmart Supercenter,"168 Walmart Drive, Flippin, AR, 72634",+1-870-453-2211,https://www.walmart.com/store/1147-flippin-ar,36.2752774,-92.6045654,,,w_908562023,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Marion, AR",,retail,445110,ALDI,"1105 Highway 62/65 North, Harrison, AR, 72601",+1 855-955-2534,https://stores.aldi.us/ar/harrison/1105-hwy-62-65-north,36.2591032,-93.1254587,,,w_934748056,"shop=supermarket, brand=ALDI"
+"Marion, AR",,retail,445310,Gravity BrewWorks,"11512 Highway 14 East, Big Flat, AR, 72617",8704482077,http://gravitybrewworks.com,36.0083015,-92.3788361,,,w_997334586,shop=beverages
+"Marion, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/harrison/12468,36.2345305,-93.1326315,,,w_1060184374,"shop=variety_store, brand=Dollar General"
+"Marion, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/harrison/3943,36.258897,-93.1274155,,,w_1060187684,"shop=variety_store, brand=Dollar General"
+"Marion, AR",,retail,445110,Walmart Supercenter,"161 North Walmart Drive, Harrison, AR, 72601",+1 870-365-8400,https://www.walmart.com/store/2-harrison-ar,36.269002,-93.139044,,,w_1060189287,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Marion, AR",,retail,452319,Dollar General,6403 Highway 5 North,,https://www.dollargeneral.com/store-directory/ar/midway/13974,36.385521,-92.4609129,,,w_1158548008,"shop=variety_store, brand=Dollar General"
+"Marion, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/salesville/12843,36.2464539,-92.2709555,,,w_1203898648,"shop=variety_store, brand=Dollar General"
+"Marion, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/mountain-home/16707,36.3026026,-92.3356241,,,w_1204590150,"shop=variety_store, brand=Dollar General"
+"Marion, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/mountain-home/22161,36.3281133,-92.3903868,,,w_1204590151,"shop=variety_store, brand=Dollar General"
+"Marion, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/mountain-home/13772,36.3738843,-92.3179516,,,w_1204590153,"shop=variety_store, brand=Dollar General"
+"Marion, AR",,retail,445110,Walmart Supercenter,"65 Wal Mart Drive, Mountain Home, AR, 72653",+1 870-492-9299,https://www.walmart.com/store/11-mountain-home-ar,36.3549454,-92.3408716,,,w_1204590178,"shop=supermarket, brand=Walmart"
+"Marion, AR",,retail,452210,American Freight,,,,36.3536906,-92.3557415,,,w_1204590203,"shop=department_store, brand=American Freight"
+"Marion, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/lakeview/23578,36.3673486,-92.550458,,,w_1204590215,"shop=variety_store, brand=Dollar General"
+"Marion, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/bull-shoals/7980,36.3747798,-92.6014349,,,w_1204643856,"shop=variety_store, brand=Dollar General"
+"Marion, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/lead-hill/11014,36.4054103,-92.9045335,,,w_1204643857,"shop=variety_store, brand=Dollar General"
+"Marion, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/pyatt/22582,36.243514,-92.8440053,,,w_1204643865,"shop=variety_store, brand=Dollar General"
+"Marion, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/saint-joe/19424,36.0282574,-92.8000147,,,w_1204643870,"shop=variety_store, brand=Dollar General"
+"Marion, AR",,retail,452319,Family Dollar,,,,35.9087482,-92.66177,,,w_1204643877,"shop=variety_store, brand=Family Dollar"
+"Marion, AR",,retail,445110,Harps,,,,35.9104914,-92.6499689,,,w_1204643878,"shop=supermarket, brand=Harps"
+"Marion, AR",,retail,452319,Dollar General,"Marshall, AR, 72650",,https://www.dollargeneral.com/store-directory/ar/marshall/971,35.9108076,-92.6441263,,,w_1204643879,"shop=variety_store, brand=Dollar General"
+"Marion, AR",,retail,452319,Dollar General,"Harrison, AR, 72601",,https://www.dollargeneral.com/store-directory/ar/harrison/16876,36.1382835,-93.1216877,,,w_1204713343,"shop=variety_store, brand=Dollar General"
+"Marion, AR",,retail,452319,The Old Snowball House,,,,35.9068339,-92.8215612,,,w_1357454744,shop=general
+"Marion, AR",,retail,445120,Phillips 66,,,,36.2442925,-93.109303,,,w_1418218868,"shop=convenience, brand=Phillips 66"

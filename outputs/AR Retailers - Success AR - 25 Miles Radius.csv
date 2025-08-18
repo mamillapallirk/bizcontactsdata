@@ -1,0 +1,14 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Success, AR",,retail,452319,Carroll's Variety Store,,,,36.2610464,-90.9697679,,,n_3362592989,shop=variety_store
+"Success, AR",,retail,446120,Studio B Salon and Dayspa,,,,36.2619166,-90.9701305,,,n_3362592994,"shop=beauty, operator=Brittany Steimel"
+"Success, AR",,retail,445110,Harps Food Store,"1609 North Thomasville Street, Pocahontas, AR, 72455",,,36.2723963,-90.9757761,,,n_6936032864,shop=supermarket
+"Success, AR",,retail,445120,Casey's General Store,"403 Washington Street, Doniphan, MO, 63935",,,36.6179405,-90.8224483,,,n_8710729803,"shop=convenience, brand=Casey's General Store"
+"Success, AR",,retail,452319,Dollar General,"Pocahontas, AR, 72455",,https://www.dollargeneral.com/store-directory/ar/pocahontas/19434,36.2548976,-90.9731431,,,n_11160235301,"shop=variety_store, brand=Dollar General"
+"Success, AR",,retail,452319,Dollar Tree,,,,36.2500358,-90.9608839,,,n_11984568820,"shop=variety_store, brand=Dollar Tree"
+"Success, AR",,retail,445120,,,,,36.7288805,-90.4596665,,,n_12679782185,shop=convenience
+"Success, AR",,retail,445110,Walmart Supercenter,"1415 Highway 67 South, Pocahontas, AR, 72455",+1 870-892-7703,https://www.walmart.com/store/71-pocahontas-ar,36.2487424,-90.9633526,,,w_480306546,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Success, AR",,retail,445110,Town & Country Supermarket,,,,36.6219427,-90.8349717,,,w_940555022,shop=supermarket
+"Success, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/pocahontas/14855,36.256619,-91.0455287,,,w_1203961632,"shop=variety_store, brand=Dollar General"
+"Success, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/corning/1061,36.4130313,-90.5853332,,,w_1204086333,"shop=variety_store, brand=Dollar General"
+"Success, AR",,retail,445120,,,,,36.2381893,-90.9572193,,,w_1421967332,shop=convenience
+"Success, AR",,retail,445120,,,,,36.2392467,-90.9589757,,,w_1421967333,shop=convenience

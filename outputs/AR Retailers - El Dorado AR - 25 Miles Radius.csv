@@ -1,0 +1,18 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"El Dorado, AR",,retail,445110,Brookshire's,"2202 North West Avenue, El Dorado, AR, 71730",+1-870-862-8381,,33.2345763,-92.6663619,,,n_6106864103,"shop=supermarket, brand=Brookshire's"
+"El Dorado, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/el-dorado/745,33.234018,-92.6648447,,,n_6106864106,"shop=variety_store, brand=Dollar General"
+"El Dorado, AR",,retail,445120,Missile Mart,,,,33.2580569,-92.6451856,,,n_11099177195,shop=convenience
+"El Dorado, AR",,retail,445120,Break Time,,,,33.3296739,-92.551429,,,n_11099177224,shop=convenience
+"El Dorado, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/camden/980,33.5347655,-92.8499754,,,n_11129854420,"shop=variety_store, brand=Dollar General"
+"El Dorado, AR",,retail,445120,Missile Mart,,,,33.2085906,-92.7207236,,,n_11132263454,shop=convenience
+"El Dorado, AR",,retail,452319,Dollar General,"3711 Highway 15, Spearsville, LA, 71277",,,32.9069647,-92.5206611,,,n_12223900070,"shop=variety_store, brand=Dollar General"
+"El Dorado, AR",,retail,445110,Brookshire's,"220 South West Avenue, El Dorado, TX, 71730",+1-870-863-4081,,33.2105747,-92.6662453,,,w_651192372,"shop=supermarket, brand=Brookshire's"
+"El Dorado, AR",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-2135+n+west+ave-el+dorado-ar-71730/id=10198,33.2326111,-92.6650493,,,w_878846708,"shop=chemist, brand=Walgreens"
+"El Dorado, AR",,retail,445110,Brookshire's,,,,33.2345163,-92.6661682,,,w_878846711,"shop=supermarket, brand=Brookshire's"
+"El Dorado, AR",,retail,445110,Walmart Supercenter,"2730 North West Avenue, El Dorado, AR, 71730",+1 870-862-2128,https://www.walmart.com/store/530-el-dorado-ar,33.2420895,-92.6686833,,,w_878846716,"shop=supermarket, brand=Walmart, operator=Walmart"
+"El Dorado, AR",,retail,445210,Rajun' Cajun Deer Processing,,,,33.2195167,-92.8695932,,,w_1004817631,shop=butcher
+"El Dorado, AR",,retail,445120,Express Way,,,,33.2084499,-92.7307642,,,w_1004817635,shop=convenience
+"El Dorado, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/el-dorado/2797,33.208017,-92.676032,,,w_1004817663,"shop=variety_store, brand=Dollar General"
+"El Dorado, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/el-dorado/19000,33.2809633,-92.6677355,,,w_1196032244,"shop=variety_store, brand=Dollar General"
+"El Dorado, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/el-dorado/17231,33.1727416,-92.7190256,,,w_1200618354,"shop=variety_store, brand=Dollar General"
+"El Dorado, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/hampton/3370,33.5310868,-92.4693391,,,w_1200860573,"shop=variety_store, brand=Dollar General"

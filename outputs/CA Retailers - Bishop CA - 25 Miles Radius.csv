@@ -1,0 +1,32 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Bishop, CA",,retail,445110,Carrolls Market,,,,37.1656987,-118.2893348,,,n_1941035623,shop=supermarket
+"Bishop, CA",,retail,445110,Smart & Final,,,,37.3734019,-118.394697,,,n_3221988857,"shop=supermarket, brand=Smart & Final"
+"Bishop, CA",,retail,445310,Mountain Rambler Brewery,"186 South Main Street, Bishop, CA, 93514",760-258-1348,https://www.mountainramblerbrewery.com/,37.3606708,-118.3944494,,,n_5732809527,shop=alcohol
+"Bishop, CA",,retail,445120,Speedway,"466 South Main Street, Bishop, CA, 93514",,,37.3573535,-118.394407,,,n_5830979498,"shop=convenience, brand=Speedway"
+"Bishop, CA",,retail,445110,Mahogany smoked meats,"2345 North Sierra Highway, 93514",7608735311,https://smokedmeats.com/,37.3760108,-118.4176885,,,n_6510421886,shop=supermarket
+"Bishop, CA",,retail,446120,Helena's Nail Spa,,,,37.3630588,-118.3951299,,,n_8788135060,shop=beauty
+"Bishop, CA",,retail,452319,The South Fork Store & Gift Shop,,,,37.1853595,-118.557879,,,n_9160762291,shop=general
+"Bishop, CA",,retail,445110,Blue Lupine,"192 West Line Street, Bishop, CA, 93514",,,37.3612173,-118.3961078,,,n_9937990320,shop=supermarket
+"Bishop, CA",,retail,452319,Family Dollar,"201 South Main Street, Bishop, CA, 93514",7607846018,,37.3604065,-118.3954846,,,n_10647675952,"shop=variety_store, brand=Family Dollar"
+"Bishop, CA",,retail,446120,Coso Playa Advanced Aesthetics by Holly Rossi,"115 West Line Street, Bishop, CA, 93514",7609377282,,37.3615407,-118.3954792,,,n_10647675956,shop=beauty
+"Bishop, CA",,retail,452319,,,,,37.4695586,-118.722977,,,n_10676446533,shop=general
+"Bishop, CA",,retail,452319,,,,,37.4576363,-118.7348981,,,n_10678634057,shop=general
+"Bishop, CA",,retail,452319,,,,,37.2124374,-118.6140378,,,n_10681200671,shop=general
+"Bishop, CA",,retail,452319,Bishop Creek Lodge Store,,,,37.2340912,-118.566433,,,n_10681524709,shop=general
+"Bishop, CA",,retail,452319,Cardinal Village Resort Store,,,,37.2320753,-118.5995646,,,n_10681524756,shop=general
+"Bishop, CA",,retail,452319,Glacier Lodge General Store,,,,37.1238193,-118.4369306,,,n_11081478910,shop=general
+"Bishop, CA",,retail,452319,Creekside RV Park General Store,,,,37.2365874,-118.5653031,,,n_11081708653,shop=general
+"Bishop, CA",,retail,445120,Shell,,,,37.1658247,-118.2899523,,,n_11115142340,"shop=convenience, brand=Shell"
+"Bishop, CA",,retail,445110,dollar tree,,,,37.3643805,-118.3960654,,,n_12941850701,shop=supermarket
+"Bishop, CA",,retail,445120,,"Bishop, CA",,,37.3735004,-118.3934155,,,w_128845699,shop=convenience
+"Bishop, CA",,retail,445110,Vons,"1190 North Main Street, Bishop, CA, 93514",+1 760-872-9811,https://local.vons.com/ca/bishop/1190-n-main-st.html,37.3734725,-118.3914298,,,w_128845701,"shop=supermarket, brand=Vons"
+"Bishop, CA",,retail,446110,Rite Aid,"1375 Rocking W Drive, Bishop, CA, 93514",+1 760-873-7883,,37.3773818,-118.4207613,,,w_316091157,"shop=chemist, brand=Rite Aid"
+"Bishop, CA",,retail,445110,Manor Market,"3100 West Line Street, Bishop, CA, 93514",,https://www.facebook.com/ManorMarket,37.360923,-118.4367637,,,w_316100366,shop=supermarket
+"Bishop, CA",,retail,445110,Joseph's Bi-Rite Market,"211 North Main Street, Bishop, CA, 93514",+1 760-873-6388,,37.3623087,-118.3957923,,,w_316101403,shop=supermarket
+"Bishop, CA",,retail,445120,Giggle Springs,,,,37.3661525,-118.3948788,,,w_316111400,shop=convenience
+"Bishop, CA",,retail,445120,High Country Market,,,,37.1664454,-118.2900078,,,w_502245538,shop=convenience
+"Bishop, CA",,retail,445120,,,,,37.3755863,-118.3965166,,,w_603933755,shop=convenience
+"Bishop, CA",,retail,445120,,,,,37.375381,-118.4271873,,,w_604519830,shop=convenience
+"Bishop, CA",,retail,445120,Mobil Mart,,,,37.1692671,-118.2892102,,,w_725696726,"shop=convenience, brand=Mobil Mart"
+"Bishop, CA",,retail,445120,,,,,37.3753017,-118.4180511,,,w_726028010,shop=convenience
+"Bishop, CA",,retail,445110,Grocery Outlet,,,,37.376373,-118.394657,,,w_921091970,"shop=supermarket, brand=Grocery Outlet"

@@ -1,0 +1,53 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"San Manuel, AZ",,retail,445110,Safeway,"12122 North Rancho Vistoso Boulevard, Oro Valley, AZ, 85755",+1 520-297-4344,https://local.safeway.com/safeway/az/oro-valley/12122-n-rancho-vistoso-blvd.html,32.426801,-110.9595436,,,n_1237980126,"shop=supermarket, brand=Safeway"
+"San Manuel, AZ",,retail,445110,Bashas',"15310 North Oracle Road, Tucson, AZ, 85739",+1 520 575 7300,https://www.bashas.com/,32.4835197,-110.9203507,,,n_2557706937,"shop=supermarket, brand=Bashas'"
+"San Manuel, AZ",,retail,446120,Golder Ranceh Nails,,+1 520 825 2393,,32.4839745,-110.9205911,,,n_3819628379,shop=beauty
+"San Manuel, AZ",,retail,453991,Frank's Smoke Shop,,,,32.4829663,-110.9204743,,,n_3839954518,shop=tobacco
+"San Manuel, AZ",,retail,446120,Serenity Salon and Spa,,,,32.4830291,-110.9204578,,,n_3839954522,shop=beauty
+"San Manuel, AZ",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-11951+n+1st+ave-oro+valley-az-85737/id=6411,32.423267,-110.962052,,,n_4281339622,"shop=chemist, brand=Walgreens"
+"San Manuel, AZ",,retail,445120,Speedway,"10505 North Oracle Road, Tucson, AZ, 85737",,https://www.speedway.com/locations/AZ/Oro-Valley/10505-N-ORACLE-RD,32.3971964,-110.9594167,,,n_4297420963,"shop=convenience, brand=Speedway"
+"San Manuel, AZ",,retail,445110,Rancheros Market,,,,32.4993134,-110.925369,,,n_6324320201,shop=supermarket
+"San Manuel, AZ",,retail,446120,Elegant Nails,,,,32.4090045,-110.9963284,,,n_6591585840,shop=beauty
+"San Manuel, AZ",,retail,446120,Tipsy Nails,"10645 North Oracle Road, Oro Valley, AZ, 85737",,,32.4003096,-110.9580951,,,n_8346343223,shop=beauty
+"San Manuel, AZ",,retail,446120,Regal Nails,,,,32.4256879,-110.9406882,,,n_8421880156,shop=beauty
+"San Manuel, AZ",,retail,446120,Universal Nails and Spa,,,,32.3984092,-110.9561626,,,n_8483374224,shop=beauty
+"San Manuel, AZ",,retail,445120,Speedway,"6855 East Sunrise Drive, Tucson, AZ, 85750",,https://www.speedway.com/locations/AZ/Tucson/6855-E-Sunrise,32.3094955,-110.8463471,,,n_9176893670,"shop=convenience, brand=Speedway"
+"San Manuel, AZ",,retail,445120,Speedway,"12885 North Oracle Road, Tucson, AZ, 85739",+1 520 498 0100,https://www.speedway.com/locations/AZ/Tucson/12885-N-ORACLE-RD,32.439849,-110.9350041,,,n_9177077644,"shop=convenience, brand=Speedway"
+"San Manuel, AZ",,retail,446120,Ulta Beauty,"11875 North Oracle Road, Oro Valley, AZ, 85737",+1 520-742-8956,https://www.ulta.com/stores/oro-valley-az-355,32.4221045,-110.9383956,,,n_10238822020,"shop=beauty, brand=Ulta Beauty"
+"San Manuel, AZ",,retail,445310,The Hoppy Vine,,,,32.4256275,-110.9381795,,,n_10238822024,shop=alcohol
+"San Manuel, AZ",,retail,446120,Chic Nail Boutique,,,,32.4261889,-110.944937,,,n_10238822029,shop=beauty
+"San Manuel, AZ",,retail,446120,DJ Nails & Spa,,,,32.4020913,-110.9563667,,,n_10943135407,shop=beauty
+"San Manuel, AZ",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/az/oro-valley/4161/,32.4023512,-110.9553236,,,n_10943135420,"shop=variety_store, brand=Dollar Tree"
+"San Manuel, AZ",,retail,446120,Nail Trix,,,,32.3898993,-110.963278,,,n_11515607841,shop=beauty
+"San Manuel, AZ",,retail,445120,Minit Market,,,,32.5354744,-110.886598,,,n_12533030198,shop=convenience
+"San Manuel, AZ",,retail,445110,Fry's Marketplace,,,,32.4008214,-110.9578861,,,n_12736945130,"shop=supermarket, brand=Fry's Marketplace"
+"San Manuel, AZ",,retail,445110,Target,,,,32.3991809,-110.9602976,,,n_12736945137,"shop=supermarket, brand=Target"
+"San Manuel, AZ",,retail,445120,Valero,,,,32.4823529,-110.9210647,,,w_249088898,"shop=convenience, brand=Valero"
+"San Manuel, AZ",,retail,446110,Walgreens,"12965 North Oracle Road, Oro Valley, AZ, 85739",+1 520 825 7747,https://www.walgreens.com/locator/walgreens-12965+n+oracle+rd-oro+valley-az-85739/id=3447,32.4413338,-110.9363297,,,w_249093334,"shop=chemist, brand=Walgreens"
+"San Manuel, AZ",,retail,445120,Circle K,"2000 West American Avenue, Oracle, AZ",+1 520 896 9822,,32.6196968,-110.7953105,,,w_249376781,shop=convenience
+"San Manuel, AZ",,retail,452319,Dollar General,"2406 West American Avenue, Oracle, AZ, 85623",+1 520 896 3893,https://www.dollargeneral.com/store-directory/az/oracle/10333,32.6203929,-110.7994492,,,w_249376783,"shop=variety_store, brand=Dollar General"
+"San Manuel, AZ",,retail,445110,Walmart Supercenter,"2150 East Tangerine Road, Oro Valley, AZ, 85755",+1 520-544-0016,https://www.walmart.com/store/3379-oro-valley-az,32.4260004,-110.9409228,,,w_254095720,"shop=supermarket, brand=Walmart"
+"San Manuel, AZ",,retail,452319,Golden Goose Thrift Shop,"15970 North Oracle Road, Catalina, AZ, 85739",+1 520 825 9101,https://www.goldengooseaz.com/,32.4957778,-110.9243654,,,w_297103059,shop=variety_store
+"San Manuel, AZ",,retail,445110,Fry's Food and Drug,"10661 North Oracle Road, Oro Valley, AZ, 85737",+1 520-742-6663,https://www.frysfood.com/stores/grocery/az/oro-valley/oracle-1st-ave/660/00018,32.4007903,-110.9578882,,,w_298916227,"shop=supermarket, brand=Fry's Food and Drug"
+"San Manuel, AZ",,retail,452319,Dollar General,"74 East Main Street, San Manuel, AZ, 85631",+1 520 385 4185,https://www.dollargeneral.com/store-directory/az/san-manuel/10353,32.6006477,-110.6293264,,,w_342580806,"shop=variety_store, brand=Dollar General"
+"San Manuel, AZ",,retail,452319,Family Dollar,"440 South Avenue A, San Manuel, AZ, 85631",+1 520 385 4911,https://locations.familydollar.com/az/san-manuel/24943/,32.6022704,-110.6316786,,,w_342580957,shop=variety_store
+"San Manuel, AZ",,retail,445120,Salt 'n Pepper Food Mart,"110 North Redington Road, San Manuel, AZ, 85631",,,32.6141846,-110.6287475,,,w_342580987,shop=convenience
+"San Manuel, AZ",,retail,452319,Dollar General,"16355 North Oracle Road, AZ, 85739",,https://www.dollargeneral.com/store-directory/az/tucson/14973,32.5031683,-110.9268222,,,w_380879758,"shop=variety_store, brand=Dollar General"
+"San Manuel, AZ",,retail,446120,Imagen Salon and Day Spa,"475 East Vuelta Caminata del Rio, Oro Valley, AZ, 85737",+1 520 742 0040,https://imagensalonspa.com/,32.3981041,-110.9643966,,,w_382025068,shop=beauty
+"San Manuel, AZ",,retail,452210,Ross,"10575 North Oracle Road, Oro Valley, AZ, 85737",+1 520-575-0008,,32.3997707,-110.9592904,,,w_387038318,"shop=department_store, brand=Ross"
+"San Manuel, AZ",,retail,452210,Target,"10555 North Oracle Road, Oro Valley, AZ, 85737-9353",+1 520-219-9862,https://www.target.com/sl/oro-valley/700,32.3991827,-110.9602053,,,w_387038319,"shop=department_store, brand=Target"
+"San Manuel, AZ",,retail,452319,Five Below,,+1 520-337-3362,https://locations.fivebelow.com/az/oro-valley/10571-n-oracle-road,32.3994912,-110.9594501,,,w_387038325,"shop=variety_store, brand=Five Below"
+"San Manuel, AZ",,retail,445110,Bashas',"6900 East Sunrise Drive, Tucson, AZ, 85750",+1 520 299 0633,https://www.bashas.com/stores/bashas-supermarket-sunrise-kolb/,32.3063426,-110.8454112,,,w_492919148,"shop=supermarket, brand=Bashas'"
+"San Manuel, AZ",,retail,445120,Mount Lemmon General Store,,,,32.4429075,-110.7592868,,,w_527984978,shop=convenience
+"San Manuel, AZ",,retail,446110,CVS Pharmacy,"6895 East Sunrise Drive, Tucson, AZ, 85750",,https://www.cvs.com/store-locator/tucson-az-pharmacies/6895-e-sunrise-tucson-az-85750/storeid=9277,32.3094916,-110.8449882,,,w_573368281,"shop=chemist, brand=CVS Pharmacy"
+"San Manuel, AZ",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/az/mammoth/13383,32.725653,-110.6451891,,,w_647106247,"shop=variety_store, brand=Dollar General"
+"San Manuel, AZ",,retail,445120,Circle K,,,,32.7243011,-110.6447845,,,w_647106251,shop=convenience
+"San Manuel, AZ",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/oro-valley-az-pharmacies/10650-north-oracle-rd-oro-valley-az-85737/storeid=10006,32.3989744,-110.9552913,,,w_698970365,"shop=chemist, brand=CVS Pharmacy"
+"San Manuel, AZ",,retail,446110,Walgreens,"7877 East Snyder Road, Tucson, AZ, 85750",+1 520 232 9364,,32.2949524,-110.8249387,,,w_713948709,"shop=chemist, brand=Walgreens"
+"San Manuel, AZ",,retail,445210,Rancheros Carniceria,"337 North Highway 77, Mammoth, AZ, 85618",+1 520 487 0173,http://www.rancheroscarniceria.com/,32.7332835,-110.6486434,,,w_816708752,shop=butcher
+"San Manuel, AZ",,retail,445120,Circle K,"4808 North Sabino Canyon Road, Tucson, AZ, 85750",+1 520 749 5438,https://www.circlek.com/store-locator/US/tucson/4802-n-sabino-canyon-rd/2708594,32.2950198,-110.8232591,,,w_842305923,"shop=convenience, brand=Circle K"
+"San Manuel, AZ",,retail,445120,QuikTrip,"11045 North Oracle Road, Oro Valley, AZ, 85737",,,32.4068122,-110.9477821,,,w_891290730,"shop=convenience, brand=QuikTrip"
+"San Manuel, AZ",,retail,445120,,,,,32.3232732,-110.8933906,,,w_1003811517,shop=convenience
+"San Manuel, AZ",,retail,445120,,,,,32.4006833,-110.9566154,,,w_1072416963,shop=convenience
+"San Manuel, AZ",,retail,446120,Greenspring Inspire,"10509 North Oracle Road, Oro Valley, AZ, 85737",+1-520-529-9665,https://greenspringaesthetics.com/,32.3971204,-110.9605691,,,w_1072416968,shop=beauty
+"San Manuel, AZ",,retail,452319,,,,,32.3909971,-110.7084705,,,w_1416218554,shop=general

@@ -1,0 +1,22 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Warm Springs, AR",,retail,452319,Carroll's Variety Store,,,,36.2610464,-90.9697679,,,n_3362592989,shop=variety_store
+"Warm Springs, AR",,retail,446120,Studio B Salon and Dayspa,,,,36.2619166,-90.9701305,,,n_3362592994,"shop=beauty, operator=Brittany Steimel"
+"Warm Springs, AR",,retail,445110,Harp's Food Store,"605 W. Highway 160, 65606",(417) 778-6155,https://www.harpsfood.com/,36.6995078,-91.400051,,,n_4440645190,shop=supermarket
+"Warm Springs, AR",,retail,445120,Quick Connection,,,,36.698458,-91.3997263,,,n_4440979449,shop=convenience
+"Warm Springs, AR",,retail,445110,Harps Food Store,,,,36.6996593,-91.3998247,,,n_4440979450,shop=supermarket
+"Warm Springs, AR",,retail,445120,Fuel Express,,,,36.6978502,-91.4002548,,,n_4440979452,"shop=convenience, amenity=fuel"
+"Warm Springs, AR",,retail,445110,Harps Food Store,"1609 North Thomasville Street, Pocahontas, AR, 72455",,,36.2723963,-90.9757761,,,n_6936032864,shop=supermarket
+"Warm Springs, AR",,retail,445120,Casey's General Store,"403 Washington Street, Doniphan, MO, 63935",,,36.6179405,-90.8224483,,,n_8710729803,"shop=convenience, brand=Casey's General Store"
+"Warm Springs, AR",,retail,452319,Dollar General,"Pocahontas, AR, 72455",,https://www.dollargeneral.com/store-directory/ar/pocahontas/19434,36.2548976,-90.9731431,,,n_11160235301,"shop=variety_store, brand=Dollar General"
+"Warm Springs, AR",,retail,452319,Dollar Tree,,,,36.2500358,-90.9608839,,,n_11984568820,"shop=variety_store, brand=Dollar Tree"
+"Warm Springs, AR",,retail,445310,Southern Spirits and Liquor,"396 US 63, Ravenden, AR, 72459",,,36.2640687,-91.2917768,,,n_13022441612,shop=alcohol
+"Warm Springs, AR",,retail,445110,Walmart Supercenter,"1415 Highway 67 South, Pocahontas, AR, 72455",+1 870-892-7703,https://www.walmart.com/store/71-pocahontas-ar,36.2487424,-90.9633526,,,w_480306546,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Warm Springs, AR",,retail,445110,Town & Country Supermarket,,,,36.6219427,-90.8349717,,,w_940555022,shop=supermarket
+"Warm Springs, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/pocahontas/14855,36.256619,-91.0455287,,,w_1203961632,"shop=variety_store, brand=Dollar General"
+"Warm Springs, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/imboden/7379,36.2046661,-91.1934192,,,w_1204486460,"shop=variety_store, brand=Dollar General"
+"Warm Springs, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/ravenden/23022,36.2362927,-91.2489794,,,w_1204486461,"shop=variety_store, brand=Dollar General"
+"Warm Springs, AR",,retail,446120,Diann's Beauty Shop and Tanning,,,,36.2044666,-91.1911259,,,w_1292745202,shop=beauty
+"Warm Springs, AR",,retail,452319,Family Dollar,,,,36.2033412,-91.189299,,,w_1292745208,"shop=variety_store, brand=Family Dollar"
+"Warm Springs, AR",,retail,446110,Imboden Medical Pharmacy,,,,36.2017902,-91.171644,,,w_1295386779,shop=chemist
+"Warm Springs, AR",,retail,445120,,,,,36.2381893,-90.9572193,,,w_1421967332,shop=convenience
+"Warm Springs, AR",,retail,445120,,,,,36.2392467,-90.9589757,,,w_1421967333,shop=convenience

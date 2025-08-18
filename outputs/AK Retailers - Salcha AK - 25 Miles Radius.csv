@@ -1,0 +1,8 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Salcha, AK",,retail,445120,Tesoro2Go,,,,64.7592473,-147.3496888,,,n_3936906231,shop=convenience
+"Salcha, AK",,retail,445120,Express,,,,64.6774508,-147.0910649,,,n_4419654638,"shop=convenience, amenity=fuel, operator=AAFES"
+"Salcha, AK",,retail,445110,Commissary,,,,64.6769556,-147.0860446,,,n_4419810694,shop=supermarket
+"Salcha, AK",,retail,452210,Exchange,,,,64.6774772,-147.0898668,,,n_4419810695,shop=department_store
+"Salcha, AK",,retail,445110,Safeway,"301 North Santa Claus Lane, North Pole, AK, 99705",+1 907-490-2700,https://local.safeway.com/safeway/ak/north-pole/301-n-santa-claus-ln.html,64.7575848,-147.3542016,,,w_132169762,"shop=supermarket, brand=Safeway"
+"Salcha, AK",,retail,445120,Sourdough Fuel,,,,64.7620705,-147.3465858,,,w_208604319,shop=convenience
+"Salcha, AK",,retail,445120,Salcha Store,,,,64.5224831,-146.9838897,,,w_518711115,shop=convenience

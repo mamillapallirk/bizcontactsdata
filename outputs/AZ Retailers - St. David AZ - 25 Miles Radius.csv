@@ -1,0 +1,56 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"St. David, AZ",,retail,445110,Commissary,,,,31.5584081,-110.3506703,,,n_663041632,shop=supermarket
+"St. David, AZ",,retail,452210,Post Exchange,,,,31.5569132,-110.3527062,,,n_663041731,shop=department_store
+"St. David, AZ",,retail,446120,Nail Boutique,,,,31.9698748,-110.3128371,,,n_1991111957,shop=beauty
+"St. David, AZ",,retail,445120,Circle K,,,,31.5543111,-110.3001465,,,n_2222764683,"shop=convenience, brand=Circle K"
+"St. David, AZ",,retail,452319,Dollar Tree,"521 North Highway 90 Bypass, Sierra Vista, AZ, 85635",+1 520 439-4715,https://www.dollartree.com/locations/az/sierra-vista/2682/,31.5605051,-110.253708,,,n_2578702784,"shop=variety_store, brand=Dollar Tree"
+"St. David, AZ",,retail,445110,Fry's Food and Drug,"4351 East Highway 90, Sierra Vista, AZ, 85635",+1 520-458-0989,https://www.frysfood.com/stores/grocery/az/sierra-vista/fry-blvd-hwy-90-bypass/660/00059,31.5562186,-110.2535455,,,n_2960336608,"shop=supermarket, brand=Fry's Food and Drug"
+"St. David, AZ",,retail,445310,Village of Elgin Winery,,,,31.6608268,-110.5261304,,,n_3473590785,shop=alcohol
+"St. David, AZ",,retail,445120,Speedway,"104 East 4th Street, Benson, AZ, 85602",,https://www.speedway.com/locations/AZ/Benson/104-E-4th-St,31.9680108,-110.2971814,,,n_3730034553,"shop=convenience, brand=Speedway"
+"St. David, AZ",,retail,445120,Hone's Benson Fuel,"103 West 4th Street, Benson, AZ, 85602",,,31.9681807,-110.2977224,,,n_3730034554,shop=convenience
+"St. David, AZ",,retail,445110,Safeway,"2190 East Fry Boulevard, Sierra Vista, AZ, 85635",+1 520-459-4204,https://local.safeway.com/safeway/az/sierra-vista/2190-e-fry-blvd.html,31.5530091,-110.2758681,,,n_3880926786,"shop=supermarket, brand=Safeway"
+"St. David, AZ",,retail,452319,99 Cent Store,,,,31.5557988,-110.2759472,,,n_5035613108,shop=variety_store
+"St. David, AZ",,retail,452210,Ross,"575 North Highway 90 Bypass, Sierra Vista, AZ, 85635",+1 520-439-0890,,31.5611378,-110.2535749,,,n_5035615033,"shop=department_store, brand=Ross"
+"St. David, AZ",,retail,445110,Food City,"Sierra Vista, AZ, 85635",+1 520-439-6080,https://www.mifoodcity.com/store/111,31.5534721,-110.2549079,,,n_5035649918,"shop=supermarket, brand=Food City"
+"St. David, AZ",,retail,445120,,,,,31.9764652,-110.3065794,,,n_9109917400,shop=convenience
+"St. David, AZ",,retail,445120,Good 2 Go,"2632 East Fry Boulevard, Sierra Vista, AZ, 85635",+1 520 458 3580,,31.554168,-110.271931,,,n_9168508455,"shop=convenience, brand=Good 2 Go"
+"St. David, AZ",,retail,445120,Speedway,"1497 East Fry Boulevard, Sierra Vista, AZ, 85636",,https://www.speedway.com/locations/AZ/Sierra-Vista/1497-E-Fry-Blvd,31.5551724,-110.2824651,,,n_9168508457,"shop=convenience, brand=Speedway"
+"St. David, AZ",,retail,445120,Circle K,"201 East 4th Street, Benson, AZ, 85602",,,31.967789,-110.2958263,,,n_9168564130,"shop=convenience, brand=Circle K"
+"St. David, AZ",,retail,453110,Friendly Flowers and More,"101 East Fremont Street, Tombstone, AZ, 85638",+15204448280,https://www.friendlyflowersandmore.com/,31.7146695,-110.0698893,,,n_9923081094,shop=florist
+"St. David, AZ",,retail,446120,Melanie's Salon,"133 North Frontage Road, Pearce, AZ, 85625",,,31.9369363,-109.8297959,,,n_11811230211,shop=beauty
+"St. David, AZ",,retail,452319,Dollar Tree,,,,31.968898,-110.3044013,,,n_12069231998,"shop=variety_store, brand=Dollar Tree"
+"St. David, AZ",,retail,452319,Dollar General,,,,31.9042333,-110.215206,,,n_12459499377,"shop=variety_store, brand=Dollar General"
+"St. David, AZ",,retail,445120,Love's,,,https://www.loves.com/locations/9,31.9620775,-110.346533,,,n_12509607609,"shop=convenience, brand=Love's"
+"St. David, AZ",,retail,445310,The Beverage House,"3888 East Fry Boulevard, Sierra Vista, AZ, 85635",,,31.5532719,-110.2584843,,,n_12580542847,shop=beverages
+"St. David, AZ",,retail,445110,Building 61610,,,,31.5584196,-110.3506525,,,w_52004173,shop=supermarket
+"St. David, AZ",,retail,452210,Target,"4151 East Highway 90, Sierra Vista, AZ, 85635",+1 520-452-0035,https://www.target.com/sl/sierra-vista/735,31.5562644,-110.2557413,,,w_55618488,"shop=department_store, brand=Target"
+"St. David, AZ",,retail,445110,Walmart Supercenter,"500 North Highway 90 Bypass, Sierra Vista, AZ, 85635",+1 520-458-8790,https://www.walmart.com/store/1240-sierra-vista-az,31.5601058,-110.2604738,,,w_160734127,"shop=supermarket, brand=Walmart, operator=Walmart"
+"St. David, AZ",,retail,445120,Valero,,,,31.5550998,-110.2585296,,,w_169134640,"shop=convenience, brand=Valero"
+"St. David, AZ",,retail,445110,Walmart Supercenter,201 S Prickly Pear Ave,+1-520-586-0742,https://www.walmart.com/store/3807-benson-az,31.9688184,-110.3142814,,,w_184794219,"shop=supermarket, brand=Walmart, operator=Walmart"
+"St. David, AZ",,retail,452319,Dollar Tree,,,,31.5532846,-110.2909502,,,w_188107086,"shop=variety_store, brand=Dollar Tree"
+"St. David, AZ",,retail,445110,Sierra Vista Natural Foods Cooperative,,,,31.5532486,-110.3002833,,,w_188130730,shop=supermarket
+"St. David, AZ",,retail,445120,Love's,"643 State Road 90, Benson, AZ, 85602",+1 520 586 8702,http://myloves460.com/,31.9624213,-110.3446699,,,w_188242051,"shop=convenience, brand=Love's"
+"St. David, AZ",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/az/benson/6629,31.9690526,-110.3037565,,,w_188247630,"shop=variety_store, brand=Dollar General"
+"St. David, AZ",,retail,445110,Safeway,"599 West 4th Street, Benson, AZ, 85602",+1 520-586-9094,https://local.safeway.com/safeway/az/benson/599-w-4th-st.html,31.96904,-110.3065598,,,w_188247632,"shop=supermarket, brand=Safeway"
+"St. David, AZ",,retail,445120,,,,,31.9772089,-110.3065257,,,w_188251725,shop=convenience
+"St. David, AZ",,retail,445120,Circle K,,,,31.5558307,-110.3055375,,,w_212427528,"shop=convenience, brand=Circle K"
+"St. David, AZ",,retail,445310,Sarsparilla Emporium,"69 South 3rd Street, Tombstone, AZ, 85638",,,31.7136254,-110.0682465,,,w_244780341,shop=beverages
+"St. David, AZ",,retail,445120,Food Mart,"2222 North Highway 90, Huachuca City, AZ, 85616",,,31.6921324,-110.3492487,,,w_249662871,shop=convenience
+"St. David, AZ",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/az/huachuca-city/7335,31.629052,-110.3361427,,,w_259742788,"shop=variety_store, brand=Dollar General"
+"St. David, AZ",,retail,452319,Family Dollar,,,,31.6284557,-110.334907,,,w_259742824,"shop=variety_store, brand=Family Dollar"
+"St. David, AZ",,retail,445120,,,,,31.9639118,-110.4328432,,,w_291627621,shop=convenience
+"St. David, AZ",,retail,445120,Circle K,,,,31.9662225,-110.2854653,,,w_369192938,"shop=convenience, brand=Circle K"
+"St. David, AZ",,retail,446110,Walgreens,"1950 East Fry Boulevard, Sierra Vista, AZ, 85635",,https://www.walgreens.com/locator/walgreens-1950+e+fry+blvd-sierra+vista-az-85635/id=5027,31.5540291,-110.2781514,,,w_387016752,"shop=chemist, brand=Walgreens"
+"St. David, AZ",,retail,445120,Doc's,,,,31.535249,-110.2581392,,,w_426686132,shop=convenience
+"St. David, AZ",,retail,445120,Circle K,"200 South Highway 92, Sierra Vista, AZ, 85635",,,31.552602,-110.2582252,,,w_451470937,"shop=convenience, brand=Circle K"
+"St. David, AZ",,retail,445120,,,,,31.5596339,-110.2917888,,,w_465726717,shop=convenience
+"St. David, AZ",,retail,445120,Giant,,,,31.5538426,-110.2412581,,,w_515682921,shop=convenience
+"St. David, AZ",,retail,446120,,,,,31.9673874,-110.2933613,,,w_664761828,shop=beauty
+"St. David, AZ",,retail,453110,Benson Blossom Shop,,,,31.968897,-110.2984153,,,w_664761837,shop=florist
+"St. David, AZ",,retail,446120,Ulta Beauty,"501 Highway 90, Sierra Vista, AZ, 85635",+1 520-685-1671,https://www.ulta.com/stores/sierra-vista-az-1472,31.5595679,-110.2548245,,,w_700446437,"shop=cosmetics, brand=Ulta Beauty"
+"St. David, AZ",,retail,452319,Family Dollar,"208 North Sumner Street, Tombstone, AZ, 85638",(520) 457-4001,,31.7173455,-110.0693772,,,w_902862499,"shop=variety_store, brand=Family Dollar"
+"St. David, AZ",,retail,445120,Ike's Mini Market,"117 East Fremont Street, Tombstone, AZ, 85638",,,31.7143695,-110.0692408,,,w_902875525,shop=convenience
+"St. David, AZ",,retail,445120,Apache Market,"1007 East Fremont Street, Tombstone, AZ, 85638",(520) 457-9294,https://www.facebook.com/ApacheMarket,31.7110569,-110.0597785,,,w_903202796,shop=convenience
+"St. David, AZ",,retail,445120,Circle K,"15 West Bruce Street, Tombstone, AZ, 85638",+1-520-412-3144,https://www.circlek.com/store-locator/US/tombstone/15-w-bruce-st/2709536,31.7169476,-110.0708729,,,w_1157806110,"shop=convenience, brand=Circle K"
+"St. David, AZ",,retail,452319,Dollar General,"1323 East High Street, Pearce, AZ, 85625",+1 520 779 0082,https://www.dollargeneral.com/store-directory/az/sunsites/18117,31.9422024,-109.8325956,,,w_1271913427,shop=variety_store
+"St. David, AZ",,retail,452319,Dollar General,,,,31.5539821,-110.240205,,,w_1391293670,"shop=variety_store, brand=Dollar General"

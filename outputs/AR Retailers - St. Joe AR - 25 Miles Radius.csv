@@ -1,0 +1,37 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"St. Joe, AR",,retail,445120,,,,,36.1400051,-93.1220775,,,n_1179021730,shop=convenience
+"St. Joe, AR",,retail,445110,Hudsons,,,,36.2359199,-93.1067267,,,n_1179052574,shop=supermarket
+"St. Joe, AR",,retail,445120,,,,,36.2336266,-93.1304642,,,n_1179180183,shop=convenience
+"St. Joe, AR",,retail,445110,Cash Saver 870,,,,36.2297633,-93.0988437,,,n_1179457965,shop=supermarket
+"St. Joe, AR",,retail,445110,,,,,36.2490137,-93.1147787,,,n_1179663982,shop=supermarket
+"St. Joe, AR",,retail,445110,Lewis Grocery and Ryan`s Deli,,,,35.8287565,-92.5594283,,,n_3319755577,shop=supermarket
+"St. Joe, AR",,retail,452210,Antique Mall,,,,35.8285529,-92.5588136,,,n_3319761220,shop=department_store
+"St. Joe, AR",,retail,445120,Arkansas Handmade,,,,35.8291629,-92.559986,,,n_3370897492,shop=convenience
+"St. Joe, AR",,retail,445120,Elk & Eagle Trading Post,,,,35.8292865,-92.5599585,,,n_3372380772,shop=convenience
+"St. Joe, AR",,retail,453991,Elite Vapor Pro,"1320 A3 HWY 62-65 N
+Harrison, AR 72601",870-204-6051,https://www.elitevaporpros.com/,36.2646262,-93.1376849,,,n_6715759954,shop=tobacco
+"St. Joe, AR",,retail,452210,Sears,"1320 North Main Street
+Harrison, AR 72601",(870) 741-5466,http://www.searshometownstores.com/home/ar/harrison/3127,36.2457441,-93.1170904,,,n_6727503116,shop=department_store
+"St. Joe, AR",,retail,446191,Nature's Wonders,"910A US 62, 72601",,,36.2548652,-93.1232564,,,n_12856205601,shop=health_food
+"St. Joe, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/gassville/7265,36.2836427,-92.4949568,,,w_246375750,"shop=variety_store, brand=Dollar General"
+"St. Joe, AR",,retail,445110,Sunfest,"119 West Main Street, Gassville, AR, 72635",+18704356180,https://www.gwfoodsinc.com/,36.282686,-92.4960927,,,w_246375751,shop=supermarket
+"St. Joe, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/yellville/11130,36.2265368,-92.6871836,,,w_430215599,"shop=variety_store, brand=Dollar General"
+"St. Joe, AR",,retail,445110,Harp's,,,,36.2264111,-92.6836507,,,w_430215601,shop=supermarket
+"St. Joe, AR",,retail,445110,Walmart Supercenter,"168 Walmart Drive, Flippin, AR, 72634",+1-870-453-2211,https://www.walmart.com/store/1147-flippin-ar,36.2752774,-92.6045654,,,w_908562023,"shop=supermarket, brand=Walmart, operator=Walmart"
+"St. Joe, AR",,retail,445110,ALDI,"1105 Highway 62/65 North, Harrison, AR, 72601",+1 855-955-2534,https://stores.aldi.us/ar/harrison/1105-hwy-62-65-north,36.2591032,-93.1254587,,,w_934748056,"shop=supermarket, brand=ALDI"
+"St. Joe, AR",,retail,445310,Gravity BrewWorks,"11512 Highway 14 East, Big Flat, AR, 72617",8704482077,http://gravitybrewworks.com,36.0083015,-92.3788361,,,w_997334586,shop=beverages
+"St. Joe, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/harrison/12468,36.2345305,-93.1326315,,,w_1060184374,"shop=variety_store, brand=Dollar General"
+"St. Joe, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/harrison/3943,36.258897,-93.1274155,,,w_1060187684,"shop=variety_store, brand=Dollar General"
+"St. Joe, AR",,retail,445110,Walmart Supercenter,"161 North Walmart Drive, Harrison, AR, 72601",+1 870-365-8400,https://www.walmart.com/store/2-harrison-ar,36.269002,-93.139044,,,w_1060189287,"shop=supermarket, brand=Walmart, operator=Walmart"
+"St. Joe, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/pyatt/22582,36.243514,-92.8440053,,,w_1204643865,"shop=variety_store, brand=Dollar General"
+"St. Joe, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/saint-joe/19424,36.0282574,-92.8000147,,,w_1204643870,"shop=variety_store, brand=Dollar General"
+"St. Joe, AR",,retail,452319,Family Dollar,,,,35.9087482,-92.66177,,,w_1204643877,"shop=variety_store, brand=Family Dollar"
+"St. Joe, AR",,retail,445110,Harps,,,,35.9104914,-92.6499689,,,w_1204643878,"shop=supermarket, brand=Harps"
+"St. Joe, AR",,retail,452319,Dollar General,"Marshall, AR, 72650",,https://www.dollargeneral.com/store-directory/ar/marshall/971,35.9108076,-92.6441263,,,w_1204643879,"shop=variety_store, brand=Dollar General"
+"St. Joe, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/leslie/17627,35.8320914,-92.5681341,,,w_1204643881,"shop=variety_store, brand=Dollar General"
+"St. Joe, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/jasper/11369,36.0126456,-93.1815519,,,w_1204713341,"shop=variety_store, brand=Dollar General"
+"St. Joe, AR",,retail,452319,Dollar General,"Harrison, AR, 72601",,https://www.dollargeneral.com/store-directory/ar/harrison/16876,36.1382835,-93.1216877,,,w_1204713343,"shop=variety_store, brand=Dollar General"
+"St. Joe, AR",,retail,445120,Alfred Fountain Grocery,"36386 AR 27, Tilly, AR, 72679",,,35.7205237,-92.8238161,,,w_1309077093,shop=convenience
+"St. Joe, AR",,retail,452319,The Old Snowball House,,,,35.9068339,-92.8215612,,,w_1357454744,shop=general
+"St. Joe, AR",,retail,452319,Kent General Store,"Mount Judea, AR",,,35.920556,-93.0597735,,,w_1388054085,shop=general
+"St. Joe, AR",,retail,445120,Phillips 66,,,,36.2442925,-93.109303,,,w_1418218868,"shop=convenience, brand=Phillips 66"

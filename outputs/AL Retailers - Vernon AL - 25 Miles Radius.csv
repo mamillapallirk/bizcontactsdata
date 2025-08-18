@@ -1,0 +1,55 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Vernon, AL",,retail,445120,Glen Allen Grocery,,,,33.9114919,-87.7402971,,,n_457277479,shop=convenience
+"Vernon, AL",,retail,445120,Hubbert's,,,,33.8279541,-87.7396533,,,n_457278644,shop=convenience
+"Vernon, AL",,retail,445120,B&M Grocery,,,,33.8499883,-87.7336564,,,n_457304243,shop=convenience
+"Vernon, AL",,retail,445110,Supermarket,,,,33.5583709,-88.4323393,,,n_2024563802,shop=supermarket
+"Vernon, AL",,retail,445110,Piggly Wiggly,"12205 Highway 96, Millport, AL, 35575",+1 205-662-4920,,33.5609218,-88.073344,,,n_4879633374,"shop=supermarket, brand=Piggly Wiggly"
+"Vernon, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/millport/7484,33.560913,-88.0727035,,,n_4879633375,"shop=variety_store, brand=Dollar General"
+"Vernon, AL",,retail,446120,Scissors,,,,33.5011564,-88.3893311,,,n_5726321136,shop=beauty
+"Vernon, AL",,retail,446120,Christina's,,,,33.5117473,-88.3894545,,,n_5726321137,shop=beauty
+"Vernon, AL",,retail,446120,Nu Look,,,,33.4941342,-88.3781624,,,n_5726321138,shop=beauty
+"Vernon, AL",,retail,446120,Wild Rose,,,,33.4923269,-88.3294159,,,n_5726321139,shop=beauty
+"Vernon, AL",,retail,446120,Styles by Steve,,,,33.5002137,-88.3345416,,,n_5726321140,shop=beauty
+"Vernon, AL",,retail,446120,Studio La Rue,,,,33.5111211,-88.3630267,,,n_5726321141,shop=beauty
+"Vernon, AL",,retail,446120,A Cut Above,,,,33.5190822,-88.3710331,,,n_5726321142,shop=beauty
+"Vernon, AL",,retail,446120,Salon 417,,,,33.5193372,-88.4072161,,,n_5726321143,shop=beauty
+"Vernon, AL",,retail,446120,Profiles,,,,33.5164793,-88.4131545,,,n_5726321144,shop=beauty
+"Vernon, AL",,retail,446120,Brickerton Spa,,,,33.5165061,-88.4126234,,,n_5726321145,shop=beauty
+"Vernon, AL",,retail,446120,Rejuvenation,,,,33.5162512,-88.4144929,,,n_5726321146,shop=beauty
+"Vernon, AL",,retail,446120,Eden Spa,,,,33.5359077,-88.4305459,,,n_5726321147,shop=beauty
+"Vernon, AL",,retail,446120,The Pod,,,,33.5378036,-88.4326139,,,n_5726321148,shop=beauty
+"Vernon, AL",,retail,446120,Hair Master,,,,33.5307095,-88.437525,,,n_5726321149,shop=beauty
+"Vernon, AL",,retail,446120,Tuffline,,,,33.527615,-88.4378576,,,n_5726321150,shop=beauty
+"Vernon, AL",,retail,446120,Serendipity,,,,33.5220809,-88.4370422,,,n_5726321151,shop=beauty
+"Vernon, AL",,retail,446120,Trendsetters / All About U,,,,33.5201578,-88.4347704,,,n_5726321152,shop=beauty
+"Vernon, AL",,retail,446120,Trimmers,,,,33.619488,-88.4333488,,,n_5726321154,shop=beauty
+"Vernon, AL",,retail,446120,Mirror Mirror,,,,33.6785711,-88.3240542,,,n_5726321155,shop=beauty
+"Vernon, AL",,retail,446120,Studio 737,,,,33.6831634,-88.324718,,,n_5726321156,shop=beauty
+"Vernon, AL",,retail,446120,,,,,33.6829871,-88.3241601,,,n_5726321158,shop=beauty
+"Vernon, AL",,retail,446120,Elaine's,,,,33.7377577,-88.4445365,,,n_5726321176,shop=beauty
+"Vernon, AL",,retail,452210,Belk,,,,33.5238467,-88.4381554,,,n_10881697287,"shop=department_store, brand=Belk"
+"Vernon, AL",,retail,452319,Family Dollar,MS,,,33.6046567,-88.4233705,,,n_10881697369,"shop=variety_store, brand=Family Dollar"
+"Vernon, AL",,retail,445210,Sipsey Deer Processing,"3345 County Road 35, Fayette, AL, 35555",+1 205-932-5179,,33.6482599,-87.811858,,,n_11762865708,shop=butcher
+"Vernon, AL",,retail,445110,Shop & Save,"5730 Cal Kolola Road, Caledonia, MS, 39740",,,33.6895922,-88.3391984,,,n_12421826488,shop=supermarket
+"Vernon, AL",,retail,445110,Dollar General Market,"5679 Cal Kolola Road, Caledonia, MS, 39740",,,33.6902151,-88.3400195,,,n_12421826489,"shop=supermarket, brand=Dollar General Market"
+"Vernon, AL",,retail,445120,,,,,33.8038601,-88.4653361,,,n_12827732405,shop=convenience
+"Vernon, AL",,retail,453110,Restoration & Co.,"477 Columbus Street, Millport, AL",,,33.5636076,-88.0821258,,,n_12926548570,shop=florist
+"Vernon, AL",,retail,445110,Walmart Supercenter,"1515 Highway 278 East, Amory, MS, 38821",+1 662-256-1590,https://www.walmart.com/store/118-amory-ms,33.9686756,-88.45697,,,w_533486886,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Vernon, AL",,retail,452319,Dollar General,MS,,https://www.dollargeneral.com/store-directory/ms/columbus/15134,33.6028914,-88.4219418,,,w_571158109,"shop=variety_store, brand=Dollar General"
+"Vernon, AL",,retail,445120,Shell,"7015 SR 129, Winfield, AL, 35594",,,33.9880918,-87.7773746,,,w_682845462,"shop=convenience, brand=Shell, operator=Moore Petroleum"
+"Vernon, AL",,retail,445120,Chevron,"7016 SR 129, Winfield, AL, 35594",+1-205-487-0113,,33.987572,-87.7756199,,,w_682845464,"shop=convenience, brand=Chevron, operator=Sarafina Network LLC."
+"Vernon, AL",,retail,445110,Walmart Supercenter,"205 House-Carlson Drive, Batesville, MS, 38606",+1 205-932-5277,https://www.walmart.com/store/1052-fayette-al,33.7316881,-87.8086996,,,w_697187646,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Vernon, AL",,retail,445120,,,,,33.5177611,-88.4150527,,,w_1083931400,shop=convenience
+"Vernon, AL",,retail,445120,Chevron,"5646 State Highway 44, Guin, AL, 35563",+1 205-430-2898,https://www.chevronwithtechron.com/en_us/home/gas-station-near-me.html?/station/5646-AL-HWY-44-GUIN-AL-35563-id381887,34.0105144,-87.8397753,,,w_1113776214,"shop=convenience, brand=Chevron"
+"Vernon, AL",,retail,445110,Walmart Supercenter,"2575 US Highway 43, Winfield, AL, 35594",+1 205-487-4359,https://www.walmart.com/store/362-winfield-al,33.9352165,-87.8404602,,,w_1116689062,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Vernon, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ms/steens/16840,33.5962288,-88.3340834,,,w_1169538811,"shop=variety_store, brand=Dollar General"
+"Vernon, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ms/columbus/10265,33.5423002,-88.4375634,,,w_1170966007,"shop=variety_store, brand=Dollar General"
+"Vernon, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ms/hamilton/7301,33.7406828,-88.4382749,,,w_1171709843,"shop=variety_store, brand=Dollar General"
+"Vernon, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ms/caledonia/8886,33.6788726,-88.3258016,,,w_1171709875,"shop=variety_store, brand=Dollar General"
+"Vernon, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ms/amory/21102,33.9233232,-88.4770221,,,w_1172171167,"shop=variety_store, brand=Dollar General"
+"Vernon, AL",,retail,445110,FoodLand,"2210 US Hwy 43, Winfield, AL, 35594",+1-205-487-5448,https://gatewayfoodland.com/find-your-store/,33.9388494,-87.8354022,,,w_1184780598,"shop=supermarket, brand=FoodLand"
+"Vernon, AL",,retail,452319,Dollar General,"2610 US Hwy 43, Winfield, AL, 35594",+1-205-549-0493,https://www.dollargeneral.com/store-directory/al/winfield/3646,33.9386486,-87.8404451,,,w_1184780603,"shop=variety_store, brand=Dollar General"
+"Vernon, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ms/amory/17646,33.9775906,-88.4131995,,,w_1234867433,"shop=variety_store, brand=Dollar General"
+"Vernon, AL",,retail,445120,Love's,"1126 Co Rd 35, Hamilton, AL",+1-205-754-3100,https://www.loves.com/,34.0928535,-88.0049146,,,w_1312114739,"shop=convenience, brand=Love's"
+"Vernon, AL",,retail,445110,Piggly Wiggly,"7270 US Highway 43, Guin, AL, 35563",+1 205-468-3374,,33.9667231,-87.9102879,,,w_1318940203,"shop=supermarket, brand=Piggly Wiggly"
+"Vernon, AL",,retail,445120,Twin Stop and Go,"6085 State Highway 253, Guin, AL, 35563",,,34.0028026,-87.8578893,,,w_1390881588,"shop=convenience, amenity=fuel"

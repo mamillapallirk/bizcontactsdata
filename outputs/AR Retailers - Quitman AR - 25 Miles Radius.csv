@@ -1,0 +1,77 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Quitman, AR",,retail,445120,Rick's,,,,35.4254864,-91.8396926,,,n_603373132,"shop=convenience, amenity=fuel"
+"Quitman, AR",,retail,445120,Valero,,,,35.4246472,-91.8402828,,,n_603373134,"shop=convenience, amenity=fuel, brand=Valero"
+"Quitman, AR",,retail,445110,Walmart Neighborhood Market,"2550 Prince Street, Conway, AR, 72034",+1 501-205-7262,https://www.walmart.com/store/3168-conway-ar,35.0944854,-92.4631765,,,n_5315598892,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Quitman, AR",,retail,446120,Star Nails,"201 Skyline Drive, Conway, AR, 72032",,https://starnail.com,35.1104954,-92.430695,,,n_6297640589,shop=beauty
+"Quitman, AR",,retail,452319,Dollar Tree,"201 Skyline Dr, Conway, AR, 72032",,https://www.dollartree.com/locations/ar/conway/1327/,35.1098401,-92.4288834,,,n_6298789866,"shop=variety_store, brand=Dollar Tree"
+"Quitman, AR",,retail,446120,Bath & Body Works,"201 Skyline Drive, Conway, AR, 72032",,,35.1106488,-92.4282599,,,n_6298789873,"shop=cosmetics, brand=Bath & Body Works"
+"Quitman, AR",,retail,445120,8 Mile Store,,,,35.0774147,-92.3050575,,,n_6645561084,shop=convenience
+"Quitman, AR",,retail,453991,Tobacco Station USA,,,,35.1124602,-92.448437,,,n_6800536877,shop=tobacco
+"Quitman, AR",,retail,446120,Nail Designers,,,,35.1124235,-92.4487529,,,n_6800536879,shop=beauty
+"Quitman, AR",,retail,453991,Tobacco World,"296 Ingram Street, Clinton, AR, 72031",,,35.5988662,-92.4616697,,,n_9354217510,shop=tobacco
+"Quitman, AR",,retail,446120,Beyond Deep Therapeutic Massage,"296 Ingram Street, Clinton, AR, 72031",+1-501-757-3377,,35.5989013,-92.461854,,,n_9354217512,shop=beauty
+"Quitman, AR",,retail,446120,Oasis Hair & Tanning,"15 Victory Lane, Greers Ferry, AR, 72067",+1-501-825-6770,https://oasishairandtan.com,35.5674936,-92.1787894,,,n_9692868634,"shop=beauty, operator=Rene Haynes"
+"Quitman, AR",,retail,445120,Doublebee's,,,,35.0862427,-92.3347746,,,n_11268707322,shop=convenience
+"Quitman, AR",,retail,445120,,,,,35.10195,-92.4530467,,,n_11758820715,shop=convenience
+"Quitman, AR",,retail,452210,Big Lots,"150 East Oak Street, Conway, AR, 72032",+1 501-327-1875,https://local.biglots.com/ar/conway/150-e-oak-st,35.0927891,-92.4273562,,,n_11794428038,"shop=department_store, brand=Big Lots"
+"Quitman, AR",,retail,446120,Salon 1014,,,,35.0922093,-92.4397143,,,n_12337315808,shop=beauty
+"Quitman, AR",,retail,446120,Head To Toes Salon,"1117 Front Street, Conway, AR, 72032",,,35.0938789,-92.4426645,,,n_12505183705,shop=beauty
+"Quitman, AR",,retail,446120,B. Lashed,"1000 Front Street, Conway, AR, 72032",+1 (501) 472-3046,,35.0917571,-92.4412457,,,n_12506123929,shop=beauty
+"Quitman, AR",,retail,445120,Casey's General Store,,,,35.2336445,-92.3886101,,,n_12973597973,"shop=convenience, brand=Casey's General Store"
+"Quitman, AR",,retail,445230,Farm Stand at Bell Urban Farm,"2011 Tyler Street, Conway, AR, 72032",,,35.1026561,-92.4515819,,,n_13009468268,shop=greengrocer
+"Quitman, AR",,retail,452319,pOpshelf,"701 Elsinger Boulevard, Conway, AR, 72032-4719",(501) 459-5035,https://www.popshelf.com/store/25704,35.0887357,-92.4142738,,,n_13074643401,"shop=variety_store, brand=pOpshelf"
+"Quitman, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/pangburn/8491,35.4254657,-91.835558,,,w_69720329,"shop=variety_store, brand=Dollar General"
+"Quitman, AR",,retail,445120,Bears Den,"811 East German Lane, Conway, AR, 72032",+1-501-932-6688,,35.0906377,-92.4015971,,,w_70541286,shop=convenience
+"Quitman, AR",,retail,445110,Walmart Supercenter,"1155 Highway 65 North, Conway, AR, 72032",+1 501-329-0023,https://www.walmart.com/store/5-conway-ar,35.1086252,-92.4368855,,,w_70661495,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Quitman, AR",,retail,445120,Mobil Mart,"875 Skyline Drive, Conway, AR, 72032",+1-501-205-8198,,35.1111209,-92.4374672,,,w_70661934,"shop=convenience, brand=Mobil Mart"
+"Quitman, AR",,retail,445120,,,,,35.111667,-92.4389794,,,w_70661937,shop=convenience
+"Quitman, AR",,retail,445120,,,,,35.1128178,-92.4308757,,,w_70666624,shop=convenience
+"Quitman, AR",,retail,445120,,,,,35.4321475,-91.8872183,,,w_431875039,shop=convenience
+"Quitman, AR",,retail,452210,Kohl's,"801 Elsinger Boulevard, Conway, AR, 72032",+1 501-450-7177,https://www.kohls.com/stores/ar/conway-698.shtml,35.089717,-92.4144925,,,w_442970824,"shop=department_store, brand=Kohl's"
+"Quitman, AR",,retail,452210,TJ Maxx,"Conway, AR",,,35.0881735,-92.4145627,,,w_442970826,"shop=department_store, brand=TJ Maxx"
+"Quitman, AR",,retail,452210,Target,"501 Elsinger Boulevard, Conway, AR, 72032-4717",+1 501-328-5739,https://www.target.com/sl/conway/1891,35.0861794,-92.4146189,,,w_442970828,"shop=department_store, brand=Target"
+"Quitman, AR",,retail,445110,Walmart Supercenter,"1966 Highway 65 South, Clinton, AR, 72031",+1 501-745-2498,https://www.walmart.com/store/788-clinton-ar,35.5667653,-92.4544104,,,w_479558198,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Quitman, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/drasco/11801,35.6337597,-91.946524,,,w_555383095,"shop=variety_store, brand=Dollar General"
+"Quitman, AR",,retail,452210,Ross,"1266 South Amity Road, Conway, AR, 72032",+1 501-504-2500,,35.0626535,-92.4137804,,,w_585534264,"shop=department_store, brand=Ross"
+"Quitman, AR",,retail,445110,ALDI,"1272 South Amity Road, AR, 72032-8732",+1 855-955-2534,https://stores.aldi.us/ar/conway/1272-s-amity-road,35.0626549,-92.4133187,,,w_585534267,"shop=supermarket, brand=ALDI"
+"Quitman, AR",,retail,446120,Ulta Beauty,"1278 South Amity Road, Conway, AR, 72032",+1 501-504-2533,https://www.ulta.com/stores/conway-ar-665,35.0627318,-92.4129768,,,w_585534268,"shop=cosmetics, brand=Ulta Beauty"
+"Quitman, AR",,retail,445120,Murphy USA,"2164 Harkrider Street, Conway, AR, 72032",,,35.1085362,-92.4394757,,,w_586460719,"shop=convenience, brand=Murphy USA"
+"Quitman, AR",,retail,452210,JCPenney,"201 Skyline Drive, Conway, AR, 72032",,,35.1098302,-92.4284077,,,w_672557223,"shop=department_store, brand=JCPenney"
+"Quitman, AR",,retail,446120,Sun's Casuals,,,,35.1100857,-92.4375908,,,w_702435785,shop=cosmetics
+"Quitman, AR",,retail,445120,Road Runner,"Skyline Drive, Conway, AR",,,35.1115865,-92.4322315,,,w_725193550,shop=convenience
+"Quitman, AR",,retail,445120,Kum & Go,,,https://www.kumandgo.com/store-locator?details=0171,35.1129669,-92.4477877,,,w_725193556,"shop=convenience, brand=Kum & Go"
+"Quitman, AR",,retail,452319,Dollar General,"2560 Donaghey, Conway, AR, 72032",,https://www.dollargeneral.com/store-directory/ar/conway/953,35.1111714,-92.4519981,,,w_725193560,"shop=variety_store, brand=Dollar General"
+"Quitman, AR",,retail,446120,Solutions Day Spa,,,,35.0933364,-92.4114654,,,w_857882384,shop=beauty
+"Quitman, AR",,retail,452319,Family Dollar,"254 Oak Street, Conway, AR, 72032",+1-501-205-7002,,35.0923134,-92.4302203,,,w_1019457768,"shop=variety_store, brand=Family Dollar"
+"Quitman, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/clinton/3979,35.5965273,-92.4569197,,,w_1097874572,"shop=variety_store, brand=Dollar General"
+"Quitman, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/bee-branch/15678,35.4533446,-92.3960323,,,w_1099447274,"shop=variety_store, brand=Dollar General"
+"Quitman, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/damascus/12339,35.3610014,-92.4121519,,,w_1099447673,"shop=variety_store, brand=Dollar General"
+"Quitman, AR",,retail,452319,Dollar General,"379 Highway 65, Conway, AR, 72032",,https://www.dollargeneral.com/store-directory/ar/conway/12878,35.1327574,-92.4017744,,,w_1109178229,"shop=variety_store, brand=Dollar General"
+"Quitman, AR",,retail,445120,Superstop,"375 East Oak Street, Conway, AR, 72032",+1-501-327-2087,,35.0912708,-92.4248775,,,w_1118506529,shop=convenience
+"Quitman, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/searcy/17789,35.2636855,-91.8893841,,,w_1198567201,"shop=variety_store, brand=Dollar General"
+"Quitman, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/romance/19626,35.2255997,-92.0710352,,,w_1203459241,"shop=variety_store, brand=Dollar General"
+"Quitman, AR",,retail,452319,Dollar General,"5958 Highway 36 West, Rose Bud, AR, 72137",,https://www.dollargeneral.com/store-directory/ar/rose-bud/12240,35.332174,-92.0736992,,,w_1203459243,"shop=variety_store, brand=Dollar General"
+"Quitman, AR",,retail,452319,Dollar General,"6254 Heber Springs Road West, Quitman, AR, 72131",,https://www.dollargeneral.com/store-directory/ar/quitman/7238,35.3798263,-92.2235442,,,w_1203459248,"shop=variety_store, brand=Dollar General"
+"Quitman, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/austin/16784,35.0531703,-92.0841416,,,w_1203459252,"shop=variety_store, brand=Dollar General"
+"Quitman, AR",,retail,452319,Dollar General,"1082 Main Street, Vilonia, AR, 72173",,https://www.dollargeneral.com/store-directory/ar/vilonia/15919,35.0829162,-92.2105462,,,w_1203459253,"shop=variety_store, brand=Dollar General"
+"Quitman, AR",,retail,445110,Harps,"1086 Main Street, Vilonia, AR, 72173",,,35.0829385,-92.2092311,,,w_1203459255,"shop=supermarket, brand=Harps"
+"Quitman, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/conway/20114,35.1319289,-92.2630725,,,w_1203459257,"shop=variety_store, brand=Dollar General"
+"Quitman, AR",,retail,452319,Family Dollar,"205 Oak Street, Conway, AR, 72032",,,35.0903479,-92.4289482,,,w_1203537084,"shop=variety_store, brand=Family Dollar"
+"Quitman, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/conway/13531,35.0827433,-92.3286444,,,w_1216188138,"shop=variety_store, brand=Dollar General"
+"Quitman, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/wooster/12870,35.2028749,-92.4571435,,,w_1217069991,"shop=variety_store, brand=Dollar General"
+"Quitman, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/greenbrier/17432,35.3161421,-92.3452654,,,w_1217069992,"shop=variety_store, brand=Dollar General"
+"Quitman, AR",,retail,452319,Dollar Tree,"1141 Highway 25B, HEBER SPRINGS, AR, 72543",,https://www.dollartree.com/locations/ar/heber-springs/5372/,35.5034428,-92.0290639,,,w_1229499653,"shop=variety_store, brand=Dollar Tree"
+"Quitman, AR",,retail,452319,Dollar General,"1600 East Oak Street, Conway, AR, 72032",+1-501-764-4825,,35.0918821,-92.4050905,,,w_1257044046,"shop=variety_store, brand=Dollar General"
+"Quitman, AR",,retail,445110,,,,,35.4913022,-92.0392143,,,w_1283646700,shop=supermarket
+"Quitman, AR",,retail,445120,,"540 Dave Creek Parkway, Fairfield Bay, AR, 72088",,,35.6073866,-92.2694084,,,w_1291050581,shop=convenience
+"Quitman, AR",,retail,445110,10Box Cost-Plus,,,,35.0834903,-92.4359612,,,w_1295421543,shop=supermarket
+"Quitman, AR",,retail,445120,Hwy 64 Superstop,"1905 Old Morrilton Highway, Conway, AR",+1-501-327-3030,,35.1151321,-92.449035,,,w_1296108086,shop=convenience
+"Quitman, AR",,retail,445110,Walmart Neighborhood Market,"75 South Broadview, Greenbrier, AR, 72058",+1 501-287-6001,https://www.walmart.com/store/7317-greenbrier-ar,35.2258171,-92.3895891,,,w_1308460206,"shop=supermarket, brand=Walmart Neighborhood Market, operator=Walmart"
+"Quitman, AR",,retail,445110,Walmart Supercenter,"1500 Highway 25B, Heber Spgs, AR, 72543",+1 501-362-8188,https://www.walmart.com/store/281-heber-spgs-ar,35.5072422,-92.0322407,,,w_1311916209,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Quitman, AR",,retail,445120,,,,,35.0845031,-92.1995677,,,w_1328151650,shop=convenience
+"Quitman, AR",,retail,445120,,"350 East Oak Street, Conway, AR, 72032",+1-501-329-5922,,35.0921259,-92.4250105,,,w_1344068533,shop=convenience
+"Quitman, AR",,retail,445120,,,,,35.0670018,-92.4217606,,,w_1345699811,shop=convenience
+"Quitman, AR",,retail,452319,Family Dollar,,,,35.5662704,-92.1793039,,,w_1346060934,"shop=variety_store, brand=Family Dollar"
+"Quitman, AR",,retail,445120,Doublebee's,"6027 AR-36, Rose Bud, AR, 72137",,,35.3314069,-92.0823015,,,w_1361852600,shop=convenience
+"Quitman, AR",,retail,445110,Kroger,"101 Oak Street, Conway, AR, 72032",+1-501-329-8009,https://www.kroger.com/stores/grocery/ar/conway/conway-oak-st/025/00652,35.0903784,-92.4284189,,,r_16259679,"shop=supermarket, brand=Kroger"
+"Quitman, AR",,retail,445110,Kroger Marketplace,"855 Salem Road, Conway, AR, 72034",+1-501–329–3628,https://www.kroger.com/stores/grocery/ar/conway/conway-marketplace/025/00625,35.0892654,-92.4726352,,,r_17960496,"shop=supermarket, brand=Kroger Marketplace"

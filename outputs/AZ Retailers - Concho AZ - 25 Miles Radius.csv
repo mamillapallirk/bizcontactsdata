@@ -1,0 +1,9 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Concho, AZ",,retail,445120,Store and Ranger Station,,,,34.362483,-109.3750008,,,n_7798723763,shop=convenience
+"Concho, AZ",,retail,445120,Midway Store,,,,34.2719184,-109.6928756,,,w_354135483,shop=convenience
+"Concho, AZ",,retail,445120,Stanford General Store,,,,34.2882449,-109.8286169,,,w_375311902,shop=convenience
+"Concho, AZ",,retail,445120,Jiffy Store,,,,34.4425852,-109.6346169,,,w_522299949,shop=convenience
+"Concho, AZ",,retail,452319,Family Dollar,,,,34.4501945,-109.6309405,,,w_522299964,shop=variety_store
+"Concho, AZ",,retail,445120,Country Store,"8750 Concho Highway, Snowflake, AZ, 85937",+1 928 536 2114,,34.5577406,-109.9621495,,,w_625217581,shop=convenience
+"Concho, AZ",,retail,452319,Dollar General,"1180 West Cleveland Street, St Johns, AZ, 85936",,https://www.dollargeneral.com/store-directory/az/saint-johns/10201,34.5059228,-109.381558,,,w_840714045,"shop=variety_store, brand=Dollar General"
+"Concho, AZ",,retail,445110,Dollar General,,,https://www.dollargeneral.com/store-directory/az/show-low/17515,34.2880174,-109.8295289,,,w_1052523091,"shop=supermarket, brand=Dollar General"

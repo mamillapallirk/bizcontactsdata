@@ -1,0 +1,58 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Arlington, AZ",,retail,445110,,,,,33.4030124,-112.6034091,,,n_1687397334,shop=supermarket
+"Arlington, AZ",,retail,445120,Fry's Fuel,"1380 South Watson Road, Buckeye, AZ, 85326",,,33.4339288,-112.5567765,,,n_2766199480,shop=convenience
+"Arlington, AZ",,retail,452319,Five Below,"775 South Cotton Lane, Goodyear, AZ, 85338",+1 623-303-6437,https://locations.fivebelow.com/az/goodyear/775-s-cotton-lane,33.4395,-112.4217,,,n_10848037057,"shop=variety_store, brand=Five Below"
+"Arlington, AZ",,retail,445120,Elliot Market,"17750 Wesr Elliot Road, Goodyear, AZ, 85338",623-323-9951,,33.3558164,-112.431803,,,n_11062477597,shop=convenience
+"Arlington, AZ",,retail,445120,B & B Express,"4126 North 411th Avenue, Tonopah, AZ, 85354",,,33.4947633,-112.9374943,,,n_11082011957,shop=convenience
+"Arlington, AZ",,retail,452319,Dollar General,"37930 Salome Highway, Wintersburg, AZ, 85354",,https://www.dollargeneral.com/store-directory/az/tonopah/17377,33.4255994,-112.8682907,,,n_11082535677,"shop=variety_store, brand=Dollar General"
+"Arlington, AZ",,retail,446120,C'est La Vie Nails Spa,"15611 West McDowell Road, Goodyear, AZ, 85395",,,33.4644166,-112.3948351,,,n_11895688996,shop=beauty
+"Arlington, AZ",,retail,452210,TJ Maxx,,,,33.467477,-112.3889817,,,n_11940623906,"shop=department_store, brand=TJ Maxx"
+"Arlington, AZ",,retail,446120,Ulta Beauty,"883 South Cotton Lane, Goodyear, AZ, 85338",,,33.4384208,-112.4238998,,,n_12125082279,"shop=cosmetics, brand=Ulta Beauty"
+"Arlington, AZ",,retail,445120,7-Eleven,"1025 North Estrella Parkway, Goodyear, AZ, 85338",,,33.4578058,-112.3915321,,,n_12410053158,"shop=convenience, brand=7-Eleven"
+"Arlington, AZ",,retail,445110,WinCo Foods,"West McDowell Road, Goodyear, AZ, 85395",,,33.4628424,-112.3944189,,,n_12505626228,"shop=supermarket, brand=WinCo Foods"
+"Arlington, AZ",,retail,445110,Bashas',"21064 West Main Street, Buckeye, AZ, 85396",+1-623-388-6000,https://www.bashas.com/,33.4961122,-112.5126469,,,n_12537902003,"shop=supermarket, brand=Bashas'"
+"Arlington, AZ",,retail,446120,Nail Bar,"570 North Estrella Parkway, Goodyear, AZ, 85338",,,33.4530008,-112.3937106,,,n_12554630532,shop=beauty
+"Arlington, AZ",,retail,452319,Tuff Shed;Ivory House,"650 North Estrella Parkway, Goodyear, AZ, 85338",,,33.4538565,-112.3944186,,,n_12554630554,shop=general
+"Arlington, AZ",,retail,446120,Miyu Nails & Spa,,,,33.4690527,-112.3838712,,,n_12594201366,shop=beauty
+"Arlington, AZ",,retail,445120,,"19491 North Canyon Springs Boulevard, Buckeye, AZ, 85396",,,33.6614061,-112.6155534,,,w_155457482,shop=convenience
+"Arlington, AZ",,retail,445120,Festival Village Market,"19491 North Canyon Springs Boulevard, Buckeye, AZ, 85396",,,33.6612396,-112.6158298,,,w_155457483,"shop=convenience, amenity=fuel, operator=Shell Gas"
+"Arlington, AZ",,retail,445120,Love's,"1610 South Miller Road, Buckeye, AZ, 85326",+1 623 386 6926,,33.431107,-112.5917821,,,w_223537900,"shop=convenience, brand=Love's"
+"Arlington, AZ",,retail,445110,Fry's Marketplace,"16380 West Yuma Road, Goodyear, AZ, 85338",+1 623-925-4440,https://www.frysfood.com/stores/grocery/az/goodyear/yuma-sarival-rd/660/00676,33.4376982,-112.4111804,,,w_236357005,"shop=supermarket, brand=Fry's Marketplace"
+"Arlington, AZ",,retail,445110,Walmart Supercenter,"1100 North Estrella Parkway, Goodyear, AZ, 85338",+1 623-925-9575,https://www.walmart.com/store/5369-goodyear-az,33.4595426,-112.3952312,,,w_238144169,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Arlington, AZ",,retail,446110,Walgreens,"23477 West Yuma Road, Buckeye, AZ, 85326",,https://www.walgreens.com/locator/walgreens-23477+w+yuma+rd-buckeye-az-85326/id=9175,33.4349807,-112.5555514,,,w_274121263,"shop=chemist, brand=Walgreens"
+"Arlington, AZ",,retail,445120,Circle K,"537 South Watson Road, Buckeye, AZ, 85326",,,33.4420863,-112.5555611,,,w_302427382,"shop=convenience, brand=Circle K"
+"Arlington, AZ",,retail,445110,Walmart Supercenter,"1060 South Watson Road, Buckeye, AZ, 85326",+1 623-474-6728,https://www.walmart.com/store/3407-buckeye-az,33.4369065,-112.560349,,,w_313143191,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Arlington, AZ",,retail,445110,Fry's Marketplace,"1300 South Watson Road, Buckeye, AZ, 85326",+1 623-691-6600,https://www.frysfood.com/stores/grocery/az/buckeye/yuma-st-watson-rd/660/00675;https://www.frysfood.com/health-services/clinic/details/851/00107,33.434174,-112.5586905,,,w_313165785,"shop=supermarket, brand=Fry's Marketplace, operator=Fry's"
+"Arlington, AZ",,retail,445120,Speedmart,"25031 West Durango Street, Buckeye, AZ, 85326",,,33.427498,-112.5900624,,,w_313647183,shop=convenience
+"Arlington, AZ",,retail,445120,Woody's,"4217 North 411th Avenue, Tonopah, AZ, 85354",,,33.494423,-112.9364884,,,w_321146426,"shop=convenience, operator=Woody's Food Stores"
+"Arlington, AZ",,retail,445120,,"1419 North Jackrabbit Trail, Buckeye, AZ, 85396",,,33.4636474,-112.4779851,,,w_334949255,shop=convenience
+"Arlington, AZ",,retail,445110,Safeway,"9890 South Estrella Parkway, Goodyear, AZ, 85338",+1 623-691-6417,https://local.safeway.com/safeway/az/goodyear/9890-s-estrella-pkwy.html,33.3577193,-112.4284025,,,w_370370257,"shop=supermarket, brand=Safeway"
+"Arlington, AZ",,retail,445120,QuikTrip,"1850 South Miller Road, Buckeye, AZ, 85326",,,33.4295099,-112.591875,,,w_385077203,"shop=convenience, brand=QuikTrip"
+"Arlington, AZ",,retail,446110,Walgreens,"9800 South Estrella Parkway, Goodyear, AZ, 85338",6232553649,https://www.walgreens.com/locator/walgreens-9800+s+estrella+pkwy-goodyear-az-85338/id=12386,33.3576791,-112.4264417,,,w_394522818,"shop=chemist, brand=Walgreens"
+"Arlington, AZ",,retail,452210,Target,"995 South Cotton Lane, Goodyear, AZ, 85338",+1 480-627-3275,https://www.target.com/sl/goodyear-west/2400,33.4376801,-112.4212679,,,w_506027390,"shop=department_store, brand=Target"
+"Arlington, AZ",,retail,452210,Ross,"845 South Cotton Lane, Goodyear, AZ, 85338",+1 623-925-0792,,33.4389465,-112.4214684,,,w_506028108,"shop=department_store, brand=Ross"
+"Arlington, AZ",,retail,445310,BevMo!,"15405 West McDowell Road, Goodyear, AZ, 85395",,,33.4626234,-112.3905813,,,w_506652641,"shop=alcohol, brand=BevMo!"
+"Arlington, AZ",,retail,446110,Walgreens,"1654 North Pebble Creek Parkway, Goodyear, AZ, 85395",,https://www.walgreens.com/locator/walgreens-1654+n+pebble+creek+pkwy-goodyear-az-85395/id=12334,33.4653745,-112.3932779,,,w_717576695,"shop=chemist, brand=Walgreens"
+"Arlington, AZ",,retail,446110,Walgreens,"25073 West Southern Avenue, Buckeye, AZ, 85326",,https://www.walgreens.com/locator/walgreens-25073+w+southern+ave-buckeye-az-85326/id=11470,33.3914049,-112.5901989,,,w_823707988,"shop=chemist, brand=Walgreens"
+"Arlington, AZ",,retail,445110,Safeway,"440 North Estrella Parkway, Goodyear, AZ, 85338",+1 623-476-1708,https://local.safeway.com/safeway/az/goodyear/440-n-estrella-pkwy.html,33.4514894,-112.394564,,,w_896035044,"shop=supermarket, brand=Safeway"
+"Arlington, AZ",,retail,446110,Walgreens,"387 North Estrella Parkway, Goodyear, AZ, 85338",,https://www.walgreens.com/locator/walgreens-387+n+estrella+pkwy-goodyear-az-85338/id=2243,33.4507675,-112.3917402,,,w_896035076,"shop=chemist, brand=Walgreens"
+"Arlington, AZ",,retail,445110,ALDI,"845 North Estrella Parkway, Goodyear, AZ, 85338-3031",+1 833-479-7161,https://stores.aldi.us/az/goodyear/845-n-estrella-pkwy,33.4560732,-112.3915669,,,w_929980269,"shop=supermarket, brand=ALDI"
+"Arlington, AZ",,retail,445120,Circle K,"721 North Jackrabbit Trail;North 195th Avenue, Buckeye, AZ, 85326",,,33.4554806,-112.4782045,,,w_935371343,"shop=convenience, brand=Circle K"
+"Arlington, AZ",,retail,445120,,"1520 North Verrado Way, Buckeye, AZ, 85396",,,33.4650109,-112.5052077,,,w_938255786,shop=convenience
+"Arlington, AZ",,retail,445120,Pilot,"41112 West Indian School Road, Tonopah, AZ, 85354",,,33.4941371,-112.937855,,,w_951751973,"shop=convenience, brand=Pilot, operator=Pilot"
+"Arlington, AZ",,retail,445110,Micky's Mini Mart,,,,33.379738,-112.586175,,,w_1002811984,shop=supermarket
+"Arlington, AZ",,retail,445110,The Butcher & Farmer IGA,"298 East Monroe Avenue, Buckeye, AZ, 85326",+1 619-579-4100,,33.370781,-112.5882755,,,w_1003625549,"shop=supermarket, brand=IGA"
+"Arlington, AZ",,retail,445120,QuikTrip,"900 South Watson Road, Buckeye, AZ, 85326",,,33.4384276,-112.5572629,,,w_1003770530,"shop=convenience, brand=QuikTrip"
+"Arlington, AZ",,retail,445110,Fry's Marketplace,"4106 North 195th Avenue, Buckeye, AZ, 85340",,,33.495762,-112.4816809,,,w_1063125742,"shop=supermarket, brand=Fry's Marketplace"
+"Arlington, AZ",,retail,445120,Circle K,"15535 West McDowell Road, Goodyear, AZ, 85395",,,33.4639694,-112.3933852,,,w_1069112882,"shop=convenience, brand=Circle K"
+"Arlington, AZ",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/az/surprise/22512,33.5812819,-112.4629728,,,w_1168299806,"shop=variety_store, brand=Dollar General"
+"Arlington, AZ",,retail,445120,QuikTrip,"577 North Estrella Parkway, Goodyear, AZ, 85338",,,33.4530898,-112.3915032,,,w_1183094689,"shop=convenience, brand=QuikTrip"
+"Arlington, AZ",,retail,445110,Blue Sky Organic Farm Store,"4762 N 189th Dr, Litchfield Park, AZ, 85340",+16232664031,https://blueskyorganicfarms.com/,33.5039032,-112.4662647,,,w_1208663558,"shop=supermarket, operator=Blue Sky Organic Farm"
+"Arlington, AZ",,retail,445110,Aldi,"1361 South Watson Road, Buckeye, AZ, 85326",+1 877-479-1152,https://stores.aldi.us/az/buckeye/1361-s-watson-rd,33.4337565,-112.5549468,,,w_1219831306,"shop=supermarket, brand=Aldi"
+"Arlington, AZ",,retail,452319,Out West General Store,"Waddell, AZ, 85355",,https://www.outwestgeneralstore.com/,33.5368469,-112.4278061,,,w_1237093522,shop=general
+"Arlington, AZ",,retail,445120,QuikTrip,"1540 North Bullard Avenue, Goodyear, AZ, 85395",+14803837992,,33.4637527,-112.3762404,,,w_1262345117,"shop=convenience, brand=QuikTrip"
+"Arlington, AZ",,retail,446120,Ulta Beauty,"755 South Cotton Lane, Goodyear, AZ, 85338",,,33.4398824,-112.421875,,,w_1281821421,"shop=cosmetics, brand=Ulta Beauty"
+"Arlington, AZ",,retail,452319,Dollar Tree,"19385 West Indian School Road, Buckeye, AZ, 85340",,,33.4922527,-112.4767989,,,w_1356172496,"shop=variety_store, brand=Dollar Tree"
+"Arlington, AZ",,retail,445120,Fry's Fuel,"1064 South Sarival Avenue, Goodyear, AZ, 85338",,,33.4368354,-112.4100527,,,w_1367427877,shop=convenience
+"Arlington, AZ",,retail,445120,Safeway Fuel Station,"480 North Estrella Parkway, Goodyear, AZ, 85338",,,33.4521435,-112.3932843,,,w_1367434212,shop=convenience
+"Arlington, AZ",,retail,452210,Burlington,"595 South Cotton Lane, Goodyear, AZ, 85338",,,33.4413934,-112.4226891,,,w_1420458169,"shop=department_store, brand=Burlington"

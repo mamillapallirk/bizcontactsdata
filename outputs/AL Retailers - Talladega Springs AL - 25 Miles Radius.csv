@@ -1,0 +1,89 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Talladega Springs, AL",,retail,452210,Belk,,,,33.2327461,-86.8021973,,,n_459390701,"shop=department_store, brand=Belk, operator=Belk"
+"Talladega Springs, AL",,retail,452210,Target,"250 South Colonial Drive, Alabaster, AL, 35007-4657",+1 205-564-2608,https://www.target.com/sl/alabaster/2276,33.2243459,-86.8043602,,,n_459390707,"shop=department_store, brand=Target"
+"Talladega Springs, AL",,retail,445110,Publix,"365 Huntley Parkway, Pelham, AL, 35124-6164",+1 205-620-0102,https://www.publix.com/locations/1202,33.2747947,-86.7925621,,,n_474865135,"shop=supermarket, brand=Publix"
+"Talladega Springs, AL",,retail,445110,Winn-Dixie,"150 Chelsea Corners Way, Chelsea, AL, 35043",+1 205-678-8808,https://www.winndixie.com/storedetails/chelsea/al?search=509,33.3462774,-86.6308773,,,n_1740785052,"shop=supermarket, brand=Winn-Dixie"
+"Talladega Springs, AL",,retail,445110,Walmart Supercenter,"16077 Highway 280, Chelsea, AL, 35043",+1 205-678-2222,https://www.walmart.com/store/4330-chelsea-al,33.347786,-86.619238,,,n_1740790505,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Talladega Springs, AL",,retail,445120,Food Mart,"2241 7th Street South, Clanton, 35045",,,32.8008634,-86.5765696,,,n_2505394234,"shop=convenience, amenity=fuel"
+"Talladega Springs, AL",,retail,445120,Jet-Pep,"2261 7th Street South, Clanton, AL, 35045",,,32.8001978,-86.5753002,,,n_2505394238,"shop=convenience, amenity=fuel"
+"Talladega Springs, AL",,retail,445120,Texaco,"2320 7th Street South, Clanton, AL, 35045",,,32.7996424,-86.5731948,,,n_2505394243,"shop=convenience, amenity=fuel"
+"Talladega Springs, AL",,retail,445110,Publix,"90 Marketplace Circle, Calera, AL, 35040",+1 205-668-3585,https://www.publix.com/locations/1281,33.1555779,-86.7485346,,,n_2760034105,"shop=supermarket, brand=Publix"
+"Talladega Springs, AL",,retail,445120,Allen's Food Mart,"33867 US Highway 280, Childersburg, AL, 35044",+1 256 378 7809,http://www.exxonmobilstations.com/en/13907-allens-food-mart-27-childersburg,33.2634204,-86.349421,,,n_4076735528,shop=convenience
+"Talladega Springs, AL",,retail,452210,Big Lots,"3550 Pelham Parkway, Pelham, AL, 35124",+1 205-620-5051,https://local.biglots.com/al/pelham/3550-pelham-pkwy,33.2649118,-86.8122851,,,n_4840193224,"shop=department_store, brand=Big Lots"
+"Talladega Springs, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/pelham/12246,33.263938,-86.8124484,,,n_4840193228,"shop=variety_store, brand=Dollar General"
+"Talladega Springs, AL",,retail,445110,Walmart Supercenter,"41301 Us Highway 280, Sylacauga, AL, 35150",+1 256-245-0356,https://www.walmart.com/store/730-sylacauga-al,33.1757912,-86.2857733,,,n_5315596467,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Talladega Springs, AL",,retail,445120,Sunny Foods,,,,33.344839,-86.7706009,,,n_5886332919,shop=convenience
+"Talladega Springs, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/birmingham/3382/,33.3825451,-86.7385259,,,n_5891792998,"shop=variety_store, brand=Dollar Tree"
+"Talladega Springs, AL",,retail,452210,TJ Maxx,,,,33.1738297,-86.282984,,,n_7241397916,"shop=department_store, brand=TJ Maxx"
+"Talladega Springs, AL",,retail,446110,Village Drug Co,,,,33.4083771,-86.6313016,,,n_7784313879,shop=chemist
+"Talladega Springs, AL",,retail,452210,TJ Maxx,,,,33.2236663,-86.8038966,,,n_8941907815,"shop=department_store, brand=TJ Maxx"
+"Talladega Springs, AL",,retail,446120,Ulta Beauty,"100 South Colonial Drive, Alabaster, AL, 35007",+1 205-664-4985,https://www.ulta.com/stores/alabaster-al-1084,33.2257461,-86.8045431,,,n_8941907833,"shop=cosmetics, brand=Ulta Beauty"
+"Talladega Springs, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/sylacauga/6434,33.1849697,-86.2468455,,,n_9009330676,"shop=variety_store, brand=Dollar General"
+"Talladega Springs, AL",,retail,446120,M. D. Nails,,,,33.1847448,-86.2468483,,,n_9009330678,shop=beauty
+"Talladega Springs, AL",,retail,452210,Burkes Outlet,,,,33.1766132,-86.2875547,,,n_10762069322,shop=department_store
+"Talladega Springs, AL",,retail,446120,Bath & Body Works,,,,33.1764381,-86.2872352,,,n_10762069324,"shop=cosmetics, brand=Bath & Body Works"
+"Talladega Springs, AL",,retail,452319,Five Below,,+1 256-367-1274,https://locations.fivebelow.com/al/sylacauga/41271-us-280-w,33.1762922,-86.286969,,,n_10762069327,"shop=variety_store, brand=Five Below"
+"Talladega Springs, AL",,retail,445110,Publix,"501 Chelsea Crossroads, Chelsea, AL, 35043-3900",+1 205-678-5600,https://www.publix.com/locations/1370,33.3532285,-86.6088316,,,n_10765291274,"shop=supermarket, brand=Publix"
+"Talladega Springs, AL",,retail,445292,La Fiesta Snack Bar And Dulcería,"410 1st Street Southwest, Alabaster, AL",+1 205-624-3191,,33.2396704,-86.8183735,,,n_11762759252,shop=confectionery
+"Talladega Springs, AL",,retail,453991,Walco Handy Mart,"626 Alabama Avenue, Sylacauga, AL, 35150",256-249-9263,,33.1830259,-86.2716509,,,n_11919268747,"shop=tobacco, operator=Andy Patel"
+"Talladega Springs, AL",,retail,445120,,,,,33.3349519,-86.7817676,,,n_12361107172,shop=convenience
+"Talladega Springs, AL",,retail,445120,,,,,33.2821553,-86.3624549,,,n_12361301180,shop=convenience
+"Talladega Springs, AL",,retail,445120,,,,,33.3370662,-86.7814685,,,n_12362076799,shop=convenience
+"Talladega Springs, AL",,retail,445110,Lucky's FoodLand,"4000 AL 25, Montevallo, AL, 35115",+1 205-665-5124,,33.0917618,-86.8648624,,,n_12500584535,"shop=supermarket, brand=FoodLand"
+"Talladega Springs, AL",,retail,445120,,,,,32.8442319,-86.5978016,,,n_12535243385,shop=convenience
+"Talladega Springs, AL",,retail,452319,Five Below,"100 South Colonial Drive, Alabaster, AL, 35007",+1 205-564-1095,https://locations.fivebelow.com/al/alabaster/100-s-colonial-dr,33.2259199,-86.8045403,,,n_12861953001,"shop=variety_store, brand=Five Below"
+"Talladega Springs, AL",,retail,445120,Loves' #368,,,,32.844847,-86.5915783,,,w_220383386,shop=convenience
+"Talladega Springs, AL",,retail,452210,Kohl's,"1100 Inverness Corners, Birmingham, AL, 35242",+1 205-980-4770,https://www.kohls.com/stores/al/birmingham-657.shtml,33.4158879,-86.6966641,,,w_364002425,"shop=department_store, brand=Kohl's"
+"Talladega Springs, AL",,retail,445110,Walmart Supercenter,"5355 Highway 280, Hoover, AL, 35242",+1 205-980-5156,https://www.walmart.com/store/2111-hoover-al,33.4219449,-86.6758432,,,w_374365342,"shop=supermarket, brand=Walmart"
+"Talladega Springs, AL",,retail,445120,Circle K,,,,33.1804395,-86.6153225,,,w_569166394,"shop=convenience, brand=Circle K"
+"Talladega Springs, AL",,retail,445110,Piggly Wiggly,"211 West College Street, Columbiana, AL, 35051",+1 205-669-9916,,33.1791063,-86.6133071,,,w_569166397,"shop=supermarket, brand=Piggly Wiggly"
+"Talladega Springs, AL",,retail,445310,ABC Beverages,,,,33.1793324,-86.6139413,,,w_569166399,shop=alcohol
+"Talladega Springs, AL",,retail,445120,,,,,33.0546551,-86.1466357,,,w_592485793,shop=convenience
+"Talladega Springs, AL",,retail,445110,Piggly Wiggly,"1351 North Fort Williams Street, Sylacauga, AL, 35150",+1 256-249-8989,,33.1647041,-86.272942,,,w_592487546,"shop=supermarket, brand=Piggly Wiggly"
+"Talladega Springs, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/hoover-al-pharmacies/5400-hwy-280-hoover-al-35242/storeid=10181,33.4182388,-86.6714245,,,w_592538911,"shop=chemist, brand=CVS Pharmacy"
+"Talladega Springs, AL",,retail,445110,Piggly Wiggly,"1324 Dunnavant Valley Road, Birmingham, AL, 35242",+1 205-918-7120,,33.4064498,-86.6317268,,,w_619892086,"shop=supermarket, brand=Piggly Wiggly, operator=Piggly Wiggly"
+"Talladega Springs, AL",,retail,445110,Hudd's Food Center,,,,33.2357699,-86.4834795,,,w_620995890,shop=supermarket
+"Talladega Springs, AL",,retail,445110,Publix,"410 Doug Baker Boulevard, Hoover, AL, 35242-2682",+1 205-981-7415,https://www.publix.com/locations/882,33.4089505,-86.6685659,,,w_621546648,"shop=supermarket, brand=Publix"
+"Talladega Springs, AL",,retail,446110,Walgreens,"101 Doug Baker Boulevard, Birmingham, AL, 35242",,https://www.walgreens.com/locator/walgreens-101+doug+baker+blvd-hoover-al-35242/id=7791,33.4087669,-86.6653142,,,w_621547404,"shop=chemist, brand=Walgreens"
+"Talladega Springs, AL",,retail,445120,,,,,33.3552451,-86.747251,,,w_623950944,shop=convenience
+"Talladega Springs, AL",,retail,445120,Circle K,,,,33.3835302,-86.7389778,,,w_623950947,"shop=convenience, brand=Circle K"
+"Talladega Springs, AL",,retail,445110,Walmart Neighborhood Market,"2653 Valleydale Road, Hoover, AL, 35244",+1 205-582-6183,https://www.walmart.com/store/3424-birmingham-al,33.3823187,-86.7392069,,,w_623950948,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Talladega Springs, AL",,retail,445120,,,,,33.1783649,-86.6050588,,,w_690258115,shop=convenience
+"Talladega Springs, AL",,retail,452210,JCPenney,,,,33.2226227,-86.8022847,,,w_698363626,"shop=department_store, brand=JCPenney"
+"Talladega Springs, AL",,retail,452319,Dollar General,"32300 US Highway 280, Childersburg, AL, 35044",+1 256 378 5682,https://www.dollargeneral.com/store-directory/al/childersburg/4339,33.2831706,-86.3625301,,,w_751960709,"shop=variety_store, brand=Dollar General"
+"Talladega Springs, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/wilsonville/6415,33.2402518,-86.4801614,,,w_751965807,"shop=variety_store, brand=Dollar General"
+"Talladega Springs, AL",,retail,445110,Publix,"6219 Tattersall Boulevard, Hoover, AL, 35242",+1 205-981-3995,https://www.publix.com/locations/1687-publix-at-tattersall-park,33.4198104,-86.6675865,,,w_764046010,"shop=supermarket, brand=Publix"
+"Talladega Springs, AL",,retail,445110,Walmart Supercenter,"5100 U.S. 31, Calera, AL, 35040",+1 205-668-0831,https://www.walmart.com/store/3271-calera-al,33.1464208,-86.7518383,,,w_807671039,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Talladega Springs, AL",,retail,445120,Headley,,,,32.8862102,-86.6245443,,,w_824722010,shop=convenience
+"Talladega Springs, AL",,retail,445110,Walmart Neighborhood Market,"9085 Highway 119, Alabaster, AL, 35007",+1 205-624-6229,https://www.walmart.com/store/4756/alabaster-al,33.2121987,-86.8298012,,,w_870061882,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Talladega Springs, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/alabaster/9539,33.2138347,-86.8248607,,,w_870061889,"shop=variety_store, brand=Dollar General"
+"Talladega Springs, AL",,retail,445110,Publix,"9200 Highway 119, Alabaster, AL, 35007-5344",+1 205-663-3443,https://www.publix.com/locations/1073,33.2127058,-86.8256557,,,w_870061890,"shop=supermarket, brand=Publix"
+"Talladega Springs, AL",,retail,446110,CVS Pharmacy,,,,33.2146532,-86.8278442,,,w_870061893,"shop=chemist, brand=CVS Pharmacy"
+"Talladega Springs, AL",,retail,445110,Walmart Supercenter,"630 Colonial Promenade Parkway, Alabaster, AL, 35007",+1 205-620-0360,https://www.walmart.com/store/423-alabaster-al,33.2354875,-86.8012835,,,w_870236304,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Talladega Springs, AL",,retail,452210,Belk,,,,33.2327608,-86.8021965,,,w_870236314,"shop=department_store, brand=Belk"
+"Talladega Springs, AL",,retail,452210,Ross,"300 Colonial Promenade Parkway, Alabaster, AL, 35007",+1 205-663-1319,,33.2317788,-86.8021313,,,w_870236316,"shop=department_store, brand=Ross"
+"Talladega Springs, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/alabaster/4579/,33.2320907,-86.8022601,,,w_870513407,"shop=variety_store, brand=Dollar Tree"
+"Talladega Springs, AL",,retail,446110,,,,,33.218775,-86.825569,,,w_921953497,shop=chemist
+"Talladega Springs, AL",,retail,445110,,,,,33.2170917,-86.8264418,,,w_921953510,shop=supermarket
+"Talladega Springs, AL",,retail,445110,ALDI,"113 Simmsville Road, Alabaster, AL, 35007",+1 833-470-7038,https://stores.aldi.us/al/alabaster/113-simmsville-rd,33.2399113,-86.8154814,,,w_940866324,"shop=supermarket, brand=ALDI"
+"Talladega Springs, AL",,retail,445120,RaceWay,,,,33.2778545,-86.8125705,,,w_963775252,"shop=convenience, brand=RaceWay"
+"Talladega Springs, AL",,retail,445110,Sprouts Farmers Market,"5265 US Highway 280, Birmingham, AL, 35242",+1 205-263-2808,https://www.sprouts.com/store/al/birmingham/us-hwy-280/,33.4201203,-86.683399,,,w_968339835,"shop=supermarket, brand=Sprouts Farmers Market"
+"Talladega Springs, AL",,retail,452319,Five Below,,+1 205-408-5213,https://locations.fivebelow.com/al/birmingham/5267-us-280,33.4197581,-86.6835648,,,w_968339836,"shop=variety_store, brand=Five Below"
+"Talladega Springs, AL",,retail,445110,Piggly Wiggly,"1244 North Talladega Highway, Sylacauga, AL, 35150",+1 256-249-4836,,33.1847328,-86.243721,,,w_973430147,"shop=supermarket, brand=Piggly Wiggly"
+"Talladega Springs, AL",,retail,452319,Dixie Drugs [Defunct],,,,33.1780002,-86.2504658,,,w_1058148307,shop=general
+"Talladega Springs, AL",,retail,445110,Piggly Wiggly,"24716 US-31, Jemison, AL, 35085",+1 205-688-2477,,32.9591894,-86.7420219,,,w_1069806466,"shop=supermarket, brand=Piggly Wiggly"
+"Talladega Springs, AL",,retail,446110,Hayes Drug,"24724 US-31, Jemison, AL, 35085",,,32.9594803,-86.7421703,,,w_1069806470,shop=chemist
+"Talladega Springs, AL",,retail,452319,Dollar General,"8898 County Road 42 East, Jemison, AL, 35085",,https://www.dollargeneral.com/store-directory/al/jemison/8862,32.9583581,-86.742272,,,w_1069806472,"shop=variety_store, brand=Dollar General"
+"Talladega Springs, AL",,retail,445120,BP Shop,,,,33.0660995,-86.0544015,,,w_1098258349,"shop=convenience, brand=BP Shop"
+"Talladega Springs, AL",,retail,445120,In-and-Out Market,,,,33.066832,-86.0553456,,,w_1098258352,shop=convenience
+"Talladega Springs, AL",,retail,452319,Dollar General,"110 Cedar Street, Montevallo, AL, 35115",,https://www.dollargeneral.com/store-directory/al/montevallo/4962,33.0928915,-86.86227,,,w_1154319432,"shop=variety_store, brand=Dollar General"
+"Talladega Springs, AL",,retail,445120,,,,,33.139679,-86.7519431,,,w_1154360283,shop=convenience
+"Talladega Springs, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/calera/1881/,33.1483036,-86.748558,,,w_1154360324,"shop=variety_store, brand=Dollar Tree"
+"Talladega Springs, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/sylacauga/2332,33.1681611,-86.251296,,,w_1157063293,"shop=variety_store, brand=Dollar General"
+"Talladega Springs, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/sylacauga/16257,33.2219136,-86.3213124,,,w_1157123646,"shop=variety_store, brand=Dollar General"
+"Talladega Springs, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/sylacauga/22329,33.2508963,-86.3400606,,,w_1225604557,"shop=variety_store, brand=Dollar General"
+"Talladega Springs, AL",,retail,452319,Dollar General,,,,33.0755627,-86.5715285,,,w_1263564433,"shop=variety_store, brand=Dollar General"
+"Talladega Springs, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/columbiana-al-pharmacies/227-west-college-st-columbiana-al-35051/storeid=4866,33.1792015,-86.6146782,,,w_1263564449,"shop=chemist, brand=CVS Pharmacy"
+"Talladega Springs, AL",,retail,445110,Walmart Supercenter,"1415 7th Street South, Clanton, AL, 35045",+1 205-755-7574,https://www.walmart.com/store/424-clanton-al,32.8167395,-86.6093644,,,w_1311909801,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Talladega Springs, AL",,retail,445110,Winn-Dixie,,,,33.3462256,-86.6312701,,,w_1322310227,"shop=supermarket, brand=Winn-Dixie"
+"Talladega Springs, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/sylacauga/541/,33.1729327,-86.2894706,,,w_1373113697,"shop=variety_store, brand=Dollar Tree"

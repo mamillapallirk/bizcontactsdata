@@ -1,0 +1,48 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Blue Springs, AL",,retail,445120,,,,,31.608748,-85.4302721,,,n_1148153994,shop=convenience
+"Blue Springs, AL",,retail,446120,Palm Beach Tan,,,,31.4413063,-85.6507519,,,n_5072971751,"shop=beauty, brand=Palm Beach Tan"
+"Blue Springs, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/ozark/2894/,31.4421961,-85.6524521,,,n_5072971754,"shop=variety_store, brand=Dollar Tree"
+"Blue Springs, AL",,retail,445110,Grocery Outlet,,,,31.4470287,-85.6551428,,,n_5072971772,"shop=supermarket, brand=Grocery Outlet"
+"Blue Springs, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/ozark/2738,31.4473989,-85.6549834,,,n_5072971773,"shop=variety_store, brand=Dollar General"
+"Blue Springs, AL",,retail,452210,Rose's,,,,31.447973,-85.6550188,,,n_5072971774,shop=department_store
+"Blue Springs, AL",,retail,445110,Piggly Wiggly,"553 North Main Street, Brundidge, AL, 36010",+1 334-735-3337,,31.7265235,-85.8178782,,,n_11618396430,"shop=supermarket, brand=Piggly Wiggly"
+"Blue Springs, AL",,retail,445110,Piggly Wiggly,"288 North Union Avenue, Ozark, AL, 36360",+1 334-774-9333,,31.4624719,-85.6394725,,,n_11618396431,"shop=supermarket, brand=Piggly Wiggly"
+"Blue Springs, AL",,retail,445110,Walmart Supercenter,"3176 South Eufaula Avenue, Eufaula, AL, 36027",+1 334-687-2218,https://www.walmart.com/store/1638-eufaula-al,31.8435177,-85.1710409,,,w_422322460,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Blue Springs, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/eufaula/11671,31.7980556,-85.1655931,,,w_422550641,"shop=variety_store, brand=Dollar General"
+"Blue Springs, AL",,retail,445120,,,,,31.8715057,-85.2148875,,,w_448738165,shop=convenience
+"Blue Springs, AL",,retail,445110,Food Giant,"247 Eufaula Avenue, Clayton, AL, 36016",,,31.8790142,-85.4392416,,,w_511442357,shop=supermarket
+"Blue Springs, AL",,retail,445120,,"980 E Highway 134, Pinckard, AL, 36371",,,31.3135815,-85.5531977,,,w_555844122,shop=convenience
+"Blue Springs, AL",,retail,452319,Dollar General,"12628 County Road 59, Midland City, AL, 36350",+1-334-983-1259,https://www.dollargeneral.com/store-directory/al/midland-city/4458,31.3095647,-85.4969497,,,w_556538833,"shop=variety_store, brand=Dollar General"
+"Blue Springs, AL",,retail,445210,,"US 231 (AL), Midland City, AL, 36350",,,31.3087487,-85.4970294,,,w_556544837,shop=butcher
+"Blue Springs, AL",,retail,445110,Foodliner,"14930 US Highway 231, Midland City, AL, 36350",+1-334-983-4101,,31.3080819,-85.4944217,,,w_556555794,shop=supermarket
+"Blue Springs, AL",,retail,445120,Circle K,"14930 US Highway 231, Midland City, AL, 36350",+1-334-984-2202,,31.3067783,-85.4963655,,,w_556578825,"shop=convenience, brand=Circle K"
+"Blue Springs, AL",,retail,445110,Walmart Supercenter,"1537 South Us Highway 231, Ozark, AL, 36360",+1 334-774-0272,https://www.walmart.com/store/740-ozark-al,31.4452436,-85.6507076,,,w_744532821,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Blue Springs, AL",,retail,445120,Citgo,"2800 U.S. Highway 431, Abbeville, AL, 36310",+1-334-585-3066,,31.5499821,-85.2856707,,,w_823711487,"shop=convenience, brand=Citgo"
+"Blue Springs, AL",,retail,452319,Dollar General,"156 Henry County 22, Headland, AL, 36345",+1-334-245-4979,https://www.dollargeneral.com/store-directory/al/headland/1368,31.334245,-85.3343504,,,w_823711517,"shop=variety_store, brand=Dollar General"
+"Blue Springs, AL",,retail,445110,Food Giant,,,,31.5723924,-85.2507714,,,w_839717042,shop=supermarket
+"Blue Springs, AL",,retail,452319,LilyMag's Boutique,,,,31.8783844,-85.4488743,,,w_1079038914,shop=general
+"Blue Springs, AL",,retail,445310,ABC Store,,,,31.8783594,-85.4484344,,,w_1079038918,shop=alcohol
+"Blue Springs, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/clayton/1370,31.87885,-85.4475573,,,w_1079038927,"shop=variety_store, brand=Dollar General"
+"Blue Springs, AL",,retail,445120,Love's,,,https://www.loves.com/locations/566,31.427599,-85.6193735,,,w_1147422696,"shop=convenience, brand=Love's"
+"Blue Springs, AL",,retail,445120,Hobo Pantry,,,,31.4480632,-85.6590806,,,w_1161111644,shop=convenience
+"Blue Springs, AL",,retail,445120,,,,,31.8568478,-85.1671248,,,w_1177450160,"shop=convenience, brand=Marathon"
+"Blue Springs, AL",,retail,452319,Dollar General,"38 County Road 59, Brundidge, AL, 36010",,https://www.dollargeneral.com/store-directory/al/brundidge/17630,31.6444437,-85.8090141,,,w_1180505570,"shop=variety_store, brand=Dollar General"
+"Blue Springs, AL",,retail,445310,Corner Package Store,,,,31.6801089,-85.8251779,,,w_1180505579,shop=alcohol
+"Blue Springs, AL",,retail,445120,Marathon,,,,31.7194367,-85.8294441,,,w_1180505631,"shop=convenience, brand=Marathon"
+"Blue Springs, AL",,retail,445120,Citgo,,,,31.7208109,-85.8301907,,,w_1180505677,"shop=convenience, brand=Citgo"
+"Blue Springs, AL",,retail,445120,Marathon,36360,,,31.3762,-85.568624,,,w_1180554159,"shop=convenience, brand=Marathon"
+"Blue Springs, AL",,retail,445120,Kathy's Kountry Korner,36360,,,31.3767922,-85.5706865,,,w_1180554161,shop=convenience
+"Blue Springs, AL",,retail,445120,Inland,36360,,,31.4246969,-85.6179547,,,w_1180554204,"shop=convenience, brand=Inland"
+"Blue Springs, AL",,retail,445120,Shell,36360,,,31.4394877,-85.642229,,,w_1180554294,"shop=convenience, brand=Shell"
+"Blue Springs, AL",,retail,445120,Shell,36360,,,31.447164,-85.6579339,,,w_1180554420,"shop=convenience, brand=Shell"
+"Blue Springs, AL",,retail,445120,,,,,31.4477868,-85.6568323,,,w_1180554430,shop=convenience
+"Blue Springs, AL",,retail,445110,,,,,31.7099465,-85.610112,,,w_1207533458,shop=supermarket
+"Blue Springs, AL",,retail,445110,Hometown Foods,"1961 Main Street, Louisville, AL, 36048",,,31.7834986,-85.5557314,,,w_1207578403,shop=supermarket
+"Blue Springs, AL",,retail,446110,Clayton Drugs,"23 Court Square, Clayton, AL, 36016",,,31.8779354,-85.4490555,,,w_1207578415,shop=chemist
+"Blue Springs, AL",,retail,452319,Kenny's,,,,31.8674588,-85.4332598,,,w_1207583389,shop=general
+"Blue Springs, AL",,retail,452319,Bob Boyd's Gen Mdse,,,,31.7427603,-85.4249265,,,w_1213815992,shop=general
+"Blue Springs, AL",,retail,445120,Hobo Pantry,,,,31.3564638,-85.3278582,,,w_1233967768,shop=convenience
+"Blue Springs, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/abbeville/7357,31.5627529,-85.252194,,,w_1234155643,"shop=variety_store, brand=Dollar General"
+"Blue Springs, AL",,retail,445120,Shell,,,,31.5628455,-85.2505302,,,w_1234155644,"shop=convenience, brand=Shell"
+"Blue Springs, AL",,retail,452319,Family Dollar,,,,31.5676142,-85.2511727,,,w_1234155647,"shop=variety_store, brand=Family Dollar"
+"Blue Springs, AL",,retail,445310,,,,,31.3352962,-85.3361556,,,w_1355689910,shop=alcohol

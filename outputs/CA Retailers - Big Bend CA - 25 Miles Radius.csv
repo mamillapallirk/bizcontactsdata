@@ -1,0 +1,14 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Big Bend, CA",,retail,445120,McCloud Market,,,,41.2516129,-122.1367473,,,n_1881939544,shop=convenience
+"Big Bend, CA",,retail,445110,Dunsmuir Supermarket,"5529 Dunsmuir Avenue, Dunsmuir, CA, 96025",,,41.2133097,-122.2721058,,,n_2634690887,shop=supermarket
+"Big Bend, CA",,retail,445120,,,,,41.1951652,-122.2818287,,,n_7012369810,shop=convenience
+"Big Bend, CA",,retail,445120,Ammirati's Market,,,,41.1483469,-122.3173329,,,n_8377352358,shop=convenience
+"Big Bend, CA",,retail,452319,McCloud River Mercantile Co.,"241 Main Street, McCloud, CA, 96057",5309642602,https://www.mccloudmercantile.com/,41.2534393,-122.1393226,,,n_8899415820,shop=general
+"Big Bend, CA",,retail,445292,McCloud Mercantile Candy Co.,"241 Main Street, McCloud, CA, 96057",5309642602,https://discoversiskiyou.com/activities/sugar-pine-candy-company/,41.2533761,-122.1392786,,,n_8899415821,shop=confectionery
+"Big Bend, CA",,retail,445120,Sportman's Liquor Mini-mart,,,,41.0073249,-121.4369593,,,n_11380235166,shop=convenience
+"Big Bend, CA",,retail,445110,Safeway,"37264 Main Street, Burney, CA, 96013",+1 530-335-3212,https://local.safeway.com/safeway/ca/burney/37264-main-st.html,40.8843726,-121.6592649,,,w_107938010,"shop=supermarket, brand=Safeway, operator=Safeway Inc"
+"Big Bend, CA",,retail,446110,Rite Aid,"37435 Main Street, Burney, CA, 96013",,https://www.riteaid.com/locations/ca/burney/37435-main-street.html,40.8886442,-121.6530044,,,w_223947438,"shop=chemist, brand=Rite Aid"
+"Big Bend, CA",,retail,445110,Grocery Outlet,,,,40.8900378,-121.6523552,,,w_507825231,"shop=supermarket, brand=Grocery Outlet"
+"Big Bend, CA",,retail,452319,Dollar General,"5130 Florence Loop, CA",,https://www.dollargeneral.com/store-directory/ca/dunsmuir/16699,41.21898,-122.2742862,,,w_759297661,"shop=variety_store, brand=Dollar General"
+"Big Bend, CA",,retail,452319,Pot Luck Trading Post,,,,40.8820294,-121.6712117,,,w_1037242943,shop=general
+"Big Bend, CA",,retail,453991,Smoke Shop,,,,40.8821119,-121.6687333,,,w_1392906649,shop=tobacco

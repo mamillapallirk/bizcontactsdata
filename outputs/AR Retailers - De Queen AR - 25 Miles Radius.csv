@@ -1,0 +1,20 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"De Queen, AR",,retail,445110,Walmart Supercenter,"926 East Collin Raye Drive, De Queen, AR, 71832",+1 870-642-2794,https://www.walmart.com/store/279-de-queen-ar,34.043471,-94.319058,,,n_5315599017,"shop=supermarket, brand=Walmart, operator=Walmart"
+"De Queen, AR",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ok/broken-bow/6467/,34.0206909,-94.7384363,,,n_8934203732,"shop=variety_store, brand=Dollar Tree"
+"De Queen, AR",,retail,452319,My Dollar Plus,,,,34.1482151,-94.7495583,,,n_8941980062,shop=variety_store
+"De Queen, AR",,retail,446110,Eddie Allen's Pharmacy,,,,34.0211634,-94.7376735,,,n_9173649573,shop=chemist
+"De Queen, AR",,retail,446120,Katie's Nails and Spa,,,,34.0216384,-94.7376968,,,n_9173649577,shop=beauty
+"De Queen, AR",,retail,446110,Sherrill's Pharmacy,"North Main Street, Broken Bow, OK, 74728",,,34.0275435,-94.737214,,,n_9359040421,shop=chemist
+"De Queen, AR",,retail,445120,EZ Mart,,,,33.7212098,-94.3914684,,,n_11802447041,"shop=convenience, brand=EZ Mart"
+"De Queen, AR",,retail,445210,Prime Country Meats,,,,33.9386451,-94.3562303,,,n_11802782909,shop=butcher
+"De Queen, AR",,retail,452210,Walmart,"501 South Park Drive, Broken Bow, OK, 74728",+1 580-584-3324,https://www.walmart.com/store/117-broken-bow-ok,34.0223758,-94.7379492,,,w_373252594,"shop=department_store, brand=Walmart, operator=Walmart"
+"De Queen, AR",,retail,445110,Pruett's Foods,"201 South Park Drive, Broken Bow, OK, 74728",580-306-9224,https://www.pruettsfood.com,34.0249782,-94.7379228,,,w_711645333,"shop=supermarket, amenity=pharmacy"
+"De Queen, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ok/broken-bow/3640,34.017262,-94.7402891,,,w_967621837,"shop=variety_store, brand=Dollar General"
+"De Queen, AR",,retail,445310,Whiskey Joe's,,,,34.0221704,-94.7399012,,,w_971036496,shop=alcohol
+"De Queen, AR",,retail,453110,Wright Ideas Flower Shop,,,,34.0312238,-94.739075,,,w_988464659,shop=florist
+"De Queen, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/wickes/16209,34.2973734,-94.3400417,,,w_1202224990,"shop=variety_store, brand=Dollar General"
+"De Queen, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/lockesburg/14537,33.966822,-94.1669721,,,w_1202245484,"shop=variety_store, brand=Dollar General"
+"De Queen, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/horatio/12334,33.9388055,-94.3531853,,,w_1202245503,"shop=variety_store, brand=Dollar General"
+"De Queen, AR",,retail,452319,Dollar General,"308 South Madden Street, Foreman, AR, 71836",,https://www.dollargeneral.com/store-directory/ar/foreman/9437,33.7159981,-94.3915552,,,w_1202245530,"shop=variety_store, brand=Dollar General"
+"De Queen, AR",,retail,445120,Burke's Convenience Store,,,,34.0339205,-94.7391776,,,r_12996353,shop=convenience
+"De Queen, AR",,retail,445120,Love's,,,,34.0224053,-94.7398845,,,r_13064461,"shop=convenience, amenity=fuel, brand=Love's"

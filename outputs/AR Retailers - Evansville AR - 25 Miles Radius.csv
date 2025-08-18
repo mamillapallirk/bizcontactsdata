@@ -1,0 +1,51 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Evansville, AR",,retail,445120,16 General Store,13530 West Highway 16,,,36.0768486,-94.2918331,,,n_1125036245,"shop=convenience, amenity=fuel, brand=None"
+"Evansville, AR",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ar/fayetteville/2392/,36.0546925,-94.1968162,,,n_3735266656,"shop=variety_store, brand=Dollar Tree"
+"Evansville, AR",,retail,446120,Focus Nails,,,,36.0539515,-94.1972716,,,n_3778823433,shop=beauty
+"Evansville, AR",,retail,445292,Hello Cocoa,,+1 479 235 6236,https://hellococoachocolate.com/,36.0480648,-94.2212439,,,n_3783404023,shop=confectionery
+"Evansville, AR",,retail,446120,Kelly Nails,,,,36.0523093,-94.2053156,,,n_3783404025,shop=beauty
+"Evansville, AR",,retail,445310,Blue Top Liquor,"2016 West Martin Luther King Junior Boulevard, Fayetteville, 72701",+1 479 521 6563,http://bluetopliquor.com/,36.0565008,-94.1886966,,,n_3786698379,shop=alcohol
+"Evansville, AR",,retail,446120,Lovely Nails,,+1 479 582 9423,https://website--192271696693690475128-nailsalon.business.site/,36.0499901,-94.2036553,,,n_5387437782,shop=beauty
+"Evansville, AR",,retail,445110,Harps,"8848 AR-59, Cedarville, AR, 72932",,,35.5661861,-94.3665268,,,n_5600867015,"shop=supermarket, brand=Harps"
+"Evansville, AR",,retail,445120,Alma Shortstop,,,,35.5494165,-94.2200229,,,n_5903869787,shop=convenience
+"Evansville, AR",,retail,445310,Stadium Liquor,,+1 479 445 6321,https://www.stadiumliquornwa.com/,36.0483151,-94.1834184,,,n_6020321802,shop=alcohol
+"Evansville, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/winslow/18973,35.8097852,-94.1301972,,,n_8755719647,"shop=variety_store, brand=Dollar General"
+"Evansville, AR",,retail,445120,Casey's General Store,"106 West Locust Street, Stilwell, OK, 74960",,,35.8080122,-94.6286398,,,n_8790746265,"shop=convenience, brand=Casey's General Store"
+"Evansville, AR",,retail,452319,Graphic Store,"6330 West Graphic Road, Mountainburg, AR, 72946",(479) 369-2943,,35.5736506,-94.1450165,,,n_9314380991,"shop=general, operator=Carolyn Watkins"
+"Evansville, AR",,retail,452319,Dollar General,"13443 West Highway 16, Fayetteville, AR, 72704",,,36.0755227,-94.2899573,,,n_12187405897,"shop=variety_store, brand=Dollar General, operator=Dollar General"
+"Evansville, AR",,retail,452319,Dollar General,,,,36.1070597,-94.571266,,,n_12292260295,"shop=variety_store, brand=Dollar General"
+"Evansville, AR",,retail,452319,Dollar General,,,,35.8961243,-94.6342134,,,n_12292303643,"shop=variety_store, brand=Dollar General"
+"Evansville, AR",,retail,453991,Tobacco Mart,,,,35.4555631,-94.356377,,,n_12544296370,shop=tobacco
+"Evansville, AR",,retail,445120,Casey's General Store,,,,35.4584607,-94.3558241,,,n_12995115843,"shop=convenience, brand=Casey's General Store"
+"Evansville, AR",,retail,445110,Walmart Supercenter,"2214 Fayetteville Road, Van Buren, AR, 72956",+1 479-474-2314,https://www.walmart.com/store/16-van-buren-ar,35.4690134,-94.3533051,,,w_293183847,"shop=supermarket, brand=Walmart"
+"Evansville, AR",,retail,445120,Kum & Go,"2222 West Martin Luther King Junior Boulevard, Fayetteville, 72701",,,36.0556255,-94.1910433,,,w_474047764,"shop=convenience, brand=Kum & Go"
+"Evansville, AR",,retail,445120,Flash Market,"2333 West Martin Luther King Junior Boulevard, Fayetteville, 72701",,,36.053982,-94.1926911,,,w_477600258,"shop=convenience, amenity=fuel, brand=Phillips 66"
+"Evansville, AR",,retail,445120,E-Z Mart,3408 South School Avenue,+1 479 444 9366,http://e-zmart.com/,36.0227214,-94.1723789,,,w_478540070,"shop=convenience, amenity=fuel"
+"Evansville, AR",,retail,445310,Pürspirit Liquor,"3970 West Martin Luther King Junior Boulevard, Fayetteville, 72704",,,36.0489615,-94.2174342,,,w_495577318,shop=alcohol
+"Evansville, AR",,retail,445110,ALDI,"3214 West Martin Luther King Junior Boulevard, Fayetteville, AR, 72704",+1 855-955-2534,https://stores.aldi.us/ar/fayetteville/3214-w-martin-luther-king,36.0512857,-94.2066369,,,w_495577697,"shop=supermarket, brand=ALDI"
+"Evansville, AR",,retail,446120,Young's Beauty Mart,"3800 West Martin Luther King Junior Boulevard, Fayetteville, 72704",+1 479 527 0665,https://www.facebook.com/youngsbeautymart/,36.0493189,-94.2150281,,,w_495577804,shop=beauty
+"Evansville, AR",,retail,445120,Maverik,90 East Main Street,+1 479 267 8000,https://www.kumandgo.com/store-locator?details=0423,36.0433552,-94.2365913,,,w_496567769,"shop=convenience, brand=Maverik"
+"Evansville, AR",,retail,452319,Dollar General,"76 East Main Street, Farmington, AR, 72730",+1 479 267 4488,https://www.dollargeneral.com/store-directory/ar/farmington/3553,36.0432872,-94.2372608,,,w_496568025,"shop=variety_store, brand=Dollar General"
+"Evansville, AR",,retail,445110,Walmart Supercenter,"2875 West Martin Luther King Junior Boulevard, Fayetteville, AR, 72704",+1 479-582-0428,https://www.walmart.com/store/144-fayetteville-ar,36.0499335,-94.2012936,,,w_497280971,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Evansville, AR",,retail,445120,Mini Mart,25 North Main Avenue,+1 479 442 2912,,35.9952197,-94.1743498,,,w_498415412,shop=convenience
+"Evansville, AR",,retail,446110,Collier Drug Store,"801 East Douglas Street, Prairie Grove, AR, 72753",,,35.9821033,-94.3059023,,,w_545609518,shop=chemist
+"Evansville, AR",,retail,452210,Crescent Department Store,,,,35.9754428,-94.316349,,,w_546710795,shop=department_store
+"Evansville, AR",,retail,446110,Sterling Drug,,,,35.9754441,-94.3164453,,,w_546710796,shop=chemist
+"Evansville, AR",,retail,445110,Harps,,,,35.9745208,-94.31393,,,w_546716100,shop=supermarket
+"Evansville, AR",,retail,452319,A to Z,,,,35.5242807,-94.2222058,,,w_592454963,shop=variety_store
+"Evansville, AR",,retail,452319,A to Z,,,,35.5232961,-94.222338,,,w_592454964,shop=variety_store
+"Evansville, AR",,retail,452319,A to Z,,,,35.5242261,-94.2199701,,,w_592454965,shop=variety_store
+"Evansville, AR",,retail,445110,Walmart Neighborhood Market,"367 West Main Street, Farmington, AR, 72730",+1 479-267-0040,https://www.walmart.com/store/7242-farmington-ar,36.0367627,-94.2562649,,,w_645997696,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Evansville, AR",,retail,445120,Love's,"8060 State Highway 282, Alma, AR, 72921",,https://www.loves.com/en/locations/635,35.5406418,-94.2354885,,,w_733347321,"shop=convenience, brand=Love's"
+"Evansville, AR",,retail,445120,,,,,35.4614275,-94.3929197,,,w_767118331,shop=convenience
+"Evansville, AR",,retail,445110,Harps,"266 Three Dog Lane, West Fork, AR, 72774",+1 479 839 3820,https://www.harpsfood.com/StoreLocator/Store?L=126,35.9245268,-94.1943578,,,w_767390971,"shop=supermarket, brand=Harps"
+"Evansville, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/west-fork/7456,35.9322463,-94.1791676,,,w_767390973,"shop=variety_store, brand=Dollar General"
+"Evansville, AR",,retail,445110,Walmart Supercenter,Rr 6 Box 1895,+1 918-696-3141,https://www.walmart.com/store/81-stilwell-ok,35.7986658,-94.6241524,,,w_823778634,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Evansville, AR",,retail,445110,ALDI,"2309 Fayetteville Road, Van Buren, AR, 72956",+1 855-955-2534,https://stores.aldi.us/ar/van-buren/2309-fayetteville-road,35.4716066,-94.3574797,,,w_933701408,"shop=supermarket, brand=ALDI"
+"Evansville, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/lincoln/12318,35.9480355,-94.4216232,,,w_1017986641,"shop=variety_store, brand=Dollar General"
+"Evansville, AR",,retail,445110,,,,,35.9917413,-94.5831721,,,w_1018308633,shop=supermarket
+"Evansville, AR",,retail,452319,Dollar General,"1001 E Heritage Pakwy, Prairie Grove, AR, 72753",+1-479-334-2091,https://www.dollargeneral.com/store-directory/ar/prairie-grove/16552.html,35.9855043,-94.2978413,,,w_1118740720,"shop=variety_store, brand=Dollar General"
+"Evansville, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/van-buren/16267,35.4804334,-94.3568973,,,w_1203855442,"shop=variety_store, brand=Dollar General"
+"Evansville, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/cedarville/8509,35.5724768,-94.3683389,,,w_1203855450,"shop=variety_store, brand=Dollar General"
+"Evansville, AR",,retail,452319,Dollar Tree,"219 West Main Street, Farmington, AR, 72730",,,36.0406065,-94.2501274,,,w_1368482345,"shop=variety_store, brand=Dollar Tree"
+"Evansville, AR",,retail,445120,Green Oak Center,"243 West Main Street, Farmington, AR, 72730",,,36.0398037,-94.2514908,,,w_1368482359,shop=convenience

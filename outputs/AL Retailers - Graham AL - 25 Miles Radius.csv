@@ -1,0 +1,118 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Graham, AL",,retail,452210,TJ Maxx,,,,33.5557926,-85.0764506,,,n_2512391621,"shop=department_store, brand=TJ Maxx"
+"Graham, AL",,retail,445230,,,,,33.5794775,-85.2059688,,,n_2517038399,shop=greengrocer
+"Graham, AL",,retail,452210,Goody's,,,,33.7059246,-85.1615387,,,n_3517981491,"shop=department_store, brand=Goody's"
+"Graham, AL",,retail,445310,Cheers Fine Wine and Spirits,"804 Maple Street, Carrollton, GA, 30117",,,33.5746215,-85.0835966,,,n_4829416764,shop=alcohol
+"Graham, AL",,retail,445110,Piggly Wiggly,"136 Lovvorn Avenue, Bowdon, GA, 30108",+1 770-258-2465,https://www.pigglywiggly.com/,33.5402736,-85.2521365,,,n_6093088848,"shop=supermarket, brand=Piggly Wiggly, operator=Mark Dermo"
+"Graham, AL",,retail,452319,Family Dollar,"6 Robertson Avenue, Tallapoosa, GA, 30176",+1 (770) 574-2366,,33.7450458,-85.2896249,,,n_7435268106,"shop=variety_store, brand=Family Dollar"
+"Graham, AL",,retail,445120,R & R Grocery & Deli,,+1 (770) 854-4700,,33.4566826,-85.130935,,,n_7529414745,"shop=convenience, amenity=fast_food"
+"Graham, AL",,retail,445120,Bowdon Mini Mart,,,,33.5371351,-85.2529003,,,n_7623757953,shop=convenience
+"Graham, AL",,retail,445110,Piggly Wiggly,"800 Ross Street, Heflin, AL, 36264",+1 256-463-7769,,33.6477873,-85.5865092,,,n_8595469364,"shop=supermarket, brand=Piggly Wiggly"
+"Graham, AL",,retail,445120,,,,,33.4244551,-85.1344878,,,n_9074149154,shop=convenience
+"Graham, AL",,retail,445120,,,,,33.4239063,-85.1342686,,,n_9074149155,shop=convenience
+"Graham, AL",,retail,445120,,,,,33.5371496,-85.0750389,,,n_9075385529,shop=convenience
+"Graham, AL",,retail,446120,Elegant Nails,,,,33.543151,-85.0744913,,,n_9075385559,shop=beauty
+"Graham, AL",,retail,445120,,,,,33.5943222,-85.0791165,,,n_9075385652,shop=convenience
+"Graham, AL",,retail,446120,SaSa Nails & Spa,,,,33.5988601,-85.0807347,,,n_9075385748,shop=beauty
+"Graham, AL",,retail,445120,,,,,33.6063182,-85.0833937,,,n_9075385794,shop=convenience
+"Graham, AL",,retail,445120,Circle K,,,,33.6175674,-85.092835,,,n_9080212790,"shop=convenience, brand=Circle K"
+"Graham, AL",,retail,445120,Circle K,,,,33.6817928,-85.1502218,,,n_9080234619,"shop=convenience, brand=Circle K"
+"Graham, AL",,retail,445120,,,,,33.6926833,-85.1540492,,,n_9080234701,shop=convenience
+"Graham, AL",,retail,445120,,,,,33.7388733,-85.1519728,,,n_9081305405,shop=convenience
+"Graham, AL",,retail,445120,,,,,33.7418557,-85.3152247,,,n_9422020005,shop=convenience
+"Graham, AL",,retail,445120,,,,,33.7440396,-85.2985349,,,n_9422020022,shop=convenience
+"Graham, AL",,retail,445110,Piggly Wiggly,"631 East Franklin Street, Tallapoosa, GA, 30176",+1 770-574-7336,,33.7440214,-85.2826701,,,n_9422020042,"shop=supermarket, brand=Piggly Wiggly"
+"Graham, AL",,retail,445120,,,,,33.6815701,-85.2638979,,,n_11147322470,shop=convenience
+"Graham, AL",,retail,445120,,,,,33.7432254,-85.2937701,,,n_11147357816,shop=convenience
+"Graham, AL",,retail,452319,Dollar General,,,,33.1378777,-85.3561564,,,n_12269309915,"shop=variety_store, brand=Dollar General"
+"Graham, AL",,retail,452319,Dollar General,,,,33.5594817,-85.1820379,,,n_12297758034,"shop=variety_store, brand=Dollar General"
+"Graham, AL",,retail,446120,Nova on the Square,,,,33.5800182,-85.0755565,,,n_13048340897,shop=beauty
+"Graham, AL",,retail,445110,Walmart Supercenter,"404 Highway 27 North Bypass, Bremen, GA, 30110",+1 770-537-5531,https://www.walmart.com/store/856-bremen-ga,33.7079521,-85.1635113,,,w_149786773,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Graham, AL",,retail,445120,,,,,33.7193094,-85.0265227,,,w_221377660,shop=convenience
+"Graham, AL",,retail,445120,Pilot,,,,33.7187975,-85.0296471,,,w_221378543,"shop=convenience, brand=Pilot"
+"Graham, AL",,retail,445120,Love's,,,https://www.loves.com/locations/311,33.6912894,-85.1895899,,,w_225051148,"shop=convenience, brand=Love's"
+"Graham, AL",,retail,445120,Pilot,,,,33.6826395,-85.2632321,,,w_236501657,"shop=convenience, brand=Pilot"
+"Graham, AL",,retail,445110,Kroger,"1355 South Park Street, Carrollton, GA, 30117",+1 770-832-8932,https://www.kroger.com/stores/grocery/ga/carrollton/carrollton-crossing/011/00367,33.5530614,-85.0750178,,,w_243518603,"shop=supermarket, brand=Kroger"
+"Graham, AL",,retail,445110,Walmart Supercenter,"1735 South Highway 27, Carrollton, GA, 30117",+1 770-834-3513,https://www.walmart.com/store/722-carrollton-ga,33.5432166,-85.0772682,,,w_243521964,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Graham, AL",,retail,445120,Stateline Fuel Center,,,,33.6460028,-85.5061716,,,w_243869762,shop=convenience
+"Graham, AL",,retail,445120,Bucktown Grocery,"2875 GA 100, Bowdon, GA, 30108",,,33.4750618,-85.2909392,,,w_243876140,shop=convenience
+"Graham, AL",,retail,445120,,,,,33.5608514,-85.2317125,,,w_243876143,shop=convenience
+"Graham, AL",,retail,445120,discount food mart,,,,33.5370359,-85.2648843,,,w_243876146,shop=convenience
+"Graham, AL",,retail,445120,B's Kwik Stop,,,,33.5776272,-85.0793152,,,w_244376067,shop=convenience
+"Graham, AL",,retail,445120,,,,,33.4679865,-85.2019345,,,w_244376826,shop=convenience
+"Graham, AL",,retail,445120,,,,,33.5632304,-85.073773,,,w_244994255,"shop=convenience, brand=BP"
+"Graham, AL",,retail,445120,,,,,33.7192761,-85.1485,,,w_450353230,shop=convenience
+"Graham, AL",,retail,445120,,,,,33.682572,-85.2616711,,,w_458159694,shop=convenience
+"Graham, AL",,retail,445120,People Pleaser,,,,33.7224992,-85.1409834,,,w_542447088,shop=convenience
+"Graham, AL",,retail,452210,Target,"1129 South Park Street, Carrollton, GA, 30117-4429",+1 770-838-9221,https://www.target.com/sl/carrollton/1073,33.5586381,-85.0769846,,,w_591689601,"shop=department_store, brand=Target"
+"Graham, AL",,retail,445110,Publix,"1109 South Park Street, Carrollton, GA, 30117-4449",+1 770-214-3140,https://www.publix.com/locations/608,33.5608539,-85.0750293,,,w_591689646,"shop=supermarket, brand=Publix"
+"Graham, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ga/carrollton/791/,33.5416224,-85.0771657,,,w_591871307,"shop=variety_store, brand=Dollar Tree"
+"Graham, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ga/carrollton/15113,33.5873231,-85.0987079,,,w_591924447,"shop=variety_store, brand=Dollar General"
+"Graham, AL",,retail,445310,Ole Campus Spirits,,,,33.5874005,-85.0999647,,,w_591924452,shop=alcohol
+"Graham, AL",,retail,445110,Food Depot,,,,33.5639742,-85.1138103,,,w_591924457,shop=supermarket
+"Graham, AL",,retail,445110,Ingles,,,,33.6947596,-85.1509076,,,w_683057236,"shop=supermarket, brand=Ingles"
+"Graham, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ga/bremen/6494/,33.6951854,-85.1534556,,,w_683823221,"shop=variety_store, brand=Dollar Tree"
+"Graham, AL",,retail,452319,Dollar General,"3050 Bremen Mount Zion Road, Bremen, GA, 30110-2545",+1 470 600-1155,https://www.dollargeneral.com/store-directory/ga/bremen/2618,33.6982448,-85.1448173,,,w_683823236,"shop=variety_store, brand=Dollar General"
+"Graham, AL",,retail,445120,,,,,33.5821118,-85.0780647,,,w_703155534,shop=convenience
+"Graham, AL",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-794+s+park+st-carrollton-ga-30117/id=7820,33.5696655,-85.0776276,,,w_745112050,"shop=chemist, brand=Walgreens"
+"Graham, AL",,retail,445110,ALDI,"1495 South Highway 27, Carrolton, GA, 30116",+1 844-476-1023,https://stores.aldi.us/ga/carrollton/1495-highway-27-south,33.5500427,-85.0745467,,,w_745112053,"shop=supermarket, brand=ALDI"
+"Graham, AL",,retail,445120,Ricky Mart,"1031 GA 100, Tallapoosa, GA, 30176",+1 (770) 574-3300,,33.6873436,-85.2612712,,,w_794535516,shop=convenience
+"Graham, AL",,retail,445120,Ridley's Get N Go,"3329 GA 100, Tallapoosa, GA, 30176",+1 (770) 574-7660,,33.7403122,-85.2868125,,,w_794577142,shop=convenience
+"Graham, AL",,retail,445120,Krish Food Mart,"2076 US 78, Tallapoosa, GA, 30176",+1 (770) 574-9909,,33.7447261,-85.2906851,,,w_794592123,shop=convenience
+"Graham, AL",,retail,446110,CVS Pharmacy,"107 Spring Street, Tallapoosa, GA, 30176",+1 (770) 574-2914,https://www.cvs.com/store-locator/tallapoosa-ga-pharmacies/107-spring-st-tallapoosa-ga-30176/storeid=4576,33.7449965,-85.2889862,,,w_794603289,"shop=chemist, brand=CVS Pharmacy"
+"Graham, AL",,retail,445120,,,,,33.7665757,-85.2955343,,,w_795014967,shop=convenience
+"Graham, AL",,retail,445120,Tallapoosa Quick Stop,,,,33.7407658,-85.2760885,,,w_801366652,shop=convenience
+"Graham, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ga/tallapoosa/9117,33.7433907,-85.2816253,,,w_801374955,"shop=variety_store, brand=Dollar General"
+"Graham, AL",,retail,445120,Waco Mini Mart,"5749 US 78, Waco, GA, 30182",,,33.7046018,-85.1827225,,,w_801394678,shop=convenience
+"Graham, AL",,retail,445120,Hill Top,,,,33.7213014,-85.114418,,,w_802708610,shop=convenience
+"Graham, AL",,retail,445120,Roopville Grocery,"26 South Old Highway 27, Roopville, GA, 30170",+1 (770) 854-8300,,33.4594063,-85.1288449,,,w_804966043,shop=convenience
+"Graham, AL",,retail,445110,Save-A-Lot,"511 Alabama Avenue, Bremen, GA, 30110",+1 (770) 537-0436,,33.7155568,-85.1434133,,,w_807025986,"shop=supermarket, brand=Save-A-Lot"
+"Graham, AL",,retail,445120,,,,,33.7147446,-85.1425924,,,w_807025988,shop=convenience
+"Graham, AL",,retail,445120,,"Broad Street, Tallapoosa, GA, 30176",,,33.7539279,-85.2997386,,,w_814739723,shop=convenience
+"Graham, AL",,retail,445120,Walgreens,"128 Lovvorn Avenue, Bowdon, GA, 30108",+1 (770) 258-3310,https://www.walgreens.com/locator/walgreens-128+lovvorn+avenue-bowdon-ga-30108/id=19230,33.5396124,-85.2528503,,,w_816256633,"shop=convenience, brand=Walgreens"
+"Graham, AL",,retail,452319,Dollar General,"203 Wedowee Street, Bowdon, GA, 30108",+1 (470) 431-0782,https://www.dollargeneral.com/store-directory/ga/bowdon/4800,33.5365331,-85.2527362,,,w_816296192,"shop=variety_store, brand=Dollar General"
+"Graham, AL",,retail,445120,Abel Mall,"4304 County Road 24, Delta, AL, 36258",,,33.549572,-85.712886,,,w_852988572,shop=convenience
+"Graham, AL",,retail,445120,,,,,33.5239235,-85.6381407,,,w_853102234,shop=convenience
+"Graham, AL",,retail,445120,L & S Shoppette,"2423 GA 100, Bowdon, GA, 30108",,,33.4862295,-85.2836766,,,w_873278209,shop=convenience
+"Graham, AL",,retail,452319,Dollar General,"27 Hilltop Lane, Roopville, GA, 30170",,https://www.dollargeneral.com/store-directory/ga/roopville/12430,33.4608599,-85.1248558,,,w_875304491,"shop=variety_store, brand=Dollar General"
+"Graham, AL",,retail,445120,,,,,33.4606747,-85.1229426,,,w_875317395,shop=convenience
+"Graham, AL",,retail,445120,Sunoco,"801 Northside Drive, Carrollton, GA, 30117",+1 (770) 214-1919,https://www.sunoco.com/,33.6072054,-85.0574509,,,w_878031429,"shop=convenience, brand=Sunoco"
+"Graham, AL",,retail,445120,Speedy Spot,,,,33.6192976,-85.0764859,,,w_878241587,shop=convenience
+"Graham, AL",,retail,445120,Grab N Go,"Shady Grove Road, Carrollton, GA, 30117",,,33.6071989,-85.0560511,,,w_878243298,shop=convenience
+"Graham, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ga/bremen/15175,33.7242414,-85.1298757,,,w_882995350,"shop=variety_store, brand=Dollar General"
+"Graham, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ga/franklin/18728,33.3818862,-85.1101415,,,w_980962797,"shop=variety_store, brand=Dollar General"
+"Graham, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ga/carrollton/6546,33.52671,-85.0736012,,,w_981113586,"shop=variety_store, brand=Dollar General"
+"Graham, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ga/carrollton/1272,33.5957073,-85.0784074,,,w_981113633,"shop=variety_store, brand=Dollar General"
+"Graham, AL",,retail,445110,Ingles,"1124 North Park Street, Carrollton, GA, 30117",,,33.599648,-85.0810556,,,w_981113645,"shop=supermarket, brand=Ingles"
+"Graham, AL",,retail,445310,Carrollton Beverage,"1128 North Park Street, Carrollton, GA, 30117",,,33.6003163,-85.0794559,,,w_981113647,shop=alcohol
+"Graham, AL",,retail,445120,Stop 'N' Shop,"1945 Almon Street, Heflin",,,33.6232009,-85.5946029,,,w_1005692072,shop=convenience
+"Graham, AL",,retail,445120,,,,,33.6200529,-85.5967246,,,w_1005692091,shop=convenience
+"Graham, AL",,retail,445120,,,,,33.6194728,-85.596807,,,w_1005692093,shop=convenience
+"Graham, AL",,retail,445120,,,,,33.6436666,-85.5012512,,,w_1005697635,shop=convenience
+"Graham, AL",,retail,445120,,,,,33.4680908,-85.046701,,,w_1010251164,shop=convenience
+"Graham, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ga/whitesburg/9100,33.4903572,-84.9127725,,,w_1010251214,"shop=variety_store, brand=Dollar General"
+"Graham, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ga/carrollton/16201,33.609632,-84.931795,,,w_1010253234,"shop=variety_store, brand=Dollar General"
+"Graham, AL",,retail,452210,Ross,"1311 South Park Street, Carrollton, GA, 30117",+1 770-214-0371,,33.5547203,-85.0765553,,,w_1014980776,"shop=department_store, brand=Ross"
+"Graham, AL",,retail,445110,Walmart Supercenter,"4180 US Highway 431, Roanoke, AL, 36274",+1 334-863-2147,https://www.walmart.com/store/863-roanoke-al,33.1648823,-85.3644037,,,w_1017014625,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Graham, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/lineville/20059,33.3133814,-85.6147413,,,w_1056419919,"shop=variety_store, brand=Dollar General"
+"Graham, AL",,retail,445120,,,,,33.278132,-85.0988985,,,w_1063467577,"shop=convenience, brand=Marathon"
+"Graham, AL",,retail,445120,,,,,33.248322,-85.0382505,,,w_1063468008,shop=convenience
+"Graham, AL",,retail,445110,Piggly Wiggly,"241 East Court Square, Franklin, GA, 30217",+1 706-675-0707,,33.2786637,-85.0977096,,,w_1063468709,"shop=supermarket, brand=Piggly Wiggly"
+"Graham, AL",,retail,445120,,,,,33.6724825,-85.2637005,,,w_1063822054,shop=convenience
+"Graham, AL",,retail,452319,Dollar General,"4043 Mount Zion Road, Carrollton, GA, 30117",,https://www.dollargeneral.com/store-directory/ga/carrollton/13965,33.6259153,-85.1784232,,,w_1067053762,"shop=variety_store, brand=Dollar General"
+"Graham, AL",,retail,445120,,,,,33.5820836,-85.0877542,,,w_1067053851,shop=convenience
+"Graham, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ga/carrollton/15769,33.5341172,-85.0134053,,,w_1071094695,"shop=variety_store, brand=Dollar General"
+"Graham, AL",,retail,452319,Dollar General,,,,33.6165787,-85.077867,,,w_1112724670,"shop=variety_store, brand=Dollar General"
+"Graham, AL",,retail,445110,WM Grocery,,,,33.1527158,-85.3769013,,,w_1151360369,shop=supermarket
+"Graham, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/roanoke/6605/,33.1527807,-85.3772757,,,w_1151360370,"shop=variety_store, brand=Dollar Tree"
+"Graham, AL",,retail,445120,Love's,,,https://www.loves.com/locations/818,33.6474135,-85.5058169,,,w_1178167781,"shop=convenience, brand=Love's"
+"Graham, AL",,retail,452319,Dollar General,"2040 Franklin Parkway, Franklin, GA, 30217",,https://www.dollargeneral.com/store-directory/ga/franklin/9422,33.2789994,-85.1035395,,,w_1178167865,"shop=variety_store, brand=Dollar General"
+"Graham, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ga/tallapoosa/20105,33.6794445,-85.2633997,,,w_1195103535,"shop=variety_store, brand=Dollar General"
+"Graham, AL",,retail,452319,Family Dollar,,,,33.2782452,-85.0977632,,,w_1217530548,"shop=variety_store, brand=Family Dollar"
+"Graham, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/wedowee/505,33.312118,-85.4841154,,,w_1217548980,"shop=variety_store, brand=Dollar General"
+"Graham, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/heflin/3779,33.6467223,-85.5867663,,,w_1229901947,"shop=variety_store, brand=Dollar General"
+"Graham, AL",,retail,452319,Family Dollar,,,,33.5608038,-85.1150217,,,w_1235155537,"shop=variety_store, brand=Family Dollar"
+"Graham, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ga/newnan/17507,33.3393108,-84.9808955,,,w_1237516340,"shop=variety_store, brand=Dollar General"
+"Graham, AL",,retail,452319,Dollar General,,,,33.5231025,-85.34322,,,w_1307359690,"shop=variety_store, brand=Dollar General"
+"Graham, AL",,retail,452319,Dollar General,,,,33.4120386,-85.2556474,,,w_1307361323,"shop=variety_store, brand=Dollar General"
+"Graham, AL",,retail,445120,,,,,33.1766564,-85.3325373,,,w_1415294169,shop=convenience

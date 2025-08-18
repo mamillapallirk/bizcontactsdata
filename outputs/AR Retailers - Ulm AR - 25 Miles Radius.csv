@@ -1,0 +1,13 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Ulm, AR",,retail,445120,E-Z Mart,,,,34.6924189,-91.3097312,,,n_10221430618,shop=convenience
+"Ulm, AR",,retail,452210,Belk,,,,34.4803195,-91.5592472,,,n_11138927263,"shop=department_store, brand=Belk"
+"Ulm, AR",,retail,445110,Foot Gigant,,,,34.4785139,-91.5522367,,,n_11138927268,shop=supermarket
+"Ulm, AR",,retail,452319,Dollar General,"1395 North Bankhead, Carlisle, 72024",+1-501-260-7516,,34.795082,-91.7513045,,,w_1015139755,"shop=variety_store, brand=Dollar General"
+"Ulm, AR",,retail,445120,Phillips 66,"1501 Bobby L Glover Highway, Carlisle, 72024",+1-870-552-3094,https://www.phillips66gas.com/station/P66-DOUBLEBEES-109-0000201397,34.7961211,-91.7510943,,,w_1015139756,"shop=convenience, amenity=fuel, brand=Phillips 66"
+"Ulm, AR",,retail,445120,Martins Grocery & Deli,,,,34.8183084,-91.4061284,,,w_1068024776,shop=convenience
+"Ulm, AR",,retail,445110,Walmart Supercenter,"406 East 22nd Street, Stuttgart, AR, 72160",+1 870-673-3349,https://www.walmart.com/store/102-stuttgart-ar,34.4770476,-91.5490773,,,w_1201431066,"shop=supermarket, brand=Walmart"
+"Ulm, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/clarendon/3557,34.6929487,-91.3050487,,,w_1201478547,"shop=variety_store, brand=Dollar General"
+"Ulm, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/de-valls-bluff/20703,34.7823232,-91.4579809,,,w_1201524743,"shop=variety_store, brand=Dollar General"
+"Ulm, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/hazen/3958,34.7862944,-91.5665408,,,w_1201524749,"shop=variety_store, brand=Dollar General"
+"Ulm, AR",,retail,452319,Family Dollar,,,,34.7820125,-91.568285,,,w_1201524751,"shop=variety_store, brand=Family Dollar"
+"Ulm, AR",,retail,445120,Love's,"3404 US 63 North, Hazen, AR, 72064",+1 870 255 1395,,34.8153412,-91.5678539,,,w_1245725279,"shop=convenience, brand=Love's"

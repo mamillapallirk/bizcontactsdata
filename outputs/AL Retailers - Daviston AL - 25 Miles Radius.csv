@@ -1,0 +1,30 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Daviston, AL",,retail,452319,Roses,,,,33.3118771,-85.7557742,,,n_10170365873,"shop=variety_store, brand=Roses"
+"Daviston, AL",,retail,445110,Piggly Wiggly,"88985 Highway 9, Lineville, AL, 36266",+1 256-396-2224,,33.3113644,-85.7517766,,,n_10170365874,"shop=supermarket, brand=Piggly Wiggly"
+"Daviston, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/alexander-city/4133/,32.9213692,-85.9606432,,,n_10808089409,"shop=variety_store, brand=Dollar Tree"
+"Daviston, AL",,retail,445110,Winn-Dixie,"1061 US Highway 280, Alexander City, AL, 35010",+1 256-234-5141,https://www.winndixie.com/storedetails/alexander%20city/al?search=456,32.9219141,-85.9611728,,,n_10808365510,"shop=supermarket, brand=Winn-Dixie"
+"Daviston, AL",,retail,445310,Emporium Wine,,,,32.9450197,-85.9527826,,,n_10833092463,shop=wine
+"Daviston, AL",,retail,446120,Mini's Nails,,,,32.9449694,-85.9543968,,,n_10833092470,shop=beauty
+"Daviston, AL",,retail,446120,A's Beauty Supply,,,,32.9204596,-85.9597227,,,n_10911682369,shop=beauty
+"Daviston, AL",,retail,446120,Modern Nails,,,,32.9205341,-85.9597773,,,n_10911682372,shop=beauty
+"Daviston, AL",,retail,452319,Dollar General,"1235 Cherokee Road, Alexander City, AL, 35010",+1 256 853 0800,https://www.dollargeneral.com/store-directory/al/alexander-city/1786,32.931329,-85.9479122,,,n_12180095449,"shop=variety_store, brand=Dollar General"
+"Daviston, AL",,retail,452319,Dollar General,,,,33.1378777,-85.3561564,,,n_12269309915,"shop=variety_store, brand=Dollar General"
+"Daviston, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/alexander-city/10028,32.9550603,-85.9456909,,,w_272981607,"shop=variety_store, brand=Dollar General"
+"Daviston, AL",,retail,445110,,,,,32.9009743,-85.4017702,,,w_330177132,shop=supermarket
+"Daviston, AL",,retail,445110,Walmart Supercenter,"2643 Highway 280, Alexander City, AL, 35010",+1 256-234-0316,https://www.walmart.com/store/726-alexander-city-al,32.9413759,-85.9758201,,,w_591918305,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Daviston, AL",,retail,445110,Piggly Wiggly,"61 Jefferson Street, Alexander City, AL, 35010",+1 256-234-3454,,32.9462646,-85.9526186,,,w_978246238,"shop=supermarket, brand=Piggly Wiggly"
+"Daviston, AL",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-3140+highway+280-alexander+city-al-35010/id=15614,32.9326562,-85.9718341,,,w_978246240,"shop=chemist, brand=Walgreens"
+"Daviston, AL",,retail,445110,Walmart Supercenter,"4180 US Highway 431, Roanoke, AL, 36274",+1 334-863-2147,https://www.walmart.com/store/863-roanoke-al,33.1648823,-85.3644037,,,w_1017014625,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Daviston, AL",,retail,445120,,,,,32.9107282,-85.4013106,,,w_1017029889,shop=convenience
+"Daviston, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/lafayette/10254,32.9120939,-85.4013017,,,w_1017029892,"shop=variety_store, brand=Dollar General"
+"Daviston, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/lineville/20059,33.3133814,-85.6147413,,,w_1056419919,"shop=variety_store, brand=Dollar General"
+"Daviston, AL",,retail,445120,BP Shop,,,,33.0660995,-86.0544015,,,w_1098258349,"shop=convenience, brand=BP Shop"
+"Daviston, AL",,retail,445120,In-and-Out Market,,,,33.066832,-86.0553456,,,w_1098258352,shop=convenience
+"Daviston, AL",,retail,445110,WM Grocery,,,,33.1527158,-85.3769013,,,w_1151360369,shop=supermarket
+"Daviston, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/roanoke/6605/,33.1527807,-85.3772757,,,w_1151360370,"shop=variety_store, brand=Dollar Tree"
+"Daviston, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/alexander-city/15795,32.8618592,-85.9606319,,,w_1156795657,"shop=variety_store, brand=Dollar General"
+"Daviston, AL",,retail,452319,Roses,,,,32.932087,-85.9458174,,,w_1162167874,"shop=variety_store, brand=Roses"
+"Daviston, AL",,retail,445110,Renfroe's,,,,32.935777,-85.9717885,,,w_1164778105,shop=supermarket
+"Daviston, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/alexander-city/655,32.9356979,-85.9703985,,,w_1164778110,"shop=variety_store, brand=Dollar General"
+"Daviston, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/wedowee/505,33.312118,-85.4841154,,,w_1217548980,"shop=variety_store, brand=Dollar General"
+"Daviston, AL",,retail,445120,,,,,33.1766564,-85.3325373,,,w_1415294169,shop=convenience

@@ -1,0 +1,11 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Vredenburgh, AL",,retail,445120,Oak Hill Grocery,,,,31.9221132,-87.083438,,,n_5772059176,shop=convenience
+"Vredenburgh, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/frisco-city/22755,31.4999534,-87.401016,,,n_10266738351,"shop=variety_store, brand=Dollar General"
+"Vredenburgh, AL",,retail,452319,Dollar General,,+1 251-263-6760,https://www.dollargeneral.com/store-directory/al/monroeville/411,31.5070304,-87.3180555,,,n_11135063997,"shop=variety_store, brand=Dollar General"
+"Vredenburgh, AL",,retail,445110,Darby's Red & White,,,,31.5269834,-87.3264075,,,n_11180414919,shop=supermarket
+"Vredenburgh, AL",,retail,446120,Becoming Wellness Spa,"95 Pineville Road, Monroeville, AL, 36460",+1-251-575-2095,https://www.vagaro.com/us04/becomingwellnessspa,31.5281885,-87.3233914,,,n_11182212269,shop=beauty
+"Vredenburgh, AL",,retail,446120,Prodigy & Co.,"45 North Mount Pleasant Avenue, Monroeville, AL, 36460",+1-251-714-0640,,31.5274299,-87.3251145,,,n_11182212280,shop=beauty
+"Vredenburgh, AL",,retail,445110,Walmart Supercenter,"3371 South Alabama Avenue, Monroeville, AL, 36460",+1 251-575-3333,https://www.walmart.com/store/1493-monroeville-al,31.4806938,-87.3283372,,,w_250404880,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Vredenburgh, AL",,retail,445120,Cannon Oil,,,,31.5227047,-87.3237364,,,w_1070373288,shop=convenience
+"Vredenburgh, AL",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-1772+s+alabama+ave-monroeville-al-36460/id=12879,31.5016377,-87.319363,,,w_1070373430,"shop=chemist, brand=Walgreens"
+"Vredenburgh, AL",,retail,445120,,,,,31.5296079,-87.3244439,,,w_1206738776,shop=convenience

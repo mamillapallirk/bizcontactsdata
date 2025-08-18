@@ -1,0 +1,44 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Coal Hill, AR",,retail,445120,Circle M,,,,35.447776,-93.7637559,,,n_3755358882,shop=convenience
+"Coal Hill, AR",,retail,452210,Walmart,"1501 East Walnut Street, Paris, AR, 72855",+1 479-963-2152,https://www.walmart.com/store/230-paris-ar,35.293369,-93.716195,,,n_5315599561,"shop=department_store, brand=Walmart, operator=Walmart"
+"Coal Hill, AR",,retail,453110,Clarksville Florist & Gifts,"142 W Main St, Clarksville, AR, 72830",+1 479-754-3658,http://clarksvillefloristandgifts.com,35.4714053,-93.4640491,,,n_5978182598,shop=florist
+"Coal Hill, AR",,retail,453991,Tobacco Outlet,,,,35.4657083,-93.480184,,,n_12006714051,shop=tobacco
+"Coal Hill, AR",,retail,452319,Dollar General,,,,35.5028977,-94.0544032,,,n_12451762350,"shop=variety_store, brand=Dollar General"
+"Coal Hill, AR",,retail,445110,CV's Family Foods,,,,35.291488,-93.7202134,,,w_125090229,shop=supermarket
+"Coal Hill, AR",,retail,453991,KK Smoke Shop,"1157 East Main Street, Booneville, AR, 72927",+1-479-849-9876,,35.1425137,-93.9065739,,,w_125113754,shop=tobacco
+"Coal Hill, AR",,retail,445120,Jam Mart,,,,35.4890695,-93.8414069,,,w_125269282,shop=convenience
+"Coal Hill, AR",,retail,452210,Walmart,"1516 North 18th Street, Ozark, AR, 72949",+1 479-667-2143,https://www.walmart.com/store/209-ozark-ar,35.5037192,-93.8438608,,,w_299670456,"shop=department_store, brand=Walmart, operator=Walmart"
+"Coal Hill, AR",,retail,452319,Family Dollar,,,,35.4683568,-93.4795267,,,w_795398114,"shop=variety_store, brand=Family Dollar"
+"Coal Hill, AR",,retail,452319,White Rock General Store,,+1-479-369-4128,https://whiterockmountain.com/,35.689842,-93.9566171,,,w_857588851,shop=general
+"Coal Hill, AR",,retail,445110,Walmart Supercenter,"230 Market Street, Clarksville, AR, 72830",+1 479-754-2046,https://www.walmart.com/store/66/clarksville-ar,35.4486889,-93.4603852,,,w_871936950,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Coal Hill, AR",,retail,445120,London Corner Market,"10465 US 64, London, AR, 72847",+1-479-293-9849,,35.3311365,-93.2541122,,,w_911971342,"shop=convenience, brand=VP Racing Fuels"
+"Coal Hill, AR",,retail,452319,Dollar General,"10362 US 64, London, AR, 72847",+1-501-242-5395,https://www.dollargeneral.com/store-directory/ar/london/11620,35.3320225,-93.2524826,,,w_911971346,"shop=variety_store, brand=Dollar General"
+"Coal Hill, AR",,retail,452319,Dollar General,,(501) 547-3508,https://www.dollargeneral.com/store-directory/ar/havana/17282,35.1095992,-93.5299696,,,w_944093484,"shop=variety_store, brand=Dollar General"
+"Coal Hill, AR",,retail,445310,New Blaine General Store,"21276 AR 22, New Blaine, AR, 72835",+1-479-938-7154,,35.2859152,-93.3891433,,,w_954034770,shop=alcohol
+"Coal Hill, AR",,retail,445120,Shell,"500 East Walnut Street, Paris, AR, 72855",,,35.2917085,-93.7254775,,,w_1035388172,"shop=convenience, brand=Shell"
+"Coal Hill, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/charleston/3254,35.2976178,-94.0254019,,,w_1072079176,"shop=variety_store, brand=Dollar General"
+"Coal Hill, AR",,retail,446120,A New Look,,,,35.2966859,-94.0335195,,,w_1072357569,shop=beauty
+"Coal Hill, AR",,retail,445110,Harps,,,,35.297952,-94.0524597,,,w_1073087456,"shop=supermarket, brand=Harps"
+"Coal Hill, AR",,retail,445120,Casey's General Store,,,,35.2977783,-94.0433238,,,w_1073917153,"shop=convenience, amenity=fuel, brand=Casey's General Store"
+"Coal Hill, AR",,retail,445110,CV's,,,,35.2980424,-94.0490716,,,w_1073917596,shop=supermarket
+"Coal Hill, AR",,retail,446120,Precision Nails,,,,35.2973943,-94.0413257,,,w_1074042749,shop=beauty
+"Coal Hill, AR",,retail,453110,Emily's,,,,35.2973263,-94.0379228,,,w_1074051368,shop=florist
+"Coal Hill, AR",,retail,445310,Red Barn Liquor,"100 West Main Street, Ozark, AR",+1-479-667-3058,,35.4860897,-93.8255433,,,w_1078951271,shop=alcohol
+"Coal Hill, AR",,retail,452319,Dollar General,"202 North 5th Street, Scranton, AR, 72863",,https://www.dollargeneral.com/store-directory/ar/scranton/17523,35.3624346,-93.5357967,,,w_1173766200,"shop=variety_store, brand=Dollar General"
+"Coal Hill, AR",,retail,445120,4-Way Quick Stop,"103 North 5th Street, Scranton, AR, 72863",,,35.3611056,-93.5349528,,,w_1173766212,shop=convenience
+"Coal Hill, AR",,retail,453110,Blossom Shop Flowers & Gifts,"210 North Main Street, Mulberry, AR, 72947",,,35.4974877,-94.0517906,,,w_1180055041,shop=florist
+"Coal Hill, AR",,retail,452319,Dollar General,"501 East Park Street, Altus, AR, 72821",,https://www.dollargeneral.com/store-directory/ar/altus/12302,35.4462342,-93.7572696,,,w_1203869198,"shop=variety_store, brand=Dollar General"
+"Coal Hill, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/coal-hill/17958,35.4368124,-93.6555825,,,w_1203869199,"shop=variety_store, brand=Dollar General"
+"Coal Hill, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/clarksville/21010,35.4697308,-93.4399057,,,w_1203889584,"shop=variety_store, brand=Dollar General"
+"Coal Hill, AR",,retail,452319,Dollar Tree,1400 East Main St,+1-479-675-3688,https://www.dollartree.com/locations/ar/booneville/6298/,35.1434031,-93.9018284,,,w_1212882930,"shop=variety_store, brand=Dollar Tree, operator=Walmart"
+"Coal Hill, AR",,retail,446191,Bearcat Hub,"1534 East Main Street, Booneville, AR, 72927",+1-479-849-1148,,35.1414639,-93.9018646,,,w_1212882936,shop=health_food
+"Coal Hill, AR",,retail,445110,Walmart Supercenter,"1400 East Main Street, Booneville, AR, 72927",+1 479-675-3688,https://www.walmart.com/store/55-booneville-ar,35.1396049,-93.9027057,,,w_1212882941,"shop=supermarket, brand=Walmart"
+"Coal Hill, AR",,retail,452319,Dollar General,"Knoxville, AR, 72845",,https://www.dollargeneral.com/store-directory/ar/knoxville/18598,35.3835951,-93.3646771,,,w_1229505798,"shop=variety_store, brand=Dollar General"
+"Coal Hill, AR",,retail,445120,Love's,"1025 South Crawford Street, Clarksville, AR, 72830",,,35.4600592,-93.4800886,,,w_1255415805,"shop=convenience, brand=Love's"
+"Coal Hill, AR",,retail,445110,Harps,,,,35.4662807,-93.4802994,,,w_1295743340,"shop=supermarket, brand=Harps"
+"Coal Hill, AR",,retail,445120,Superstop,"Clarksville, AR",,,35.4542504,-93.465517,,,w_1350033513,shop=convenience
+"Coal Hill, AR",,retail,445120,Superstop,"South Rogers Street, Clarksville, AR",,,35.4547494,-93.464225,,,w_1350297803,shop=convenience
+"Coal Hill, AR",,retail,445110,Dollar General Market,"South Rogers Street, Clarksville, AR",,,35.4586265,-93.4601783,,,w_1350388095,"shop=supermarket, brand=Dollar General Market"
+"Coal Hill, AR",,retail,445120,,,,,35.4633095,-93.5225283,,,w_1350557953,shop=convenience
+"Coal Hill, AR",,retail,445120,,"Interstate Drive, Clarksville, AR, 72830",,,35.4566872,-93.4837796,,,w_1350812375,shop=convenience
+"Coal Hill, AR",,retail,445120,,,,,35.1989338,-93.6342988,,,w_1417728616,shop=convenience

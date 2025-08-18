@@ -1,0 +1,44 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Steele Creek, AK",,retail,446191,Sunshine Health Foods,"3525 College Road, 99709-3733",,,64.8560628,-147.8089189,,,n_763550548,shop=health_food
+"Steele Creek, AK",,retail,445120,,,,,64.8258988,-147.7124833,,,n_3331281432,shop=convenience
+"Steele Creek, AK",,retail,445120,,,,,64.8373034,-147.7504955,,,n_3331281439,shop=convenience
+"Steele Creek, AK",,retail,445120,,,,,64.8136378,-147.7095382,,,n_3331281483,shop=convenience
+"Steele Creek, AK",,retail,445120,,,,,64.8257664,-147.7142053,,,n_3331281491,shop=convenience
+"Steele Creek, AK",,retail,445120,Sourdough Fuel Deli Liquor Food Mart,,,,64.8690289,-147.6741701,,,n_3721787929,shop=convenience
+"Steele Creek, AK",,retail,445310,Brown Jug Friendly Spirits,"559 Harold Bentley Avenue, Fairbanks, 99701",,,64.8595737,-147.6875221,,,n_3721869231,shop=alcohol
+"Steele Creek, AK",,retail,445292,The Fudge Pot,"515 1st Avenue, Fairbanks, AK, 99701",+1 907-456-3834,https://www.thefudgepot.com/,64.8439305,-147.718499,,,n_3721963225,shop=chocolate
+"Steele Creek, AK",,retail,445120,Tesoro2Go,,,,64.7592473,-147.3496888,,,n_3936906231,shop=convenience
+"Steele Creek, AK",,retail,445310,Oaken Keg,,,,64.8562805,-147.8118031,,,n_3937068586,shop=alcohol
+"Steele Creek, AK",,retail,452319,Great Alaskan Tobacco Store,,,,64.8561572,-147.8117925,,,n_3937068587,shop=variety_store
+"Steele Creek, AK",,retail,445110,Commissary,,,,64.8250819,-147.634241,,,n_4419551906,shop=supermarket
+"Steele Creek, AK",,retail,452210,Exchange,,,,64.825273,-147.6358236,,,n_4419553344,"shop=department_store, operator=AAFES"
+"Steele Creek, AK",,retail,445120,Express,,,,64.6774508,-147.0910649,,,n_4419654638,"shop=convenience, amenity=fuel, operator=AAFES"
+"Steele Creek, AK",,retail,445110,Commissary,,,,64.6769556,-147.0860446,,,n_4419810694,shop=supermarket
+"Steele Creek, AK",,retail,452210,Exchange,,,,64.6774772,-147.0898668,,,n_4419810695,shop=department_store
+"Steele Creek, AK",,retail,445120,,,,,64.9575149,-147.6172775,,,n_4946680607,shop=convenience
+"Steele Creek, AK",,retail,445120,Gold Hill,,,,64.847005,-147.9515076,,,n_5063208991,shop=convenience
+"Steele Creek, AK",,retail,445120,Holiday StationStore,,,,64.8486357,-147.8305766,,,n_6074807638,shop=convenience
+"Steele Creek, AK",,retail,445120,Tesoro,,,,64.8473413,-147.8687875,,,n_6101508779,shop=convenience
+"Steele Creek, AK",,retail,446120,Ulta Beauty,,,,64.8567029,-147.705345,,,n_7823871005,"shop=cosmetics, brand=Ulta Beauty"
+"Steele Creek, AK",,retail,445120,Garden Island Party Store,,,,64.8478074,-147.7220505,,,n_8896929563,shop=convenience
+"Steele Creek, AK",,retail,446191,Sunshine Health Foods,,,,64.8473785,-147.6756124,,,n_10920603392,shop=health_food
+"Steele Creek, AK",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-530+old+steese+hwy-fairbanks-ak-99701/id=15944,64.8508383,-147.6971204,,,n_11231123948,"shop=chemist, brand=Walgreens"
+"Steele Creek, AK",,retail,445120,Niff's Badger Road Tesoro,"751 Badger Road, North Pole, AK, 99705",,,64.8168363,-147.56785,,,n_12065611193,shop=convenience
+"Steele Creek, AK",,retail,445110,Fred Meyer,"3755 Airport Way, Fairbanks, AK, 99709",+1 907-474-1404,https://www.fredmeyer.com/stores/grocery/ak/fairbanks/west-fairbanks/701/00485,64.8353667,-147.8176901,,,w_116072940,"shop=supermarket, brand=Fred Meyer"
+"Steele Creek, AK",,retail,445110,Safeway,"3627 Airport Way, 99701",,https://local.safeway.com/safeway/ak/fairbanks/3627-airport-way.html,64.8356776,-147.808129,,,w_129384917,"shop=supermarket, brand=Safeway"
+"Steele Creek, AK",,retail,445110,Safeway,"301 North Santa Claus Lane, North Pole, AK, 99705",+1 907-490-2700,https://local.safeway.com/safeway/ak/north-pole/301-n-santa-claus-ln.html,64.7575848,-147.3542016,,,w_132169762,"shop=supermarket, brand=Safeway"
+"Steele Creek, AK",,retail,445110,Safeway,"30 College Road, 99701",,https://local.safeway.com/safeway/ak/fairbanks/30-college-rd.html,64.8515835,-147.7004678,,,w_132190797,"shop=supermarket, brand=Safeway, operator=Safeway 3410"
+"Steele Creek, AK",,retail,445120,Tesoro 2Go Mart,"3679 College Road, Fairbanks, AK, 99709",,,64.8552818,-147.8117665,,,w_153316845,"shop=convenience, brand=Tesoro"
+"Steele Creek, AK",,retail,445120,Sourdough Fuel,,,,64.7620705,-147.3465858,,,w_208604319,shop=convenience
+"Steele Creek, AK",,retail,445110,Walmart Supercenter,"537 Johansen Expressway, Fairbanks, AK, 99701",+1-907-451-9900,https://www.walmart.com/store/2722-fairbanks-ak,64.8563941,-147.6894486,,,w_230793937,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Steele Creek, AK",,retail,445110,Co-Op Market Grocery & Deli,"526 Gaffney Road, Fairbanks, AK, 99701",+1-907-457-1023,https://coopmarket.org/,64.8374623,-147.7159774,,,w_266501502,shop=supermarket
+"Steele Creek, AK",,retail,445110,Fred Meyer,"930 Old Steese Highway, Fairbanks, AK, 99701",+1 907-459-4266,https://www.fredmeyer.com/stores/details/701/00224,64.8547377,-147.6903439,,,w_271086321,"shop=supermarket, brand=Fred Meyer"
+"Steele Creek, AK",,retail,452319,Party Palace,,,,64.8332844,-147.7797817,,,w_391813203,shop=variety_store
+"Steele Creek, AK",,retail,445120,Tesoro2Go,,,,64.828036,-147.7797485,,,w_392013923,shop=convenience
+"Steele Creek, AK",,retail,445120,Sourdough Food Mart,,,,64.8525944,-147.749978,,,w_487231516,shop=convenience
+"Steele Creek, AK",,retail,445310,,,,,64.9574985,-147.6170772,,,w_504518278,shop=alcohol
+"Steele Creek, AK",,retail,445120,Tesoro 2Go Mart,"99 College Road, Fairbanks, AK, 99701",,,64.853614,-147.7151574,,,w_550198319,shop=convenience
+"Steele Creek, AK",,retail,445120,Holiday,,,,64.8594259,-147.6846796,,,w_923168069,"shop=convenience, brand=Holiday"
+"Steele Creek, AK",,retail,446120,Salon and Studio,"901 Cushman Street, Fairbanks, AK, 99701",,,64.8394039,-147.7190662,,,w_962093403,shop=beauty
+"Steele Creek, AK",,retail,453110,Alaskan Floral and Wedding,"519 12th Avenue, Fairbanks, AK, 99701",+1-907-456-4044,https://www.facebook.com/AlaskanFloralAndWedding/,64.8378715,-147.7161348,,,w_962093406,shop=florist
+"Steele Creek, AK",,retail,445120,Riverview Quick Stop,,,,64.8327987,-147.5168546,,,w_1302613004,shop=convenience

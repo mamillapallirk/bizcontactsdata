@@ -1,0 +1,19 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"River Falls, AL",,retail,445110,Piggly Wiggly,"1130 Martin Luther King Junior Expressway, Andalusia, AL, 35420",+1 334-222-9121,https://pigglywigglyofandalusia.com/,31.3175749,-86.4629008,,,n_8729085715,"shop=supermarket, brand=Piggly Wiggly"
+"River Falls, AL",,retail,452319,Dollar Tree,"1138 Martin Luther King Junior Expressway, Andalusia, AL, 36420",+1-334-658-6107,https://www.dollartree.com/locations/al/andalusia/4637/,31.3174122,-86.462469,,,n_8729095560,"shop=variety_store, brand=Dollar Tree"
+"River Falls, AL",,retail,445120,Pic-N-Sav,"550 West Bypass, Andalusia, AL, 36420",+1 334 222 1804,https://www.picnsav.com/stores/pic-n-sav-andalusia,31.3043066,-86.5008304,,,n_9385768602,shop=convenience
+"River Falls, AL",,retail,445120,Evergreen Foodmart,"401 Perryman Street, Evergreen, AL, 36401",,,31.4357853,-86.944567,,,n_9386969943,shop=convenience
+"River Falls, AL",,retail,445120,,,,,31.6511615,-86.7769064,,,w_761146864,shop=convenience
+"River Falls, AL",,retail,445110,Walmart Supercenter,"1991 M.L.K. Jr Expressway, Andalusia, AL, 36420",+1 334-222-6561,https://www.walmart.com/store/1091-andalusia-al,31.3216695,-86.4450417,,,w_1017626922,"shop=supermarket, brand=Walmart, operator=Walmart"
+"River Falls, AL",,retail,445120,,,,,31.4954885,-86.3686866,,,w_1035475136,shop=convenience
+"River Falls, AL",,retail,452319,Dollar General,,,,31.3075817,-86.4862633,,,w_1193186266,"shop=variety_store, brand=Dollar General"
+"River Falls, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/andalusia-al-pharmacies/1204-dr-m-l-k-jr-expy-andalusia-al-36420/storeid=7077,31.3180757,-86.4607448,,,w_1193186276,"shop=chemist, brand=CVS Pharmacy"
+"River Falls, AL",,retail,452319,Dollar General,"118 Shelby Street, Andalusia, AL, 36421",,https://www.dollargeneral.com/store-directory/al/andalusia/4027,31.3200407,-86.4622369,,,w_1193186285,"shop=variety_store, brand=Dollar General"
+"River Falls, AL",,retail,452319,Dirt Cheap,,,,31.3203283,-86.4575521,,,w_1193186294,shop=variety_store
+"River Falls, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/opp/3297,31.2718786,-86.247215,,,w_1234950178,"shop=variety_store, brand=Dollar General"
+"River Falls, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/brantley/11251,31.5789786,-86.2569081,,,w_1235075311,"shop=variety_store, brand=Dollar General"
+"River Falls, AL",,retail,445120,Old Gin Creek,"9627 South Main Street, Brantley, AL, 36009",,,31.5796854,-86.2559942,,,w_1316744411,"shop=convenience, amenity=fuel"
+"River Falls, AL",,retail,446191,331 Nutrition,,,,31.5815676,-86.257249,,,w_1316744462,shop=health_food
+"River Falls, AL",,retail,445110,Dixieland,"17 Monroe Street, Brantley, AL, 36009",,,31.5819415,-86.2561922,,,w_1316744511,shop=supermarket
+"River Falls, AL",,retail,445120,Sun Stop,"9415 North Main Street, Brantley, AL, 36009",,,31.5827854,-86.2568204,,,w_1316744535,"shop=convenience, amenity=fuel, brand=Inland"
+"River Falls, AL",,retail,445120,Eagle Express,,,,31.581777,-86.2583299,,,w_1316748056,"shop=convenience, amenity=fuel"

@@ -1,0 +1,15 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Pollard, AR",,retail,445310,,"Marmaduke, 72443",,,36.1858385,-90.3833876,,,n_1570019036,"shop=alcohol, amenity=waste_basket"
+"Pollard, AR",,retail,452210,JCPenney,,,,36.7541158,-90.4096452,,,n_2884294487,"shop=department_store, brand=JCPenney"
+"Pollard, AR",,retail,445110,ALDI,"601 North Westwood, Poplar Bluff, MO, 63901",+1 855-955-2534,https://stores.aldi.us/mo/poplar-bluff/601-north-westwood,36.7626018,-90.4115683,,,n_2884316618,"shop=supermarket, brand=ALDI"
+"Pollard, AR",,retail,445120,Quick Stop,,,,36.1862668,-90.3844772,,,n_5646073262,shop=convenience
+"Pollard, AR",,retail,445120,,,,,36.7288805,-90.4596665,,,n_12679782185,shop=convenience
+"Pollard, AR",,retail,445110,Walmart Supercenter,"1500 1st Street, Kennett, MO, 63857",+1 573-888-2084,https://www.walmart.com/store/190-kennett-mo,36.2388629,-90.0377099,,,w_205518992,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Pollard, AR",,retail,445110,Walmart Supercenter,"333 South Westwood Boulevard, Poplar Bluff, MO, 63901",+1 573-686-6420,https://www.walmart.com/store/19-poplar-bluff-mo,36.7555294,-90.4118388,,,w_288983783,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Pollard, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/rector/3829,36.258504,-90.2930952,,,w_393515674,"shop=variety_store, brand=Dollar General"
+"Pollard, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/marmaduke/12181,36.1841414,-90.3855701,,,w_591305007,"shop=variety_store, brand=Dollar General"
+"Pollard, AR",,retail,452210,Walmart,"1007 North Douglass Street, Malden, MO, 63863",+1 573-276-5735,https://www.walmart.com/store/453-malden-mo,36.5704129,-89.972365,,,w_669537701,"shop=department_store, brand=Walmart, operator=Walmart"
+"Pollard, AR",,retail,445120,Casey's General Store,,,,36.2360015,-90.068964,,,w_856530862,"shop=convenience, brand=Casey's General Store"
+"Pollard, AR",,retail,445110,Harps Food,,,,36.2583143,-90.2831163,,,w_1203412400,shop=supermarket
+"Pollard, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/corning/1061,36.4130313,-90.5853332,,,w_1204086333,"shop=variety_store, brand=Dollar General"
+"Pollard, AR",,retail,445120,Huck's Food & Fuel,"Saint Francis Street, Kennett, MO, 63857",,,36.2369795,-90.0625565,,,w_1390850650,"shop=convenience, brand=Huck's Food & Fuel"

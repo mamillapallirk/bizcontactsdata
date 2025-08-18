@@ -1,0 +1,35 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Elephant Head, AZ",,retail,445120,,,,,31.9623162,-110.7719118,,,n_1735987094,shop=convenience
+"Elephant Head, AZ",,retail,445310,Dos Cabezas Wineworks,,,https://www.doscabezas.com/,31.6800595,-110.6535201,,,n_3473590780,shop=alcohol
+"Elephant Head, AZ",,retail,445310,Village of Elgin Winery,,,,31.6608268,-110.5261304,,,n_3473590785,shop=alcohol
+"Elephant Head, AZ",,retail,445120,,,,,31.5937847,-111.3005113,,,n_3827622372,shop=convenience
+"Elephant Head, AZ",,retail,445110,Safeway,"465 West Mariposa Road, Nogales, AZ, 85621",+1 520-281-4929,https://local.safeway.com/safeway/az/nogales/465-w-mariposa-rd.html,31.3644261,-110.940515,,,n_5104316731,"shop=supermarket, brand=Safeway"
+"Elephant Head, AZ",,retail,452319,Dollar Tree,"254 West Mariposa Road, Nogales, AZ, 85621-1041",+1 520-924-8616,https://www.dollartree.com/locations/az/nogales/2629/,31.3694171,-110.9345455,,,n_9085345107,"shop=variety_store, brand=Dollar Tree"
+"Elephant Head, AZ",,retail,445310,Sonoita Vineyards,"290 Elgin Canelo Road, Elgin, AZ, 85611",,https://www.sonoitavineyards.com/,31.6234484,-110.5483086,,,n_9248352978,shop=wine
+"Elephant Head, AZ",,retail,445310,Callaghan Vineyards,"336 Elgin Road, Elgin, AZ, 85611",,https://www.callaghanvineyards.com/,31.659424,-110.5502221,,,n_9248376820,shop=wine
+"Elephant Head, AZ",,retail,446110,CVS Pharmacy,"240 West Continental Road, Green Valley, AZ, 85622",+1 520-625-7286,https://www.cvs.com/store-locator/green-valley-az-pharmacies/240-w-continental-rd-green-valley-az-85622/storeid=9254,31.8533709,-110.9955293,,,n_12630748930,"shop=chemist, brand=CVS Pharmacy"
+"Elephant Head, AZ",,retail,452319,Super Sale Bin Store,"115 West Esperanza Boulevard, Green Valley, AZ",,,31.8683738,-110.9924958,,,n_13074160935,shop=variety_store
+"Elephant Head, AZ",,retail,445120,,,,,31.4309097,-110.9620041,,,w_226827511,shop=convenience
+"Elephant Head, AZ",,retail,452319,Sonoita Mercantile,"3235 Highway 82, Elgin, AZ, 85611",,,31.678631,-110.6554862,,,w_280794462,shop=general
+"Elephant Head, AZ",,retail,452319,Sonoita Mini Mart,"3160 Highway 83, Sonoita, AZ, 85637",,,31.6788022,-110.6561018,,,w_342833741,shop=general
+"Elephant Head, AZ",,retail,445110,Fry's Marketplace,"15950 South Rancho Sahuarita Boulevard, Sahuarita, AZ, 85629",+1 520-648-7700,https://www.frysfood.com/stores/details/660/00679,31.960397,-110.9860161,,,w_376123944,"shop=supermarket, brand=Fry's Food and Drug, operator=Kroger"
+"Elephant Head, AZ",,retail,445110,Walmart Supercenter,"18680 South Nogales Highway, Green Valley, AZ, 85614",+1 520-625-3808,https://www.walmart.com/store/1411-green-valley-az,31.9121657,-110.9826093,,,w_387651504,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Elephant Head, AZ",,retail,445120,Shell,"80 East Esperanza Boulevard, Green Valley, AZ, 85614-2420",+1 520-625-6839,https://find.shell.com/us/fuel/10006250-80-e-esperanza-blvd,31.8698411,-110.9891921,,,w_409489019,"shop=convenience, brand=Shell, operator=Shell"
+"Elephant Head, AZ",,retail,452210,Ross,"340 West Mariposa Road, Nogales, AZ, 85621",+1 520-377-2780,,31.3682739,-110.9374303,,,w_439633738,"shop=department_store, brand=Ross"
+"Elephant Head, AZ",,retail,452210,JCPenney,"220 West Mariposa Road, Nogales, AZ, 85621",+1 520-281-4891,https://www.jcpenney.com/locations/az/nogales/clothing-stores-nogales-az-1052.html,31.3683696,-110.933578,,,w_478952885,"shop=department_store, brand=JCPenney"
+"Elephant Head, AZ",,retail,446110,Walgreens,"1959 North Grand Avenue, Nogales, AZ, 85621",+1 520-281-4398,https://www.walgreens.com/locator/walgreens-1959+n+grand+ave-nogales-az-85621/id=7623,31.3680957,-110.9317501,,,w_549981065,"shop=chemist, brand=Walgreens"
+"Elephant Head, AZ",,retail,445120,Fry's Gas Station,,,,31.958668,-110.9812804,,,w_740818140,shop=convenience
+"Elephant Head, AZ",,retail,445120,Speedway,"795 West Sahuarita Road, Sahuarita, AZ, 85629",,https://www.speedway.com/locations/AZ/Sahuarita/795-W-Via-Rancho-Sahuarita,31.9572196,-110.9825193,,,w_740818143,"shop=convenience, brand=Speedway"
+"Elephant Head, AZ",,retail,452210,Bealls,"18743 South Nogales Highway, Sahuarita, AZ, 85614",+1 520-399-9587,https://stores.bealls.com/az/sahuarita/18743-s-nogales-highway,31.9092109,-110.9790629,,,w_776453294,"shop=department_store, brand=Bealls"
+"Elephant Head, AZ",,retail,445110,Safeway,"260 West Continental Road, Green Valley, AZ, 85622",+1 520-625-7283,https://local.safeway.com/safeway/az/green-valley/260-w-continental-rd.html,31.8527736,-110.9966386,,,w_819698604,"shop=supermarket, brand=Safeway"
+"Elephant Head, AZ",,retail,446110,Walgreens,"375 West Continental Road, Green Valley, AZ, 85622",+1 520-648-2320,https://www.walgreens.com/locator/walgreens-375+w+continental+rd-green+valley-az-85622/id=5312,31.851598,-110.9986209,,,w_819698605,"shop=chemist, brand=Walgreens"
+"Elephant Head, AZ",,retail,452210,Marshalls,"300 West Mariposa Road, Nogales, AZ, 85621",+1 520-375-6529,https://www.marshalls.com/us/store/stores/Nogales-AZ-85621/1398/aboutstore,31.3685221,-110.936622,,,w_982378260,"shop=department_store, brand=Marshalls"
+"Elephant Head, AZ",,retail,445120,Red Mountian Foods,"347 McKeown Avenue, Patagonia, AZ, 85624",,,31.5393251,-110.7543307,,,w_1041082792,shop=convenience
+"Elephant Head, AZ",,retail,445120,,,,,32.0740681,-110.9591418,,,w_1056525890,shop=convenience
+"Elephant Head, AZ",,retail,452319,Dollar General,"3165 Highway 83, Elgin, AZ, 85611",,https://www.dollargeneral.com/store-directory/az/sonoita/17334,31.6801636,-110.6550248,,,w_1071393804,"shop=variety_store, brand=Dollar General"
+"Elephant Head, AZ",,retail,445110,Sprouts Farmers Market,"18755 South Nogales Highway, Green Valley, AZ, 85614",+1 520-729-3370,https://www.sprouts.com/store/az/green-valley/sahuarita/,31.9085047,-110.9790392,,,w_1075645504,"shop=supermarket, brand=Sprouts Farmers Market"
+"Elephant Head, AZ",,retail,445120,,,,,31.8276095,-111.0132092,,,w_1076177673,shop=convenience
+"Elephant Head, AZ",,retail,446110,,,,,31.9121783,-110.9794094,,,w_1086321994,shop=chemist
+"Elephant Head, AZ",,retail,445110,Safeway,"1305 West Duval Mine Road, Green Valley, AZ, 85614",+1 520-648-2847,https://local.safeway.com/safeway/az/sahuarita/1305-w-duval-mine-rd.html,31.9009547,-110.9925528,,,w_1086564772,"shop=supermarket, brand=Safeway"
+"Elephant Head, AZ",,retail,446110,Walgreens,"313 West Esperanza Boulevard, Green Valley, AZ, 85614",+1 520-648-2417,https://www.walgreens.com/locator/Walgreens-313+W+ESPERANZA+BLVD-GREEN+VALLEY-AZ-85614/id=2232,31.8697131,-110.9960829,,,w_1131709928,"shop=chemist, brand=Walgreens"
+"Elephant Head, AZ",,retail,445120,Circle K,"1680 Shell Loop, Nogales, AZ, 85621",,,31.3646425,-110.9486298,,,w_1232091394,"shop=convenience, brand=Circle K"

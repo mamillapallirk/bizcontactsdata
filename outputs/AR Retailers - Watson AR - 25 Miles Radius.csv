@@ -1,0 +1,10 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Watson, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ms/rosedale/12038,33.844962,-91.021017,,,n_2718288073,"shop=variety_store, brand=Dollar General"
+"Watson, AR",,retail,445110,Tobacco store,"110 Crooked Bayou Drive, McGehee, AR, 71654",,,33.6107216,-91.3814912,,,n_4632400191,shop=supermarket
+"Watson, AR",,retail,445120,,,,,33.8774125,-91.4815968,,,n_11956823032,shop=convenience
+"Watson, AR",,retail,452210,Walmart,"1001 Us 65 South, McGehee, AR, 71654",+1 870-222-4184,https://www.walmart.com/store/289-mcgehee-ar,33.6042312,-91.3819147,,,w_729205800,"shop=department_store, brand=Walmart, operator=Walmart"
+"Watson, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/gould/16273,33.9899538,-91.5640765,,,w_1034172588,"shop=variety_store, brand=Dollar General"
+"Watson, AR",,retail,445110,The Mad Butcher,,,,33.8783619,-91.4813152,,,w_1201167696,shop=supermarket
+"Watson, AR",,retail,452319,Dollar General,,,,33.8838868,-91.4824953,,,w_1201167698,"shop=variety_store, brand=Dollar General"
+"Watson, AR",,retail,452319,Family Dollar,,,,33.889259,-91.485335,,,w_1201167699,"shop=variety_store, brand=Family Dollar"
+"Watson, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/gillett/22141,34.1258226,-91.3722915,,,w_1201431093,"shop=variety_store, brand=Dollar General"

@@ -1,0 +1,35 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Pineville, AR",,retail,445120,On the Run,,,,36.3326516,-92.3802109,,,n_1258813039,"shop=convenience, brand=On the Run"
+"Pineville, AR",,retail,452210,Vintage Market,"6988 US-62, 72635",,,36.2896457,-92.4736543,,,n_9644543017,shop=department_store
+"Pineville, AR",,retail,452210,Goodwill,"759 US-62 E, 72653",870-508-0040,,36.3478702,-92.3755695,,,n_9645839217,shop=department_store
+"Pineville, AR",,retail,452210,Big Lots,"759 Highway 62 East, Mountain Home, AR, 72653",+1 870-425-3017,https://local.biglots.com/ar/mountain-home/759-hwy-62-e,36.3496008,-92.3764565,,,n_11048624672,"shop=department_store, brand=Big Lots"
+"Pineville, AR",,retail,445310,,,,,36.344664,-92.378651,,,n_11048624680,shop=alcohol
+"Pineville, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/mountain-home/1065,36.3433609,-92.3825399,,,n_11048624683,"shop=variety_store, brand=Dollar General"
+"Pineville, AR",,retail,446110,Walgreens,"Mountain Home, AR, 72653",,https://www.walgreens.com/locator/walgreens-350+highway+62+e-mountain+home-ar-72653/id=9743,36.3420618,-92.3815702,,,n_11048624684,"shop=chemist, brand=Walgreens"
+"Pineville, AR",,retail,445120,Snappy Mart,,,,36.3406357,-92.3857085,,,n_11048624688,shop=convenience
+"Pineville, AR",,retail,445120,Casey's General Store,,,,36.3404006,-92.3874487,,,n_11048684907,"shop=convenience, brand=Casey's General Store"
+"Pineville, AR",,retail,445120,Snappy Mart,,,,36.2190308,-91.7564946,,,n_11118415971,shop=convenience
+"Pineville, AR",,retail,445120,Snappy Mart,,,,36.1486664,-92.1201235,,,n_11164370010,shop=convenience
+"Pineville, AR",,retail,445120,Lones,,,,36.3439013,-92.3366012,,,n_11164480461,shop=convenience
+"Pineville, AR",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ar/mountain-home/2467/,36.3562363,-92.3383087,,,n_11164480710,"shop=variety_store, brand=Dollar Tree"
+"Pineville, AR",,retail,452319,Dollar General,,,,35.8682745,-92.3077912,,,n_12450128212,"shop=variety_store, brand=Dollar General"
+"Pineville, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/gassville/7265,36.2836427,-92.4949568,,,w_246375750,"shop=variety_store, brand=Dollar General"
+"Pineville, AR",,retail,445110,Sunfest,"119 West Main Street, Gassville, AR, 72635",+18704356180,https://www.gwfoodsinc.com/,36.282686,-92.4960927,,,w_246375751,shop=supermarket
+"Pineville, AR",,retail,445110,Walmart Supercenter,"409 Sylamore Avenue, Mountain View, AR, 72560",+1 870-269-4395,https://www.walmart.com/store/1114-mountain-view-ar,35.867208,-92.101783,,,w_480261193,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Pineville, AR",,retail,445310,Gravity BrewWorks,"11512 Highway 14 East, Big Flat, AR, 72617",8704482077,http://gravitybrewworks.com,36.0083015,-92.3788361,,,w_997334586,shop=beverages
+"Pineville, AR",,retail,446110,Mitchell's Main Street Pharmacy,,,,35.8678656,-92.1153661,,,w_1057054926,shop=chemist
+"Pineville, AR",,retail,452319,Music and More General Store,,,,35.8816633,-92.1157537,,,w_1057419703,shop=general
+"Pineville, AR",,retail,452319,Dollar General,6403 Highway 5 North,,https://www.dollargeneral.com/store-directory/ar/midway/13974,36.385521,-92.4609129,,,w_1158548008,"shop=variety_store, brand=Dollar General"
+"Pineville, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/horseshoe-bend/7725,36.2208324,-91.757625,,,w_1198567228,"shop=variety_store, brand=Dollar General"
+"Pineville, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/salesville/12843,36.2464539,-92.2709555,,,w_1203898648,"shop=variety_store, brand=Dollar General"
+"Pineville, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/viola/17918,36.3971965,-91.9846598,,,w_1203931323,"shop=variety_store, brand=Dollar General"
+"Pineville, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/mountain-view/2633,35.8601488,-92.0915067,,,w_1204577958,"shop=variety_store, brand=Dollar General"
+"Pineville, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/calico-rock/11552,36.1438761,-92.122881,,,w_1204577962,"shop=variety_store, brand=Dollar General"
+"Pineville, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/mountain-home/16707,36.3026026,-92.3356241,,,w_1204590150,"shop=variety_store, brand=Dollar General"
+"Pineville, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/mountain-home/22161,36.3281133,-92.3903868,,,w_1204590151,"shop=variety_store, brand=Dollar General"
+"Pineville, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/mountain-home/13772,36.3738843,-92.3179516,,,w_1204590153,"shop=variety_store, brand=Dollar General"
+"Pineville, AR",,retail,445110,Walmart Supercenter,"65 Wal Mart Drive, Mountain Home, AR, 72653",+1 870-492-9299,https://www.walmart.com/store/11-mountain-home-ar,36.3549454,-92.3408716,,,w_1204590178,"shop=supermarket, brand=Walmart"
+"Pineville, AR",,retail,452210,American Freight,,,,36.3536906,-92.3557415,,,w_1204590203,"shop=department_store, brand=American Freight"
+"Pineville, AR",,retail,452319,Dollar General,"220 South Main Street, Salem, AR, 72576",,,36.369135,-91.822167,,,w_1229499002,"shop=variety_store, brand=Dollar General"
+"Pineville, AR",,retail,445110,Aldi,,,,35.8633131,-92.1046788,,,w_1336010047,shop=supermarket
+"Pineville, AR",,retail,452319,Family Dollar,,,,36.3707676,-91.8331246,,,w_1346049011,"shop=variety_store, brand=Family Dollar"

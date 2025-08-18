@@ -1,0 +1,484 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Beaumont, CA",,retail,445110,Gerrard's Market,,,,34.0426024,-117.1840753,,,n_332436996,shop=supermarket
+"Beaumont, CA",,retail,445110,Stater Bros.,"1155 Calimesa Boulevard, Calimesa, CA, 92320",+1 909-795-2224,https://www.staterbros.com/stores/71,33.995763,-117.0568568,,,n_457359176,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,445120,ampm,,,,33.9934397,-117.0576116,,,n_457367894,"shop=convenience, brand=ampm"
+"Beaumont, CA",,retail,445120,Chevron,,,,33.9928393,-117.0565529,,,n_457370070,"shop=convenience, brand=Chevron"
+"Beaumont, CA",,retail,445120,Circle K,,,,33.9936924,-117.0568424,,,n_457403249,"shop=convenience, brand=Circle K"
+"Beaumont, CA",,retail,445110,Groceries for Less,,,,34.0048356,-117.0610138,,,n_457415708,shop=supermarket
+"Beaumont, CA",,retail,445120,County Cork,,,,33.993913,-117.0578123,,,n_457719552,shop=convenience
+"Beaumont, CA",,retail,445120,Calimesa Drive Thru Dairy,,,,33.9996171,-117.0599343,,,n_457748641,shop=convenience
+"Beaumont, CA",,retail,445120,C & H Liquor,,,,34.0044841,-117.0620886,,,n_457748645,shop=convenience
+"Beaumont, CA",,retail,445120,,,,,34.0463363,-117.2014069,,,n_574181744,shop=convenience
+"Beaumont, CA",,retail,445110,Food 4 Less,,,,34.0651461,-117.224976,,,n_574838404,"shop=supermarket, brand=Food 4 Less"
+"Beaumont, CA",,retail,445120,7-Eleven,"32487 Yucaipa Boulevard, Yucaipa, CA, 92399-1877",+1 909-797-6465,https://www.7-eleven.com/locations/ca/yucaipa/32487-yucaipa-blvd-17814,34.0335305,-117.0958508,,,n_583573357,"shop=convenience, brand=7-Eleven"
+"Beaumont, CA",,retail,452210,Ross,"33720 Oak Glen Road, Yucaipa, CA, 92399",+1 909-797-0918,,34.0359857,-117.0685346,,,n_584865710,"shop=department_store, brand=Ross"
+"Beaumont, CA",,retail,445110,Stater Bros.,"34460 Yucaipa Boulevard, Yucaipa, CA, 92399",+1 909-790-0060,https://www.staterbros.com/stores/23,34.0353277,-117.0526065,,,n_942830211,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,445110,Food 4 Less,,,,33.9738463,-117.3469037,,,n_943378231,"shop=supermarket, brand=Food 4 Less"
+"Beaumont, CA",,retail,445110,Rite Aid,,,,33.9601168,-117.3941411,,,n_943389742,shop=supermarket
+"Beaumont, CA",,retail,445110,Ralphs,"6155 Magnolia Avenue, Riverside, CA, 92506",+1 951-274-9543,https://www.ralphs.com/stores/grocery/ca/riverside/magnolia-town-center/703/00144,33.9592269,-117.3943342,,,n_943390313,"shop=supermarket, brand=Ralphs"
+"Beaumont, CA",,retail,445110,Stater Bros.,"315 East Alessandro Boulevard, Riverside, CA, 92508",+1 951-565-5426,https://www.staterbros.com/stores/201,33.9141018,-117.3281711,,,n_943398059,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,445110,Sprouts Farmers Market,"475 East Alessandro Boulevard, Riverside, CA, 92508",+1 951-565-5400,https://www.sprouts.com/store/ca/riverside/e-alessandro-blvd/,33.9139778,-117.3233769,,,n_943402481,"shop=supermarket, brand=Sprouts Farmers Market"
+"Beaumont, CA",,retail,445110,Stater Bros.,"25900 Iris Avenue, Moreno Valley, CA, 92551",+1 951-924-1717,https://www.staterbros.com/stores/172,33.8917222,-117.209334,,,n_1043355273,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,445120,Circle K,,,https://www.circlek.com/store-locator/US/cabazon/300-n-fern-st/2655155,33.9181487,-116.7799181,,,n_1185824726,"shop=convenience, brand=Circle K"
+"Beaumont, CA",,retail,445120,Main Country Liquor Deli,"50386 Main Street, Cabazon, CA, 92230",,,33.9170006,-116.7826654,,,n_1190949946,shop=convenience
+"Beaumont, CA",,retail,445120,,,,,33.8501181,-116.8520313,,,n_1201313390,shop=convenience
+"Beaumont, CA",,retail,445120,Pine Cove Gas & Market,,,,33.7585781,-116.7391586,,,n_1203012803,shop=convenience
+"Beaumont, CA",,retail,445110,Stater Bros.,"30712 Benton Road, Winchester, CA, 92596",+1 951-926-6432,https://www.staterbros.com/stores/177,33.5923887,-117.121872,,,n_1247205836,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,445230,Winchester Farms Marketplace,"27400 Winchester Road, Winchester, CA, 92596",,,33.7224762,-117.0757872,,,n_1264853120,shop=greengrocer
+"Beaumont, CA",,retail,445110,Winchester Ranch Market,,,,33.7095918,-117.0846125,,,n_1264853258,shop=grocery
+"Beaumont, CA",,retail,445310,Winchester Store,,,,33.7069724,-117.0851795,,,n_1264853759,shop=alcohol
+"Beaumont, CA",,retail,445120,Chevron,,,,34.1361476,-117.1935993,,,n_1295131161,"shop=convenience, amenity=fuel, brand=Chevron"
+"Beaumont, CA",,retail,445120,Chevron,,,,33.7819806,-117.2178868,,,n_1298157814,"shop=convenience, amenity=fuel, brand=Chevron"
+"Beaumont, CA",,retail,445120,,,,,33.9175543,-117.2615582,,,n_1326188042,"shop=convenience, amenity=fuel, brand=Thrifty"
+"Beaumont, CA",,retail,445120,Mobil,,,,33.9760301,-117.336732,,,n_1333487407,"shop=convenience, amenity=fuel, brand=Mobil"
+"Beaumont, CA",,retail,445120,,,,,34.0384447,-117.3677504,,,n_1336514330,"shop=convenience, amenity=fuel;car_wash, brand=ARCO"
+"Beaumont, CA",,retail,445120,,,,,34.0374987,-117.3674283,,,n_1336514558,"shop=convenience, amenity=fuel, brand=76"
+"Beaumont, CA",,retail,445120,Mobil,,,,34.0666316,-117.324869,,,n_1339197354,"shop=convenience, amenity=fuel, brand=Mobil"
+"Beaumont, CA",,retail,445310,,,,,34.0148058,-117.3402348,,,n_1343044220,shop=alcohol
+"Beaumont, CA",,retail,445120,Shell,,,,33.9833054,-117.340305,,,n_1343105062,"shop=convenience, amenity=fuel, brand=Shell"
+"Beaumont, CA",,retail,445120,Valero,,,,33.7147205,-117.18566,,,n_1349777217,"shop=convenience, amenity=fuel, brand=Valero"
+"Beaumont, CA",,retail,445120,Shell,,,,33.7869232,-117.215893,,,n_1350170307,"shop=convenience, amenity=fuel, brand=Shell"
+"Beaumont, CA",,retail,445120,Shell,,,,34.0334497,-117.32364,,,n_1357773801,"shop=convenience, brand=Shell"
+"Beaumont, CA",,retail,445120,76,,,,33.8414945,-117.254599,,,n_1367636109,"shop=convenience, amenity=fuel;car_wash, brand=76"
+"Beaumont, CA",,retail,445120,Chevron,,,,33.8453936,-117.2434381,,,n_1368118940,"shop=convenience, brand=Chevron"
+"Beaumont, CA",,retail,445120,Elkhorn General Store,,,,34.0857985,-116.9101271,,,n_1370499198,shop=convenience
+"Beaumont, CA",,retail,445120,Easter Market,,,,33.9177232,-117.1564348,,,n_1377433725,"shop=convenience, amenity=fuel"
+"Beaumont, CA",,retail,445120,Rock View Drive-Thru Convenience Store,,,,34.0532353,-117.1742029,,,n_1385337830,shop=convenience
+"Beaumont, CA",,retail,445120,,,,,34.0541108,-117.1750974,,,n_1385337832,shop=convenience
+"Beaumont, CA",,retail,445110,Albertsons,"450 East Cypress Avenue, Redlands, CA, 92373",+1 909-792-1114,https://local.albertsons.com/ca/redlands/450-e-cypress-ave.html,34.0484855,-117.1713725,,,n_1392829737,"shop=supermarket, brand=Albertsons"
+"Beaumont, CA",,retail,446110,Rite Aid,,,,34.0473232,-117.1701736,,,n_1392829753,"shop=chemist, brand=Rite Aid"
+"Beaumont, CA",,retail,445120,7-Eleven,"16970 Van Buren Boulevard, Riverside, CA, 92504",,,33.8825792,-117.3664149,,,n_1407504588,"shop=convenience, amenity=fuel, brand=7-Eleven"
+"Beaumont, CA",,retail,445310,Home of the Hangover Liquor Store,"42074 Big Bear Boulevard, Big Bear Lake, CA, 92315",+19098662103,https://www.homeofthehangover.com/,34.244677,-116.8842746,,,n_1456528397,shop=alcohol
+"Beaumont, CA",,retail,445120,,,,,34.2410273,-116.9172856,,,n_1458412353,shop=convenience
+"Beaumont, CA",,retail,445210,House of Jerky,,,,34.2411765,-116.9113717,,,n_1458418462,shop=butcher
+"Beaumont, CA",,retail,445310,Our Town Liquor,,,,34.2413493,-116.916769,,,n_1458420336,shop=alcohol
+"Beaumont, CA",,retail,452210,Sears,,,,33.9377955,-117.2697392,,,n_1658487411,"shop=department_store, brand=Sears"
+"Beaumont, CA",,retail,452210,JCPenney,,,,33.9380358,-117.2722497,,,n_1658487903,"shop=department_store, brand=JCPenney"
+"Beaumont, CA",,retail,452210,Macy's,,,https://www.macys.com/stores/ca/morenovalley/moreno-valley-mall_540.html,33.9389615,-117.2734621,,,n_1658488021,"shop=department_store, brand=Macy's"
+"Beaumont, CA",,retail,445120,Larry's Deli,,,,33.8556692,-116.5553594,,,n_1959564382,shop=convenience
+"Beaumont, CA",,retail,445310,Larry's Deli,"2781 Palm Canyon Drive, Palm Springs, CA, 92262",,,33.8556648,-116.5553272,,,n_1959564383,shop=alcohol
+"Beaumont, CA",,retail,445120,Sav-A-Minit,,,,33.9882887,-117.3723487,,,n_2416628450,shop=convenience
+"Beaumont, CA",,retail,445110,Trader Joe's,"552 Orange Street, Redlands, CA, 92374",+1 909-798-3888,https://locations.traderjoes.com/ca/redlands/99/,34.0604619,-117.1812162,,,n_2556102710,"shop=supermarket, brand=Trader Joe's"
+"Beaumont, CA",,retail,445120,ampm,,,,34.063382,-117.22577,,,n_2561991030,"shop=convenience, brand=ampm"
+"Beaumont, CA",,retail,445120,FoodMart,,,,34.0654319,-117.22662,,,n_2561991039,shop=convenience
+"Beaumont, CA",,retail,446120,Spa Nail Fashion,,,,34.0650672,-117.225806,,,n_2561991059,shop=beauty
+"Beaumont, CA",,retail,446120,Our Place,,,,34.0600057,-117.1799936,,,n_2602885430,shop=beauty
+"Beaumont, CA",,retail,445120,7-Eleven,"41440 Big Bear Boulevard, Big Bear Lake, CA, 92315",+1 909-866-7711,https://www.7-eleven.com/locations/ca/big-bear-lake/41440-big-bear-blvd-22809,34.2438936,-116.8980634,,,n_2720342187,"shop=convenience, brand=7-Eleven"
+"Beaumont, CA",,retail,445210,Jeff's Famous Beef Jerky,40804B Village Drive,,,34.2400902,-116.9117228,,,n_2789823917,shop=butcher
+"Beaumont, CA",,retail,445120,Fawnskin Market,"39187 North Shore Drive, Fawnskin, 92333",,,34.2691878,-116.9469479,,,n_2847597677,shop=convenience
+"Beaumont, CA",,retail,445310,Idyll Awhile,"54245 North Circle Drive Unit C-8, Idyllwild, 92549",+1-951-659-9463,http://www.idyllawhilewineshoppebistro.com/,33.7450382,-116.7127351,,,n_2984043746,shop=wine
+"Beaumont, CA",,retail,445110,Loma Linda Market Juice Bar,,,,34.0508525,-117.2595942,,,n_3052318786,shop=supermarket
+"Beaumont, CA",,retail,452319,Lighthouse General Store,,,https://www.bigbearlighthouseresort.com/,34.2617796,-116.9175585,,,n_3367436539,shop=general
+"Beaumont, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/redlands-ca-pharmacies/1795-e-lugonia-ave-redlands-ca-92374/storeid=10310,34.0705902,-117.139346,,,n_3425692364,"shop=chemist, brand=CVS Pharmacy"
+"Beaumont, CA",,retail,445110,Stater Bros.,"1775 East Lugonia Avenue, Redlands, CA, 92374",+1 909-794-0105,https://www.staterbros.com/stores/191,34.0715538,-117.1401034,,,n_3425722427,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,445110,Walmart Neighborhood Market,,,,34.1343361,-117.241934,,,n_3458864932,"shop=supermarket, brand=Walmart"
+"Beaumont, CA",,retail,445120,ampm,,,,34.0557782,-117.1754367,,,n_3458890991,"shop=convenience, brand=ampm"
+"Beaumont, CA",,retail,452210,Walmart,"2050 West Redlands Boulevard, Redlands, CA, 92373",+1 909-798-9114,https://www.walmart.com/store/1693-redlands-ca,34.0650396,-117.222756,,,n_3490004433,"shop=department_store, brand=Walmart, operator=Walmart"
+"Beaumont, CA",,retail,445120,Jensen's,"31987 Hilltop Blvd, Running Springs, CA, 92382",909-867-2228,,34.2042129,-117.105387,,,n_3683209505,shop=convenience
+"Beaumont, CA",,retail,445120,7-Eleven,"3740 Iowa Avenue, Riverside, CA, 92507",+1 951-680-9678,https://www.7-eleven.com/locations/ca/riverside/3740-iowa-ave-34218,33.9773522,-117.339499,,,n_3723880213,"shop=convenience, brand=7-Eleven"
+"Beaumont, CA",,retail,445120,7-Eleven,"33561 Yucaipa Boulevard, Yucaipa, CA, 92399",+1 909-797-5837,https://www.7-eleven.com/locations/ca/yucaipa/33561-yucaipa-blvd-35977,34.0335493,-117.0719716,,,n_3946673058,"shop=convenience, brand=7-Eleven"
+"Beaumont, CA",,retail,445292,Candy Cupboard,"Idyllwild, CA, 92549",,,33.74542,-116.7137829,,,n_3950850201,shop=confectionery
+"Beaumont, CA",,retail,445110,Clark's Nutrition and Natural Foods Markets,"11235 Mountain View Avenue, Loma Linda, CA, 92354",,www.clarksnutrition.com/,34.0500768,-117.2422101,,,n_4055232258,shop=supermarket
+"Beaumont, CA",,retail,452210,JCPenney,,,,34.0709368,-117.21162,,,n_4103891848,"shop=department_store, brand=JCPenney"
+"Beaumont, CA",,retail,445110,Greenspot Market,,,,34.0712263,-117.0993453,,,n_4182185490,shop=supermarket
+"Beaumont, CA",,retail,453110,The Stem,,,,34.0475374,-117.2082191,,,n_4209010394,shop=florist
+"Beaumont, CA",,retail,445120,Cigar Pipe,"1566 Barton Road, Redlands, CA, 92373",,,34.0487316,-117.2081926,,,n_4209045490,shop=convenience
+"Beaumont, CA",,retail,445120,Shannon's Health Foods,"Moreno Valley, CA, 92553",,,33.9376659,-117.249312,,,n_4419238018,shop=convenience
+"Beaumont, CA",,retail,446120,Choice Beauty Supply,"25590 Barton Road, Loma Linda, 92354",909-796-8722,http://BeautySupplyinLoma LindaCA92354.htm,34.0494241,-117.245855,,,n_4574601600,shop=beauty
+"Beaumont, CA",,retail,452210,Ross,"30141 Antelope Road, Menifee, CA, 92584",+1 951-246-4178,,33.683576,-117.1696089,,,n_4707796191,"shop=department_store, brand=Ross"
+"Beaumont, CA",,retail,446120,Henry's Nails,,,,33.8833838,-117.3638283,,,n_4805051943,shop=beauty
+"Beaumont, CA",,retail,445110,Walmart Neighborhood Market,"859 West Florida Avenue, Hemet, CA, 92543",+1 951-492-3029,https://www.walmart.com/store/5008-hemet-ca,33.745448,-116.979639,,,n_5315597930,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Beaumont, CA",,retail,445110,Walmart Neighborhood Market,"25755 Barton Road, Loma Linda, CA, 92354",+1 909-283-7239,https://www.walmart.com/store/2998-loma-linda-ca,34.047122,-117.242268,,,n_5315598951,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Beaumont, CA",,retail,445110,Stater Bros.,"3633 Highland Avenue, Highland, CA, 92346",+1 909-864-0122,https://www.staterbros.com/stores/58,34.1343034,-117.2077413,,,n_5355805499,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,445110,Food 4 Less,"26529 Highland Avenue, Highland, 92346",,,34.1343346,-117.225236,,,n_5355835998,"shop=supermarket, brand=Food 4 Less"
+"Beaumont, CA",,retail,452210,Big Lots,"26545 Highland Avenue, Highland, 92346",,,34.1344273,-117.224498,,,n_5355844208,"shop=department_store, brand=Big Lots"
+"Beaumont, CA",,retail,445120,,,,,33.7384002,-117.0771176,,,n_5590079232,shop=convenience
+"Beaumont, CA",,retail,452319,Dollar Tree,"26150 Iris Avenue, Moreno Valley, CA, 92551",,https://www.dollartree.com/locations/ca/moreno-valley/5061/,33.8927168,-117.2062408,,,n_5721460452,"shop=variety_store, brand=Dollar Tree"
+"Beaumont, CA",,retail,446120,Total Nails & Spa,"707 W 2nd Street, San Bernardino, CA, 92401",(909) 888-0348,,34.1024488,-117.299217,,,n_5835005198,shop=beauty
+"Beaumont, CA",,retail,446120,Amazing Lash Studio,,,,34.0603965,-117.188678,,,n_5864328954,"shop=beauty, brand=Amazing Lash Studio"
+"Beaumont, CA",,retail,445120,7-Eleven,"1365 Citrus Avenue, Redlands, CA, 92374-4012",+1 909-792-9350,https://www.7-eleven.com/locations/ca/redlands/1365-citrus-ave-13958,34.0559949,-117.1571508,,,n_5877018171,"shop=convenience, brand=7-Eleven"
+"Beaumont, CA",,retail,445110,Stater Bros.,"11 East Colton Avenue, Redlands, CA, 92374",+1 909-792-3900,https://www.staterbros.com/stores/18,34.0637658,-117.1818978,,,n_6125240164,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,445120,,,,,33.7433415,-117.0321004,,,n_6187413272,shop=convenience
+"Beaumont, CA",,retail,445120,,,,,33.7867716,-117.0086619,,,n_6187426398,shop=convenience
+"Beaumont, CA",,retail,445120,ampm,,,,33.739675,-117.076883,,,n_6208835691,"shop=convenience, brand=ampm"
+"Beaumont, CA",,retail,445120,Circle K,,,,33.773412,-117.0075046,,,n_6209361038,"shop=convenience, brand=Circle K"
+"Beaumont, CA",,retail,452210,JCPenney,,,,33.7487193,-116.994655,,,n_6226276909,"shop=department_store, brand=JCPenney"
+"Beaumont, CA",,retail,452210,Sears,,,,33.7495512,-116.9949076,,,n_6226276910,"shop=department_store, brand=Sears"
+"Beaumont, CA",,retail,446120,Cellinies Nail & SPA,,,,33.9165323,-117.2712709,,,n_6311987057,shop=beauty
+"Beaumont, CA",,retail,453110,Flower Box,,,,33.9127414,-117.2695897,,,n_6335583923,shop=florist
+"Beaumont, CA",,retail,445110,Trader Joe's,"6225 Riverside Avenue, Riverside, CA, 92506",+1 951-781-2378,https://locations.traderjoes.com/ca/riverside/15/,33.9559471,-117.388437,,,n_6527437345,"shop=supermarket, brand=Trader Joe's"
+"Beaumont, CA",,retail,445120,Allsup's,,,,34.0007394,-117.364674,,,n_6632754635,"shop=convenience, brand=Allsup's"
+"Beaumont, CA",,retail,445110,Canyon Lake Market,"31682 Railroad Canyon Road, Canyon Lake, CA, 92587",,,33.6726501,-117.2532172,,,n_6852863676,shop=supermarket
+"Beaumont, CA",,retail,445120,Shell,,,,33.9157116,-117.323977,,,n_6894591824,"shop=convenience, brand=Shell"
+"Beaumont, CA",,retail,445292,El Buen Cacao,"Idyllwild, CA, 92549",,https://elbuencacao.co,33.743223,-116.7129766,,,n_6927943289,shop=chocolate
+"Beaumont, CA",,retail,445110,Mother's Nutritional Center,,,,34.1197828,-117.3140732,,,n_7341735632,shop=supermarket
+"Beaumont, CA",,retail,445110,El Super,,,,34.1227,-117.3215781,,,n_7341735650,shop=supermarket
+"Beaumont, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/san-bernardino-ca-pharmacies/1564-w-base-line-st-san-bernardino-ca-92411/storeid=9664,34.1226853,-117.3208757,,,n_7341735651,"shop=chemist, brand=CVS Pharmacy"
+"Beaumont, CA",,retail,446120,Rosy Nails,,,,34.1226186,-117.3222119,,,n_7341735655,shop=beauty
+"Beaumont, CA",,retail,446120,Stylish Eyebrows,,,,34.121656,-117.3212901,,,n_7341735663,shop=beauty
+"Beaumont, CA",,retail,445110,Jimmy's Food Store,,,,34.1217115,-117.3235343,,,n_7341735665,shop=supermarket
+"Beaumont, CA",,retail,445110,Aldi,"27641 San Bernardino Avenue, Redlands, CA, 92374-5045",+1 833-479-7040,https://stores.aldi.us/ca/redlands/27641-san-bernardino-ave,34.0759387,-117.2025701,,,n_7391083062,"shop=supermarket, brand=Aldi"
+"Beaumont, CA",,retail,452319,Dollar Tree,"1366 Industrial Park Avenue, Redlands, CA, 92374-2897",+1 909-801-3010,https://www.dollartree.com/locations/ca/redlands/1773/,34.0646463,-117.2025318,,,n_7391083969,"shop=variety_store, brand=Dollar Tree"
+"Beaumont, CA",,retail,445292,Village Candy Kitchen,"233 East State Street, Redlands, CA, 92373",,https://www.facebook.com/villagecandykitchen/,34.0565591,-117.179463,,,n_7403606993,shop=confectionery
+"Beaumont, CA",,retail,445110,ALDI,"30163 Haun Road, Menifee, CA, 92584-6825",+1 951-221-8425,https://stores.aldi.us/ca/menifee/30163-haun-rd,33.6826029,-117.1767064,,,n_7455528323,"shop=supermarket, brand=ALDI"
+"Beaumont, CA",,retail,445110,La Esperanza Ranch Market,"1208 West 5th Street, San Bernardino, CA, 92411",,,34.1087446,-117.3119375,,,n_7819449759,shop=supermarket
+"Beaumont, CA",,retail,445120,ampm,,,,34.0488091,-117.2254723,,,n_8223722221,"shop=convenience, brand=ampm"
+"Beaumont, CA",,retail,445120,Shell,,,,33.5905548,-117.1238827,,,n_8356237818,"shop=convenience, brand=Shell"
+"Beaumont, CA",,retail,445110,WinCo Foods,,,,33.9340344,-117.2749736,,,n_8429404362,"shop=supermarket, brand=WinCo Foods"
+"Beaumont, CA",,retail,453991,,,,,33.7451873,-116.7126311,,,n_8710989027,shop=tobacco
+"Beaumont, CA",,retail,446120,Modern Nails,"1008 Cherry Valley Boulevard, Calimesa, CA, 92320",,,33.9667699,-117.0361957,,,n_9089150977,shop=beauty
+"Beaumont, CA",,retail,445120,Speedway,"3570 Central Avenue, Riverside, CA, 92506",,https://www.speedway.com/locations/CA/Riverside/3570-CENTRAL-AVE,33.9532117,-117.390349,,,n_9178312663,"shop=convenience, brand=Speedway"
+"Beaumont, CA",,retail,445120,Stevies Snack Shop,"1170 West 3rd Street, San Bernardino, CA, 92410",,,34.1042465,-117.3099064,,,n_9269297056,shop=convenience
+"Beaumont, CA",,retail,445120,,,,,34.028759,-117.1186907,,,n_9341603464,shop=convenience
+"Beaumont, CA",,retail,445120,ampm,,,,34.0283366,-117.1197815,,,n_9341603466,"shop=convenience, brand=ampm"
+"Beaumont, CA",,retail,446120,Bath & Body Works,,,https://www.bathandbodyworks.com/?cm_mmc=local_BBW00107,33.9391363,-117.2709182,,,n_9747925348,"shop=cosmetics, brand=Bath & Body Works"
+"Beaumont, CA",,retail,452210,Marshalls,,,,33.9556911,-117.3920431,,,n_9780261199,"shop=department_store, brand=Marshalls"
+"Beaumont, CA",,retail,446120,Allure Nails & Spa,,,,34.0774044,-117.3709463,,,n_9892963019,shop=beauty
+"Beaumont, CA",,retail,452210,Ross,"1610 South Riverside Avenue, Rialto, CA, 92376-7739",+1 909-562-0122,,34.072052,-117.3718733,,,n_9892963089,"shop=department_store, brand=Ross"
+"Beaumont, CA",,retail,452210,dd's Discounts,,,,34.0717039,-117.3716071,,,n_9892963090,"shop=department_store, brand=dd's Discounts"
+"Beaumont, CA",,retail,446120,Kelly Nails & Spa,,,,34.0724372,-117.369519,,,n_9892963185,shop=beauty
+"Beaumont, CA",,retail,446120,KD Nail Supply,,,,34.0724359,-117.369596,,,n_9892963186,shop=beauty
+"Beaumont, CA",,retail,452319,Two Brothers Smoke Shop,,,,34.0724372,-117.369653,,,n_9892963187,shop=general
+"Beaumont, CA",,retail,445120,Shell,,,,33.8886884,-117.2259127,,,n_9936239208,"shop=convenience, brand=Shell"
+"Beaumont, CA",,retail,445120,,,,,33.8451483,-117.2255372,,,n_9938406839,shop=convenience
+"Beaumont, CA",,retail,445120,,,,,33.844044,-117.2256355,,,n_9938406841,shop=convenience
+"Beaumont, CA",,retail,445120,7-Eleven,,,,33.9175368,-117.2857046,,,n_9938478856,shop=convenience
+"Beaumont, CA",,retail,445120,,,,,33.9176243,-117.2847242,,,n_9938478857,shop=convenience
+"Beaumont, CA",,retail,453110,Little Green House,,+18009095352,https://www.bigbearflorist.com/,34.2437,-116.897568,,,n_9946668267,shop=florist
+"Beaumont, CA",,retail,445120,Circle K,,,,33.902324,-117.2430131,,,n_9950534770,"shop=convenience, brand=Circle K"
+"Beaumont, CA",,retail,446110,Rite Aid,,,,33.9223494,-116.947668,,,n_9998720517,"shop=chemist, brand=Rite Aid"
+"Beaumont, CA",,retail,446120,Nails and Spa,,,,34.0836263,-117.2972957,,,n_10055733713,shop=beauty
+"Beaumont, CA",,retail,445292,See's Candies,,,,34.0848513,-117.2970137,,,n_10055751127,"shop=confectionery, brand=See's Candies"
+"Beaumont, CA",,retail,445292,Sue's Candy,,,,34.0849053,-117.297424,,,n_10055751134,shop=confectionery
+"Beaumont, CA",,retail,446120,Regal Nails,,,,33.7676585,-116.9554595,,,n_10073612339,"shop=beauty, brand=Regal Nails"
+"Beaumont, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/colton/202-n-mt-vernon-avenue-33604,34.0657138,-117.3130202,,,n_10155998963,"shop=convenience, brand=7-Eleven"
+"Beaumont, CA",,retail,445120,Express Market,,,,34.1756596,-117.2895192,,,n_10159050786,shop=convenience
+"Beaumont, CA",,retail,453991,Big Bear Smoke Shop & Vape,"207 West Big Bear Boulevard, Big Bear City, CA, 92314",+19095476720,,34.2613496,-116.8470977,,,n_10167572062,shop=tobacco
+"Beaumont, CA",,retail,445120,,,,,34.029865,-117.1152364,,,n_10202225164,shop=convenience
+"Beaumont, CA",,retail,445110,Grocery Outlet,,,https://www.groceryoutlet.com/,34.0331598,-117.3150875,,,n_10213116017,shop=grocery
+"Beaumont, CA",,retail,446120,The Perfume Shop,,,,34.0850957,-117.2976349,,,n_10617375630,shop=perfumery
+"Beaumont, CA",,retail,445110,Baron's,,,,33.6860142,-117.1698404,,,n_10650240932,shop=supermarket
+"Beaumont, CA",,retail,446120,Sola Salons,,,,33.6861676,-117.1702521,,,n_10650258062,"shop=beauty, brand=Sola Salons"
+"Beaumont, CA",,retail,446120,Cosmo,,,,33.6857206,-117.1689315,,,n_10651014919,shop=beauty
+"Beaumont, CA",,retail,445120,ampm,,,,33.9954488,-117.3645969,,,n_10692452247,"shop=convenience, brand=ampm"
+"Beaumont, CA",,retail,446120,Beautiful Nails,,,,33.9165119,-117.272097,,,n_10737342832,shop=beauty
+"Beaumont, CA",,retail,446120,Eyebrow Threading,,,,33.9163868,-117.2716585,,,n_10737342835,shop=beauty
+"Beaumont, CA",,retail,445120,7-Eleven,,,,33.7434887,-117.191819,,,n_10811775456,"shop=convenience, brand=7-Eleven"
+"Beaumont, CA",,retail,445230,Stop N Shop Market,"846 East 6th Street, Beaumont, CA, 92223",+19518452723,,33.9297782,-116.97046,,,n_10841362399,shop=greengrocer
+"Beaumont, CA",,retail,446120,Bath & Body Works,,,,34.0854077,-117.2971773,,,n_10950130679,"shop=cosmetics, brand=Bath & Body Works"
+"Beaumont, CA",,retail,445120,,,,,33.7416783,-117.1906355,,,n_11018710293,shop=convenience
+"Beaumont, CA",,retail,445120,,,,,33.7424451,-117.1852033,,,n_11018710296,shop=convenience
+"Beaumont, CA",,retail,445110,Clark’s Nutrition and Natural Foods Market,4225 Market Street,+1 951-686-4757,https://clarksnutrition.com,33.9784791,-117.3786644,,,n_11091811097,shop=supermarket
+"Beaumont, CA",,retail,445310,La Bodega Wine & Spirit,3512 Central Avenue,+1 951-683-3307,,33.9532433,-117.3886485,,,n_11230257280,shop=alcohol
+"Beaumont, CA",,retail,445110,Grocery Outlet,,,,33.9738208,-117.3493965,,,n_11294801496,"shop=supermarket, brand=Grocery Outlet"
+"Beaumont, CA",,retail,445110,Kassel And Kassel Law Offices,"1200 California Street, Redlands, CA, 92374",909-792-6455,https://www.kasselandkassel.com/,34.0689036,-117.2254738,,,n_11338737191,shop=supermarket
+"Beaumont, CA",,retail,453991,Adams MKT Smoke Shop,,,,33.9388479,-117.3973285,,,n_11344897700,shop=tobacco
+"Beaumont, CA",,retail,445120,ARCO,"2646 East Alessandro Boulevard, Riverside, CA, 92508",+1-951-653-5340,https://arco-riverside.com,33.9176035,-117.2849585,,,n_11372779160,shop=convenience
+"Beaumont, CA",,retail,445110,Advanced Emission Specialist's,"29770 Bradley Road, Menifee, CA, 92586",+1-951-246-8147,https://aessmog.com,33.6883173,-117.1870759,,,n_11380696151,"shop=supermarket, operator=Krysta Cano"
+"Beaumont, CA",,retail,453110,Lily of the Valley,,,,33.7456331,-116.7123582,,,n_11418699129,shop=florist
+"Beaumont, CA",,retail,446120,Jade Nails,,,,33.6666301,-117.2626978,,,n_11597433366,shop=beauty
+"Beaumont, CA",,retail,446120,Dream Tan,,,,33.6668355,-117.2634526,,,n_11597464169,shop=beauty
+"Beaumont, CA",,retail,445120,Food Mart,,,,33.6676101,-117.2649714,,,n_11597464173,shop=convenience
+"Beaumont, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/riverside/7451/,33.8834083,-117.364573,,,n_11624932957,"shop=variety_store, brand=Dollar Tree"
+"Beaumont, CA",,retail,453991,Y & M Smoke Shop,"1055 North Mount Vernon Avenue, Colton, CA, 92324",+1 909 4221800,https://www.yandmsmokeshop.com/,34.0755322,-117.3142207,,,n_11733815620,"shop=tobacco, operator=Yaser Ghreir"
+"Beaumont, CA",,retail,445110,Stater Bros. Markets,"1271 North State Street, San Jacinto, CA, 92583",+1 951-487-9070,https://www.staterbros.com/stores/180,33.8041696,-116.9707775,,,n_11809317183,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,445110,Stater Bros. Markets,"41849 Florida Avenue, Hemet, CA, 92544",+1 951-652-2388,https://www.staterbros.com/stores/75,33.7467912,-116.9316848,,,n_11809317184,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,445110,Stater Bros.,"3125 West Florida Avenue, Hemet, CA, 92545",+1 951-537-1190,https://www.staterbros.com/stores/195,33.745628,-117.0053453,,,n_11809317187,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,445110,Ralphs,"30125 Antelope Road, Menifee, CA, 92584",+1 951-679-2117,https://www.ralphs.com/stores/grocery/ca/menifee/menifee-town-center/703/00140,33.6842435,-117.1689336,,,n_11809317190,"shop=supermarket, brand=Ralphs"
+"Beaumont, CA",,retail,445110,ALDI,"80 Citrus Avenue, Perris, CA, 92571",+1 833-479-7074,https://stores.aldi.us/ca/perris/80-citrus-ave,33.8086196,-117.2279697,,,n_11809317191,"shop=supermarket, brand=ALDI"
+"Beaumont, CA",,retail,445110,Stater Bros. Markets,"47 West Nuevo Road, Perris, CA, 92571",+1 951-657-1823,https://www.staterbros.com/stores/113,33.79977,-117.2271154,,,n_11809317192,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,445110,Ralphs Fresh Fare,"5225 Canyon Crest Drive, Riverside, CA, 92507",+1 951-784-3123,https://www.ralphs.com/stores/grocery/ca/riverside/canyon-crest-town-center/703/00609,33.9559109,-117.3321018,,,n_11809317216,"shop=supermarket, brand=Ralphs"
+"Beaumont, CA",,retail,445110,Sprouts Farmers Market,"24101 Hemlock Avenue, Moreno Valley, CA, 92557",+1 951-567-7549,https://www.sprouts.com/store/ca/moreno-valley/447-moreno-valley/,33.941835,-117.242605,,,n_11809317221,"shop=supermarket, brand=Sprouts Farmers Market"
+"Beaumont, CA",,retail,445110,Stater Bros. Markets,"11875 Pigeon Pass Road, Moreno Valley, CA, 92557",+1 951-924-2575,https://www.staterbros.com/stores/193,33.9482951,-117.2621968,,,n_11809317223,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,445110,Stater Bros. Markets,"444 East Baseline Street, San Bernardino, CA, 92410",+1 909-889-6270,https://www.staterbros.com/stores/2,34.1221927,-117.2758318,,,n_11809317224,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,445110,Stater Bros. Markets,"1522 East Highland Avenue, San Bernardino, CA, 92404",+1 909-882-3214,https://www.staterbros.com/stores/24,34.1368811,-117.2541087,,,n_11809317225,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,445110,Stater Bros. Markets 40th Street,"161 East 40th Street, San Bernardino, CA, 92404",+1 909-882-2678,https://www.staterbros.com/stores/36,34.163803,-117.2827669,,,n_11809317226,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,445110,Stater Bros. Markets,"977 Kendall Drive, San Bernardino, CA, 92407",+1 909-882-0461,https://www.staterbros.com/stores/107,34.1629971,-117.305638,,,n_11809317228,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,445110,Sprouts Farmers Market,"1524 South Riverside Avenue, Rialto, CA, 92376",+1 840-220-4266,https://www.sprouts.com/store/ca/rialto/riverside-ave/,34.0737183,-117.3722781,,,n_11809317231,"shop=supermarket, brand=Sprouts Farmer Market"
+"Beaumont, CA",,retail,445120,Food Mart,,,,33.9324261,-116.8230135,,,n_11929210573,shop=convenience
+"Beaumont, CA",,retail,445120,Circle K,"19470 Brown Street, 92570",,,33.8375779,-117.2955635,,,n_12037843269,shop=convenience
+"Beaumont, CA",,retail,445120,,,,,33.9031,-116.5461874,,,n_12101462369,shop=convenience
+"Beaumont, CA",,retail,445120,7-Eleven,,,,33.7218634,-117.1566854,,,n_12133171075,"shop=convenience, brand=7-Eleven"
+"Beaumont, CA",,retail,445110,Asian Mini Mart - Menifee's Asian Market,"29800 Bradley Road, Menifee, CA, 92586",(951) 923-2682,https://asianminimartmenifee.com,33.6882935,-117.1879535,,,n_12303149795,"shop=supermarket, brand=Asian Mini Mart, operator=Asian Mini Mart"
+"Beaumont, CA",,retail,452319,Dollar Tree,"30910 Benton Road, Winchester, CA, 92596",,,33.5919626,-117.1206691,,,n_12454199300,"shop=variety_store, brand=Dollar Tree"
+"Beaumont, CA",,retail,445120,Circle K,,,,34.0448702,-116.5836055,,,n_12459871164,"shop=convenience, brand=Circle K"
+"Beaumont, CA",,retail,452319,Dollar General,,,,34.0533996,-116.5747915,,,n_12459879351,"shop=variety_store, brand=Dollar General"
+"Beaumont, CA",,retail,452319,Dollar Tree,,,,33.9267941,-116.9137945,,,n_12461705316,"shop=variety_store, brand=Dollar Tree"
+"Beaumont, CA",,retail,445120,ExtraMile,"826 Ramsey Street, CA",,,33.9257729,-116.8858274,,,n_12461735648,"shop=convenience, brand=ExtraMile"
+"Beaumont, CA",,retail,452210,Marshalls,"42126 Big Bear Boulevard, Big Bear Lake, CA, 92315",+1-909-866-0883,https://www.marshalls.com/us/store/stores/Big+Bear+Lake-CA-92315/1592/aboutstore,34.2479266,-116.8843948,,,n_12501669608,"shop=department_store, brand=Marshalls"
+"Beaumont, CA",,retail,445110,Grocery Outlet,"42126 Big Bear Boulevard, Big Bear Lake, CA, 92315",+1-909-340-2001,https://www.groceryoutlet.com/grand-opening/big-bear-lake,34.2476405,-116.8843951,,,n_12501669609,"shop=supermarket, brand=Grocery Outlet, operator=Adam & Tara Mazzella"
+"Beaumont, CA",,retail,445110,Smart & Final,,,,33.941463,-117.280522,,,n_12554581703,shop=grocery
+"Beaumont, CA",,retail,452210,Neiman Marcus Last Call,,+1-951-922-9009,,33.9306478,-116.818097,,,n_12571509952,"shop=department_store, brand=Neiman Marcus"
+"Beaumont, CA",,retail,445120,La Favorita,,,,33.7812767,-117.2449266,,,n_12631289323,shop=convenience
+"Beaumont, CA",,retail,446120,Nail Design,,,,33.7814058,-117.2449124,,,n_12632055525,shop=beauty
+"Beaumont, CA",,retail,445110,Aldi,"24856 Iris Avenue, Moreno Valley, CA, 92551",,,33.8876201,-117.2280536,,,n_12809975744,"shop=supermarket, brand=Aldi"
+"Beaumont, CA",,retail,445120,Shell,,,,33.88898,-117.323781,,,n_12917485008,"shop=convenience, brand=Shell"
+"Beaumont, CA",,retail,445120,7-Eleven,,,,33.8033219,-116.9726385,,,n_12917498717,"shop=convenience, brand=7-Eleven"
+"Beaumont, CA",,retail,446120,,,,,34.122843,-117.1939832,,,n_12974351882,shop=beauty
+"Beaumont, CA",,retail,453991,Catalyst Cannabis,"506 Inland Center Drive, 92408",+1-909-375-0480,https://catalyst-cannabis.com/dispensary-locations/san-bernardino-dispensary,34.091895,-117.2948458,,,n_12996670501,shop=tobacco
+"Beaumont, CA",,retail,452210,Kohl's,"27540 West Lugonia Avenue, Redlands, CA, 92374",+1 909-307-2056,https://www.kohls.com/stores/ca/redlands-631.shtml,34.073261,-117.2028192,,,w_34316413,"shop=department_store, brand=Kohl's"
+"Beaumont, CA",,retail,445110,Stater Bros.,"1536 Barton Road, Redlands, CA, 92373",+1 909-798-0072,https://www.staterbros.com/stores/112,34.0482709,-117.2071275,,,w_34321604,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,452210,Target,"27420 West Lugonia Avenue, Redlands, CA, 92374-2041",+1 909-307-1602,https://www.target.com/sl/redlands/1869,34.0723837,-117.2075272,,,w_46933038,"shop=department_store, brand=Target"
+"Beaumont, CA",,retail,452210,Burlington,"1520 Industrial Park Avenue, Redlands, CA, 92374",+1 909-748-6803,https://stores.burlington.com/ca/redlands/777,34.0656399,-117.2060596,,,w_102238078,"shop=department_store, brand=Burlington"
+"Beaumont, CA",,retail,446110,CVS Pharmacy,,,,34.0633064,-117.2039715,,,w_102238092,"shop=chemist, brand=CVS Pharmacy"
+"Beaumont, CA",,retail,452210,Target,"27100 Eucalyptus Avenue, Moreno Valley, CA, 92555",+1 951-571-8014,https://www.target.com/sl/moreno-valley-east/2309,33.9380129,-117.1896229,,,w_105081867,"shop=department_store, brand=Target, operator=Target"
+"Beaumont, CA",,retail,452210,TJ Maxx,,,,33.682905,-117.1724048,,,w_108692924,"shop=department_store, brand=TJ Maxx"
+"Beaumont, CA",,retail,452210,Kohl's,"30252 Haun Road, Menifee, CA, 92584",+1 951-301-9605,https://www.kohls.com/stores/ca/menifee-1282.shtml,33.6818382,-117.1722419,,,w_108692927,"shop=department_store, brand=Kohl's"
+"Beaumont, CA",,retail,452210,Target,"30340 Haun Road, Menifee, CA, 92584-6806",+1 951-723-6151,https://www.target.com/sl/menifee/2471,33.680334,-117.1722311,,,w_108692929,"shop=department_store, brand=Target"
+"Beaumont, CA",,retail,445120,,,,,33.59222,-117.1239142,,,w_108781532,shop=convenience
+"Beaumont, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/winchester-ca-pharmacies/30736-benton-rd-winchester-ca-92596/storeid=8848,33.5914594,-117.1223625,,,w_108781536,"shop=chemist, brand=CVS Pharmacy"
+"Beaumont, CA",,retail,445230,Fresh Oranges,,,,34.0453634,-117.1591102,,,w_111562510,shop=greengrocer
+"Beaumont, CA",,retail,445230,Gless Ranch,"19985 Van Buren Boulevard, Riverside, 92508",,,33.8884814,-117.3169941,,,w_118135165,shop=greengrocer
+"Beaumont, CA",,retail,445110,Maxi Foods Market,,,,33.9830605,-117.3788607,,,w_118725902,shop=supermarket
+"Beaumont, CA",,retail,445120,Country Store,,,,33.6759857,-117.1374318,,,w_124287743,shop=convenience
+"Beaumont, CA",,retail,445110,Albertsons,"8938 Trautwein Road, Riverside, CA, 92508",+1 951-656-6603,https://local.albertsons.com/ca/riverside/8938-trautwein-rd.html,33.8902499,-117.3228481,,,w_124563432,"shop=supermarket, brand=Albertsons"
+"Beaumont, CA",,retail,452210,Kohl's,"19260 Van Buren Boulevard, Riverside, CA, 92508",+1 951-780-0785,https://www.kohls.com/stores/ca/riverside-603.shtml,33.8891057,-117.3273083,,,w_124676178,"shop=department_store, brand=Kohl's"
+"Beaumont, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-8917+trautwein+rd-riverside-ca-92508/id=7786,33.8889062,-117.3249526,,,w_124676184,"shop=chemist, brand=Walgreens"
+"Beaumont, CA",,retail,445110,Vons,"42170 Big Bear Boulevard, Big Bear Lake, CA, 92315",+1 909-866-8459,https://local.vons.com/ca/big-bear-lake/42170-big-bear-blvd.html,34.2524287,-116.885186,,,w_128839093,"shop=supermarket, brand=Vons"
+"Beaumont, CA",,retail,445110,Stater Bros.,"42171 Big Bear Boulevard, Big Bear Lake, CA, 92315",+1 909-866-5211,https://www.staterbros.com/stores/91,34.2528656,-116.8833274,,,w_130004961,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,452210,Marshalls,,,,34.0692493,-117.2106873,,,w_132725191,"shop=department_store, brand=Marshalls"
+"Beaumont, CA",,retail,445120,Chevron,,,,34.0631398,-117.2080336,,,w_132768604,"shop=convenience, brand=Chevron"
+"Beaumont, CA",,retail,452319,99 Cents Only Stores,,,,34.0636712,-117.2121363,,,w_132768616,"shop=variety_store, brand=99 Cents Only Stores"
+"Beaumont, CA",,retail,445110,Vons,"522 Orange Street, Redlands, CA, 92374",+1 909-793-0447,https://local.vons.com/ca/redlands/522-n-orange-st.html,34.0599949,-117.1809899,,,w_132910359,"shop=supermarket, brand=Vons"
+"Beaumont, CA",,retail,445110,Vons,"3520 Riverside Plaza Drive, Riverside, CA, 92506",+1 951-342-7924,https://local.vons.com/ca/riverside/3520-riverside-plaza.html,33.954656,-117.3895196,,,w_132978568,"shop=supermarket, brand=Vons"
+"Beaumont, CA",,retail,445110,Vons,"27220 Sun City Boulevard, Sun City, CA, 92586",+1 951-679-0127,https://local.vons.com/ca/sun-city/27220-sun-city-blvd.html,33.7127958,-117.1931381,,,w_133439846,"shop=supermarket, brand=Vons"
+"Beaumont, CA",,retail,445110,Vons,"33644 Yucaipa Boulevard, Yucaipa, CA, 92399",+1 909-797-7052,https://local.vons.com/ca/yucaipa/33644-yucaipa-blvd.html,34.0353939,-117.070136,,,w_133957909,"shop=supermarket, brand=Vons"
+"Beaumont, CA",,retail,445110,Fairway Market,"54411 Village Center Drive, Idyllwild, 92549",(951) 659-2737,,33.7435523,-116.7143068,,,w_199148462,shop=supermarket
+"Beaumont, CA",,retail,445110,Village Market,"Banning-Idyllwild Panoramic Highway, Idyllwild, CA, 92549",,,33.745957,-116.7142669,,,w_199148470,shop=supermarket
+"Beaumont, CA",,retail,445120,,,,,33.7445985,-116.7150009,,,w_199148472,shop=convenience
+"Beaumont, CA",,retail,445110,Stater Bros.,"11365 Bryant Street, Yucaipa, CA, 92399",+1 909-790-3636,https://www.staterbros.com/stores/125,34.0473445,-117.0324682,,,w_206186707,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/riverside-ca-pharmacies/3361-market-st-riverside-ca-92501/storeid=8897,33.9868228,-117.373281,,,w_207536999,"shop=chemist, brand=CVS Pharmacy"
+"Beaumont, CA",,retail,445110,Albertsons,"7201 Boulder Avenue, Highland, CA, 92346",+1 909-425-9100,https://local.albertsons.com/ca/highland/7201-boulder-ave.html,34.1238447,-117.193607,,,w_208956864,"shop=supermarket, brand=Albertsons"
+"Beaumont, CA",,retail,445230,,,,,34.2099341,-117.085837,,,w_210116317,shop=greengrocer
+"Beaumont, CA",,retail,445230,,,,,34.2093939,-117.0861164,,,w_210116322,shop=greengrocer
+"Beaumont, CA",,retail,445230,jerky,,,,34.2101781,-117.0856702,,,w_210116323,shop=greengrocer
+"Beaumont, CA",,retail,445230,,,,,34.2100595,-117.085749,,,w_210116330,shop=greengrocer
+"Beaumont, CA",,retail,445110,Smart & Final,,,,33.9834173,-117.3650026,,,w_233262371,"shop=supermarket, brand=Smart & Final"
+"Beaumont, CA",,retail,445120,7-Eleven,"3315 14th Street, Riverside, CA, 92501",+1 951-682-1786,https://www.7-eleven.com/locations/ca/riverside/3315-14th-st-39756,33.9746805,-117.3739047,,,w_233264639,"shop=convenience, brand=7-Eleven"
+"Beaumont, CA",,retail,445292,See's Candies,"3525 Central Avenue, Riverside, CA",,,33.9538645,-117.3891095,,,w_233267709,"shop=confectionery, brand=See's Candies"
+"Beaumont, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-6600+magnolia+ave-riverside-ca-92506/id=7262,33.9529536,-117.3960939,,,w_233268220,"shop=chemist, brand=Walgreens"
+"Beaumont, CA",,retail,452210,Target,"3333 Arlington Avenue, Riverside, CA, 92506-3252",+1 951-784-6430,https://www.target.com/sl/riverside-arlington/291,33.9478633,-117.3822237,,,w_233293291,"shop=department_store, brand=Target"
+"Beaumont, CA",,retail,445120,Circle K,,,,33.9362112,-117.4058763,,,w_233400555,"shop=convenience, brand=Circle K"
+"Beaumont, CA",,retail,445120,7-Eleven,"7020 Magnolia Avenue, Riverside, CA, 92506-2803",+1 951-787-7133,https://www.7-eleven.com/locations/ca/riverside/7020-magnolia-avenue-20019,33.9457601,-117.4009059,,,w_233401438,"shop=convenience, brand=7-Eleven"
+"Beaumont, CA",,retail,445120,7-Eleven,"5958 Magnolia Avenue, Riverside, CA, 92506-1884",+1 951-788-0105,https://www.7-eleven.com/locations/ca/riverside/5958-magnolia-ave-27635,33.9611504,-117.3910249,,,w_233433864,"shop=convenience, brand=7-Eleven"
+"Beaumont, CA",,retail,452319,Dollar Tree,42150 Big Bear Boulevard,,https://www.dollartree.com/locations/ca/big-bear-lake/2959/,34.25215,-116.8859682,,,w_238637905,"shop=variety_store, brand=Dollar Tree"
+"Beaumont, CA",,retail,445110,VILLAGE MARKET,,,,34.2087397,-117.1148476,,,w_238796867,shop=supermarket
+"Beaumont, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/big-bear-lake/41901-big-bear-blvd-32151,34.2428229,-116.8877537,,,w_238821811,"shop=convenience, brand=7-Eleven"
+"Beaumont, CA",,retail,445120,ampm,,,,34.2558043,-116.8828774,,,w_239854307,"shop=convenience, brand=ampm"
+"Beaumont, CA",,retail,445110,Stater Bros.,"17050 Van Buren Boulevard, Riverside, CA, 92508",+1 951-780-2261,https://www.staterbros.com/stores/80,33.883493,-117.365078,,,w_245593028,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,445120,ampm,,,,34.0633836,-117.2257707,,,w_249617634,"shop=convenience, brand=ampm"
+"Beaumont, CA",,retail,445120,ampm,,,,33.6407944,-117.1675402,,,w_270493384,"shop=convenience, brand=ampm"
+"Beaumont, CA",,retail,445110,Albertsons,"28047 Scott Road, Murrieta, CA, 92563",+1 951-246-1586,https://local.albertsons.com/ca/murrieta/28047-scott-rd.html,33.6393115,-117.1697926,,,w_270493388,"shop=supermarket, brand=Albertsons"
+"Beaumont, CA",,retail,445120,,,,,33.6411011,-117.1688048,,,w_270493389,shop=convenience
+"Beaumont, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-33060+antelope+rd-murrieta-ca-92563/id=10948,33.6409365,-117.1669397,,,w_270493393,"shop=chemist, brand=Walgreens"
+"Beaumont, CA",,retail,445110,ALDI,"4020 Highland Avenue, Highland, CA, 92346-2637",+1 909-543-0758,https://stores.aldi.us/ca/highland/4020-highland-ave,34.1374634,-117.1985117,,,w_270782774,"shop=supermarket, brand=ALDI"
+"Beaumont, CA",,retail,445110,Walmart Supercenter,"4210 Highland Avenue, Highland, CA, 92346",+1 909-425-8846,https://www.walmart.com/store/1914-highland-ca,34.1376488,-117.1947957,,,w_270782816,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Beaumont, CA",,retail,445120,Easy's General Store,"498 Maple Lane, Sugar Loaf, 92386",,,34.2433184,-116.8253878,,,w_277490668,shop=convenience
+"Beaumont, CA",,retail,445210,Smokey's Beef Jerky,"42167 Big Bear Boulevard, Big Bear Lake, 92315",+19098664511,https://smokeysbeefjerky.com/,34.2518817,-116.8839292,,,w_277497560,shop=butcher
+"Beaumont, CA",,retail,445120,Community Market,"100 East Big Bear Boulevard, Big Bear City",,,34.2609148,-116.8453665,,,w_277504777,shop=convenience
+"Beaumont, CA",,retail,445120,Circle K,,,,33.6857377,-117.176118,,,w_281240034,"shop=convenience, brand=Circle K"
+"Beaumont, CA",,retail,445310,Mountain Top Liquor,,,,33.7457199,-116.7148022,,,w_294784361,shop=alcohol
+"Beaumont, CA",,retail,445110,Loma Linda Market,"11161 Anderson Street, Loma Linda, 92350",(909) 558-4565,https://www.lomalindamarket.com/,34.0507407,-117.2593969,,,w_301126160,"shop=supermarket, operator=Loma Linda University"
+"Beaumont, CA",,retail,445120,7-Eleven,"2493 Palm Canyon Drive, Palm Springs, CA, 92262",+1 760-325-7868,https://www.7-eleven.com/locations/ca/palm-springs/2493-n-palm-canyon-dr-17666,33.8519447,-116.5516703,,,w_312212538,"shop=convenience, brand=7-Eleven"
+"Beaumont, CA",,retail,445120,Chevron,"16770 Van Buren Boulevard, Riverside, CA, 92504",,,33.8828545,-117.3702469,,,w_323351773,"shop=convenience, brand=Chevron"
+"Beaumont, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-16020+perris+blvd-moreno+valley-ca-92551/id=9616,33.8878389,-117.2254832,,,w_331884563,"shop=chemist, brand=Walgreens"
+"Beaumont, CA",,retail,445120,,,,,34.0702814,-117.1221264,,,w_335468740,shop=convenience
+"Beaumont, CA",,retail,452319,99 Cents Only Stores,,,https://locations.99only.com/ca/sanbernardino/discount-store-356.html,34.1179394,-117.2767423,,,w_347004895,"shop=variety_store, brand=99 Cents Only Stores"
+"Beaumont, CA",,retail,445110,El Super,"263 East 9th Street, San Bernardino, CA, 92401",,https://elsupermarkets.com/store/san-bernardino-9th/,34.1146565,-117.2800086,,,w_347005019,"shop=supermarket, brand=El Super"
+"Beaumont, CA",,retail,452210,TJ Maxx,27651 D San Bernardino Avenue,,,34.074353,-117.2035383,,,w_355517562,"shop=department_store, brand=TJ Maxx"
+"Beaumont, CA",,retail,445120,7-Eleven,"2384 Arden Avenue, San Bernardino, CA, 92404",+1 909-936-9651,https://www.7-eleven.com/locations/ca/san-bernardino/2384-arden-ave-13954,34.1379565,-117.2354055,,,w_356387333,"shop=convenience, brand=7-Eleven"
+"Beaumont, CA",,retail,445110,Stater Bros.,"1085 West Highland Avenue, San Bernardino, CA, 92405",+1 909-886-1517,https://www.staterbros.com/stores/8,34.1349855,-117.3081445,,,w_364800563,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,445110,ALDI,"625 East Hospitality Lane, San Bernardino, CA, 92408-3539",+1 909-803-6851,https://stores.aldi.us/ca/san-bernardino/625-e-hospitality-ln,34.0647352,-117.2725953,,,w_364822517,"shop=supermarket, brand=ALDI"
+"Beaumont, CA",,retail,445120,Lake Hemet Market,,,,33.6695647,-116.6744812,,,w_365022551,shop=convenience
+"Beaumont, CA",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ca/hemet/13575,33.7481648,-116.8922912,,,w_367842439,"shop=variety_store, brand=Dollar General"
+"Beaumont, CA",,retail,445110,Stater Bros.,"43396 Florida Avenue, Hemet, CA, 92544",+1 951-927-8555,https://www.staterbros.com/stores/119,33.7490495,-116.903787,,,w_368216878,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,445120,Mountain Center Market,,,,33.7047593,-116.72516,,,w_375492328,shop=convenience
+"Beaumont, CA",,retail,445110,Stater Bros.,"210 East Stetson Avenue, Hemet, CA, 92543",+1 951-925-5545,https://www.staterbros.com/stores/46,33.7308584,-116.9700958,,,w_377340416,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,445110,Dollar General Market,"Hemet, CA",+1 951-330-2022,https://www.dollargeneral.com/store-directory/ca/hemet/14023,33.7284034,-116.9704337,,,w_377346006,"shop=supermarket, brand=Dollar General"
+"Beaumont, CA",,retail,445120,Shell,,,,33.9063009,-116.5434738,,,w_379022995,"shop=convenience, brand=Shell"
+"Beaumont, CA",,retail,445110,Stater Bros.,"1537 South San Jacinto Avenue, San Jacinto, CA, 92583",+1 951-487-0319,https://www.staterbros.com/stores/121,33.7722238,-116.9566343,,,w_380184993,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,445120,Shell,,,,34.0602936,-117.1998046,,,w_381170853,"shop=convenience, brand=Shell"
+"Beaumont, CA",,retail,445120,,,,,33.7481145,-116.9012109,,,w_383937909,shop=convenience
+"Beaumont, CA",,retail,445120,Todds Market Food Store,"1605 East Victoria Avenue, San Bernardino, CA, 92408",,,34.0738759,-117.2521639,,,w_384118599,shop=convenience
+"Beaumont, CA",,retail,445120,Shell,,,,34.004276,-117.063718,,,w_389112218,"shop=convenience, brand=Shell"
+"Beaumont, CA",,retail,445120,Fastrip,"13710 Calimesa Boulevard, Yucaipa, CA, 92399",(909) 795-8317,,34.0043622,-117.0628811,,,w_389112220,shop=convenience
+"Beaumont, CA",,retail,445120,ampm,,,,33.9937086,-117.0577573,,,w_389116537,"shop=convenience, brand=ampm"
+"Beaumont, CA",,retail,445120,7-Eleven,"301 COUNTYLINE, Calimesa, CA, 92320-1213",+1 909-795-6735,https://www.7-eleven.com/locations/ca/calimesa/301-countyline-13980,34.0039128,-117.0477824,,,w_389116548,"shop=convenience, brand=7-Eleven"
+"Beaumont, CA",,retail,445120,,,,,33.7807917,-116.9582575,,,w_393943043,shop=convenience
+"Beaumont, CA",,retail,445120,,,,,33.7806162,-116.9592813,,,w_393944792,shop=convenience
+"Beaumont, CA",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ca/san-jacinto/13805,33.7800205,-116.9596126,,,w_393945449,"shop=variety_store, brand=Dollar General"
+"Beaumont, CA",,retail,445110,Sprouts Farmers Market,"2207 West Florida Avenue, Hemet, CA, 92545",+1 951-537-1975,https://www.sprouts.com/store/ca/hemet/w-florida-ave/,33.7456734,-116.9950037,,,w_393970064,"shop=supermarket, brand=Sprouts Farmers Market"
+"Beaumont, CA",,retail,445120,,,,,33.748046,-116.9581383,,,w_397171152,shop=convenience
+"Beaumont, CA",,retail,445120,,,,,33.6844518,-117.1894284,,,w_401786505,shop=convenience
+"Beaumont, CA",,retail,445120,ampm,,,,33.7443142,-117.0060371,,,w_401789612,"shop=convenience, brand=ampm"
+"Beaumont, CA",,retail,445120,ampm,,,,33.8014892,-117.2312379,,,w_401791884,"shop=convenience, brand=ampm"
+"Beaumont, CA",,retail,445120,Ampm,,,,33.8403969,-117.2552656,,,w_401792808,shop=convenience
+"Beaumont, CA",,retail,452210,Ross,"27651 San Bernardino Avenue, Redlands, CA, 92374",+1 909-792-3149,https://www.rossstores.com/,34.074354,-117.2029064,,,w_402061570,"shop=department_store, brand=Ross"
+"Beaumont, CA",,retail,446110,Rite Aid,"25710 Barton Road, Loma Linda, CA, 92354",,https://www.riteaid.com/locations/ca/loma-linda/25710-barton-road.html,34.0489972,-117.2429957,,,w_403354396,"shop=chemist, brand=Rite Aid"
+"Beaumont, CA",,retail,445120,ampm,"450 East 1st Street, Beaumont, CA, 92223",,,33.9221103,-116.9762862,,,w_404165231,"shop=convenience, brand=ampm"
+"Beaumont, CA",,retail,445120,,"502 Beaumont Avenue, Beaumont, CA, 92223",,,33.9281199,-116.9767687,,,w_404165562,shop=convenience
+"Beaumont, CA",,retail,445120,ampm,"1696 East 6th Street, Beaumont, CA",,,33.929889,-116.9473151,,,w_404165610,"shop=convenience, brand=ampm"
+"Beaumont, CA",,retail,445120,ampm,"2228 West Ramsey Street, Banning, CA, 92220",,,33.9251103,-116.9014367,,,w_404165837,"shop=convenience, brand=ampm"
+"Beaumont, CA",,retail,445120,24 7 Food Mart,"780 East Ramsey Street, Banning, CA, 92220",,,33.925073,-116.8683681,,,w_404166171,shop=convenience
+"Beaumont, CA",,retail,445120,ampm,"20000 North Indian Canyon Drive, Desert Hot Springs, CA, 92262",,,33.9069778,-116.5447916,,,w_404166367,"shop=convenience, brand=ampm"
+"Beaumont, CA",,retail,445110,Goodwin's Organics,,,https://www.goodwinsorganics.com/,33.9759458,-117.3154326,,,w_406368679,shop=supermarket
+"Beaumont, CA",,retail,445310,State Street Liquor,,,,34.0565613,-117.1899073,,,w_415055402,shop=alcohol
+"Beaumont, CA",,retail,452210,JCPenney,"10000 Alabama Street, Redlands, CA, 92374",,,34.0713329,-117.211687,,,w_417497903,"shop=department_store, brand=JCPenney"
+"Beaumont, CA",,retail,445110,Ranch Market,,,,34.0688759,-117.1728334,,,w_421177868,shop=supermarket
+"Beaumont, CA",,retail,445120,,,,,34.0623632,-117.1809873,,,w_427366624,shop=convenience
+"Beaumont, CA",,retail,452210,Kohl's,"1479 East Second Street, Beaumont, CA, 92223",+1 951-845-9682,https://www.kohls.com/stores/ca/beaumont-1186.shtml,33.9224148,-116.9569903,,,w_437102484,"shop=department_store, brand=Kohl's"
+"Beaumont, CA",,retail,445120,Mother's Nutritional Center,"Moreno Valley, CA, 92553",,,33.9383105,-117.2515534,,,w_444448962,shop=convenience
+"Beaumont, CA",,retail,452210,Big Lots,,,,33.9376639,-117.2513706,,,w_444448963,"shop=department_store, brand=Big Lots"
+"Beaumont, CA",,retail,445110,Superior,"Moreno Valley, CA, 92553",,,33.9375539,-117.2467054,,,w_444451771,shop=supermarket
+"Beaumont, CA",,retail,446120,H&P Nails,"Moreno Valley, CA, 92553",,,33.9377521,-117.2462262,,,w_444461192,shop=beauty
+"Beaumont, CA",,retail,452319,Family Dollar,"Moreno Valley, CA, 92553",,,33.9377492,-117.2457127,,,w_444461195,"shop=variety_store, brand=Family Dollar"
+"Beaumont, CA",,retail,445110,Walmart Supercenter,"6250 Valley Springs Parkway, Riverside, CA, 92507",+1 951-653-4849,https://www.walmart.com/store/1899-riverside-ca,33.9385297,-117.2861306,,,w_444490322,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Beaumont, CA",,retail,446110,Passion Lounge,"6211 Valley Springs Parkway, Riverside, CA, 92507",,,33.93968,-117.2885598,,,w_444490325,shop=chemist
+"Beaumont, CA",,retail,452210,Target,"2755 Canyon Springs Parkway, Riverside, CA, 92507",+1 951-697-6778,https://www.target.com/sl/riverside-se/1843,33.9386113,-117.2824824,,,w_444490336,"shop=department_store, brand=Target"
+"Beaumont, CA",,retail,445120,ampm,"6287 Day Street, Riverside, CA, 92507",,,33.9381883,-117.2795689,,,w_444490340,"shop=convenience, brand=ampm"
+"Beaumont, CA",,retail,452319,99 Cents Only Stores,"12530 Day Street, Moreno Valley, CA, 92553",,https://locations.99only.com/ca/morenovalley/discount-store-317.html,33.9382331,-117.2782001,,,w_444637157,"shop=variety_store, brand=99 Cents Only Stores"
+"Beaumont, CA",,retail,446110,Nutrition Zone,"12430 Day Street, Moreno Valley, CA, 92553",,,33.9399854,-117.2783395,,,w_444637192,shop=chemist
+"Beaumont, CA",,retail,446120,Cuccio Nail Spa,"12530 Day Street, Moreno Valley, CA, 92553",,,33.9382454,-117.2777014,,,w_444637202,shop=beauty
+"Beaumont, CA",,retail,452319,Fallas Discount Store,"12530 Day Street, Moreno Valley, CA, 92553",,,33.9382418,-117.2778827,,,w_444637203,shop=variety_store
+"Beaumont, CA",,retail,445120,,,,,33.784211,-117.2266136,,,w_446385900,shop=convenience
+"Beaumont, CA",,retail,445110,Hiep Thanh,,,,34.1144074,-117.2791218,,,w_450839639,shop=supermarket
+"Beaumont, CA",,retail,445120,Shell,,,,34.0218221,-117.3355599,,,w_452293813,"shop=convenience, brand=Shell"
+"Beaumont, CA",,retail,445120,,,,,33.922262,-116.8044876,,,w_456654887,"shop=convenience, amenity=fuel"
+"Beaumont, CA",,retail,445230,Hadley Fruit Orchards,,,,33.9233374,-116.8070758,,,w_456655810,shop=greengrocer
+"Beaumont, CA",,retail,445120,,,,,33.8817185,-117.2256378,,,w_472683484,shop=convenience
+"Beaumont, CA",,retail,452210,Target,"3527 West Florida Avenue, Hemet, CA, 92545-3564",+1 951-652-9585,https://www.target.com/sl/hemet/761,33.7453396,-117.0091376,,,w_479131020,"shop=department_store, brand=Target"
+"Beaumont, CA",,retail,445110,Stater Bros.,"28988 Greenspot Road, Highland, CA, 92346",+1 909-863-7600,https://www.staterbros.com/stores/182,34.1112011,-117.1721237,,,w_492429778,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,445110,Stater Bros.,"25630 Barton Road, Loma Linda, CA, 92354",+1 909-478-5488,https://www.staterbros.com/stores/81,34.0494884,-117.2450486,,,w_502786217,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,445120,ExtraMile,,,,34.0490386,-117.2441238,,,w_502786225,"shop=convenience, brand=ExtraMile"
+"Beaumont, CA",,retail,445110,Walmart Supercenter,"1120 South Mount Vernon Avenue, Colton, CA, 92324",+1 909-783-0497,https://www.walmart.com/store/1692-colton-ca,34.0500968,-117.3062887,,,w_506900965,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Beaumont, CA",,retail,453110,Inland Flowers,,,,34.0643588,-117.2846133,,,w_506904781,shop=florist
+"Beaumont, CA",,retail,445110,Walmart Supercenter,"1861 South San Jacinto Avenue, San Jacinto, CA, 92583",+1 951-487-1492,https://www.walmart.com/store/5425-san-jacinto-ca,33.7679395,-116.9555406,,,w_530465253,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Beaumont, CA",,retail,445120,Circle K,,,,33.8867497,-117.3317229,,,w_534605113,"shop=convenience, brand=Circle K"
+"Beaumont, CA",,retail,445110,Walmart Supercenter,"1366 South Riverside Avenue, Rialto, CA, 92376",+1 909-546-3491,https://www.walmart.com/store/1862-rialto-ca,34.076325,-117.3736491,,,w_538449879,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Beaumont, CA",,retail,445110,Sprouts Farmers Market,"560 West Stuart Avenue, Redlands, CA, 92373",+1 909-283-7162,https://www.sprouts.com/stores/details/-/store-details/view/store/421,34.0607891,-117.1886431,,,w_555320876,"shop=supermarket, brand=Sprouts Farmers Market"
+"Beaumont, CA",,retail,452319,Family Dollar,"27356 Baseline Street, Highland, 92346",,,34.1217423,-117.2071949,,,w_556284692,"shop=variety_store, brand=Family Dollar"
+"Beaumont, CA",,retail,445110,Smart & Final,"27550 Base Line Street, Highland, 92346",,,34.1221818,-117.2036859,,,w_556284694,"shop=supermarket, brand=Smart & Final"
+"Beaumont, CA",,retail,445310,,,,,34.120599,-117.2257786,,,w_556499978,shop=alcohol
+"Beaumont, CA",,retail,445310,,,,,34.1246527,-117.2267375,,,w_556499986,shop=alcohol
+"Beaumont, CA",,retail,445110,Walmart Supercenter,"1800 North Perris Boulevard, Perris, CA, 92571",+1 951-940-0440,https://www.walmart.com/store/1747-perris-ca,33.8061898,-117.2295891,,,w_570464083,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Beaumont, CA",,retail,445120,,,,,34.0335623,-117.3141108,,,w_578905157,shop=convenience
+"Beaumont, CA",,retail,445110,Stater Bros.,"22201 Barton Road, Grand Terrace, CA, 92313",+1 909-824-1053,https://www.staterbros.com/stores/188,34.0325192,-117.320436,,,w_578905169,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,446110,Walgreens,"22456 Barton Road, Grand Terrace, CA, 92313",,https://www.walgreens.com/locator/walgreens-22456+barton+rd-grand+terrace-ca-92313/id=12841,34.0344557,-117.3146168,,,w_579067420,"shop=chemist, brand=Walgreens"
+"Beaumont, CA",,retail,445120,,"97 Beaumont, CA",,,33.9211572,-116.9778758,,,w_592573653,shop=convenience
+"Beaumont, CA",,retail,445110,Stater Bros.,"5571 Mission Boulevard, Riverside, CA, 92509",+1 951-686-1506,https://www.staterbros.com/stores/14,33.9976373,-117.4054063,,,w_617346654,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,445120,7-Eleven,"23021 Sunnymead Boulevard, Moreno Valley, CA, 92553",,https://www.7-eleven.com/locations/ca/moreno-valley/23021-sunnymead-23520,33.9391569,-117.2609662,,,w_629305165,"shop=convenience, brand=7-Eleven"
+"Beaumont, CA",,retail,446110,Walgreens,"1811 San Jacinto Avenue, San Jacinto, CA, 92583",,https://www.walgreens.com/locator/walgreens-1811+s+san+jacinto+ave-san+jacinto-ca-92583/id=9021,33.7687571,-116.9581134,,,w_640089661,"shop=chemist, brand=Walgreens"
+"Beaumont, CA",,retail,446110,Rite Aid,"1605 San Jacinto Avenue, San Jacinto, CA",,https://www.riteaid.com/locations/ca/san-jacinto/1605-south-san-jacinto-ave.html,33.7706123,-116.9581032,,,w_640092745,"shop=chemist, brand=Rite Aid"
+"Beaumont, CA",,retail,445310,,,,,33.7869492,-117.0327718,,,w_658123442,shop=beverages
+"Beaumont, CA",,retail,446110,CVS Pharmacy,,951-800-8773,https://www.cvs.com/store-locator/san-jacinto-ca-pharmacies/102-s-sanderson-ave-san-jacinto-ca-92582/storeid=8943,33.786715,-117.0075527,,,w_660880474,"shop=chemist, brand=CVS Pharmacy"
+"Beaumont, CA",,retail,446110,Rite Aid,"260 North Sanderson Avenue, Hemet, CA, 92545",,,33.7504172,-117.0058882,,,w_661084920,"shop=chemist, brand=Rite Aid"
+"Beaumont, CA",,retail,445110,Stater Bros.,"25904 Newport Road, Menifee, CA, 92584",+1 951-672-6780,https://www.staterbros.com/stores/111,33.6864803,-117.2068451,,,w_665215018,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,445110,Walmart Supercenter,"1231 South Sanderson Avenue, Hemet, CA, 92545",+1-951-766-1164,https://www.walmart.com/store/1853-hemet-ca,33.7264213,-117.0099888,,,w_665474713,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Beaumont, CA",,retail,445120,,,,,33.7280255,-117.0072393,,,w_665495708,shop=convenience
+"Beaumont, CA",,retail,445110,Stater Bros.,"29995 Canyon Hills Road, Lake Elsinore, CA, 92532",+1 951-244-2014,https://www.staterbros.com/stores/187,33.6662335,-117.2624356,,,w_665997474,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,445110,WinCo Foods,,,,33.7454826,-117.1929554,,,w_670761576,"shop=supermarket, brand=WinCo Foods"
+"Beaumont, CA",,retail,445120,Circle K,,,,33.7435547,-117.1930969,,,w_670761578,"shop=convenience, brand=Circle K"
+"Beaumont, CA",,retail,445120,ExtraMile,,,,33.9105139,-117.2698416,,,w_673008354,"shop=convenience, brand=ExtraMile"
+"Beaumont, CA",,retail,445120,Circle K,,,,33.9105459,-117.27055,,,w_673008357,"shop=convenience, brand=Circle K"
+"Beaumont, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-60+n+highland+springs+ave-banning-ca-92220/id=5182,33.9299892,-116.9462292,,,w_674888954,"shop=chemist, brand=Walgreens"
+"Beaumont, CA",,retail,446110,Rite Aid,,,https://www.riteaid.com/locations/ca/menifee/28995-newport-road.html,33.68438,-117.1544444,,,w_677097686,"shop=chemist, brand=Rite Aid"
+"Beaumont, CA",,retail,445110,Stater Bros.,"29061 Newport Road, Menifee, CA, 92584",+1 951-723-6141,https://www.staterbros.com/stores/197,33.6837265,-117.1526066,,,w_677097692,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,445110,Walmart Supercenter,"1540 East 2nd Street, Beaumont, CA, 92223",+1 951-845-1529,https://www.walmart.com/store/5156-beaumont-ca,33.9250992,-116.9515539,,,w_681566915,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Beaumont, CA",,retail,445110,Albertsons,"Banning, CA, 92220",+1 951-769-1779,https://local.albertsons.com/ca/banning/300-s-highland-springs-ave--7.html,33.9248209,-116.9448408,,,w_681719724,"shop=supermarket, brand=Albertsons"
+"Beaumont, CA",,retail,452319,Dollar Tree,"1486 2nd Street, Beaumont, 92223",,https://www.dollartree.com/locations/ca/beaumont/3621/,33.9239351,-116.9562416,,,w_681719736,"shop=variety_store, brand=Dollar Tree"
+"Beaumont, CA",,retail,445110,ALDI,"1638 East Second Street, Beaumont, CA, 92223-3166",+1 951-755-1281,https://stores.aldi.us/ca/beaumont/1638-e-second-st,33.9253912,-116.9493498,,,w_681726563,"shop=supermarket, brand=ALDI"
+"Beaumont, CA",,retail,452210,Ross,"1646 East 2nd Street, Beaumont, CA, 92223",+1 951-845-4482,,33.9253801,-116.9484133,,,w_681726564,"shop=department_store, brand=Ross"
+"Beaumont, CA",,retail,445110,Stater Bros.,"1430 Beaumont Avenue, Beaumont, CA, 92223",+1 951-845-8770,https://www.staterbros.com/stores/173,33.948255,-116.9757815,,,w_681734600,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,445310,Beaumont Market,,,,33.9289891,-116.9657559,,,w_681750772,shop=alcohol
+"Beaumont, CA",,retail,445120,Chevron,,,,33.9361276,-117.190108,,,w_683491007,"shop=convenience, brand=Chevron"
+"Beaumont, CA",,retail,445110,Food 4 Less,,,,33.9279515,-116.9483189,,,w_683592544,"shop=supermarket, brand=Food 4 Less"
+"Beaumont, CA",,retail,445110,Stater Bros.,"1661 East 6th Street, Beaumont, CA, 92223",+1 951-845-2248,https://www.staterbros.com/stores/86,33.9285053,-116.9498943,,,w_683592546,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,452210,Marshalls,,,,33.9226746,-116.9456074,,,w_683627957,"shop=department_store, brand=Marshalls"
+"Beaumont, CA",,retail,446120,Blooming Lotus Beauty Parlor,,,,33.9234884,-116.944232,,,w_683627965,shop=beauty
+"Beaumont, CA",,retail,446120,Kim's Fantasy Nails,,,,33.9235731,-116.9442342,,,w_683627967,shop=beauty
+"Beaumont, CA",,retail,445310,Shopping Bag,,,,33.9291943,-116.9690684,,,w_683647525,shop=alcohol
+"Beaumont, CA",,retail,445120,Arco - Convenience Store,,,,33.9752246,-117.3394567,,,w_694201427,shop=convenience
+"Beaumont, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-1745+university+ave-riverside-ca-92507/id=7990,33.9759606,-117.3495351,,,w_694201493,"shop=chemist, brand=Walgreens"
+"Beaumont, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/riverside/6692-indiana-ave-36872,33.9439099,-117.3894205,,,w_695742103,"shop=convenience, brand=7-Eleven"
+"Beaumont, CA",,retail,445120,Fast Mart,,,,33.9348373,-117.4036875,,,w_695745048,shop=convenience
+"Beaumont, CA",,retail,445120,,,,,33.6855594,-117.1676164,,,w_697179717,shop=convenience
+"Beaumont, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/redlands/1161-w-lugonia-avenue-33292,34.0697652,-117.1988411,,,w_705602351,"shop=convenience, brand=7-Eleven"
+"Beaumont, CA",,retail,445120,Circle K,,,,33.983331,-117.3418954,,,w_705890579,"shop=convenience, brand=Circle K"
+"Beaumont, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/riverside/1155-w-la-cadena-dr-37140,34.0023841,-117.3525939,,,w_705891844,"shop=convenience, brand=7-Eleven"
+"Beaumont, CA",,retail,445120,Circle K,,,,33.9951542,-117.3648218,,,w_705892409,"shop=convenience, brand=Circle K"
+"Beaumont, CA",,retail,445120,Circle K,,,,33.8844534,-117.3500462,,,w_706085133,"shop=convenience, brand=Circle K"
+"Beaumont, CA",,retail,445120,Circle K,,,,33.9156207,-117.3249848,,,w_706085766,"shop=convenience, brand=Circle K"
+"Beaumont, CA",,retail,445120,ampm,,,,33.9156616,-117.3212186,,,w_706085805,"shop=convenience, brand=ampm"
+"Beaumont, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/riverside-ca-pharmacies/491-e-alessandro-blvd-riverside-ca-92508/storeid=9803,33.9159112,-117.3230727,,,w_706543972,"shop=chemist, brand=CVS Pharmacy"
+"Beaumont, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/riverside-ca-pharmacies/6840-lincoln-avenue-riverside-ca-92506/storeid=9746,33.9355804,-117.3870975,,,w_707123078,"shop=chemist, brand=CVS Pharmacy"
+"Beaumont, CA",,retail,445110,Stater Bros.,"2841 Mary Street, Riverside, CA, 92506",+1 951-682-3101,https://www.staterbros.com/stores/192,33.9342708,-117.3863069,,,w_707123079,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,445110,Walmart Supercenter,"12721 Moreno Beach Drive, Moreno Valley, CA, 92555",+1 951-242-1185,https://www.walmart.com/store/5193-moreno-valley-ca,33.9357762,-117.1819067,,,w_712387295,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Beaumont, CA",,retail,445120,ampm,,,,33.9369227,-117.1794686,,,w_712387306,"shop=convenience, brand=ampm"
+"Beaumont, CA",,retail,452210,Kohl's,"27200 Eucalyptus Avenue, Moreno Valley, CA, 92555",+1 951-243-3591,https://www.kohls.com/stores/ca/morenovalley-1125.shtml,33.9383548,-117.1877516,,,w_712390033,"shop=department_store, brand=Kohl's"
+"Beaumont, CA",,retail,445120,,,,,33.9199351,-116.7740183,,,w_723681002,shop=convenience
+"Beaumont, CA",,retail,445120,7-Eleven,,,,33.7470609,-117.0062858,,,w_728279197,"shop=convenience, brand=7-Eleven"
+"Beaumont, CA",,retail,445110,Superior Grocers,"1108 West 2nd Street, San Bernardino, CA, 92410",,https://superiorgrocers.com/location/san-bernardino/,34.1032899,-117.3083033,,,w_775464555,"shop=supermarket, brand=Superior Grocers"
+"Beaumont, CA",,retail,446110,Walgreens,,,,34.120821,-117.3145056,,,w_784953001,"shop=chemist, brand=Walgreens"
+"Beaumont, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/san-bernardino/1583-w-baseline-street-37036,34.1209127,-117.3219237,,,w_784953009,"shop=convenience, brand=7-Eleven"
+"Beaumont, CA",,retail,445310,P & K Liquor,,,,34.1197277,-117.3136582,,,w_785476274,shop=alcohol
+"Beaumont, CA",,retail,445310,,,,,34.0998671,-117.3334384,,,w_817997222,shop=alcohol
+"Beaumont, CA",,retail,445120,ampm,"542 Mount Vernon Avenue, San Bernardino, CA, 92411",,,34.1090906,-117.31423,,,w_837021012,"shop=convenience, brand=ampm"
+"Beaumont, CA",,retail,452319,Five Below,,+1 951-350-1435,https://locations.fivebelow.com/ca/beaumont/1545-e-2nd-street-ste-200,33.9221517,-116.9523262,,,w_840944171,"shop=variety_store, brand=Five Below"
+"Beaumont, CA",,retail,446120,Ulta Beauty,"1545 East 2nd Street, Beaumont, CA, 92223",+1 951-755-8117,https://www.ulta.com/stores/beaumont-ca-1567,33.9221509,-116.9525907,,,w_840944172,"shop=beauty, brand=Ulta Beauty"
+"Beaumont, CA",,retail,445110,Stater Bros.,"1004 Cherry Valley Boulevard, Calimesa, CA, 92320",+1 951-769-4095,https://www.staterbros.com/stores/205,33.9667522,-117.0356369,,,w_841525958,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ca/san-bernardino/13638,34.1021832,-117.2791037,,,w_897330045,"shop=variety_store, brand=Dollar General"
+"Beaumont, CA",,retail,452210,Burlington,"2171 Florida Avenue, Hemet, CA, 92544",+1 951-652-3357,https://stores.burlington.com/ca/hemet/1007,33.745851,-116.9946975,,,w_899410492,"shop=department_store, brand=Burlington"
+"Beaumont, CA",,retail,446110,Rite Aid,,,https://www.riteaid.com/locations/ca/riverside/17055-van-buren-boulevard.html,33.8817285,-117.3655004,,,w_921449037,"shop=chemist, brand=Rite Aid"
+"Beaumont, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/hemet/41995-florida-ave-35342,33.7473711,-116.9287102,,,w_937408038,"shop=convenience, brand=7-Eleven"
+"Beaumont, CA",,retail,445110,ALDI,"1667 South San Jacinto Avenue, San Jacinto, CA, 92583-5181",+1 951-234-0607,https://stores.aldi.us/ca/san-jacinto/1667-s-san-jacinto-ave,33.7699826,-116.9575029,,,w_959612585,"shop=supermarket, brand=ALDI"
+"Beaumont, CA",,retail,445110,ALDI,"34000 Yucaipa Boulevard, Yucaipa, CA, 92399-2012",+1 909-529-0856,https://stores.aldi.us/ca/yucaipa/34000-yucaipa-blvd,34.0344933,-117.0617338,,,w_959612901,"shop=supermarket, brand=ALDI"
+"Beaumont, CA",,retail,445110,ALDI,"12630 Day Street, Moreno Valley, CA, 92553-7572",+1 951-547-0372,https://stores.aldi.us/ca/moreno-valley/12630-day-st,33.9366898,-117.2762935,,,w_959613487,"shop=supermarket, brand=ALDI"
+"Beaumont, CA",,retail,445110,Stater Bros.,"2053 East Washington Street, Colton, CA, 92324",+1 909-423-0720,https://www.staterbros.com/stores/117,34.0501208,-117.2913316,,,w_975103899,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,446110,Rite Aid,,,,34.0506301,-117.2921762,,,w_975103901,"shop=chemist, brand=Rite Aid"
+"Beaumont, CA",,retail,445120,7-Eleven,"1020 Cherry Valley Boulevard, Calimesa, CA, 92320",,https://www.7-eleven.com/locations/ca/calimesa/1020-cherry-valley-blvd-38762,33.9659795,-117.0376417,,,w_982953972,"shop=convenience, brand=7-Eleven"
+"Beaumont, CA",,retail,446110,Rite Aid,,,,34.1363897,-117.2411113,,,w_990598329,"shop=chemist, brand=Rite Aid"
+"Beaumont, CA",,retail,452319,CrazyBoss,,,,34.1378704,-117.2455985,,,w_990598336,shop=variety_store
+"Beaumont, CA",,retail,445120,,,,,34.0334818,-117.0535032,,,w_997055854,shop=convenience
+"Beaumont, CA",,retail,445110,Grocery Outlet,,,,33.9363959,-117.4075086,,,w_1012294893,"shop=supermarket, brand=Grocery Outlet"
+"Beaumont, CA",,retail,445110,WinCo Foods,,,,33.7457445,-117.0210459,,,w_1030557831,"shop=supermarket, brand=WinCo Foods"
+"Beaumont, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/rialto/1384-s-riverside-ave-38051,34.0763665,-117.3707611,,,w_1079194954,"shop=convenience, brand=7-Eleven"
+"Beaumont, CA",,retail,445120,USA Gasoline,"111 West Valley Boulevard, Rialto, CA, 92376",,https://usa-gasoline-rialto.edan.io/,34.0701027,-117.3707242,,,w_1079194976,shop=convenience
+"Beaumont, CA",,retail,445120,ExtraMile,,,,34.0701334,-117.3695834,,,w_1079194977,"shop=convenience, brand=ExtraMile"
+"Beaumont, CA",,retail,452210,Target,"499 West Orange Show Road, San Bernardino, CA, 92408-2029",+1 909-381-3391,https://www.target.com/sl/orange-show/188,34.0782622,-117.2922264,,,w_1081955919,"shop=department_store, brand=Target"
+"Beaumont, CA",,retail,445110,Food 4 Less,,,,33.8021879,-117.2286408,,,w_1082171924,"shop=supermarket, brand=Food 4 Less"
+"Beaumont, CA",,retail,446110,Rite Aid,,,https://www.riteaid.com/locations/ca/perris/1688-north-perris-boulevard.html,33.8016055,-117.2267313,,,w_1082171928,"shop=chemist, brand=Rite Aid"
+"Beaumont, CA",,retail,445110,Grocery Outlet,"35958 Winchester Road, Winchester, CA, 92596",,,33.5991625,-117.1157005,,,w_1097151156,"shop=grocery, brand=Grocery Outlet"
+"Beaumont, CA",,retail,445120,,,,,34.0844759,-117.3711353,,,w_1126824920,shop=convenience
+"Beaumont, CA",,retail,445110,Sprouts Farmers Market,"27281 Newport Road, Menifee, CA, 92584",+1 951-370-1317,https://www.sprouts.com/store/ca/menifee/443-menifee/,33.6832679,-117.1831278,,,w_1133967056,"shop=supermarket, brand=Sprouts Farmers Market"
+"Beaumont, CA",,retail,452210,Macy's,,,,34.0849936,-117.2985656,,,w_1139106967,"shop=department_store, brand=Macy's"
+"Beaumont, CA",,retail,452210,JCPenney,,,,34.0834247,-117.2979333,,,w_1139106968,"shop=department_store, brand=JCPenney"
+"Beaumont, CA",,retail,445110,Stater Bros.,"2995 Iowa Avenue, Riverside, CA, 92507",+1 951-686-1032,https://www.staterbros.com/stores/114,33.9857675,-117.3414224,,,w_1152315548,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,445120,Circle K,,,,33.9471117,-117.0001592,,,w_1156828695,"shop=convenience, brand=Circle K"
+"Beaumont, CA",,retail,446110,Rite Aid,,,https://www.riteaid.com/locations/ca/beaumont/894-oak-valley-parkway.html,33.9474059,-116.9990777,,,w_1156828697,"shop=chemist, brand=Rite Aid"
+"Beaumont, CA",,retail,445120,Chevron,,,,33.9473471,-116.9978807,,,w_1156828699,"shop=convenience, brand=Chevron"
+"Beaumont, CA",,retail,445120,Circle K,"22400 Van Buren Boulevard, Riverside, CA, 92518",+1-951-653-1400,,33.8886199,-117.2755419,,,w_1161597743,"shop=convenience, brand=Circle K"
+"Beaumont, CA",,retail,445310,Kwik E Mart,"1690 East Washington Street, Colton, CA, 92324",,,34.0479438,-117.299803,,,w_1194914117,shop=alcohol
+"Beaumont, CA",,retail,452319,Family Dollar,,,,34.120798,-117.309753,,,w_1221725027,"shop=variety_store, brand=Family Dollar"
+"Beaumont, CA",,retail,452319,Dollar General,"2980 North Perris Boulevard, Perris, CA, 92571",,https://www.dollargeneral.com/store-directory/ca/perris/14322,33.8255393,-117.2268713,,,w_1230799565,"shop=variety_store, brand=Dollar General"
+"Beaumont, CA",,retail,445120,ampm,,,,33.7154211,-117.1795123,,,w_1242671814,"shop=convenience, brand=ampm"
+"Beaumont, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-27975+bradley+rd-menifee-ca-92586/id=6126,33.7147495,-117.1926873,,,w_1242672377,"shop=chemist, brand=Walgreens"
+"Beaumont, CA",,retail,445110,Stater Bros.,"27160 Sun City Boulevard, Menifee, CA, 92586",+1 951-679-6655,https://www.staterbros.com/stores/83,33.7115381,-117.1923633,,,w_1242672379,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,445120,ampm,,,,33.8452841,-117.2267455,,,w_1275118965,"shop=convenience, brand=ampm"
+"Beaumont, CA",,retail,445110,Banning Village Market,"266 San Gorgonio Avenue, Banning, CA, 92220",,,33.9276617,-116.8764468,,,w_1276581978,shop=supermarket
+"Beaumont, CA",,retail,445120,,,,,33.916916,-117.1749976,,,w_1288193639,shop=convenience
+"Beaumont, CA",,retail,445110,Stater Bros.,,,,33.9113995,-117.1758233,,,w_1288193640,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/moreno-valley/9402/,33.9384893,-117.1857356,,,w_1289526345,"shop=variety_store, brand=Dollar Tree"
+"Beaumont, CA",,retail,445110,Farm Market,"14058 Redlands Boulevard, Moreno Valley, CA, 92555",,,33.9167078,-117.1561353,,,w_1294886606,shop=supermarket
+"Beaumont, CA",,retail,445230,,,,,33.923406,-116.8064605,,,w_1297741675,shop=greengrocer
+"Beaumont, CA",,retail,445120,ampm,,,,33.6900969,-117.2405318,,,w_1304166778,"shop=convenience, brand=ampm"
+"Beaumont, CA",,retail,445120,,,,,34.0770177,-117.2083291,,,w_1305783096,shop=convenience
+"Beaumont, CA",,retail,445110,Stater Bros.,"151 East Valley Boulevard, Colton, CA, 92324",,https://www.staterbros.com/stores/3/,34.0675068,-117.323289,,,w_1320660634,"shop=supermarket, brand=Stater Bros."
+"Beaumont, CA",,retail,445120,ExtraMile,"3505 Central Avenue, Riverside, TX",,,33.9539405,-117.3883858,,,w_1346284610,"shop=convenience, brand=ExtraMile"
+"Beaumont, CA",,retail,445120,7-Eleven,"35970 Winchester Road, Winchester, CA, 92596",,,33.5980511,-117.1167664,,,w_1346506160,"shop=convenience, brand=7-Eleven"
+"Beaumont, CA",,retail,452319,Dollar Tree,,+19512210927,,33.9237075,-117.2617492,,,w_1355302046,"shop=variety_store, brand=Dollar Tree"
+"Beaumont, CA",,retail,445120,7-Eleven,,+1 951-966-1286,https://www.7-eleven.com/locations/ca/riverside/14511-meridian-pkwy-41563,33.9078434,-117.2879253,,,w_1355363676,"shop=convenience, brand=7-Eleven"
+"Beaumont, CA",,retail,445120,76,,,,34.1364218,-117.2730315,,,w_1355440139,"shop=convenience, brand=76"
+"Beaumont, CA",,retail,452210,Burlington,,,,33.8042128,-117.2283925,,,w_1381585262,"shop=department_store, brand=Burlington"
+"Beaumont, CA",,retail,446120,Ulta Beauty,,,,33.8040729,-117.2279764,,,w_1381585263,"shop=cosmetics, brand=Ulta Beauty"
+"Beaumont, CA",,retail,452210,Ross,,,,33.8041844,-117.2276288,,,w_1381585264,"shop=department_store, brand=Ross"
+"Beaumont, CA",,retail,452319,Five Below,,,,33.8040872,-117.2273019,,,w_1381585265,"shop=variety_store, brand=Five Below"

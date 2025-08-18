@@ -1,0 +1,36 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Caspar, CA",,retail,445210,Roundman's Smoke House,,,,39.4459372,-123.8057696,,,n_541344739,shop=butcher
+"Caspar, CA",,retail,445120,ampm,,,,39.4036541,-123.352092,,,n_2640952059,"shop=convenience, brand=ampm"
+"Caspar, CA",,retail,445110,Mariposa Market,,,,39.4065587,-123.3528159,,,n_2641902605,shop=supermarket
+"Caspar, CA",,retail,452319,Purple Moose Thrift,,,,39.4061817,-123.3527094,,,n_2641902607,shop=variety_store
+"Caspar, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/fort-bragg/5853/,39.4208314,-123.8062622,,,n_3788732125,"shop=variety_store, brand=Dollar Tree"
+"Caspar, CA",,retail,445120,Cleone Groceries,,,,39.4911805,-123.7848878,,,n_4406274789,shop=convenience
+"Caspar, CA",,retail,445230,Corners of the mouth,,,,39.3059981,-123.7994239,,,n_5827886186,shop=greengrocer
+"Caspar, CA",,retail,445120,Little River market,,,,39.2706988,-123.788877,,,n_6164832787,shop=convenience
+"Caspar, CA",,retail,452319,Navarro General Store,,,,39.1528248,-123.5435225,,,n_6164833196,shop=general
+"Caspar, CA",,retail,445292,Mendocino Chocolate Company,232 North Main Street,,,39.4434069,-123.8055822,,,n_6169439874,shop=chocolate
+"Caspar, CA",,retail,446120,,,,,39.4122929,-123.3546521,,,n_6309183219,shop=beauty
+"Caspar, CA",,retail,445310,,,,,39.4122988,-123.3549483,,,n_6309183221,shop=alcohol
+"Caspar, CA",,retail,445292,,,,,39.3050834,-123.799926,,,n_9289202532,shop=chocolate
+"Caspar, CA",,retail,445310,Meyer,,,https://www.mfcellars.com/,39.3045766,-123.8024205,,,n_9289206432,shop=alcohol
+"Caspar, CA",,retail,452319,Elk Store,,,,39.1294781,-123.7165654,,,n_10902819193,shop=general
+"Caspar, CA",,retail,453110,Willits Flowers,,+1 707-841-3119,,39.4099043,-123.3543853,,,n_12554835484,shop=florist
+"Caspar, CA",,retail,445120,,,,,39.4097077,-123.3535605,,,n_12554835485,shop=convenience
+"Caspar, CA",,retail,446120,Valeries Village Beauty Salon,,,,39.4096683,-123.3542472,,,n_12554835487,shop=beauty
+"Caspar, CA",,retail,453991,,,,,39.4104214,-123.3541497,,,n_12554835491,shop=tobacco
+"Caspar, CA",,retail,452319,,,,,39.4104556,-123.354677,,,n_12554835492,shop=general
+"Caspar, CA",,retail,452319,,,,,39.2233436,-123.7690056,,,n_12554891714,shop=general
+"Caspar, CA",,retail,445110,Harvest Market,"171 Boat Yard Drive, Fort Bragg, CA, 95437",+17 07 964 7000,,39.4215648,-123.8063741,,,n_12554939555,"shop=supermarket, operator=Tom Honer"
+"Caspar, CA",,retail,452319,Comptche Store,,,,39.2649454,-123.5915315,,,n_12555036084,shop=general
+"Caspar, CA",,retail,452319,Westport Community Store,,,,39.63835,-123.7846817,,,n_12555064446,shop=general
+"Caspar, CA",,retail,445110,Grocery Outlet,,,,39.3906422,-123.3491604,,,w_25359220,"shop=supermarket, brand=Grocery Outlet"
+"Caspar, CA",,retail,445110,Purity,,,,39.4436866,-123.8042149,,,w_31756749,shop=supermarket
+"Caspar, CA",,retail,445110,Safeway,"660 South Main Street, Fort Bragg, CA, 95437",+1 707-964-4079,https://local.safeway.com/safeway/ca/fort-bragg/660-s-main-st.html,39.4334311,-123.8054513,,,w_130504089,"shop=supermarket, brand=Safeway"
+"Caspar, CA",,retail,445120,,,,,39.4321797,-123.8055926,,,w_130504132,shop=convenience
+"Caspar, CA",,retail,445120,Super 8,,,,39.4303809,-123.8057981,,,w_130504183,shop=convenience
+"Caspar, CA",,retail,445120,Caspar Beach RV Park,,,,39.3595952,-123.8158862,,,w_239944333,shop=convenience
+"Caspar, CA",,retail,445110,Harvest Market at Mendosa's,"10501 Lansing Street, Mendocino, CA, 95460",+1 707-937-5879,https://www.harvestmarket.com/stores/harvest-at-mendosas,39.3073107,-123.7984771,,,w_239947490,"shop=supermarket, brand=IGA"
+"Caspar, CA",,retail,445120,,,,,39.4515703,-123.8062931,,,w_407781760,shop=convenience
+"Caspar, CA",,retail,445120,Food Mart,"18475 Shoreline Highway, Fort Bragg, CA, 95437",+1 707-964-7051,https://www.speedway.com/locations/CA/Fort-Bragg/18475-N-HWY-I,39.4119355,-123.8079664,,,w_660075775,"shop=convenience, brand=Speedway, operator=Speedway Express"
+"Caspar, CA",,retail,445120,Speedway Express,"18475 Shoreline Highway, Fort Bragg, CA, 95437",+1 707-964-7051,,39.4119651,-123.8080936,,,w_660075776,"shop=convenience, amenity=fuel, brand=Speedway, operator=Speedway Express"
+"Caspar, CA",,retail,445120,Norcal Gasoline,"18770 Shoreline Highway, Fort Bragg, CA, 95437",+1-707-964-0977,,39.4158607,-123.8086861,,,w_1127976840,shop=convenience

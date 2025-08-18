@@ -1,0 +1,38 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Pickensville, AL",,retail,445110,Supermarket,,,,33.5583709,-88.4323393,,,n_2024563802,shop=supermarket
+"Pickensville, AL",,retail,446120,Jamie's,,,,33.4936779,-88.4281011,,,n_5726321130,shop=beauty
+"Pickensville, AL",,retail,446120,Finn's Bobby Pins,,,,33.494718,-88.4280501,,,n_5726321131,shop=beauty
+"Pickensville, AL",,retail,446120,Park Place,,,,33.4952191,-88.4289219,,,n_5726321132,shop=beauty
+"Pickensville, AL",,retail,446120,Blades,,,,33.4957403,-88.4282473,,,n_5726321133,shop=beauty
+"Pickensville, AL",,retail,446120,Hair Do's,,,,33.496588,-88.4190044,,,n_5726321134,shop=beauty
+"Pickensville, AL",,retail,446120,,,,,33.4959035,-88.4181488,,,n_5726321135,shop=beauty
+"Pickensville, AL",,retail,446120,Scissors,,,,33.5011564,-88.3893311,,,n_5726321136,shop=beauty
+"Pickensville, AL",,retail,446120,Christina's,,,,33.5117473,-88.3894545,,,n_5726321137,shop=beauty
+"Pickensville, AL",,retail,446120,Nu Look,,,,33.4941342,-88.3781624,,,n_5726321138,shop=beauty
+"Pickensville, AL",,retail,446120,Wild Rose,,,,33.4923269,-88.3294159,,,n_5726321139,shop=beauty
+"Pickensville, AL",,retail,446120,Styles by Steve,,,,33.5002137,-88.3345416,,,n_5726321140,shop=beauty
+"Pickensville, AL",,retail,446120,Studio La Rue,,,,33.5111211,-88.3630267,,,n_5726321141,shop=beauty
+"Pickensville, AL",,retail,446120,A Cut Above,,,,33.5190822,-88.3710331,,,n_5726321142,shop=beauty
+"Pickensville, AL",,retail,446120,Salon 417,,,,33.5193372,-88.4072161,,,n_5726321143,shop=beauty
+"Pickensville, AL",,retail,446120,Profiles,,,,33.5164793,-88.4131545,,,n_5726321144,shop=beauty
+"Pickensville, AL",,retail,446120,Brickerton Spa,,,,33.5165061,-88.4126234,,,n_5726321145,shop=beauty
+"Pickensville, AL",,retail,446120,Rejuvenation,,,,33.5162512,-88.4144929,,,n_5726321146,shop=beauty
+"Pickensville, AL",,retail,446120,Eden Spa,,,,33.5359077,-88.4305459,,,n_5726321147,shop=beauty
+"Pickensville, AL",,retail,446120,The Pod,,,,33.5378036,-88.4326139,,,n_5726321148,shop=beauty
+"Pickensville, AL",,retail,446120,Hair Master,,,,33.5307095,-88.437525,,,n_5726321149,shop=beauty
+"Pickensville, AL",,retail,446120,Tuffline,,,,33.527615,-88.4378576,,,n_5726321150,shop=beauty
+"Pickensville, AL",,retail,446120,Serendipity,,,,33.5220809,-88.4370422,,,n_5726321151,shop=beauty
+"Pickensville, AL",,retail,446120,Trendsetters / All About U,,,,33.5201578,-88.4347704,,,n_5726321152,shop=beauty
+"Pickensville, AL",,retail,446120,Apperance,,,,33.5097279,-88.4336895,,,n_5726321153,shop=beauty
+"Pickensville, AL",,retail,445110,Kroger,"1829 Highway 45 North, Columbus, MS, 39705",+1 662-327-1140,https://www.kroger.com/stores/grocery/ms/columbus/columbus/025/00427,33.5168547,-88.4363297,,,n_10881697258,"shop=supermarket, brand=Kroger"
+"Pickensville, AL",,retail,452210,TJ Maxx,,,,33.5142114,-88.4317242,,,n_10881697271,"shop=department_store, brand=TJ Maxx"
+"Pickensville, AL",,retail,452210,Ross,"1480 Old Aberdeen Road, Columbus, MS, 39705",+1 662-328-1657,,33.5138599,-88.4317161,,,n_10881697272,"shop=department_store, brand=Ross"
+"Pickensville, AL",,retail,446120,Bath & Body Works,,,,33.5115131,-88.4316604,,,n_10881697273,"shop=cosmetics, brand=Bath & Body Works"
+"Pickensville, AL",,retail,452210,Belk,,,,33.5238467,-88.4381554,,,n_10881697287,"shop=department_store, brand=Belk"
+"Pickensville, AL",,retail,445110,Walmart Supercenter,"1913 Highway 45 North, Columbus, MS, 39705",+1 662-329-4810,https://www.walmart.com/store/495-columbus-ms,33.5185848,-88.439136,,,w_89167984,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Pickensville, AL",,retail,452319,Dollar General,,,,33.3842185,-88.0257215,,,w_762393112,"shop=variety_store, brand=Dollar General"
+"Pickensville, AL",,retail,445110,Piggly Wiggly,"841 Industrial Park Boulevard, Gordo, AL, 35466",+1 205-364-7800,,33.3214225,-87.910439,,,w_764329413,"shop=supermarket, brand=Piggly Wiggly"
+"Pickensville, AL",,retail,446110,CVS Pharmacy,"Gordo, AL",,https://www.cvs.com/store-locator/gordo-al-pharmacies/536-hudson-dr-po-box-653-gordo-al-35466/storeid=4969,33.3160815,-87.9003915,,,w_764334068,"shop=chemist, brand=CVS Pharmacy"
+"Pickensville, AL",,retail,445120,,,,,33.5177611,-88.4150527,,,w_1083931400,shop=convenience
+"Pickensville, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ms/columbus/17420,33.4446465,-88.3650434,,,w_1169538783,"shop=variety_store, brand=Dollar General"
+"Pickensville, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ms/columbus/10265,33.5423002,-88.4375634,,,w_1170966007,"shop=variety_store, brand=Dollar General"

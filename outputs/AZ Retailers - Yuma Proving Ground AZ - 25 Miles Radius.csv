@@ -1,0 +1,17 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Yuma Proving Ground, AZ",,retail,445110,,,,,32.8862612,-114.457725,,,n_1101380565,shop=supermarket
+"Yuma Proving Ground, AZ",,retail,445110,Hank's Market & Butcher Shop,,,,32.6591917,-114.4100875,,,n_1723039685,shop=supermarket
+"Yuma Proving Ground, AZ",,retail,445120,Foothills Mini Mart,,,,32.6419132,-114.4104706,,,n_4701859209,shop=convenience
+"Yuma Proving Ground, AZ",,retail,452319,Family Dollar,,,,32.6659916,-114.4091247,,,n_6879595016,"shop=variety_store, brand=Family Dollar"
+"Yuma Proving Ground, AZ",,retail,445110,Del Sol,,,,32.6744111,-114.1257266,,,n_7553047137,shop=supermarket
+"Yuma Proving Ground, AZ",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/az/wellton/18312,32.6704575,-114.1415674,,,n_7553052477,"shop=variety_store, brand=Dollar General"
+"Yuma Proving Ground, AZ",,retail,445120,Speedway,"10800 North Frontage Road, Yuma, AZ, 85364",+1 928 342 2696,https://www.speedway.com/locations/AZ/Yuma/10800-E-North-Frontage-Rd,32.6732886,-114.4446928,,,n_9177077647,"shop=convenience, brand=Speedway"
+"Yuma Proving Ground, AZ",,retail,445120,Chevron,"10747 South Fortuna Road, Yuma, AZ, 85367",,,32.6733497,-114.4432154,,,w_274174832,"shop=convenience, brand=Chevron"
+"Yuma Proving Ground, AZ",,retail,445110,Fry's Food and Drug,"11203 South Frontage Road, Yuma, AZ, 85367",+1 928-305-1922,https://www.frysfood.com/stores/grocery/az/yuma/i-8-fortuna-rd/660/00699,32.6679587,-114.4405611,,,w_274176029,"shop=supermarket, brand=Fry's Food and Drug"
+"Yuma Proving Ground, AZ",,retail,445120,Circle K,,,,32.6675953,-114.4434178,,,w_274176032,"shop=convenience, brand=Circle K"
+"Yuma Proving Ground, AZ",,retail,445120,Shay Oil Chevron,,,,32.6971249,-113.9543226,,,w_386505044,shop=convenience
+"Yuma Proving Ground, AZ",,retail,445110,YPG Commissary,,,,32.8634225,-114.4379014,,,w_475633212,shop=supermarket
+"Yuma Proving Ground, AZ",,retail,445120,,,,,32.658876,-114.1434773,,,w_664874242,shop=convenience
+"Yuma Proving Ground, AZ",,retail,452319,Family Dollar,,,,32.673034,-114.143219,,,w_813328730,"shop=variety_store, brand=Family Dollar"
+"Yuma Proving Ground, AZ",,retail,445230,Martha's Gardens,"9747 South Avenue 9 3/4 East, Yuma, AZ, 85365",+1 928 726-8831,https://www.marthasgardens.com/,32.685339,-114.4640605,,,w_849074886,shop=greengrocer
+"Yuma Proving Ground, AZ",,retail,445120,Food Mart,,,,32.665816,-114.4435682,,,w_1028992112,shop=convenience

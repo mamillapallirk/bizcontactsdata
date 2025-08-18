@@ -1,0 +1,64 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Hytop, AL",,retail,445120,Hollytree Grocery,"11620 AL Hwy 65, Hollytree, 35751",,,34.8022599,-86.2493836,,,n_463676090,shop=convenience
+"Hytop, AL",,retail,445120,Shop,,,,34.7696091,-86.4841174,,,n_805570784,"shop=convenience, operator=Dollar General"
+"Hytop, AL",,retail,452319,Dollar General,"4991 Winchester Road, New Market, AL, 35761",,https://www.dollargeneral.com/store-directory/al/new-market/6474,34.8929772,-86.4336499,,,n_967622051,"shop=variety_store, brand=Dollar General"
+"Hytop, AL",,retail,445120,Chevron,,,,34.7005509,-86.3848185,,,n_993705534,"shop=convenience, brand=Chevron"
+"Hytop, AL",,retail,445120,Sewanee Market,,,,35.1942859,-85.9174865,,,n_4525212405,shop=convenience
+"Hytop, AL",,retail,446120,Victoria Nails,,,,34.816735,-86.4927026,,,n_6788421283,shop=beauty
+"Hytop, AL",,retail,445110,ALDI,"2125 Winchester Road Northeast, Huntsville, AL, 35811",+1 833-470-7082,https://stores.aldi.us/al/huntsville/2125-winchester-rd-ne,34.8176119,-86.495243,,,n_8713369962,"shop=supermarket, brand=ALDI"
+"Hytop, AL",,retail,446110,Walgreens,"1855 Decherd Boulevard, Decherd, TN, 37324",,https://www.walgreens.com/locator/walgreens-1855+decherd+blvd-decherd-tn-37324/id=9295,35.2053899,-86.094885,,,n_9368670880,"shop=chemist, brand=Walgreens"
+"Hytop, AL",,retail,445110,Kroger,"1840 Decherd Boulevard, Decherd, TN, 37324",+1 931-967-1203,https://www.kroger.com/stores/grocery/tn/decherd/decherd-sc/026/00503,35.2047022,-86.0917066,,,n_9368671512,"shop=supermarket, brand=Kroger"
+"Hytop, AL",,retail,445120,Dechert Food Mart Drive Thur,,,,35.2040654,-86.0943706,,,n_9368671584,shop=convenience
+"Hytop, AL",,retail,452319,Dollar General,,,,35.2029725,-86.0949235,,,n_9368671603,"shop=variety_store, brand=Dollar General"
+"Hytop, AL",,retail,452210,Bargain Hunt,,,,35.1984317,-86.0977238,,,n_9368741450,shop=department_store
+"Hytop, AL",,retail,446120,Merle Norman,,,,35.2063917,-86.0945625,,,n_9368992171,"shop=cosmetics, brand=Merle Norman Cosmetics"
+"Hytop, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/tn/decherd/515/,35.209508,-86.093583,,,n_9368992517,"shop=variety_store, brand=Dollar Tree"
+"Hytop, AL",,retail,445110,United Grocery Outlet,,,,35.2097007,-86.093703,,,n_9368992522,shop=supermarket
+"Hytop, AL",,retail,445110,Save-A-Lot,,,https://savealot.com/grocery-stores/decherd-37324-23452/,35.2133685,-86.0985909,,,n_9370628421,"shop=supermarket, brand=Save-A-Lot"
+"Hytop, AL",,retail,445120,Twice Daily,,,,35.2215842,-86.1033948,,,n_9370673416,shop=convenience
+"Hytop, AL",,retail,452319,Dollar General,"Section, AL",,,34.5834304,-85.9896827,,,n_10778297652,"shop=variety_store, brand=Dollar General"
+"Hytop, AL",,retail,445110,FoodLand,"Section, AL",,,34.5839248,-85.9886103,,,n_10778297653,"shop=supermarket, brand=FoodLand"
+"Hytop, AL",,retail,452210,TJ Maxx,"Scottsboro, AL",,,34.6663693,-86.0150482,,,n_11300391987,"shop=department_store, brand=TJ Maxx"
+"Hytop, AL",,retail,445110,FoodLand,,,,34.8715627,-85.8146351,,,n_11331222628,"shop=supermarket, brand=FoodLand"
+"Hytop, AL",,retail,445120,Triple-T Mini Market,"Section, AL",,,34.586173,-85.9902922,,,n_11578609370,shop=convenience
+"Hytop, AL",,retail,445110,Piggly Wiggly,"6022 Highway 72 East, Gurley, AL, 35748",+1 256-776-3661,https://www.shopmypig.com/,34.69547,-86.371,,,n_11651005442,"shop=supermarket, brand=Piggly Wiggly"
+"Hytop, AL",,retail,445120,Battle Creek Market,,,,35.1466125,-85.77348,,,n_12167342708,shop=convenience
+"Hytop, AL",,retail,445110,Walmart Supercenter,24833 John T Reid Prkwy,+1 256 574 1126,https://www.walmart.com/store/712-scottsboro-al,34.6684279,-86.0060493,,,w_82660484,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Hytop, AL",,retail,445120,Shop,,,,34.6985349,-86.3833934,,,w_387728539,shop=convenience
+"Hytop, AL",,retail,452319,Dollar General,,,,34.698885,-86.3845344,,,w_387728555,"shop=variety_store, brand=Dollar General"
+"Hytop, AL",,retail,445120,Foothills Country Store,"Veterans Drive, Scottsboro, AL",,,34.6329337,-85.9707442,,,w_424129758,shop=convenience
+"Hytop, AL",,retail,452210,JCPenney,,,,34.6522545,-86.0343495,,,w_470025897,"shop=department_store, brand=JCPenney"
+"Hytop, AL",,retail,453110,Taylor's Mercantile,"10 University Avenue, Sewanee, TN, 37375",(931)598-5893,taylorsmercantile.com,35.1951344,-85.9171838,,,w_538395553,shop=florist
+"Hytop, AL",,retail,445110,Walmart Supercenter,"525 Kimball Crossing Drive, Kimball, TN, 37347",+1 423-837-6732,https://www.walmart.com/store/1089-kimball-tn,35.0404876,-85.6815213,,,w_657097363,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Hytop, AL",,retail,445110,Piggly Wiggly,"101 County Park Road, Scottsboro, AL, 35768",+1 256-574-4175,,34.6515044,-86.0348669,,,w_665672936,"shop=supermarket, brand=Piggly Wiggly"
+"Hytop, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/scottsboro/6175/,34.648045,-86.0291874,,,w_665712196,"shop=variety_store, brand=Dollar Tree"
+"Hytop, AL",,retail,452319,Ollie's Bargain Outlet,,,,34.6479013,-86.0294466,,,w_665712197,"shop=variety_store, brand=Ollie's Bargain Outlet"
+"Hytop, AL",,retail,445110,Bruce's Foodland,"1402 County Park Road, Scottsboro, 35769",,,34.6463946,-86.0322815,,,w_665718958,shop=supermarket
+"Hytop, AL",,retail,446120,Kala Nails,,,,34.6465549,-86.0327089,,,w_665718960,shop=beauty
+"Hytop, AL",,retail,446110,Big C Drugs,,,,34.6663312,-86.0359591,,,w_665934598,shop=chemist
+"Hytop, AL",,retail,445120,,,,,34.6288328,-86.0507996,,,w_666214819,shop=convenience
+"Hytop, AL",,retail,445110,Save-A-Lot,,,,34.6259776,-86.0503929,,,w_666388082,"shop=supermarket, brand=Save-A-Lot"
+"Hytop, AL",,retail,452319,Dollar General,,,,34.6256906,-86.0505951,,,w_666388083,"shop=variety_store, brand=Dollar General"
+"Hytop, AL",,retail,445110,Walmart Supercenter,"2165 Winchester Road, Huntsville, AL, 35811",+1 256-716-6773,https://www.walmart.com/store/7324-huntsville-al,34.8201403,-86.4925224,,,w_723796340,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Hytop, AL",,retail,445120,Mapco,,,,34.8184493,-86.4919234,,,w_723796342,"shop=convenience, brand=Mapco"
+"Hytop, AL",,retail,445110,Publix,"2246 Winchester Road Northeast, Huntsville, AL, 35811-6800",+1 256-851-5807,https://www.publix.com/locations/1126,34.8162342,-86.489697,,,w_757341687,"shop=supermarket, brand=Publix"
+"Hytop, AL",,retail,452210,,,,,35.2029445,-86.0950205,,,w_1015686125,shop=department_store
+"Hytop, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/decherd-tn-pharmacies/1717-decherd-blvd-decherd-tn-37324/storeid=4358,35.2017605,-86.0949564,,,w_1015689685,"shop=chemist, brand=CVS Pharmacy"
+"Hytop, AL",,retail,445110,Walmart Supercenter,"2675 Decherd Boulevard, Winchester, TN, 37398",+1 931-967-0207,https://www.walmart.com/store/735-winchester-tn,35.217611,-86.1040909,,,w_1015904523,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Hytop, AL",,retail,445120,,,,,35.2215668,-86.1033873,,,w_1015909690,shop=convenience
+"Hytop, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/tn/kimball/900/,35.0412763,-85.6832687,,,w_1075096804,"shop=variety_store, brand=Dollar Tree"
+"Hytop, AL",,retail,445120,RaceWay,"141 Main Street, Kimball, TN, 37347",,,35.0435535,-85.6867539,,,w_1075113504,"shop=convenience, brand=RaceWay"
+"Hytop, AL",,retail,445120,Twice Daily,"205 Main Street, Kimball, TN, 37347",,,35.0437679,-85.684908,,,w_1075113510,shop=convenience
+"Hytop, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/tn/cowan/15534,35.1623961,-86.0211138,,,w_1210154997,"shop=variety_store, brand=Dollar General"
+"Hytop, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/tn/winchester/12844,35.1860731,-86.1679858,,,w_1210215223,"shop=variety_store, brand=Dollar General"
+"Hytop, AL",,retail,452319,Dollar General,"110 Main Street, Huntland, TN, 37345",,https://www.dollargeneral.com/store-directory/tn/huntland/9275,35.0718405,-86.2713971,,,w_1210215224,"shop=variety_store, brand=Dollar General"
+"Hytop, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/tn/flintville/12669,35.0934344,-86.416578,,,w_1210262698,"shop=variety_store, brand=Dollar General"
+"Hytop, AL",,retail,445110,Publix,"24540 John T Reid Parkway, Scottsboro, AL, 35768",+1 256-672-6056,https://www.publix.com/locations/1830,34.6661102,-86.0154907,,,w_1219567570,"shop=supermarket, brand=Publix"
+"Hytop, AL",,retail,445120,Lakeside Grocery,"Veterans Drive, Scottsboro, AL",,,34.6508831,-85.9924508,,,w_1219573570,shop=convenience
+"Hytop, AL",,retail,445120,Sunshine Food Mart,,,,34.6507475,-85.9891693,,,w_1219573576,shop=convenience
+"Hytop, AL",,retail,445120,Quick Mart,"2307 South Broad Street, Scottsboro, AL, 35768",+1 256 594 1533,,34.6414834,-86.0386672,,,w_1219573577,shop=convenience
+"Hytop, AL",,retail,445120,,,,,34.6101723,-86.0682848,,,w_1219693104,shop=convenience
+"Hytop, AL",,retail,445120,,,,,34.6388996,-86.0397317,,,w_1219695690,shop=convenience
+"Hytop, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/tn/south-pittsburg/459,35.0093036,-85.7059812,,,w_1221603498,"shop=variety_store, brand=Dollar General"
+"Hytop, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/tn/south-pittsburg/19542,35.0070976,-85.6626476,,,w_1221603499,"shop=variety_store, brand=Dollar General"
+"Hytop, AL",,retail,445120,Triple T Farm & Tackle,"Section, AL",,,34.5851819,-85.9904814,,,w_1245491216,shop=convenience

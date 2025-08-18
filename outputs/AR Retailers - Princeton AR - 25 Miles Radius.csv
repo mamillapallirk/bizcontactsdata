@@ -1,0 +1,14 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Princeton, AR",,retail,445120,The Corner,,,,33.7233902,-92.6185576,,,n_4501765689,shop=convenience
+"Princeton, AR",,retail,445110,Mad Butcher,920 West 4th Street,,,33.8134195,-92.4221453,,,n_12000069800,shop=supermarket
+"Princeton, AR",,retail,452319,Family Dollar,,,,33.7235109,-92.6192645,,,w_795095924,"shop=variety_store, brand=Family Dollar"
+"Princeton, AR",,retail,445110,Walmart Supercenter,"1308 South Rock Street, Sheridan, AR, 72150",+1 870-942-7171,https://www.walmart.com/store/336-sheridan-ar,34.291396,-92.3970377,,,w_1066941386,"shop=supermarket, brand=Walmart"
+"Princeton, AR",,retail,452210,Walmart,"1123 Highway 79 167 Bypass, Fordyce, AR, 71742",+1-870-352-5167,https://www.walmart.com/store/339-fordyce-ar,33.8204634,-92.4355726,,,w_1158558915,"shop=department_store, brand=Walmart, operator=Walmart"
+"Princeton, AR",,retail,445120,Murphy USA,"1312 South Rock Street, Sheridan, AR, 72150",,,34.290053,-92.398173,,,w_1165475568,"shop=convenience, brand=Murphy USA"
+"Princeton, AR",,retail,446120,L V Nails N Spa,"1310 South Rock Street, Sheridan, AR, 72150",,,34.2905345,-92.3983721,,,w_1165970410,shop=beauty
+"Princeton, AR",,retail,445120,Big Red,"11209 AR-229, Leola, AR, 72084",+1 501-451-7535,,34.17711,-92.5928309,,,w_1185082053,"shop=convenience, brand=Big Red Stores"
+"Princeton, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/leola/23692,34.1762503,-92.5913115,,,w_1185433903,"shop=variety_store, brand=Dollar General"
+"Princeton, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/rison/4939,33.9578179,-92.2009677,,,w_1198544139,"shop=variety_store, brand=Dollar General"
+"Princeton, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/bearden/15002,33.7303387,-92.6259618,,,w_1200912865,"shop=variety_store, brand=Dollar General"
+"Princeton, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/poyen/18288,34.3245142,-92.6363754,,,w_1201884252,"shop=variety_store, brand=Dollar General"
+"Princeton, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/sheridan/20470,34.2405442,-92.4054907,,,w_1201884255,"shop=variety_store, brand=Dollar General"

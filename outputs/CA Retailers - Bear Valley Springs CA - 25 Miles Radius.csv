@@ -1,0 +1,70 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Bear Valley Springs, CA",,retail,445120,Texaco,,,,35.1426802,-118.449464,,,n_956932003,"shop=convenience, amenity=fuel, brand=Texaco"
+"Bear Valley Springs, CA",,retail,445120,Chevron,,,,35.1272922,-118.413633,,,n_957107122,"shop=convenience, amenity=fuel, brand=Chevron"
+"Bear Valley Springs, CA",,retail,445120,,,,,35.1302326,-118.4346717,,,n_957107248,"shop=convenience, amenity=fuel, brand=Stop N Save Gas"
+"Bear Valley Springs, CA",,retail,445120,Chevron,,,,35.1316787,-118.446229,,,n_957107365,"shop=convenience, amenity=fuel, brand=Chevron"
+"Bear Valley Springs, CA",,retail,445120,Love's,,+1 661 823 1484,https://www.loves.com/locations/392,35.1260996,-118.408018,,,n_957482077,"shop=convenience, brand=Love's"
+"Bear Valley Springs, CA",,retail,445120,Mountain Village,,,,35.1323033,-118.452687,,,n_961008565,"shop=convenience, amenity=fuel, brand=Shell"
+"Bear Valley Springs, CA",,retail,445120,,,,,35.2663663,-118.915147,,,n_1659685749,shop=convenience
+"Bear Valley Springs, CA",,retail,445120,Fastrip,,,,35.26166,-118.9140134,,,n_1659685781,shop=convenience
+"Bear Valley Springs, CA",,retail,445110,County Fair Market,,,,35.2603549,-118.913783,,,n_1659685806,shop=supermarket
+"Bear Valley Springs, CA",,retail,445120,,,,,35.2598991,-118.9149977,,,n_1659685812,shop=convenience
+"Bear Valley Springs, CA",,retail,445110,Albertsons,"775 South Tucker Road, Tehachapi, CA, 93561",+1 661-823-7090,https://local.albertsons.com/ca/tehachapi/775-s-tucker-rd.html,35.125645,-118.469385,,,n_2955459533,"shop=supermarket, brand=Albertsons"
+"Bear Valley Springs, CA",,retail,445110,Save Mart,"841 Tucker Road, Tehachapi, CA, 93561",,,35.1227278,-118.468393,,,n_3146557159,"shop=supermarket, brand=Save Mart"
+"Bear Valley Springs, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/tehachapi/2430/,35.1226128,-118.4669952,,,n_3699391918,"shop=variety_store, brand=Dollar Tree"
+"Bear Valley Springs, CA",,retail,445110,Walmart Neighborhood Market,"5037 East Brundage Lane, Bakersfield, CA, 93307",+1 661-448-8147,https://www.walmart.com/store/3141-bakersfield-ca,35.3533911,-118.947655,,,n_4093403024,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Bear Valley Springs, CA",,retail,452210,Pottery Barn Outlet,,,,34.9854867,-118.940138,,,n_4551553991,shop=department_store
+"Bear Valley Springs, CA",,retail,445120,Minit Mart,,,,34.9831048,-118.947027,,,n_4553126790,"shop=convenience, brand=Minit Mart"
+"Bear Valley Springs, CA",,retail,452319,As Seen On TV,,,,34.9845468,-118.942441,,,n_4787864883,shop=variety_store
+"Bear Valley Springs, CA",,retail,446120,Fragrance Outlet,,,,34.9850479,-118.9406201,,,n_4788545764,shop=perfumery
+"Bear Valley Springs, CA",,retail,446120,Perfumes 4U,,,,34.9851863,-118.9426586,,,n_4788545774,shop=perfumery
+"Bear Valley Springs, CA",,retail,445230,Murray Family Farms,,,https://www.murrayfamilyfarms.org/,35.2949141,-118.753957,,,n_4938688126,shop=greengrocer
+"Bear Valley Springs, CA",,retail,445110,Walmart Supercenter,"2601 Fashion Place, Bakersfield, CA, 93306",+1 661-873-7120,https://www.walmart.com/store/1624-bakersfield-ca,35.391531,-118.960829,,,n_5315601366,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Bear Valley Springs, CA",,retail,445292,Venita's Gourmet Sweets,,,,34.9849757,-118.9404336,,,n_7112981893,shop=confectionery
+"Bear Valley Springs, CA",,retail,445110,Robert's Market,,,,35.3418772,-118.9316768,,,n_8229031554,shop=supermarket
+"Bear Valley Springs, CA",,retail,445120,Speedway,"2023 Mettler Frontage Road West, Bakersfield, CA, 93313",,https://www.speedway.com/locations/CA/Bakersfield/2023-METTLER-FRONTAGE-RD-W,35.0606684,-118.9694666,,,n_8846897795,"shop=convenience, brand=Speedway"
+"Bear Valley Springs, CA",,retail,445120,Speedway,"8200 Kimber Avenue, Bakersfield, CA, 93307",,https://www.speedway.com/locations/CA/Bakersfield/8200-KIMBER-AVE,35.3512226,-118.9132,,,n_9178725741,"shop=convenience, brand=Speedway"
+"Bear Valley Springs, CA",,retail,445120,,,,,35.375842,-118.9138149,,,n_9571829824,shop=convenience
+"Bear Valley Springs, CA",,retail,445110,Albertsons,"2691 Mount Vernon Avenue, Bakersfield, CA, 93306",+1 661-872-3511,https://local.albertsons.com/ca/bakersfield/2691-mt-vernon-ave.html,35.3961086,-118.9659554,,,n_11651078051,"shop=supermarket, brand=Albertsons"
+"Bear Valley Springs, CA",,retail,445110,Sprouts Farmers Market,"3535 Panama Lane, Bakersfield, CA, 93313",+1 661-539-3501,https://www.sprouts.com/store/ca/bakersfield/panama-ln/,35.294601,-119.041661,,,n_11651078053,"shop=supermarket, brand=Sprouts Farmer Market"
+"Bear Valley Springs, CA",,retail,445110,Los Reyes Market,,,,35.321553,-119.0047212,,,n_11937269278,shop=supermarket
+"Bear Valley Springs, CA",,retail,445120,,,,,35.1271131,-118.4153518,,,n_12100208434,shop=convenience
+"Bear Valley Springs, CA",,retail,445299,Mountain Priory Cheese,"17831 Water Canyon Road, Tehachapi, CA, 93561",,https://cheese.norbertinecanonesses.org/,35.0749981,-118.5010266,,,n_12660693463,shop=cheese
+"Bear Valley Springs, CA",,retail,445120,Countryside Market,,,,35.4070406,-118.8600254,,,n_12705215866,shop=convenience
+"Bear Valley Springs, CA",,retail,445110,Vons,,,,35.3187802,-119.0268654,,,n_12897021848,"shop=supermarket, brand=Vons"
+"Bear Valley Springs, CA",,retail,445110,FoodMaxx,"1115 Union Avenue, Bakersfield, 93307",+1 661 631 8020,https://locations.foodmaxx.com/ll/US/CA/Bakersfield/1115-Union-Avenue,35.3668526,-119.0035857,,,w_59436474,"shop=supermarket, brand=FoodMaxx"
+"Bear Valley Springs, CA",,retail,452319,Dollar Tree,"2505 South H Street, 93304",,https://www.dollartree.com/locations/ca/bakersfield/1262/,35.3317267,-119.0229521,,,w_59592929,"shop=variety_store, brand=Dollar Tree"
+"Bear Valley Springs, CA",,retail,445110,Rancho Market,,,,35.3301871,-119.0229205,,,w_59594035,shop=supermarket
+"Bear Valley Springs, CA",,retail,445110,Dollar General Market,"2900 Niles Street, Bakersfield, CA, 93306",,https://www.dollargeneral.com/store-directory/ca/bakersfield/13226,35.3772605,-118.9537975,,,w_59690396,"shop=supermarket, brand=Dollar General"
+"Bear Valley Springs, CA",,retail,445120,7-Eleven,,,,35.2962848,-119.0276377,,,w_59695672,"shop=convenience, brand=7-Eleven"
+"Bear Valley Springs, CA",,retail,445110,Albertsons,"3500 Panama Lane, Bakersfield, CA, 93313",+1 661-827-0394,https://local.albertsons.com/ca/bakersfield/3500-panama-ln.html,35.2966785,-119.0413801,,,w_59731604,"shop=supermarket, brand=Albertsons"
+"Bear Valley Springs, CA",,retail,445110,Food Co,,,,35.3159625,-119.0228413,,,w_59732970,shop=supermarket
+"Bear Valley Springs, CA",,retail,445110,Foods Co,,,,35.3945133,-118.9743328,,,w_59788655,"shop=supermarket, brand=Foods Co"
+"Bear Valley Springs, CA",,retail,452210,Target,"3401 Mall View Road, Bakersfield, CA, 93306-3060",+1 661-872-9929,https://www.target.com/sl/bakersfield-ne/614,35.3940068,-118.9549504,,,w_59792530,"shop=department_store, brand=Target"
+"Bear Valley Springs, CA",,retail,445110,,,,,35.398849,-118.9515561,,,w_59795363,shop=supermarket
+"Bear Valley Springs, CA",,retail,452210,Big Lots,"2621 Fashion Place, Bakersfield, CA, 93306",+1 661-871-1546,https://local.biglots.com/ca/bakersfield/2621-fashion-pl,35.3921961,-118.9589137,,,w_59798122,"shop=department_store, brand=Big Lots"
+"Bear Valley Springs, CA",,retail,445120,ampm,"4800 Fairfax Road, Bakersfield, 93306",,,35.3973275,-118.9304417,,,w_59814935,"shop=convenience, brand=ampm"
+"Bear Valley Springs, CA",,retail,445110,Walmart Supercenter,"6225 Colony Street, Bakersfield, CA, 93307",+1 661-398-7297,https://www.walmart.com/store/1574-bakersfield-ca,35.2987519,-119.029375,,,w_59822569,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Bear Valley Springs, CA",,retail,445110,,,,,35.3028797,-119.0006396,,,w_59974293,shop=supermarket
+"Bear Valley Springs, CA",,retail,445110,,,,,35.3014562,-118.9939755,,,w_59982360,shop=supermarket
+"Bear Valley Springs, CA",,retail,445110,Stop & Shop Market,"1007 East Brundage Lane, Bakersfield, 93307",+1-661-335-0500,,35.353664,-118.9927298,,,w_60023339,shop=supermarket
+"Bear Valley Springs, CA",,retail,445120,Mobil Mart,"5818 Dennis Mccarthy Drive, Lebec, CA, 93243",+1 661 663 4323,,34.9851855,-118.9467158,,,w_99596760,"shop=convenience, brand=Mobil Mart, operator=Petro Wheeler Ridge #390"
+"Bear Valley Springs, CA",,retail,445120,Goasis,,,,34.9852749,-118.9486295,,,w_99596774,shop=convenience
+"Bear Valley Springs, CA",,retail,452210,Kmart,"710 West Tehachapi Boulevard, Tehachapi, CA, 93561",661-822-7496,https://www.kmart.com/stores/california/tehachapi/4751.html,35.1313187,-118.4585977,,,w_100949450,"shop=department_store, brand=Kmart"
+"Bear Valley Springs, CA",,retail,445110,Vallarta,,,,35.2944976,-119.0189039,,,w_155250865,"shop=supermarket, brand=Vallarta"
+"Bear Valley Springs, CA",,retail,445120,,,,,34.9409554,-118.9283151,,,w_177273514,shop=convenience
+"Bear Valley Springs, CA",,retail,445120,,,,,35.266415,-119.023792,,,w_190559136,shop=convenience
+"Bear Valley Springs, CA",,retail,445120,Shell,,,,34.991989,-118.9412058,,,w_219298421,"shop=convenience, brand=Shell"
+"Bear Valley Springs, CA",,retail,445120,,,,,35.3980523,-118.8799732,,,w_312003616,shop=convenience
+"Bear Valley Springs, CA",,retail,445120,,,,,34.9414404,-118.9333262,,,w_487180599,shop=convenience
+"Bear Valley Springs, CA",,retail,445110,Walmart Supercenter,"400 Tucker Road, Tehachapi, CA, 93561",+1 661-825-2258,https://www.walmart.com/store/4317-tehachapi-ca,35.1288547,-118.4657866,,,w_621272554,"shop=supermarket, brand=Walmart"
+"Bear Valley Springs, CA",,retail,445110,Dollar General Market,"Tehachapi, CA",+1 661-750-0166,https://www.dollargeneral.com/store-directory/ca/tehachapi/14138,35.1218841,-118.4669406,,,w_667544693,"shop=supermarket, brand=Dollar General"
+"Bear Valley Springs, CA",,retail,445110,Robert's Market,"1467 South Fairfax Road, Bakersfield, CA, 93307",,,35.3418511,-118.9316811,,,w_884912885,shop=supermarket
+"Bear Valley Springs, CA",,retail,445110,Aldi,"2120 Panama Lane, Bakersfield, CA, 93307-6536",+1 661-505-6963,https://stores.aldi.us/ca/bakersfield/2120-panama-ln,35.2968542,-119.0261651,,,w_935016843,"shop=supermarket, brand=Aldi"
+"Bear Valley Springs, CA",,retail,445120,,,,,35.2095081,-118.8416543,,,w_1113237332,shop=convenience
+"Bear Valley Springs, CA",,retail,445120,Chevron,,,,35.0599639,-119.0055444,,,w_1116919251,"shop=convenience, brand=Chevron"
+"Bear Valley Springs, CA",,retail,445110,Smart & Final,,,,35.3928047,-118.9691713,,,w_1135310401,"shop=supermarket, brand=Smart & Final"
+"Bear Valley Springs, CA",,retail,445120,Minit Mart,,,,34.9895359,-118.9409069,,,w_1194093349,"shop=convenience, brand=Minit Mart"
+"Bear Valley Springs, CA",,retail,452319,Family Dollar,"2110 Niles Street, Bakersfield, CA, 93305",,,35.3771689,-118.9690224,,,w_1230914157,"shop=variety_store, brand=Family Dollar"
+"Bear Valley Springs, CA",,retail,446110,CVS Pharmacy,"6500 Niles Street, Bakersfield, CA, 93306",,https://www.cvs.com/store-locator/bakersfield-ca-pharmacies/6500-niles-street-bakersfield-ca-93306/storeid=7001,35.3766579,-118.9307755,,,w_1230928880,"shop=chemist, brand=CVS Pharmacy"
+"Bear Valley Springs, CA",,retail,452319,Dollar General,"1811 Morning Drive, Bakersfield, CA, 93306",,https://www.dollargeneral.com/store-directory/ca/bakersfield/17387,35.375394,-118.9135263,,,w_1230929630,"shop=variety_store, brand=Dollar General"

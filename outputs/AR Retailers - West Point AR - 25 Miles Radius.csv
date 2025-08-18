@@ -1,0 +1,59 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"West Point, AR",,retail,445120,Rick's,,,,35.4254864,-91.8396926,,,n_603373132,"shop=convenience, amenity=fuel"
+"West Point, AR",,retail,445120,Valero,,,,35.4246472,-91.8402828,,,n_603373134,"shop=convenience, amenity=fuel, brand=Valero"
+"West Point, AR",,retail,445120,Phillips 66,,,https://www.phillips66gas.com/station/P66-LITTLEFIELD-EXPRESS-15-0000885927/,35.3236218,-91.561102,,,n_835039395,"shop=convenience, amenity=fuel, brand=Phillips 66"
+"West Point, AR",,retail,445120,Big Al's,,,,35.2032659,-91.7768432,,,n_1157687000,shop=convenience
+"West Point, AR",,retail,452319,Dollar General,"903 Edmonds Avenue, Mc Crory, AR, 72101",,https://www.dollargeneral.com/store-directory/ar/mccrory/17323,35.2674088,-91.1989874,,,n_1268062669,"shop=variety_store, brand=Dollar General"
+"West Point, AR",,retail,446110,Palace Drug Store,,,,34.9766099,-91.49585,,,n_9023125504,shop=chemist
+"West Point, AR",,retail,452319,Dollar Tree,,,,34.9774484,-91.5108179,,,n_9023125506,"shop=variety_store, brand=Dollar Tree"
+"West Point, AR",,retail,445110,City Market,,,,34.9768765,-91.5080303,,,n_9023125508,shop=supermarket
+"West Point, AR",,retail,445120,Chunky Munky,,,,34.9768134,-91.5076427,,,n_9023125509,shop=convenience
+"West Point, AR",,retail,445110,Ring Glo,,,,34.9769212,-91.5108852,,,n_9023125510,shop=supermarket
+"West Point, AR",,retail,446120,Star Nails & Spa,411 South Main Street,+1 501-203-4398,,35.2449721,-91.7372588,,,n_10982862017,shop=beauty
+"West Point, AR",,retail,445120,,,,,35.2605781,-91.7453668,,,n_11503682215,shop=convenience
+"West Point, AR",,retail,452319,Dollar General,,,,35.2458712,-91.7804626,,,n_11707307393,"shop=variety_store, brand=Dollar General"
+"West Point, AR",,retail,452319,Dollar Tree,1205 West Beebe Capps Expressway,,,35.2432771,-91.7496217,,,n_11756952852,"shop=variety_store, brand=Dollar Tree"
+"West Point, AR",,retail,445110,Bill's Cash Saver,"600 East Race Avenue, Searcy, AR, 72143",+1 501-279-2919,https://billscashsaver.com/,35.2513025,-91.7316226,,,n_12180579895,shop=supermarket
+"West Point, AR",,retail,453110,,,,,35.2511168,-91.7300468,,,n_12180767399,shop=florist
+"West Point, AR",,retail,452210,JCPenney,,,,35.249198,-91.6925713,,,n_12324874122,"shop=department_store, brand=JCPenney"
+"West Point, AR",,retail,452210,Big Lots,,,,35.2472704,-91.6925932,,,n_12324874124,"shop=department_store, brand=Big Lots"
+"West Point, AR",,retail,445120,,,,,35.2509897,-91.7226896,,,n_12351531112,shop=convenience
+"West Point, AR",,retail,445120,,,,,35.2467859,-91.7605561,,,n_12433966953,shop=convenience
+"West Point, AR",,retail,446120,Jess Lashes Lash Studio,105 East Center Avenue,,,35.2485768,-91.7372525,,,n_12566024178,shop=beauty
+"West Point, AR",,retail,446191,Good Measure Market,"614 South Main Street, Searcy, AR, 72143",+1 (501) 268-9000,https://www.goodmeasuremarket.com/,35.2428188,-91.7358767,,,n_12980641244,shop=health_food
+"West Point, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/pangburn/8491,35.4254657,-91.835558,,,w_69720329,"shop=variety_store, brand=Dollar General"
+"West Point, AR",,retail,445120,,"Bald Knob, AR",,,35.3209497,-91.560674,,,w_69843487,shop=convenience
+"West Point, AR",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ar/searcy/2857/,35.2507487,-91.6870385,,,w_69965788,"shop=variety_store, brand=Dollar Tree"
+"West Point, AR",,retail,445110,Walmart Supercenter,"3509 East Race Avenue, Searcy, AR, 72143",+1 501-268-2207,https://www.walmart.com/store/157-searcy-ar,35.2471138,-91.6873311,,,w_69965810,"shop=supermarket, brand=Walmart, operator=Walmart"
+"West Point, AR",,retail,445120,,,,,35.2498862,-91.6910799,,,w_424865648,shop=convenience
+"West Point, AR",,retail,445120,,,,,35.4321475,-91.8872183,,,w_431875039,shop=convenience
+"West Point, AR",,retail,445110,Walmart Supercenter,"2003 West Center Street, Beebe, AR, 72012",+1 501-882-1017,https://www.walmart.com/store/4168-beebe-ar,35.0656725,-91.9053986,,,w_608189298,"shop=supermarket, brand=Walmart"
+"West Point, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/mcrae/13338,35.1175284,-91.8198457,,,w_622328470,"shop=variety_store, brand=Dollar General"
+"West Point, AR",,retail,445120,Flash Market,,,,35.1144033,-91.8221367,,,w_622328474,shop=convenience
+"West Point, AR",,retail,452210,TJ Maxx,,,,35.2369619,-91.7084478,,,w_825866593,"shop=department_store, brand=TJ Maxx"
+"West Point, AR",,retail,446120,Ulta Beauty,"1307 Janet Drive, Searcy, AR, 72143",+1 501-263-2889,https://www.ulta.com/stores/searcy-ar-1262,35.236661,-91.7083779,,,w_825866594,"shop=cosmetics, brand=Ulta Beauty"
+"West Point, AR",,retail,452319,Five Below,,+1 501-279-1460,https://locations.fivebelow.com/ar/searcy/1321-janet-street,35.2362496,-91.708434,,,w_825866596,"shop=variety_store, brand=Five Below"
+"West Point, AR",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-200+e+race+ave-searcy-ar-72143/id=9766,35.2512056,-91.7357035,,,w_1018417342,"shop=chemist, brand=Walgreens"
+"West Point, AR",,retail,446191,The Natural Food Store,,,,35.2450296,-91.7360889,,,w_1069099208,shop=health_food
+"West Point, AR",,retail,445110,Walmart Neighborhood Market,"1330 West Beebe Capps Expressway, Searcy, AR, 72143",+1 501-203-2010,https://www.walmart.com/store/2431/searcy-ar,35.2458162,-91.7503024,,,w_1069100465,"shop=supermarket, brand=Walmart Neighborhood Market, operator=Walmart"
+"West Point, AR",,retail,445120,,,,,34.9848788,-91.9631421,,,w_1092645906,shop=convenience
+"West Point, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/ward/7895,35.026639,-91.954206,,,w_1092648891,"shop=variety_store, brand=Dollar General"
+"West Point, AR",,retail,452319,Dollar General,1011 Gum Springs Road,,https://www.dollargeneral.com/store-directory/ar/searcy/14623,35.2247291,-91.7497113,,,w_1178587547,"shop=variety_store, brand=Dollar General"
+"West Point, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/ward/15978,34.9802716,-91.8732661,,,w_1198567190,"shop=variety_store, brand=Dollar General"
+"West Point, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/searcy/17789,35.2636855,-91.8893841,,,w_1198567201,"shop=variety_store, brand=Dollar General"
+"West Point, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/beebe/16324,35.1056935,-91.8880636,,,w_1198567204,"shop=variety_store, brand=Dollar General"
+"West Point, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/beebe/13587,35.0683964,-91.9372628,,,w_1198567205,"shop=variety_store, brand=Dollar General"
+"West Point, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/beebe/233,35.0812401,-91.8829314,,,w_1202473867,"shop=variety_store, brand=Dollar General"
+"West Point, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/kensett/11051,35.2353869,-91.6713273,,,w_1202473880,"shop=variety_store, brand=Dollar General"
+"West Point, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/des-arc/798,34.9775844,-91.5039646,,,w_1202487385,"shop=variety_store, brand=Dollar General"
+"West Point, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/judsonia/7726,35.2827523,-91.6441137,,,w_1203123864,"shop=variety_store, brand=Dollar General"
+"West Point, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/bald-knob/4721,35.323667,-91.5622262,,,w_1203123866,"shop=variety_store, brand=Dollar General"
+"West Point, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/bradford/11621,35.4215123,-91.4494457,,,w_1203123873,"shop=variety_store, brand=Dollar General"
+"West Point, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/searcy/9863,35.2555656,-91.7444623,,,w_1204486482,"shop=variety_store, brand=Dollar General"
+"West Point, AR",,retail,445120,,,,,35.247757,-91.7749691,,,w_1207616028,shop=convenience
+"West Point, AR",,retail,452319,Dollar General,"Bald Knob, AR, 72010",,https://www.dollargeneral.com/store-directory/ar/bald-knob/17716,35.4127022,-91.577015,,,w_1216406530,"shop=variety_store, brand=Dollar General"
+"West Point, AR",,retail,445120,Buckaroos,,,,35.2344982,-91.6987486,,,w_1265707419,shop=convenience
+"West Point, AR",,retail,445120,Casey's General Store,,,,35.2394055,-91.7057921,,,w_1270397257,"shop=convenience, brand=Casey's General Store"
+"West Point, AR",,retail,445120,,,,,35.2510928,-91.7455083,,,w_1280208601,shop=convenience
+"West Point, AR",,retail,445120,,"US 167, Bald Knob, AR",,,35.3216881,-91.5623204,,,w_1378373209,shop=convenience
+"West Point, AR",,retail,445120,,,,,35.251139,-91.6911453,,,w_1396021661,shop=convenience

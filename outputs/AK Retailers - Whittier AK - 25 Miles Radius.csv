@@ -1,0 +1,8 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Whittier, AK",,retail,445110,,,,,60.7743956,-148.6819777,,,n_2407662005,shop=supermarket
+"Whittier, AK",,retail,445120,Speedway,"36511 Seward Highway, Girdwood, AK",,,60.9405689,-149.1719428,,,n_4225608416,"shop=convenience, brand=Speedway"
+"Whittier, AK",,retail,445120,Mini Market,,,,60.7722203,-148.6854293,,,n_5029126066,shop=convenience
+"Whittier, AK",,retail,445310,La Bodega,"194 Olympic Circle, Girdwood, AK, 99587",+1-907-783-0084,https://www.labodegastore.com/,60.9599947,-149.108876,,,n_8931218213,shop=alcohol
+"Whittier, AK",,retail,446110,Pharmacy Market Place,,,,60.9410138,-149.1716149,,,n_9986772130,shop=chemist
+"Whittier, AK",,retail,445110,Crow Creek Mercantile,"150 Hightower Road, 99587",+19077833900,http://safeway.com,60.9627328,-149.1342523,,,w_332534316,shop=supermarket
+"Whittier, AK",,retail,445110,Raw Market Company,"148 Holmgren Place, Girdwood, AK, 99587",+1-907-330-9628,https://www.rawmarket.co,60.963216,-149.1357208,,,w_476371305,shop=supermarket

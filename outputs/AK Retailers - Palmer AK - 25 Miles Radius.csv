@@ -1,0 +1,56 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Palmer, AK",,retail,445120,,,,,61.7444866,-148.6596906,,,n_2981713719,shop=convenience
+"Palmer, AK",,retail,445310,Brown Jug,"Wasilla, AK, 99654",,,61.5825228,-149.4642806,,,n_3927733558,shop=alcohol
+"Palmer, AK",,retail,445110,,,,,61.5459029,-149.8164927,,,n_3957447100,shop=supermarket
+"Palmer, AK",,retail,445120,The Store,"Old Glenn Highway, Palmer, AK",,,61.5483547,-149.0343337,,,n_4413564686,shop=convenience
+"Palmer, AK",,retail,445310,Get N' Go,,,,61.5516916,-149.0350784,,,n_4415686501,shop=alcohol
+"Palmer, AK",,retail,445120,Speedway,,,,61.5813377,-149.440682,,,n_5903427944,shop=convenience
+"Palmer, AK",,retail,445310,,"East Palmer-Wasilla Highway, Palmer, AK, 99645",,,61.5998358,-149.2420444,,,n_5919711088,shop=alcohol
+"Palmer, AK",,retail,445310,Oaken Keg,"664 West Evergreen Avenue, Palmer, AK, 99645",(907) 761-1410,,61.5982591,-149.1263434,,,n_5970749486,shop=alcohol
+"Palmer, AK",,retail,445120,Valley Country Store,"3065 North Church Road, Wasilla, AK, 99654",(907) 376-7151,,61.613246,-149.5107904,,,n_5997183662,shop=convenience
+"Palmer, AK",,retail,445120,,,,,61.6143372,-149.3947835,,,n_6001874512,shop=convenience
+"Palmer, AK",,retail,445120,Chevron Food Mart,"601 West Parks Highway, Wasilla, AK, 99654",(907) 376-5900,,61.5820669,-149.4663185,,,n_6011349892,shop=convenience
+"Palmer, AK",,retail,445120,,,,,61.5806173,-149.6040166,,,n_6011708656,shop=convenience
+"Palmer, AK",,retail,445120,,,,,61.329667,-149.5666045,,,n_6038345248,shop=convenience
+"Palmer, AK",,retail,452210,Target,,+1 907-631-7200,https://www.target.com/sl/wasilla/2339,61.5779934,-149.4026825,,,n_8663800149,"shop=department_store, brand=Target"
+"Palmer, AK",,retail,446120,Nail Gallery,,,,61.5989488,-149.1189177,,,n_9557050991,shop=beauty
+"Palmer, AK",,retail,446120,Sunsation,,,,61.5781463,-149.4118349,,,n_9610111055,shop=beauty
+"Palmer, AK",,retail,453991,Discount Smokes & Accessories,,,,61.5990653,-149.1198159,,,n_9688530794,shop=tobacco
+"Palmer, AK",,retail,445120,Speedway,,,,61.5778503,-149.4097741,,,n_9704301634,"shop=convenience, brand=Speedway"
+"Palmer, AK",,retail,445120,Twin Peaks Treats,,,,61.415282,-149.1814759,,,n_12056182191,shop=convenience
+"Palmer, AK",,retail,445310,Bear Booch,,,,61.7779562,-149.200098,,,n_12630020778,shop=beverages
+"Palmer, AK",,retail,445110,Carrs,"11409 Business Park Blvd., 99577",,https://local.carrsqc.com/ak/eagle-river/11409-business-park-blvd.html,61.3248606,-149.5729264,,,w_129383931,"shop=supermarket, brand=Carrs"
+"Palmer, AK",,retail,445110,Carrs,"595 East Parks Highway, Wasilla, AK, 99654",,https://local.carrsqc.com/ak/wasilla/595-e-parks-hwy.html,61.5826806,-149.435749,,,w_241583551,"shop=supermarket, brand=Carrs"
+"Palmer, AK",,retail,445110,Walmart Supercenter,"18600 Eagle River Road, Eagle River, AK, 99577",+1-907-694-9780,https://www.walmart.com/store/2188-eagle-river-ak,61.3091077,-149.5355856,,,w_243119579,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Palmer, AK",,retail,445110,Fred Meyer,"13401 Old Glenn Highway, Eagle River, AK, 99577",+1 907-689-4066,https://www.fredmeyer.com/stores/grocery/ak/eagle-river/eagle-river/701/00668,61.3412997,-149.5556019,,,w_243610991,"shop=supermarket, brand=Fred Meyer"
+"Palmer, AK",,retail,445120,General Store,,,,61.7105321,-148.8947089,,,w_294554814,shop=convenience
+"Palmer, AK",,retail,445110,Walmart Supercenter,"1350 South Seward Meridian Parkway, Wasilla, AK, 99654",+1-907-376-9780,https://www.walmart.com/store/2074-wasilla-ak,61.5687834,-149.3650259,,,w_298000790,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Palmer, AK",,retail,445110,Carrs,"664 West Evergreen Avenue, Palmer, AK, 99645",(907) 761-1400,https://local.carrsqc.com/ak/palmer/664-w-evergreen-ave.html,61.5980556,-149.126981,,,w_303111232,"shop=supermarket, brand=Carrs"
+"Palmer, AK",,retail,445110,Three Bears Alaska,"8151 East Palmer-Wasilla Highway, Palmer, AK, 99645",+1-907-746-3888,https://threebearsalaska.com/mat-su/,61.6004281,-149.2454409,,,w_353359419,shop=supermarket
+"Palmer, AK",,retail,445120,Holiday,"237 North Boundary Street, Wasilla, AK",,,61.5817045,-149.438743,,,w_389319957,"shop=convenience, brand=Holiday"
+"Palmer, AK",,retail,445310,Brown Jug,,,,61.5728408,-149.3877787,,,w_389319967,shop=alcohol
+"Palmer, AK",,retail,445120,Knik Superstore,,,,61.5163654,-149.6225179,,,w_389568884,shop=convenience
+"Palmer, AK",,retail,445120,Shell,,,,61.5681992,-149.3184622,,,w_389605447,"shop=convenience, brand=Shell"
+"Palmer, AK",,retail,445310,Party Store Liquors,,,,61.5682336,-149.3189451,,,w_389605448,shop=alcohol
+"Palmer, AK",,retail,445120,Turner's Corner,,,,61.6853797,-149.2412936,,,w_389744218,shop=convenience
+"Palmer, AK",,retail,445120,Three Bears Shell Fuel,"Chugiak, AK, 99567",,,61.4030775,-149.4668591,,,w_507080602,shop=convenience
+"Palmer, AK",,retail,445110,Three Bears Alaska,"22211 Birchwood Loop Road, Chugiak, AK, 99567",+1 907-688-2212,https://threebearsalaska.com/three-bears-chugiak/,61.4038905,-149.4663299,,,w_507080604,shop=supermarket
+"Palmer, AK",,retail,445120,,,,,61.5819099,-149.6314359,,,w_510570161,shop=convenience
+"Palmer, AK",,retail,445110,Three Bears,,,,61.5844342,-149.6293957,,,w_510570166,shop=supermarket
+"Palmer, AK",,retail,445110,Three Bears Alaska,"3950 Knik-Goose Bay Road, Wasilla, 99654",1-907-376-4500,https://threebearsalaska.com/kgb-road-wasilla/,61.5368368,-149.5811329,,,w_601137465,shop=supermarket
+"Palmer, AK",,retail,445120,Hilltop,59.5 N Glenn Highway,,,61.7084095,-148.9352528,,,w_606134197,"shop=convenience, operator=Tesoro"
+"Palmer, AK",,retail,445120,2GO Mart,,,,61.5843792,-149.3588413,,,w_626801322,shop=convenience
+"Palmer, AK",,retail,445110,Fred Meyer,"535 West Evergreen Avenue, Palmer, AK, 99645",+1 907-707-0400,https://www.fredmeyer.com/stores/details/701/00649,61.6007884,-149.1253016,,,w_632036625,"shop=supermarket, brand=Fred Meyer"
+"Palmer, AK",,retail,445110,Fred Meyer,"Wasilla, AK, 99654",+1 907-352-5000,https://www.fredmeyer.com/stores/grocery/ak/wasilla/wasilla/701/00653,61.5795413,-149.4089616,,,w_634088178,"shop=supermarket, brand=Fred Meyer, operator=Fred Meyer"
+"Palmer, AK",,retail,445120,,,,,61.5522278,-149.5350097,,,w_695745201,shop=convenience
+"Palmer, AK",,retail,445310,,,,,61.5521338,-149.5356883,,,w_695745202,shop=alcohol
+"Palmer, AK",,retail,445120,Three Bears Alaska,,,,61.6073669,-149.1168895,,,w_934498142,shop=convenience
+"Palmer, AK",,retail,445120,Speedway,"400 West Glacier View Avenue, City Of Palmer, AK",,,61.5936854,-149.1209408,,,w_934860208,"shop=convenience, brand=Speedway"
+"Palmer, AK",,retail,445120,Holiday,,,,61.5830964,-149.6366878,,,w_956907018,"shop=convenience, brand=Holiday"
+"Palmer, AK",,retail,445120,,,,,61.584231,-149.3800201,,,w_970212893,shop=convenience
+"Palmer, AK",,retail,445120,Food Mart,,,,61.5998393,-149.1214081,,,w_1002455750,shop=convenience
+"Palmer, AK",,retail,445120,Three Bears Alaska,,,,61.6311032,-149.8124942,,,w_1021318673,shop=convenience
+"Palmer, AK",,retail,445120,,,,,61.6128894,-149.329077,,,w_1023525532,shop=convenience
+"Palmer, AK",,retail,445120,Valley Country Store,,,,61.6336628,-149.191438,,,w_1029513424,shop=convenience
+"Palmer, AK",,retail,445120,Valley Country Store,"3068 South Trunk Road, Palmer, AK, 99645",,,61.5580218,-149.2739772,,,w_1131767889,shop=convenience
+"Palmer, AK",,retail,445120,Three Bears Alaska,,,,61.5739695,-149.4212337,,,w_1137752177,shop=convenience

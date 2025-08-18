@@ -1,0 +1,871 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Antioch, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/livermore-ca-pharmacies/1500-1st-st-livermore-ca-94550/storeid=9678,37.6801778,-121.778198,,,n_194986631,"shop=chemist, amenity=pharmacy, brand=CVS Pharmacy"
+"Antioch, CA",,retail,445110,Raley's,"890 Southampton Road, Benicia, CA, 94510",707-746-1203,https://www.raleys.com/,38.0665187,-122.167967,,,n_598055156,"shop=supermarket, brand=Raley's"
+"Antioch, CA",,retail,445120,7-Eleven,"5741 Thornhill Drive, Oakland, CA, 94611-2144",+1 510-339-9123,https://www.7-eleven.com/locations/ca/oakland/5741-thornhill-dr-14170,37.8346561,-122.2124927,,,n_661906871,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445110,Safeway,"50 Solano Square, Benicia, CA, 94510",+1 707-745-4047,https://local.safeway.com/safeway/ca/benicia/50-solano-sq.html,38.0547702,-122.15572,,,n_698082170,"shop=supermarket, brand=Safeway, operator=Safeway"
+"Antioch, CA",,retail,445120,Snug Harbor Bait & Groceries,,,,38.1993289,-121.6134957,,,n_761305299,shop=convenience
+"Antioch, CA",,retail,445110,Trader Joe's,"785 Oak Grove Road, Concord, CA, 94518",+1 925-521-1134,https://locations.traderjoes.com/ca/concord/83/,37.9377015,-122.0256327,,,n_761870395,"shop=supermarket, brand=Trader Joe's"
+"Antioch, CA",,retail,445310,Wente Brothers Winery,,,,37.6647944,-121.7261024,,,n_804613613,shop=alcohol
+"Antioch, CA",,retail,445110,Nob Hill Foods,,,,37.7627649,-121.9515436,,,n_1425314672,shop=supermarket
+"Antioch, CA",,retail,452210,Ross,"5412 Ygnacio Valley Road, Concord, CA, 94521",+1 925-524-0276,,37.9489185,-121.9587844,,,n_1492592014,"shop=department_store, brand=Ross"
+"Antioch, CA",,retail,445120,Village Market,,,,37.9408329,-121.9347295,,,n_1608420289,shop=convenience
+"Antioch, CA",,retail,452210,JCPenney,,,,37.9658084,-121.733731,,,n_1669925513,"shop=department_store, brand=JCPenney"
+"Antioch, CA",,retail,453110,Flower Bowl Florist,,,,37.895775,-122.072229,,,n_1727144380,shop=florist
+"Antioch, CA",,retail,446120,Metamorphosis,,,,37.901642,-122.064777,,,n_1727225699,shop=beauty
+"Antioch, CA",,retail,446120,Galaxy Nail Spa,"1671 North California Boulevard, Walnut Creek, CA",,,37.902058,-122.065113,,,n_1727225739,shop=beauty
+"Antioch, CA",,retail,445310,Prima Vini,,,,37.9002864,-122.0610363,,,n_1803588118,shop=alcohol
+"Antioch, CA",,retail,445120,Chevron,,,,38.0949246,-122.2288446,,,n_1861486372,"shop=convenience, brand=Chevron"
+"Antioch, CA",,retail,445120,Ben's Food & Liquor,,,,38.0946002,-122.2281094,,,n_1861493139,shop=convenience
+"Antioch, CA",,retail,452210,dd's Discounts,,,,38.1040392,-122.2307137,,,n_1861502515,"shop=department_store, brand=dd's Discounts"
+"Antioch, CA",,retail,445110,Cardenas,,,,38.1038261,-122.231081,,,n_1861502536,"shop=supermarket, brand=Cardenas"
+"Antioch, CA",,retail,446120,Orchid Nails and Spa,,,,38.1049112,-122.2311349,,,n_1862633028,shop=beauty
+"Antioch, CA",,retail,445120,Cigarettes 4 Less,,,,38.1048239,-122.2310622,,,n_1862633074,shop=convenience
+"Antioch, CA",,retail,445110,Walgreens,,,,37.9523055,-121.954894,,,n_1920275837,shop=supermarket
+"Antioch, CA",,retail,445110,Lucky,,,,37.9538917,-121.9657488,,,n_1920278633,"shop=supermarket, brand=Lucky"
+"Antioch, CA",,retail,445110,FoodMaxx,,,,37.9639857,-121.9874844,,,n_1920361993,"shop=supermarket, brand=FoodMaxx"
+"Antioch, CA",,retail,445310,BevMo!,,,,37.9305468,-122.015808,,,n_1920398781,"shop=alcohol, brand=BevMo!"
+"Antioch, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/concord/4101-concord-blvd-32604,37.9782517,-121.9939529,,,n_1920761599,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445110,Lira's Supermarket,,,,38.1601325,-121.6946965,,,n_1974530827,shop=supermarket
+"Antioch, CA",,retail,445110,Lucky,,,,37.692665,-121.7750444,,,n_2104739903,"shop=supermarket, brand=Lucky"
+"Antioch, CA",,retail,445110,Trader Joe's,"1122 A East Stanley Boulevard, Livermore, CA, 94550",+1 925-243-1947,https://locations.traderjoes.com/ca/livermore/208/,37.6800597,-121.7817694,,,n_2104775676,"shop=supermarket, brand=Trader Joe's"
+"Antioch, CA",,retail,445110,Nob Hill,,,,37.6772755,-121.7849677,,,n_2104779661,shop=supermarket
+"Antioch, CA",,retail,445120,7-Eleven,"1880 Fourth Street, Livermore, CA, 94550-4454",+1 925-455-0611,https://www.7-eleven.com/locations/ca/livermore/1880-fourth-st-14203,37.6785674,-121.771886,,,n_2104795995,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445120,7-Eleven,"891 Airway Boulevard, Livermore, CA, 94551",+1 925-294-9361,https://www.7-eleven.com/locations/ca/livermore/891-airway-blvd-33480,37.6995142,-121.8172339,,,n_2104803485,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,452210,Kohl's,"2302 Monument Boulevard, Pleasant Hill, CA, 94523",+1 925-691-9650,https://www.kohls.com/stores/ca/pleasanthill-978.shtml,37.9435608,-122.0573791,,,n_2131729855,"shop=department_store, brand=Kohl's"
+"Antioch, CA",,retail,445110,99 Ranch Market,,,,37.974627,-122.039901,,,n_2131739199,"shop=supermarket, brand=99 Ranch Market"
+"Antioch, CA",,retail,445110,FoodMaxx,,,,37.9559165,-122.0416269,,,n_2221256810,"shop=supermarket, brand=FoodMaxx"
+"Antioch, CA",,retail,445310,Cork'n Bottle Liquor,,,,37.9376797,-122.0260808,,,n_2221320214,shop=alcohol
+"Antioch, CA",,retail,452210,Ross,"1295 South Main Street, Walnut Creek, CA, 94596",+1 925-934-1900,,37.8941064,-122.0601717,,,n_2221470127,"shop=department_store, brand=Ross"
+"Antioch, CA",,retail,445292,Kara's Cupcakes,,,,37.8991312,-122.060566,,,n_2221476373,shop=confectionery
+"Antioch, CA",,retail,445110,FoodMaxx,,,,38.1234059,-122.236462,,,n_2264170931,"shop=supermarket, brand=FoodMaxx"
+"Antioch, CA",,retail,445120,Larkey Market & Deli,"2800 Larkey Lane, Walnut Creek, CA, 94597",+19259327970,,37.9241415,-122.0780066,,,n_2392213888,shop=convenience
+"Antioch, CA",,retail,445310,Ruby Hill Winery,"400 Vinyard Avenue, Pleasanton",,,37.6515018,-121.8067614,,,n_2412472027,shop=alcohol
+"Antioch, CA",,retail,445310,Rubino Estates Winery,"1188 Vinyard Avenue, Pleasanton",,,37.6539874,-121.82086,,,n_2412599517,shop=alcohol
+"Antioch, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/san-ramon/8944/,37.7248496,-121.944093,,,n_2418553452,"shop=variety_store, brand=Dollar Tree, operator=Dollar Tree"
+"Antioch, CA",,retail,445120,7-Eleven,"7120 Dublin Boulevard, Dublin, CA, 94568",+1 925-833-7245,https://www.7-eleven.com/locations/ca/dublin/7120-dublin-blvd-35485,37.7055739,-121.92283,,,n_2438436771,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445310,Rios-Lovell Winery,,,,37.6657657,-121.7142385,,,n_2450823421,shop=alcohol
+"Antioch, CA",,retail,452210,Ross,"157 Crescent Plaza, Pleasant Hill, CA, 94523",+1 925-671-2614,,37.9465206,-122.0633969,,,n_2476918531,"shop=department_store, brand=Ross"
+"Antioch, CA",,retail,445110,Raley's,,,,37.6517724,-121.878781,,,n_2484033132,"shop=supermarket, brand=Raley's"
+"Antioch, CA",,retail,445110,FoodMaxx,"4500 Lone Tree Way, Antioch, 94531",+1 9257560150,,37.9652976,-121.781917,,,n_2503295303,"shop=supermarket, brand=FoodMaxx"
+"Antioch, CA",,retail,445120,7-Eleven,"1096 Oak Grove Road, Concord, CA, 94518",+1 925-609-5978,https://www.7-eleven.com/locations/ca/concord/1096-oak-grove-rd-36789,37.9562997,-122.0385946,,,n_2586290020,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445110,Raley's,,,,38.2574839,-122.0660105,,,n_2589909684,"shop=supermarket, brand=Raley's"
+"Antioch, CA",,retail,452210,TJ Maxx,,,,38.215332,-122.1417063,,,n_2589929166,"shop=department_store, brand=TJ Maxx"
+"Antioch, CA",,retail,446120,Tips and Toes 2,"2026 First Street, Livermore, CA",+1 925-449-6062,https://www.facebook.com/pages/First-Nail-Spa/27792396567,37.6812242,-121.770799,,,n_2613660665,shop=beauty
+"Antioch, CA",,retail,446120,Tips & Toes Salon,"2136 First Street, Livermore, CA",+1 925-373-6267,https://www.facebook.com/TipsToesSalon,37.6815383,-121.7697055,,,n_2613660781,shop=beauty
+"Antioch, CA",,retail,445110,99 Ranch Market,"4299 Rosewood Drive, Pleasanton, 94588",,,37.6995868,-121.8732583,,,n_2626604199,"shop=supermarket, brand=99 Ranch Market"
+"Antioch, CA",,retail,452210,Marshalls,,,,38.1337123,-122.2196958,,,n_2638103317,"shop=department_store, brand=Marshalls"
+"Antioch, CA",,retail,452210,Ross,"133 Plaza Drive, Vallejo, CA, 94591",+1 707-552-9565,,38.1326326,-122.2203904,,,n_2638103319,"shop=department_store, brand=Ross"
+"Antioch, CA",,retail,445120,Chevron,,,,37.9610631,-121.746817,,,n_2683062657,"shop=convenience, amenity=fuel, brand=Chevron"
+"Antioch, CA",,retail,452210,TJ Maxx,,,,37.9175453,-122.037127,,,n_2778805942,"shop=department_store, brand=TJ Maxx"
+"Antioch, CA",,retail,445210,Kinder's Meats & Deli,,,,37.917916,-122.0366185,,,n_2778805945,shop=butcher
+"Antioch, CA",,retail,445120,Town Market,,,,38.1044143,-122.2380254,,,n_2805280721,shop=convenience
+"Antioch, CA",,retail,445120,7-Eleven,"2835 Georgia Street, Vallejo, CA, 94591-6503",+1 707-648-2805,https://www.7-eleven.com/locations/ca/vallejo/2835-georgia-st-14133,38.0996339,-122.2239494,,,n_2805280723,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,452210,TJ Maxx,,,,37.8588782,-122.125721,,,n_2867383552,"shop=department_store, brand=TJ Maxx"
+"Antioch, CA",,retail,445110,Seafood City,,,,37.9737816,-122.0554713,,,n_2886489681,"shop=supermarket, brand=Seafood City"
+"Antioch, CA",,retail,445120,7-Eleven,"930 Springtown Boulevard, Livermore, CA, 94551",+1 925-449-7058,https://www.7-eleven.com/locations/ca/livermore/930-springtown-blvd-25693,37.704901,-121.7412626,,,n_2973947836,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,446120,Liz Nails,,,,37.6791553,-121.7793915,,,n_3151876961,shop=beauty
+"Antioch, CA",,retail,446120,Tea Nails,,,,37.7043868,-121.8516551,,,n_3393407237,shop=beauty
+"Antioch, CA",,retail,446120,Bollinger Nail Salon,,,,37.75881,-121.9663402,,,n_3401326494,shop=beauty
+"Antioch, CA",,retail,446120,Visual Image Too,"1935 Second Street, Livermore, CA",,,37.6797378,-121.771469,,,n_3402208996,shop=beauty
+"Antioch, CA",,retail,445120,Parkside Market,"202 Davi Avenue, Pittsburg",,,38.021443,-121.892495,,,n_3458085812,shop=convenience
+"Antioch, CA",,retail,445310,Cole's Market,,,,37.662347,-121.8712962,,,n_3584997294,shop=alcohol
+"Antioch, CA",,retail,445120,Hidalgo's Little Market,,,,37.6622518,-121.8727036,,,n_3584997296,shop=convenience
+"Antioch, CA",,retail,452319,Dollar Tree,"1490 Railroad Avenue, Livermore, CA",,https://locations.99only.com/ca/livermore/discount-store-447.html,37.6814846,-121.778415,,,n_3622099692,"shop=variety_store, brand=Dollar Tree"
+"Antioch, CA",,retail,445310,Perry's Liquor,,,,37.6815331,-121.7780947,,,n_3622100093,shop=alcohol
+"Antioch, CA",,retail,446120,,,,,38.2897418,-122.0323392,,,n_3748098517,shop=beauty
+"Antioch, CA",,retail,445120,7-Eleven,,,,37.7231108,-121.5321226,,,n_4009650983,shop=convenience
+"Antioch, CA",,retail,446120,Harbor Beauty Salon,,,,38.0178584,-121.8821883,,,n_4073863926,shop=beauty
+"Antioch, CA",,retail,445310,,,,,38.0175763,-121.8823103,,,n_4073866089,shop=alcohol
+"Antioch, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/antioch/2700-hillcrest-ave-39488,37.9944165,-121.7852492,,,n_4131092799,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445110,County Market,,,,37.9946448,-121.781537,,,n_4131092811,shop=supermarket
+"Antioch, CA",,retail,445110,Trader Joe's,"1350 Gateway Boulevard, Fairfield, CA, 94533",+1 707-434-0144,https://locations.traderjoes.com/ca/fairfield/101/,38.2640861,-122.053199,,,n_4141972189,"shop=supermarket, brand=Trader Joe's"
+"Antioch, CA",,retail,445310,M D Liquors & Food,"3168 Danville Boulevard, Alamo, CA, 94507",,,37.8509098,-122.0316147,,,n_4274090278,shop=alcohol
+"Antioch, CA",,retail,452210,TJ Maxx,,,,37.7008276,-121.7434262,,,n_4348223753,"shop=department_store, brand=TJ Maxx"
+"Antioch, CA",,retail,452210,Ross,"4408 Las Positas Road, Livermore, CA, 94551",+1 925-443-0433,,37.7013004,-121.7442969,,,n_4348225096,"shop=department_store, brand=Ross"
+"Antioch, CA",,retail,446191,Fit Mealz Meal Prep,,,,37.7049112,-121.8812888,,,n_4349147302,shop=health_food
+"Antioch, CA",,retail,445110,New India Bazaar,,,,37.704917,-121.8810987,,,n_4350243735,shop=supermarket
+"Antioch, CA",,retail,445110,Las Montañas Supermarket,,,,37.963083,-122.032755,,,n_4452850487,shop=supermarket
+"Antioch, CA",,retail,445120,7-Eleven,"2995 Monument Boulevard, Concord, CA, 94520-3011",+1 925-687-6711,https://www.7-eleven.com/locations/ca/concord/2995-monument-blvd-27353,37.9682703,-122.032533,,,n_4452861891,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445110,Mas Primos Market,,,,37.969033,-122.0323104,,,n_4452861896,shop=supermarket
+"Antioch, CA",,retail,446120,Ulta Beauty,"1975 Diamond Boulevard, Concord, CA, 94520",+1 925-609-9753,https://www.ulta.com/stores/concord-ca-799,37.9698961,-122.05679,,,n_4514876267,"shop=beauty, brand=Ulta Beauty"
+"Antioch, CA",,retail,452319,Five Below,,+1 925-412-4294,https://locations.fivebelow.com/ca/concord/1975-diamond-blvd,37.9701372,-122.057036,,,n_4514876268,"shop=variety_store, brand=Five Below"
+"Antioch, CA",,retail,452210,Daiso Japan,,,,37.96987,-122.0561881,,,n_4514876272,shop=department_store
+"Antioch, CA",,retail,445310,Monument Wines & Spirits,,,,37.9577475,-122.036128,,,n_4518395431,shop=alcohol
+"Antioch, CA",,retail,445110,Solano Market,,,,37.9896271,-122.0414748,,,n_4519735097,shop=supermarket
+"Antioch, CA",,retail,446120,China Silk Nails,,,,37.9782062,-122.0351137,,,n_4519735100,shop=beauty
+"Antioch, CA",,retail,445310,Bonfare Market,,,,37.9901021,-122.0409244,,,n_4519736587,shop=alcohol
+"Antioch, CA",,retail,452210,Macy's,,,https://www.macys.com/stores/ca/concord/sunvalley-shopping-center_323.html,37.9678148,-122.061307,,,n_4525667296,"shop=department_store, brand=Macy's"
+"Antioch, CA",,retail,445310,Central Market & Liquors,,,,37.9636065,-122.0325289,,,n_4537003171,shop=alcohol
+"Antioch, CA",,retail,452210,Sears,"1001 Sunvalley Boulevard, Concord, CA, 94520",+1-925-246-1900,https://www.sears.com/stores/california/concord/0001368,37.9658139,-122.0606129,,,n_4554071969,"shop=department_store, brand=Sears"
+"Antioch, CA",,retail,445120,Power Market,,,,38.0263416,-121.9580779,,,n_4555791430,shop=convenience
+"Antioch, CA",,retail,445110,Mi Tierra,,,,38.026264,-121.9480092,,,n_4555819570,shop=supermarket
+"Antioch, CA",,retail,445110,Safeway,"660 Bailey Road, Pittsburg, CA, 94565",+1 925-458-0181,https://local.safeway.com/safeway/ca/pittsburg/660-bailey-rd.html,38.0161167,-121.943476,,,n_4555862465,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/pittsburg/4369/,38.0156718,-121.943397,,,n_4555862466,"shop=variety_store, brand=Dollar Tree"
+"Antioch, CA",,retail,445110,La Chicana Market,,,,38.0264699,-121.933659,,,n_4556083432,shop=supermarket
+"Antioch, CA",,retail,445310,Dave's Liquor,,,,38.0264028,-121.9327381,,,n_4556083434,shop=alcohol
+"Antioch, CA",,retail,445120,Power Market,,,,38.0263713,-121.9275577,,,n_4556083435,shop=convenience
+"Antioch, CA",,retail,445110,Bill Bly's Ranch Market,,,,38.0265163,-121.9438266,,,n_4556083443,shop=supermarket
+"Antioch, CA",,retail,445110,Del Valle Produce,,,,38.0343242,-121.9614961,,,n_4556083446,shop=supermarket
+"Antioch, CA",,retail,445120,Power Market,,,,38.0204953,-121.9424637,,,n_4557932441,shop=convenience
+"Antioch, CA",,retail,445120,Alliance,,,,38.0264828,-121.94271,,,n_4574206604,shop=convenience
+"Antioch, CA",,retail,445120,7-Eleven,"1450 Alamo Drive, Vacaville, CA, 95687-6537",+1 707-448-7711,https://www.7-eleven.com/locations/ca/vacaville/1450-alamo-dr-14155,38.3355513,-121.9859436,,,n_4582002103,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445110,Raley's,"3061 Alamo Drive, Vacaville, 95687",,,38.3366712,-121.954517,,,n_4582002104,"shop=supermarket, brand=Raley's"
+"Antioch, CA",,retail,446120,Blinks and Brows,,,,37.9249476,-122.0868149,,,n_4595290689,shop=cosmetics
+"Antioch, CA",,retail,445120,7-Eleven,"3116 Oak Road, Walnut Creek, CA, 94597",+1 925-945-4920,https://www.7-eleven.com/locations/ca/walnut-creek/3116-oak-rd-29908,37.9316585,-122.0585563,,,n_4631043963,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445120,7-Eleven,"1611 Monument Boulevard, Concord, CA, 94520-4101",+1 925-689-3552,https://www.7-eleven.com/locations/ca/concord/1611-monument-blvd-18886,37.9538308,-122.0431554,,,n_4650647044,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445110,Del Valle Supermercado,,,,37.9542722,-122.0424318,,,n_4650647046,shop=supermarket
+"Antioch, CA",,retail,445120,Concord Mini Mart,"2115 Pacheco Street, Concord, CA, 94520",,,37.9786544,-122.0350709,,,n_4650647053,shop=convenience
+"Antioch, CA",,retail,446120,Julie's Nail Care,1924 Grant Street,,,37.9774958,-122.0330074,,,n_4650647062,shop=beauty
+"Antioch, CA",,retail,445310,BevMo!,"3590 Mount Diablo Boulevard, Lafayette, CA, 94549",(925) 282-8185,https://bevmo.com/,37.8917294,-122.1224428,,,n_4655014151,"shop=alcohol, brand=BevMo!"
+"Antioch, CA",,retail,445110,Lucky,"3190 Contra Loma Boulevard, Antioch, CA, 94509",,https://luckysupermarkets.com/stores/212,37.9906166,-121.82394,,,n_4655661873,"shop=supermarket, brand=Lucky"
+"Antioch, CA",,retail,445120,Quick Stop,"Lone Tree Way, Antioch, CA, 94509",,,37.9955017,-121.8076235,,,n_4655661874,shop=convenience
+"Antioch, CA",,retail,452210,JCPenney,"Solano Mall, Fairfield, CA, 94533",,,38.2603424,-122.051404,,,n_4747926439,"shop=department_store, brand=JCPenney"
+"Antioch, CA",,retail,452210,Sears,"Solano Mall, Fairfield, CA, 94533",,,38.2596547,-122.0528598,,,n_4747933229,"shop=department_store, brand=Sears"
+"Antioch, CA",,retail,452210,Macy's,"Solano Mall, Fairfield, CA, 94533",,https://www.macys.com/stores/ca/fairfield/solano-town-center_326.html,38.2597684,-122.055306,,,n_4747933347,"shop=department_store, brand=Macy's"
+"Antioch, CA",,retail,445310,BevMo!,"1545 Holiday Lane, Fairfield, CA, 94534",,,38.2603159,-122.061703,,,n_4747942462,"shop=alcohol, brand=BevMo!"
+"Antioch, CA",,retail,445110,FoodMaxx,"1955 West Texas Street, Fairfield, CA, 94533",,,38.2479744,-122.0642653,,,n_4747961243,"shop=supermarket, brand=FoodMaxx"
+"Antioch, CA",,retail,446120,Tiger Nail Supply,,,,37.9736052,-122.0383411,,,n_4782299770,shop=beauty
+"Antioch, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/concord/5355/,37.9762514,-122.0382505,,,n_4782299782,"shop=variety_store, brand=Dollar Tree"
+"Antioch, CA",,retail,446120,DA Beauty Salon,,,,37.9700656,-122.0454683,,,n_4782299806,shop=beauty
+"Antioch, CA",,retail,452210,Burlington,,,,37.9732231,-122.042807,,,n_4782300075,"shop=department_store, brand=Burlington"
+"Antioch, CA",,retail,452319,99 Cents Only Stores,,,https://locations.99only.com/ca/concord/discount-store-247.html,37.9739524,-122.0412815,,,n_4782300079,"shop=variety_store, brand=99 Cents Only Stores"
+"Antioch, CA",,retail,445110,Las Montañas,,,,37.9740824,-122.0410054,,,n_4782301095,shop=supermarket
+"Antioch, CA",,retail,445120,Food Mart,,,,37.9707742,-122.045986,,,n_4782303937,shop=convenience
+"Antioch, CA",,retail,445120,Discount Cigarettes,,,,37.9755711,-122.0267598,,,n_4783809064,shop=convenience
+"Antioch, CA",,retail,446120,Aloha Hair Nails & Spa,,,,37.9756208,-122.0269123,,,n_4783812229,shop=beauty
+"Antioch, CA",,retail,446120,Bollinger Nail Salon,,,,37.977098,-122.0351442,,,n_4824241363,shop=beauty
+"Antioch, CA",,retail,445120,7-Eleven,"5844 Pacheco Boulevard, Pacheco, CA, 94553",+1 925-680-8789,https://www.7-eleven.com/locations/ca/pacheco/5844-pacheco-blvd-32993,37.9831286,-122.0681131,,,n_4824241366,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,446120,Q-Nails,,,,37.9806501,-122.0684256,,,n_4824241371,shop=beauty
+"Antioch, CA",,retail,445120,Valero Food Mart,,,,37.9837085,-122.0668857,,,n_4824241808,shop=convenience
+"Antioch, CA",,retail,446110,CVS Pharmacy,"560 Center Avenue, Martinez, CA, 94553",+1 925-370-8077,,37.9920885,-122.1195924,,,n_4955428690,"shop=chemist, brand=CVS Pharmacy"
+"Antioch, CA",,retail,445110,Nob Hill,"520 Center Avenue, Martinez, CA, 94553",+1 925-370-9400,,37.9924517,-122.1208999,,,n_4955428694,shop=supermarket
+"Antioch, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/martinez/4785/,37.9949274,-122.1062267,,,n_4955428713,"shop=variety_store, brand=Dollar Tree"
+"Antioch, CA",,retail,445292,Main Street Sweets,"815 Main Street, Martinez, CA, 94553",(925) 229-9677,,38.0180028,-122.1354885,,,n_4959112238,"shop=confectionery, amenity=ice_cream"
+"Antioch, CA",,retail,452319,Dollar Tree,"542 Center Street, Moraga, CA, 94556",(925) 631-0392,https://www.dollartree.com/locations/ca/moraga/4472/,37.8577408,-122.125977,,,n_4972560079,"shop=variety_store, brand=Dollar Tree"
+"Antioch, CA",,retail,453110,King Florist Moraga,"586 Center Street, Moraga, CA, 94556",(925) 376-5974,http://kingfloristmoraga.com,37.8563344,-122.1261549,,,n_4972560089,shop=florist
+"Antioch, CA",,retail,445110,Lucky,,,,37.9949391,-122.1027648,,,n_4986176391,"shop=supermarket, brand=Lucky"
+"Antioch, CA",,retail,446120,Beauty Hair and Nails,"7217 Regional Street, Dublin, CA, 94568",+1 925 829-6068,,37.7057031,-121.9332346,,,n_4986970183,shop=beauty
+"Antioch, CA",,retail,445110,99 Ranch Market,"7333 Regional Street, Dublin, CA, 94568",+1 925 833-3999,https://www.99ranch.com/,37.7063174,-121.9330991,,,n_4986970193,"shop=supermarket, brand=99 Ranch Market"
+"Antioch, CA",,retail,445310,Lincoln Square Liquors,"4100 Redwood Road, Oakland, CA, 94619",+1-510-531-9115,,37.7978238,-122.1824654,,,n_5074613367,shop=alcohol
+"Antioch, CA",,retail,446120,Relax Center,7206 Regional Street,+1 925 560-0888,,37.7049243,-121.9355768,,,n_5110354852,shop=beauty
+"Antioch, CA",,retail,446120,Nails and Spa,7202 Regional Street,+1 925 828-2102,,37.7048999,-121.9357605,,,n_5110354854,shop=beauty
+"Antioch, CA",,retail,445110,Lucky,660 San Ramon Valley Boulevard,,,37.8130589,-121.994635,,,n_5188946023,"shop=supermarket, brand=Lucky"
+"Antioch, CA",,retail,452319,Dollar Tree,7775 Amador Valley Boulevard,+1 925 803-5871,https://www.dollartree.com/locations/ca/dublin/3014/,37.7073222,-121.9347829,,,n_5195311220,"shop=variety_store, brand=Dollar Tree"
+"Antioch, CA",,retail,453991,Smoker Friendly,7135 Amador Plaza Road,+1 925 829-9615,http://smokerfriendly.com/,37.7072347,-121.9286621,,,n_5198659577,shop=tobacco
+"Antioch, CA",,retail,446120,Famous Hair & Nails,7139 Amador Plaza Road,+1 925 479-9691,,37.707205,-121.928717,,,n_5198659578,shop=beauty
+"Antioch, CA",,retail,452210,Target,"7200 Amador Plaza Road, Dublin, CA, 94568-2320",+1 925-829-8900,https://www.target.com/sl/dublin/328,37.706658,-121.9318096,,,n_5199035784,"shop=department_store, brand=Target"
+"Antioch, CA",,retail,452210,Burlington,"6900 Amador Plaza Road, Dublin, CA, 94568-2391",+1 925 875-0712,http://www.burlingtoncoatfactory.com/,37.7050994,-121.930946,,,n_5199035788,"shop=department_store, brand=Burlington"
+"Antioch, CA",,retail,452210,Ross,"7886 Dublin Boulevard, Dublin, CA, 94568",+1 925 829-5995,https://www.rossstores.com/,37.70207,-121.9314355,,,n_5199297803,"shop=department_store, brand=Ross"
+"Antioch, CA",,retail,452210,Marshalls,7892 Dublin Boulevard,+1 925 875-1550,http://www.marshallsonline.com/,37.7018599,-121.9321261,,,n_5199297805,"shop=department_store, brand=Marshalls"
+"Antioch, CA",,retail,453991,Discount Cigarettes,,,,37.7052065,-121.9356774,,,n_5199332717,shop=tobacco
+"Antioch, CA",,retail,446120,Aroma Spa Massage,,,,37.7051975,-121.9357431,,,n_5199332718,shop=beauty
+"Antioch, CA",,retail,446120,Nails Spa,,,,37.7051827,-121.9358772,,,n_5199332720,shop=beauty
+"Antioch, CA",,retail,445110,Patel indian Grocery,,,,37.7716357,-121.9474766,,,n_5207580624,shop=supermarket
+"Antioch, CA",,retail,452210,TJ Maxx,,,,37.9721981,-122.0598776,,,n_5215295833,"shop=department_store, brand=TJ Maxx"
+"Antioch, CA",,retail,446120,Lunchbox Wax,,,,37.9729902,-122.0580049,,,n_5215295836,shop=beauty
+"Antioch, CA",,retail,445120,7-Eleven,"301 North Civic Drive, Walnut Creek, CA, 94596-7605",+1 925-934-0622,https://www.7-eleven.com/locations/ca/walnut-creek/301-north-civic-dr-17906,37.910924,-122.060488,,,n_5225380277,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,446120,Happy Nails & Spa,6920 Amador Plaza Road,,,37.7054676,-121.9284353,,,n_5229576314,shop=beauty
+"Antioch, CA",,retail,445110,Trader Joe's,"3903 Santa Rita Road, Pleasanton, CA, 94588",+1 925 468-0763,http://www.traderjoes.com/,37.6969236,-121.8770007,,,n_5249822272,"shop=supermarket, brand=Trader Joe's"
+"Antioch, CA",,retail,445110,Whole Foods Market,"2085 Diamond Boulevard, Concord, CA, 94520",+1 925-695-3180,https://www.wholefoodsmarket.com/stores/concord,37.9740558,-122.058797,,,n_5279034139,"shop=supermarket, brand=Whole Foods Market"
+"Antioch, CA",,retail,445110,Trader Joe's,"1150 Concord Avenue, Concord, CA, 94520",+1 925-689-2990,https://locations.traderjoes.com/ca/concord/60/,37.979301,-122.0561587,,,n_5281051126,"shop=supermarket, brand=Trader Joe's"
+"Antioch, CA",,retail,445120,7-Eleven,"East 5th Street, 94510",,https://www.7-eleven.com/locations/ca/benicia/500-military-east-26231,38.050469,-122.1467636,,,n_5305448128,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,452210,JCPenney,"484 Sun Valley Mall, Concord, CA, 94520",+1-925-687-6000,https://www.jcpenney.com/locations/ca/concord/clothing-stores-concord-ca-691.html,37.9696169,-122.061262,,,n_5307453841,"shop=department_store, brand=JCPenney"
+"Antioch, CA",,retail,452210,Macy's,,,,37.9668242,-122.0596014,,,n_5307453843,"shop=department_store, brand=Macy's"
+"Antioch, CA",,retail,445110,Walmart Neighborhood Market,"2050 Nut Tree Road, Vacaville, CA, 95687",+1 707-359-3258,https://www.walmart.com/store/5007-vacaville-ca,38.350599,-121.951128,,,n_5315597931,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Antioch, CA",,retail,453991,Mist Hookah Lounge,"1120 Contra Costa Boulevard, Pleasant Hill, CA, 94523",,,37.9612434,-122.061081,,,n_5328563040,"shop=tobacco, amenity=cafe"
+"Antioch, CA",,retail,453991,Cigar Loft,"1110 Contra Costa Boulevard, Pleasant Hill, CA, 94523",,,37.9611249,-122.06106,,,n_5328563042,shop=tobacco
+"Antioch, CA",,retail,446120,Ellinwood Nail Spa,,,,37.9587209,-122.0605401,,,n_5328592908,shop=beauty
+"Antioch, CA",,retail,453991,Payless Cigarette & Cigar,,,,37.9888844,-122.041871,,,n_5380007324,shop=tobacco
+"Antioch, CA",,retail,453991,Legends Smoke Shop,,,,37.9793488,-122.065791,,,n_5401341224,shop=tobacco
+"Antioch, CA",,retail,445120,Lamps Plus,,,,37.9791016,-122.0671285,,,n_5401341225,shop=convenience
+"Antioch, CA",,retail,446120,J Salon & Supply,7030 Village Parkway,+1 925 361-7946,http://jsalonsupplies.com/,37.708266,-121.9260442,,,n_5404198688,shop=beauty
+"Antioch, CA",,retail,446120,Sport Clips Haircuts,"120 Market Place, San Ramon, CA, 94583",,,37.76256,-121.9513441,,,n_5423536468,"shop=beauty, operator=Sport Clips"
+"Antioch, CA",,retail,445120,7-Eleven,"1095 Magazine Street, Vallejo, CA, 94591-8275",+1 707-644-3212,https://www.7-eleven.com/locations/ca/vallejo/1095-magazine-st-16743,38.0846119,-122.2316582,,,n_5499607846,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445292,See's Candies,,,,37.9634589,-122.0624105,,,n_5534832821,"shop=confectionery, brand=See's Candies"
+"Antioch, CA",,retail,452319,Dollar Tree,"938 Admiral Callaghan Lane, 94591",707-557-4358,https://www.dollartree.com/locations/ca/vallejo/4131/,38.1330067,-122.2211937,,,n_5536296826,"shop=variety_store, brand=Dollar Tree, operator=Dollar Tree"
+"Antioch, CA",,retail,445310,iTea,,,,37.8981874,-122.0591898,,,n_5543993625,shop=beverages
+"Antioch, CA",,retail,445110,Safeway,"2800 Ygnacio Valley Road, Walnut Creek, CA, 94598",+1 925-948-2283,https://local.safeway.com/safeway/ca/walnut-creek/2800-ygnacio-valley-rd.html,37.9272435,-122.0184678,,,n_5911009788,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,452319,Daiso Japan,7201 Regional Street,+1 925 452-8760,http://www.daisoglobal.com/,37.7053529,-121.9327895,,,n_5962625871,"shop=variety_store, brand=Daiso"
+"Antioch, CA",,retail,445110,Lucky,"2840 Dublin Boulevard, Dublin, CA, 94568",,,37.7045493,-121.8536299,,,n_6025772311,"shop=supermarket, brand=Lucky"
+"Antioch, CA",,retail,446120,Kiki Brows,"3856 Fallon Road, Dublin, CA, 94568",,,37.7049917,-121.8517211,,,n_6025915895,shop=beauty
+"Antioch, CA",,retail,445110,Smart & Final,,,,37.947587,-122.058883,,,n_6120418155,"shop=supermarket, brand=Smart & Final"
+"Antioch, CA",,retail,445110,Trader Joe's,"85 Railroad Avenue, Danville, CA, 94526",+1 925 838-5757,https://www.traderjoes.com/,37.8230234,-122.0033266,,,n_6240965611,"shop=supermarket, brand=Trader Joe's"
+"Antioch, CA",,retail,445110,Safeway,"1125 2nd Street, Brentwood, CA, 94513",+1 925-634-6780,https://local.safeway.com/safeway/ca/brentwood/1125-2nd-st.html,37.9358665,-121.6991427,,,n_6320042884,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,445110,Sprouts Farmers Market,"2325 Sand Creek Road, Brentwood, CA, 94513",+1 925-308-1965,https://www.sprouts.com/store/ca/brentwood/sand-creek-rd/,37.9442306,-121.7349511,,,n_6320053641,"shop=supermarket, brand=Sprouts Farmers Market"
+"Antioch, CA",,retail,445120,ExtraMile,,,,37.9317644,-121.695251,,,n_6329826425,"shop=convenience, brand=ExtraMile"
+"Antioch, CA",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ca/brentwood/13586,37.9423433,-121.6950614,,,n_6329863186,"shop=variety_store, brand=Dollar General"
+"Antioch, CA",,retail,453110,Brentwood Florist,,,,37.9401004,-121.6965476,,,n_6329863196,shop=florist
+"Antioch, CA",,retail,445120,ampm,,,,37.9245872,-121.7380296,,,n_6329876618,"shop=convenience, brand=ampm"
+"Antioch, CA",,retail,445120,Extra Mile,,,,37.9261461,-121.7356711,,,n_6329876619,shop=convenience
+"Antioch, CA",,retail,446120,,,,,38.0059669,-121.8369787,,,n_6331742053,shop=beauty
+"Antioch, CA",,retail,445120,7-Eleven,"4600 Century Boulevard, Pittsburg, CA, 94565",,https://www.7-eleven.com/locations/ca/pittsburg/4600-century-blvd-33374,38.005707,-121.8363293,,,n_6331742058,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,446120,Princess Nails,"3529 Clayton Rd, Concord, CA, 94519",+1 925-798-1781,http://princessnailsconcord.com,37.9709498,-122.011395,,,n_6337030489,shop=beauty
+"Antioch, CA",,retail,445120,J & L Market,,,,38.0526346,-122.2134118,,,n_6419899344,shop=convenience
+"Antioch, CA",,retail,446120,Beauty Source,"43 Railroad Avenue, Danville, CA, 94526",+1 925 837-7226,,37.8230213,-122.0038098,,,n_6429722942,shop=beauty
+"Antioch, CA",,retail,446120,bluemercury,"401 Hartz Avenue, Danville, CA, 94526",+1 925 743-1330,https://www.bluemercury.com/,37.821464,-121.999932,,,n_6429723861,"shop=cosmetics, brand=bluemercury"
+"Antioch, CA",,retail,446120,Modern Nails,,,,37.8123934,-121.9946747,,,n_6448797383,shop=beauty
+"Antioch, CA",,retail,446120,Perfect Ten Nails,,,,37.8174747,-121.9962039,,,n_6448835984,shop=beauty
+"Antioch, CA",,retail,445120,Danville Market,508 San Ramon Valley Iron Horse Trail,,,37.8183094,-121.9958692,,,n_6448837329,shop=convenience
+"Antioch, CA",,retail,445110,Spice Corner,"3700 Dublin Boulevard, Dublin, CA, 94568",(510) 463-4762,,37.7049109,-121.8656351,,,n_6475795962,shop=supermarket
+"Antioch, CA",,retail,446120,Sephora,,,,37.7633547,-121.958926,,,n_6514298737,"shop=cosmetics, brand=Sephora"
+"Antioch, CA",,retail,445110,Whole Foods Market,"2941 Ygnacio Valley Road, Walnut Creek, CA, 94598",+1 925-269-9010,https://www.wholefoodsmarket.com/stores/ygnaciovalleyroad,37.9259352,-122.0153822,,,n_6554136985,"shop=supermarket, brand=Whole Foods Market"
+"Antioch, CA",,retail,445310,A1 Liquor & Party Rentals,7174 Regional Street,+1 925 833-2500,http://www.a1party.com/,37.7040629,-121.9357551,,,n_6704740195,shop=alcohol
+"Antioch, CA",,retail,446120,Elaine's Nails,"Camino Sobrante, Orinda, CA, 94563",,,37.8844219,-122.191737,,,n_6737352374,shop=beauty
+"Antioch, CA",,retail,446120,Dipping Nails,"21 Orinda Way, Orinda, CA, 94563",,,37.8816182,-122.1875892,,,n_6750614662,shop=beauty
+"Antioch, CA",,retail,446120,Tina Nails,"144 Village Square, Orinda, CA, 94563",+1 925 2541292,,37.8830428,-122.1906262,,,n_6757698082,shop=beauty
+"Antioch, CA",,retail,452210,McCaulou's,"280 Village Square, Orinda, CA, 94563",,,37.8833927,-122.1906425,,,n_6757736985,shop=department_store
+"Antioch, CA",,retail,445292,See's Candies,,,,37.8966586,-122.0578058,,,n_6760904985,"shop=confectionery, brand=See's Candies"
+"Antioch, CA",,retail,445310,Total Wine,"4225 Rosewood Drive, Pleasanton, CA, 94588",+1 925-463-0233,https://www.totalwine.com/store-info/1121,37.6983004,-121.8744994,,,n_6815725772,"shop=alcohol, brand=Total Wine, operator=Tota Wine & More"
+"Antioch, CA",,retail,452210,Ross,"3070 West Jack London Boulevard, Livermore, CA, 94551",+1 925-449-9041,,37.6960078,-121.8463348,,,n_6816208577,"shop=department_store, brand=Ross"
+"Antioch, CA",,retail,446120,Ulta Beauty,"3090 West Jack London Boulevard, Livermore, CA, 94551",+1 925-292-6709,https://www.ulta.com/stores/livermore-ca-1385,37.6963517,-121.8475688,,,n_6816208580,"shop=beauty, brand=Ulta Beauty"
+"Antioch, CA",,retail,445110,99 Ranch Market,"2701 Stoneridge Drive, Pleasanton, CA, 94588",,,37.695495,-121.8497813,,,n_6816233137,"shop=supermarket, brand=99 Ranch Market"
+"Antioch, CA",,retail,446110,CVS Pharmacy,"4405 First Street, Livermore, CA, 94551",,https://www.cvs.com/store-locator/livermore-ca-pharmacies/4405-1st-st-livermore-ca-94551/storeid=9397,37.6967417,-121.742637,,,n_6833566595,"shop=chemist, amenity=pharmacy, brand=CVS Pharmacy"
+"Antioch, CA",,retail,452319,Dollar Tree,"4502 Las Positas Road, Livermore, CA, 94551",,https://www.dollartree.com/locations/ca/livermore/7164/,37.7004106,-121.7428604,,,n_6833579999,"shop=variety_store, brand=Dollar Tree"
+"Antioch, CA",,retail,452210,Big Lots,,,,37.9999144,-121.83891,,,n_6855684965,"shop=department_store, brand=Big Lots"
+"Antioch, CA",,retail,452319,99 Cents Only Stores,,,https://locations.99only.com/ca/antioch/discount-store-228.html,38.000259,-121.8389529,,,n_6855684966,"shop=variety_store, brand=99 Cents Only Stores"
+"Antioch, CA",,retail,446120,Saloon Elegante,"Moraga Way, Orinda, CA, 94563",,,37.878867,-122.1813963,,,n_6875925378,shop=beauty
+"Antioch, CA",,retail,445310,Galvan Family Cellars,"499 Edison Court, Fairfield, CA, 94534",+1 707 864 3606,http://www.galvanwine.com/,38.2054258,-122.1421686,,,n_6907745581,shop=wine
+"Antioch, CA",,retail,445310,Wooden Valley Winery,"4756 Suisun Valley Road, Fairfield, CA, 94534",+1 707 864 0730,https://www.woodenvalley.com/,38.2768146,-122.1131887,,,n_6907753793,shop=wine
+"Antioch, CA",,retail,445310,Tolenas Vineyards and Winery,"4185 Chadbourne Road, Fairfield, CA, 94534",+1 707 372 1434,https://www.tolenaswinery.com/,38.2451215,-122.0845856,,,n_6907753794,shop=wine
+"Antioch, CA",,retail,445310,Tenbrink Vineyards,"4185 Chadbourne Road, Fairfield, CA, 94534",+1 707 480 7334,http://www.tenbrinkvineyards.com,38.2451794,-122.0845856,,,n_6907753795,shop=wine
+"Antioch, CA",,retail,445310,Suisun Valley Filling Station,"2529 Mankas Corner Road, Fairfield, CA, 94534",+1 707 863 1555,https://www.suisunvalleyfillingstation.com/,38.2861334,-122.1066977,,,n_6907753796,shop=wine
+"Antioch, CA",,retail,445310,Suisun Creek Winery,"2434 Morrison Lane, Fairfield, CA, 94534",+1 805 704 2822,https://www.suisuncreekwinery.com/,38.2664553,-122.1147531,,,n_6907753797,shop=wine
+"Antioch, CA",,retail,445310,Seven Artisans Winery,"4341 Abernathy Road, Fairfield, CA, 94534",+1 707 771 0911,https://www.sevenartisanswinery.com/,38.2541305,-122.092761,,,n_6907753798,shop=wine
+"Antioch, CA",,retail,445310,Mangels Vineyards,"4529 Suisun Valley Road, Fairfield, CA, 94534",+1 707 410 5392,https://www.mangelsvineyards.com,38.2648727,-122.1138619,,,n_6907753799,shop=wine
+"Antioch, CA",,retail,446120,Ulta Beauty,"147 Plaza Drive, Vallejo, CA, 94591",+1 707-644-4262,https://web.facebook.com/Ulta-Beauty-1760767710890300/,38.1346119,-122.2191807,,,n_7060534515,"shop=cosmetics, brand=Ulta Beauty"
+"Antioch, CA",,retail,446120,European Wax Center,,,,37.7766038,-121.970833,,,n_7087282904,"shop=beauty, brand=European Wax Center"
+"Antioch, CA",,retail,445110,Draeger's Markets,,,,37.8012535,-121.9189336,,,n_7100878043,shop=supermarket
+"Antioch, CA",,retail,446120,Beauty Ala Mode Le Spa,,,,37.6783864,-121.7720618,,,n_7103287023,shop=beauty
+"Antioch, CA",,retail,445110,Grocery Outlet,,,,37.9539711,-122.0610372,,,n_7125325085,"shop=supermarket, brand=Grocery Outlet"
+"Antioch, CA",,retail,445110,New India Bazaar,,,,37.6908864,-121.877172,,,n_7147683285,shop=supermarket
+"Antioch, CA",,retail,445120,7-Eleven,"1208 Tennessee Street, Vallejo, CA, 94590-4624",+1 707-552-0307,https://www.7-eleven.com/locations/ca/vallejo/1208-tennessee-st-16729,38.1101943,-122.242552,,,n_7264190757,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445110,Raley's,,,,38.2459304,-122.0218487,,,n_7281177585,"shop=supermarket, brand=Raley's"
+"Antioch, CA",,retail,453110,,,,,38.2496351,-122.0618915,,,n_7281575694,shop=florist
+"Antioch, CA",,retail,445120,,,,,38.2497386,-122.0564051,,,n_7281575707,shop=convenience
+"Antioch, CA",,retail,445120,,,,,38.1407984,-122.2312029,,,n_7285402563,shop=convenience
+"Antioch, CA",,retail,445120,,,,,38.1238192,-122.227318,,,n_7287005431,shop=convenience
+"Antioch, CA",,retail,446120,European Wax Center,,+1 925 979 9392,https://locations.waxcenter.com/ca/walnutcreek/walnut-creek-0011.html,37.9174292,-122.0377291,,,n_7290190169,"shop=beauty, brand=European Wax Center"
+"Antioch, CA",,retail,446120,Blackhwak Beauty Bar,"3478 Camino Tassajara, Danville, CA, 94506",,,37.7976971,-121.9186471,,,n_7703811483,shop=beauty
+"Antioch, CA",,retail,446110,CVS Pharmacy,"3420 Camino Tassajara, Danville, CA, 94506",,https://www.cvs.com/store-locator/danville-ca-pharmacies/3420-camino-tassajara-danville-ca-94506/storeid=9296,37.797789,-121.9210755,,,n_7703818302,"shop=chemist, brand=CVS Pharmacy"
+"Antioch, CA",,retail,446120,Bollinger Nail Salon,"760 Camino Ramon, Danville, CA, 94526",,,37.8094855,-121.990327,,,n_7785228779,shop=beauty
+"Antioch, CA",,retail,446120,Sola Salons,"760 Camino Ramon, Danville, CA, 94526",,,37.8096173,-121.9906362,,,n_7785228783,"shop=beauty, brand=Sola Salons"
+"Antioch, CA",,retail,446120,,,,,37.9320388,-122.0584513,,,n_7866882637,shop=beauty
+"Antioch, CA",,retail,446120,,,,,37.9319748,-122.0584874,,,n_7866882638,shop=beauty
+"Antioch, CA",,retail,445310,Raja Liquor Wine & Spirits,"4068 East Avenue, Livermore, CA, 94550",,,37.6809179,-121.7473111,,,n_8178213206,shop=alcohol
+"Antioch, CA",,retail,453991,Spark Smoke & Vape,"4088 East Avenue, Livermore, CA, 94550",,,37.6805146,-121.7468739,,,n_8178213216,shop=tobacco
+"Antioch, CA",,retail,446120,K&D Nails Salon,"4082 East Avenue, Livermore, CA, 94550",,,37.6806685,-121.7469785,,,n_8178268618,shop=beauty
+"Antioch, CA",,retail,446120,Great Day Spa,"4080 East Avenue, Livermore, CA, 94550",,,37.6807566,-121.7469745,,,n_8178268619,shop=beauty
+"Antioch, CA",,retail,446120,,,,,38.2495811,-122.0443908,,,n_8203897850,shop=beauty
+"Antioch, CA",,retail,446120,Lily's Nails,,,,37.9340957,-122.0746534,,,n_8258689523,shop=beauty
+"Antioch, CA",,retail,445120,Cox Family Stores,39 Isabel Avenue,,,37.6513658,-121.8045368,,,n_8487401917,shop=convenience
+"Antioch, CA",,retail,445110,Big Bazaar Indian Grocery Store,"9000 Crow Canyon Road, Danville, CA, 94506",925-263-2703,,37.7979065,-121.922917,,,n_8530440618,"shop=supermarket, brand=Big Bazaar"
+"Antioch, CA",,retail,445110,Grocery Outlet,"3550 Bernal Avenue, Pleasanton, CA, 94566",+1(925)398-8649,https://groceryoutlet.com/circulars/storeid/478,37.6619214,-121.855933,,,n_8635139802,"shop=supermarket, brand=Grocery Outlet"
+"Antioch, CA",,retail,445120,7-Eleven,,,,37.960151,-121.7425299,,,n_8720243271,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445310,BevMo!,,,,37.9624966,-121.7349541,,,n_8720257879,"shop=alcohol, brand=BevMo!"
+"Antioch, CA",,retail,446120,The Lash Empire,,,,37.7640537,-121.9592567,,,n_8883337537,shop=beauty
+"Antioch, CA",,retail,446120,Madison Reed,,,,37.7627398,-121.959989,,,n_8883337550,"shop=beauty, brand=Madison Reed"
+"Antioch, CA",,retail,445120,Tower Market,,,,38.1823183,-122.137753,,,n_8887777728,shop=convenience
+"Antioch, CA",,retail,445110,Consuelito Market,"1565 Olivina Avenue, Livermore, CA, 94551",,,37.6826852,-121.7790871,,,n_8920978149,shop=supermarket
+"Antioch, CA",,retail,446120,Lavender Dreams Nail Spa,,,,37.8999163,-122.0635333,,,n_8976180208,shop=beauty
+"Antioch, CA",,retail,446110,Rite Aid,,,https://www.riteaid.com/locations/ca/alamo/130-alamo-plaza.html,37.8524196,-122.0354936,,,n_9008899252,"shop=chemist, brand=Rite Aid"
+"Antioch, CA",,retail,446120,The Lash Lounge,,,,37.8514043,-122.0362,,,n_9008899288,"shop=beauty, brand=The Lash Lounge"
+"Antioch, CA",,retail,446120,Magic Nails & Spa Inc.,,,,37.8512721,-122.0352967,,,n_9008899290,shop=beauty
+"Antioch, CA",,retail,446120,W Salon Suites,225 Alamo Plaza,,https://www.wsalonsuites.com/,37.8506846,-122.0339396,,,n_9008922850,shop=beauty
+"Antioch, CA",,retail,445310,Swirl,,,,37.6832535,-121.7696233,,,n_9106045674,shop=wine
+"Antioch, CA",,retail,445110,Grocery Outlet,"1320 Railroad Avenue, Livermore, CA",,,37.6807022,-121.7797842,,,n_9106123321,"shop=supermarket, brand=Grocery Outlet"
+"Antioch, CA",,retail,446120,Aloha Nail,,,,37.6776346,-121.7859782,,,n_9119087254,shop=beauty
+"Antioch, CA",,retail,446120,Kavalux,,,,37.6775621,-121.7860032,,,n_9119087256,shop=beauty
+"Antioch, CA",,retail,453991,,,,,37.6775302,-121.7860018,,,n_9119087257,shop=tobacco
+"Antioch, CA",,retail,445310,Anthony Liquors,,,,37.6773536,-121.7860068,,,n_9119087261,shop=alcohol
+"Antioch, CA",,retail,446120,TL Nail Spa,,,,37.6777606,-121.7846517,,,n_9119095531,shop=beauty
+"Antioch, CA",,retail,446120,Timi's Beauty Salon,,,,37.6762435,-121.7848698,,,n_9119095536,shop=beauty
+"Antioch, CA",,retail,446120,Tony's Nails,,,,37.6921053,-121.7746807,,,n_9120606733,shop=beauty
+"Antioch, CA",,retail,446120,European Wax Center,,,https://locations.waxcenter.com/ca/livermore/livermore-0238.html,37.6916416,-121.7735581,,,n_9120606739,"shop=beauty, brand=European Wax Center"
+"Antioch, CA",,retail,446120,Elite Nail Spa,,,,37.6973561,-121.772813,,,n_9120623935,shop=beauty
+"Antioch, CA",,retail,446120,Glamour Nails and Spa,,,,37.6622022,-121.7814735,,,n_9121305166,shop=beauty
+"Antioch, CA",,retail,445310,Ernie's Liquors,,,,37.6625225,-121.7812794,,,n_9121305170,shop=alcohol
+"Antioch, CA",,retail,446120,Australian Tan,,,,37.6625236,-121.781535,,,n_9121305173,shop=beauty
+"Antioch, CA",,retail,446120,Bless Threading,,,,37.6971992,-121.7741627,,,n_9123363744,shop=beauty
+"Antioch, CA",,retail,445292,See's Candies,,,,37.6961967,-121.8445946,,,n_9127179711,"shop=confectionery, brand=See's Candies"
+"Antioch, CA",,retail,445120,84 Market,,,,37.689786,-121.8051388,,,n_9133016648,shop=convenience
+"Antioch, CA",,retail,446120,Eyebrow Hub,"173 Admiral Callaghan Lane;Plaza Drive, 94591",7079174053,https://www.americasbest.com/,38.1329049,-122.221272,,,n_9147329296,shop=beauty
+"Antioch, CA",,retail,445120,Speedway,"1915 Auto Center Drive, Antioch, CA, 94509",,,38.005987,-121.8341225,,,n_9181552128,"shop=convenience, brand=Speedway"
+"Antioch, CA",,retail,446110,Rite Aid,"60 Solano Square, Benicia, CA, 94510",707-746-0229,https://www.riteaid.com/locations/ca/benicia/60-solano-square.html,38.0545825,-122.1552593,,,n_9258688693,"shop=chemist, brand=Rite Aid, operator=Riteaid"
+"Antioch, CA",,retail,445310,Jackson's,,,,37.8924553,-122.1173919,,,n_9275213200,shop=alcohol
+"Antioch, CA",,retail,445110,Grocery Outlet,,,,38.2593539,-122.0351753,,,n_9326692009,"shop=supermarket, brand=Grocery Outlet"
+"Antioch, CA",,retail,445110,Smart & Final,,,,38.2751985,-122.0359625,,,n_9326694355,"shop=supermarket, brand=Smart & Final"
+"Antioch, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/fairfield-ca-pharmacies/300-travis-blvd-fairfield-ca-94533/storeid=9371,38.2591854,-122.0360819,,,n_9326697705,"shop=chemist, amenity=pharmacy, brand=CVS Pharmacy"
+"Antioch, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/fairfield-ca-pharmacies/300-travis-blvd-fairfield-ca-94533/storeid=9371,38.2591032,-122.0360363,,,n_9326697706,"shop=chemist, brand=CVS Pharmacy"
+"Antioch, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/fairfield/2341/,38.2737372,-122.0358619,,,n_9326717041,"shop=variety_store, brand=Dollar Tree"
+"Antioch, CA",,retail,446120,,,,,38.0574105,-121.3754378,,,n_9333723168,shop=beauty
+"Antioch, CA",,retail,445120,ExtraMile,,,,38.0559403,-121.3756738,,,n_9333723180,"shop=convenience, brand=ExtraMile"
+"Antioch, CA",,retail,445292,See's Candies,,,,38.0514354,-121.3745672,,,n_9333723186,"shop=confectionery, brand=See's Candies"
+"Antioch, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/stockton/5193/,38.0513918,-121.3747683,,,n_9333723187,"shop=variety_store, brand=Dollar Tree"
+"Antioch, CA",,retail,452319,Five Below,,+1 209-340-7327,https://locations.fivebelow.com/ca/stockton/10644-trinity-parkway,38.0535429,-121.3727513,,,n_9333723195,"shop=variety_store, brand=Five Below"
+"Antioch, CA",,retail,446120,Brows Arch,,,,38.0540174,-121.3747042,,,n_9335917056,shop=beauty
+"Antioch, CA",,retail,445110,Smart & Final Extra!,"5775 Johnson Drive, Pleasanton, CA, 94588",+1 925 730-0101,https://www.smartandfinal.com/,37.6994953,-121.9064507,,,n_9419820443,"shop=supermarket, brand=Smart & Final"
+"Antioch, CA",,retail,445310,BevMo!,"5765 Johnson Drive, Pleasanton, CA, 94588",+1 925 416-2083,http://www.bevmo.com/,37.6992517,-121.9067927,,,n_9419820444,"shop=alcohol, brand=BevMo!"
+"Antioch, CA",,retail,445120,Valley Convenient Mini Mart,"5285 Crow Canyon Road, castro valley, CA, 94552",,,37.7021112,-122.047386,,,n_9438470856,shop=convenience
+"Antioch, CA",,retail,445120,7-Eleven,"17 Golf Club Road, Pleasant Hill, CA, 94523",+1 925-825-2161,https://www.7-eleven.com/locations/ca/pleasant-hill/17-golf-club-rd-14169,37.9712992,-122.0647005,,,n_9440979913,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,446120,Spa Nails & Waxing,"60 Golf Club Road, Pleasant Hill, CA, 94523",+19257981353,,37.9721382,-122.0653819,,,n_9441060898,shop=beauty
+"Antioch, CA",,retail,446120,DL Nail Spa,"710 Contra Costa Boulevard, Pleasant Hill, CA, 94523",+19254464375,,37.9710195,-122.0643852,,,n_9441060900,shop=beauty
+"Antioch, CA",,retail,453110,Dublin Floral Design,7460 San Ramon Road,+1 925 833-0587,https://www.myfloristusa.com/,37.7071238,-121.9375328,,,n_9443020600,shop=florist
+"Antioch, CA",,retail,452319,99 Cents Only Stores,,+17075538509,https://locations.99only.com/ca/vallejo/discount-store-232.html,38.1046184,-122.2158894,,,n_9461916668,"shop=variety_store, brand=99 Cents Only Stores"
+"Antioch, CA",,retail,446110,Walgreens,,+17075575974,https://www.walgreens.com/locator/walgreens-2647+springs+rd-vallejo-ca-94591/id=2575,38.1054648,-122.2072295,,,n_9461916813,"shop=chemist, brand=Walgreens"
+"Antioch, CA",,retail,445120,7-Eleven,"2580 Springs Road, Vallejo, CA, 94591-5613",+1 707-648-3058,https://www.7-eleven.com/locations/ca/vallejo/2580-springs-rd-14148,38.1062455,-122.2094593,,,n_9461916827,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,446120,Hollywood Nails,,+19256822011,,37.958189,-122.057598,,,n_9462085668,shop=beauty
+"Antioch, CA",,retail,453991,Cigarette Outlet,,+19258274518,,37.950448,-122.0605057,,,n_9462194637,shop=tobacco
+"Antioch, CA",,retail,446120,Trendy Nails Spa,,+19256872222,,37.949894,-122.0598755,,,n_9462194653,shop=beauty
+"Antioch, CA",,retail,445120,Safeway,,,,37.9714879,-122.0631898,,,n_9463786927,shop=convenience
+"Antioch, CA",,retail,446120,Elegant Nails,"480 San Ramon Valley Boulevard, Danville, CA, 94526",+19258200908,https://elegantnailsdanville.com,37.8191244,-121.9956,,,n_9586964365,shop=beauty
+"Antioch, CA",,retail,445120,ExtraMile,"Fairfield, CA, 94534",,,38.2214121,-122.1296851,,,n_9610159598,"shop=convenience, brand=ExtraMile"
+"Antioch, CA",,retail,445110,Smart & Final Extra!,460 Diablo Road,,,37.8241579,-121.9923531,,,n_9625790191,"shop=supermarket, brand=Smart & Final"
+"Antioch, CA",,retail,446120,Dolce Salon,310 Rose Street,,,37.8238873,-122.0008807,,,n_9644935490,shop=beauty
+"Antioch, CA",,retail,446120,Daniela's Nail Graphics,208 East Linda Mesa Avenue,,,37.8239283,-122.0005849,,,n_9644935496,shop=beauty
+"Antioch, CA",,retail,445210,Costco Meat Department,,,,37.7825357,-121.9727031,,,n_9647003356,shop=butcher
+"Antioch, CA",,retail,446120,OPIVU - Opulence For You Salon,111 Town and Country Drive,,,37.8140269,-121.998611,,,n_9657905630,shop=beauty
+"Antioch, CA",,retail,446120,The Brow Studio & Academy,117 Town and Country Drive,,https://thebrowstudiobycc.com,37.8136576,-121.998391,,,n_9657949692,shop=beauty
+"Antioch, CA",,retail,446120,Mist Fine Airbush Tanning,101 Town and Country Drive,,https://www.misttans.com,37.8138093,-121.9978726,,,n_9657999978,shop=beauty
+"Antioch, CA",,retail,453110,East Bay Flower Company,206 Sycamore Valley Road,,,37.8121292,-121.9971349,,,n_9665176754,shop=florist
+"Antioch, CA",,retail,445120,The Old Towne Station,1 Boone Court,,,37.8143186,-121.9956519,,,n_9665241462,shop=convenience
+"Antioch, CA",,retail,445292,Danville Chocolates,175 East Prospect Avenue,,https://www.danvillechocolates.com/,37.8223896,-121.9986726,,,n_9669093365,shop=chocolate
+"Antioch, CA",,retail,445292,Sweet Street,309 Hartz Avenue,,,37.8226047,-122.0011162,,,n_9673774598,shop=confectionery
+"Antioch, CA",,retail,446120,Danville Pinkies Nail Studio,508 Sycamore Valley Road,,,37.8133749,-121.9969199,,,n_9712691176,shop=beauty
+"Antioch, CA",,retail,446120,BR Nails,130 Sunset Drive,+19258660666,https://www.brnailsca.com,37.7616776,-121.9625105,,,n_9733634880,shop=beauty
+"Antioch, CA",,retail,446120,Utopia Tanning and Spa,158 Sunset Drive,,,37.7629989,-121.9615568,,,n_9733634887,shop=beauty
+"Antioch, CA",,retail,453110,Danville Florist & Gifts,199 East Linda Mesa Avenue,,,37.823864,-122.0002745,,,n_9736120077,shop=florist
+"Antioch, CA",,retail,445110,Super Tehran,"1112 Meadow Lane, Concord, CA, 94520",(925) 825-1500,https://super-tehran.business.site/,37.9571735,-122.0393451,,,n_9765661898,shop=supermarket
+"Antioch, CA",,retail,446120,Lashify Studio Danville,134 East Prospect Avenue,,,37.8221823,-121.999597,,,n_9769322266,shop=beauty
+"Antioch, CA",,retail,446120,VIDA Wellness Boutique,122 East Prospect Avenue,,,37.8222636,-121.9996849,,,n_9769322267,shop=beauty
+"Antioch, CA",,retail,446120,Regal Nails,,,,38.009345,-121.8681767,,,n_9815719057,"shop=beauty, brand=Regal Nails"
+"Antioch, CA",,retail,445299,The Cheese Parlor,,,,37.683548,-121.7659472,,,n_9823310604,shop=cheese
+"Antioch, CA",,retail,445120,Love's,,,,38.1177788,-121.3919726,,,n_9826816445,"shop=convenience, brand=Love's"
+"Antioch, CA",,retail,445120,Food Mart,,,,37.8109595,-121.9947031,,,n_9827401393,shop=convenience
+"Antioch, CA",,retail,446120,House of Style,,,,37.6768984,-121.7585571,,,n_9839793957,shop=beauty
+"Antioch, CA",,retail,446120,Lee Nail and Hair,,,,37.676884,-121.7581717,,,n_9839793958,shop=beauty
+"Antioch, CA",,retail,445310,Raja Liquors,,,,37.6768864,-121.7580291,,,n_9839793961,shop=alcohol
+"Antioch, CA",,retail,445110,88 Manor Supermarket,,,,37.7191893,-121.7254895,,,n_9842629556,shop=supermarket
+"Antioch, CA",,retail,453991,Smoker Friendly,,,,37.7173459,-121.724723,,,n_9842629563,shop=tobacco
+"Antioch, CA",,retail,446120,Hi Tech Nails and Spa,,,,37.7173501,-121.7249459,,,n_9842629564,shop=beauty
+"Antioch, CA",,retail,445110,Hidalgo's Market,,,,37.7052773,-121.7394918,,,n_9842654986,shop=supermarket
+"Antioch, CA",,retail,445310,Bell Liquor,,,,37.705081,-121.7391504,,,n_9842654989,shop=alcohol
+"Antioch, CA",,retail,446120,Bluebell Nails,,,,37.7051518,-121.7391884,,,n_9842654990,shop=beauty
+"Antioch, CA",,retail,446120,Bella Nail Spa,,,,37.7807921,-121.9693935,,,n_9842804110,shop=beauty
+"Antioch, CA",,retail,445110,Spice 4 Less,"1349 Oliver Road, 94534",,,38.256579,-122.0681602,,,n_9869339317,shop=supermarket
+"Antioch, CA",,retail,446191,Acai & Bowls Cafe,406 Sycamore Valley Road,+19259842636,https://www.acaiandbowls.com/,37.812883,-121.9968299,,,n_9873654453,shop=health_food
+"Antioch, CA",,retail,453110,Sister,"931 1st Street, 94510",,https://www.dolfloral.com/,38.052083,-122.1571002,,,n_9875701917,shop=florist
+"Antioch, CA",,retail,445230,Sepay Groves,"364 1st Street, 94510",707-434-8222,https://sepayoliveoil.com,38.0469426,-122.1603856,,,n_9875720717,shop=greengrocer
+"Antioch, CA",,retail,453110,,,,,38.1061468,-122.2182775,,,n_9877085851,shop=florist
+"Antioch, CA",,retail,446120,Tips N Toes Spa,500 Bollinger Canyon Way,,,37.7718226,-121.9474064,,,n_9907266303,shop=beauty
+"Antioch, CA",,retail,446120,Shobhana Beauty Studio,,,,37.7711164,-121.9479055,,,n_9907266309,shop=beauty
+"Antioch, CA",,retail,445110,Trader Joe's,"300 Market Place, San Ramon, CA, 94583",+1 925-275-8140,https://locations.traderjoes.com/ca/san-ramon/246/,37.7641577,-121.9520829,,,n_9936345018,"shop=supermarket, brand=Trader Joe's"
+"Antioch, CA",,retail,446191,Vitality Bowls San Ramon,211 Market Place,,,37.7636979,-121.9524933,,,n_9936345023,shop=health_food
+"Antioch, CA",,retail,446120,Tina's Nail Salon,170 Market Place,,,37.763387,-121.9519423,,,n_9936345025,shop=beauty
+"Antioch, CA",,retail,445120,Fast & Easy Mart,2820 Crow Canyon Road,,,37.775568,-121.9802083,,,n_9936346758,shop=convenience
+"Antioch, CA",,retail,446120,Classy Nails Spa,2830 Crow Canyon Road,,,37.7756113,-121.9800739,,,n_9936346759,shop=beauty
+"Antioch, CA",,retail,445120,Shell,,,,37.775751,-121.9797443,,,n_9936346778,"shop=convenience, brand=Shell"
+"Antioch, CA",,retail,445310,BevMo!,2425 San Ramon Valley Boulevard,,,37.7745723,-121.9789542,,,n_9936881757,"shop=alcohol, brand=BevMo!"
+"Antioch, CA",,retail,446110,CVS Pharmacy,2455 San Ramon Valley Boulevard,,https://www.cvs.com/store-locator/san-ramon-ca-pharmacies/2455-san-ramon-valley-blvd-san-ramon-ca-94583/storeid=9868,37.7740381,-121.9777932,,,n_9936881760,"shop=chemist, brand=CVS Pharmacy"
+"Antioch, CA",,retail,446120,Princess Nails & Reflexology,,,,37.7736918,-121.9772833,,,n_9936988746,shop=beauty
+"Antioch, CA",,retail,445110,Central Market,,,,38.2423013,-121.5161558,,,n_9946419744,shop=supermarket
+"Antioch, CA",,retail,445120,Big Store,,,,38.2403836,-121.5154383,,,n_9946545810,shop=convenience
+"Antioch, CA",,retail,446120,West Side Salon,407 Sycamore Valley Road West,,,37.8106779,-121.9963429,,,n_9954713623,shop=beauty
+"Antioch, CA",,retail,446120,Livery Nails,207 Sycamore Valley Road West,,,37.8104552,-121.995742,,,n_9954713627,shop=beauty
+"Antioch, CA",,retail,446120,Danville Brows,,,,37.8222645,-122.0009232,,,n_9960370103,shop=beauty
+"Antioch, CA",,retail,446120,Tana's Nail Salon,,,,37.8234023,-122.002066,,,n_9960384081,shop=beauty
+"Antioch, CA",,retail,446120,Makeup by Sarah Fendrich,,,,37.8210975,-121.9983496,,,n_9960432194,shop=cosmetics
+"Antioch, CA",,retail,446120,Blackhawk Nails & Spa,,,,37.7984462,-121.9234464,,,n_9965399800,shop=beauty
+"Antioch, CA",,retail,445310,Village Wines & Liquors,,,,37.7983997,-121.9234481,,,n_9965399801,shop=wine
+"Antioch, CA",,retail,453110,Cattails Florist,,,,37.7981312,-121.9233541,,,n_9965399807,shop=florist
+"Antioch, CA",,retail,446110,Walgreens,"6570 Lone Tree Way, Brentwood, CA, 94513",,https://www.walgreens.com/locator/walgreens-6570+lone+tree+way-brentwood-ca-94513/id=9978,37.9624873,-121.7319945,,,n_9998360179,"shop=chemist, brand=Walgreens"
+"Antioch, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/antioch/8888/,37.9639878,-121.734096,,,n_9998360189,"shop=variety_store, brand=Dollar Tree"
+"Antioch, CA",,retail,452319,Five Below,,+1 925-255-0118,https://locations.fivebelow.com/ca/antioch/5739-lone-tree-way,37.9633633,-121.7395459,,,n_9998360192,"shop=variety_store, brand=Five Below"
+"Antioch, CA",,retail,445110,Raley's,"2400 Sand Creek Road, Brentwood, 94513",,,37.942756,-121.7364623,,,n_9998637638,"shop=supermarket, brand=Raley's"
+"Antioch, CA",,retail,452210,Ross,"2520 Sand Creek Road, Brentwood, CA, 94513",+1 925-513-3893,,37.9420623,-121.738494,,,n_9998637640,"shop=department_store, brand=Ross"
+"Antioch, CA",,retail,452210,TJ Maxx,"2450 Sand Creek Road, Brentwood, 94513",,,37.94126,-121.7378715,,,n_9998637676,"shop=department_store, brand=TJ Maxx"
+"Antioch, CA",,retail,446120,Studio 9110 Nail Salon,9110 Alcosta Boulevard,,,37.7289839,-121.930158,,,n_10008285398,shop=beauty
+"Antioch, CA",,retail,446120,Threading Plus Beauty Salon,,,,37.7291145,-121.9299782,,,n_10008285401,shop=beauty
+"Antioch, CA",,retail,446120,Elite Nail Spa,"1864 Ygnacio Valley Road, Walnut Creek, CA, 94598",+1 925 930 6784,https://elitenailspaca.com/,37.9183662,-122.0364574,,,n_10020636409,shop=beauty
+"Antioch, CA",,retail,446120,Salon One 50,"3189 Danville Blvd, #150, Alamo, CA, 94507",925-208-1345,http://www.salonone50.com,37.8501198,-122.0335493,,,n_10056094797,"shop=beauty, operator=Jim Mcclanahan"
+"Antioch, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/suisun-city/801-sunset-ave-32180,38.2496523,-122.0200391,,,n_10059992538,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445120,ampm,,,,38.2449936,-122.0308317,,,n_10059992555,"shop=convenience, brand=ampm"
+"Antioch, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/suisun-city/3973/,38.2442685,-122.0223223,,,n_10060007191,"shop=variety_store, brand=Dollar Tree"
+"Antioch, CA",,retail,446120,Tans Plus Med Spa,3000 Danville Boulevard,,,37.852583,-122.0335344,,,n_10060225503,shop=beauty
+"Antioch, CA",,retail,446120,Alamo Nails,3000 Danville Boulevard,,,37.8527983,-122.0336855,,,n_10060225508,shop=beauty
+"Antioch, CA",,retail,445120,Circle K,,,,38.2497877,-122.0528601,,,n_10062517905,"shop=convenience, brand=Circle K"
+"Antioch, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/suisun-city/115-sunset-ave-39189,38.244019,-122.0171765,,,n_10062764047,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445120,ExtraMile,,,,38.2441077,-122.0180557,,,n_10062764064,"shop=convenience, brand=ExtraMile"
+"Antioch, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/suisun-city/301-walters-rd-38961,38.2402516,-121.989121,,,n_10062774167,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,446120,Sis Nail & Lash Studio,1542A Newell Avenue,,,37.8933766,-122.0596919,,,n_10065946935,shop=beauty
+"Antioch, CA",,retail,446120,Urs Threading,1540 Newell Avenue,,,37.8934469,-122.0595933,,,n_10065946936,shop=beauty
+"Antioch, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/vacaville/2490-nut-tree-rd-22837,38.3357872,-121.9527833,,,n_10067495446,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445120,ampm,,,,38.3349167,-121.9528218,,,n_10067495456,"shop=convenience, brand=ampm"
+"Antioch, CA",,retail,445120,ExtraMile,,,,38.3461331,-121.9734319,,,n_10067543628,"shop=convenience, brand=ExtraMile"
+"Antioch, CA",,retail,445120,Shell,,,,37.7226593,-121.9417599,,,n_10115193447,"shop=convenience, brand=Shell, operator=Cox Family Stores"
+"Antioch, CA",,retail,446120,Lashes By Kailey,,,,37.7238374,-121.9419764,,,n_10115193463,shop=beauty
+"Antioch, CA",,retail,446120,Avatar Nails and Spa,,,,37.7238919,-121.9419799,,,n_10115193464,shop=beauty
+"Antioch, CA",,retail,446120,Lashed,,,,37.723951,-121.9419776,,,n_10115193465,shop=beauty
+"Antioch, CA",,retail,446120,Sola Salons,,,,37.7237871,-121.9430673,,,n_10115193472,"shop=beauty, brand=Sola Salons"
+"Antioch, CA",,retail,446120,Touchin' Up Hair Color Bar,,,,37.7244921,-121.9443008,,,n_10115205417,shop=beauty
+"Antioch, CA",,retail,446120,Australian Tan,,,,37.7236196,-121.9442858,,,n_10115205421,shop=beauty
+"Antioch, CA",,retail,445292,Chocolate Works East Bay,,,,37.7231575,-121.9436787,,,n_10115205422,shop=chocolate
+"Antioch, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/concord-ca-pharmacies/4424-treat-blvd-concord-ca-94521/storeid=9509,37.9625525,-121.9929487,,,n_10138980001,"shop=chemist, brand=CVS Pharmacy"
+"Antioch, CA",,retail,445110,Sri Venkateswara Grocery & Kitcehn,5690 Stoneridge Drive,,,37.6915117,-121.8905668,,,n_10160662617,shop=grocery
+"Antioch, CA",,retail,453991,Alcosta Smoke Shop,,,,37.7292243,-121.9316458,,,n_10292137172,shop=tobacco
+"Antioch, CA",,retail,453110,Enchanted Florist & Gifts,,,,37.7303129,-121.929821,,,n_10292137174,shop=florist
+"Antioch, CA",,retail,446120,Good Nails & Hair,,,,37.7227807,-121.9413217,,,n_10296457177,shop=beauty
+"Antioch, CA",,retail,446120,Paradiso,,,,37.819631,-121.9955031,,,n_10301385715,shop=beauty
+"Antioch, CA",,retail,445120,7-Eleven,"2525 North Main Street, Walnut Creek, CA, 94597",+1 925-937-0166,https://www.7-eleven.com/locations/ca/walnut-creek/2525-n-main-st-14166,37.9178518,-122.0658314,,,n_10302060596,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,446120,Timeless Beauty Bar,,,,37.9178702,-122.066177,,,n_10302060599,shop=beauty
+"Antioch, CA",,retail,446120,Orange Blossom Spa,12131 Alcosta Boulevard,925-230-8248,,37.7537915,-121.9394911,,,n_10675626351,shop=beauty
+"Antioch, CA",,retail,445120,7-Eleven,"2255 Tennessee Street, Vallejo, CA, 94591",+1 707-561-0940,https://www.7-eleven.com/locations/ca/vallejo/2255-tennessee-st-39058,38.1091881,-122.2278529,,,n_10698712447,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,446120,Lush,,,,37.8953559,-122.057445,,,n_10708238193,"shop=cosmetics, brand=Lush"
+"Antioch, CA",,retail,446120,Aveda,,,,37.8953656,-122.057666,,,n_10708238202,"shop=cosmetics, brand=Aveda"
+"Antioch, CA",,retail,446120,L'Occitane,,,,37.8955317,-122.057814,,,n_10708243913,"shop=cosmetics, brand=L'Occitane"
+"Antioch, CA",,retail,446120,Bath & Body Works,,,,37.8958804,-122.057363,,,n_10708243916,"shop=cosmetics, brand=Bath & Body Works"
+"Antioch, CA",,retail,452210,Marshalls,,,,37.9428699,-122.057684,,,n_10755155842,"shop=department_store, brand=Marshalls"
+"Antioch, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/pleasant-hill/1226/,37.9424042,-122.057491,,,n_10755155843,"shop=variety_store, brand=Dollar Tree"
+"Antioch, CA",,retail,446120,Avalon Nail Spa,,,,37.9619407,-122.0785232,,,n_10755155846,shop=beauty
+"Antioch, CA",,retail,446120,Sephora,,,,37.896245,-122.059231,,,n_10759612774,"shop=cosmetics, brand=Sephora"
+"Antioch, CA",,retail,446120,Aesop,,,,37.8958746,-122.058006,,,n_10759612775,"shop=cosmetics, brand=Aesop"
+"Antioch, CA",,retail,446120,Saje,,,,37.896227,-122.0586,,,n_10759612784,"shop=cosmetics, brand=Saje"
+"Antioch, CA",,retail,446120,Madison Reed,,,,37.8964375,-122.057628,,,n_10759612800,"shop=beauty, brand=Madison Reed"
+"Antioch, CA",,retail,446120,New York Nails,,,,37.8490277,-122.0315963,,,n_10760441989,shop=beauty
+"Antioch, CA",,retail,453991,MVP Smoke Shop,"2951 Harbor Street, Pittsburg, CA, 94565",,,38.0081235,-121.8856157,,,n_10913702254,shop=tobacco
+"Antioch, CA",,retail,446120,Nails Palace,,,,38.0082388,-121.8857158,,,n_10913702255,shop=beauty
+"Antioch, CA",,retail,453110,Pittsburg Florist & Gifts,,,,38.0068957,-121.8890029,,,n_10914501174,shop=florist
+"Antioch, CA",,retail,445310,Rice Wine & Liquors,,,,38.0083203,-121.8912345,,,n_10914541735,shop=alcohol
+"Antioch, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/pittsburg/1556/,38.0086205,-121.8912126,,,n_10914541736,"shop=variety_store, brand=Dollar Tree"
+"Antioch, CA",,retail,445110,La Superior Mercados,,,,38.0090389,-121.8910642,,,n_10914541739,shop=supermarket
+"Antioch, CA",,retail,446110,Wallgreens,,,,38.0096867,-121.8914916,,,n_10914541755,shop=chemist
+"Antioch, CA",,retail,446120,Shamei Skin Care,,,,37.7702499,-121.9725415,,,n_10927686280,shop=beauty
+"Antioch, CA",,retail,446120,Lana's Nail Spa,,,,37.7712471,-121.9741448,,,n_10927686290,shop=beauty
+"Antioch, CA",,retail,453991,Blue Cave Smokeshop,,,,37.7743636,-121.9747456,,,n_10943292255,shop=tobacco
+"Antioch, CA",,retail,446120,Nails for You,,,,37.9385945,-122.0241697,,,n_10969870007,shop=beauty
+"Antioch, CA",,retail,445110,WinCo Foods,,,,38.0113991,-121.8576852,,,n_11018687792,"shop=supermarket, brand=WinCo Foods"
+"Antioch, CA",,retail,445120,,,,,38.2418449,-121.5140997,,,n_11035968909,shop=convenience
+"Antioch, CA",,retail,446120,Relax Nails & Spa,,,,38.2637568,-122.0504066,,,n_11100437775,shop=beauty
+"Antioch, CA",,retail,446120,Pro Nails,762-A Admiral Callaghan Lane,,,38.1246775,-122.2267276,,,n_11147725086,"shop=beauty, brand=Pro Nails"
+"Antioch, CA",,retail,452319,Hallmark Store,,,,37.6762416,-121.8750775,,,n_11168764296,shop=variety_store
+"Antioch, CA",,retail,445120,Discount Cigarettes,,,,38.1338808,-122.2213862,,,n_11173253438,shop=convenience
+"Antioch, CA",,retail,446120,Jen Woodburn - Facial Spa,306 Diablo Road,+19255757013,https://www.jenwoodburn.com,37.8232246,-121.9978644,,,n_11247546379,shop=beauty
+"Antioch, CA",,retail,446110,Rite Aid,"Lone Tree Way, antioch, CA, 94531",,https://www.riteaid.com/locations/ca/antioch/4100-lone-tree-way.html,37.9706701,-121.7958662,,,n_11253655723,"shop=chemist, brand=Rite Aid"
+"Antioch, CA",,retail,452210,dd's Discounts,"Lone Tree Way, Antioch, CA, 94531",,,37.9656564,-121.783314,,,n_11253661826,"shop=department_store, brand=dd's Discounts"
+"Antioch, CA",,retail,452210,Ross,"2250 Monument Boulevard, Concord, CA, 94520",+1 925-363-3504,,37.9575768,-122.0358115,,,n_11287043503,"shop=department_store, brand=Ross"
+"Antioch, CA",,retail,452210,dd's Discounts,,,,37.9572931,-122.0356475,,,n_11287043504,"shop=department_store, brand=dd's Discounts"
+"Antioch, CA",,retail,446120,Ulta Beauty,"155 Crescent Plaza, Pleasant Hill, CA, 94523",+1 925-329-3975,https://www.ulta.com/stores/pleasant-hill-ca-1442,37.9461791,-122.0633842,,,n_11303303534,"shop=cosmetics, brand=Ulta Beauty"
+"Antioch, CA",,retail,445110,Namaste Plaza Indian Supermarket,,,,37.78125,-121.9790369,,,n_11359314699,shop=supermarket
+"Antioch, CA",,retail,446120,Lotus Beauty Salon,,,,37.7816016,-121.9799451,,,n_11377220619,shop=beauty
+"Antioch, CA",,retail,446120,X Eye Spy,,,,37.8521157,-122.0331007,,,n_11397568828,shop=beauty
+"Antioch, CA",,retail,445292,See's Candies,,,,37.7798095,-121.9720783,,,n_11408662932,"shop=confectionery, brand=See's Candies"
+"Antioch, CA",,retail,446120,Fashion Nail Salon,,,,37.7796743,-121.9716717,,,n_11408662937,shop=beauty
+"Antioch, CA",,retail,453110,Elegant Flowers & Gifts,,,,37.779479,-121.9710587,,,n_11408662947,shop=florist
+"Antioch, CA",,retail,446191,IVX Health,,,,37.7778408,-121.9684521,,,n_11409260615,shop=health_food
+"Antioch, CA",,retail,446120,European Wax Center,,,https://locations.waxcenter.com/ca/sanramon/san-ramon-0047.html,37.7784471,-121.9687245,,,n_11409260617,"shop=beauty, brand=European Wax Center"
+"Antioch, CA",,retail,446120,Betty's Nail Salon,,,,37.7785113,-121.9687732,,,n_11409260618,shop=beauty
+"Antioch, CA",,retail,453991,Smooth Leaf Tobacco,12903 Alcosta Boulevard,,,37.7787316,-121.963242,,,n_11409373247,shop=tobacco
+"Antioch, CA",,retail,446120,Bollinger Nail Salon,,9254844300,,37.6583826,-121.876855,,,n_11442429523,shop=beauty
+"Antioch, CA",,retail,446120,Pretty Please Studio,"2330 San Ramon Valley Boulevard, San Ramon, CA, 94583",+1-415-320-0092,https://prettypleasestudio.com/,37.7770278,-121.9773465,,,n_11451518409,shop=cosmetics
+"Antioch, CA",,retail,445110,Vijetha Indian Super Market,2556 San Ramon Valley Boulevard,,,37.772365,-121.9735444,,,n_11451705199,"shop=supermarket, operator=Swagruha Foods"
+"Antioch, CA",,retail,446120,Painted Nails and Spa,,,,37.7730907,-121.9740014,,,n_11451705207,shop=beauty
+"Antioch, CA",,retail,445310,Beer Area Liquors,,,,37.7731454,-121.9740372,,,n_11451705208,shop=alcohol
+"Antioch, CA",,retail,445120,ampm,,,,38.005717,-121.7501552,,,n_11467334943,"shop=convenience, brand=ampm"
+"Antioch, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/brentwood/6457/,37.926703,-121.7223941,,,n_11471091227,"shop=variety_store, brand=Dollar Tree"
+"Antioch, CA",,retail,445120,Chevron,,,,37.9248749,-121.7055923,,,n_11471313010,"shop=convenience, brand=Chevron"
+"Antioch, CA",,retail,445110,Grocery Outlet,,,,37.9451802,-121.6954422,,,n_11472341360,"shop=supermarket, brand=Grocery Outlet"
+"Antioch, CA",,retail,445120,ampm,,,,37.9546141,-121.6952446,,,n_11474765941,"shop=convenience, brand=ampm"
+"Antioch, CA",,retail,452210,Big Lots,"1500 Oliver Road, Fairfield, CA, 94534",+1 707-430-5085,https://local.biglots.com/ca/fairfield/1500-oliver-rd,38.2598541,-122.0682517,,,n_11474794997,"shop=department_store, brand=Big Lots"
+"Antioch, CA",,retail,445120,Rotten Robbie,,,,37.9622654,-121.725997,,,n_11474843460,"shop=convenience, brand=Rotten Robbie"
+"Antioch, CA",,retail,452210,dd's Discounts,,,,38.2747048,-122.0356596,,,n_11548913634,"shop=department_store, brand=dd's Discounts"
+"Antioch, CA",,retail,452319,99 Cents Only Stores,,,,38.2749212,-122.0356527,,,n_11548913635,"shop=variety_store, brand=99 Cents Only Stores"
+"Antioch, CA",,retail,445120,ampm,,,,38.2711431,-122.0346619,,,n_11548913647,"shop=convenience, brand=ampm"
+"Antioch, CA",,retail,452319,Family Dollar,,,,38.1617373,-121.6986766,,,n_11559093116,"shop=variety_store, brand=Family Dollar"
+"Antioch, CA",,retail,453991,,,,,38.1606837,-121.6944426,,,n_11559093119,shop=tobacco
+"Antioch, CA",,retail,445120,Lewis Grocery,,,,37.6841984,-121.7724317,,,n_11583025630,shop=convenience
+"Antioch, CA",,retail,452210,dd's Discounts,,,,38.0114804,-121.8610502,,,n_11593212866,"shop=department_store, brand=dd's Discounts"
+"Antioch, CA",,retail,453991,Ashland Smoke Shop,2931 North Main Street,,,37.9271297,-122.0625326,,,n_11654891811,shop=tobacco
+"Antioch, CA",,retail,445120,7-Eleven,"2455 Olivera Road, Concord, CA, 94520-1661",+1 925-685-5920,https://www.7-eleven.com/locations/ca/concord/2455-olivera-rd-14197,37.9953292,-122.0324868,,,n_11664527018,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445310,Cork & Bottle,,,,37.9941694,-122.032447,,,n_11664527058,shop=alcohol
+"Antioch, CA",,retail,446120,Mrs. Lash Beauty Bar,"915 Main Street, Pleasanton, CA, 94566",9252733368,https://mrslashbeautybarllc.com,37.666027,-121.8742774,,,n_11670140510,shop=cosmetics
+"Antioch, CA",,retail,446120,Restore Hyper Wellness,"40 Crescent Drive, Pleasant Hill, CA, 94523",1-925-276-9334,https://www.restore.com/,37.9464439,-122.0613013,,,n_11771731540,"shop=beauty, brand=Restore Hyper Wellness"
+"Antioch, CA",,retail,445120,Power Market,,,,38.2435996,-122.1227452,,,n_11776507190,shop=convenience
+"Antioch, CA",,retail,446120,Maximum Tanning,,,,37.9082944,-122.0619934,,,n_11781494346,shop=beauty
+"Antioch, CA",,retail,445292,Cartoon Candy Kitchen,,,,38.1384607,-122.2333444,,,n_11820323682,shop=confectionery
+"Antioch, CA",,retail,446120,Lotus Nails,,,,37.9265729,-122.0643043,,,n_11828996179,shop=beauty
+"Antioch, CA",,retail,446120,Glamour Salon Spa,,,,37.9283941,-122.0620361,,,n_11829009214,shop=beauty
+"Antioch, CA",,retail,445110,Tajrish Bazaar,,,,37.9289424,-122.0621435,,,n_11829009216,shop=supermarket
+"Antioch, CA",,retail,446120,PT Salon,,,,37.7752981,-121.9230123,,,n_11954818526,shop=beauty
+"Antioch, CA",,retail,446120,Beau & Bella - A Modern Day Spa,,,,37.7752334,-121.9227667,,,n_11954818528,shop=beauty
+"Antioch, CA",,retail,446120,Luxe Beauty by Jenna,,,,37.8001139,-121.9201424,,,n_11959608105,shop=beauty
+"Antioch, CA",,retail,446120,Phenix Salon Suites Danville,,,,37.8002933,-121.9200077,,,n_11959608107,shop=beauty
+"Antioch, CA",,retail,446120,Nails4U Salon & Spa,,,,37.800147,-121.9187461,,,n_11959626581,shop=beauty
+"Antioch, CA",,retail,452319,Grocery Outlet,7991 Amador Valley Boulevard,+1 925 557-1361,https://www.groceryoutlet.com/,37.706867,-121.9362111,,,n_11965875499,shop=general
+"Antioch, CA",,retail,445110,Fresh Meat Factory,"4000 Pimlico Dr, Pleasanton, CA, 94588",+1-925-666-5051,,37.7000113,-121.8696278,,,n_12069981201,"shop=supermarket, operator=Fresh Meat Factory"
+"Antioch, CA",,retail,446120,Orchidee Nail Spa,,,,37.6632034,-121.8748475,,,n_12089845616,shop=beauty
+"Antioch, CA",,retail,445310,The Wine Steward,,,,37.6622766,-121.8752271,,,n_12090715147,shop=wine
+"Antioch, CA",,retail,446120,Good Common Sense Naturals,,,,37.6619236,-121.8749736,,,n_12090716655,shop=cosmetics
+"Antioch, CA",,retail,445292,Gourmet Works,,,,37.6597987,-121.8760753,,,n_12090778339,shop=confectionery
+"Antioch, CA",,retail,446120,Pleasanton Beauty Plus,,,,37.691391,-121.8770992,,,n_12090778995,shop=beauty
+"Antioch, CA",,retail,445110,Apna Market,,,,37.6896049,-121.9025185,,,n_12090801007,shop=supermarket
+"Antioch, CA",,retail,446120,JC Nails Spa,,,,37.6893205,-121.9024796,,,n_12090801009,shop=beauty
+"Antioch, CA",,retail,446120,Superb Nails,,,,37.6827701,-121.9048936,,,n_12090826091,shop=beauty
+"Antioch, CA",,retail,445310,Perry's,,,,37.6772253,-121.8756978,,,n_12090906394,shop=alcohol
+"Antioch, CA",,retail,445110,Kumar Market & Kitchen,,,,37.6769228,-121.8762879,,,n_12090906396,shop=supermarket
+"Antioch, CA",,retail,446120,Preet Brows,,,,37.6771616,-121.8762825,,,n_12090906397,shop=beauty
+"Antioch, CA",,retail,453991,Cigars Tobacco Hut,,,,37.6780416,-121.8749468,,,n_12090906408,shop=tobacco
+"Antioch, CA",,retail,446191,Valley Health Mill,,,,37.6790903,-121.8761175,,,n_12090906414,shop=health_food
+"Antioch, CA",,retail,446120,Aila aesthetics,,9253137780,,37.6631403,-121.8719401,,,n_12103411414,shop=beauty
+"Antioch, CA",,retail,446120,fusion 3 Salon,722 Main Street,,,37.663133,-121.8744904,,,n_12103411416,shop=beauty
+"Antioch, CA",,retail,445230,Kumar Market,,,,37.6769774,-121.8762957,,,n_12103411451,shop=greengrocer
+"Antioch, CA",,retail,446120,TN Nails Spa,,,,37.6792309,-121.8754087,,,n_12150333184,shop=beauty
+"Antioch, CA",,retail,445120,76,,,,37.8785044,-122.1807261,,,n_12152183750,"shop=convenience, brand=76"
+"Antioch, CA",,retail,445120,Shell,,,,37.8805024,-122.186106,,,n_12152380009,"shop=convenience, brand=Shell"
+"Antioch, CA",,retail,445120,7-Eleven,,,,37.9069264,-122.0596614,,,n_12280371943,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,446120,Walnut Creek Nails & Tan,,,,37.9260104,-122.0172126,,,n_12316359647,shop=beauty
+"Antioch, CA",,retail,445110,Food 4 Less,,,,38.2635699,-122.0355155,,,n_12345229724,"shop=supermarket, brand=Food 4 Less"
+"Antioch, CA",,retail,445310,Sips,94510,415-963-2292,https://sendsips.com/,38.0502693,-122.1580369,,,n_12470316701,shop=alcohol
+"Antioch, CA",,retail,446120,Gaia Nails,"834 Southampton Road, 94510",,,38.0658827,-122.1658659,,,n_12477123602,shop=beauty
+"Antioch, CA",,retail,445120,Come N Go,,,,38.1063967,-122.2171366,,,n_12517663646,shop=convenience
+"Antioch, CA",,retail,452319,Dollar Tree,,,,38.1051839,-122.2153017,,,n_12517678077,"shop=variety_store, brand=Dollar Tree"
+"Antioch, CA",,retail,453991,,,,,37.9934624,-122.1022103,,,n_12557799166,shop=tobacco
+"Antioch, CA",,retail,446120,Glamour Nail Spa,"4288 Dublin Boulevard, Dublin, CA, 94568",+19258282576,https://glamournailspa.herokuapp.com/,37.7045181,-121.8751586,,,n_12591967346,shop=beauty
+"Antioch, CA",,retail,446120,Element Spa,"4288 Dublin Boulevard, Dublin, CA, 94568",+19258339338,https://elementspa.net/,37.7045507,-121.8752455,,,n_12591967348,shop=beauty
+"Antioch, CA",,retail,445110,India Cash & Carry,4040 Pimlico Drive,,https://www.indiacashandcarry.com/,37.6996805,-121.8705235,,,n_12726847201,shop=grocery
+"Antioch, CA",,retail,445110,Vijetha Indian Super Market,"6040 Dougherty Road, 94568",,https://www.vijethagrocery.com/,37.707385,-121.9111317,,,n_12726847301,shop=grocery
+"Antioch, CA",,retail,445110,Foodle Market,7182 Regional Street,,,37.7042097,-121.935955,,,n_12832853962,shop=supermarket
+"Antioch, CA",,retail,445110,Grocery Outlet,,,,37.998927,-121.8467436,,,n_12862025569,"shop=supermarket, brand=Grocery Outlet"
+"Antioch, CA",,retail,445110,Diablo Foods,,,,37.890762,-122.1246006,,,n_12878460158,shop=supermarket
+"Antioch, CA",,retail,446110,CVS Pharmacy,,,,37.8907641,-122.125083,,,n_12878460159,"shop=chemist, brand=CVS Pharmacy"
+"Antioch, CA",,retail,445120,Chevron,,,,37.8914182,-122.1261073,,,n_12878460166,"shop=convenience, brand=Chevron"
+"Antioch, CA",,retail,445120,,,,,37.8919332,-122.1176103,,,n_12878460171,shop=convenience
+"Antioch, CA",,retail,446120,Sculptations Boutique,,9253819300,,37.6612493,-121.8752853,,,n_12904106031,shop=beauty
+"Antioch, CA",,retail,446120,Haus Of Beauty,87 West Neal Street,9254257233,https://www.hausofbeauty.us,37.6603628,-121.8748567,,,n_12904106071,shop=beauty
+"Antioch, CA",,retail,453110,Livermore Valley Florist,,,,37.6807722,-121.7682083,,,n_12978503546,shop=florist
+"Antioch, CA",,retail,445110,Hidalgo Little Market,,,,37.6834053,-121.770748,,,n_12978828331,shop=supermarket
+"Antioch, CA",,retail,445110,Rice N Spice Indian Supermarket,,,,37.6618872,-121.779436,,,n_12981474210,shop=supermarket
+"Antioch, CA",,retail,445292,See's Candy,,,,37.94485,-122.0568432,,,n_12998419401,shop=confectionery
+"Antioch, CA",,retail,446120,Orion Optical Vision and style,,,,37.9714741,-122.0590616,,,n_13024748503,shop=cosmetics
+"Antioch, CA",,retail,446120,Sephora,,,,37.9716196,-122.0591143,,,n_13024773801,shop=cosmetics
+"Antioch, CA",,retail,445110,Frontline Electrical Services,"3195 Park Road, Benicia, CA, 94510",+1 800-945-0268,https://frontlineproservices.com/,38.0652735,-122.1327538,,,n_13044298689,shop=supermarket
+"Antioch, CA",,retail,453991,Leeland's Shop,,,,37.976446,-122.0372738,,,n_13076899829,shop=tobacco
+"Antioch, CA",,retail,452210,TJ Maxx,"Pleasant Hill Road, Pleasant Hill, CA, 94523",,,37.9547805,-122.0904201,,,w_23871297,"shop=department_store, brand=TJ Maxx"
+"Antioch, CA",,retail,445110,Target,"4300 Las Positas Road, Livermore, CA, 94551",+1 925-606-1445,https://www.target.com/sl/livermore/828,37.7013165,-121.7468131,,,w_24279464,"shop=supermarket, brand=Target"
+"Antioch, CA",,retail,452210,Walmart,"2700 Las Positas Road, Livermore, CA, 94551",+1 925-455-0215,https://www.walmart.com/store/1972-livermore-ca,37.6992494,-121.7680156,,,w_24302658,"shop=department_store, brand=Walmart, operator=Walmart"
+"Antioch, CA",,retail,445110,Safeway,"710 Bancroft Road, Walnut Creek, CA, 94598",+1 925-937-8537,https://local.safeway.com/safeway/ca/walnut-creek/710-bancroft-rd.html,37.9282988,-122.0393263,,,w_31252986,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,445110,Safeway,"2 Camino Sobrante, Orinda, CA, 94563",+1 925-254-8792,https://local.safeway.com/safeway/ca/orinda/2-camino-sobrante.html,37.8837428,-122.1909753,,,w_31424109,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,452210,Walmart,"2203 Loveridge Road, Pittsburg, CA, 94565",+1 925-427-2022,https://www.walmart.com/store/1615-pittsburg-ca,38.0089728,-121.8681802,,,w_31441569,"shop=department_store, brand=Walmart, operator=Walmart"
+"Antioch, CA",,retail,452210,Walmart,"1021 Arnold Drive, Martinez, CA, 94553",+1 925-313-5716,https://www.walmart.com/store/3493-martinez-ca,37.9968812,-122.1095126,,,w_31458396,"shop=department_store, brand=Walmart, operator=Walmart"
+"Antioch, CA",,retail,445110,Safeway,"600 North Broadway, Walnut Creek, CA, 94596",+1 925-935-9205,https://local.safeway.com/safeway/ca/walnut-creek/600-s-broadway.html,37.8981286,-122.0566406,,,w_31475157,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,445110,Walmart Supercenter,"4893 Lone Tree Way, Antioch, CA, 94531",+1 925-755-0900,https://www.walmart.com/store/2697-antioch-ca,37.963507,-121.7617382,,,w_31523346,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Antioch, CA",,retail,445110,Safeway,"3365 Deer Valley Road, Antioch, CA, 94531",+1 925-706-4150,https://local.safeway.com/safeway/ca/antioch/3365-deer-valley-rd.html,37.9882732,-121.7842908,,,w_31523844,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,452210,Target,"1871 North Main Street, Walnut Creek, CA, 94596-4106",+1 925-979-0083,https://www.target.com/sl/walnut-creek/1208,37.904426,-122.0647255,,,w_31740117,"shop=department_store, brand=Target"
+"Antioch, CA",,retail,452210,Target,"560 Contra Costa Boulevard, Pleasant Hill, CA, 94523-1216",(925) 685-6069,https://www.target.com/sl/pleasant-hill/330,37.9768911,-122.0671962,,,w_31740276,"shop=department_store, brand=Target"
+"Antioch, CA",,retail,452210,Burlington,"568 Contra Costa Boulevard, Pleasant Hill, CA, 94523",+1 925-202-0176,https://stores.burlington.com/ca/pleasant-hill/294,37.9759798,-122.0666522,,,w_31740279,"shop=department_store, brand=Burlington"
+"Antioch, CA",,retail,452210,Target,"2610 Bishop Drive, San Ramon, CA, 94583",+1 925-277-0202,https://www.target.com/sl/san-ramon/949,37.7621755,-121.9643587,,,w_31774331,"shop=department_store, brand=Target"
+"Antioch, CA",,retail,446110,Rite Aid,"Orinda Way, Orinda, CA, 94563",,https://www.riteaid.com/locations/ca/orinda/27-orinda-way.html,37.8828036,-122.1894534,,,w_31777558,"shop=chemist, brand=Rite Aid"
+"Antioch, CA",,retail,452210,Target,"5769 Lone Tree Way, Antioch, CA, 94531-8587",+1 925-752-0002,https://www.target.com/sl/antioch-slatten-ranch/1819,37.9645143,-121.7380368,,,w_31779647,"shop=department_store, brand=Target"
+"Antioch, CA",,retail,452210,Big Lots,"2060 Monument Boulevard, Concord, CA, 94520",+1 925-689-5471,https://local.biglots.com/ca/concord/2060-monument-blvd,37.956251,-122.0373067,,,w_31828024,"shop=department_store, brand=Big Lots"
+"Antioch, CA",,retail,445110,Cardenas,"2100 Railroad Avenue, Pittsburg, CA",9254271697,cardenasmarkets.com,38.0163201,-121.8912923,,,w_31899618,"shop=supermarket, brand=Cardenas"
+"Antioch, CA",,retail,445110,Lucky,,,,38.0077732,-122.2703954,,,w_31963450,"shop=supermarket, brand=Lucky"
+"Antioch, CA",,retail,445110,Grocery Outlet,"1840 Willow Pass Road, Concord, CA, 94520",,,37.9742856,-122.037685,,,w_32650192,"shop=supermarket, brand=Grocery Outlet"
+"Antioch, CA",,retail,445120,ampm,863 North Vasco Road,,,37.7115861,-121.7238345,,,w_37260912,"shop=convenience, brand=ampm"
+"Antioch, CA",,retail,445120,Quik Stop,"951 North Vasco Road, Livermore, CA, 94551",+1-925-245-0879,,37.7125777,-121.7235977,,,w_37260915,"shop=convenience, brand=Quik Stop"
+"Antioch, CA",,retail,445120,7-Eleven,,,,37.7177291,-121.7236156,,,w_37261511,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445110,Safeway,"709 Lincoln Road West, Vallejo, CA, 94590",+1 707-643-2172,https://local.safeway.com/safeway/ca/vallejo/709-lincoln-rd-w.html,38.0989849,-122.2305851,,,w_40167304,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,452210,Target,"904 Admiral Callaghan Lane, Vallejo, CA, 94591",(707) 642-0419,https://www.target.com/sl/vallejo/331,38.1317158,-122.2226158,,,w_59441205,"shop=department_store, brand=Target, operator=Target"
+"Antioch, CA",,retail,452210,Kohl's,"1190 Admiral Callaghan Lane, Vallejo, CA, 94591",+1 707-649-9851,https://www.kohls.com/stores/ca/vallejo-763.shtml,38.1346883,-122.2129307,,,w_59441210,"shop=department_store, brand=Kohl's"
+"Antioch, CA",,retail,445292,Jelly Belly Tours,"1 Jelly Belly Lane, Fairfield, CA, 94533",,,38.2387529,-122.0773555,,,w_80573879,shop=confectionery
+"Antioch, CA",,retail,452210,Macy's,1300;1304;2301 Stoneridge Mall Road,,https://www.macys.com/stores/ca/pleasanton/stoneridge-shopping-center_333.html,37.6938492,-121.9283281,,,w_101532628,"shop=department_store, brand=Macy's"
+"Antioch, CA",,retail,452210,Macy's,1400 Stoneridge Mall Road,,,37.6949571,-121.929715,,,w_101532640,"shop=department_store, brand=Macy's"
+"Antioch, CA",,retail,452210,JCPenney,1500;1510 Stoneridge Mall Road,,,37.6965004,-121.9296424,,,w_101532675,"shop=department_store, brand=JCPenney"
+"Antioch, CA",,retail,445120,ExtraMile,18060 San Ramon Valley Boulevard,,,37.75917,-121.9672518,,,w_105058235,"shop=convenience, brand=ExtraMile"
+"Antioch, CA",,retail,445120,ExtraMile,"736 San Ramon Valley Boulevard, Danville, CA, 94526",,,37.8118642,-121.9948209,,,w_105058244,"shop=convenience, brand=ExtraMile, operator=Danville Gas"
+"Antioch, CA",,retail,445310,Bevbox,,,,38.0952433,-122.2309712,,,w_106479433,"shop=alcohol, brand=Bevbox"
+"Antioch, CA",,retail,445120,Power Market,,,,38.093778,-122.2285912,,,w_106479476,shop=convenience
+"Antioch, CA",,retail,452210,Walmart,"4501 Rosewood Drive, Pleasanton, CA, 94588",+1 925-734-8744,https://www.walmart.com/store/2161-pleasanton-ca,37.6983695,-121.8873516,,,w_119890356,"shop=department_store, brand=Walmart, operator=Walmart"
+"Antioch, CA",,retail,445120,Cox Family Stores,4895 Hacienda Drive,,,37.7050785,-121.8872521,,,w_119890358,shop=convenience
+"Antioch, CA",,retail,445110,Safeway,"1701 Santa Rita Road, Pleasanton, CA, 94566",+1 925-417-5530,https://local.safeway.com/safeway/ca/pleasanton/1701-santa-rita-rd.html,37.6748855,-121.8744536,,,w_128512250,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,445110,Lucky,6025;6027;6039;6051;6063;6155 West Las Positas Boulevard,,,37.6825481,-121.9054379,,,w_128805721,"shop=supermarket, brand=Lucky"
+"Antioch, CA",,retail,445110,Walmart Neighborhood Market,"3112 Santa Rita Road, Pleasanton, CA, 94566",+1 925-398-6369,https://www.walmart.com/store/5611-pleasanton-ca,37.6899684,-121.8769104,,,w_129011794,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Antioch, CA",,retail,452210,Nordstrom,,,https://www.nordstrom.com/store-details/nordstrom-broadway-plaza-in-walnut-creek,37.8971392,-122.0581464,,,w_131655013,"shop=department_store, brand=Nordstrom"
+"Antioch, CA",,retail,452210,Macy's,"1320 Broadway Plaza, Walnut Creek, CA, 94596",,https://www.macys.com/stores/ca/walnutcreek/broadway-plaza_324.html,37.8947087,-122.0574596,,,w_131655017,"shop=department_store, brand=Macy's"
+"Antioch, CA",,retail,445110,Safeway,"3540 Mount Diablo Boulevard, Lafayette, CA, 94549",+1 925-283-0228,https://local.safeway.com/safeway/ca/lafayette/3540-mt-diablo-blvd.html,37.8929012,-122.1194553,,,w_154644945,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,445110,Trader Joe's,"1372 South California Boulevard, Walnut Creek, CA, 94596",+1 925-945-1674,https://locations.traderjoes.com/ca/walnut-creek/123/,37.8931755,-122.0605299,,,w_159607227,"shop=supermarket, brand=Trader Joe's"
+"Antioch, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/benicia-ca-pharmacies/2100-columbus-pkwy-benicia-ca-94510/storeid=9761,38.0811494,-122.1928554,,,w_174866378,"shop=chemist, brand=CVS Pharmacy"
+"Antioch, CA",,retail,446110,Rite Aid,"2021 Solano Avenue, Vallejo, CA, 94590",7075521476,https://www.riteaid.com/locations/ca/vallejo/2021-solano-avenue.html,38.1043871,-122.2323031,,,w_175581278,"shop=chemist, brand=Rite Aid"
+"Antioch, CA",,retail,445120,Wagon Wheel Liquors,,,,38.1117246,-122.22893,,,w_175985862,shop=convenience
+"Antioch, CA",,retail,445110,Grocery Outlet,"66 Admiral Callaghan Lane, Vallejo, CA, 94591",,,38.1116334,-122.2280278,,,w_175985869,"shop=supermarket, brand=Grocery Outlet"
+"Antioch, CA",,retail,445110,Lucky,,,,37.661509,-121.7814976,,,w_200495796,"shop=supermarket, brand=Lucky"
+"Antioch, CA",,retail,452319,99 Cents Only Stores,"551 Peabody Road, CA",,https://locations.99only.com/ca/vacaville/discount-store-192.html,38.3455196,-121.972223,,,w_220393869,"shop=variety_store, brand=99 Cents Only Stores"
+"Antioch, CA",,retail,445120,,,,,38.3459381,-121.9726611,,,w_220396080,shop=convenience
+"Antioch, CA",,retail,445310,Total Wine,"3250 Buskirk Avenue, Pleasant Hill, CA, 94523",+1 925-588-0215,https://www.totalwine.com/store-info/1118,37.9351942,-122.0582203,,,w_221696662,"shop=alcohol, brand=Total Wine"
+"Antioch, CA",,retail,445120,Flying J,,,,38.117245,-121.3944448,,,w_223421227,"shop=convenience, brand=Flying J"
+"Antioch, CA",,retail,446120,My Nails & Spa,,,,38.0063297,-121.8390574,,,w_224033357,shop=beauty
+"Antioch, CA",,retail,445110,Safeway,"4495 First Street, Livermore, CA, 94550",+1 925-455-2520,https://local.safeway.com/safeway/ca/livermore/4495-first-st.html,37.6952625,-121.7429529,,,w_224902292,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,445120,Shell,809 East Stanley Boulevard,,,37.6777061,-121.786886,,,w_224999437,"shop=convenience, brand=Shell"
+"Antioch, CA",,retail,452210,Kohl's,"2900 Las Positas Road, Livermore, CA, 94551",+1 925-243-0450,https://www.kohls.com/stores/ca/livermore-1121.shtml,37.7003034,-121.7653737,,,w_225037305,"shop=department_store, brand=Kohl's"
+"Antioch, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/livermore/2222-las-positas-rd-32734,37.6983285,-121.7727943,,,w_225037307,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445310,Total Wine,"3161 Crow Canyon Place, San Ramon, CA, 94583",+1 925-275-9239,https://www.totalwine.com/store-info/1124,37.7777041,-121.9689389,,,w_230078178,"shop=alcohol, brand=Total Wine"
+"Antioch, CA",,retail,446120,Ulta Beauty,"2015 Crow Canyon Place, San Ramon, CA, 94583",+1 925-815-8061,https://www.ulta.com/stores/san-ramon-ca-1426,37.779034,-121.971351,,,w_230294139,"shop=cosmetics, brand=Ulta Beauty"
+"Antioch, CA",,retail,445120,,3048 Crow Canyon Road,,,37.778705,-121.9720578,,,w_230294149,shop=convenience
+"Antioch, CA",,retail,452210,Marshalls,3140 Fostoria Way,,,37.7820694,-121.9741524,,,w_230294154,"shop=department_store, brand=Marshalls"
+"Antioch, CA",,retail,445120,Valero,2350 San Ramon Valley Boulevard,,,37.7764918,-121.9778915,,,w_230398909,"shop=convenience, brand=Valero"
+"Antioch, CA",,retail,445120,7-Eleven,"2500 San Ramon Valley, San Ramon, CA, 94583-1604",+1 925-820-5677,https://www.7-eleven.com/locations/ca/san-ramon/2500-san-ramon-valley-25082,37.7736898,-121.9744022,,,w_230398940,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445120,Texaco,2400 San Ramon Valley Boulevard,,,37.7758213,-121.977419,,,w_230398961,"shop=convenience, brand=Texaco"
+"Antioch, CA",,retail,445120,Chevron,2860 Crow Canyon Road,,,37.775931,-121.9793233,,,w_230398968,"shop=convenience, brand=Chevron"
+"Antioch, CA",,retail,446110,CVS Pharmacy,490 Market Place,,https://www.cvs.com/store-locator/san-ramon-ca-pharmacies/490-market-pl-san-ramon-ca-94583/storeid=9536,37.763868,-121.9505528,,,w_230404411,"shop=chemist, brand=CVS Pharmacy"
+"Antioch, CA",,retail,445110,Whole Foods Market,"100 Sunset Drive, San Ramon, CA, 94583",+1 925-355-9000,https://www.wholefoodsmarket.com/stores/ram,37.7617317,-121.9612652,,,w_230526493,"shop=supermarket, brand=Whole Foods Market"
+"Antioch, CA",,retail,445120,Poppy,"1990 San Ramon Valley Boulevard, San Ramon, CA, 94583",,,37.7852017,-121.9800381,,,w_230773787,shop=convenience
+"Antioch, CA",,retail,445110,Walmart Neighborhood Market,"9100 Alcosta Boulevard, San Ramon, CA, 94583",+1 925-364-9207,https://www.walmart.com/store/5610-san-ramon-ca,37.7292743,-121.9292141,,,w_231418234,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Antioch, CA",,retail,446110,CVS Pharmacy,9120 Alcosta Boulevard,,https://www.cvs.com/store-locator/san-ramon-ca-pharmacies/9120-alcosta-blvd-san-ramon-ca-94583/storeid=9348,37.7286574,-121.9306226,,,w_231418236,"shop=chemist, brand=CVS Pharmacy"
+"Antioch, CA",,retail,445110,Sprouts Farmers Market,"7153 Amador Plaza Road, Dublin, CA, 94568",+1 925 307-1172,https://www.sprouts.com/,37.7076637,-121.9291362,,,w_232101310,"shop=supermarket, brand=Sprouts Farmers Market"
+"Antioch, CA",,retail,445110,Safeway,"11060 Bollinger Canyon Road, San Ramon, CA, 94582",+1 925-359-2001,https://local.safeway.com/safeway/ca/san-ramon/11050-bollinger-canyon-rd.html,37.7748755,-121.9220533,,,w_232371339,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,445110,Lunardi's Market,"345 Railroad Avenue, Danville, CA, 94526",+19258558920,https://www.lunardis.com/,37.819411,-121.9985392,,,w_233336782,shop=supermarket
+"Antioch, CA",,retail,445120,ExtraMile,21320 San Ramon Valley Boulevard,,,37.7234718,-121.9417969,,,w_233476005,"shop=convenience, brand=ExtraMile"
+"Antioch, CA",,retail,445110,Lucky,,,,37.7240149,-121.9446086,,,w_233476010,"shop=supermarket, brand=Lucky"
+"Antioch, CA",,retail,445120,ExtraMile,"3500 Camino Tassajara, Danville, CA, 94506",925-648-2555,,37.7983184,-121.9165253,,,w_233698300,"shop=convenience, brand=ExtraMile"
+"Antioch, CA",,retail,445110,Safeway,"3496 Camino Tassajara, Danville, CA, 94506",+1 925-736-0298,https://local.safeway.com/safeway/ca/danville/3496-camino-tassajara.html,37.7980708,-121.917784,,,w_233698303,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,445120,ExtraMile,"8000 Crow Canyon Road, Danville, CA, 94506",+19257368903,,37.7981675,-121.9221385,,,w_233698312,"shop=convenience, brand=ExtraMile"
+"Antioch, CA",,retail,445110,Safeway,"5051 Business Center Drive, Fairfield, CA, 94533",+1 707-863-4160,https://local.safeway.com/safeway/ca/fairfield/5051-business-ctr-dr.html,38.216955,-122.1411395,,,w_233927732,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/fairfield-ca-pharmacies/5059-business-center-dr-fairfield-ca-94534/storeid=3075,38.2157201,-122.1413966,,,w_233927733,"shop=chemist, brand=CVS Pharmacy"
+"Antioch, CA",,retail,445120,Circle K,7850 Amador Valley Boulevard,,,37.7055235,-121.9353049,,,w_235771787,"shop=convenience, brand=Circle K"
+"Antioch, CA",,retail,445120,Chevron,6400 Dublin Boulevard,,,37.7042838,-121.9097647,,,w_236165124,"shop=convenience, brand=Chevron"
+"Antioch, CA",,retail,445110,Safeway,"1972 Tice Valley Boulevard, Walnut Creek, CA, 94595",+1 925-939-7213,https://local.safeway.com/safeway/ca/walnut-creek/1972-tice-valley-blvd.html,37.8784012,-122.0718763,,,w_238538315,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,445110,Safeway,"774 Admiral Callaghan Lane, Vallejo, CA, 94591",+1 707-554-8035,https://local.safeway.com/safeway/ca/vallejo/774-admiral-callaghan-ln.html,38.1253891,-122.2265464,,,w_238540423,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,445110,Safeway,"122 Robles Way, Vallejo, CA, 94591",+1 707-554-4467,https://local.safeway.com/safeway/ca/vallejo/122-robles-dr.html,38.0845607,-122.2102407,,,w_238542978,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,445110,Safeway,"2505 San Ramon Valley Boulevard, San Ramon, CA, 94583",+1 925-831-9515,https://local.safeway.com/safeway/ca/san-ramon/2505-san-ramon-valley-blvd.html,37.7732091,-121.9768849,,,w_239390519,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,445110,Safeway,"6790 Bernal Avenue, Pleasanton, CA, 94566",+1-925-846-8644,https://local.safeway.com/safeway/ca/pleasanton/6790-bernal-ave.html,37.6561284,-121.8994689,,,w_239798247,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,445110,Safeway,"605 Parker Avenue, 94572",,,38.0296853,-122.2656415,,,w_240070072,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,445110,Safeway,"600 Patterson Boulevard, Pleasant Hill, CA, 94523",+1 925-933-8243,https://local.safeway.com/safeway/ca/pleasant-hill/600-patterson-blvd.html,37.9342344,-122.0722076,,,w_240464707,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,445110,Safeway,"707 Contra Costa Boulevard, Pleasant Hill, CA, 94523",+1 925-689-2044,https://local.safeway.com/safeway/ca/pleasant-hill/707-contra-costa-blvd.html,37.9711497,-122.0615466,,,w_240466840,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,445110,Safeway,"1978 Contra Costa Boulevard, Pleasant Hill, CA, 94523",+1 925-688-0680,https://local.safeway.com/safeway/ca/pleasant-hill/1978-contra-costa-blvd.html,37.9489768,-122.0579213,,,w_240467207,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,445110,Safeway,"4100 Redwood Road, Oakland, CA, 94619",+1 510-531-0565,https://local.safeway.com/safeway/ca/oakland/4100-redwood-rd.html,37.798355,-122.182428,,,w_241077434,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,445110,Safeway,"1355 Moraga Way, Moraga, CA, 94556",+1 925-376-9492,https://local.safeway.com/safeway/ca/moraga/1355-moraga-way.html,37.8363316,-122.1284194,,,w_252243906,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,445110,Safeway,"6688 Alhambra Avenue, Martinez, CA, 94553",+1 925-933-0540,https://local.safeway.com/safeway/ca/martinez/6688-alhambra-ave.html,37.9579585,-122.0939687,,,w_252696548,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,445110,Safeway,"3334 Alhambra Avenue, Martinez, CA, 94553",+1 925-229-0212,https://local.safeway.com/safeway/ca/martinez/3334-alhambra-ave.html,38.0007758,-122.1330495,,,w_252697441,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,445110,Safeway,"1554 First Street, Livermore, CA, 94550",+1 925-455-5667,https://local.safeway.com/safeway/ca/livermore/1554-first-st.html,37.6804605,-121.7773443,,,w_252719425,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,445310,BevMo!,"4301 First Street, Livermore, CA, 94551",,,37.6962075,-121.7439313,,,w_252721874,"shop=alcohol, brand=BevMo!"
+"Antioch, CA",,retail,445110,Whole Foods Market,"3502 Mount Diablo Boulevard, Lafayette, CA, 94549",+1 925-284-5305,https://www.wholefoodsmarket.com/stores/lafayette,37.8934537,-122.1172059,,,w_252728826,"shop=supermarket, brand=Whole Foods Market"
+"Antioch, CA",,retail,452210,Target,"2059 Cadenasso Drive, Fairfield, CA, 94533",+1 707-426-1105,https://www.target.com/sl/fairfield/675,38.2464498,-122.068839,,,w_252833854,"shop=department_store, brand=Target"
+"Antioch, CA",,retail,452210,Cost Plus World Market,,,,38.2622859,-122.0581626,,,w_252835343,shop=department_store
+"Antioch, CA",,retail,445110,Walmart Supercenter,"2701 North Texas Street, Fairfield, CA, 94533",+1 707-428-4792,https://www.walmart.com/store/2048-fairfield-ca,38.2791081,-122.0353714,,,w_252835625,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Antioch, CA",,retail,445110,Raley's,,,,38.2887554,-122.0327513,,,w_252836950,"shop=supermarket, brand=Raley's"
+"Antioch, CA",,retail,445110,Safeway,"2401 Waterman Boulevard, Fairfield, CA, 94533",+1 707-427-5640,https://local.safeway.com/safeway/ca/fairfield/2401-waterman-dr.html,38.2716298,-122.0529763,,,w_253285341,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,445110,Safeway,"7449 Dublin Boulevard, Dublin, CA, 94568",+1 925 556-4034,https://local.safeway.com/safeway/ca/dublin/7499-dublin-blvd.html,37.7062036,-121.9273123,,,w_253586079,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,445110,Safeway,"4440 Tassajara Road, Dublin, CA, 94568",+1 925-551-4710,https://local.safeway.com/safeway/ca/dublin/4440-tassajara-rd.html,37.7066667,-121.8740568,,,w_253587333,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,445110,Safeway,"14840 State Highway 4, Discovery Bay, CA, 94514",+1 925-626-6000,https://local.safeway.com/safeway/ca/discovery-bay/14840-hwy-4.html,37.8907358,-121.6214614,,,w_253707933,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,445110,Safeway,"2600 Willow Pass Road, Concord, CA, 94520",+1 925-689-3240,https://local.safeway.com/safeway/ca/concord/2600-willow-pass-rd.html,37.9782896,-122.028245,,,w_253759970,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,445110,Safeway,"4309 Clayton Road, Concord, CA, 94521",+1 925-356-2710,https://local.safeway.com/safeway/ca/concord/4309-clayton-rd.html,37.9661682,-121.9906967,,,w_253761737,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,445110,Safeway,"5431 Clayton Road, Clayton, CA, 94517",+1 925-672-2135,https://local.safeway.com/safeway/ca/clayton/5431-clayton-rd.html,37.9538063,-121.9534531,,,w_253766161,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,452210,Bloomingdale's Outlet,"3130 Livermore Outlets Drive, Livermore, CA, 94551",+1 925-273-6190,https://stores.bloomingdales.com.prod.rioseo.com/ca/livermore/san-francisco-premium-outlets_190.html,37.6993514,-121.8429803,,,w_255454849,"shop=department_store, brand=Bloomingdale's"
+"Antioch, CA",,retail,452210,Target,"2800 Dublin Boulevard, Dublin, CA, 94568",+1 925-241-1042,https://www.target.com/sl/dublin-east/2771,37.702845,-121.8536891,,,w_255493468,"shop=department_store, brand=Target"
+"Antioch, CA",,retail,445110,Trader Joe's,"5451 Lone Tree Way, Brentwood, CA, 94513",+1 925-516-3044,https://locations.traderjoes.com/ca/brentwood/201/,37.9606962,-121.7499846,,,w_262631570,"shop=supermarket, brand=Trader Joe's"
+"Antioch, CA",,retail,445120,ExtraMile,,,,37.9610332,-121.7470306,,,w_262631575,"shop=convenience, brand=ExtraMile"
+"Antioch, CA",,retail,445110,WinCo Foods,,,,37.9648292,-121.7292956,,,w_262639611,"shop=supermarket, brand=WinCo Foods"
+"Antioch, CA",,retail,445120,,,,,37.9624398,-121.7605462,,,w_263315994,shop=convenience
+"Antioch, CA",,retail,445120,,,,,37.9269273,-122.0148712,,,w_270273268,shop=convenience
+"Antioch, CA",,retail,445120,ExtraMile,,,,37.9179333,-122.0385392,,,w_271955172,"shop=convenience, brand=ExtraMile"
+"Antioch, CA",,retail,445120,Chevron,,,,37.9654073,-121.7800972,,,w_273428427,"shop=convenience, amenity=fuel, brand=Chevron"
+"Antioch, CA",,retail,446110,Walgreens,,,,38.3349001,-121.9692621,,,w_286953514,"shop=chemist, brand=Walgreens"
+"Antioch, CA",,retail,452210,Ross,"10864 Trinity Parkway, Stockton, CA, 95219",+1 209-474-9518,,38.0562888,-121.3735286,,,w_287551592,"shop=department_store, brand=Ross"
+"Antioch, CA",,retail,452210,Kohl's,"10850 Trinity Parkway, Stockton, CA, 95219",+1 209-954-1820,https://www.kohls.com/stores/ca/stockton-708.shtml,38.0555182,-121.3732126,,,w_287634064,"shop=department_store, brand=Kohl's"
+"Antioch, CA",,retail,452210,Target,"10424 Trinity Parkway, Stockton, CA, 95219-7225",+1 209-235-0251,https://www.target.com/sl/stockton-north/1862,38.0519306,-121.3720483,,,w_287634099,"shop=department_store, brand=Target"
+"Antioch, CA",,retail,445120,7-Eleven,,,,38.0042196,-121.3523225,,,w_290407296,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445310,,,,,37.9725482,-122.0406591,,,w_313757378,shop=alcohol
+"Antioch, CA",,retail,445120,76,,,,38.1141251,-121.3940375,,,w_320104229,"shop=convenience, brand=76, operator=76"
+"Antioch, CA",,retail,445110,Contreras Market,"861 Rincon Avenue, Livermore, CA, 94551",,,37.6882149,-121.784639,,,w_329251265,shop=supermarket
+"Antioch, CA",,retail,446120,The Cosmetics Company Store,"Livermore, CA, 94551",+1 925-456-0743,,37.6991675,-121.8458377,,,w_331183926,shop=cosmetics
+"Antioch, CA",,retail,446120,The Beauty Room,,,,37.6988689,-121.8455808,,,w_331185300,shop=beauty
+"Antioch, CA",,retail,446120,Clarins Factory Store,"Livermore, CA, 94551",+1 925-961-9162,,37.6988973,-121.8432724,,,w_331477347,shop=beauty
+"Antioch, CA",,retail,446120,Luxury Beauty Store,"Livermore, CA, 94551",+1 925-443-3846,,37.6987259,-121.8469898,,,w_331477354,shop=cosmetics
+"Antioch, CA",,retail,452319,Miniso,"Livermore, CA, 94551",+1 702-769-5177,,37.6982654,-121.8438959,,,w_331477359,"shop=variety_store, brand=Miniso"
+"Antioch, CA",,retail,446120,Bath & Body Works,"Livermore, CA, 94551",+1 925-453-4291,,37.6982598,-121.8440147,,,w_331477367,"shop=cosmetics, brand=Bath & Body Works"
+"Antioch, CA",,retail,446120,Perfumania,"Livermore, CA, 94551",+1 925-292-4935,,37.6988363,-121.8432678,,,w_331477403,"shop=perfumery, brand=Perfumania"
+"Antioch, CA",,retail,452210,Saks Off 5th,"Livermore, CA, 94551",+1 925-243-9358,,37.6982488,-121.8430153,,,w_331477407,"shop=department_store, brand=Saks Off 5th"
+"Antioch, CA",,retail,446120,Monaco Hair And Nails,,9254790999,,37.7056541,-121.8916072,,,w_332156228,shop=beauty
+"Antioch, CA",,retail,446120,LaserAway,,,https://www.laseraway.com,37.7056484,-121.8912421,,,w_332156231,"shop=beauty, brand=LaserAway"
+"Antioch, CA",,retail,446120,Radiant Waxing,,,,37.7056506,-121.8913216,,,w_332156240,shop=beauty
+"Antioch, CA",,retail,445110,Whole Foods Market,"5200 Dublin Boulevard, Dublin, CA, 94568",+1 925-452-2226,https://www.wholefoodsmarket.com/stores/dublin-ca,37.7057751,-121.889871,,,w_332156249,"shop=supermarket, brand=Whole Foods Market"
+"Antioch, CA",,retail,445120,Shell,,,,37.6989811,-121.7431002,,,w_347005750,"shop=convenience, brand=Shell"
+"Antioch, CA",,retail,452210,TJ Maxx,"4673 Clayton Road, Concord, CA, 94521",,,37.9627542,-121.982873,,,w_356386674,"shop=department_store, brand=TJ Maxx, operator=TJ Maxx"
+"Antioch, CA",,retail,445120,ampm,785 East Stanley Boulevard,,,37.6775097,-121.7879512,,,w_356798347,"shop=convenience, brand=ampm"
+"Antioch, CA",,retail,446120,Foxy Hair & Nails,,,,37.6996449,-121.9037963,,,w_358946544,shop=beauty
+"Antioch, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-2900+n+main+st-walnut+creek-ca-94597/id=4026,37.9269374,-122.0612239,,,w_368712745,"shop=chemist, brand=Walgreens"
+"Antioch, CA",,retail,452319,Dollar Tree,"3060 Travis Boulevard, Fairfield, CA, 94534",,https://www.dollartree.com/locations/ca/fairfield/5973/,38.2595715,-122.0668031,,,w_374980109,"shop=variety_store, brand=Dollar Tree"
+"Antioch, CA",,retail,445120,,,,,38.2587958,-122.065533,,,w_374980114,shop=convenience
+"Antioch, CA",,retail,445120,ExtraMile,"2990 Travis Boulevard, CA",,,38.258707,-122.0645123,,,w_374980130,"shop=convenience, brand=ExtraMile"
+"Antioch, CA",,retail,445299,Challenge Dairy Products,11875 Dublin Boulevard,,,37.700802,-121.9377579,,,w_375637780,"shop=dairy, operator=Challenge"
+"Antioch, CA",,retail,445110,Whole Foods Market,"1333 Newell Avenue, Walnut Creek, CA, 94596",+1 925-274-9700,https://www.wholefoodsmarket.com/stores/walnutcreek,37.8927128,-122.0553243,,,w_380568992,"shop=supermarket, brand=Whole Foods Market"
+"Antioch, CA",,retail,445310,BevMo!,,,,37.877977,-122.1810613,,,w_382871626,"shop=alcohol, brand=BevMo!"
+"Antioch, CA",,retail,446110,CVS Pharmacy,"6750 Bernal Avenue, Pleasanton, CA, 94566",+1-925-249-901,https://www.cvs.com/store-locator/pleasanton-ca-pharmacies/6750-bernal-ave-pleasanton-ca-94566/storeid=10119,37.6565713,-121.8979231,,,w_384584255,"shop=chemist, brand=CVS Pharmacy"
+"Antioch, CA",,retail,446120,Pure Organic Nail Salon,"6754 Bernal Avenue, Pleasanton, CA, 94566",+1-925-600-8889,http://www.pureorganicnailsalon.com/,37.6567355,-121.8977099,,,w_384584258,shop=beauty
+"Antioch, CA",,retail,446120,Hand and Stone Massage and Facial Spa,"6790 Bernal Avenue, Pleasanton, CA, 94566",+1 925 271-0579,http://www.handandstonepleasanton.com/,37.6566805,-121.9001965,,,w_384585544,shop=beauty
+"Antioch, CA",,retail,446110,CVS Pharmacy,"3010 Bernal Avenue, Pleasanton, CA, 94566",,https://www.cvs.com/store-locator/pleasanton-ca-pharmacies/3010-bernal-avenue-pleasanton-ca-94566/storeid=10924,37.6698752,-121.8567681,,,w_384587418,"shop=chemist, brand=CVS Pharmacy"
+"Antioch, CA",,retail,446120,Behind The Door Beauty Botique,"2883 Hopyard Road, Pleasanton, CA, 94588",+1 925 846-4474,http://www.btdbeautyboutique.com/,37.676328,-121.8946471,,,w_384616446,shop=beauty
+"Antioch, CA",,retail,445110,Gene's Fine Foods,"2803 Hopyard Road, Pleasanton, CA, 94588",+1 925 846-8220,http://genesfinefoods.org/,37.6756463,-121.8951196,,,w_384616448,shop=supermarket
+"Antioch, CA",,retail,446120,Hopyard Nails,"2723 Hopyard Road, Pleasanton, CA, 94588",+1 925 462-2261,,37.6753448,-121.8952268,,,w_384616450,shop=beauty
+"Antioch, CA",,retail,445310,JC Wine & Liquors,"2787 Hopyard Road, Pleasanton, CA, 94588",+1 925 462-1730,http://www.jcliquorpleasanton.com/,37.6755148,-121.8955055,,,w_384616451,shop=alcohol
+"Antioch, CA",,retail,446120,Ulta Beauty,"4948 Dublin Boulevard, Dublin, CA, 94568",+1 925 828-5040,http://www.ulta.com/,37.7055658,-121.8840074,,,w_386853190,"shop=cosmetics, brand=Ulta Beauty"
+"Antioch, CA",,retail,452210,TJ Maxx,"5000 Dublin Boulevard, Dublin, CA, 94568",+1 925 803-8440,http://www.tjx.com/,37.7043697,-121.8824035,,,w_386859276,"shop=department_store, brand=TJ Maxx"
+"Antioch, CA",,retail,446120,Mandara Nail Salon,,,,37.7040846,-121.8852162,,,w_386869771,shop=beauty
+"Antioch, CA",,retail,445110,Lunardi's,,,,37.9242218,-122.0889825,,,w_394260052,shop=supermarket
+"Antioch, CA",,retail,446120,Tokyo Beauty,"Livermore, CA, 94551",,,37.6983606,-121.8419047,,,w_400655225,shop=cosmetics
+"Antioch, CA",,retail,446120,Fragrance Outlet,"Livermore, CA, 94551",+1 925-493-6637,,37.6991048,-121.8412412,,,w_400655248,shop=perfumery
+"Antioch, CA",,retail,445292,Läderach,"Livermore, CA, 94551",+1 925-488-9860,,37.6990625,-121.8424811,,,w_400655250,"shop=chocolate, brand=Läderach"
+"Antioch, CA",,retail,445120,7-Eleven,"601 Patterson Boulevard, Pleasant Hill, CA, 94523-4120",+1 925-945-8086,https://www.7-eleven.com/locations/ca/pleasant-hill/601-patterson-blvd-24268,37.9342302,-122.073872,,,w_401254512,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445120,ampm,"14931 Flag City Boulevard, Lodi, CA, 95242",,,38.1155508,-121.3864746,,,w_402337626,"shop=convenience, brand=ampm"
+"Antioch, CA",,retail,445120,Corner Mart,,,,38.1006523,-122.2418749,,,w_403542799,shop=convenience
+"Antioch, CA",,retail,452210,Kohl's,"5511 Lone Tree Way, Brentwood, CA, 94513",+1 925-513-3370,https://www.kohls.com/stores/ca/brentwood-758.shtml,37.9580584,-121.7492396,,,w_429100507,"shop=department_store, brand=Kohl's"
+"Antioch, CA",,retail,445120,Chevron,2186 Las Positas Court,,,37.6978019,-121.774159,,,w_436989979,"shop=convenience, brand=Chevron"
+"Antioch, CA",,retail,445120,Grab & Go Food Mart,4700 First Street,,,37.700706,-121.7417633,,,w_436991114,shop=convenience
+"Antioch, CA",,retail,445120,Shell,5251 Hopyard Road,,,37.6986157,-121.9034434,,,w_437223026,"shop=convenience, brand=Shell"
+"Antioch, CA",,retail,445120,7-Eleven,245 South Vasco Road,,https://www.7-eleven.com/locations/ca/livermore/245-vasco-rd-south-33005,37.7029385,-121.7214395,,,w_437243290,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445120,7-Eleven,"200 North Greenville Road, Livermore, CA, 94551",+1 925-371-1500,https://www.7-eleven.com/locations/ca/livermore/200-n-greenville-rd-39575,37.715273,-121.6994392,,,w_437243460,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,446120,Sephora,5186 Dublin Boulevard,,,37.7056157,-121.8892855,,,w_438372481,"shop=cosmetics, brand=Sephora"
+"Antioch, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-2700+willow+pass+rd-bay+point-ca-94565/id=13026,38.0270718,-121.9416059,,,w_459851071,"shop=chemist, brand=Walgreens"
+"Antioch, CA",,retail,445110,Walmart Supercenter,"10355 Trinity Parkway, Stockton, CA, 95219",+1 209-235-0558,https://www.walmart.com/store/3352-stockton-ca,38.0497228,-121.3762841,,,w_467566006,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Antioch, CA",,retail,445110,Lucky,"1979 Peabody Road, CA",+1-707-452-0991,https://www.luckysupermarkets.com/stores#/5092,38.3363841,-121.9686028,,,w_468499167,"shop=supermarket, brand=Lucky"
+"Antioch, CA",,retail,453110,Floral Arts Florist,"3584 Mount Diablo Boulevard, Lafayette, CA, 94549",,,37.8918947,-122.1218345,,,w_471338251,shop=florist
+"Antioch, CA",,retail,445110,Sprouts Farmers Market,"1530 Geary Road, Walnut Creek, CA, 94597",+1 925-953-1113,https://www.sprouts.com/store/ca/walnut-creek/geary-rd/,37.9269695,-122.0643473,,,w_476168120,"shop=supermarket, brand=Sprouts Farmers Market"
+"Antioch, CA",,retail,445120,Marina Market,"735 Escobar Street, Martinez, CA, 94553",(925) 229-2703,,38.0184278,-122.1365624,,,w_506265303,shop=convenience
+"Antioch, CA",,retail,445120,Valley Convenient Mart,"835 Alhambra Avenue, Martinez, CA, 94553",(925) 229-4775,,38.0156571,-122.1369715,,,w_506320440,shop=convenience
+"Antioch, CA",,retail,445110,Trader Joe's,"3649 Mount Diablo Boulevard, Lafayette, CA, 94549",+1 925-299-9344,https://locations.traderjoes.com/ca/lafayette/115/,37.8902588,-122.1269207,,,w_508544694,"shop=supermarket, brand=Trader Joe's"
+"Antioch, CA",,retail,445120,7-Eleven,"633 Moraga Road, Moraga, CA, 94556-2218",+1 925-377-5160,https://www.7-eleven.com/locations/ca/moraga/633-moraga-rd-14179,37.8545503,-122.1244352,,,w_508547723,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445120,Shell,,,,37.9988262,-122.132624,,,w_509326029,"shop=convenience, brand=Shell"
+"Antioch, CA",,retail,445120,,,,,37.9982007,-122.1327707,,,w_509326032,shop=convenience
+"Antioch, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/martinez/4141-alhambra-ave-37952,37.992507,-122.1301361,,,w_509341631,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445120,,,,,38.0097814,-122.1320912,,,w_509341646,shop=convenience
+"Antioch, CA",,retail,445120,Molly's Gourmet Market & Deli,"1255 Shell Avenue, Martinez, CA, 94553",+19253744925,,38.0111174,-122.1185499,,,w_509345826,shop=convenience
+"Antioch, CA",,retail,445120,Power Market,,,,37.9964886,-122.1200941,,,w_509345835,shop=convenience
+"Antioch, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/martinez/530-morello-ave-32235,37.9934531,-122.0998512,,,w_509373759,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445120,,,,,37.990738,-122.1000217,,,w_509704711,shop=convenience
+"Antioch, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/martinez/3520-pacheco-35061,38.0118619,-122.105698,,,w_515738817,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445120,,,,,37.9596186,-122.09443,,,w_515899781,shop=convenience
+"Antioch, CA",,retail,445120,,,,,37.9574149,-122.092724,,,w_515899802,shop=convenience
+"Antioch, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/martinez/4001-pacheco-blvd-23837,38.008544,-122.0952898,,,w_515976992,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445120,,,,,38.0071651,-122.0901571,,,w_516003175,shop=convenience
+"Antioch, CA",,retail,445120,,,,,37.9837481,-122.0669023,,,w_516742833,shop=convenience
+"Antioch, CA",,retail,445120,7-Eleven,"2298 Morello Avenue, Pleasant Hill, CA, 94523",+1 925-798-0870,https://www.7-eleven.com/locations/ca/pleasant-hill/2298-morello-avenue-26232,37.9613473,-122.078436,,,w_517797133,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445120,,,,,37.9609459,-122.0794388,,,w_517797174,shop=convenience
+"Antioch, CA",,retail,445120,Chevron,,,,37.9261282,-122.063221,,,w_544912887,"shop=convenience, brand=Chevron"
+"Antioch, CA",,retail,445120,ampm,,,,37.9830429,-122.0147144,,,w_552321800,"shop=convenience, brand=ampm"
+"Antioch, CA",,retail,445120,Valero,,,,37.9858517,-122.0105646,,,w_552338254,"shop=convenience, brand=Valero"
+"Antioch, CA",,retail,445120,Shell,,,,38.0086695,-121.8701636,,,w_552679753,"shop=convenience, brand=Shell"
+"Antioch, CA",,retail,445120,Chevron,,,,37.9811638,-122.0191957,,,w_552708131,"shop=convenience, brand=Chevron"
+"Antioch, CA",,retail,445120,Concord Smog & Gas,,,,37.9796374,-122.0245397,,,w_552719866,shop=convenience
+"Antioch, CA",,retail,445120,Chevron,,,,37.9749996,-122.0256409,,,w_552732602,"shop=convenience, brand=Chevron"
+"Antioch, CA",,retail,445310,Super Liquor and Gas,,,,37.9789,-122.0268061,,,w_553158596,shop=alcohol
+"Antioch, CA",,retail,445120,,,,,37.9997354,-121.8054054,,,w_556388442,shop=convenience
+"Antioch, CA",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ca/concord/14724,37.9890747,-122.0425457,,,w_557902709,"shop=variety_store, brand=Dollar General"
+"Antioch, CA",,retail,446110,CVS Pharmacy,"1193 Admiral Callaghan Lane, Vallejo, CA, 94591",,https://www.cvs.com/store-locator/vallejo-ca-pharmacies/1193-admiral-callaghan-lane-vallejo-ca-94591/storeid=9927,38.1368029,-122.2142112,,,w_567961769,"shop=chemist, brand=CVS Pharmacy"
+"Antioch, CA",,retail,445120,Circle K,4191 1st Street,,,37.6637279,-121.8696851,,,w_605920497,"shop=convenience, brand=Circle K"
+"Antioch, CA",,retail,445120,Shell,3188 Danville Boulevard,,,37.8508754,-122.0324404,,,w_613069755,"shop=convenience, brand=Shell"
+"Antioch, CA",,retail,445110,Walmart Supercenter,"350 Walters Road, Suisun City, CA, 94585",+1 707-639-4980,https://www.walmart.com/store/3708-suisun-city-ca,38.2426758,-121.9902909,,,w_616207071,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Antioch, CA",,retail,446110,Rite Aid,,,https://www.riteaid.com/locations/ca/walnut-creek/1526-palos-verdes-mall.html,37.9246718,-122.0874294,,,w_672361314,"shop=chemist, brand=Rite Aid"
+"Antioch, CA",,retail,445110,FoodMaxx,"4461 Balfour Road, Brentwood, CA, 94513",,,37.9269277,-121.6969958,,,w_674856480,"shop=supermarket, brand=FoodMaxx"
+"Antioch, CA",,retail,445120,Power Market,,,,37.9251173,-121.6893724,,,w_675890738,shop=convenience
+"Antioch, CA",,retail,445120,ExtraMile,,,,38.2931222,-122.0331637,,,w_679418170,"shop=convenience, brand=ExtraMile"
+"Antioch, CA",,retail,446110,CVS Pharmacy,"3340 North Texas Street, Fairfield, CA, 94533",,https://www.cvs.com/store-locator/cvs-pharmacy-address/3340+North+Texas+Street-Fairfield-CA-94533/storeid=9712,38.2914405,-122.0333667,,,w_679418174,"shop=chemist, brand=CVS Pharmacy"
+"Antioch, CA",,retail,445120,ampm,,,,38.29471,-122.0323908,,,w_679418176,"shop=convenience, brand=ampm"
+"Antioch, CA",,retail,452210,McCaulou's,589 San Ramon Valley Boulevard,,,37.8149062,-121.9974118,,,w_688035324,shop=department_store
+"Antioch, CA",,retail,452210,Ross,"1300 Gateway Boulevard, Fairfield, CA, 94533",+1 707-399-8425,,38.263007,-122.0505619,,,w_689052619,"shop=department_store, brand=Ross"
+"Antioch, CA",,retail,452210,Ross,"556 Contra Costa Boulevard, Pleasant Hill, CA, 94523",+1 925-680-1283,,37.9775545,-122.0673393,,,w_707973737,"shop=department_store, brand=Ross"
+"Antioch, CA",,retail,445120,Chevron,"Orinda Way, Orinda, CA, 94563",,,37.8811409,-122.1869239,,,w_719992650,"shop=convenience, brand=Chevron"
+"Antioch, CA",,retail,446110,Walgreens,"11440 Windemere Parkway, San Ramon, CA, 94582",,https://www.walgreens.com/locator/walgreens-11440+windemere+pkwy-san+ramon-ca-94582/id=16090,37.7634992,-121.9050819,,,w_721759739,"shop=chemist, brand=Walgreens"
+"Antioch, CA",,retail,445120,,,,,38.2515574,-122.069997,,,w_741037006,shop=convenience
+"Antioch, CA",,retail,453991,Danville Cigar- Fine Wine & Gifts,,,,37.8208192,-121.9989421,,,w_743748059,shop=tobacco
+"Antioch, CA",,retail,445120,ExtraMile,,,,37.8237889,-122.002424,,,w_743748075,"shop=convenience, brand=ExtraMile"
+"Antioch, CA",,retail,446110,Walgreens,"1620 First Street, Livermore, CA, 94550",,,37.6797922,-121.7759541,,,w_753815977,"shop=chemist, brand=Walgreens"
+"Antioch, CA",,retail,445120,Athenian School Store,,+19258375375,,37.8331564,-121.950689,,,w_772839019,shop=convenience
+"Antioch, CA",,retail,445120,ExtraMile,,,,38.2431622,-122.0179446,,,w_779722560,"shop=convenience, brand=ExtraMile"
+"Antioch, CA",,retail,445120,,,,,38.2442726,-122.0210295,,,w_779725747,shop=convenience
+"Antioch, CA",,retail,446110,Rite Aid,"135 Sunset Avenue, Suisun City, CA, 94585",7074264242,https://www.riteaid.com/locations/ca/suisun-city/135-sunset-avenue.html,38.245977,-122.0190247,,,w_779727713,"shop=chemist, brand=Rite Aid"
+"Antioch, CA",,retail,445120,Circle K,,,,38.2496814,-122.0604527,,,w_779804856,"shop=convenience, brand=Circle K"
+"Antioch, CA",,retail,445120,7-Eleven,"206 East Tabor Avenue, Fairfield, CA, 94533-3967",+1 707-426-0342,https://www.7-eleven.com/locations/ca/fairfield/206-e-tabor-ave-14149,38.265896,-122.03225,,,w_779976061,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445110,Safeway,"3110 Balfour Road, Brentwood, CA, 94513",+1 925-626-6020,https://local.safeway.com/safeway/ca/brentwood/3110-balfour-rd.html,37.9239887,-121.721904,,,w_813728895,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,446110,CVS Pharmacy,"3171 Balfour Road, Brentwood, CA, 94513",,https://www.cvs.com/store-locator/brentwood-ca-pharmacies/3171-balfour-rd-brentwood-ca-94513/storeid=4283,37.926326,-121.7212149,,,w_813728896,"shop=chemist, brand=CVS Pharmacy"
+"Antioch, CA",,retail,445120,Circle K,811 Camino Ramon,,,37.8090694,-121.9912978,,,w_834097721,"shop=convenience, brand=Circle K"
+"Antioch, CA",,retail,445120,7-Eleven,"1097 Mohr Lane, Concord, CA, 94518-3757",+1 925-825-9660,https://www.7-eleven.com/locations/ca/concord/1097-mohr-lane-14207,37.9474055,-122.050767,,,w_859135017,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445210,Livermore Butcher Shop,"282 South L Street, Livermore, CA, 94550",,https://livermorebutchershop.com/,37.6796691,-121.7704631,,,w_863078244,shop=butcher
+"Antioch, CA",,retail,453110,Spring Garden Florist,,,,37.6835494,-121.7698302,,,w_872790465,shop=florist
+"Antioch, CA",,retail,445120,Rotten Robbie,"4186 East Avenue, Livermore, CA, 94550",,,37.6803313,-121.7460014,,,w_879104678,"shop=convenience, brand=Rotten Robbie"
+"Antioch, CA",,retail,445120,7-Eleven,"2396 Pleasant Hill Road, Pleasant Hill, CA, 94523-3108",+1 925-934-1550,https://www.7-eleven.com/locations/ca/pleasant-hill/2396-pleasant-hill-rd-26316,37.94751,-122.0820242,,,w_886580728,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445110,Pleasant Hill Market,,,,37.947694,-122.0826957,,,w_886580729,shop=supermarket
+"Antioch, CA",,retail,445120,Shell,,,,37.948144,-122.0828229,,,w_886580731,"shop=convenience, brand=Shell"
+"Antioch, CA",,retail,445120,ExtraMile,"4707 First Street, Livermore, CA, 94551",,,37.7001639,-121.7407877,,,w_941624147,"shop=convenience, brand=ExtraMile"
+"Antioch, CA",,retail,445120,ampm,,,,37.9608842,-121.7331466,,,w_941658793,"shop=convenience, brand=ampm"
+"Antioch, CA",,retail,445120,Chevron,1771 First Street,,,37.6796879,-121.7740829,,,w_942012122,"shop=convenience, brand=Chevron"
+"Antioch, CA",,retail,445120,Valero,2620 Old First Street,,,37.6850708,-121.7656572,,,w_942012126,"shop=convenience, brand=Valero"
+"Antioch, CA",,retail,445120,Shell,,,,38.1602469,-121.6922141,,,w_942012876,"shop=convenience, brand=Shell"
+"Antioch, CA",,retail,445120,Mobil Mart,,,,37.7192551,-121.5371633,,,w_965745892,"shop=convenience, brand=Mobil Mart"
+"Antioch, CA",,retail,445120,7-Eleven,"1050 Laurel Road, Oakley, CA, 94561",,https://www.7-eleven.com/locations/ca/oakley/1050-laurel-rd-38732,37.9839066,-121.7145939,,,w_967727678,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445120,Power Market,,,,37.9975135,-121.7145166,,,w_969650741,shop=convenience
+"Antioch, CA",,retail,445120,ampm,"4501 Main Street, Oakley, CA, 94561",,,37.9899266,-121.6977424,,,w_971048737,"shop=convenience, brand=ampm"
+"Antioch, CA",,retail,445110,Safeway,"200 Alamo Plaza, Alamo, CA, 94507",+1 925-820-8022,https://local.safeway.com/safeway/ca/alamo/200-alamo-plaza.html,37.8508049,-122.0351968,,,w_973373608,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,445120,Chevron,,,,37.8507587,-122.0333638,,,w_973373614,"shop=convenience, brand=Chevron"
+"Antioch, CA",,retail,445110,Lucky,,,,37.9964404,-121.7313434,,,w_974164664,"shop=supermarket, brand=Lucky"
+"Antioch, CA",,retail,446110,Rite Aid,,,https://www.riteaid.com/locations/ca/oakley/2555-main-street.html,37.9964779,-121.7305889,,,w_974164665,"shop=chemist, brand=Rite Aid"
+"Antioch, CA",,retail,445120,ExtraMile,,,,37.9655866,-121.9926577,,,w_976191132,"shop=convenience, brand=ExtraMile"
+"Antioch, CA",,retail,445120,ampm,,,,37.9838005,-121.7338342,,,w_977097291,"shop=convenience, brand=ampm"
+"Antioch, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/oakley/2437-main-street-32787,37.9982773,-121.7321314,,,w_981100790,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/oakley/2001-laurel-rd-37929,37.9827709,-121.7327904,,,w_982159006,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445310,The Vine and Spirits,480 Hartz Avenue,,,37.8208969,-121.9983668,,,w_982722700,shop=wine
+"Antioch, CA",,retail,445120,Chevron,,,,38.0047039,-121.7511906,,,w_985022329,"shop=convenience, brand=Chevron"
+"Antioch, CA",,retail,445120,Shell,,,,38.0056865,-121.7512995,,,w_985022338,"shop=convenience, brand=Shell"
+"Antioch, CA",,retail,445310,Hillcrest Liquors & Food,"1107 East 18th Street, Antioch, CA, 94509",,,38.0044129,-121.7867098,,,w_991363980,shop=alcohol
+"Antioch, CA",,retail,445120,7-Eleven,"1101 East 18th Street, Antioch, CA, 94509",+1 925-757-5478,https://www.7-eleven.com/locations/ca/antioch/1101-east-18th-st-20039,38.0044013,-121.7871661,,,w_991363981,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445120,ampm,,,,38.007761,-121.8716791,,,w_1004514114,"shop=convenience, brand=ampm"
+"Antioch, CA",,retail,445120,ampm,,,,38.0541751,-121.3758533,,,w_1011913502,"shop=convenience, brand=ampm"
+"Antioch, CA",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-3131+w+hammer+ln-stockton-ca-95209/id=9723,38.0218424,-121.3555547,,,w_1011922157,"shop=chemist, brand=Walgreens"
+"Antioch, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/walnut-creek-ca-pharmacies/1960-tice-valley-blvd-walnut-creek-ca-94595/storeid=9324,37.8780175,-122.0735695,,,w_1016415568,"shop=chemist, brand=CVS Pharmacy"
+"Antioch, CA",,retail,445120,,"3801 Railroad Avenue, Pittsburg, CA, 94565",,,38.0042975,-121.8937691,,,w_1020376659,"shop=convenience, operator=Amigos Market and Liquor"
+"Antioch, CA",,retail,446110,CVS Pharmacy,"230 Atlantic Avenue, Pittsburg, CA, 94564",,,38.0069381,-121.8896822,,,w_1020376662,"shop=chemist, brand=CVS Pharmacy"
+"Antioch, CA",,retail,445110,Foods Co,"300 Atlantic Avenue, Pittsburg, CA, 94565",,,38.0069671,-121.8880999,,,w_1020376664,"shop=supermarket, brand=Foods Co"
+"Antioch, CA",,retail,445120,7-Eleven,"3300 Loveridge Road, Pittsburg, CA, 94565",+1 925-439-5544,https://www.7-eleven.com/locations/ca/pittsburg/3300-loveridge-rd-19004,38.0026847,-121.8735931,,,w_1020376668,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445110,Bonfaire Market,"4102 Railroad Avenue, Pittsburg, CA, 94565",,,38.0004298,-121.8960369,,,w_1020405218,shop=supermarket
+"Antioch, CA",,retail,445120,Eagle Mini Mart,"3870 Railroad Avenue, Pittsburg, CA, 94565",,,38.0033929,-121.8949049,,,w_1020405443,shop=convenience
+"Antioch, CA",,retail,445120,"San Ramon Food, Gas & Liquor",2108 San Ramon Valley Boulevard,,,37.7828515,-121.9787739,,,w_1021619465,shop=convenience
+"Antioch, CA",,retail,445310,BevMo!,155 Diablo Road,,,37.8226637,-121.9995824,,,w_1021895326,"shop=alcohol, brand=BevMo!"
+"Antioch, CA",,retail,445120,7-Eleven,"9000 Alcosta Boulevard, San Ramon, CA, 94583-4141",+1 925-828-6643,https://www.7-eleven.com/locations/ca/san-ramon/9000-kimball-ave-14181,37.7248003,-121.9344611,,,w_1026015349,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445120,Bonfare Market,,,https://www.bonfaremarkets.com/,38.1229879,-122.2269134,,,w_1026255065,shop=convenience
+"Antioch, CA",,retail,445120,7-Eleven,,,,38.1453044,-122.234875,,,w_1034400852,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445120,,,,,38.2128355,-122.139265,,,w_1043828261,shop=convenience
+"Antioch, CA",,retail,445120,,,,,38.203038,-122.1579745,,,w_1043828288,shop=convenience
+"Antioch, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/fairfield/4449-central-place-34158,38.22051,-122.126553,,,w_1044322927,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445120,Shell,,,,38.221381,-122.1281415,,,w_1044323187,"shop=convenience, brand=Shell"
+"Antioch, CA",,retail,445120,ampm,,,,38.221948,-122.127156,,,w_1044323190,"shop=convenience, brand=ampm"
+"Antioch, CA",,retail,445120,,,,,38.221886,-122.126263,,,w_1044323192,shop=convenience
+"Antioch, CA",,retail,445120,Jolly King Neighborhood Store Liquor and Food,"730 5th Street, Fairfield, CA, 94533",,,38.250039,-122.060506,,,w_1046339241,shop=convenience
+"Antioch, CA",,retail,445120,ampm,"2051 Walters Road, Fairfield, CA, 94533",7074325600,,38.265321,-121.9888435,,,w_1047461343,"shop=convenience, brand=ampm"
+"Antioch, CA",,retail,445120,,,,,37.8968899,-122.0698555,,,w_1047528226,shop=convenience
+"Antioch, CA",,retail,445120,7-Eleven,"1248 Boulevard Way, Walnut Creek, CA, 94595",+1 925-939-1878,https://www.7-eleven.com/locations/ca/walnut-creek/1248-boulevard-way-16990,37.8936123,-122.0759252,,,w_1049817645,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445120,Bonfire Market,,,https://www.bonfaremarkets.com/,38.2438798,-121.9871094,,,w_1050385047,shop=convenience
+"Antioch, CA",,retail,445120,Quik Stop,,,,38.279339,-121.970606,,,w_1051714900,"shop=convenience, brand=Quik Stop"
+"Antioch, CA",,retail,453991,U Know Smoke Shop,,,,38.1053785,-122.2379605,,,w_1059650129,shop=tobacco
+"Antioch, CA",,retail,446120,Skin Lab & Contour,244 Front Street,+19254062680,,37.8218199,-121.9974263,,,w_1061893962,shop=beauty
+"Antioch, CA",,retail,445310,Locanda Wine Bar,2293 First Street,,,37.6821131,-121.7676655,,,w_1072369010,"shop=wine, amenity=restaurant"
+"Antioch, CA",,retail,445310,Fast & East Mart,3670 East Avenue,,,37.6802247,-121.7560248,,,w_1072860268,shop=alcohol
+"Antioch, CA",,retail,445110,Cielo Supermarker,"1818 A Street, Antioch, CA, 94509",,,38.0044319,-121.8076566,,,w_1079367631,shop=supermarket
+"Antioch, CA",,retail,445120,,,,,38.004673,-121.8064884,,,w_1079367634,shop=convenience
+"Antioch, CA",,retail,445120,Chevron,400 Diablo Road,+19258377689,,37.8232711,-121.9929261,,,w_1087792487,"shop=convenience, brand=Chevron"
+"Antioch, CA",,retail,453110,Urban Blossom,100 Hartz Avenue,+19253020001,https://www.urbanblossomanddecor.com/,37.8250007,-122.003057,,,w_1096479620,shop=florist
+"Antioch, CA",,retail,445120,Chevron,7200;7300 Southfront Road,,,37.7155859,-121.7060484,,,w_1125511173,"shop=convenience, brand=Chevron"
+"Antioch, CA",,retail,445110,Safeway,"19555 Mountain House Parkway, Mountain House, CA, 95391",+1 209-362-1256,https://local.safeway.com/safeway/ca/mountain-house/19555-s-mountain-house-pkwy.html,37.7826716,-121.5331827,,,w_1126103639,"shop=supermarket, brand=Safeway"
+"Antioch, CA",,retail,445120,7-Eleven,7100 Dougherty Road,,https://www.7-eleven.com/locations/ca/dublin/7100-dougherty-rd-33163,37.7187878,-121.9108219,,,w_1128104148,"shop=convenience, brand=7-Eleven"
+"Antioch, CA",,retail,445120,Chevron,1025 North Vasco Road,,,37.7130766,-121.7233872,,,w_1129931489,"shop=convenience, brand=Chevron"
+"Antioch, CA",,retail,445120,ExtraMile,12105 Alcosta Boulevard,,,37.7535606,-121.9391873,,,w_1147276598,"shop=convenience, brand=ExtraMile"
+"Antioch, CA",,retail,445120,,,,,37.9700982,-122.0110839,,,w_1181222686,shop=convenience
+"Antioch, CA",,retail,445110,Suisun Seafood Center,"303 Lawler Center Drive, Suisun City, CA, 94585",,,38.2423262,-122.0181721,,,w_1193243491,shop=supermarket
+"Antioch, CA",,retail,445110,Super La Favorita,"1950 North Texas Street, Fairfield, CA, 94533",+1 707-427-8767,,38.2637635,-122.0331859,,,w_1204763939,shop=supermarket
+"Antioch, CA",,retail,446120,The Wax Room & Co.,,+12095016654,https://thewaxroomandco.square.site,37.7732948,-121.9869693,,,w_1230231773,shop=beauty
+"Antioch, CA",,retail,445110,Sprouts Farmers Market,"3181 Crow Canyon Place, San Ramon, CA, 94583",+1 925-302-1395,https://www.sprouts.com/store/ca/san-ramon/crow-canyon-pl/,37.7772645,-121.9698602,,,w_1230272464,"shop=supermarket, brand=Sprouts Farmers Market"
+"Antioch, CA",,retail,446120,Lavendar Nail Salon,,9254626907,,37.6626836,-121.8556564,,,w_1234493078,shop=beauty
+"Antioch, CA",,retail,446120,T’s Nail Bar,,,,37.6690653,-121.8568588,,,w_1234493094,shop=beauty
+"Antioch, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/clayton-ca-pharmacies/6490-clayton-rd-clayton-ca-94517/storeid=6526,37.94229,-121.9313501,,,w_1235732578,"shop=chemist, brand=CVS Pharmacy"
+"Antioch, CA",,retail,445292,Coaster Candy,,,,38.1370758,-122.2322908,,,w_1272944547,shop=confectionery
+"Antioch, CA",,retail,446120,,,,,38.1090463,-122.2378881,,,w_1365648097,shop=beauty
+"Antioch, CA",,retail,452319,Dollar General,,,,38.1091915,-122.2377052,,,w_1365648098,"shop=variety_store, brand=Dollar General"
+"Antioch, CA",,retail,445120,,,,,38.0975269,-122.2563059,,,w_1371289650,shop=convenience
+"Antioch, CA",,retail,445310,M&M Liquors,,,,38.0878113,-122.2439185,,,w_1374480273,shop=alcohol
+"Antioch, CA",,retail,445120,La Rosa Market,,,,38.0887577,-122.2440249,,,w_1374480282,shop=convenience
+"Antioch, CA",,retail,445120,ExtraMile,,,,38.0964795,-122.2536277,,,w_1374487014,"shop=convenience, brand=ExtraMile"

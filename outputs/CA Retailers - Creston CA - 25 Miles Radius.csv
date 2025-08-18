@@ -1,0 +1,321 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Creston, CA",,retail,453110,Wilder Floral Co.,"1349 Chorro Street, San Luis Obispo",,,35.277594,-120.660942,,,n_581332523,shop=florist
+"Creston, CA",,retail,445120,Slo Asian Market,1255 Monterey Street,+1-805-544-8599,,35.2839549,-120.6571498,,,n_662579499,shop=convenience
+"Creston, CA",,retail,445120,Village Market,,,,35.3069008,-120.6590916,,,n_993419753,shop=convenience
+"Creston, CA",,retail,445120,7-Eleven,"552 California Boulevard, San Luis Obispo, CA, 93405-1905",+1 805-541-0260,https://www.7-eleven.com/locations/ca/san-luis-obispo/552-california-blvd-25115,35.2913913,-120.660305,,,n_994248733,"shop=convenience, brand=7-Eleven"
+"Creston, CA",,retail,445110,Ralphs,"1240 Los Osos Valley Road, Los Osos, CA, 93402",+1 805-528-0244,https://www.ralphs.com/stores/grocery/ca/los-osos/los-osos/703/00271,35.3112768,-120.826836,,,n_1274889705,"shop=supermarket, brand=Ralphs"
+"Creston, CA",,retail,445120,Baywood Market,,,,35.3283691,-120.8412023,,,n_1711798084,shop=convenience
+"Creston, CA",,retail,446120,MariGold Nails,,,,35.2493207,-120.6422471,,,n_1776778358,shop=beauty
+"Creston, CA",,retail,445110,Albertsons,"189 Niblick Road, Paso Robles, CA, 93446",+1 805-237-1626,https://local.albertsons.com/ca/paso-robles/189-niblick-rd.html,35.616678,-120.68083,,,n_1816864888,"shop=supermarket, brand=Albertsons"
+"Creston, CA",,retail,452210,Kohl's,"100 Niblick Road, Paso Robles, CA, 93446",+1 805-226-7570,https://www.kohls.com/stores/ca/pasorobles-960.shtml,35.6141456,-120.6848279,,,n_1816864891,"shop=department_store, brand=Kohl's"
+"Creston, CA",,retail,452210,Walmart,"180 Niblick Road, Paso Robles, CA, 93446",+1 805-238-1212,https://www.walmart.com/store/2099-paso-robles-ca,35.6124485,-120.6816742,,,n_1816864892,"shop=department_store, brand=Walmart, operator=Walmart"
+"Creston, CA",,retail,445310,Arroyo Robles Winery,1317 Park Street Paso Robles California 93446,+1-805-226-5454,https://www.arroyorobles.com/index.html,35.6281068,-120.6904076,,,n_1957086386,shop=wine
+"Creston, CA",,retail,446120,Poss Eliot Styling,1244 Pine Street 206,+1-805-239-2042,,35.6276476,-120.6886547,,,n_1957512222,shop=beauty
+"Creston, CA",,retail,445310,Grizzly Republic Wines,840 13th Street,+1-805-237-1378,http://www.grizzlyrepublicwines.com/,35.6277004,-120.6892423,,,n_1958716240,shop=wine
+"Creston, CA",,retail,445310,Los Osos Liquor & Market,"2004 Santa Ynez Avenue, Los Osos, CA, 93402",,,35.3148524,-120.8317307,,,n_1983502422,shop=alcohol
+"Creston, CA",,retail,445120,SLO Beverage 'n More,"158E Higuera Street, San Luis Obispo, CA, 93401",,,35.2693739,-120.670827,,,n_2004789314,shop=convenience
+"Creston, CA",,retail,445310,Laurel Lane Liquors,"Laurel Lane, San Luis Obispo, 93401",,,35.2666263,-120.639324,,,n_2010119482,shop=alcohol
+"Creston, CA",,retail,445310,Crossroads Liquor & Deli,San Luis Obispo,,,35.260964,-120.650297,,,n_2169873953,shop=alcohol
+"Creston, CA",,retail,445310,Sandy's Deli & Liquor,"Higuera Street, San Luis Obispo, 93401",,,35.278086,-120.666132,,,n_2172482830,shop=alcohol
+"Creston, CA",,retail,445120,7-Eleven,"1301 Monterey Street, San Luis Obispo, CA, 93401",+1 805-544-3975,https://www.7-eleven.com/locations/ca/san-luis-obispo/1301-monterey-st-21006,35.284176,-120.656785,,,n_2196474411,"shop=convenience, brand=7-Eleven"
+"Creston, CA",,retail,445110,Los Osos Mexican Market,,,,35.3118622,-120.832629,,,n_2229328054,shop=supermarket
+"Creston, CA",,retail,445120,Savage Spirits & Deli,"Spring Street, Paso Robles",,,35.635903,-120.691678,,,n_2293634623,shop=convenience
+"Creston, CA",,retail,445292,Brown Butter Cookie Company,801 12th Street,+1-805-239-5894,,35.6269198,-120.6899533,,,n_2296564153,shop=confectionery
+"Creston, CA",,retail,446120,Day Nails and Spa,"1209 Marsh Street, San Luis Obispo, CA, 93401",+1-805-783-2863,,35.282247,-120.656343,,,n_2297728847,shop=beauty
+"Creston, CA",,retail,453991,Sanctuary Tobacco Shop,"1111 Chorro Street, San Luis Obispo, 93401",(805) 543-1958,https://sanctuarytobacco.com/,35.2795892,-120.6627477,,,n_2355171165,shop=tobacco
+"Creston, CA",,retail,445120,7-Eleven,"692 Marsh Street, San Luis Obispo, CA, 93401-3931",+1 805-543-1331,https://www.7-eleven.com/locations/ca/san-luis-obispo/692-marsh-st-27835,35.278003,-120.664281,,,n_2383837471,"shop=convenience, brand=7-Eleven"
+"Creston, CA",,retail,446120,Salon Glo,San Luis Obispo,,,35.260914,-120.648796,,,n_2390199084,shop=beauty
+"Creston, CA",,retail,445310,,,,,35.7513514,-120.6967204,,,n_2401021990,shop=alcohol
+"Creston, CA",,retail,445110,,,,,35.7537719,-120.6956261,,,n_2401021993,shop=supermarket
+"Creston, CA",,retail,446120,He's Spa,,,,35.615909,-120.682873,,,n_2407408282,shop=beauty
+"Creston, CA",,retail,445292,Rocket Fizz,699 Higuera Street,,,35.278722,-120.6644654,,,n_2454776020,shop=confectionery
+"Creston, CA",,retail,445310,Central Coast Wines,712 Higuera Street,,,35.2790836,-120.664455,,,n_2454776048,shop=wine
+"Creston, CA",,retail,446120,The Ritual,787 Higuera Street,,https://theritual805.resurva.com/book,35.2796299,-120.6630156,,,n_2456191373,shop=beauty
+"Creston, CA",,retail,446120,HepKat Clothing & Beauty Parlor,785 Higuera Street,,https://www.hepkatclothing.com/,35.2795973,-120.6630703,,,n_2456191375,shop=beauty
+"Creston, CA",,retail,446120,Cal eyebrow threading,790 Marsh,,,35.2790333,-120.6625275,,,n_2456191377,shop=beauty
+"Creston, CA",,retail,446120,Bath & Body Works,842 Higuera Street,,,35.2800414,-120.6628358,,,n_2456191393,"shop=cosmetics, brand=Bath & Body Works"
+"Creston, CA",,retail,445310,Shadow Canyon Cellars,846 Higuera,,,35.2800649,-120.6627841,,,n_2456191395,shop=wine
+"Creston, CA",,retail,445292,Rocky Mountain Chocolate Factory,848 Higuera,,,35.2800927,-120.662745,,,n_2456191400,"shop=confectionery, brand=Rocky Mountain Chocolate Factory"
+"Creston, CA",,retail,446120,The Bladerunner,894 Monterey Street,,http://www.thebladerunner.com/the-bladerunner-staff/,35.2812895,-120.6624462,,,n_2456192059,shop=beauty
+"Creston, CA",,retail,445292,Brown Butter Cookie Company,895 Higuera Street,,,35.2803066,-120.661889,,,n_2456192123,"shop=confectionery, brand=Papyrus"
+"Creston, CA",,retail,446120,Professional Nails,963 Monterey Street,,,35.2812938,-120.6619351,,,n_2456192567,shop=beauty
+"Creston, CA",,retail,446120,T NAILS,781 Foothill,,https://tnailssalon.com/services/,35.2935303,-120.672229,,,n_2464105175,shop=beauty
+"Creston, CA",,retail,446120,European Wax Center,265 Madonna,,https://locations.waxcenter.com/ca/sanluisobispo/san-luis-obispo-0548.html,35.2614108,-120.6744354,,,n_2472721030,"shop=beauty, brand=European Wax Center"
+"Creston, CA",,retail,453991,M & M Smoke Shop,7321 El Camino Real,+1-805-461-0250,,35.4840001,-120.6610038,,,n_2480611185,shop=tobacco
+"Creston, CA",,retail,445110,Grocery Outlet,2100 El Camino Real,,,35.5124176,-120.697887,,,n_2481778311,"shop=supermarket, brand=Grocery Outlet"
+"Creston, CA",,retail,452210,Big Lots,"2240 El Camino Real, Atascadero, CA, 93422",+1 805-462-9913,https://local.biglots.com/ca/atascadero/2240-el-camino-real,35.5110912,-120.697068,,,n_2481778456,"shop=department_store, brand=Big Lots"
+"Creston, CA",,retail,446120,Salon62,"1112 Garden Street, San Luis Obispo, CA, 93401",,http://salon62.com/,35.2791934,-120.6631604,,,n_2487322156,shop=beauty
+"Creston, CA",,retail,445310,BevMo!,"2135 Theatre Drive, Paso Robles, CA, 93446",+1 805-226-9174,https://www.bevmo.com/stores/paso-robles,35.5854532,-120.6987145,,,n_2503386163,"shop=alcohol, brand=BevMo!"
+"Creston, CA",,retail,445292,See's Candies,,,,35.261458,-120.676375,,,n_2511022056,"shop=confectionery, brand=See's Candies"
+"Creston, CA",,retail,445310,Paul's Liquor,,,,35.448713,-120.904502,,,n_2528611423,shop=alcohol
+"Creston, CA",,retail,445110,Smart & Final Extra!,"2121 Spring Street, Paso Robles, 93446",,,35.6365178,-120.693152,,,n_2600122806,"shop=supermarket, brand=Smart & Final"
+"Creston, CA",,retail,445292,Powell's Sweet Shoppe,"840 11th Street, Paso Robles, 93446",(805) 239-1544,https://powellsss.com/,35.625629,-120.6889684,,,n_2612251132,shop=confectionery
+"Creston, CA",,retail,453110,Open Air Flowers,"1055 Osos Street, San Luis Obispo",,,35.281301,-120.661104,,,n_2711788937,shop=florist
+"Creston, CA",,retail,445292,Mama Ganache Artisan Chocolates,1445 Monterey Street,,,35.2855973,-120.6550811,,,n_2821872423,shop=confectionery
+"Creston, CA",,retail,446120,Cici Nails,1307 Monterey Street,,,35.2842399,-120.6566757,,,n_2821899072,shop=beauty
+"Creston, CA",,retail,445120,Marina,,,,35.1923702,-120.4630022,,,n_2903681810,shop=convenience
+"Creston, CA",,retail,446120,Moon Spa,"12324 Los Osos Valley Road, San Luis Obispo, 93405",+1 805 4392188,http://moonspamassage.com/,35.2486152,-120.6828472,,,n_2908246017,shop=beauty
+"Creston, CA",,retail,452210,Target,"2305 Theatre Drive, Paso Robles, CA, 93446",+1 805-227-0105,https://www.target.com/sl/Paso-Robles-Store/1120,35.5838881,-120.6990328,,,n_3109799538,"shop=department_store, brand=Target"
+"Creston, CA",,retail,452210,Ross,"2205 Theatre Drive, Paso Robles, CA, 93446",+1 805-238-3820,,35.5847695,-120.6987914,,,n_3109799540,"shop=department_store, brand=Ross"
+"Creston, CA",,retail,445310,Stephen Ross Wine Cellars,178 Suburban Road,+1-805-594-1318,https://www.stephenrosswine.com/,35.2443278,-120.6701894,,,n_3160688976,shop=wine
+"Creston, CA",,retail,446120,SalonCentric,,,,35.257989,-120.668108,,,n_3278615761,shop=beauty
+"Creston, CA",,retail,445292,Kelli's Candies,,,,35.3654866,-120.8533631,,,n_3279396861,shop=confectionery
+"Creston, CA",,retail,445210,J&R Natural Meat,,,,35.5417531,-120.7148077,,,n_3438364676,shop=butcher
+"Creston, CA",,retail,445310,,,,,35.6437526,-120.6334666,,,n_3616099948,shop=wine
+"Creston, CA",,retail,445310,,,,,35.6462286,-120.6303362,,,n_3616099969,shop=wine
+"Creston, CA",,retail,452319,Dollar Tree,,,,35.2594907,-120.6770646,,,n_3841819006,"shop=variety_store, brand=Dollar Tree"
+"Creston, CA",,retail,445310,Hearst Winery,,,,35.7234486,-120.2970747,,,n_3874088184,shop=wine
+"Creston, CA",,retail,445310,Carmody McKnight Estate Winery,,,https://carmodymcknight.com/,35.6550168,-120.8945629,,,n_3885332913,shop=wine
+"Creston, CA",,retail,445310,Hug Cellars,"2323 Tuley Court, Suite 120",,https://www.hugcellars.com/index.php,35.6441155,-120.6562821,,,n_4033380392,shop=wine
+"Creston, CA",,retail,445310,,2425 Mission Street,,,35.7641024,-120.6987039,,,n_4087123370,shop=alcohol
+"Creston, CA",,retail,445310,Bodegas Paso Robles,729 13th Street,,http://www.bodegaspasorobles.com/,35.627867,-120.6907956,,,n_4332607484,shop=wine
+"Creston, CA",,retail,445310,Herman Story Wines,1227 Paso Robles Street,,https://www.hermanstorywines.com/,35.6273346,-120.6858891,,,n_4332957381,shop=wine
+"Creston, CA",,retail,445310,Brochelle Vineyards,"2323 Tuley Court, Suite 130",,https://brochelle.com/,35.64411,-120.6561402,,,n_4343652720,shop=wine
+"Creston, CA",,retail,445110,Grocery Outlet,"Los Osos Valley Road, San Luis Obispo, CA",,,35.258463,-120.6902406,,,n_4354851036,"shop=supermarket, brand=Grocery Outlet"
+"Creston, CA",,retail,445310,Pianetta Winery,829 13th Street,,https://www.pianettawinery.com/,35.6279652,-120.6893935,,,n_4432986197,shop=wine
+"Creston, CA",,retail,445110,Lassens Natural Foods & Vitamins,896 E. Foothill Boulevard,,https://www.lassens.com/,35.2948635,-120.6699953,,,n_4446333908,shop=supermarket
+"Creston, CA",,retail,445310,Aaron Wines,,,https://aaronwines.com/,35.5761789,-120.6902399,,,n_4475937522,shop=wine
+"Creston, CA",,retail,445310,Clos Solene,3050 Limestone Way,,https://www.clossolene.com/,35.5761794,-120.6904029,,,n_4475937523,shop=wine
+"Creston, CA",,retail,445310,Brochelle Vineyards Westside,6996 Peachy Canyon Road,,https://brochelle.com/,35.5934714,-120.8205349,,,n_4477277913,shop=wine
+"Creston, CA",,retail,445310,Paso Underground,1140 Pine Street,,,35.6265534,-120.6884341,,,n_4480806809,shop=wine
+"Creston, CA",,retail,445310,Lefondusac,,,http://www.lefondusac.com/,35.5768124,-120.6884145,,,n_4831661348,shop=wine
+"Creston, CA",,retail,445310,Jacob Toft,,,https://www.jacobtoft.com,35.5767186,-120.6887632,,,n_4831661349,shop=wine
+"Creston, CA",,retail,446120,Hair Haven,,,,35.276522,-120.6661443,,,n_4915194480,shop=beauty
+"Creston, CA",,retail,453110,Albert's Florist,1357 Monterey Street,,,35.2847192,-120.6560773,,,n_4915239893,shop=florist
+"Creston, CA",,retail,446120,Salon 544,,,,35.2773174,-120.6674834,,,n_4915295504,shop=beauty
+"Creston, CA",,retail,446120,Celia's Beauty Salon,,,,35.2779223,-120.6663575,,,n_4915310904,shop=beauty
+"Creston, CA",,retail,446120,Parlour,,,,35.276966,-120.6654422,,,n_4915667651,shop=beauty
+"Creston, CA",,retail,446120,Tiger Lily,,,,35.2783126,-120.6651968,,,n_4917195525,shop=beauty
+"Creston, CA",,retail,446120,Bluebird Salon,742 Marsh Street,,https://www.bluebirdsalon.com/,35.2786152,-120.663189,,,n_4917450063,shop=beauty
+"Creston, CA",,retail,446120,Shift Hair,1050 Broad Street,,https://shifthair.com/,35.2792594,-120.6646761,,,n_4919512926,shop=beauty
+"Creston, CA",,retail,446120,MAC Cosmetics,886 Monterey Street,,,35.2810834,-120.662808,,,n_4929203586,"shop=cosmetics, brand=MAC Cosmetics"
+"Creston, CA",,retail,446120,Sephora,1090 Court,,,35.2811967,-120.6613161,,,n_4929341623,"shop=cosmetics, brand=Sephora"
+"Creston, CA",,retail,446120,Lush,1070 Court,,,35.2814126,-120.6612901,,,n_4929341625,"shop=cosmetics, brand=Lush"
+"Creston, CA",,retail,446120,Beauty Box,781 Higuera Street,,,35.2795533,-120.6631129,,,n_4929624641,shop=beauty
+"Creston, CA",,retail,446120,Posh Couture Nail & Hair Studio,774 Marsh,,,35.2788713,-120.6627552,,,n_4931227562,shop=beauty
+"Creston, CA",,retail,446120,De'Lia Marie Studio,774 Marsh,,,35.2788997,-120.6627,,,n_4931227564,shop=beauty
+"Creston, CA",,retail,446120,Level Beauty Bar,778 Marsh,,,35.2789614,-120.662607,,,n_4931227565,shop=beauty
+"Creston, CA",,retail,446120,Bronze Sun Spa,667A Marsh,,http://www.bronzesunspa.com/,35.2774243,-120.6638078,,,n_4940829192,shop=beauty
+"Creston, CA",,retail,446120,Lovely Nails,617 8th Street,,,35.6225791,-120.6918634,,,n_5254779130,shop=beauty
+"Creston, CA",,retail,446120,Olalabella Shop & Salon,611 8th Street,,,35.6225698,-120.6920276,,,n_5254779131,shop=beauty
+"Creston, CA",,retail,445299,Vivant Fine Cheese,821 Pine Street,,,35.6230084,-120.688947,,,n_5258513908,shop=cheese
+"Creston, CA",,retail,446120,Queen 4 Nails & Spa,"831 Spring Street, Paso Robles",+1 (805) 5917056,,35.6228788,-120.691712,,,n_5258523117,shop=beauty
+"Creston, CA",,retail,445120,Anything Goes,811 Spring Street,,,35.6227118,-120.691693,,,n_5258523119,shop=convenience
+"Creston, CA",,retail,445120,One Stop Food & Liquor Store,703 Spring Street,,,35.6217823,-120.6912957,,,n_5258526767,shop=convenience
+"Creston, CA",,retail,445310,D'Anbino Vineyards and Cellars,710 Pine Street,,,35.6216898,-120.687793,,,n_5264168163,shop=wine
+"Creston, CA",,retail,445292,Rocky Mountain Chocolate Factory,1106 Pine Street,,,35.6260253,-120.688619,,,n_5264781790,"shop=confectionery, brand=Rocky Mountain Chocolate Factory"
+"Creston, CA",,retail,446120,Merle Norman Cosmetic Studio,538 12th Street,,,35.6264373,-120.6931105,,,n_5264804534,shop=cosmetics
+"Creston, CA",,retail,446120,Noor Threading Studio,579 12th Street,,noorsalon.com,35.6269128,-120.6925178,,,n_5266285400,shop=beauty
+"Creston, CA",,retail,446120,The Spa Central Coast,617 12th Street,+1-805-591-7157,https://www.thespacentralcoast.com/,35.6267731,-120.6921884,,,n_5266285407,shop=beauty
+"Creston, CA",,retail,446120,The Wearhouse - Hammer Salon,819 12th Street,+1-805-835-3330,,35.6270247,-120.6895687,,,n_5266472637,shop=beauty
+"Creston, CA",,retail,445310,Taste in the Alley,1211 Pine Street,+1-805-286-4763,,35.6271226,-120.6890367,,,n_5272519031,shop=wine
+"Creston, CA",,retail,452319,General Store Paso Robles,841 12th Street,+1-805-226-5757,http://www.generalstorepr.com/,35.6269257,-120.6891021,,,n_5272519034,shop=general
+"Creston, CA",,retail,445310,Parrish Family Vineyard,1220 Park Street,+1-805-286-4028,,35.6271359,-120.6899833,,,n_5272519038,shop=wine
+"Creston, CA",,retail,446120,Salon Gloss,818 13th Street,+1-805-227-6604,,35.6276855,-120.6897574,,,n_5272612553,shop=beauty
+"Creston, CA",,retail,445310,Chayeau Lettau Winery,840 13th Street,+1-805-238-6800,,35.6276952,-120.6893555,,,n_5272612558,shop=wine
+"Creston, CA",,retail,445310,Arroyo Robles Winery,1240 Park Street,+1-805-226-5454,,35.6275697,-120.6900272,,,n_5272612561,shop=wine
+"Creston, CA",,retail,446120,Na Zhang Massage & Foot Reflexology,1222 Spring Street,+1-805-322-4148,,35.6271339,-120.6912625,,,n_5284757362,shop=beauty
+"Creston, CA",,retail,446120,Bliss Massage & Body Therapy,5811 Traffic Way,+1-805-466-0015,https://blissmassageandbodytherapy.com/,35.490895,-120.6691799,,,n_5284930450,shop=beauty
+"Creston, CA",,retail,446120,Premier Nails and Spa,"6917 El Camino Real, Atascadero, CA, 93422",,,35.4868078,-120.6653483,,,n_5284949442,shop=beauty
+"Creston, CA",,retail,453110,Arlyne's Flowers,6485 Palma Avenue,,,35.4899854,-120.6679648,,,n_5286470217,shop=florist
+"Creston, CA",,retail,446120,Morjesi's Salon,5905 Entrada Avenue,805-460-0766,,35.4898667,-120.6684823,,,n_5345803635,shop=beauty
+"Creston, CA",,retail,446120,Carousel Salon,5960 Entrada Avenue,+1-805-466-4666,,35.4897253,-120.669337,,,n_5345803638,shop=beauty
+"Creston, CA",,retail,445310,Grape Encounters EmPOURium,5816 Traffic Way,,,35.4907696,-120.6697848,,,n_5411018278,shop=wine
+"Creston, CA",,retail,453991,Club Smoke Shop,"5735 El Camino Real, Atascadero, CA, 93422",,,35.4900104,-120.6712808,,,n_5411128549,shop=tobacco
+"Creston, CA",,retail,445310,,,,,35.3917117,-120.6080698,,,n_5794853596,shop=alcohol
+"Creston, CA",,retail,452319,,,,,35.3914797,-120.6085252,,,n_5794855241,shop=variety_store
+"Creston, CA",,retail,445120,,,,,35.5500926,-120.7050215,,,n_5811748575,shop=convenience
+"Creston, CA",,retail,445310,Ale House Brewing,,,,35.5478295,-120.7070849,,,n_5968119968,shop=beverages
+"Creston, CA",,retail,445310,Stage Coach Liquor,,,,35.4939531,-120.6772942,,,n_6058040323,"shop=alcohol, amenity=fuel"
+"Creston, CA",,retail,445110,Grocery Outlet,2800 Black Oak Drive,,,35.6435681,-120.6879039,,,n_6532950185,shop=supermarket
+"Creston, CA",,retail,445310,Vending Machines,Highway 41/46,,,35.6751713,-120.3464245,,,n_6540969585,shop=beverages
+"Creston, CA",,retail,445110,Sprouts Farmers Market,"313 Madonna Road, San Luis Obispo, CA, 93405",+1 805-858-3350,https://www.sprouts.com/store/ca/san-luis-obispo/san-luis-obispo/,35.2611504,-120.6777042,,,n_7094277109,"shop=supermarket, brand=Sprouts Farmers Market"
+"Creston, CA",,retail,452210,TJ Maxx,,,,35.6465418,-120.659603,,,n_7859217565,"shop=department_store, brand=TJ Maxx"
+"Creston, CA",,retail,445230,Cornercopia Fresh Market,"604 Crestmont Drive, San Luis Obispo, CA, 93401",+1-805-547-1581,https://cornercopiafreshmarket.com/,35.2270633,-120.628023,,,n_8645862069,shop=greengrocer
+"Creston, CA",,retail,445230,Ormonde farmstand,,,,35.1649095,-120.594696,,,n_8996984917,shop=greengrocer
+"Creston, CA",,retail,445230,Cherry Blossom Asian Market,,,,35.3115803,-120.8340222,,,n_10120011712,shop=greengrocer
+"Creston, CA",,retail,446120,@ Nails,"964 Foothill Boulevard, San Luis Obispo, CA, 93405",+18052345271,,35.2945703,-120.6689995,,,n_10195974699,shop=beauty
+"Creston, CA",,retail,446120,Beauty Box,"17 Chorro Street, San Luis Obispo, CA, 93405",+18054393777,beautyboxslo.con,35.293653,-120.6708046,,,n_10195974701,shop=beauty
+"Creston, CA",,retail,453991,Royal Smoke and Vape,"592 California Boulevard, San Luis Obispo, CA, 93405",+18057521133,,35.2906877,-120.6594287,,,n_10195974705,shop=tobacco
+"Creston, CA",,retail,452319,99 Cents Only Stores,"1308 Madonna Road, San Luis Obispo, CA, 93405",,https://locations.99only.com/ca/sanluisobispo/discount-store-401.html,35.2580954,-120.6898288,,,n_10195974707,"shop=variety_store, brand=99 Cents Only Stores"
+"Creston, CA",,retail,445120,Market Grand Avenue,,,,35.2992114,-120.6561123,,,n_10205291659,shop=convenience
+"Creston, CA",,retail,446120,Ocean Nails & Spa,"1346 Madonna Road, San Luis Obispo, CA, 93405",+1-805-544-3126,,35.258328,-120.6910713,,,n_10240903946,shop=beauty
+"Creston, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/san-luis-obispo-ca-pharmacies/1300-madonna-rd-san-luis-obispo-ca-93405/storeid=9873,35.2579325,-120.6896088,,,n_10240903951,"shop=chemist, brand=CVS Pharmacy"
+"Creston, CA",,retail,453991,The Club Smoke Shop,,,,35.2495894,-120.6418522,,,n_10826244705,shop=tobacco
+"Creston, CA",,retail,446120,Skin Lounge,787 Foothill Boulevard,+1 805-439-3354,https://skynloungeslo.com,35.2937949,-120.6723557,,,n_11135166334,shop=beauty
+"Creston, CA",,retail,445310,15 Degrees C,,,,35.254778,-120.6457331,,,n_11343887712,shop=wine
+"Creston, CA",,retail,446120,Ultra Cosmetics,"2145 Theatre Drive, Paso Robles, CA, 93446",,,35.5852363,-120.6987612,,,n_12087642728,shop=cosmetics
+"Creston, CA",,retail,452319,Five Below,"2169 Theatre Drive, Paso Robles, CA, 93446",+1 805-309-9730,https://locations.fivebelow.com/ca/paso-robles/2169-theatre-drive,35.5856521,-120.6969139,,,n_12087642736,"shop=variety_store, brand=Five Below"
+"Creston, CA",,retail,452319,Dollar Tree,"2173 Theatre Drive, Paso Robles, CA, 93446-9647",+1 805-400-6000,,35.5856579,-120.6972004,,,n_12087642737,"shop=variety_store, brand=Dollar Tree"
+"Creston, CA",,retail,446120,Sky Nails Spa,"2307 Theatre Drive, Paso Robles, CA, 93446",,,35.5833454,-120.6971216,,,n_12087642751,shop=beauty
+"Creston, CA",,retail,445292,See's Candies,"2307 Theatre Drive, Paso Robles, CA, 93446",+1 805-226-7503,https://chocolateshops.sees.com/ca/pasorobles/chocolate_shops_paso-robles_ca_1ca113.html,35.5833433,-120.6971882,,,n_12087642752,"shop=confectionery, brand=See's Candies"
+"Creston, CA",,retail,445210,Cal Poly Meats,,+18057562114,https://www.calpolymeats.com/,35.3144062,-120.6806756,,,n_12197743453,shop=butcher
+"Creston, CA",,retail,446120,5 Star Medical,"11545 Los Osos Valley Road, San Luis Obispo, CA, 93405",+1-805-316-1882,https://5starmedicalinc.com/,35.2578895,-120.6922241,,,n_12290828488,shop=beauty
+"Creston, CA",,retail,445120,,2069 Story,,,35.2717509,-120.6585604,,,w_45596222,shop=convenience
+"Creston, CA",,retail,453110,Sprigs,788 Pismo,,,35.277541,-120.6612561,,,w_45597364,shop=florist
+"Creston, CA",,retail,445310,Sidewalk Market Liquor and Deli,1401 Osos Street,,,35.2786447,-120.6588334,,,w_45597427,shop=alcohol
+"Creston, CA",,retail,445110,Smart & Final Extra!,1321 Johnson Avenue,+1-805-596-0867,,35.2817004,-120.655725,,,w_45597718,"shop=supermarket, brand=Smart & Final"
+"Creston, CA",,retail,445110,California Fresh Market,771 Foothill Boulevard,,https://www.californiafreshmarket.com/StoreLocator/Store?L=131671&M=&From=&S=,35.2930884,-120.6730013,,,w_45599266,shop=supermarket
+"Creston, CA",,retail,445310,Cork and Bottle Liquor,"774 Foothill, San Luis Obispo",,,35.2945615,-120.6724139,,,w_45599568,shop=alcohol
+"Creston, CA",,retail,445310,Campus Bottle,290 California,,,35.2929008,-120.6616912,,,w_45599870,shop=alcohol
+"Creston, CA",,retail,445120,,1756 Monterey,,,35.2881923,-120.6523215,,,w_45600061,shop=convenience
+"Creston, CA",,retail,445120,,"11590 Los Osos Valley Road, San Luis Obispo, 93405",,,35.2569338,-120.6906695,,,w_45612172,shop=convenience
+"Creston, CA",,retail,445310,,2600 Broad,,,35.2657397,-120.6528342,,,w_45615661,shop=alcohol
+"Creston, CA",,retail,445120,,,,,35.2688313,-120.6698825,,,w_45617294,shop=convenience
+"Creston, CA",,retail,445210,Cattaneo Brothers,769 Caudill,,https://www.cattaneobros.com/,35.266644,-120.653089,,,w_45618066,shop=butcher
+"Creston, CA",,retail,445110,SLO Natural Foods,,,,35.2673419,-120.6524242,,,w_45618089,shop=supermarket
+"Creston, CA",,retail,445120,Conserv Mart,2211 Broad,,,35.2691165,-120.6567367,,,w_45618130,shop=convenience
+"Creston, CA",,retail,445120,,254 Santa Rosa,,,35.2889988,-120.6649234,,,w_45630177,shop=convenience
+"Creston, CA",,retail,445310,Tolosa Winery,4910 Edna Road,,http://www.tolosawinery.com/,35.2312445,-120.6244346,,,w_45635876,shop=wine
+"Creston, CA",,retail,453110,San Luis Floral and Gifts,"3191 South Higuera Street, San Luis Obispo, 93401",,,35.2574872,-120.6681255,,,w_45636293,shop=florist
+"Creston, CA",,retail,445120,ExtraMile,3180 Broad Street,,,35.2619083,-120.6495412,,,w_45637508,"shop=convenience, brand=ExtraMile"
+"Creston, CA",,retail,452210,Kohl's,"205 Madonna Road, San Luis Obispo, CA, 93405",+1 805-781-0634,https://www.kohls.com/stores/ca/sanluisobispo-1378.shtml,35.2629894,-120.6750727,,,w_45637747,"shop=department_store, brand=Kohl's"
+"Creston, CA",,retail,445110,Ralphs,"201 Madonna Road, San Luis Obispo, CA, 93405",+1 805-546-0407,https://www.ralphs.com/stores/grocery/ca/san-luis-obispo/madonna-plaza/703/00656,35.2635143,-120.6757365,,,w_45637750,"shop=supermarket, brand=Ralphs"
+"Creston, CA",,retail,445120,Shell,,,,35.2645118,-120.6764451,,,w_45638035,"shop=convenience, brand=Shell"
+"Creston, CA",,retail,445120,Cal Poly Campus Market,"Grand, San Luis Obispo, 93407",,,35.3032903,-120.6629765,,,w_45638397,shop=convenience
+"Creston, CA",,retail,445120,Edna Valley Market,,,,35.2475867,-120.6434369,,,w_45644142,shop=convenience
+"Creston, CA",,retail,445310,BevMo!,,,,35.252529,-120.6883865,,,w_45644403,"shop=alcohol, brand=BevMo!"
+"Creston, CA",,retail,445110,Whole Foods Market,"1531 Froom Ranch Way, San Luis Obispo, CA, 93405",+1 805-785-0194,https://www.wholefoodsmarket.com/stores/sanluisobispo,35.2507157,-120.6872008,,,w_45644406,"shop=supermarket, brand=Whole Foods Market"
+"Creston, CA",,retail,445310,Filipponi Ranch Cellars/Clesi Wines,1850 Calle Joaquin,,,35.2335106,-120.6890264,,,w_45645252,shop=wine
+"Creston, CA",,retail,452319,Rite Aid,2424 Spring Street,,,35.6396946,-120.6915571,,,w_75717118,shop=general
+"Creston, CA",,retail,445110,Vons,"7135 El Camino Real, Atascadero, CA, 93422",+1 805-466-4949,https://local.vons.com/ca/atascadero/7135-el-camino-real.html,35.4859067,-120.6620631,,,w_131286161,"shop=supermarket, brand=Vons"
+"Creston, CA",,retail,445310,,9339 Adelaida Road,,https://www.tablascreek.com/,35.6365137,-120.8596421,,,w_132901496,shop=wine
+"Creston, CA",,retail,445110,Smart & Final Extra!,1191 Creston Road,,https://www.haggen.com/,35.6238209,-120.6602369,,,w_132906645,"shop=supermarket, brand=Smart & Final"
+"Creston, CA",,retail,445110,Vons,"3900 Broad Street, San Luis Obispo, CA, 93401",+1 805-541-1055,https://local.vons.com/ca/san-luis-obispo/3900-broad-st.html,35.2504054,-120.641954,,,w_133113587,"shop=supermarket, brand=Vons"
+"Creston, CA",,retail,445120,Valley Liquor,2199 10th Street,,,35.3114545,-120.8325874,,,w_158966942,shop=convenience
+"Creston, CA",,retail,452319,Public Exchange,,,,35.3239204,-120.7324189,,,w_159254316,shop=general
+"Creston, CA",,retail,452210,Target,"11990 Los Osos Valley Road, San Luis Obispo, CA, 93405-6861",+1 805-858-9902,https://www.target.com/sl/san-luis-obispo/2759,35.2523912,-120.684587,,,w_161256109,"shop=department_store, brand=Target"
+"Creston, CA",,retail,446120,Monarch Moon Spa,330 Morro Bay Boulevard,,,35.3657128,-120.8495441,,,w_163126132,shop=beauty
+"Creston, CA",,retail,453991,Tobacco Plus,385 Morro Bay Boulevard,+1-805-772-1172,,35.366303,-120.8490895,,,w_163126140,shop=tobacco
+"Creston, CA",,retail,446120,Holistic Movement Center,"845 Napa Avenue, Morro Bay, CA, 93442",,,35.3663696,-120.8479412,,,w_163129962,shop=beauty
+"Creston, CA",,retail,445230,Sunshine Health Foods,415 Morro Bay Boulevard,+1-805-772-7873,https://sunshinemorrobay.com/,35.366138,-120.8485361,,,w_163129976,shop=greengrocer
+"Creston, CA",,retail,452319,Dollar Tree,710 Quintana Road,,https://www.dollartree.com/locations/ca/morro-bay/3246/,35.3689154,-120.8442286,,,w_163131837,"shop=variety_store, brand=Dollar Tree"
+"Creston, CA",,retail,446120,Serenity by the Sea,545 Main Street,+1-805-772-7333,https://serenitymorrobay.com/,35.3628412,-120.8502934,,,w_163743755,shop=beauty
+"Creston, CA",,retail,445310,Venteux Vineyards,1795 Las Tablas Road,+1-805-369-0127,https://www.venteuxvineyards.com/,35.5552686,-120.7349099,,,w_163759431,shop=wine
+"Creston, CA",,retail,445120,Sinclair,940 Morro Bay Boulevard,,,35.3661451,-120.8410178,,,w_164765909,"shop=convenience, amenity=fuel, brand=Sinclair"
+"Creston, CA",,retail,445120,,900 Morro Bay Boulevard,,,35.3657503,-120.8416987,,,w_164765910,shop=convenience
+"Creston, CA",,retail,445120,ampm,940 Morro Bay Boulevard,,,35.3658498,-120.8409042,,,w_164765913,"shop=convenience, brand=ampm"
+"Creston, CA",,retail,445120,Mobil Mart,911 Morro Bay Boulevard,,,35.3666108,-120.8417257,,,w_164842860,"shop=convenience, brand=Mobil Mart"
+"Creston, CA",,retail,445120,ampm,"1900 Ramada Drive, Paso Robles, CA",,,35.5895655,-120.6937531,,,w_164860590,"shop=convenience, brand=ampm"
+"Creston, CA",,retail,446120,Twist Studio Spa,1421 Spring Street,,,35.6292375,-120.6918816,,,w_164868065,shop=beauty
+"Creston, CA",,retail,445120,7-Eleven,2331 Spring Street,,https://www.7-eleven.com/locations/ca/paso-robles/2331-spring-35067,35.6387025,-120.6929368,,,w_164870516,"shop=convenience, brand=7-Eleven"
+"Creston, CA",,retail,445120,ampm,2715 Black Oak Drive,,,35.6425273,-120.6866519,,,w_164871183,"shop=convenience, brand=ampm"
+"Creston, CA",,retail,445310,,396 Highway 41 West,,,35.3803245,-120.8539271,,,w_164963762,shop=alcohol
+"Creston, CA",,retail,445120,Rinconada General Store,4995 Santa Margarita Lake Road,,,35.3180286,-120.5077982,,,w_165642741,shop=convenience
+"Creston, CA",,retail,453110,Bloom 'n Grow,9955 El Camino Real,,,35.4639254,-120.6465407,,,w_165683530,shop=florist
+"Creston, CA",,retail,445120,Chalk Mountain Liquor & Deli,9990 El Camino Real,,,35.4636071,-120.6472295,,,w_165684181,shop=convenience
+"Creston, CA",,retail,445110,Smart & Final Extra!,"8200 El Camino Real, Atascadero, 93442",,,35.475527,-120.6566687,,,w_165684506,"shop=supermarket, brand=Smart & Final"
+"Creston, CA",,retail,445310,El Camino Liquor,7403 El Camino Real,,,35.4825212,-120.6593244,,,w_165684801,shop=alcohol
+"Creston, CA",,retail,445310,Nichols Winery & Cellars,4615 Traffic Way,,http://www.nicholswinery.com/,35.5064542,-120.6672,,,w_165687343,shop=wine
+"Creston, CA",,retail,445310,Paloma Creek Liquor,11250 Viejo Camino,,,35.454579,-120.638918,,,w_165794103,shop=alcohol
+"Creston, CA",,retail,445120,Chevron,,,,35.4845665,-120.6657222,,,w_165794740,"shop=convenience, brand=Chevron"
+"Creston, CA",,retail,445120,76,6305 Highway 41 West,,,35.4842137,-120.6646888,,,w_165794840,"shop=convenience, brand=76"
+"Creston, CA",,retail,445110,Spencer's Fresh Market,2650 Main Street,,,35.3899509,-120.8572477,,,w_166142420,shop=supermarket
+"Creston, CA",,retail,445310,Del Mar Liquor & Deli,2864 Main Street,,,35.3931736,-120.8597336,,,w_166498685,shop=alcohol
+"Creston, CA",,retail,445120,Chevron Food Mart,998 K Street,,,35.7475052,-120.6993304,,,w_170044888,shop=convenience
+"Creston, CA",,retail,445310,Clavo Cellars,315 Main Street,,https://www.clavocellars.com/,35.550039,-120.7043759,,,w_172085760,shop=wine
+"Creston, CA",,retail,445310,Templeton Spirits,575 Main Street,,,35.5483711,-120.7057978,,,w_172085988,shop=alcohol
+"Creston, CA",,retail,445110,Trader Joe's,"1111 Rossi Road, Templeton, CA, 93465",+1 805-434-9562,https://locations.traderjoes.com/ca/templeton/211/,35.5419657,-120.7151388,,,w_172089723,"shop=supermarket, brand=Trader Joe's"
+"Creston, CA",,retail,445310,Ancient Peaks Winery,22720 El Camino Real,,https://ancientpeaks.com/,35.3890547,-120.6129899,,,w_172224478,shop=wine
+"Creston, CA",,retail,445310,,22340 El Camino Real,,,35.3917257,-120.6081009,,,w_172227720,shop=alcohol
+"Creston, CA",,retail,445310,Pacific Beverage,22255 El Camino Real,,,35.3920592,-120.6061533,,,w_172229156,shop=beverages
+"Creston, CA",,retail,445310,Glunz Family Winery & Cellars,8331 Highway 46 East,,http://www.glunzfamilywinery.com/,35.6573852,-120.5455421,,,w_174379617,shop=wine
+"Creston, CA",,retail,445310,SummerWood Winery,2175 Arbor Road,,http://www.summerwoodwine.com/,35.5841742,-120.7152251,,,w_175348579,shop=wine
+"Creston, CA",,retail,445210,J&R Natural Meats,Riverside Avenue,+1-805-237-8100,https://www.jrmeats.com/,35.6507789,-120.6904707,,,w_175492469,shop=butcher
+"Creston, CA",,retail,445310,Chene Vineyards,1990 Corbett Canyon Road,,https://www.chenewines.com/,35.1862896,-120.5766525,,,w_176092101,shop=wine
+"Creston, CA",,retail,445310,Sextant Wines,1653 Old Price Canyon Road,,https://www.sextantwines.com/,35.2022892,-120.6121035,,,w_176222291,shop=wine
+"Creston, CA",,retail,445310,Claiborne & Churchill Winery,2649 Carpenter Canyon Road,,https://www.claibornechurchill.com/,35.1981034,-120.6051928,,,w_176222347,shop=wine
+"Creston, CA",,retail,445310,Center of Effort,2199 Corbett Canyon Road,,http://www.centerofeffortwine.com/,35.1882024,-120.5858636,,,w_176242744,shop=wine
+"Creston, CA",,retail,445310,Saucelito Canyon Vineyard,3080 Biddle Ranch Road,,https://www.saucelitocanyon.com/,35.2198868,-120.6011296,,,w_177037504,shop=wine
+"Creston, CA",,retail,445310,Edna Valley Vineyard,2585 Biddle Ranch Road,,https://www.ednavalleyvineyard.com/,35.2169326,-120.6076718,,,w_177043267,shop=wine
+"Creston, CA",,retail,445310,Baileyana Winery,5828 Orcutt Road,,https://www.baileyana.com/,35.2273224,-120.5996593,,,w_177043285,shop=wine
+"Creston, CA",,retail,445310,Biddle Ranch Vineyard,2050 Biddle Ranch Road,,http://www.biddleranch.com/,35.2159973,-120.6144541,,,w_177045881,shop=wine
+"Creston, CA",,retail,445310,Mondo Cellars,"Nacimiento Lake Drive, Paso Robles",,,35.6838492,-120.753405,,,w_177200651,shop=wine
+"Creston, CA",,retail,445310,Chronic Cellars,2020 Nacimiento Lake Drive,,https://www.chroniccellars.com/,35.6744494,-120.7302273,,,w_177203335,shop=wine
+"Creston, CA",,retail,445310,Rabbit Ridge,1425 San Marcos Road,+1-805-467-3331,https://www.rabbitridgewinery.com/,35.7026761,-120.718384,,,w_177207935,shop=wine
+"Creston, CA",,retail,445310,Locatelli Vineyards & Winery,8585 Cross Canyon Road,,http://www.locatelliwinery.com/,35.7538358,-120.6765784,,,w_177230540,shop=wine
+"Creston, CA",,retail,445310,P.S. Cellars,13350 River Road,,,35.7506686,-120.6787339,,,w_177230546,shop=wine
+"Creston, CA",,retail,445310,McPrice Myers,3525 Adelaida Road,,https://www.mcpricemyers.com/,35.6556521,-120.7576954,,,w_177352665,shop=wine
+"Creston, CA",,retail,445310,Lone Madrone,5800 Adelaida Road,,https://www.lonemadrone.com/,35.6500485,-120.7966884,,,w_177359660,shop=wine
+"Creston, CA",,retail,445310,Nadeau Family Vintners,3860 Peachy Canyon Road,,https://nadeaufamilyvintners.com/,35.6285541,-120.7656685,,,w_177359705,shop=wine
+"Creston, CA",,retail,445310,Minassian-Young Vineyards,4045 Peachy Canyon Road,,https://www.m-yv.com/,35.6247923,-120.7649622,,,w_177367231,shop=wine
+"Creston, CA",,retail,445310,Treana & Hope Family Wines,1585 Live Oak Road,,https://www.hopefamilywines.com/treana/,35.58793,-120.7211424,,,w_191608012,shop=wine
+"Creston, CA",,retail,445310,Fratelli Perata,1595 Arbor Road,,https://fratelliperata.com/,35.5933507,-120.7161055,,,w_191610512,shop=wine
+"Creston, CA",,retail,445310,Castoro Cellars,1315 N Bethel Road,+1-805-238-0725,https://www.castorocellars.com,35.5773017,-120.7231509,,,w_191620826,shop=wine
+"Creston, CA",,retail,445310,Tooth & Nail Winery,3090 Anderson Road,,http://www.toothandnailwinery.com/,35.5761781,-120.7327103,,,w_191620869,shop=wine
+"Creston, CA",,retail,445310,Powell Mountain Cellars,3050 Blue Rock Road,,http://powellmountaincellars.com/,35.5761961,-120.6889812,,,w_191757534,shop=wine
+"Creston, CA",,retail,445310,Levo Winery,2975 Limestone Way,,http://www.levowine.com/,35.5766083,-120.6896775,,,w_191757547,shop=wine
+"Creston, CA",,retail,445310,Turley Wine Cellars,2900 Vineyard Drive,,http://www.turleywinecellars.com/,35.5536106,-120.7515755,,,w_191768394,shop=wine
+"Creston, CA",,retail,445310,,3235 Oakdale Road,,,35.5653372,-120.7527829,,,w_191768433,shop=wine
+"Creston, CA",,retail,445310,PasoPort / Per Cazo Cellars,95 Booker Road,,https://www.pasoportwine.com/,35.5617748,-120.7400234,,,w_191768474,shop=wine
+"Creston, CA",,retail,445310,Croad Vineyards,3550 Vinedo Robles Lane,,https://www.croadvineyards.com/,35.5586879,-120.7588643,,,w_191768479,shop=wine
+"Creston, CA",,retail,445310,Gelfand Vineyards,5530 Dresser Ranch Place,,http://www.gelfandvineyards.com/,35.6088701,-120.5954717,,,w_195830931,shop=wine
+"Creston, CA",,retail,445310,Pear Valley Vineyard & Winery,4900 Union Road,,https://pearvalley.com/,35.636413,-120.6070166,,,w_195834845,shop=wine
+"Creston, CA",,retail,445310,Clautiere Vineyard,1340 Penman Springs Road,,https://www.clautiere.com/,35.6203898,-120.6143928,,,w_195835641,shop=wine
+"Creston, CA",,retail,445310,Le Vigne Winery,5115 Buena Vista Drive,,https://www.levignewinery.com/,35.6745218,-120.65924,,,w_195998965,shop=wine
+"Creston, CA",,retail,445120,Dino Mart,,,,35.6954664,-120.6979441,,,w_196925901,shop=convenience
+"Creston, CA",,retail,445310,Rancho Arroyo Grande Shop,591 Hi Mountain Road,,,35.2002078,-120.4308281,,,w_204475375,shop=wine
+"Creston, CA",,retail,445310,Oso Libre Winery,7383 Vineyard Drive,,http://www.osolibre.com/#welcome,35.5954928,-120.8326634,,,w_204598699,shop=wine
+"Creston, CA",,retail,445310,,3031 Lopez Drive,,https://www.talleyvineyards.com/,35.1792263,-120.5239861,,,w_207773292,shop=wine
+"Creston, CA",,retail,445310,Autry Cellars,5450 Edna Road,,https://autrycellars.com/,35.2257958,-120.6216036,,,w_208616444,shop=wine
+"Creston, CA",,retail,445310,Kynsi Winery,2212 Corbett Canyon Road,,https://www.kynsi.com/,35.1898823,-120.5815133,,,w_208867817,shop=wine
+"Creston, CA",,retail,445310,Chamisal Vineyards,7525 Orcutt Road,,https://www.chamisalvineyards.com/,35.2003394,-120.5717207,,,w_209826344,shop=wine
+"Creston, CA",,retail,445310,Wolff Vineyards,6238 Orcutt Road,,https://wolffvineyards.com/,35.2198272,-120.5918708,,,w_209826842,shop=wine
+"Creston, CA",,retail,445310,,11680 Chimney Rock Road,,,35.6549847,-120.9008578,,,w_211184290,shop=wine
+"Creston, CA",,retail,445310,,2400 Highway 46 West,,https://www.ninerwine.com/,35.5701642,-120.7419105,,,w_211191557,shop=wine
+"Creston, CA",,retail,445310,Thacher Winery,8355 Vineyard Drive,,https://www.thacherwinery.com/,35.609879,-120.8446771,,,w_211195276,shop=wine
+"Creston, CA",,retail,445310,,3030 Vineyard Drive,,,35.5563677,-120.7639949,,,w_211196956,shop=wine
+"Creston, CA",,retail,445310,Kaleidos,3770 Willow Creek Road,,http://www.kaleidoswine.com/,35.5620176,-120.7709417,,,w_211197016,shop=wine
+"Creston, CA",,retail,445310,Penman Springs Vineyard,1985 Penman Springs Road,,https://penmansprings.com/,35.6268531,-120.6148429,,,w_211358698,shop=wine
+"Creston, CA",,retail,445310,Victor Hugo Winery,2850 El Pomar Drive,,https://www.victorhugowinery.com/,35.563588,-120.6489345,,,w_211382595,shop=wine
+"Creston, CA",,retail,445310,Broken Earth Winery,,,,35.6574707,-120.595617,,,w_212454703,shop=wine
+"Creston, CA",,retail,445310,Broken Earth Winery,5625 46 East,,,35.6581418,-120.5962306,,,w_212454704,shop=wine
+"Creston, CA",,retail,445310,TH Estate Wines,870 Arbor Road,,http://www.thestatewines.com/,35.6044518,-120.7165154,,,w_212765599,shop=wine
+"Creston, CA",,retail,445310,Ecluse Wines,1520 Kiler Canyon Road,,https://www.eclusewines.com/,35.6099615,-120.7183305,,,w_212765604,shop=wine
+"Creston, CA",,retail,445310,Opolo Vineyards,7110 Vineyard Drive,,https://www.opolo.com/,35.5918374,-120.8157616,,,w_212772985,shop=wine
+"Creston, CA",,retail,445310,Tackitt Family Vineyards,6640 Von Dollen Road,,https://www.tackittfamilyvineyards.com/,35.7328947,-120.5974095,,,w_213225090,shop=wine
+"Creston, CA",,retail,445310,Jada Vineyard & Winery,5620 Vineyard Drive,,http://jadavineyard.com/#all-estate,35.5809987,-120.79694,,,w_213901907,shop=wine
+"Creston, CA",,retail,445310,Villa Creek Cellars,5995 Peachy Canyon Road,,http://www.villacreekwine.com/,35.6146009,-120.7995581,,,w_215117470,shop=wine
+"Creston, CA",,retail,445310,Le Cuvier Winery,3333 Vine Hill Lane,,http://www.lcwine.com/,35.6514265,-120.7322402,,,w_215128428,shop=wine
+"Creston, CA",,retail,445120,ExtraMile,441 Marsh Street,,,35.2754632,-120.6687232,,,w_216511907,"shop=convenience, brand=ExtraMile"
+"Creston, CA",,retail,445310,Tobin James Cellars,8950 Union Road,,https://www.tobinjames.com/,35.654714,-120.534408,,,w_228989201,shop=wine
+"Creston, CA",,retail,445310,Michael Gill Cellars,4125 Peachy Canyon Road,+1-805-239-1668,https://gillcellars.com/,35.6248039,-120.7688894,,,w_229737115,shop=wine
+"Creston, CA",,retail,445310,J Paul Rosilez Winery,4889 Dry Creek Road,,,35.6590886,-120.6071985,,,w_233643207,shop=wine
+"Creston, CA",,retail,445310,Windward Vineyard,1380 Live Oak Road,,,35.5894382,-120.7151909,,,w_234725335,shop=wine
+"Creston, CA",,retail,446110,Rite Aid,"7025 El Camino Real, Atascadero, CA, 93422",,https://www.riteaid.com/locations/ca/atascadero/7025-el-camino-real.html,35.4863608,-120.6640598,,,w_240318484,"shop=chemist, brand=Rite Aid"
+"Creston, CA",,retail,445110,Grocery Outlet,"1130 Los Osos Valley Road, 93402",,https://www.haggen.com/,35.3118449,-120.8299915,,,w_242400313,"shop=supermarket, brand=Grocery Outlet"
+"Creston, CA",,retail,452210,TJ Maxx,1531 Froom Ranch,,,35.250437,-120.6876247,,,w_242719272,"shop=department_store, brand=TJ Maxx"
+"Creston, CA",,retail,445120,Creston Country Store,6330 Webster Road,,,35.5186757,-120.5248177,,,w_266044932,shop=convenience
+"Creston, CA",,retail,445120,Circle K,6930 Highway 41 West,,,35.48155,-120.6667201,,,w_276870775,"shop=convenience, brand=Circle K"
+"Creston, CA",,retail,445120,Hitching Post Food Mart,8000 Highway 41 West,,,35.4736071,-120.6688067,,,w_276870933,shop=convenience
+"Creston, CA",,retail,445310,Peachy Canyon Winery,1480 N Bethel Road,,https://www.peachycanyon.com/,35.5798724,-120.7188685,,,w_278354841,shop=wine
+"Creston, CA",,retail,445310,The Farm Winery,10920 Chimney Rock Road,,https://www.thefarmwinery.com/,35.661437,-120.8908299,,,w_283648504,shop=wine
+"Creston, CA",,retail,445110,Food 4 Less,,,,35.4735852,-120.6559586,,,w_307249203,"shop=supermarket, brand=Food 4 Less"
+"Creston, CA",,retail,445310,Kelsey See Canyon Vineyards,1947 See Canyon Road,+1-805-595-9700,http://kelseywine.com,35.2082036,-120.7186149,,,w_310671855,shop=wine
+"Creston, CA",,retail,445292,Crill's Saltwater Taffy,1247 Embarcadero Road,,,35.3709497,-120.8575359,,,w_317983443,shop=confectionery
+"Creston, CA",,retail,446120,Catch a Wave Beauty Salon,520 Quintana Road,,,35.3694163,-120.845718,,,w_318439106,shop=beauty
+"Creston, CA",,retail,453991,Morro Bay Cigarettes,640 Quintana Road,+1-805-772-1920,,35.3687386,-120.8448359,,,w_318457584,shop=tobacco
+"Creston, CA",,retail,446120,Morro Nails,650 Quintana Road,,,35.3687088,-120.8447839,,,w_318457585,shop=beauty
+"Creston, CA",,retail,452319,Farmer's Kites and Surreys,1108 Front Avenue,,,35.3689133,-120.8540194,,,w_318655758,shop=variety_store
+"Creston, CA",,retail,445292,Crills II,901 Embarcadero Road,,,35.3670043,-120.8537975,,,w_319621773,shop=confectionery
+"Creston, CA",,retail,445210,Morro Bay Butcher & Deli,911 Main Street,,,35.3670225,-120.8502496,,,w_319650588,shop=butcher
+"Creston, CA",,retail,453110,Harbor Floral,"868 Napa Avenue, Morro Bay, CA, 93442",,,35.3664465,-120.8475131,,,w_319786448,shop=florist
+"Creston, CA",,retail,445110,Albertsons,"730 Quintana Road, Morro Bay, CA, 93442",+1 805-772-0670,https://local.albertsons.com/ca/morro-bay/730-quintana-rd.html,35.3674989,-120.8444384,,,w_320121809,"shop=supermarket, brand=Albertsons"
+"Creston, CA",,retail,445310,Mitchella Vineyard & Winery,2525 Mitchell Ranch Way,,https://www.mitchella.com/,35.6419327,-120.6344569,,,w_356105626,shop=wine
+"Creston, CA",,retail,446120,Sky Nails & Spa,207 Madonna,,,35.2626364,-120.6747856,,,w_380884670,shop=beauty
+"Creston, CA",,retail,445310,Nicora Winery,2945 Limestone Way,,https://www.nicorawine.com/the-story/,35.576633,-120.6890136,,,w_385876998,shop=wine
+"Creston, CA",,retail,445310,Desparada Winery,3060 Limestone Way,,https://www.desparada.com/,35.575893,-120.6903817,,,w_385877003,shop=wine
+"Creston, CA",,retail,452319,Dollar Tree,2238 Broad Street,,https://www.dollartree.com/locations/ca/san-luis-obispo/1485/,35.2693374,-120.6557256,,,w_389750965,"shop=variety_store, brand=Dollar Tree"
+"Creston, CA",,retail,445310,,240 East Centre Street,,,35.6552503,-120.3756371,,,w_394724798,shop=alcohol
+"Creston, CA",,retail,445310,Villa San Juliette Vineyard and Winery,6385 Cross Canyon Road,,https://www.villasanjuliette.com/,35.7494827,-120.6152403,,,w_491217491,shop=wine
+"Creston, CA",,retail,446120,Paso Nails and Spa,1215 Park Street,+1-805-227-4444,,35.6270613,-120.6903645,,,w_706847692,shop=beauty
+"Creston, CA",,retail,445310,Asuncion Ridge Vineyards,725 12th Street,,http://www.asuncionridge.com,35.6269882,-120.6907388,,,w_706847697,shop=wine
+"Creston, CA",,retail,445292,Lily's Yogurt,721 12th Street,+1-805-296-3135,,35.626983,-120.6908245,,,w_706847698,shop=confectionery
+"Creston, CA",,retail,452319,Dollar General,"972 K Street, San Miguel, CA, 93451",,https://www.dollargeneral.com/store-directory/ca/san-miguel/17422,35.7467871,-120.6993172,,,w_719031300,shop=variety_store
+"Creston, CA",,retail,445120,Chevron,701 Las Tablas Road,,,35.5540502,-120.7106698,,,w_812805151,"shop=convenience, brand=Chevron"
+"Creston, CA",,retail,445120,Chevron,8955 Montecito Avenue,,,35.465155,-120.6495307,,,w_812809878,"shop=convenience, brand=Chevron"
+"Creston, CA",,retail,445292,Cayucos Candy Counter,"75 Cayucos Drive, Cayucos, CA, 93430",,,35.4493734,-120.9061878,,,w_1258454993,shop=confectionery
+"Creston, CA",,retail,446120,Mical Skincare,"95 Cayucos Drive, Cayucos, CA, 93430",,,35.4494816,-120.9061664,,,w_1258454994,shop=beauty
+"Creston, CA",,retail,445110,Food 4 Less,"3985 South Higuera Street, San Luis Obispo, CA, 93401",+1 805-782-8989,,35.2445236,-120.6731801,,,w_1343239086,"shop=supermarket, brand=Food 4 Less"
+"Creston, CA",,retail,445110,Trader Joe's,"3977 South Higuera Street, San Luis Obispo, CA, 93401",+1 805-783-2780,https://locations.traderjoes.com/ca/san-luis-obispo/41/,35.2450515,-120.6732686,,,w_1343239087,"shop=supermarket, brand=Trader Joe's"
+"Creston, CA",,retail,446120,Happy Nails,"3971 South Higuera Street, San Luis Obispo, CA, 93401",+1 805-545-5878,,35.2454869,-120.6732164,,,w_1343239091,shop=beauty

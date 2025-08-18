@@ -1,0 +1,5 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Valdez, AK",,retail,445110,Safeway,"1313 Meals Avenue, Valdez, AK, 99686",+1 907-461-3300,https://local.safeway.com/safeway/ak/valdez/1313-meals-st.html,61.1312458,-146.3491136,,,n_10009475342,"shop=supermarket, brand=Safeway"
+"Valdez, AK",,retail,445120,Acres Kwik Trip,,,,61.1242215,-146.2672556,,,w_514570798,shop=convenience
+"Valdez, AK",,retail,445230,Rogue's Garden,,,,61.1296499,-146.3596661,,,w_514868229,shop=greengrocer
+"Valdez, AK",,retail,445120,Cap'n Joe's,"131 East Pioneer Drive, Valdez, AK",,,61.1313346,-146.3479607,,,w_515427542,shop=convenience

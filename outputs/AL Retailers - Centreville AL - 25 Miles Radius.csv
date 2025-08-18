@@ -1,0 +1,29 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Centreville, AL",,retail,445230,,,,,32.8008797,-86.9140101,,,n_1429046726,shop=greengrocer
+"Centreville, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/duncanville/12641,33.0900013,-87.4582024,,,n_2742367678,"shop=variety_store, brand=Dollar General"
+"Centreville, AL",,retail,445120,Love's,,,,33.2787845,-87.0988937,,,n_6996962823,shop=convenience
+"Centreville, AL",,retail,452319,Dollar General,,,,33.1744641,-87.2420597,,,n_8309378443,"shop=variety_store, brand=Dollar General"
+"Centreville, AL",,retail,445120,,,,,33.2465511,-87.137524,,,n_12175749059,shop=convenience
+"Centreville, AL",,retail,445120,,,,,33.2461503,-87.1378722,,,n_12175749060,shop=convenience
+"Centreville, AL",,retail,445120,,,,,33.2470269,-87.1369223,,,n_12175749061,shop=convenience
+"Centreville, AL",,retail,445120,,,,,33.2809514,-87.0990237,,,n_12175757502,shop=convenience
+"Centreville, AL",,retail,445110,Lucky's FoodLand,"4000 AL 25, Montevallo, AL, 35115",+1 205-665-5124,,33.0917618,-86.8648624,,,n_12500584535,"shop=supermarket, brand=FoodLand"
+"Centreville, AL",,retail,452319,Dollar General,"155 Birmingham Road, Centreville, AL, 35042-2949",+1 205-928-6820,https://www.dollargeneral.com/store-directory/al/centreville/9138,32.9472749,-87.1448767,,,n_12602256488,"shop=variety_store, brand=Dollar General"
+"Centreville, AL",,retail,446110,CVS Pharmacy,"155 Birmingham Road, Centreville, AL, 35402",+1 205-926-4654,,32.9472775,-87.1451237,,,n_12602256500,"shop=chemist, brand=CVS Pharmacy"
+"Centreville, AL",,retail,452319,Family Dollar,,,,33.089225,-87.4576934,,,n_13063931609,"shop=variety_store, brand=Family Dollar"
+"Centreville, AL",,retail,452319,Dollar Tree,,,,33.0890805,-87.4576323,,,n_13063931610,"shop=variety_store, brand=Dollar Tree"
+"Centreville, AL",,retail,445120,,,,,33.1757369,-87.4482199,,,w_124670009,shop=convenience
+"Centreville, AL",,retail,445120,Travel Center,,,,33.1915238,-87.2998499,,,w_124674590,shop=convenience
+"Centreville, AL",,retail,445120,,,,,33.1749803,-87.4719087,,,w_124674596,shop=convenience
+"Centreville, AL",,retail,445120,,,,,33.1762938,-87.4698413,,,w_124674656,shop=convenience
+"Centreville, AL",,retail,445120,Brookwood Shell,"10001 Covered Bridge Road, AL",+1 205-210-3318,,33.1902275,-87.2991007,,,w_124674663,shop=convenience
+"Centreville, AL",,retail,445110,Walmart Supercenter,"10675 Highway 5, Brent, AL, 35034",+1 205-926-4878,https://www.walmart.com/store/425-brent-al,32.9640852,-87.1718985,,,w_218678215,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Centreville, AL",,retail,445120,,"Buttermilk Road, Cottondale, AL, 35453",,,33.1788331,-87.4466489,,,w_221638575,"shop=convenience, operator=Pilot"
+"Centreville, AL",,retail,452319,Family Dollar,,,,32.6199004,-87.3170291,,,w_1058041938,"shop=variety_store, brand=Family Dollar"
+"Centreville, AL",,retail,445110,Piggly Wiggly,"24716 US-31, Jemison, AL, 35085",+1 205-688-2477,,32.9591894,-86.7420219,,,w_1069806466,"shop=supermarket, brand=Piggly Wiggly"
+"Centreville, AL",,retail,446110,Hayes Drug,"24724 US-31, Jemison, AL, 35085",,,32.9594803,-86.7421703,,,w_1069806470,shop=chemist
+"Centreville, AL",,retail,452319,Dollar General,"8898 County Road 42 East, Jemison, AL, 35085",,https://www.dollargeneral.com/store-directory/al/jemison/8862,32.9583581,-86.742272,,,w_1069806472,"shop=variety_store, brand=Dollar General"
+"Centreville, AL",,retail,445120,QuikTrip,"4001 Buttermilk Road, Tuscaloosa, AL, 35453",+1 (659) 734-6470,https://locations.quiktrip.com/al/cottondale/4001-buttermilk-rd,33.1709829,-87.4464927,,,w_1117870114,"shop=convenience, brand=QuikTrip"
+"Centreville, AL",,retail,452319,Dollar General,"110 Cedar Street, Montevallo, AL, 35115",,https://www.dollargeneral.com/store-directory/al/montevallo/4962,33.0928915,-86.86227,,,w_1154319432,"shop=variety_store, brand=Dollar General"
+"Centreville, AL",,retail,445110,Maplesville Supermarket,"8331 Alabama Highway 22, Maplesville, AL, 36750",,,32.7736297,-86.8757609,,,w_1161544401,shop=supermarket
+"Centreville, AL",,retail,452319,Dollar General,"8331 Alabama Highway 22, Maplesville, AL, 36750",,https://www.dollargeneral.com/store-directory/al/maplesville/1000,32.7732405,-86.8761273,,,w_1161544402,"shop=variety_store, brand=Dollar General"

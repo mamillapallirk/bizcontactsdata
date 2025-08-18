@@ -1,0 +1,43 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Movico, AL",,retail,452319,Family Dollar,,,,31.2649504,-88.0308103,,,n_2443797230,"shop=variety_store, brand=Family Dollar"
+"Movico, AL",,retail,445110,Food Tiger,,,,31.2657345,-88.0306387,,,n_2443797240,shop=supermarket
+"Movico, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/mcintosh/9969,31.2658674,-88.0323445,,,n_2443797244,"shop=variety_store, brand=Dollar General"
+"Movico, AL",,retail,445120,Circle K,,,,30.830085,-88.093407,,,n_5556460988,shop=convenience
+"Movico, AL",,retail,453110,Saraland Florist & Gift Shop,"37 Shelton Beach Road, Saraland, AL, 36571",+1-251-675-4814,http://saralandflorist.com,30.8232458,-88.0724906,,,n_5769870713,shop=florist
+"Movico, AL",,retail,445110,Piggly Wiggly,"10760 Lott Road, Chunchula, AL, 36521",+1 251-645-4433,https://wedigthepig.com/,30.9150408,-88.2780125,,,n_11618396407,"shop=supermarket, brand=Piggly Wiggly"
+"Movico, AL",,retail,445110,Piggly Wiggly,"19180 Highway 43 North, Mount Vernon, AL, 36560",+1 251-829-6977,https://wedigthepig.com/,31.091173,-88.0146153,,,n_11618396408,"shop=supermarket, brand=Piggly Wiggly"
+"Movico, AL",,retail,445110,Piggly Wiggly,"719 Highway 43 South, Saraland, AL, 36751",+1 251-675-7200,https://wedigthepig.com/,30.805847,-88.0736818,,,n_11618396456,"shop=supermarket, brand=Piggly Wiggly"
+"Movico, AL",,retail,445110,Piggly Wiggly,"3445 Saint Stephens Road, Whistler, AL, 36612",+1 251-466-1985,https://wedigthepig.com/,30.7518372,-88.1182507,,,n_11618396457,"shop=supermarket, brand=Piggly Wiggly"
+"Movico, AL",,retail,445110,Piggly Wiggly,"5651 Moffett Road, Mobile, AL, 36618",+1 251-343-1485,,30.7289298,-88.1740167,,,n_11618396461,"shop=supermarket, brand=Piggly Wiggly"
+"Movico, AL",,retail,445110,Piggly Wiggly,"4720 Moffett Road, Mobile, AL, 36618",+1 251-344-4548,https://wedigthepig.com/,30.7212971,-88.1497322,,,n_11618396462,"shop=supermarket, brand=Piggly Wiggly"
+"Movico, AL",,retail,452319,Dollar General,,,,30.7812695,-87.8783275,,,n_11972150341,"shop=variety_store, brand=Dollar General"
+"Movico, AL",,retail,445120,Circle K,,,,30.951717,-87.8559649,,,n_11972178000,"shop=convenience, brand=Circle K"
+"Movico, AL",,retail,445110,Creola Food Market,,,,30.9013831,-88.0385237,,,n_12013132223,shop=supermarket
+"Movico, AL",,retail,445120,,,,,30.8189449,-88.2590162,,,n_12361136415,shop=convenience
+"Movico, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/mobile-al-pharmacies/2280-mlk-blvd-mobile-al-36610/storeid=4877,30.7174943,-88.0822267,,,w_337070935,"shop=chemist, brand=CVS Pharmacy"
+"Movico, AL",,retail,445110,,,,,30.7163214,-88.0821723,,,w_343299999,shop=supermarket
+"Movico, AL",,retail,445120,A-1,,,,30.7438756,-88.068626,,,w_352841780,shop=convenience
+"Movico, AL",,retail,445110,Greer's Market,"1010 North Wilson Avenue, Prichard, AL",,,30.7441926,-88.0785722,,,w_352843034,shop=supermarket
+"Movico, AL",,retail,445120,,,,,30.737144,-88.1052607,,,w_360367685,shop=convenience
+"Movico, AL",,retail,445110,Walmart Supercenter,"701 McMeans Ave;McMeans Avenue, Bay Minette, AL, 36507",+1 251-937-5558,https://www.walmart.com/store/2739-bay-minette-al,30.8860509,-87.7900853,,,w_397647967,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Movico, AL",,retail,445110,Winn-Dixie,"9082 Moffett Road, Semmes, AL, 36575",+1 251-649-1646,https://www.winndixie.com/storedetails/semmes/al?search=473,30.7801308,-88.2571161,,,w_525071371,"shop=supermarket, brand=Winn-Dixie"
+"Movico, AL",,retail,445110,Walmart Supercenter,"7855 Moffett Road, Semmes, AL, 36575",+1 251-645-8224,https://www.walmart.com/store/5174-semmes-al,30.7617629,-88.2295817,,,w_572781538,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Movico, AL",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-12+shelton+beach+rd-saraland-al-36571/id=7962,30.8245669,-88.0712663,,,w_576491476,"shop=chemist, brand=Walgreens, operator=Walgreens"
+"Movico, AL",,retail,445110,Rouses Supermarket,,,,30.8252681,-88.0751567,,,w_576493193,"shop=supermarket, operator=Rouses"
+"Movico, AL",,retail,452319,Family Dollar,,,,30.7113037,-88.0980263,,,w_880363799,"shop=variety_store, brand=Family Dollar"
+"Movico, AL",,retail,445110,Piggly Wiggly,"2306 Saint Stephens Road, Mobile, AL, 36617",+1 251-243-7574,,30.7193214,-88.0824378,,,w_880363808,"shop=supermarket, brand=Piggly Wiggly"
+"Movico, AL",,retail,446120,,,,,30.7189997,-88.0823844,,,w_880363809,shop=beauty
+"Movico, AL",,retail,446120,,,,,30.7189001,-88.0823312,,,w_880363810,shop=beauty
+"Movico, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/mobile/13626,30.7216127,-88.0846052,,,w_880365785,"shop=variety_store, brand=Dollar General"
+"Movico, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/bay-minette/18945,30.8893213,-87.7629498,,,w_1151569828,"shop=variety_store, brand=Dollar General"
+"Movico, AL",,retail,445110,Walmart Supercenter,"1095 Industrial Parkway, Saraland, AL, 36571",+1 251-675-8000,https://www.walmart.com/store/1212-saraland-al,30.7994273,-88.0969005,,,w_1204972308,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Movico, AL",,retail,445110,Publix,"21 Shell Street, Saraland, AL, 36571",+1 251-679-2995,https://www.publix.com/locations/1650,30.8055558,-88.1105988,,,w_1205279670,"shop=supermarket, brand=Publix"
+"Movico, AL",,retail,445120,Shell,,,,30.7964406,-88.0715156,,,w_1205560395,"shop=convenience, brand=Shell"
+"Movico, AL",,retail,445120,,,,,30.8141649,-88.0883553,,,w_1206018259,shop=convenience
+"Movico, AL",,retail,445120,,,,,30.8064447,-88.0996666,,,w_1206018312,shop=convenience
+"Movico, AL",,retail,452319,Dollar General,"101 Old Daphne Road, Bay Minette",,https://www.dollargeneral.com/store-directory/al/bay-minette/10518,30.8393231,-87.7741462,,,w_1234908091,"shop=variety_store, brand=Dollar General"
+"Movico, AL",,retail,452319,Dollar General,"Creola, AL, 36525",,,30.8965295,-88.0396458,,,w_1296448030,"shop=variety_store, brand=Dollar General"
+"Movico, AL",,retail,445120,Love's,,,,30.7420144,-88.1108115,,,w_1305399748,"shop=convenience, brand=Love's"
+"Movico, AL",,retail,445310,ABC Select Spirits,,,,31.1272455,-88.0106567,,,w_1333597196,shop=alcohol
+"Movico, AL",,retail,445120,Powell's Grocery,"52825 Highway 59, Stockton, AL, 36579",+1 251-937-8495,,30.9946112,-87.8583306,,,w_1391770091,shop=convenience
+"Movico, AL",,retail,452319,Dollar General,"52755 Highway 59, Stockton, AL, 36579",,,30.9933924,-87.8584846,,,w_1391770096,"shop=variety_store, brand=Dollar General"

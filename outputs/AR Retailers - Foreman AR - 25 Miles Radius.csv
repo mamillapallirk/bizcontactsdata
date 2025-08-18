@@ -1,0 +1,34 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Foreman, AR",,retail,445110,Rehkopf's Food Store,,,,33.4704466,-94.2897903,,,n_1619215004,shop=supermarket
+"Foreman, AR",,retail,445110,Walmart Supercenter,"926 East Collin Raye Drive, De Queen, AR, 71832",+1 870-642-2794,https://www.walmart.com/store/279-de-queen-ar,34.043471,-94.319058,,,n_5315599017,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Foreman, AR",,retail,445110,Brookshire's,"210 North McCoy Boulevard, New Boston, TX, 75570",+1-903-628-5549,,33.4626587,-94.4067774,,,n_6094060953,shop=supermarket
+"Foreman, AR",,retail,445110,Brookshire's,"1310 South Constitution Avenue, Ashdown, AR, 71822",+1-870-898-3301,,33.65967,-94.1145408,,,n_6104237267,"shop=supermarket, brand=Brookshire's"
+"Foreman, AR",,retail,445210,Red River Beef Co,"3622 Richmond Road, Texarkana, TX, 75503",+1 903 716 5710,https://redriverbeef.co/,33.4706291,-94.094822,,,n_7435564020,shop=butcher
+"Foreman, AR",,retail,445120,Road Ranger,907 North McCoy Boulevard,,,33.4772574,-94.4104492,,,n_8130663185,"shop=convenience, brand=Road Ranger"
+"Foreman, AR",,retail,445120,EZ Mart,,,,33.7212098,-94.3914684,,,n_11802447041,"shop=convenience, brand=EZ Mart"
+"Foreman, AR",,retail,445210,Prime Country Meats,,,,33.9386451,-94.3562303,,,n_11802782909,shop=butcher
+"Foreman, AR",,retail,445120,Circle K,,,,33.476109,-94.409894,,,n_11802800403,"shop=convenience, brand=Circle K"
+"Foreman, AR",,retail,445120,,,,,33.4760149,-94.4085351,,,n_12361025572,shop=convenience
+"Foreman, AR",,retail,445110,Walmart Supercenter,"800 James Bowie Drive, New Boston, TX, 75570",+1 903-628-5557,https://www.walmart.com/store/181-new-boston-tx,33.4707447,-94.4035066,,,w_358513992,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Foreman, AR",,retail,445120,Paradise Quick Stop,"1970 North Kings Highway, Nash, TX, 75569",,,33.4522256,-94.1300737,,,w_794935037,shop=convenience
+"Foreman, AR",,retail,445120,Road Runner,"4101 North Kings Highway, Texarkana, TX, 75503",,,33.4557986,-94.1315604,,,w_794935044,shop=convenience
+"Foreman, AR",,retail,445120,E-Z Mart,"6424 Richmond Road, Texarkana, TX, 75503",,,33.4834437,-94.1111236,,,w_794992949,shop=convenience
+"Foreman, AR",,retail,445110,Walmart Neighborhood Market,"3520 Richmond Road, Texarkana, TX, 75503",+1 903-716-7109,https://www.walmart.com/store/4371-texarkana-tx,33.4701349,-94.094716,,,w_794992953,"shop=supermarket, brand=Walmart"
+"Foreman, AR",,retail,445120,VP,"3070 US Highway 82, New Boston, TX, 75570",,,33.4737415,-94.4710563,,,w_899393555,shop=convenience
+"Foreman, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/ashdown/3579,33.6639238,-94.1187905,,,w_909761689,"shop=variety_store, brand=Dollar General"
+"Foreman, AR",,retail,453110,"H&N Floral, Gifts & Garden","5708 Richmond Road, Texarkana, TX, 75503",,,33.4741849,-94.0982311,,,w_941667471,shop=florist
+"Foreman, AR",,retail,446120,Angel Nail & Spa,"3110 Richmond Road, Texarkana, TX, 75503",,,33.4642286,-94.093761,,,w_941672368,shop=beauty
+"Foreman, AR",,retail,452319,Dollar General,"5203 North Kings Highway, Texarkana, TX, 75503",,https://www.dollargeneral.com/store-directory/tx/texarkana/20806,33.465822,-94.1390833,,,w_943963028,"shop=variety_store, brand=Dollar General"
+"Foreman, AR",,retail,445120,,,,,33.4523992,-94.131715,,,w_943963044,shop=convenience
+"Foreman, AR",,retail,446120,Amazing Nails & Spa,"2928 Richmond Road, Texarkana, TX, 75503",,,33.4625931,-94.0924605,,,w_946017859,shop=beauty
+"Foreman, AR",,retail,452319,Dollar General,"3409 Richmond Road, Texarkana, TX, 75503",,https://www.dollargeneral.com/store-directory/tx/texarkana/10923,33.4673056,-94.0963676,,,w_946031741,"shop=variety_store, brand=Dollar General"
+"Foreman, AR",,retail,445120,EZ Mart,"257 East New Boston Road, Nash, TX, 75569",,,33.4428632,-94.1274545,,,w_947990427,shop=convenience
+"Foreman, AR",,retail,453110,Lillie's Flowers,"1415 North Kings Highway, Nash, TX, 75569",,,33.4412954,-94.1311115,,,w_1054094527,shop=florist
+"Foreman, AR",,retail,445120,Paradise Quick Stop,"580 Lone Star Drive, Hooks, TX, 75561",,,33.4672464,-94.2358939,,,w_1054098569,shop=convenience
+"Foreman, AR",,retail,445120,Sunshine Travel Plaza,"803 Main Street, Hooks, TX, 75561",,,33.4732233,-94.2897423,,,w_1054098575,shop=convenience
+"Foreman, AR",,retail,445120,7 Star Travel Plaza,"902 Main Street, Hooks, TX, 75561",,,33.4758868,-94.2886079,,,w_1054098578,shop=convenience
+"Foreman, AR",,retail,452319,Dollar General,"307 US Highway 82, New Boston, TX, 75570",+1 430 562 3118,https://www.dollargeneral.com/store-directory/tx/new-boston/1746,33.4610055,-94.4246928,,,w_1081561490,"shop=variety_store, brand=Dollar General"
+"Foreman, AR",,retail,445110,Walmart Supercenter,"297 Highway 32 By-Pass East, Ashdown, AR, 71822",+1 870-898-5126,https://www.walmart.com/store/133-ashdown-ar,33.6571659,-94.1091932,,,w_1199485574,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Foreman, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/lockesburg/14537,33.966822,-94.1669721,,,w_1202245484,"shop=variety_store, brand=Dollar General"
+"Foreman, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/horatio/12334,33.9388055,-94.3531853,,,w_1202245503,"shop=variety_store, brand=Dollar General"
+"Foreman, AR",,retail,452319,Dollar General,"308 South Madden Street, Foreman, AR, 71836",,https://www.dollargeneral.com/store-directory/ar/foreman/9437,33.7159981,-94.3915552,,,w_1202245530,"shop=variety_store, brand=Dollar General"

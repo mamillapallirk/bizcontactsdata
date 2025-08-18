@@ -1,0 +1,29 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Moccasin, AZ",,retail,445110,Sol Foods Cafe and Deli,1001 Zion Park Boulevard,,,37.1992417,-112.9889768,,,n_880118158,shop=supermarket
+"Moccasin, AZ",,retail,446120,Shabby Chic Salon,,,,37.0441597,-112.526692,,,n_3588325652,shop=beauty
+"Moccasin, AZ",,retail,445120,7-Eleven,"301 S Fairway Drive, Kanab, UT, 84741",,,37.0431965,-112.5137321,,,n_3977396004,"shop=convenience, brand=7-Eleven"
+"Moccasin, AZ",,retail,452319,Family Dollar,"300 South Main Street, AZ",,,36.9438926,-112.5267856,,,n_4008887481,"shop=variety_store, brand=Family Dollar"
+"Moccasin, AZ",,retail,445292,Springdale Candy Company,"855A Zion Park Boulevard, UT, 84767",+1-435-772-0485,https://www.springdalecandycompany.com/,37.1888767,-112.9982378,,,n_4929807858,shop=confectionery
+"Moccasin, AZ",,retail,445120,Short Stop,,,,36.9493307,-112.5259269,,,n_6037445485,shop=convenience
+"Moccasin, AZ",,retail,445110,Happy Camper Market,,,,37.1991954,-112.9891464,,,n_6482727885,shop=supermarket
+"Moccasin, AZ",,retail,445110,Natural Foods,,,,37.0425922,-112.5270826,,,n_8121346998,shop=supermarket
+"Moccasin, AZ",,retail,446120,Rose Nails & Spa,,,,37.0425922,-112.5269302,,,n_8121346999,shop=beauty
+"Moccasin, AZ",,retail,452319,Denny’s Wigwam & Curios,"78 East Center Street, 84741",+1 435 644 2452,https://www.dennyswigwam.com/,37.0478379,-112.527276,,,n_8388335617,shop=variety_store
+"Moccasin, AZ",,retail,445120,Stage Stop,,,,37.0433315,-112.5269608,,,n_8931105601,shop=convenience
+"Moccasin, AZ",,retail,445110,Bee's,,,,36.9724895,-112.9751165,,,n_9465070180,shop=supermarket
+"Moccasin, AZ",,retail,445310,YellowStone Ridge Beer & Wine,,,,36.930498,-112.9441079,,,n_12187210251,shop=alcohol
+"Moccasin, AZ",,retail,452319,Dollar General,,,,36.9599313,-112.5264041,,,n_12777585876,"shop=variety_store, brand=Dollar General"
+"Moccasin, AZ",,retail,445110,Honey's Market,,,,37.0424035,-112.5224881,,,w_113610151,shop=supermarket
+"Moccasin, AZ",,retail,445110,Glazier's Market,"264 South 100 East, Kanab, UT, 84741",+1-435-644-5029,,37.0436815,-112.5272639,,,w_113610163,shop=supermarket
+"Moccasin, AZ",,retail,452319,Family Dollar,,,,37.0425429,-112.5190578,,,w_113718321,"shop=variety_store, brand=Family Dollar"
+"Moccasin, AZ",,retail,445120,Shell,,,,37.2237216,-112.681022,,,w_144445249,"shop=convenience, amenity=fuel, brand=Shell"
+"Moccasin, AZ",,retail,445120,,,,,37.2237871,-112.6812415,,,w_144445279,shop=convenience
+"Moccasin, AZ",,retail,445120,Little Creek Station,"1354 North State Street, Apple Valley, UT, 84737",,,37.10058,-113.1281346,,,w_191342883,shop=convenience
+"Moccasin, AZ",,retail,445120,,"2 North Pipe Spring Road, Fredonia, AZ, 86022",,,36.8584794,-112.7351796,,,w_282487527,shop=convenience
+"Moccasin, AZ",,retail,445120,Judd Auto,"623 South Main Street, Fredonia, AZ, 86022",,,36.9400684,-112.5215918,,,w_322898512,shop=convenience
+"Moccasin, AZ",,retail,445110,Sol Foods,"995 Zion Park Boulevard, Springdale, UT",,https://www.solfoods.com/,37.1878561,-113.0004708,,,w_332344022,shop=supermarket
+"Moccasin, AZ",,retail,445310,The Border Store,,,,36.9994171,-112.5296057,,,w_589550836,shop=alcohol
+"Moccasin, AZ",,retail,445120,Food Mart,"212 W Center Street, Kanab, UT, 84741",,,37.048448,-112.533301,,,w_589550863,shop=convenience
+"Moccasin, AZ",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/az/colorado-city/16457,36.971105,-112.9747035,,,w_1026590618,"shop=variety_store, brand=Dollar General"
+"Moccasin, AZ",,retail,452319,,,,,37.193514,-112.9937435,,,w_1213463816,shop=general
+"Moccasin, AZ",,retail,445299,,,,,36.9971029,-112.9925821,,,w_1341105198,shop=dairy

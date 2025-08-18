@@ -1,0 +1,15 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Juneau city and, AK",,retail,445120,Food Land,"615 West Willoughby Avenue, 99801",,,58.2997192,-134.4182598,,,n_846592141,shop=convenience
+"Juneau city and, AK",,retail,445110,Super Bear Supermarket,"9103 Mendenhall Mall Road, Juneau, AK, 99801",+1-907-789-0173,http://superbearsupermarket.com/,58.3714256,-134.587655,,,n_3430738354,"shop=supermarket, operator=Super Bear Supermarket"
+"Juneau city and, AK",,retail,445310,Alaska Cache Liquor Inc,,,,58.3003338,-134.4054815,,,n_5656693823,shop=alcohol
+"Juneau city and, AK",,retail,445210,Jerrys Seafoods,,,,58.3512429,-134.4927243,,,n_5831126885,shop=butcher
+"Juneau city and, AK",,retail,445120,Thibodeau's Deli-Market,Whittier Street,,,58.3008461,-134.4152823,,,n_11036065105,shop=convenience
+"Juneau city and, AK",,retail,452210,Port Electronics & Luggage,"259 Marine Way, Juneau, AK",,,58.2989254,-134.4048993,,,n_11036065306,shop=department_store
+"Juneau city and, AK",,retail,445110,Safeway,"3033 Vintage Boulevard, Juneau, AK, 99801",+1 907-523-2000,https://local.safeway.com/safeway/ak/juneau/3033-vintage-blvd.html,58.3710412,-134.5949385,,,w_132188813,"shop=supermarket, brand=Safeway"
+"Juneau city and, AK",,retail,445120,Breeze In,"2200 Trout Street, Juneau, AK, 99801",,,58.3639728,-134.5774932,,,w_335998397,shop=convenience
+"Juneau city and, AK",,retail,445110,Fred Meyer,"8181 Glacier Highway, Juneau, AK, 99801",+1 907-789-6533,https://www.fredmeyer.com/stores/grocery/ak/juneau/juneau/701/00158,58.3594201,-134.5618271,,,w_336469524,"shop=supermarket, brand=Fred Meyer"
+"Juneau city and, AK",,retail,445120,Breeze In,Glacier Highway,,,58.3553383,-134.4991644,,,w_345089845,"shop=convenience, operator=Breeze In"
+"Juneau city and, AK",,retail,452210,Western Auto,,,,58.3509258,-134.4929145,,,w_345090090,shop=department_store
+"Juneau city and, AK",,retail,452210,Alaska-Juneau Mining Company,"South Franklin Street, Juneau, AK",,,58.2974667,-134.4015143,,,w_416466188,shop=department_store
+"Juneau city and, AK",,retail,445292,Alaska Fudge Company,"195 South Franklin Street, Juneau, AK, 99801",907.586.1478,https://alaskanfudge.com/,58.3000095,-134.4045076,,,w_435867343,shop=confectionery
+"Juneau city and, AK",,retail,445120,Duck Creek Market,"9951 Stephen Richards Memorial Drive, Juneau, AK, 99801",907.789.4637,,58.3836665,-134.5784496,,,w_1067303963,shop=convenience

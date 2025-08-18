@@ -1,0 +1,6 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Pine Apple, AL",,retail,445110,Walmart Supercenter,501 Willow Ln,+1-334-382-2655,https://www.walmart.com/store/1462-greenville-al,31.849507,-86.647223,,,n_5315601723,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Pine Apple, AL",,retail,445120,Oak Hill Grocery,,,,31.9221132,-87.083438,,,n_5772059176,shop=convenience
+"Pine Apple, AL",,retail,445120,,,,,31.6511615,-86.7769064,,,w_761146864,shop=convenience
+"Pine Apple, AL",,retail,452319,Dollar General,"100 Short Street, Greenville, AL, 36037",,https://www.dollargeneral.com/store-directory/al/greenville/10273,31.8301423,-86.6154653,,,w_1235074936,"shop=variety_store, brand=Dollar General"
+"Pine Apple, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/greenville/16820,31.818156,-86.6812999,,,w_1235075117,"shop=variety_store, brand=Dollar General"

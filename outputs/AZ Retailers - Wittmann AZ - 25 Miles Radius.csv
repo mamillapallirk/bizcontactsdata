@@ -1,0 +1,606 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Wittmann, AZ",,retail,452210,JCPenney,"7750 West Arrowhead Towne Center;West Arrowhead Town Ctr, Glendale, AZ, 85308",,,33.6414553,-112.2267238,,,n_1355987216,"shop=department_store, brand=JCPenney, operator=jcpenny"
+"Wittmann, AZ",,retail,452210,Dillard's,"7800 West Arrowhead Town Ctr, Glendale, AZ, 85308",+1 623-979-1128,https://www.dillards.com/stores/arizona/arrowhead-towne-center-glendale/0907,33.6419971,-112.2279837,,,n_1355987223,"shop=department_store, brand=Dillard's"
+"Wittmann, AZ",,retail,452210,Macy's,"7600 West Arrowhead Towne Center;West Arrowhead Town Ctr, Glendale, AZ, 85308",,https://www.macys.com/stores/az/glendale/arrowhead-towne-center_452.html,33.6419238,-112.222811,,,n_1355987224,"shop=department_store, brand=Macy's"
+"Wittmann, AZ",,retail,445110,Safeway,"3655 West Anthem Way, Anthem, AZ, 85086",+1 623-745-3800,https://local.safeway.com/safeway/az/anthem/3655-w-anthem-way.html,33.865149,-112.138994,,,n_1707643304,"shop=supermarket, brand=Safeway"
+"Wittmann, AZ",,retail,445120,Circle K,,,,33.6245842,-112.201957,,,n_1798832871,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445120,Shell,"31120 US Highway 60, Wittmann, AZ, 85361",,,33.7652314,-112.51401,,,n_1814508674,"shop=convenience, brand=Shell"
+"Wittmann, AZ",,retail,445120,Wells Country Store,,,,33.7806269,-112.5331291,,,n_1815690242,shop=convenience
+"Wittmann, AZ",,retail,445110,Walmart Neighborhood Market,"7450 West Glendale Avenue, Glendale, AZ, 85303",+1 623-915-2632,https://www.walmart.com/store/3314-glendale-az,33.5391322,-112.218867,,,n_2253094777,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Wittmann, AZ",,retail,452319,Family Dollar,"6744 North 67th Avenue, Glendale, AZ, 85303",,https://www.familydollar.com/,33.5395816,-112.204523,,,n_2253210754,"shop=variety_store, brand=Family Dollar"
+"Wittmann, AZ",,retail,445120,Fast Market,"5905 West Cactus Road, Glendale, AZ, 85304",,,33.5959794,-112.1865463,,,n_2491828113,shop=convenience
+"Wittmann, AZ",,retail,446120,Nails & Spa by Cindy,"6766 West Glendale Avenue, Glendale, AZ, 85303",623-322-3798,nailsbycindy.setmore.com,33.5389123,-112.205022,,,n_2557707564,shop=beauty
+"Wittmann, AZ",,retail,445120,,,,,33.666932,-112.1684306,,,n_2605749613,shop=convenience
+"Wittmann, AZ",,retail,445120,,,,,33.6389642,-112.1535066,,,n_2610747073,shop=convenience
+"Wittmann, AZ",,retail,445120,Beer And Wine,"6448 West Glendale Avenue, Glendale, AZ, 85301",,,33.5387018,-112.1989331,,,n_2616445052,shop=convenience
+"Wittmann, AZ",,retail,445120,Fry's Fuel,"1380 South Watson Road, Buckeye, AZ, 85326",,,33.4339288,-112.5567765,,,n_2766199480,shop=convenience
+"Wittmann, AZ",,retail,445110,Fry's Food and Drug,"4315 West Bell Road, Phoenix, AZ, 85308",+1 602-978-2590,https://www.frysfood.com/stores/grocery/az/glendale/43rd-ave-bell-rd/660/00028,33.6379412,-112.152591,,,n_2810933508,"shop=supermarket, brand=Fry's Food and Drug"
+"Wittmann, AZ",,retail,445120,,"10120 West Bell Road, Sun City, AZ, 85351",,,33.638643,-112.278432,,,n_2810933526,shop=convenience
+"Wittmann, AZ",,retail,445120,Fry's Fuel,"7509 West Cactus Road, Peoria, AZ, 85381",,,33.595338,-112.220756,,,n_2856707981,shop=convenience
+"Wittmann, AZ",,retail,446120,Belle Nails,"8345 West Glendale Avenue, Glendale, AZ, 85305",,,33.537138,-112.239546,,,n_2991621156,shop=beauty
+"Wittmann, AZ",,retail,445120,4 Son's,,,,33.8718519,-112.1515875,,,n_3055556192,shop=convenience
+"Wittmann, AZ",,retail,445110,Lee Lee Oriental Supermarket,"7575 West Cactus Road, Peoria, AZ, 85381",,,33.5947986,-112.222189,,,n_3085412780,shop=supermarket
+"Wittmann, AZ",,retail,445110,Safeway,"3450 West Bell Road, Phoenix, AZ, 85053",+1 602-863-1431,https://local.safeway.com/safeway/az/phoenix/3450-w-bell-rd.html,33.6406864,-112.1333598,,,n_3093928259,"shop=supermarket, brand=Safeway"
+"Wittmann, AZ",,retail,445120,Shell,"5904 West Greenway Road, Glendale, AZ, 85306",,,33.6255303,-112.186226,,,n_3095003391,"shop=convenience, brand=Shell"
+"Wittmann, AZ",,retail,445120,Moonwalk Smoke Shop,"7448 West Glendale Avenue, Glendale, AZ, 85303",,,33.539089,-112.2179659,,,n_3230835562,shop=convenience
+"Wittmann, AZ",,retail,446120,Angel Touch Nails,"7025 North 75th Avenue, Glendale, AZ, 85303",,,33.5390429,-112.219823,,,n_3349666118,shop=beauty
+"Wittmann, AZ",,retail,445292,It's Sugar,"6751 North Sunset Boulevard, Glendale, AZ, 85305",,,33.5338056,-112.261562,,,n_3423125467,"shop=confectionery, brand=IT'SUGAR"
+"Wittmann, AZ",,retail,446120,Sephora,"6800 North 95th Avenue, Glendale, AZ, 85305",,,33.5342237,-112.26624,,,n_3823718567,"shop=cosmetics, brand=Sephora"
+"Wittmann, AZ",,retail,446120,Perfumania,"6800 North 95th Avenue, Glendale, AZ, 85305",+623-877-1717,,33.5338449,-112.267256,,,n_3823718575,"shop=perfumery, brand=Perfumania"
+"Wittmann, AZ",,retail,446120,Bath & Body Works,"6800 North 95th Avenue, Glendale, AZ, 85305",,,33.5345085,-112.26647,,,n_3823718581,"shop=cosmetics, brand=Bath & Body Works"
+"Wittmann, AZ",,retail,446120,Perfumes 4 U,"6800 North 95th Avenue, Glendale, AZ, 85305",+623-877-9704,,33.5346433,-112.266644,,,n_3823718767,shop=perfumery
+"Wittmann, AZ",,retail,446120,Fragrance Outlet,"6800 North 95th Avenue, Glendale, AZ, 85305",+623-772-5674,,33.5348391,-112.266897,,,n_3823719362,shop=beauty
+"Wittmann, AZ",,retail,452210,Saks Fifth Avenue,"6800 North 95th Avenue, Glendale, AZ, 85305",+623-255-3826,,33.5328294,-112.267176,,,n_3825553062,"shop=department_store, brand=Saks Fifth Avenue"
+"Wittmann, AZ",,retail,445110,Sprouts Farmers Market,"8375 West Thunderbird Road, Peoria, AZ, 85381",+1 623-334-1111,https://www.sprouts.com/store/az/peoria/peoria-thunderbird-ave/,33.6087014,-112.23921,,,n_3940870380,"shop=supermarket, brand=Sprouts Farmers Market"
+"Wittmann, AZ",,retail,452319,99 Cents Only Stores,"8375 West Thunderbird Road, Peoria, AZ, 85381",,https://locations.99only.com/az/peoria/discount-store-220.html,33.6086955,-112.239518,,,n_3942081463,"shop=variety_store, brand=99 Cents Only Stores"
+"Wittmann, AZ",,retail,446120,Nails By Andy,"10630 North 59th Avenue, Glendale, AZ, 85304",,,33.5841758,-112.1867079,,,n_3956169028,shop=beauty
+"Wittmann, AZ",,retail,446120,Triny Beauty Spa,"6750 West Peoria Avenue, Peoria, AZ, 85345",,,33.5822948,-112.204824,,,n_4029277613,shop=beauty
+"Wittmann, AZ",,retail,446120,AZ Tangible Tanning,"6750 West Peoria Avenue, Peoria, AZ, 85345",+623-773-0208,,33.5824564,-112.205982,,,n_4029277616,shop=beauty
+"Wittmann, AZ",,retail,446120,JJ NailS,"6811 West Peoria Avenue, Peoria, AZ, 85345",+623-979-5136,,33.5805489,-112.2043798,,,n_4029278002,shop=beauty
+"Wittmann, AZ",,retail,446120,Celebrity Tanning,"6811 North 67th Avenue, Peoria, AZ, 85345",,,33.5802598,-112.2041106,,,n_4029278004,shop=beauty
+"Wittmann, AZ",,retail,452319,Dollar Tree,"6750 North 67th Avenue, Peoria, AZ, 85345",,https://www.dollartree.com/locations/az/peoria/3467/,33.5827289,-112.2038829,,,n_4029278013,"shop=variety_store, brand=Dollar Tree"
+"Wittmann, AZ",,retail,446120,Model Nails,"6750 North 67th Avenue;West Peoria Avenue, Peoria, AZ, 85345",,,33.5836394,-112.203771,,,n_4029278016,shop=beauty
+"Wittmann, AZ",,retail,453991,K Smoke Shop,"6750 West Peoria Avenue, Peoria, AZ, 85345",,,33.5824547,-112.206035,,,n_4029278023,shop=tobacco
+"Wittmann, AZ",,retail,445110,Bashas',,,,33.9711237,-112.731056,,,n_4032126120,"shop=supermarket, brand=Bashas'"
+"Wittmann, AZ",,retail,445120,Carniceria EL Toro Charolais,"6402 West Glendale Avenue, Glendale, AZ, 85301",,,33.5387429,-112.197432,,,n_4082287788,shop=convenience
+"Wittmann, AZ",,retail,446120,Hollywood Beauty,"9440 West Northern Avenue, Peoria, AZ, 85305",,,33.55423,-112.2617023,,,n_4094830179,shop=beauty
+"Wittmann, AZ",,retail,446120,Julie's Nails & Spa,"9230 West Northern Avenue, Peoria, AZ, 85305",,,33.5522739,-112.2582187,,,n_4094830187,shop=beauty
+"Wittmann, AZ",,retail,445120,,,,,33.6099484,-112.358613,,,n_4096743314,shop=convenience
+"Wittmann, AZ",,retail,446120,Salon Encore,"5870 West Thunderbird Road, Glendale, AZ, 85306",,,33.6129525,-112.1849478,,,n_4115546343,shop=beauty
+"Wittmann, AZ",,retail,446120,Splendid Nails,"5830 West Thunderbird Road, Glendale, AZ, 85306",,,33.6123897,-112.1835598,,,n_4115550989,shop=beauty
+"Wittmann, AZ",,retail,445120,7-Eleven,"5925 North 59th Avenue, Glendale, AZ, 85302-3031",+1 623-931-0781,https://www.7-eleven.com/locations/az/glendale/5925-west-olive-ave-16623,33.5666064,-112.1866807,,,n_4192775885,"shop=convenience, brand=7-Eleven"
+"Wittmann, AZ",,retail,445110,Food City,"12321 Northwest Grand Avenue, El Mirage, AZ, 85335",+1 623-583-1500,https://www.mifoodcity.com/store/89,33.6185588,-112.326165,,,n_4305251715,"shop=supermarket, brand=Food City"
+"Wittmann, AZ",,retail,446120,Dream Nails,,,,33.5076512,-112.266617,,,n_4438585343,shop=beauty
+"Wittmann, AZ",,retail,453991,King Smoke Shop,"9611 West Camelback Road, Phoenix, AZ, 85037",,,33.5076633,-112.2661177,,,n_4438588944,"shop=tobacco, brand=Kings"
+"Wittmann, AZ",,retail,446120,Luxury Nail Bar,"8278 West Lake Pleasant Parkway, Peoria, AZ, 85382",+1-623-566-4882,http://luxurynailbar.net,33.670385,-112.2383581,,,n_4539487973,"shop=beauty, operator=Ty Le"
+"Wittmann, AZ",,retail,445110,Walmart Neighborhood Market,"6550 West Happy Valley Road, Phoenix, AZ, 85310",+1 623-566-9754,https://www.walmart.com/store/4233-phoenix-az,33.713791,-112.201314,,,n_5315598089,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Wittmann, AZ",,retail,446120,Drips Nail Bar,"7480 West Bell Road, Glendale, AZ, 85308",,,33.6398911,-112.2198206,,,n_5381781906,"shop=beauty, operator=SteveMinh LLC"
+"Wittmann, AZ",,retail,446120,Diva Nails,,,,33.5810328,-112.2006258,,,n_5517735912,shop=beauty
+"Wittmann, AZ",,retail,446120,Westgate Nails & Spa,"9390 West Hanna Drive, Glendale, AZ, 85305",,,33.5350804,-112.2609196,,,n_5800305896,shop=beauty
+"Wittmann, AZ",,retail,446120,Blooming Nails & Spa,"7260 West Bell Road, Glendale, AZ, 85308",623-878-5364,https://www.bloomingnailsandspa.net/,33.639448,-112.2146618,,,n_5910893876,shop=beauty
+"Wittmann, AZ",,retail,446120,Do My Nails,"9009 North 103rd Avenue, Sun City, AZ, 85351",623-933-7066,,33.5661473,-112.2806073,,,n_6252699841,shop=beauty
+"Wittmann, AZ",,retail,445120,Gram's Mini Mart,"9009 North 103rd Avenue, Sun City, AZ, 85351",623-974-2302,,33.5659941,-112.280404,,,n_6252699844,shop=convenience
+"Wittmann, AZ",,retail,446120,Darian's Luxury Nails & Spa,"9977 North 107th Avenue, Peoria, AZ, 85345",623-972-1700,,33.56454,-112.2877192,,,n_6258953804,shop=beauty
+"Wittmann, AZ",,retail,453991,Metro Tobacco,"8877 North 107th Avenue, Peoria, AZ, 85345",623-875-6989,,33.5643453,-112.2877263,,,n_6258953807,shop=tobacco
+"Wittmann, AZ",,retail,446120,Aria Nail Bar,"West Northern Avenue, Peoria, AZ, 85305",,,33.5526542,-112.2601838,,,n_6313095650,shop=beauty
+"Wittmann, AZ",,retail,446120,Flash Nails,"7435 West Cactus Road, Peoria, AZ, 85381",,,33.5949102,-112.217922,,,n_6328278366,shop=beauty
+"Wittmann, AZ",,retail,453991,Tobacco & Gifts,"7445 West Cactus Road, Peoria, AZ, 85381",,,33.5946859,-112.218099,,,n_6328278368,shop=tobacco
+"Wittmann, AZ",,retail,446120,Steven Crazy Nails,"7549 West Cactus Road, Peoria, AZ, 85381",,,33.5945436,-112.221759,,,n_6328278374,shop=beauty
+"Wittmann, AZ",,retail,446120,Nail Supply,"7549 West Cactus Road, Peoria, AZ, 85381",,,33.5943579,-112.221484,,,n_6328278375,shop=beauty
+"Wittmann, AZ",,retail,446120,Beauty Bar,"7549 West Cactus Road, Peoria, AZ, 85381",,,33.5944206,-112.221611,,,n_6328278376,shop=beauty
+"Wittmann, AZ",,retail,446120,Pro Nails,"13875 North 83rd Avenue, Peoria, AZ, 85381",,,33.6106546,-112.2370858,,,n_6355776996,"shop=beauty, brand=Pro Nails"
+"Wittmann, AZ",,retail,445310,Nectar,"24870 North Lake Pleasant Parkway, Peoria, AZ, 85383",,,33.7096103,-112.272929,,,n_6484024054,shop=beverages
+"Wittmann, AZ",,retail,445110,Fry's Marketplace,"2800 West Dove Valley Road, Phoenix, AZ, 85085",+1 480-994-6230,https://www.frysfood.com/stores/details/660/00694,33.7861139,-112.119492,,,n_6852526321,"shop=supermarket, brand=Fry's Food and Drug"
+"Wittmann, AZ",,retail,445120,Food Mart,"6904 North Dysart Road, Glendale, AZ, 85307",,,33.5355613,-112.3416996,,,n_6862196632,shop=convenience
+"Wittmann, AZ",,retail,452319,Dollar Tree,"14175 West Indian School Road, Goodyear, AZ, 85395",,,33.4846148,-112.365333,,,n_6872619028,"shop=variety_store, brand=Dollar Tree"
+"Wittmann, AZ",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/az/glendale/3805/,33.6406338,-112.1356025,,,n_6917490478,"shop=variety_store, brand=Dollar Tree"
+"Wittmann, AZ",,retail,446120,Loil Life LLC,"13547 North Litchfield Road, Surprise, AZ, 85379",+1-602-478-1736,https://www.loillife.com,33.6069458,-112.357247,,,n_7457004221,shop=beauty
+"Wittmann, AZ",,retail,445110,Safeway,"28455 North Vistancia Boulevard, Peoria, AZ, 85383",+1 623-243-9204,https://local.safeway.com/safeway/az/peoria/28455-n-vistancia-blvd.html,33.7407892,-112.3205674,,,n_7857289381,"shop=supermarket, brand=Safeway"
+"Wittmann, AZ",,retail,445310,BevMo!,"24650 North Lake Pleasant Parkway, Peoria, AZ, 85383",,,33.7075759,-112.274352,,,n_7857407992,"shop=alcohol, brand=BevMo!"
+"Wittmann, AZ",,retail,446120,Classic Nails and Spa,,,,33.7135584,-112.2679943,,,n_8625583704,shop=beauty
+"Wittmann, AZ",,retail,446120,,"8141 West Camelback Road, Phoenix, AZ, 85033",,,33.5084657,-112.235683,,,n_8639290191,shop=beauty
+"Wittmann, AZ",,retail,446110,CVS Pharmacy,"2033 W Wickenburg Way, Wickenburg, AZ, 85390",+1-928-684-7841,https://www.cvs.com/store-locator/wickenburg-az-pharmacies/2033-w-wickenburg-way-wickenburg-az-85390/storeid=9270,33.9610442,-112.773804,,,n_8730218857,"shop=chemist, brand=CVS Pharmacy"
+"Wittmann, AZ",,retail,446120,Refined Nail & Spa,"9524 West Camelback Road, Glendale, AZ, 85305",,,33.5089746,-112.2643255,,,n_8906768266,shop=beauty
+"Wittmann, AZ",,retail,446120,Ulta Beauty,"7665;7530 West Bell Road, Peoria;Glendale, AZ, 85382;85308",+1 623-486-5055,https://www.ulta.com/stores/peoria-az-47,33.6370688,-112.2235535,,,n_8910127087,"shop=beauty, brand=Ulta Beauty"
+"Wittmann, AZ",,retail,453991,Ambassador Fine Cigars,"7545 West Bell Road, Peoria, AZ, 85382",,,33.6358931,-112.221066,,,n_8910127160,shop=tobacco
+"Wittmann, AZ",,retail,446120,Studio23 Salon Suites,"7260 West Bell Road, Glendale, AZ, 85308",,,33.6392358,-112.2146642,,,n_8910610583,shop=beauty
+"Wittmann, AZ",,retail,452319,Dollar Tree,"8216 West Bell Road, Glendale, AZ, 85308",+15204283485,https://locations.dollartree.com/az/glendale/8216-w-bell-rd,33.6403484,-112.2320283,,,n_8910691560,"shop=variety_store, brand=Dollar Tree"
+"Wittmann, AZ",,retail,446120,Planet Beach,"6070 West Behrend Drive, Glendale, AZ, 85308",,,33.6666612,-112.1886664,,,n_8910738533,shop=beauty
+"Wittmann, AZ",,retail,446120,Enjoy Nails and Spa,"1809 North Dysart Road, Avondale, AZ, 85392",,,33.4683177,-112.340026,,,n_8942685705,shop=beauty
+"Wittmann, AZ",,retail,446120,Pure Tan,"6070 West Bell Road, Glendale, AZ, 85308",,,33.6391054,-112.189976,,,n_9008926206,shop=beauty
+"Wittmann, AZ",,retail,446120,Palace Nails and Spa,"8385 West Deer Valley Road, Peoria, AZ, 85382",,,33.6811421,-112.239912,,,n_9315118239,shop=beauty
+"Wittmann, AZ",,retail,452319,Dollar Tree,"13057 West Thunderbird Road, El Mirage, AZ, 85335",+1-480-655-3041,https://www.dollartree.com/locations/az/el-mirage/8423/,33.607487,-112.3410026,,,n_9348134457,"shop=variety_store, brand=Dollar Tree"
+"Wittmann, AZ",,retail,446120,Saguaro Nails Bar,"9220 West Glendale Avenue, Glendale, AZ, 85305",,https://thenburger.com/,33.5385695,-112.2579202,,,n_9854601724,shop=beauty
+"Wittmann, AZ",,retail,446120,Top Notch Nails & Spa,,,,33.6090937,-112.255789,,,n_9898769145,shop=beauty
+"Wittmann, AZ",,retail,445120,QuikTrip,"5850 West Greenway Road, Glendale, AZ, 85306",,,33.6254832,-112.1850818,,,n_9898769189,"shop=convenience, brand=QuikTrip"
+"Wittmann, AZ",,retail,446120,,"5929 West Peoria Avenue, Glendale, AZ, 85302",,,33.5814267,-112.1871593,,,n_9898771797,shop=beauty
+"Wittmann, AZ",,retail,446120,,"6690 West Cactus Road, Glendale, AZ, 85304",,,33.5966558,-112.2022867,,,n_9898781124,shop=beauty
+"Wittmann, AZ",,retail,446120,Effortless Beauty,"5820 West Peoria Avenue, Glendale, AZ, 85304",,,33.5831264,-112.1854114,,,n_10179080449,shop=beauty
+"Wittmann, AZ",,retail,452319,99 Cents Only Stores,,,https://locations.99only.com/az/glendale/discount-store-322.html,33.6405523,-112.1503031,,,n_10227717517,"shop=variety_store, brand=99 Cents Only Stores"
+"Wittmann, AZ",,retail,446120,Nail Touch,"13954 West Waddell Road, Surprise, AZ, 85379",+1-623-537-9049,https://nailtouchsurprise.com,33.6109375,-112.3607019,,,n_10593102173,shop=beauty
+"Wittmann, AZ",,retail,446120,Pinky Nails,"2750 West Dove Valley Road, Phoenix, AZ, 85085",,,33.7858018,-112.1186124,,,n_10748442155,shop=beauty
+"Wittmann, AZ",,retail,445120,Circle K,"13908 West Bell Road, Surprise, AZ, 85374",+1-623-975-4905,https://www.circlek.com/store-locator/US/surprise/13908-w-bell-rd/2741641,33.639203,-112.3599652,,,n_10780123009,"shop=convenience, brand=Circle K, operator=Circle K"
+"Wittmann, AZ",,retail,452210,Bealls,"6621 West Peoria Avenue, Glendale, AZ, 85302",+1-623-412-7658,https://stores.beallsoutlet.com/az/glendale/outlet-store-406.html,33.5803505,-112.2009154,,,n_10820825542,"shop=department_store, brand=Bealls"
+"Wittmann, AZ",,retail,446120,Sephora,"14020 West Bell Road, Surprise, AZ, 85374",,https://www.kohls.com/sale-event/sephora-at-kohls.jsp,33.6390828,-112.3619744,,,n_10825193277,"shop=cosmetics, brand=Sephora, operator=Sephora at Kohl's"
+"Wittmann, AZ",,retail,446120,Desert Blossom Salon and Spa,,,,33.9697276,-112.7328271,,,n_10841265966,shop=beauty
+"Wittmann, AZ",,retail,446120,Hacienda Hair & Nail Salon,,,,33.9697671,-112.7328875,,,n_10841265967,shop=beauty
+"Wittmann, AZ",,retail,452319,Carroll Trading Company,,,,33.9698088,-112.7325886,,,n_10841265983,shop=general
+"Wittmann, AZ",,retail,452319,Five Below,"775 South Cotton Lane, Goodyear, AZ, 85338",+1 623-303-6437,https://locations.fivebelow.com/az/goodyear/775-s-cotton-lane,33.4395,-112.4217,,,n_10848037057,"shop=variety_store, brand=Five Below"
+"Wittmann, AZ",,retail,446120,AJ Nails & Spa,"16931 West Bell Road, Surprise, AZ, 85374",,,33.6383587,-112.4229729,,,n_10904452427,shop=beauty
+"Wittmann, AZ",,retail,446120,Angel Nails & Spa,"16581 West Bell Road, Surprise, AZ, 85374",+1-623-584-2890,,33.6380825,-112.4155794,,,n_10905333037,shop=beauty
+"Wittmann, AZ",,retail,446120,Mood Beauty Studio,"Surprise, AZ, 85374",+1-602-980-8469,https://www.vagaro.com/moodbeautystudio,33.6381617,-112.415572,,,n_10905333039,"shop=beauty, operator=Vagaro"
+"Wittmann, AZ",,retail,452319,Family Dollar,"31206 West Grand Avenue, Wittmann, AZ, 85361",,,33.7660683,-112.5151331,,,n_11042571219,"shop=variety_store, brand=Family Dollar"
+"Wittmann, AZ",,retail,452319,Dollar General,"21818 West Harding Avenue, Wittmann, AZ, 85361",,https://www.dollargeneral.com/store-directory/az/wittmann/18390,33.77972,-112.5320298,,,n_11042609100,"shop=variety_store, brand=Dollar General"
+"Wittmann, AZ",,retail,446120,European Wax Center,"13668 North Prasada Parkway, Surprise, AZ, 85388",,https://locations.waxcenter.com/az/surprise/surprise-waddell-and-303-0464.html,33.6084459,-112.4150486,,,n_11045720134,"shop=beauty, brand=European Wax Center"
+"Wittmann, AZ",,retail,446120,Indulgence Nails,"13733 North Prasada Parkway, Surprise, AZ, 85388",,,33.6091802,-112.4129085,,,n_11045775162,shop=beauty
+"Wittmann, AZ",,retail,446120,DIP Nail Bar,"17200 West Peoria Avenue, Surprise, AZ, 85388",,,33.581896,-112.4292145,,,n_11047500484,shop=beauty
+"Wittmann, AZ",,retail,445110,ALDI,"16880 North 59th Avenue, Glendale, AZ, 85306",+1 855-479-1154,https://stores.aldi.us/az/glendale/16880-n-59th-ave,33.6380125,-112.1885387,,,n_11110814305,"shop=supermarket, brand=ALDI"
+"Wittmann, AZ",,retail,446120,Vien Nail,"3045 West Agua Fria Freeway, Phoenix, AZ, 85027",+16238690216,https://vien-nail.edan.io,33.667678,-112.1243395,,,n_11112978441,shop=beauty
+"Wittmann, AZ",,retail,446120,Classy Nails & Spa,"3009 West Agua Fria Freeway, Phoenix, AZ, 85027",+16232152212,https://classynailsandspaphoenix.com,33.6666786,-112.1233096,,,n_11112978458,shop=beauty
+"Wittmann, AZ",,retail,452319,Dollar Tree,"2919 West Agua Fria Freeway, Phoenix, AZ, 85027",+14808082892,https://www.dollartree.com/locations/az/phoenix/7974/,33.666264,-112.1215373,,,n_11112978460,"shop=variety_store, brand=Dollar Tree"
+"Wittmann, AZ",,retail,445110,Sprouts Farmers Market,"4201 West Thunderbird Road, Phoenix, AZ, 85053",+1 602-960-4587,https://www.sprouts.com/store/az/phoenix/phoenix-thunderbird-rd-43rd-ave/,33.6092425,-112.1485649,,,n_11115551991,"shop=supermarket, brand=Sprouts Farmers Market"
+"Wittmann, AZ",,retail,446120,T&K Nails,,,,33.6696064,-112.1848128,,,n_11149070901,shop=beauty
+"Wittmann, AZ",,retail,445310,Arrowhead Ranch Water & Ice,,,,33.6704759,-112.1884074,,,n_11149088961,shop=beverages
+"Wittmann, AZ",,retail,446120,Shiny Nails & Spa,,,,33.6703592,-112.1879968,,,n_11149088963,shop=beauty
+"Wittmann, AZ",,retail,453991,Arizona Smokers,,,,33.6704793,-112.1878799,,,n_11149088964,shop=tobacco
+"Wittmann, AZ",,retail,453110,Elite Flowers & Gifts,,,,33.6704751,-112.1881066,,,n_11149088971,shop=florist
+"Wittmann, AZ",,retail,446120,Renewed Med Spa & Tanning,,,,33.6668444,-112.1887628,,,n_11149118618,shop=beauty
+"Wittmann, AZ",,retail,446120,Nail Depot & Spa,,,,33.6666816,-112.1880106,,,n_11149118626,shop=beauty
+"Wittmann, AZ",,retail,446120,Simplicity Laser,,,,33.6624288,-112.1877929,,,n_11149154337,shop=beauty
+"Wittmann, AZ",,retail,446120,Siren & Sailor Lash & Tattoo Studio,,,,33.6623117,-112.1885068,,,n_11149154358,shop=beauty
+"Wittmann, AZ",,retail,446120,Beauty Pigmentation,,,,33.662458,-112.1885149,,,n_11149154361,shop=beauty
+"Wittmann, AZ",,retail,446120,Indulge Med Spa,,,,33.6627681,-112.188234,,,n_11149154396,shop=beauty
+"Wittmann, AZ",,retail,446120,Glam by Ree,,,,33.6627815,-112.1875158,,,n_11149154448,shop=beauty
+"Wittmann, AZ",,retail,453991,Churchill's Fine Cigars,,,,33.6626484,-112.1872426,,,n_11149154451,shop=tobacco
+"Wittmann, AZ",,retail,446120,Aftershave Barbershop,"5126 West Peoria Avenue, Glendale, AZ, 85302",+1-623-412-0566,https://aftershavebarbershopaz.com,33.5832562,-112.1702078,,,n_11149620219,"shop=beauty, operator=owner"
+"Wittmann, AZ",,retail,446120,Advanced Laser Clinics,,,,33.6706997,-112.2013798,,,n_11162300034,shop=beauty
+"Wittmann, AZ",,retail,446120,Grand Nails Lounge,,,,33.6707534,-112.201793,,,n_11162300036,shop=beauty
+"Wittmann, AZ",,retail,453110,Cactus Flower Florists,,,,33.6699803,-112.2005727,,,n_11162300042,shop=florist
+"Wittmann, AZ",,retail,446120,European Wax Center,,,https://locations.waxcenter.com/az/glendale/glendale-arrowhead-0064.html,33.6670017,-112.2055956,,,n_11162300059,"shop=beauty, brand=European Wax Center"
+"Wittmann, AZ",,retail,446120,Avalon Nails,,,,33.6669358,-112.2055963,,,n_11162300060,shop=beauty
+"Wittmann, AZ",,retail,446120,Amazing Lash Studio,,,,33.6659905,-112.2051532,,,n_11162300087,"shop=beauty, brand=Amazing Lash Studio"
+"Wittmann, AZ",,retail,446120,Chloe Nails & Spa,,,,33.6657389,-112.201947,,,n_11162302295,shop=beauty
+"Wittmann, AZ",,retail,446120,Pinky Nails & Spa,"7507 West Rose Garden Lane, Glendale, AZ, 85308",,,33.6739617,-112.2209176,,,n_11162323092,shop=beauty
+"Wittmann, AZ",,retail,446120,Herbal Nails & Spa,"7510 West Aspera Boulevard, Glendale, AZ, 85308",,,33.6712565,-112.2208904,,,n_11162323147,shop=beauty
+"Wittmann, AZ",,retail,446120,My iNails,,,,33.6539127,-112.2336096,,,n_11180321808,shop=beauty
+"Wittmann, AZ",,retail,446120,Celebrity Tanning,,,,33.654281,-112.2338044,,,n_11180321834,shop=beauty
+"Wittmann, AZ",,retail,445110,Turmeric Express Glendale,,,,33.6542465,-112.235005,,,n_11180329038,shop=supermarket
+"Wittmann, AZ",,retail,445210,Lee Bone's Fine Meats,,,,33.6542195,-112.2353334,,,n_11180329040,shop=butcher
+"Wittmann, AZ",,retail,446120,Nail Haven,,,,33.6561137,-112.2371053,,,n_11180329117,shop=beauty
+"Wittmann, AZ",,retail,446120,Nail Club,,,,33.6519423,-112.2349871,,,n_11180401773,shop=beauty
+"Wittmann, AZ",,retail,446120,Perfect Nails & Spa,,,,33.6519696,-112.2335708,,,n_11180401775,shop=beauty
+"Wittmann, AZ",,retail,446120,Lavie Nails & Spa,"18255 North 83rd Avenue, Glendale, AZ, 85308",,,33.6467199,-112.2362543,,,n_11180401789,shop=beauty
+"Wittmann, AZ",,retail,446120,Waxing the City,"18185 North 83rd Avenue, Glendale, AZ, 85308",,,33.6458166,-112.2362578,,,n_11180401793,"shop=beauty, brand=Waxing the City"
+"Wittmann, AZ",,retail,446120,Bath & Body Works,"7650 West Arrowhead Town Ctr, Glendale, AZ, 85308",,,33.6414927,-112.2239547,,,n_11182195672,"shop=cosmetics, brand=Bath & Body Works"
+"Wittmann, AZ",,retail,446120,Sephora,"7700 West Arrowhead Town Ctr, Glendale, AZ, 85308",,,33.642022,-112.2244831,,,n_11182195673,"shop=cosmetics, brand=Sephora"
+"Wittmann, AZ",,retail,446120,Arrowhead Nail Mall & Spa,,,,33.6404273,-112.2297784,,,n_11182225384,shop=beauty
+"Wittmann, AZ",,retail,445110,Trader Joe's,"7720 West Bell Road, Glendale, AZ, 85308",+1 623-776-7414,https://locations.traderjoes.com/az/glendale/85/,33.6391331,-112.2262487,,,n_11182225401,"shop=supermarket, brand=Trader Joe's"
+"Wittmann, AZ",,retail,446120,Polka Dot Bikini Wax,"17235 North 75th Avenue, Glendale, AZ, 85308",,,33.6406695,-112.2182138,,,n_11182364501,shop=beauty
+"Wittmann, AZ",,retail,446120,Modern Beauty Lab,,,,33.6409056,-112.2140001,,,n_11182364519,shop=beauty
+"Wittmann, AZ",,retail,446120,Bladed Beauty,,,,33.6418964,-112.2137212,,,n_11182364530,shop=beauty
+"Wittmann, AZ",,retail,446120,Hello Sugar | Arrowhead,"17560 North 75th Avenue, Glendale, AZ, 85308",,,33.6444716,-112.2208736,,,n_11182367422,shop=beauty
+"Wittmann, AZ",,retail,446120,Fresh Squeezed Skin Care,"17570 North 75th Avenue, Glendale, AZ, 85308",,,33.6443549,-112.2216331,,,n_11182367425,shop=beauty
+"Wittmann, AZ",,retail,446120,Perfect Skin & Lash,"17570 North 75th Avenue, Glendale, AZ, 85308",,,33.6443548,-112.2217647,,,n_11182367426,shop=beauty
+"Wittmann, AZ",,retail,446120,Lish Nail Salon,"7530 West Bell Road, Glendale, AZ, 85308",,,33.6368872,-112.2241077,,,n_11182405030,shop=beauty
+"Wittmann, AZ",,retail,446120,Sei Bella Beauty Lounge,,,,33.639317,-112.2129886,,,n_11182417346,shop=beauty
+"Wittmann, AZ",,retail,446120,Beauty Mark by Yolanda,,,,33.639282,-112.2127632,,,n_11182417347,shop=beauty
+"Wittmann, AZ",,retail,446120,Love Kim Nails & Spa,"7369 West Bell Road, Peoria, AZ, 85382",,,33.6375447,-112.2175128,,,n_11182417402,shop=beauty
+"Wittmann, AZ",,retail,446120,Nails Spa 101,,,,33.6360672,-112.2293685,,,n_11214923869,shop=beauty
+"Wittmann, AZ",,retail,446120,Tuscany Suites Spa,,,,33.6087857,-112.2551736,,,n_11218871591,shop=beauty
+"Wittmann, AZ",,retail,453991,Puffz Smoke N Vape,"15170 West Bell Road, Surprise, AZ, 85374",+16232487485,https://puffzsmokenvape.com/,33.6392323,-112.3866475,,,n_11229169954,shop=tobacco
+"Wittmann, AZ",,retail,446120,Michelle’s Beauty,,,,33.5812129,-112.271222,,,n_11282513625,shop=beauty
+"Wittmann, AZ",,retail,446120,D'Glamour Beauty Salon & Boutique,,,,33.5812015,-112.2713343,,,n_11282513627,shop=beauty
+"Wittmann, AZ",,retail,453991,Pugz Smoke & Vape,,,,33.5799533,-112.2660031,,,n_11282522216,shop=tobacco
+"Wittmann, AZ",,retail,445120,Dented Can,,,,33.579954,-112.2647718,,,n_11282522227,shop=convenience
+"Wittmann, AZ",,retail,446120,91 Nail Salon,,,,33.5777026,-112.2568438,,,n_11282522696,shop=beauty
+"Wittmann, AZ",,retail,453991,J’s Smoke Shop,,,,33.5805132,-112.25428,,,n_11282522747,shop=tobacco
+"Wittmann, AZ",,retail,446120,Mystic Nail & Spa,"8815 West Peoria Avenue, Peoria, AZ, 85345",,,33.5798564,-112.2492119,,,n_11282543159,shop=beauty
+"Wittmann, AZ",,retail,446120,Colorist Nails & Spa,,,,33.5647098,-112.2544121,,,n_11282565218,shop=beauty
+"Wittmann, AZ",,retail,446120,Queen Nails,,,,33.5647348,-112.2531439,,,n_11282565221,shop=beauty
+"Wittmann, AZ",,retail,453991,Smoker's Village,,,,33.565086,-112.2529322,,,n_11282565224,shop=tobacco
+"Wittmann, AZ",,retail,446120,Restore Hyper Wellness,"1400 North Litchfield Road, Goodyear, AZ, 85395",,,33.4610162,-112.359732,,,n_11293640453,"shop=beauty, brand=Restore Hyper Wellness"
+"Wittmann, AZ",,retail,446120,Sephora,,,,33.55489,-112.257679,,,n_11296487855,"shop=cosmetics, brand=Sephora"
+"Wittmann, AZ",,retail,446120,Bath & Body Works,"9828 West Northern Avenue, Peoria, AZ, 85345",,,33.5534434,-112.270719,,,n_11296506600,"shop=cosmetics, brand=Bath & Body Works"
+"Wittmann, AZ",,retail,445292,See's Candies,,,,33.5533511,-112.2701234,,,n_11296506609,"shop=confectionery, brand=See's Candies"
+"Wittmann, AZ",,retail,446120,Hello Sugar,,,,33.553037,-112.2698104,,,n_11296506610,shop=beauty
+"Wittmann, AZ",,retail,453991,West Valley Smoke & Vape,,,,33.5381212,-112.2537736,,,n_11298643692,shop=tobacco
+"Wittmann, AZ",,retail,453991,Fine Ash Cigars Bar & Lounge,"9380 West Westgate Boulevard, Glendale, AZ, 85305",,,33.5345541,-112.2606109,,,n_11298671722,shop=tobacco
+"Wittmann, AZ",,retail,446120,Noble Nails & Spa,"16350 West Pat Tillman Boulevard, Surprise, AZ, 85387",,,33.6982614,-112.4104949,,,n_11300835257,shop=beauty
+"Wittmann, AZ",,retail,446120,Butterfly Kiss Lash,,,,33.5061643,-112.2737951,,,n_11311148478,shop=cosmetics
+"Wittmann, AZ",,retail,446120,Sun Palm Nails,,,,33.5060281,-112.273704,,,n_11311148479,shop=beauty
+"Wittmann, AZ",,retail,445310,Waterworks Water & Ice,,,,33.49238,-112.2889898,,,n_11328497689,shop=beverages
+"Wittmann, AZ",,retail,446120,ELEMENT Nail Spa,,,,33.4924014,-112.2875686,,,n_11328497693,shop=beauty
+"Wittmann, AZ",,retail,446120,Allora Nails & Spa,"10540 West Indian School Road, Phoenix, AZ",,,33.4942412,-112.2877261,,,n_11328497705,shop=beauty
+"Wittmann, AZ",,retail,446120,Nail Garden Salon,,,,33.494159,-112.2921673,,,n_11328499128,shop=beauty
+"Wittmann, AZ",,retail,453991,Roll-it Smokeshop,,,,33.4941648,-112.2919341,,,n_11328499130,shop=tobacco
+"Wittmann, AZ",,retail,445110,Carniceria La Herradura,,,,33.4942424,-112.2918326,,,n_11328499132,shop=supermarket
+"Wittmann, AZ",,retail,445292,My Fav Candy Store,"7700 West Arrowhead Town Ctr, Glendale, AZ, 85308",,,33.6424528,-112.2253912,,,n_11444827409,shop=confectionery
+"Wittmann, AZ",,retail,445110,Albertsons,"3130 West Carefree Highway, Phoenix, AZ, 85086",+1 623-582-4985,https://local.albertsons.com/az/phoenix/3130-w-carefree-hwy.html,33.7998268,-112.1269666,,,n_11876198704,"shop=supermarket, brand=Albertsons"
+"Wittmann, AZ",,retail,445110,Safeway,"3800 West Happy Valley Road, Glendale, AZ, 85310",+1 623-518-1946,https://local.safeway.com/safeway/az/glendale/3800-w-happy-valley-rd.html,33.7144047,-112.1410901,,,n_11876198705,"shop=supermarket, brand=Safeway"
+"Wittmann, AZ",,retail,446120,C'est La Vie Nails Spa,"15611 West McDowell Road, Goodyear, AZ, 85395",,,33.4644166,-112.3948351,,,n_11895688996,shop=beauty
+"Wittmann, AZ",,retail,452210,TJ Maxx,,,,33.467477,-112.3889817,,,n_11940623906,"shop=department_store, brand=TJ Maxx"
+"Wittmann, AZ",,retail,446120,Herbal Nails & Spa at Happy Valley,"2501 West Happy Valley Road, Phoenix, AZ, 85085",623 587 9975,https://herbalnailsandspahappyvalley.com/,33.7087575,-112.1145329,,,n_11956186432,shop=beauty
+"Wittmann, AZ",,retail,445110,Asiana Market,,,,33.6553943,-112.1540701,,,n_11983758069,shop=grocery
+"Wittmann, AZ",,retail,446120,Bath & Body Works,"2470 W Happy Valley Rd, Phoenix, AZ, 85085",623 587 4493,https://www.bathandbodyworks,33.7147959,-112.1125894,,,n_12077980093,"shop=cosmetics, brand=Bath & Body Works"
+"Wittmann, AZ",,retail,446120,Amazing Lash Studio,"2470 W Happy Valley Rd, Phoenix, AZ, 85085",623 777 7540,https://www.amazinglashstudio.com/studios/az/phoenix/norterra,33.7148352,-112.1126779,,,n_12078013907,"shop=beauty, brand=Amazing Lash Studio"
+"Wittmann, AZ",,retail,446120,Restore Hyper Wellness,"2450 W Happy Valley Rd, Phoenix, AZ, 85085",623 201 18603,https://www.restore.com/locations/az-phoenix-norterra-az013,33.7141146,-112.1115739,,,n_12078758356,"shop=beauty, brand=Restore Hyper Wellness"
+"Wittmann, AZ",,retail,453110,Poppies Flower Shop,"2450 W Happy Valley Rd, Phoenix, AZ, 85085",480 649 7100,https://www.poppiesflowershop.com/,33.7144938,-112.1117443,,,n_12078787554,shop=florist
+"Wittmann, AZ",,retail,452210,TJ Maxx,"2501 W Happy Valley Rd, Phoenix, AZ, 85085",623 434 7701,https://tjmaxx.tjx.com/store/index.jsp,33.7087825,-112.1110945,,,n_12079134488,"shop=department_store, brand=TJ Maxx"
+"Wittmann, AZ",,retail,446120,Ulta Beauty,"2501 W Happy Valley Rd, Phoenix, AZ, 85085",623 581 6766,https://www.ulta.com/,33.7087482,-112.110191,,,n_12079165566,"shop=cosmetics, brand=Ulta Beauty"
+"Wittmann, AZ",,retail,452319,Five Below,"2501 W Happy Valley Rd, Phoenix, AZ, 85085",+1 623-264-6767,https://locations.fivebelow.com/az/phoenix/2501-w-happy-valley-road-39,33.708757,-112.1099324,,,n_12079208038,"shop=variety_store, brand=Five Below"
+"Wittmann, AZ",,retail,452319,Dollar Tree,"2501 W Happy Valley Rd, Phoenix, AZ, 85085",623 300 7325,https://www.dollartree.com/locations/AZ/phoenix/4480/,33.7087866,-112.1091942,,,n_12079213315,"shop=variety_store, brand=Dollar Tree"
+"Wittmann, AZ",,retail,445110,Sprouts Farmers Market,"34750 N. North Valley Pkwy, Phoenix, AZ, 85086",480 956 6058,https://www.sprouts.com/store/az/phoenix/north-valley-pkwy/,33.7998285,-112.1316073,,,n_12080407301,"shop=supermarket, brand=Sprouts Farmers Market"
+"Wittmann, AZ",,retail,446120,Ulta Beauty,"883 South Cotton Lane, Goodyear, AZ, 85338",,,33.4384208,-112.4238998,,,n_12125082279,"shop=cosmetics, brand=Ulta Beauty"
+"Wittmann, AZ",,retail,445230,Happy Grow Lucky,"350 North Tegner Street, Wickenburg, AZ",,,33.9709857,-112.7331474,,,n_12132017563,shop=greengrocer
+"Wittmann, AZ",,retail,452319,The Old Livery Mercantile,"104 North Tegner Street, Wickenburg, AZ",,https://www.oldlivery.com,33.9695512,-112.7312306,,,n_12133215010,shop=general
+"Wittmann, AZ",,retail,452319,Dollar Tree,"1533 North Dysart Road, Avondale, AZ, 85392",+12407955906,,33.4614492,-112.3388181,,,n_12140736582,"shop=variety_store, brand=Dollar Tree"
+"Wittmann, AZ",,retail,445120,7-Eleven,"West Bell Road, Surprise, AZ, 85378",,,33.6394816,-112.3428553,,,n_12202531402,"shop=convenience, brand=7-Eleven"
+"Wittmann, AZ",,retail,445120,7-Eleven,"1025 North Estrella Parkway, Goodyear, AZ, 85338",,,33.4578058,-112.3915321,,,n_12410053158,"shop=convenience, brand=7-Eleven"
+"Wittmann, AZ",,retail,445120,,,,,33.5092015,-112.3850792,,,n_12422960369,shop=convenience
+"Wittmann, AZ",,retail,446120,Bath & Body Works,"2819 West Agua Fria Freeway, Phoenix, AZ, 85027",+16235812883,https://www.bathandbodyworks.com,33.6664354,-112.1202703,,,n_12475529414,"shop=cosmetics, brand=Bath & Body Works"
+"Wittmann, AZ",,retail,446120,Sola Salons,"2811 West Agua Fria Freeway, Phoenix, AZ, 85027",+14026801206,https://www.solasalonstudios.com/locations/deer-valley-town-center,33.6664527,-112.1199156,,,n_12475529415,"shop=beauty, brand=Sola Salons"
+"Wittmann, AZ",,retail,452210,Target,,,,33.6124031,-112.41301,,,n_12504978808,"shop=department_store, brand=Target"
+"Wittmann, AZ",,retail,445110,WinCo Foods,"West McDowell Road, Goodyear, AZ, 85395",,,33.4628424,-112.3944189,,,n_12505626228,"shop=supermarket, brand=WinCo Foods"
+"Wittmann, AZ",,retail,445110,Food City,"1450 North Dysart Road, Avondale, AZ, 85323",+16239251515,,33.4485265,-112.3425632,,,n_12507588907,"shop=supermarket, brand=Food City"
+"Wittmann, AZ",,retail,445110,Bashas',"21064 West Main Street, Buckeye, AZ, 85396",+1-623-388-6000,https://www.bashas.com/,33.4961122,-112.5126469,,,n_12537902003,"shop=supermarket, brand=Bashas'"
+"Wittmann, AZ",,retail,445110,Fry's Marketplace,"Peoria, AZ, 85383",,,33.7512946,-112.3125775,,,n_12542916849,"shop=supermarket, brand=Fry's Marketplace"
+"Wittmann, AZ",,retail,446120,Nail Bar,"570 North Estrella Parkway, Goodyear, AZ, 85338",,,33.4530008,-112.3937106,,,n_12554630532,shop=beauty
+"Wittmann, AZ",,retail,452319,Tuff Shed;Ivory House,"650 North Estrella Parkway, Goodyear, AZ, 85338",,,33.4538565,-112.3944186,,,n_12554630554,shop=general
+"Wittmann, AZ",,retail,446120,Miyu Nails & Spa,,,,33.4690527,-112.3838712,,,n_12594201366,shop=beauty
+"Wittmann, AZ",,retail,452319,Bob's Variety,"13583 West Camino Del Sol, Sun City West, AZ, 85375",+1-623-584-2448,https://www.bobsvariety.com/,33.654132,-112.3527216,,,n_12756326149,shop=variety_store
+"Wittmann, AZ",,retail,446120,Ready Set Glo Nails,"7942 West Bell Road, Glendale, AZ, 85308",,,33.6392665,-112.2303108,,,n_12984535938,shop=beauty
+"Wittmann, AZ",,retail,446120,AZ-3D Nails & Spa,"3434 West Greenway Road, Phoenix, AZ, 85053",,,33.6262045,-112.1318141,,,n_12986776690,shop=beauty
+"Wittmann, AZ",,retail,445110,Smart & Final Extra!,"3434 West Greenway Road, Phoenix, AZ, 85053",+16028433363,https://www.smartandfinal.com/sm/pickup/rsid/522/store,33.6265547,-112.1327925,,,n_12986789923,"shop=supermarket, brand=Smart & Final"
+"Wittmann, AZ",,retail,453991,Nana's Smoke Shop,"3414 West Union Hills Drive, Phoenix, AZ, 85027",,,33.6551118,-112.1327406,,,n_12987268373,shop=tobacco
+"Wittmann, AZ",,retail,445110,Walmart Supercenter,"4435 West Anthem Way, Phoenix, AZ, 85086",+1 623-551-6314,https://www.walmart.com/store/5329-anthem-az,33.8697063,-112.1549826,,,w_72011685,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Wittmann, AZ",,retail,445120,4 Sons,"3150 West Carefree Highway, Phoenix, AZ, 85086;85085",,,33.7991527,-112.1285235,,,w_103863568,shop=convenience
+"Wittmann, AZ",,retail,446110,Walgreens,"2707 West Carefree Highway, Phoenix, AZ, 85085",,https://www.walgreens.com/locator/walgreens-2707+w+carefree+hwy-phoenix-az-85085/id=9472,33.7976919,-112.1188842,,,w_103863582,"shop=chemist, brand=Walgreens"
+"Wittmann, AZ",,retail,445120,ampm,"2635 West Deer Valley Road, Phoenix, AZ, 85027",,,33.6831094,-112.1167396,,,w_115569963,"shop=convenience, brand=ampm"
+"Wittmann, AZ",,retail,445110,Walmart Supercenter,"12900 West Thunderbird Road, El Mirage, AZ, 85335",+1 623-583-1321,https://www.walmart.com/store/4336-el-mirage-az,33.6105306,-112.3364899,,,w_120448143,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Wittmann, AZ",,retail,446110,Walgreens,"7448 West Thunderbird Road, Peoria, AZ, 85381",623-979-0558,https://www.walgreens.com/locator/walgreens-7448+w+thunderbird+rd-peoria-az-85381/id=3427,33.6110849,-112.2193663,,,w_121895579,"shop=chemist, brand=Walgreens"
+"Wittmann, AZ",,retail,445120,Circle K,"1595 North Dysart Road, Avondale, AZ, 85392",,,33.4637385,-112.3402541,,,w_124364544,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445110,Sprouts Farmers Market,"1809 North Dysart Road, Avondale, AZ, 85392",+1 623-535-8989,https://www.sprouts.com/store/az/avondale/n-dysart-rd/,33.4684064,-112.3396143,,,w_124364868,"shop=supermarket, brand=Sprouts Farmers Market"
+"Wittmann, AZ",,retail,445120,Circle K,"10712 West Indian School Road, Phoenix, AZ, 85037",,,33.4942924,-112.2908453,,,w_130545024,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445120,Circle K,"3449 West Greenway Road, Phoenix, AZ, 85053",,,33.6246344,-112.133112,,,w_142226948,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,446110,Walgreens,"9040 West Peoria Avenue, Peoria, AZ, 85345",623-979-2180,https://www.walgreens.com/locator/walgreens-9040+w+peoria+ave-peoria-az-85345/id=5222,33.5814809,-112.2542937,,,w_142615305,"shop=chemist, brand=Walgreens"
+"Wittmann, AZ",,retail,445110,Walmart Supercenter,"21655 North Lake Pleasant Parkway, Peoria, AZ, 85382",+1 623-537-0809,https://www.walmart.com/store/3896-peoria-az,33.6802899,-112.2762148,,,w_150296887,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Wittmann, AZ",,retail,445120,Quick Stop,"7938 North 59th Avenue, Glendale, AZ, 85301",,,33.5528194,-112.1866196,,,w_152881321,shop=convenience
+"Wittmann, AZ",,retail,445110,Walmart Supercenter,"13055 West Rancho Santa Fe Boulevard, Avondale, AZ, 85392",+1 623-935-4010,https://www.walmart.com/store/2554-avondale-az,33.45907,-112.3381251,,,w_153246928,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Wittmann, AZ",,retail,445110,Albertsons,"12970 West Indian School Road, Litchfield Park, AZ, 85340",+1 623-535-7991,https://local.albertsons.com/az/litchfield-park/12970-w-indian-school-rd.html,33.4947371,-112.338068,,,w_155457481,"shop=supermarket, brand=Albertsons"
+"Wittmann, AZ",,retail,445120,,"19491 North Canyon Springs Boulevard, Buckeye, AZ, 85396",,,33.6614061,-112.6155534,,,w_155457482,shop=convenience
+"Wittmann, AZ",,retail,445120,Festival Village Market,"19491 North Canyon Springs Boulevard, Buckeye, AZ, 85396",,,33.6612396,-112.6158298,,,w_155457483,"shop=convenience, amenity=fuel, operator=Shell Gas"
+"Wittmann, AZ",,retail,445120,Circle K,"13012 West Indian School Road, Litchfield Park, AZ, 85340",,,33.4938866,-112.3400608,,,w_155457485,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445120,Circle K,"8319 West Bell Road, Peoria, AZ, 85382",,,33.6373835,-112.2340356,,,w_156541163,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,452210,Big Lots,"17510 North 75th Avenue, Glendale, AZ, 85308",+1 623-334-8983,https://local.biglots.com/az/glendale/17510-n-75th-ave,33.6411623,-112.2210892,,,w_156541165,"shop=department_store, brand=Big Lots"
+"Wittmann, AZ",,retail,446110,Walgreens,"5421 West Thunderbird Road, Glendale, AZ, 85306",+16025479645,https://www.walgreens.com/locator/walgreens-5421+w+thunderbird+rd-glendale-az-85306/id=3385,33.6104005,-112.1763295,,,w_156544854,"shop=chemist, brand=Walgreens"
+"Wittmann, AZ",,retail,445310,BevMo!,"6712 West Bell Road, Glendale, AZ, 85308",,,33.6389086,-112.2036748,,,w_168657640,"shop=alcohol, brand=BevMo!"
+"Wittmann, AZ",,retail,452210,Target,"1515 North Litchfield Road, Goodyear, AZ, 85395",623-935-3510,https://www.target.com/sl/goodyear/1242,33.463271,-112.3551429,,,w_169044899,"shop=department_store, brand=Target"
+"Wittmann, AZ",,retail,445110,Fry's Food and Drug,"10675 West Indian School Road, Avondale, AZ, 85392",+1 623-772-0502,https://www.frysfood.com/stores/grocery/az/avondale/107th-ave-indian-school/660/00066,33.4921119,-112.2884164,,,w_169154067,"shop=supermarket, brand=Fry's Food and Drug"
+"Wittmann, AZ",,retail,445120,Circle K,"23336 North Lake Pleasant Parkway, Peoria, AZ, 85383",,,33.6956722,-112.2765373,,,w_169603915,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445120,,"1595 North Avondale Boulevard, Avondale, AZ, 85392",,,33.463649,-112.3056941,,,w_172752651,shop=convenience
+"Wittmann, AZ",,retail,446110,Walgreens,"8301 West Camelback Road, Phoenix, AZ, 85037",623-849-4278,https://www.walgreens.com/locator/walgreens-8301+w+camelback+rd-phoenix-az-85037/id=5668,33.5082126,-112.238422,,,w_183525160,"shop=chemist, brand=Walgreens"
+"Wittmann, AZ",,retail,445120,Circle K,"4930 North 91st Avenue, Phoenix, AZ, 85037",,,33.5081056,-112.2557773,,,w_183525168,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445120,Circle K,"4839 North 83rd Avenue, Phoenix, AZ, 85033",,,33.5082859,-112.2372205,,,w_183525176,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445110,Safeway,"1999 West Wickenburg Way, Wickenburg, AZ, 85390",+1 928-684-2999,https://local.safeway.com/safeway/az/wickenburg/1999-w-wickenburg-way.html,33.9609988,-112.7709509,,,w_186500528,"shop=supermarket, brand=Safeway"
+"Wittmann, AZ",,retail,445120,QuikTrip,"7522 West Deer Valley Road, Peoria, AZ, 85383",,,33.6823867,-112.2209263,,,w_187984400,"shop=convenience, brand=QuikTrip"
+"Wittmann, AZ",,retail,445110,Walmart Neighborhood Market,"14200 West Indian School Road, Goodyear, AZ, 85395",+1 623-935-7007,https://www.walmart.com/store/3604-goodyear-az,33.4872177,-112.3643662,,,w_189827227,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Wittmann, AZ",,retail,452210,JCPenney,"13333 West McDowell Road, Goodyear, AZ, 85395",+1-623-535-7063,,33.4614882,-112.3460012,,,w_219944226,"shop=department_store, brand=JCPenney"
+"Wittmann, AZ",,retail,446110,Walgreens,"1451 North Dysart Road, Avondale, AZ, 85323",+16239250280,https://www.walgreens.com/locator/walgreens-1451+n+dysart+rd-avondale-az-85323/id=5776,33.4504215,-112.3403591,,,w_220287856,"shop=chemist, brand=Walgreens"
+"Wittmann, AZ",,retail,445120,Grand Stop,"6707 North 67th Avenue, Glendale, AZ, 85303",,,33.5379566,-112.2034091,,,w_221146902,shop=convenience
+"Wittmann, AZ",,retail,445120,QuikTrip,"6702 North 67th Avenue, Glendale, AZ, 85303",,https://www.quiktrip.com/,33.5391209,-112.2038042,,,w_221147388,"shop=convenience, brand=QuikTrip, operator=QuickTrip"
+"Wittmann, AZ",,retail,445120,Circle K,"6937 North 75th Avenue, Glendale, AZ, 85303",,,33.5373562,-112.2199869,,,w_221147830,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445120,Amigos Market,"7536 West Glendale Avenue, Glendale, AZ, 85303",,,33.5383099,-112.2219015,,,w_221148205,shop=convenience
+"Wittmann, AZ",,retail,445120,Circle K,"24838 North 35th Avenue, Glendale, AZ, 85310",,,33.7121715,-112.1357182,,,w_221928905,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445120,Circle K,"5848 West Olive Avenue, Glendale, AZ, 85302",,,33.5680007,-112.1857265,,,w_223087589,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445120,Love's,"1610 South Miller Road, Buckeye, AZ, 85326",+1 623 386 6926,,33.431107,-112.5917821,,,w_223537900,"shop=convenience, brand=Love's"
+"Wittmann, AZ",,retail,446110,CVS Pharmacy,"7499 North 75th Avenue, Glendale, AZ, 85303",,https://www.cvs.com/store-locator/glendale-az-pharmacies/7499-w-bethany-home-rd-glendale-az-85303/storeid=7872,33.5226147,-112.2199477,,,w_223782515,"shop=chemist, brand=CVS Pharmacy, operator=CVS Health"
+"Wittmann, AZ",,retail,445120,Circle K,"6972 North 83rd Avenue, Glendale, AZ, 85305",,,33.5362359,-112.2384651,,,w_224930161,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445120,,"37770 Vulture Mine Road, AZ, 85390",,,34.002705,-112.7726034,,,w_229427588,shop=convenience
+"Wittmann, AZ",,retail,445110,Bashas',"13940 West Meeker Boulevard, Sun City West, AZ, 85375",623-975-6220,,33.6604775,-112.3608512,,,w_230333696,"shop=supermarket, brand=Bashas'"
+"Wittmann, AZ",,retail,446110,Walgreens,"19003 North R H Johnson Boulevard, Sun City West, AZ, 85375",,https://www.walgreens.com/locator/walgreens-19003+n+r+h+johnson+blvd-sun+city+west-az-85375/id=6128,33.6577902,-112.3503558,,,w_230904283,"shop=chemist, brand=Walgreens"
+"Wittmann, AZ",,retail,445120,QuikTrip,,,,33.6396026,-112.3059738,,,w_231985869,"shop=convenience, brand=QuikTrip"
+"Wittmann, AZ",,retail,445120,Circle K,"11339 West Bell Road, Surprise, AZ, 85378",,,33.6379824,-112.3048356,,,w_231985880,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,446110,CVS Pharmacy,"19602 North R H Johnson Boulevard, Sun City West, AZ, 85375",623-214-1015,https://www.cvs.com/store-locator/sun-city-west-az-pharmacies/19602-r-h-johnson-blvd-sun-city-west-az-85375/storeid=9230,33.6610742,-112.3586605,,,w_232880870,"shop=chemist, brand=CVS Pharmacy"
+"Wittmann, AZ",,retail,445120,Country Market,"6108 West Northern Avenue, Glendale, AZ, 85301",,,33.5534676,-112.1911323,,,w_235251576,shop=convenience
+"Wittmann, AZ",,retail,445110,Fry's Marketplace,"16380 West Yuma Road, Goodyear, AZ, 85338",+1 623-925-4440,https://www.frysfood.com/stores/grocery/az/goodyear/yuma-sarival-rd/660/00676,33.4376982,-112.4111804,,,w_236357005,"shop=supermarket, brand=Fry's Marketplace"
+"Wittmann, AZ",,retail,445110,Walmart Supercenter,"1100 North Estrella Parkway, Goodyear, AZ, 85338",+1 623-925-9575,https://www.walmart.com/store/5369-goodyear-az,33.4595426,-112.3952312,,,w_238144169,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Wittmann, AZ",,retail,445120,Circle K,"13843 West Glendale Avenue, Glendale, AZ, 85307",,,33.5363913,-112.3576164,,,w_240363368,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,446110,Walgreens,"8309 West Glendale Avenue, Glendale, AZ, 85305",623-772-5547,https://www.walgreens.com/locator/walgreens-8309+w+glendale+ave-glendale-az-85305/id=5775,33.5370075,-112.2384372,,,w_241128626,"shop=chemist, brand=Walgreens, operator=Walgreen's"
+"Wittmann, AZ",,retail,452210,Kohl's,"15357 West Cactus Road, Surprise, AZ, 85379",,https://www.kohls.com/stores/az/surprise-1231.shtml,33.593805,-112.390276,,,w_241187821,"shop=department_store, brand=Kohl's"
+"Wittmann, AZ",,retail,445120,Circle K,"5881 West Cactus Road, Glendale, AZ, 85304",,,33.5959912,-112.1853144,,,w_241573171,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445110,WinCo Foods,"5850 West Bell Road, Glendale, AZ, 85308",,,33.641393,-112.1831575,,,w_241739099,"shop=supermarket, brand=WinCo Foods"
+"Wittmann, AZ",,retail,446110,CVS Pharmacy,"18591 North 59th Avenue, Glendale, AZ, 85308",,https://www.cvs.com/store-locator/glendale-az-pharmacies/18591-n-59th-ave-glendale-az-85308/storeid=17,33.6537512,-112.1855212,,,w_241739683,"shop=chemist, brand=CVS Pharmacy"
+"Wittmann, AZ",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-28516+n+el+mirage+rd-peoria-az-85383/id=10241,33.7418003,-112.3231933,,,w_241870252,"shop=chemist, brand=Walgreens"
+"Wittmann, AZ",,retail,445110,Fry's Food and Drug,"5771 West Thunderbird Road, Glendale, AZ, 85306",+1 602-978-4998,https://www.frysfood.com/stores/grocery/az/glendale/59th-ave-thunderbird/660/00006,33.6092661,-112.1839586,,,w_242825233,"shop=supermarket, brand=Fry's Food and Drug"
+"Wittmann, AZ",,retail,445120,Food Mart,"6691 West Thunderbird Road, Glendale, AZ, 85306",,,33.609868,-112.2020768,,,w_242896377,shop=convenience
+"Wittmann, AZ",,retail,445120,QuikTrip,"6721 West Thunderbird Road, Peoria, AZ, 85381",,,33.6099691,-112.2034785,,,w_242896387,"shop=convenience, brand=QuikTrip"
+"Wittmann, AZ",,retail,445110,Walmart Supercenter,"7975 West Peoria Avenue, Peoria, AZ, 85345",+1 623-878-9907,https://www.walmart.com/store/1533-peoria-az/,33.5784365,-112.2303881,,,w_247163020,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Wittmann, AZ",,retail,445110,Albertsons,"5040 West Cactus Road, Glendale, AZ, 85304",+1 602-843-1871,https://local.albertsons.com/az/glendale/5040-w-cactus-rd.html,33.5977945,-112.1671305,,,w_254454548,"shop=supermarket, brand=Albertsons"
+"Wittmann, AZ",,retail,445120,Circle K,"24831 North 67th Avenue, Phoenix, AZ, 85310",,,33.7115222,-112.2025435,,,w_256121369,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,452210,Target,"13731 West Bell Road, Surprise, AZ, 85374",+1 623-975-4122,https://www.target.com/sl/surprise/1335,33.6368036,-112.3538309,,,w_256702231,"shop=department_store, brand=Target"
+"Wittmann, AZ",,retail,445120,QuikTrip,"9020 North 91st Avenue, Peoria, AZ, 85345",,,33.5669658,-112.2558907,,,w_261493692,"shop=convenience, brand=QuikTrip"
+"Wittmann, AZ",,retail,445120,Circle K,"9476 West Olive Avenue, Peoria, AZ, 85345",(623) 486-0462,,33.5668165,-112.2632933,,,w_261493697,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445310,Olive Liquor,"6612 West Olive Avenue, Glendale, AZ, 85302",,,33.5676333,-112.2013235,,,w_261636276,shop=alcohol
+"Wittmann, AZ",,retail,452319,99 Cents Only Stores,"12801 West Bell Road, Surprise, AZ, 85378",,https://locations.99only.com/az/surprise/discount-store-161.html,33.6370788,-112.3357044,,,w_262502464,"shop=variety_store, brand=99 Cents Only Stores"
+"Wittmann, AZ",,retail,445110,Fry's Food and Drug,"15510 West Bell Road, Surprise, AZ, 85374",+1 623-546-2522,https://www.frysfood.com/storeHours?store=66000061,33.6403889,-112.39538,,,w_264232996,"shop=supermarket, brand=Fry's Food and Drug, operator=Fry's"
+"Wittmann, AZ",,retail,446110,Walgreens,"13014 West Camelback Road, Litchfield Park, AZ, 85340",,https://www.walgreens.com/locator/walgreens-13014+w+camelback+rd-litchfield+park-az-85340/id=7582,33.5086264,-112.3392115,,,w_265639150,"shop=chemist, brand=Walgreens"
+"Wittmann, AZ",,retail,446110,Walgreens,"23477 West Yuma Road, Buckeye, AZ, 85326",,https://www.walgreens.com/locator/walgreens-23477+w+yuma+rd-buckeye-az-85326/id=9175,33.4349807,-112.5555514,,,w_274121263,"shop=chemist, brand=Walgreens"
+"Wittmann, AZ",,retail,445110,Discount Grocery,"8150 West Peoria Avenue, Peoria, AZ, 85345",,,33.5829948,-112.2341446,,,w_282841317,shop=supermarket
+"Wittmann, AZ",,retail,445110,Walmart Supercenter,"13770 West Bell Road, Surprise, AZ, 85374",+1 623-544-2200,https://www.walmart.com/store/2777-surprise-az,33.6428731,-112.3580929,,,w_296117546,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Wittmann, AZ",,retail,445120,7-Eleven,"9910 West Indian School Road, Phoenix, AZ, 85037",,https://www.7-eleven.com/locations/az/phoenix/9910-w-indian-school-road-32824,33.4943668,-112.2734688,,,w_297484527,"shop=convenience, brand=7-Eleven"
+"Wittmann, AZ",,retail,445120,Circle K,,,,33.5412878,-112.3506745,,,w_299394361,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445120,Circle K,"4135 West Anthem Way, Phoenix, AZ, 85086",,,33.8703847,-112.1496511,,,w_301494449,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445120,Circle K,"537 South Watson Road, Buckeye, AZ, 85326",,,33.4420863,-112.5555611,,,w_302427382,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445120,Circle K,"39414 North Daisy Mountain Drive, Phoenix, AZ, 85086",,,33.843302,-112.1386121,,,w_303217239,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,446110,Walgreens,"15490 West Bell Road, Surprise, AZ, 85374",,https://www.walgreens.com/locator/walgreens-15490+w+bell+rd-surprise-az-85374/id=4620,33.6393233,-112.3933407,,,w_312485904,"shop=chemist, brand=Walgreens"
+"Wittmann, AZ",,retail,452210,Big Lots,"14537 West Grand Avenue, Surprise, AZ, 85374",+1 623-214-0754,https://local.biglots.com/az/surprise/14537-w-grand-ave,33.6544653,-112.3737904,,,w_312487646,"shop=department_store, brand=Big Lots"
+"Wittmann, AZ",,retail,445110,Walmart Supercenter,"1060 South Watson Road, Buckeye, AZ, 85326",+1 623-474-6728,https://www.walmart.com/store/3407-buckeye-az,33.4369065,-112.560349,,,w_313143191,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Wittmann, AZ",,retail,445110,Fry's Marketplace,"1300 South Watson Road, Buckeye, AZ, 85326",+1 623-691-6600,https://www.frysfood.com/stores/grocery/az/buckeye/yuma-st-watson-rd/660/00675;https://www.frysfood.com/health-services/clinic/details/851/00107,33.434174,-112.5586905,,,w_313165785,"shop=supermarket, brand=Fry's Marketplace, operator=Fry's"
+"Wittmann, AZ",,retail,445120,Speedmart,"25031 West Durango Street, Buckeye, AZ, 85326",,,33.427498,-112.5900624,,,w_313647183,shop=convenience
+"Wittmann, AZ",,retail,445120,Circle K,"8327 West Thunderbird Road, Peoria, AZ, 85381",,,33.6094382,-112.2381079,,,w_314055274,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,446110,Walgreens,"5895 West Peoria Avenue, Glendale, AZ, 85302",623-934-9152,https://www.walgreens.com/locator/walgreens-5895+w+peoria+ave-glendale-az-85302/id=4020,33.5812959,-112.1854665,,,w_331356788,"shop=chemist, brand=Walgreens"
+"Wittmann, AZ",,retail,445120,,"1419 North Jackrabbit Trail, Buckeye, AZ, 85396",,,33.4636474,-112.4779851,,,w_334949255,shop=convenience
+"Wittmann, AZ",,retail,445120,Quik-fill,"8296 West Camelback Road, Glendale, AZ, 85303",,,33.5092994,-112.2371437,,,w_334979510,shop=convenience
+"Wittmann, AZ",,retail,445120,Olive Food Mart,"9080 West Olive Avenue, Peoria, AZ, 85345-7050",,,33.5669765,-112.2546808,,,w_338641745,shop=convenience
+"Wittmann, AZ",,retail,445120,Shell,"12170 North El Mirage Road, El Mirage, AZ, 85335",,,33.5937431,-112.3256506,,,w_349700118,shop=convenience
+"Wittmann, AZ",,retail,445110,Fry's Food and Drug,"19403 North R H Johnson Boulevard, Sun City West, AZ, 85375",+1 623-930-5025,https://www.frysfood.com/stores/grocery/az/sun-city-west/138th-ave-rh-johnson/660/00086,33.6612431,-112.3532728,,,w_351036868,"shop=supermarket, brand=Fry's Food and Drug"
+"Wittmann, AZ",,retail,445110,Safeway,"4811 North 83rd Avenue, Phoenix, AZ, 85340",+1 623-247-4447,https://local.safeway.com/safeway/az/phoenix/4811-n-83rd-ave.html,33.50762,-112.2357839,,,w_351487015,"shop=supermarket, brand=Safeway"
+"Wittmann, AZ",,retail,452210,Kohl's,"14020 West Bell Road, Surprise, AZ, 85374",+1 623-544-6330,https://www.kohls.com/stores/az/surprise-622.shtml,33.6393586,-112.3621563,,,w_355879506,"shop=department_store, brand=Kohl's, operator=Kohl's"
+"Wittmann, AZ",,retail,452210,Ross,"13715 West Bell Road, Surprise, AZ, 85374",+1 623-584-2408,,33.6367229,-112.3517551,,,w_357299412,"shop=department_store, brand=Ross"
+"Wittmann, AZ",,retail,446120,Ulta Beauty,"13707 West Bell Road, Surprise, AZ, 85374",+1 623-214-2779,https://www.ulta.com/stores/surprise-az-176,33.6366918,-112.3508131,,,w_357299414,"shop=cosmetics, brand=Ulta Beauty"
+"Wittmann, AZ",,retail,445110,Sprouts Farmers Market,"13759 West Bell Road, Surprise, AZ, 85374",+1 623-544-3121,https://www.sprouts.com/store/az/surprise/w-bell-rd/,33.6369973,-112.3562102,,,w_358325023,"shop=supermarket, brand=Sprouts Farmers Market"
+"Wittmann, AZ",,retail,446120,Voulez Vous Nails,"13375 West Grand Avenue, Surprise, AZ, 85374",623-544-8280,,33.6366523,-112.3504196,,,w_358976065,shop=beauty
+"Wittmann, AZ",,retail,445120,Minute Mart,"24805 North Lake Pleasant Parkway, Peoria, AZ, 85383",,,33.7091402,-112.2715533,,,w_359675766,shop=convenience
+"Wittmann, AZ",,retail,445120,QuikTrip,"14007 West Grand Avenue, Surprise, AZ, 85374",623-556-0238,,33.649129,-112.3651075,,,w_359679381,"shop=convenience, brand=QuikTrip"
+"Wittmann, AZ",,retail,445110,Trader Joe's,"14095 West Grand Avenue, Surprise, AZ, 85374",+1 623-546-1640,https://locations.traderjoes.com/az/surprise/92/,33.651371,-112.3674212,,,w_359883222,"shop=supermarket, brand=Trader Joe's, operator=Trader Joe's"
+"Wittmann, AZ",,retail,446120,Vicky Nails & Spa,"14051 West Grand Avenue, Surprise, AZ, 85374",623-556-5434,,33.6506733,-112.3669973,,,w_360260856,shop=beauty
+"Wittmann, AZ",,retail,446110,Walgreens,"14285 West Grand Avenue, Surprise, AZ, 85374",,https://www.walgreens.com/locator/walgreens-14285+w+grand+ave-surprise-az-85374/id=4791,33.6533456,-112.3702845,,,w_360484556,"shop=chemist, brand=Walgreens"
+"Wittmann, AZ",,retail,445110,Albertsons,"14551 West Grand Avenue, Surprise, AZ, 85374",+1 623-546-8038,https://local.albertsons.com/az/surprise/14551-w-grand-ave.html,33.6561821,-112.3761942,,,w_366200219,"shop=supermarket, brand=Albertsons"
+"Wittmann, AZ",,retail,445110,WinCo Foods,"16925 West Bell Road, Surprise, AZ, 85388",,,33.6375077,-112.4230421,,,w_368177928,"shop=supermarket, brand=WinCo Foods"
+"Wittmann, AZ",,retail,445110,Sprouts Farmers Market,"5665 West Bell Road, Glendale, AZ, 85308",+1 602-896-0300,https://www.sprouts.com/stores/details/-/store-details/view/store/3,33.6372471,-112.1807584,,,w_368177930,"shop=supermarket, brand=Sprouts Farmers Market, operator=Apollo Global Management"
+"Wittmann, AZ",,retail,445110,Safeway,"17049 West Bell Road, Surprise, AZ, 85388;85374",+1 623-518-1059,https://local.safeway.com/safeway/az/surprise/17049-w-bell-rd.html,33.6372975,-112.4252962,,,w_368177951,"shop=supermarket, brand=Safeway"
+"Wittmann, AZ",,retail,445120,QuikTrip,"9120 West Indian School Road, Phoenix, AZ, 85037",,,33.4948726,-112.2562262,,,w_380037770,"shop=convenience, brand=QuikTrip"
+"Wittmann, AZ",,retail,445120,QuikTrip,"1850 South Miller Road, Buckeye, AZ, 85326",,,33.4295099,-112.591875,,,w_385077203,"shop=convenience, brand=QuikTrip"
+"Wittmann, AZ",,retail,445110,Walmart Neighborhood Market,"7421 West Thunderbird Road, Peoria, AZ, 85381",+1 602-627-9848,https://www.walmart.com/store/4275-peoria-az,33.6091101,-112.2183244,,,w_387467461,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Wittmann, AZ",,retail,446110,CVS Pharmacy,"8332 West Thunderbird Road, Peoria, AZ, 85381",623-776-3006,https://www.cvs.com/store-locator/peoria-az-pharmacies/8332-w-thunderbird-rd-peoria-az-85381/storeid=69,33.6105905,-112.2382881,,,w_391048116,"shop=chemist, brand=CVS Pharmacy"
+"Wittmann, AZ",,retail,445120,Circle K,"8277 West Olive Avenue, Peoria, AZ, 85345",,,33.5657524,-112.2370399,,,w_391694689,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,446110,CVS Pharmacy,"39510 North Gavilan Peak Parkway, Phoenix, AZ, 85086",,,33.8435304,-112.1361604,,,w_398636202,"shop=chemist, brand=CVS Pharmacy"
+"Wittmann, AZ",,retail,445110,Fry's Food and Drug,"39508 North Daisy Mountain Drive, Phoenix, AZ, 85086",+1 623-551-7221,https://www.frysfood.com/stores/grocery/az/phoenix/gavilan-peak-daisy-mountain-dr/660/00078,33.8444614,-112.133804,,,w_398636523,"shop=supermarket, brand=Fry's Food and Drug"
+"Wittmann, AZ",,retail,452210,Target,"9350 West Northern Avenue, Peoria, AZ, 85305",+1 623-877-8440,https://www.target.com/sl/peoria-sw/1361,33.5546207,-112.2603551,,,w_399530179,"shop=department_store, brand=Target, operator=Target Corporation"
+"Wittmann, AZ",,retail,445120,ampm,"7501 West Peoria Avenue, Peoria, AZ, 85345",,,33.5808338,-112.220776,,,w_399577410,"shop=convenience, brand=ampm"
+"Wittmann, AZ",,retail,445120,4 Sons Food Store,"15059 West R H Johnson Boulevard, Sun City West, AZ, 85375",623-975-1601,,33.6703819,-112.388942,,,w_401121968,shop=convenience
+"Wittmann, AZ",,retail,445110,Walmart Neighborhood Market,"6645 West Peoria Avenue, Glendale, AZ, 85302",+1 623-773-2947,https://www.walmart.com/store/3845-glendale-az,33.580209,-112.2018621,,,w_401378194,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Wittmann, AZ",,retail,445120,Circle K,"9049 West Peoria Avenue, Peoria, AZ, 85345",623-979-3621,,33.5804581,-112.2546007,,,w_405052214,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,446110,Walgreens,"9009 North 67th Avenue, Glendale, AZ, 85302",,https://www.walgreens.com/locator/walgreens-9009+n+67th+ave-glendale-az-85302/id=6065,33.5677814,-112.2022078,,,w_405247833,"shop=chemist, brand=Walgreens"
+"Wittmann, AZ",,retail,445120,Food Mart,"9031 West Northern Avenue, Glendale, AZ, 85305",,,33.5510997,-112.2544713,,,w_408191302,shop=convenience
+"Wittmann, AZ",,retail,452210,Ross,"9460 West Northern Avenue, Peoria, AZ, 85305",+1 623-772-1228,,33.5538064,-112.2623175,,,w_409958868,"shop=department_store, brand=Ross"
+"Wittmann, AZ",,retail,452319,Five Below,"9420 West Northern Avenue, Peoria, AZ, 85305",+1 623-244-9546,https://locations.fivebelow.com/az/glendale/9420-w-northern-ave-ste-101,33.5543516,-112.2615138,,,w_409958885,"shop=variety_store, brand=Five Below"
+"Wittmann, AZ",,retail,452319,Dollar Tree,"9420 West Northern Avenue, Peoria, AZ, 85305",,https://www.dollartree.com/locations/az/glendale/7338/,33.5543518,-112.2612458,,,w_409958889,"shop=variety_store, brand=Dollar Tree"
+"Wittmann, AZ",,retail,446120,Ulta Beauty,"9280 West Northern Avenue, Peoria, AZ, 85305",+1 480-780-9330,https://www.ulta.com/stores/glendale-az-1753,33.5543703,-112.2587418,,,w_409958903,"shop=cosmetics, brand=Ulta Beauty"
+"Wittmann, AZ",,retail,452210,Kohl's,"9220 West Northern Avenue, Peoria, AZ, 85305",+1 623-877-0177,https://www.kohls.com/stores/az/glendale-653.shtml,33.5545816,-112.2580898,,,w_409958904,"shop=department_store, brand=Kohl's"
+"Wittmann, AZ",,retail,446110,Walgreens,"6690 West Union Hills Drive, Glendale, AZ, 85308",,https://www.walgreens.com/locator/walgreens-6690+w+union+hills+dr-glendale-az-85308/id=3003,33.6538416,-112.2024569,,,w_411301047,"shop=chemist, brand=Walgreens"
+"Wittmann, AZ",,retail,445110,Walmart Supercenter,"14111 North Prasada Gateway Avenue, Surprise, AZ, 85388",+1 623-282-3208,https://www.walmart.com/store/5429-surprise-az,33.6125161,-112.4207592,,,w_413046113,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Wittmann, AZ",,retail,446110,Walgreens,"9045 West Indian School Road, Phoenix, AZ, 85037",623-877-3186,,33.4936218,-112.2544791,,,w_419994525,"shop=chemist, brand=Walgreens"
+"Wittmann, AZ",,retail,445120,Speed Mart,"5103 West Peoria Avenue, Glendale, AZ, 85302",,,33.5814612,-112.1694464,,,w_426089308,shop=convenience
+"Wittmann, AZ",,retail,445120,Circle K,"5049 West Peoria Avenue, Glendale, AZ, 85302",,,33.5814126,-112.1682482,,,w_426089309,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445120,Fry's Fuel,"5108 West Olive Avenue, Glendale, AZ, 85302",,,33.5678446,-112.1699363,,,w_426089316,shop=convenience
+"Wittmann, AZ",,retail,445110,Fry's Food and Drug,"5116 West Olive Avenue, Glendale, AZ, 85302",+1 623-937-4771,https://www.frysfood.com/stores/grocery/az/glendale/51st-ave-olive/660/00026,33.5688874,-112.1699134,,,w_426089323,"shop=supermarket, brand=Fry's Food and Drug"
+"Wittmann, AZ",,retail,445120,Circle K,"5155 West Olive Avenue, Glendale, AZ, 85302",,,33.5667703,-112.1711317,,,w_426089326,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445120,,"7473 West Thunderbird Road, Peoria, AZ, 85381",,,33.6099396,-112.2194946,,,w_431154787,shop=convenience
+"Wittmann, AZ",,retail,445120,ampm,"10303 West Grand Avenue, Sun City, AZ, 85351",,,33.5996836,-112.281691,,,w_431443146,"shop=convenience, brand=ampm"
+"Wittmann, AZ",,retail,445120,QuikTrip,"11309 Northwest Grand Avenue, Youngtown, AZ, 85363",,,33.6054971,-112.3025071,,,w_433218737,"shop=convenience, brand=QuikTrip"
+"Wittmann, AZ",,retail,445120,Minute Mart,"9060 West Northern Avenue, Peoria, AZ, 85305",,,33.5523893,-112.2541459,,,w_437303654,shop=convenience
+"Wittmann, AZ",,retail,445120,Chevron,"9070 West Bell Road, Peoria, AZ, 85382",,,33.6385991,-112.2522106,,,w_437304870,"shop=convenience, brand=Chevron"
+"Wittmann, AZ",,retail,445120,7-Eleven,"6720 West Olive Avenue, Peoria, AZ, 85345",+1 623-878-4515,https://www.7-eleven.com/locations/az/peoria/6720-w-olive-avenue-26638,33.5676906,-112.2033264,,,w_440853585,"shop=convenience, brand=7-Eleven"
+"Wittmann, AZ",,retail,445210,Capital Farms Meats & Provisions,"410 West Wickenburg Way, Wickenburg, AZ, 85390",+1-928-671-2060,https://capitalfarms.com/,33.9659177,-112.7351221,,,w_441167355,shop=butcher
+"Wittmann, AZ",,retail,445120,QuikTrip,"9910 West Camelback Road, Phoenix, AZ, 85037",,,33.5089866,-112.2733745,,,w_443197977,"shop=convenience, brand=QuikTrip"
+"Wittmann, AZ",,retail,445110,Walmart Supercenter,"18551 North 83rd Avenue, Glendale, AZ, 85308",+1 623-825-1129,https://www.walmart.com/store/3241-glendale-az,33.6508464,-112.2341801,,,w_443646715,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Wittmann, AZ",,retail,445120,Food Mart,"9102 West Peoria Avenue, Peoria, AZ, 85345",,,33.581339,-112.2556162,,,w_446616570,shop=convenience
+"Wittmann, AZ",,retail,453110,Exclusive Flowers and Gifts,"9440 West Peoria Avenue, Peoria, AZ, 85345",,,33.5809227,-112.2629292,,,w_446616574,shop=florist
+"Wittmann, AZ",,retail,445110,Walmart Supercenter,"5010 North 95th Avenue, Phoenix, AZ, 85305",+1 623-872-0058,https://www.walmart.com/store/3465-glendale-az,33.5101043,-112.2673014,,,w_448707657,"shop=supermarket, brand=Walmart"
+"Wittmann, AZ",,retail,452319,Dollar Tree,"5122 North 95th Avenue, Glendale, AZ, 85305",,https://www.dollartree.com/locations/az/glendale/2975/,33.5114532,-112.2670237,,,w_448707659,"shop=variety_store, brand=Dollar Tree"
+"Wittmann, AZ",,retail,446110,CVS Pharmacy,"7530 West Cactus Road, Peoria, AZ, 85381",,https://www.cvs.com/store-locator/peoria-az-pharmacies/7530-w-cactus-rd-peoria-az-85381/storeid=7115,33.5963814,-112.2211505,,,w_452111731,"shop=chemist, brand=CVS Pharmacy"
+"Wittmann, AZ",,retail,445110,Fry's Food and Drug,"7455 West Cactus Road, Peoria, AZ, 85381",+1 623-486-0441,https://www.frysfood.com/stores/grocery/az/peoria/75th-ave-cactus/660/00045,33.5944808,-112.2189255,,,w_452111735,"shop=supermarket, brand=Fry's Food and Drug"
+"Wittmann, AZ",,retail,445120,Circle K,"7460 West Cactus Road, Peoria, AZ, 85381",,,33.5963828,-112.2196333,,,w_452111738,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,452210,Target,"24890 North Lake Pleasant Parkway, Peoria, AZ, 85383",+1 623-376-7300,https://www.target.com/sl/peoria-lake-pleasant-pkwy/2227,33.7097439,-112.2759243,,,w_454935656,"shop=department_store, brand=Target"
+"Wittmann, AZ",,retail,452210,Target,"8055 West Bell Road, Peoria, AZ, 85382",+1 623-979-0250,https://www.target.com/sl/peoria-north/825,33.6356204,-112.2282165,,,w_454943519,"shop=department_store, brand=Target"
+"Wittmann, AZ",,retail,445120,QuikTrip,"3806 West Greenway Road, Phoenix, AZ, 85053",,,33.6257553,-112.1408842,,,w_456778083,"shop=convenience, brand=QuikTrip"
+"Wittmann, AZ",,retail,445120,Circle K,"4301 West Cactus Road, Glendale, AZ, 85304",,,33.5958857,-112.1519565,,,w_474521037,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,446110,Walgreens,"10705 West Indian School Road, Avondale, AZ, 85392",,https://www.walgreens.com/locator/walgreens-10705+w+indian+school+rd-avondale-az-85392/id=3387,33.4929507,-112.2909121,,,w_477228521,"shop=chemist, brand=Walgreens"
+"Wittmann, AZ",,retail,445110,Fry's Food and Drug,"4202 West Cactus Road, Phoenix, AZ, 85029",+1 602-439-9045,https://www.frysfood.com/stores/grocery/az/phoenix/43rd-ave-cactus/660/00127,33.5979949,-112.1499937,,,w_480970526,"shop=supermarket, brand=Fry's Food and Drug"
+"Wittmann, AZ",,retail,446110,CVS Pharmacy,"10727 West Olive Avenue, Peoria, AZ, 85345",,,33.5649455,-112.2904334,,,w_482483312,"shop=chemist, brand=CVS Pharmacy"
+"Wittmann, AZ",,retail,445292,Sugar Factory,"9375 West Entertainment Boulevard, Glendale, AZ, 85305",,,33.532921,-112.2607503,,,w_490447213,shop=confectionery
+"Wittmann, AZ",,retail,445292,Snack Land,"9330 West Hanna Lane, Glendale, AZ, 85305",,,33.5348529,-112.2611115,,,w_490447217,shop=confectionery
+"Wittmann, AZ",,retail,445120,4Sons,"13085 West Rancho Santa Fe Boulevard, Avondale, AZ, 85392",,,33.460229,-112.340253,,,w_505561327,shop=convenience
+"Wittmann, AZ",,retail,452210,Target,"995 South Cotton Lane, Goodyear, AZ, 85338",+1 480-627-3275,https://www.target.com/sl/goodyear-west/2400,33.4376801,-112.4212679,,,w_506027390,"shop=department_store, brand=Target"
+"Wittmann, AZ",,retail,452210,Ross,"845 South Cotton Lane, Goodyear, AZ, 85338",+1 623-925-0792,,33.4389465,-112.4214684,,,w_506028108,"shop=department_store, brand=Ross"
+"Wittmann, AZ",,retail,445120,QuikTrip,"550 North Dysart Road, Goodyear, AZ, 85338",,,33.4524925,-112.342009,,,w_506424905,"shop=convenience, brand=QuikTrip"
+"Wittmann, AZ",,retail,445310,BevMo!,"15405 West McDowell Road, Goodyear, AZ, 85395",,,33.4626234,-112.3905813,,,w_506652641,"shop=alcohol, brand=BevMo!"
+"Wittmann, AZ",,retail,445120,Circle K,"315 North Litchfield Road, Goodyear, AZ, 85338",,,33.450503,-112.3573857,,,w_507893911,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445110,Walmart Neighborhood Market,"4230 West Union Hills Drive, Phoenix, AZ, 85308",+1 623-869-0779,https://www.walmart.com/store/3315-glendale-az,33.6560713,-112.1503991,,,w_518350740,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Wittmann, AZ",,retail,445120,Convenient Food Mart,"4250 West Union Hills Drive, Phoenix, AZ, 85308",,,33.6551701,-112.1513351,,,w_518350742,"shop=convenience, brand=Convenient Food Mart"
+"Wittmann, AZ",,retail,445120,QuikTrip,"4255 West Union Hills Drive, Phoenix, AZ, 85050",,,33.6538946,-112.1512429,,,w_518350744,"shop=convenience, brand=QuikTrip"
+"Wittmann, AZ",,retail,445110,Bashas',"20351 North Lake Pleasant Road, Peoria, AZ, 85382",,,33.6684915,-112.2781295,,,w_523212622,"shop=supermarket, brand=Bashas', operator=Basha's"
+"Wittmann, AZ",,retail,452210,Target,"2727 West Agua Fria Freeway, Phoenix, AZ, 85027",+1 623-869-8070,https://www.target.com/sl/phoenix-i17-and-sr101/1141,33.6662312,-112.1190314,,,w_558468068,"shop=department_store, brand=Target"
+"Wittmann, AZ",,retail,452210,Ross,"2929 West Agua Fria Freeway, Phoenix, AZ, 85027",+1 623-780-3277,,33.6661309,-112.1219904,,,w_558668802,"shop=department_store, brand=Ross"
+"Wittmann, AZ",,retail,452319,Five Below,"2939 West Agua Fria Freeway, Phoenix, AZ, 85027",+16232646772,https://locations.fivebelow.com/az/phoenix/2939-w-agua-fria-fwy,33.6662419,-112.122417,,,w_558668803,"shop=variety_store, brand=Five Below"
+"Wittmann, AZ",,retail,445120,7-Eleven,"19848 North 27th Avenue, Phoenix, AZ, 85027-4000",+16238698704,https://www.7-eleven.com/locations/az/phoenix/19848-n-27-th-avenue-32319,33.6673696,-112.1176546,,,w_558668812,"shop=convenience, brand=7-Eleven"
+"Wittmann, AZ",,retail,446110,Walgreens,"4410 West Cactus Road, Glendale, AZ, 85304",+16029385087,https://www.walgreens.com/locator/walgreens-4410+w+cactus+rd-glendale-az-85304/id=6736,33.5968047,-112.1533558,,,w_574682572,"shop=chemist, brand=Walgreens"
+"Wittmann, AZ",,retail,445110,Fry's Food and Drug,"10660 Grand Avenue, Sun City, AZ, 85351",+1 623-876-8220,https://www.frysfood.com/stores/grocery/az/sun-city/107th-ave-grand-ave/660/00122,33.6006278,-112.2888146,,,w_591666254,"shop=supermarket, brand=Fry's Food and Drug"
+"Wittmann, AZ",,retail,446110,CVS Pharmacy,"9856 West Peoria Avenue, Peoria, AZ, 85345",,https://www.cvs.com/store-locator/peoria-az-pharmacies/9856-w-peoria-ave-peoria-az-85345/storeid=9237,33.5807982,-112.2717541,,,w_599981296,"shop=chemist, brand=CVS Pharmacy"
+"Wittmann, AZ",,retail,446110,CVS Pharmacy,"9901 West Thunderbird Boulevard, Peoria, AZ, 85351",,https://www.cvs.com/store-locator/sun-city-az-pharmacies/9901b-w-thunderbird-blvd-sun-city-az-85351/storeid=7,33.60871,-112.2692536,,,w_600562551,"shop=chemist, brand=CVS Pharmacy"
+"Wittmann, AZ",,retail,445120,7-Eleven,"3306 West Bell Road, Phoenix, AZ, 85053",+1 602-993-9688,https://www.7-eleven.com/locations/az/phoenix/3306-west-bell-rd-20416,33.6400773,-112.1306395,,,w_601339804,"shop=convenience, brand=7-Eleven"
+"Wittmann, AZ",,retail,445110,Fry's Marketplace,"15215 North Cotton Lane, Surprise, AZ, 85388",+1 623-455-7900,https://www.frysfood.com/stores/details/660/00680,33.6225669,-112.4246454,,,w_614365289,"shop=supermarket, brand=Fry's Marketplace"
+"Wittmann, AZ",,retail,445120,Minute Mart,,,,33.9150019,-112.1442949,,,w_658305594,shop=convenience
+"Wittmann, AZ",,retail,446110,CVS Pharmacy,"15474 West Greenway Road, Surprise, AZ, 85379",,https://www.cvs.com/store-locator/surprise-az-pharmacies/15474-w-greenway-rd-surprise-az-85374/storeid=5477,33.6246939,-112.3931176,,,w_662851162,"shop=chemist, brand=CVS Pharmacy"
+"Wittmann, AZ",,retail,445110,Walmart Neighborhood Market,"15431 West Greenway Road, Surprise, AZ, 85379",+1 623-584-0189,https://www.walmart.com/store/4218-surprise-az,33.622637,-112.3924922,,,w_662853038,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Wittmann, AZ",,retail,445120,Circle K,"13051 West Glendale Avenue, Glendale, AZ, 85307",6239356220,https://www.circlek.com/store-locator/US/glendale/13051-w-glendale-ave/2703477,33.5360445,-112.3403114,,,w_667959388,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445110,Safeway,"10641 West Olive Avenue, Peoria, AZ, 85345",+1 623-583-7227,https://local.safeway.com/safeway/az/peoria/10641-w-olive-ave.html,33.5638569,-112.2885393,,,w_668371400,"shop=supermarket, brand=Safeway"
+"Wittmann, AZ",,retail,445120,,"1850 West Happy Valley Road, Phoenix, AZ, 85085",,,33.7135942,-112.0992549,,,w_676415202,shop=convenience
+"Wittmann, AZ",,retail,445120,QuikTrip,"6739 West Happy Valley Road, Peoria, AZ, 85383",,,33.7114865,-112.2038827,,,w_677746028,"shop=convenience, brand=QuikTrip"
+"Wittmann, AZ",,retail,446110,Walgreens,"6640 West Happy Valley Road, Phoenix, AZ, 85310",,https://www.walgreens.com/locator/walgreens-6640+w+happy+valley+rd-glendale-az-85310/id=7110,33.7128785,-112.2024266,,,w_678021181,"shop=chemist, brand=Walgreens"
+"Wittmann, AZ",,retail,445120,Circle K,"9875 West Camelback Road, Phoenix, AZ, 85037",,,33.5076765,-112.2719258,,,w_682596807,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445120,Circle K,"7510 West Peoria Avenue, Peoria, AZ, 85345",,,33.5819465,-112.2209573,,,w_684693758,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,446110,CVS Pharmacy,"2840 North Dysart Road, Goodyear, AZ, 85395",,https://www.cvs.com/store-locator/goodyear-az-pharmacies/2840-n-dysart-rd-goodyear-az-85395/storeid=3749,33.478153,-112.3418118,,,w_685506854,"shop=chemist, brand=CVS Pharmacy"
+"Wittmann, AZ",,retail,445120,QuikTrip,"13067 West Thomas Road, Avondale, AZ, 85392",,,33.478249,-112.3399435,,,w_685513691,"shop=convenience, brand=QuikTrip"
+"Wittmann, AZ",,retail,445120,Circle K,"18610 North 107th Avenue, Peoria, AZ, 85373",,,33.6529434,-112.2903982,,,w_686369940,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445120,QuikTrip,"11604 West Olive Avenue, Youngtown, AZ, 85363",,,33.5660732,-112.3098051,,,w_687713687,"shop=convenience, brand=QuikTrip"
+"Wittmann, AZ",,retail,445120,Valero,"8322 West Olive Avenue, Peoria, AZ, 85345",,https://valero.com/,33.5669055,-112.2382617,,,w_690846364,"shop=convenience, brand=Valero"
+"Wittmann, AZ",,retail,445110,Fry's Marketplace,"25401 North Lake Pleasant Parkway, Peoria, AZ, 85383",+1 623-235-2350,https://www.frysfood.com/stores/grocery/az/peoria/lake-pleasant-happy-valley-rd/660/00657,33.7144693,-112.267781,,,w_690943092,"shop=supermarket, brand=Fry's Food and Drug"
+"Wittmann, AZ",,retail,452210,Kohl's,"10072 West Happy Valley Parkway, Peoria, AZ, 85383",+1 623-376-9240,https://www.kohls.com/stores/az/peoria-1084.shtml,33.7150947,-112.2763182,,,w_690943093,"shop=department_store, brand=Kohl's"
+"Wittmann, AZ",,retail,445110,Sprouts Farmers Market,"10134 West Happy Valley Parkway, Peoria, AZ, 85383",+1 602-385-3392,https://www.sprouts.com/store/az/peoria/peoria-happy-valley-rd/,33.7130184,-112.2775867,,,w_690943094,"shop=supermarket, brand=Sprouts Farmers Market"
+"Wittmann, AZ",,retail,446110,Walgreens,"12244 West Cactus Road, El Mirage, AZ, 85335",,https://www.walgreens.com/locator/walgreens-12244+w+cactus+rd-el+mirage-az-85335/id=7026,33.5949169,-112.3238449,,,w_691805191,"shop=chemist, brand=Walgreens"
+"Wittmann, AZ",,retail,445120,Circle K,"13777 North Dysart Road, El Mirage, AZ, 85335",+1-623-933-0135,,33.6084016,-112.3411267,,,w_691805192,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445310,Total Wine,"17550 North 75th Avenue, Glendale, AZ, 85308",+1 623-486-0162,https://www.totalwine.com/store-info/1002,33.6434498,-112.2209455,,,w_692349162,"shop=alcohol, brand=Total Wine"
+"Wittmann, AZ",,retail,445120,Circle K,"3445 West Deer Valley Road, Phoenix, AZ, 85027",,,33.6831905,-112.1340159,,,w_702950219,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,446110,Walgreens,"21632 North 35th Avenue, Glendale, AZ, 85308",,https://www.walgreens.com/locator/walgreens-21632+n+35th+ave-glendale-az-85308/id=5266,33.6832966,-112.1356046,,,w_702950220,"shop=chemist, brand=Walgreens"
+"Wittmann, AZ",,retail,445120,Circle K,"801 North Central Avenue, Avondale, AZ, 85323",623-932-4908,,33.4494304,-112.3492174,,,w_713313970,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,446110,Walgreens,"4965 West Bell Road, Glendale, AZ, 85308",602-843-2305,https://www.walgreens.com/locator/walgreens-4965+w+bell+rd-glendale-az-85308/id=3049,33.6385828,-112.1685047,,,w_714119647,"shop=chemist, brand=Walgreens"
+"Wittmann, AZ",,retail,446110,Walgreens,"1654 North Pebble Creek Parkway, Goodyear, AZ, 85395",,https://www.walgreens.com/locator/walgreens-1654+n+pebble+creek+pkwy-goodyear-az-85395/id=12334,33.4653745,-112.3932779,,,w_717576695,"shop=chemist, brand=Walgreens"
+"Wittmann, AZ",,retail,445120,Shell,"6730 West Cactus Road, Peoria, AZ, 85381",,,33.5967343,-112.2032862,,,w_728076284,"shop=convenience, brand=Shell"
+"Wittmann, AZ",,retail,445110,Fry's Food and Drug,"13982 West Waddell Road, Surprise, AZ, 85379",+1 623-537-9630,https://www.frysfood.com/stores/details/660/00674,33.6112097,-112.3614745,,,w_731233392,"shop=supermarket, brand=Fry's Food and Drug"
+"Wittmann, AZ",,retail,445110,Safeway,"13828 West Waddell Road, Surprise, AZ, 85379",+1-623-476-1811,https://local.safeway.com/safeway/az/surprise/13828-w-waddell-rd.html,33.6106282,-112.3575305,,,w_731233395,"shop=supermarket, brand=Safeway"
+"Wittmann, AZ",,retail,446110,Walgreens,"15514 West Waddell Road, Surprise, AZ, 85379",+1-623-215-0544,https://www.walgreens.com/locator/walgreens-15514+w+waddell+rd-surprise-az-85379/id=7933,33.6084957,-112.358348,,,w_731233403,"shop=chemist, brand=Walgreens"
+"Wittmann, AZ",,retail,445120,Circle K,"2575 West Sonoran Desert Drive, Phoenix, AZ, 85085",,,33.7685491,-112.1147251,,,w_731817897,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445110,Bashas',"15367 West Waddell Road, Surprise, AZ, 85379",,https://www.bashas.com/stores/bashas-supermarket-waddell-reems/,33.6080651,-112.3919692,,,w_732008027,"shop=supermarket, brand=Bashas'"
+"Wittmann, AZ",,retail,445120,QuikTrip,"8870 West Thunderbird Road, Peoria, AZ, 85381",,,33.610531,-112.2496186,,,w_732022042,"shop=convenience, brand=QuikTrip"
+"Wittmann, AZ",,retail,446110,Walgreens,"15385 North Dysart Road, El Mirage, AZ, 85374",,,33.6229597,-112.3413781,,,w_734275659,"shop=chemist, brand=Walgreens"
+"Wittmann, AZ",,retail,452319,Family Dollar,"12101 West Thunderbird Road, El Mirage, AZ, 85335",,,33.6086794,-112.3197061,,,w_734285866,"shop=variety_store, brand=Family Dollar"
+"Wittmann, AZ",,retail,445110,Fry's Marketplace,"13730 West Camelback Road, Litchfield Park, AZ, 85340",+1 623-334-7740,https://www.frysfood.com/stores/grocery/az/litchfield-park/frys-marketplace/660/00667,33.5100768,-112.3556392,,,w_735392509,"shop=supermarket, brand=Fry's Marketplace"
+"Wittmann, AZ",,retail,446110,CVS Pharmacy,"4890 North Litchfield Road, Litchfield Park, AZ, 85340",,https://www.cvs.com/store-locator/litchfield-park-az-pharmacies/4890-n-litchfield-rd-litchfield-park-az-85340/storeid=5791,33.5074809,-112.3587316,,,w_735392515,"shop=chemist, brand=CVS Pharmacy"
+"Wittmann, AZ",,retail,446110,CVS Pharmacy,"24865 North Lake Pleasant Parkway, Peoria, AZ, 85383",,https://www.cvs.com/store-locator/peoria-az-pharmacies/24865-n-lake-pleasant-parkway-peoria-az-85383/storeid=8952,33.7096567,-112.2714735,,,w_738633216,"shop=chemist, brand=CVS Pharmacy"
+"Wittmann, AZ",,retail,445120,,,,,33.6381912,-112.3243707,,,w_741587985,shop=convenience
+"Wittmann, AZ",,retail,446120,The Skincare Extraordinaire,"13575 West Indian School Road, Litchfield Park, AZ, 85340",,https://www.skincareextraordinaire.com/,33.4872287,-112.3508951,,,w_762160643,shop=beauty
+"Wittmann, AZ",,retail,445110,Fry's Food and Drug,"9043 West Olive Avenue, Peoria, AZ, 85345",+1 623-979-1383,https://www.frysfood.com/stores/grocery/az/peoria/91st-ave-olive/660/00056,33.5646333,-112.2537003,,,w_762406411,"shop=supermarket, brand=Fry's Food and Drug"
+"Wittmann, AZ",,retail,452210,Ross,"10114 West Happy Valley Parkway, Peoria, AZ, 85383",+1 623-561-1571,,33.7134016,-112.2773169,,,w_768060907,"shop=department_store, brand=Ross"
+"Wittmann, AZ",,retail,452319,Five Below,"10092 West Happy Valley Parkway, Peoria, AZ, 85383",+1 623-264-6325,https://locations.fivebelow.com/az/peoria/10092-w-happy-valley-rd,33.7142014,-112.2766497,,,w_768060910,"shop=variety_store, brand=Five Below"
+"Wittmann, AZ",,retail,446120,Ulta Beauty,"10084 West Happy Valley Parkway, Peoria, AZ, 85383",+1 623-825-2652,https://www.ulta.com/stores/peoria-az-228,33.7143839,-112.2764849,,,w_768060911,"shop=beauty, brand=Ulta Beauty"
+"Wittmann, AZ",,retail,445120,Fry's Fuel,"25371 North Lake Pleasant Parkway, Peoria, AZ, 85383",,,33.7138178,-112.2704374,,,w_785982896,shop=convenience
+"Wittmann, AZ",,retail,445120,,"3501 West Union Hills Drive, Glendale, AZ, 85308",,,33.6540296,-112.1348913,,,w_832075181,shop=convenience
+"Wittmann, AZ",,retail,445120,Circle K,"14559 Grand Avenue;West Grand Avenue, Surprise, AZ, 85374",,,33.6575275,-112.375591,,,w_840731395,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445120,Toor Chevron,"14445 West Grand Avenue, Surprise, AZ, 85374",,,33.6539785,-112.371255,,,w_840731413,shop=convenience
+"Wittmann, AZ",,retail,446110,CVS Pharmacy,"19505 North Sunrise Boulevard, Surprise, AZ, 85374",,https://www.cvs.com/store-locator/surprise-az-pharmacies/19505-n-sunrise-blvd-surprise-az-85374/storeid=9306,33.654966,-112.4035804,,,w_841039881,"shop=chemist, brand=CVS Pharmacy"
+"Wittmann, AZ",,retail,445120,,"15505 West Bell Road, Surprise, AZ, 85374",,,33.6380951,-112.394867,,,w_841053667,shop=convenience
+"Wittmann, AZ",,retail,445120,Circle K,"16794 West Bell Road, Surprise, AZ, 85374",,,33.6394939,-112.4209432,,,w_842223725,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,446110,Walgreens,"17088 West Bell Road, Surprise, AZ, 85374",,https://www.walgreens.com/locator/walgreens-17088+w+bell+rd-surprise-az-85374/id=6806,33.6394962,-112.4260491,,,w_842224938,"shop=chemist, brand=Walgreens"
+"Wittmann, AZ",,retail,445120,Circle K,"16247 West Bell Road, Surprise, AZ, 85374",,,33.638009,-112.4087535,,,w_842236391,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445120,Jacksons,"8939 West Bell Road, Peoria, AZ, 85382",,,33.637374,-112.2415994,,,w_842254951,"shop=convenience, brand=Jacksons"
+"Wittmann, AZ",,retail,445120,ampm,"8271 West Thunderbird Road, Peoria, AZ, 85381",,,33.60939,-112.2368805,,,w_842259017,"shop=convenience, brand=ampm"
+"Wittmann, AZ",,retail,445110,Walmart Supercenter,"5845 West Bell Road, Glendale, AZ, 85308",+1 602-978-8205,https://www.walmart.com/store/1532-glendale-az,33.6364175,-112.1848015,,,w_842270269,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Wittmann, AZ",,retail,445120,Circle K,"5902 West Bell Road, Glendale, AZ, 85308",+1 602-439-1353,https://www.circlek.com/store-locator/US/glendale/5902-w-bell-rd/2701967,33.6391798,-112.1870267,,,w_842270333,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445120,Food Mart,"5060 West Bell Road, Glendale, AZ, 85308",,,33.639746,-112.1683793,,,w_842271602,shop=convenience
+"Wittmann, AZ",,retail,445120,Food Shop,"4121 West Bell Road, Phoenix, AZ, 85053",,,33.6388025,-112.1468485,,,w_842272577,shop=convenience
+"Wittmann, AZ",,retail,445120,Shell,"16520 West Greenway Road, Surprise, AZ, 85388",,,33.6247874,-112.4154851,,,w_850319889,"shop=convenience, brand=Shell, operator=Shell"
+"Wittmann, AZ",,retail,446110,CVS Pharmacy,"15300 North Cotton Lane, Surprise, AZ, 85388",,https://www.cvs.com/store-locator/surprise-az-pharmacies/15300-n-cotton-lane-surprise-az-85388/storeid=5530,33.6233691,-112.4276919,,,w_850319892,"shop=chemist, brand=CVS Pharmacy"
+"Wittmann, AZ",,retail,445110,Walmart Supercenter,"2501 West Happy Valley Road, Phoenix, AZ, 85085",+1 623-780-5702,https://www.walmart.com/store/5190-phoenix-az,33.7083048,-112.1128137,,,w_870540942,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Wittmann, AZ",,retail,452210,Ross,"2501 West Happy Valley Road, Phoenix, AZ, 85085",+1 623-869-6549,,33.7108548,-112.1147436,,,w_870540945,"shop=department_store, brand=Ross"
+"Wittmann, AZ",,retail,445120,Circle K,"2702 West Deer Valley Road;West Deer Valley Drive, Phoenix, AZ, 85027",,,33.6843551,-112.1179267,,,w_875610557,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445120,Circle K,"12707 West Grand Avenue, Surprise, AZ, 85374",,,33.6252074,-112.3340266,,,w_875658956,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445120,Circle K,"2311 West Deer Valley Road, Phoenix, AZ, 85027",,,33.6832909,-112.1089943,,,w_887380181,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445120,,"3610 West Pinnacle Peak Road, Glendale, AZ, 85310",,,33.6987842,-112.1397498,,,w_888906203,shop=convenience
+"Wittmann, AZ",,retail,445120,Circle K,"3502 West Union Hills Drive, Glendale, AZ, 85308",,,33.6550323,-112.1350158,,,w_889112733,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,446110,Walgreens,"3431 West Union Hills Drive, Phoenix, AZ, 85053",,https://www.walgreens.com/locator/walgreens-3431+w+union+hills+dr-phoenix-az-85027/id=4508,33.6540003,-112.1332267,,,w_889112792,"shop=chemist, brand=Walgreens"
+"Wittmann, AZ",,retail,446110,Walgreens,"15514 West Waddell Road, Surprise, AZ, 85379",,https://www.walgreens.com/locator/walgreens-15514+w+waddell+rd-surprise-az-85379/id=7933,33.6102668,-112.3946058,,,w_889384925,"shop=chemist, brand=Walgreens"
+"Wittmann, AZ",,retail,445120,,"2711 West Union Hills Drive, Phoenix, AZ, 85053",,,33.6541209,-112.1178966,,,w_889588606,shop=convenience
+"Wittmann, AZ",,retail,446110,CVS Pharmacy,"5430 West Happy Valley Road, Phoenix, AZ, 85083",,https://www.cvs.com/store-locator/glendale-az-pharmacies/5450-west-happy-valley-road-glendale-az-85310/storeid=10615,33.7130276,-112.1778438,,,w_891396952,"shop=chemist, brand=CVS Pharmacy"
+"Wittmann, AZ",,retail,446110,Walgreens,"20266 North Lake Pleasant Road, Peoria, AZ, 85382",,https://www.walgreens.com/locator/walgreens-20266+n+lake+pleasant+rd-peoria-az-85382/id=5353,33.6678287,-112.2808471,,,w_896001262,"shop=chemist, brand=Walgreens, operator=Walgreens"
+"Wittmann, AZ",,retail,445110,Safeway,"440 North Estrella Parkway, Goodyear, AZ, 85338",+1 623-476-1708,https://local.safeway.com/safeway/az/goodyear/440-n-estrella-pkwy.html,33.4514894,-112.394564,,,w_896035044,"shop=supermarket, brand=Safeway"
+"Wittmann, AZ",,retail,446110,Walgreens,"387 North Estrella Parkway, Goodyear, AZ, 85338",,https://www.walgreens.com/locator/walgreens-387+n+estrella+pkwy-goodyear-az-85338/id=2243,33.4507675,-112.3917402,,,w_896035076,"shop=chemist, brand=Walgreens"
+"Wittmann, AZ",,retail,445120,Circle K,"8326 West Union Hills Drive, Peoria, AZ, 85382",,,33.653408,-112.2382933,,,w_906337998,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445110,Albertsons,"8950 West Bell Road, Peoria, AZ, 85382",+1 623-876-8103,https://local.albertsons.com/az/peoria/8950-w-bell-rd.html,33.6397958,-112.2517341,,,w_906419419,"shop=supermarket, brand=Albertsons"
+"Wittmann, AZ",,retail,445110,Fry's Food and Drug,"9245 West Union Hills Drive, Peoria, AZ, 85382",+1 623-972-7902,https://www.frysfood.com/stores/grocery/az/peoria/91st-ave-union-hills/660/00114,33.6511974,-112.2565847,,,w_906612728,"shop=supermarket, brand=Fry's Food and Drug"
+"Wittmann, AZ",,retail,446110,Walgreens,"9050 West Union Hills Drive, Peoria, AZ, 85382",,https://www.walgreens.com/locator/walgreens-9050+w+union+hills+dr-peoria-az-85382/id=3048,33.6533092,-112.2543324,,,w_906612748,"shop=chemist, brand=Walgreens"
+"Wittmann, AZ",,retail,446110,CVS Pharmacy,"9172 West Union Hills Drive, Peoria, AZ, 85382",,https://www.cvs.com/store-locator/peoria-az-pharmacies/9172-w-union-hills-dr-peoria-az-85382/storeid=9294,33.6532359,-112.2557107,,,w_906612750,"shop=chemist, brand=CVS Pharmacy"
+"Wittmann, AZ",,retail,445110,AJ's Fine Foods,"20050 North 67th Avenue, Glendale, AZ, 85308",,,33.6665508,-112.2056527,,,w_906650658,shop=supermarket
+"Wittmann, AZ",,retail,445120,Food Mart,"6705 West Bell Road, Glendale, AZ, 85308",,,33.6377228,-112.2039491,,,w_916861694,shop=convenience
+"Wittmann, AZ",,retail,445110,Safeway,"20205 North 67th Avenue, Glendale, AZ, 85308",+1 623-572-8814,https://local.safeway.com/safeway/az/glendale/20205-n-67th-ave--100.html,33.6693457,-112.2002198,,,w_918420113,"shop=supermarket, brand=Safeway"
+"Wittmann, AZ",,retail,445120,Circle K,"20203 North 67th Avenue, Glendale, AZ, 85308",,,33.6691163,-112.202489,,,w_918420117,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445120,Circle K,"20207 North 59th Avenue, Glendale, AZ, 85308",,,33.6692905,-112.1860175,,,w_918424192,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445110,Sprouts Farmers Market,"6760 West Deer Valley Road, Glendale, AZ, 85308",+1 623-385-4430,https://www.sprouts.com/store/az/phoenix/glendale-deer-valley-rd/,33.6830229,-112.2053342,,,w_918441842,"shop=supermarket, brand=Sprouts Farmers Market"
+"Wittmann, AZ",,retail,446110,Walgreens,"5011 West Union Hills Drive, Glendale, AZ, 85308",,https://www.walgreens.com/locator/walgreens-5011+w+union+hills+dr-glendale-az-85308/id=5851,33.6538838,-112.1682198,,,w_918485047,"shop=chemist, brand=Walgreens"
+"Wittmann, AZ",,retail,452210,Marshalls,"24720 North Lake Pleasant Parkway, Peoria, AZ, 85383",,,33.708175,-112.2758189,,,w_918492619,"shop=department_store, brand=Marshalls"
+"Wittmann, AZ",,retail,452210,Big Lots,"24760 North Lake Pleasant Parkway, Peoria, AZ, 85383",602-858-9981,https://local.biglots.com/az/peoria/24760-n-lake-pleasant-pkwy,33.7085745,-112.2758022,,,w_918492620,"shop=department_store, brand=Big Lots"
+"Wittmann, AZ",,retail,445120,Circle K,"28460 North Vistancia Boulevard, Peoria, AZ, 85383",6234554100,,33.7398198,-112.3229826,,,w_918814305,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445110,Safeway,"12320 North 83rd Avenue, Peoria, AZ, 85381",+1 623-773-1109,https://local.safeway.com/safeway/az/peoria/12320-n-83rd-ave.html,33.5967045,-112.2397227,,,w_922298210,"shop=supermarket, brand=Safeway"
+"Wittmann, AZ",,retail,445120,Circle K,"8270 West Cactus Road, Peoria, AZ, 85381",,,33.5960411,-112.237096,,,w_922298505,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445110,Albertsons,"8240 West Deer Valley Road, Peoria, AZ, 85383",+1 623-572-5744,https://local.albertsons.com/az/peoria/8240-w-deer-valley-rd.html,33.6832763,-112.2364476,,,w_924868152,"shop=supermarket, brand=Albertsons"
+"Wittmann, AZ",,retail,446110,Walgreens,"8310 West Deer Valley Road, Peoria, AZ, 85382",,https://www.walgreens.com/locator/walgreens-8310+w+deer+valley+rd-peoria-az-85382/id=4742,33.6822278,-112.238557,,,w_924868155,"shop=chemist, brand=Walgreens"
+"Wittmann, AZ",,retail,445120,,"8325 West Deer Valley Road, Peoria, AZ, 85382",,,33.680946,-112.238455,,,w_924868171,shop=convenience
+"Wittmann, AZ",,retail,445110,Fry's Food and Drug,"8375 West Deer Valley Road, Peoria, AZ, 85382",+1 623-561-5504,https://www.sonicdrivein.com/,33.680239,-112.2399346,,,w_924868175,"shop=supermarket, brand=Fry's Food and Drug"
+"Wittmann, AZ",,retail,445120,QuikTrip,"8293 West Lake Pleasant Parkway, Peoria, AZ, 85382",,,33.6709021,-112.2405558,,,w_924884345,"shop=convenience, brand=QuikTrip"
+"Wittmann, AZ",,retail,445120,Food Mart,"7934 West Thunderbird Road, Peoria, AZ, 85381",,,33.6110128,-112.2292094,,,w_926903957,shop=convenience
+"Wittmann, AZ",,retail,446110,CVS Pharmacy,"13870 West Greenway Road, Surprise, AZ, 85374",,https://www.cvs.com/store-locator/surprise-az-pharmacies/13870-w-greenway-rd-surprise-az-85374/storeid=1743,33.6244341,-112.3585437,,,w_929164158,"shop=chemist, brand=CVS Pharmacy"
+"Wittmann, AZ",,retail,445110,ALDI,"845 North Estrella Parkway, Goodyear, AZ, 85338-3031",+1 833-479-7161,https://stores.aldi.us/az/goodyear/845-n-estrella-pkwy,33.4560732,-112.3915669,,,w_929980269,"shop=supermarket, brand=ALDI"
+"Wittmann, AZ",,retail,445120,QuikTrip,"9541 West Olive Avenue, Peoria, AZ, 85345",,,33.5652997,-112.2647084,,,w_934087273,"shop=convenience, brand=QuikTrip"
+"Wittmann, AZ",,retail,445120,Circle K,"721 North Jackrabbit Trail;North 195th Avenue, Buckeye, AZ, 85326",,,33.4554806,-112.4782045,,,w_935371343,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445120,,"12239 West Grand Avenue, El Mirage, AZ, 85335",,,33.6174003,-112.3240108,,,w_936148026,shop=convenience
+"Wittmann, AZ",,retail,445120,Fry's Fuel,"4220 West Cactus Road, Phoenix, AZ, 85304",,,33.5968377,-112.150807,,,w_937256910,shop=convenience
+"Wittmann, AZ",,retail,445120,,"15445 West Waddell Road, Surprise, AZ, 85379",,,33.6090629,-112.3929443,,,w_937454765,shop=convenience
+"Wittmann, AZ",,retail,445110,Bashas',"7586 West Thunderbird Road, Peoria, AZ, 85381",,,33.6114097,-112.2221165,,,w_937697859,"shop=supermarket, brand=Bashas'"
+"Wittmann, AZ",,retail,445120,,"1520 North Verrado Way, Buckeye, AZ, 85396",,,33.4650109,-112.5052077,,,w_938255786,shop=convenience
+"Wittmann, AZ",,retail,445110,ALDI,"24665 North Lake Pleasant Parkway, Peoria, AZ, 85383",+1 877-479-1160,https://stores.aldi.us/az/peoria/24665-n-lake-pleasant-pkwy,33.7074701,-112.2707804,,,w_938722962,"shop=supermarket, brand=ALDI"
+"Wittmann, AZ",,retail,446110,Walgreens,"10707 West Peoria Avenue, Sun City, AZ, 85351",,,33.5795605,-112.2907165,,,w_940166786,"shop=chemist, brand=Walgreens"
+"Wittmann, AZ",,retail,445120,Circle K,"5050 West Thunderbird Road, Phoenix, AZ, 85306",,,33.6110985,-112.1680551,,,w_941079888,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445120,Maverik,,,,33.9665132,-112.7451744,,,w_942774315,"shop=convenience, brand=Maverik"
+"Wittmann, AZ",,retail,445120,ampm,"9920 West Glendale Avenue, Glendale, AZ, 85307",,,33.5378526,-112.2729829,,,w_955529866,"shop=convenience, brand=ampm"
+"Wittmann, AZ",,retail,446110,CVS Pharmacy,"10707 West Camelback Road, Phoenix, AZ, 85037",,https://www.cvs.com/store-locator/phoenix-az-pharmacies/10707-w-camelback-rd-phoenix-az-85037/storeid=7263,33.5076212,-112.2908624,,,w_955564155,"shop=chemist, brand=CVS Pharmacy"
+"Wittmann, AZ",,retail,445110,Trader Joe's,"8078 West Bell Road, Glendale, AZ, 85308",+19283979921,https://locations.traderjoes.com/az/glendale/85,33.6401772,-112.2310518,,,w_963312241,"shop=supermarket, brand=Trader Joe's"
+"Wittmann, AZ",,retail,445120,Circle K,"8720 West Bell Road, Peoria, AZ, 85382",,,33.6387742,-112.2468666,,,w_973340214,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445310,Sodalicious,"3920 North 107th Avenue, Avondale, AZ, 85392",,,33.4920295,-112.2906805,,,w_990527826,shop=beverages
+"Wittmann, AZ",,retail,445120,Circle K,"1264 North Litchfield Road, Goodyear, AZ, 85395",+6235363450,,33.460296,-112.359026,,,w_991802580,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,446110,Walgreens,"3361 North Litchfield Road, Goodyear, AZ, 85395",,https://www.walgreens.com/locator/walgreens-3361+n+litchfield+rd-goodyear-az-85395/id=3657,33.4852216,-112.3617804,,,w_991998246,"shop=chemist, brand=Walgreens"
+"Wittmann, AZ",,retail,446110,,"22280 North 67th Avenue, Glendale, AZ, 85310",,,33.6840387,-112.2037579,,,w_992068748,shop=chemist
+"Wittmann, AZ",,retail,445120,QuikTrip,"900 South Watson Road, Buckeye, AZ, 85326",,,33.4384276,-112.5572629,,,w_1003770530,"shop=convenience, brand=QuikTrip"
+"Wittmann, AZ",,retail,445120,,"13310 West Van Buren Street, Goodyear, AZ, 85338",,,33.4502443,-112.3456637,,,w_1005425438,shop=convenience
+"Wittmann, AZ",,retail,445120,,,,,33.955956,-112.7093868,,,w_1020174562,shop=convenience
+"Wittmann, AZ",,retail,445120,Fast Mart,"1115 West Wickenburg Way, Wickenburg, AZ, 85390",,,33.9646247,-112.7510221,,,w_1026270760,shop=convenience
+"Wittmann, AZ",,retail,445110,Bashas',"5115 North Dysart Road, Litchfield Park, AZ, 85340",,,33.5095507,-112.3392782,,,w_1062482110,"shop=supermarket, brand=Bashas'"
+"Wittmann, AZ",,retail,445110,Fry's Marketplace,"4106 North 195th Avenue, Buckeye, AZ, 85340",,,33.495762,-112.4816809,,,w_1063125742,"shop=supermarket, brand=Fry's Marketplace"
+"Wittmann, AZ",,retail,445120,Circle K,"15535 West McDowell Road, Goodyear, AZ, 85395",,,33.4639694,-112.3933852,,,w_1069112882,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445110,Fry's Food and Drug,"20220 North 59th Avenue, Glendale, AZ, 85308",+1 623-825-3111,https://www.frysfood.com/stores/grocery/az/glendale/59th-ave-beardsley/660/00060,33.6697037,-112.1889269,,,w_1104707339,"shop=supermarket, brand=Fry's Food and Drug"
+"Wittmann, AZ",,retail,445120,QuikTrip,"7455 North 75th Avenue, Peoria, AZ, 85345",,,33.5807905,-112.219437,,,w_1112393465,"shop=convenience, brand=QuikTrip"
+"Wittmann, AZ",,retail,445120,Cobblestone Auto Spa and Market,"13811 West Bell Road, Surprise, AZ, 85374",,https://cobblestone.com/location/surprise/,33.6377947,-112.3572166,,,w_1116232402,"shop=convenience, operator=Cobblestone"
+"Wittmann, AZ",,retail,445120,FastMarket,"6701 West Olive Avenue, Peoria, AZ, 85345",,,33.5666591,-112.2034444,,,w_1117269968,shop=convenience
+"Wittmann, AZ",,retail,445120,Circle K,"3441 West Union Hills Drive, Phoenix, AZ, 85053",,,33.6541049,-112.1339143,,,w_1117514880,"shop=convenience, brand=Circle K, operator=Circle K"
+"Wittmann, AZ",,retail,445110,Fry's Marketplace,"16400 West Pat Tillman Boulevard, Surprise, AZ, 85387",+1 480-863-5620,https://www.frysfood.com/stores/grocery/az/surprise/surprise/660/00678,33.6985151,-112.411462,,,w_1156191805,"shop=supermarket, brand=Fry's Marketplace"
+"Wittmann, AZ",,retail,445120,QuikTrip,"16821 West Bell Road, Surprise, AZ, 85374",,,33.6381533,-112.4205996,,,w_1157114101,"shop=convenience, brand=QuikTrip"
+"Wittmann, AZ",,retail,445110,Sprouts Farmers Market,"13650 North Prasada Parkway, Surprise, AZ, 85388",+1 480-864-1358,https://www.sprouts.com/store/az/surprise/n-prasada-pkwy/,33.6083848,-112.4165794,,,w_1157119051,"shop=supermarket, brand=Sprouts Farmers Market"
+"Wittmann, AZ",,retail,452210,Ross,"13600 North Prasada Parkway, Surprise, AZ, 85388",+1 623-352-7157,,33.6080025,-112.41658,,,w_1157119052,"shop=department_store, brand=Ross"
+"Wittmann, AZ",,retail,452210,Marshalls,"13530 North Prasada Parkway, Surprise, AZ, 85388",,https://www.marshalls.com/us/store/stores/Surprise-AZ-85379/1556/aboutstore,33.6072724,-112.4166854,,,w_1157119054,"shop=department_store, brand=Marshalls"
+"Wittmann, AZ",,retail,452319,Five Below,"13490 North Prasada Parkway, Surprise, AZ, 85388",+1 623-264-6776,https://locations.fivebelow.com/az/surprise/13490-n-prasada-parkway,33.6070109,-112.4166213,,,w_1157119055,"shop=variety_store, brand=Five Below"
+"Wittmann, AZ",,retail,445310,Total Wine,"13440 North Prasada Parkway, Surprise, AZ, 85388",+1 623-565-8237,https://www.totalwine.com/store-info/1013,33.6065432,-112.4167328,,,w_1157119056,"shop=alcohol, brand=Total Wine"
+"Wittmann, AZ",,retail,452210,TJ Maxx,"13380 North Prasada Parkway, Surprise, AZ, 85388",,https://tjmaxx.tjx.com/store/index.jsp,33.6058816,-112.4167417,,,w_1157119058,"shop=department_store, brand=TJ Maxx"
+"Wittmann, AZ",,retail,446120,Ulta Beauty,"13470 North Prasada Parkway, Surprise, AZ, 85388",+1 480-418-9241,https://www.ulta.com/stores/surprise-az-1591,33.6068066,-112.416599,,,w_1157188286,"shop=beauty, brand=Ulta Beauty"
+"Wittmann, AZ",,retail,445120,Chevron,"3925 North 107th Avenue, Avondale, AZ, 85392",,,33.4930377,-112.2896758,,,w_1160730595,"shop=convenience, brand=Chevron"
+"Wittmann, AZ",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/az/surprise/22512,33.5812819,-112.4629728,,,w_1168299806,"shop=variety_store, brand=Dollar General"
+"Wittmann, AZ",,retail,445120,QuikTrip,"577 North Estrella Parkway, Goodyear, AZ, 85338",,,33.4530898,-112.3915032,,,w_1183094689,"shop=convenience, brand=QuikTrip"
+"Wittmann, AZ",,retail,445110,Safeway,"17230 West Peoria Avenue, Surprise, AZ, 85388",+1-623-218-0340,https://local.safeway.com/safeway/az/surprise/17230-w-peoria.html,33.5823987,-112.4294852,,,w_1189297078,"shop=supermarket, brand=Safeway"
+"Wittmann, AZ",,retail,445310,Cooper's Hawk,"16470 West Alexandria Way, Surprise, AZ, 85388",,https://chwinery.com/locations/arizona/surprise-az,33.6067965,-112.4133718,,,w_1189453888,"shop=wine, amenity=restaurant, brand=Cooper's Hawk"
+"Wittmann, AZ",,retail,452210,Burlington,"13040 North Prasada Parkway, Surprise, AZ, 85388",,,33.6031655,-112.4146768,,,w_1189551583,"shop=department_store, brand=Burlington"
+"Wittmann, AZ",,retail,452210,Kohl's,"13320 North Prasada Parkway, Surprise, AZ, 85388",+1 623-352-4260,https://www.kohls.com/stores/az/surprise-1593.shtml,33.605334,-112.4168127,,,w_1189551589,"shop=department_store, brand=Kohl's"
+"Wittmann, AZ",,retail,445120,Circle K,,,,33.5502702,-112.2904819,,,w_1192220034,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445120,Circle K,,,,33.969333,-112.729979,,,w_1199666901,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445110,Fry's Food and Drug,"26300 North Norterra Parkway, Phoenix, AZ, 85085",,,33.7240234,-112.115978,,,w_1203925225,"shop=supermarket, brand=Fry's Food and Drug"
+"Wittmann, AZ",,retail,452210,Burlington,"7685 West Bell Road, Peoria, AZ, 85382",+1 602-805-0274,https://stores.burlington.com/az/peoria/1331,33.635625,-112.2239869,,,w_1206772259,"shop=department_store, brand=Burlington"
+"Wittmann, AZ",,retail,452210,TJ Maxx,"7655 West Bell Road, Peoria, AZ, 85382",,,33.6356472,-112.2235003,,,w_1206772260,"shop=department_store, brand=TJ Maxx"
+"Wittmann, AZ",,retail,446120,Bath & Body Works,"7575 West Bell Road, Peoria, AZ, 85382",,,33.6356092,-112.222493,,,w_1206772263,"shop=cosmetics, brand=Bath & Body Works"
+"Wittmann, AZ",,retail,452319,Five Below,"7739 West Bell Road, Peoria, AZ, 85382",+1 602-878-0727,https://locations.fivebelow.com/az/peoria/7739-w-bell-rd,33.6370548,-112.2253182,,,w_1206772725,"shop=variety_store, brand=Five Below"
+"Wittmann, AZ",,retail,445110,Blue Sky Organic Farm Store,"4762 N 189th Dr, Litchfield Park, AZ, 85340",+16232664031,https://blueskyorganicfarms.com/,33.5039032,-112.4662647,,,w_1208663558,"shop=supermarket, operator=Blue Sky Organic Farm"
+"Wittmann, AZ",,retail,452210,Ross,"8115 West Bell Road, Peoria, AZ, 85382",+1 623-486-9311,,33.6359329,-112.2297619,,,w_1210471147,"shop=department_store, brand=Ross"
+"Wittmann, AZ",,retail,445110,Fry's Food and Drug,"1575 North Dysart Road, Avondale, AZ, 85392",+1 623-687-9883,https://www.frysfood.com/stores/grocery/az/avondale/dysart-mcdowell/660/00112;https://www.frysfood.com/health-services/clinic/details/851/00104,33.463064,-112.338936,,,w_1212815439,"shop=supermarket, brand=Fry's Food and Drug"
+"Wittmann, AZ",,retail,452319,Family Dollar,"9796 West Peoria Avenue, Peoria, AZ, 85345",,,33.5813207,-112.2709519,,,w_1217658892,"shop=variety_store, brand=Family Dollar"
+"Wittmann, AZ",,retail,452319,Dollar Tree,"9966 North 91st Avenue, Peoria, AZ, 85345",,https://www.dollartree.com/locations/az/peoria/2655/,33.5749584,-112.2564074,,,w_1217660558,"shop=variety_store, brand=Dollar Tree"
+"Wittmann, AZ",,retail,445110,Aldi,"1361 South Watson Road, Buckeye, AZ, 85326",+1 877-479-1152,https://stores.aldi.us/az/buckeye/1361-s-watson-rd,33.4337565,-112.5549468,,,w_1219831306,"shop=supermarket, brand=Aldi"
+"Wittmann, AZ",,retail,445310,Watermill Express,"10716 West Indian School Road, Avondale, AZ, 85037",,,33.4939886,-112.291128,,,w_1221449412,shop=beverages
+"Wittmann, AZ",,retail,452319,Dollar General,"10720 West Indian School Road, Avondale, AZ, 85037",,,33.4949366,-112.2918494,,,w_1221449415,"shop=variety_store, brand=Dollar General"
+"Wittmann, AZ",,retail,452210,Kohl's,"1611 North Dysart Road, Avondale, AZ, 85392",+1 623-536-2700,https://www.kohls.com/stores/az/avondale-660.shtml,33.4652102,-112.337403,,,w_1221808651,"shop=department_store, brand=Kohl's"
+"Wittmann, AZ",,retail,445110,Safeway,"14175 West Indian School Road, Goodyear, AZ, 85395",+1 623-935-3228,https://local.safeway.com/safeway/az/goodyear/14175-w-indian-school-rd.html,33.4838823,-112.3640717,,,w_1226620616,"shop=supermarket, brand=Safeway"
+"Wittmann, AZ",,retail,445110,Safeway,"13503 West Camino Del Sol, Sun City West, AZ, 85375",+1 623-975-2304,https://local.safeway.com/safeway/az/sun-city-west/13503-camino-del-sol.html,33.6549917,-112.3499152,,,w_1226750771,"shop=supermarket, brand=Safeway"
+"Wittmann, AZ",,retail,452319,Out West General Store,"Waddell, AZ, 85355",,https://www.outwestgeneralstore.com/,33.5368469,-112.4278061,,,w_1237093522,shop=general
+"Wittmann, AZ",,retail,445120,Circle K,,+1- 623-444-5708,"https://www.circlek.com/store-locator/US/surprise/16934-w-waddell-rd/2709576?address=Surprise,%20Arizona,%20United%20States&lat=33.62941&lng=-112.36719&lang=en",33.6105427,-112.423266,,,w_1250912340,"shop=convenience, brand=Circle K"
+"Wittmann, AZ",,retail,445120,QuikTrip,"1540 North Bullard Avenue, Goodyear, AZ, 85395",+14803837992,,33.4637527,-112.3762404,,,w_1262345117,"shop=convenience, brand=QuikTrip"
+"Wittmann, AZ",,retail,445120,,,,,33.9809644,-112.7376221,,,w_1265987606,shop=convenience
+"Wittmann, AZ",,retail,446120,,,,,33.9648833,-112.7497855,,,w_1267831699,shop=beauty
+"Wittmann, AZ",,retail,445120,QuikTrip,"25215 North 115th Avenue, Sun City, AZ, 85373",+16026433006,https://www.quiktrip.com,33.7126292,-112.3057453,,,w_1277922085,"shop=convenience, brand=QuikTrip"
+"Wittmann, AZ",,retail,446120,Ulta Beauty,"755 South Cotton Lane, Goodyear, AZ, 85338",,,33.4398824,-112.421875,,,w_1281821421,"shop=cosmetics, brand=Ulta Beauty"
+"Wittmann, AZ",,retail,445120,QuikTrip,"9755 West Northern Avenue, Peoria, AZ, 85345",,,33.5505462,-112.2697031,,,w_1281979991,"shop=convenience, brand=QuikTrip"
+"Wittmann, AZ",,retail,445120,,"4120 North 103rd Avenue, Phoenix, AZ, 85037",,,33.4941305,-112.2814982,,,w_1284471781,shop=convenience
+"Wittmann, AZ",,retail,445120,Fry's Fuel,"2915 North Dysart Road, Avondale, AZ, 85392",,,33.4793579,-112.3403463,,,w_1288133269,shop=convenience
+"Wittmann, AZ",,retail,445120,Fry’s Fuel Center,2800 West Dove Valley Road,6028319052,,33.7842744,-112.1189624,,,w_1288142854,shop=convenience
+"Wittmann, AZ",,retail,445120,Fry's Fuel Center,"26300 North Norterra Parkway, Phoenix, AZ, 85085",,,33.7244823,-112.1141818,,,w_1288144300,shop=convenience
+"Wittmann, AZ",,retail,445120,QuikTrip,"5850 West Greenway Road, Glendale, AZ, 85306",,,33.6257753,-112.1850534,,,w_1289745645,"shop=convenience, brand=QuikTrip"
+"Wittmann, AZ",,retail,445110,Safeway,"10926 West Bell Road, Sun City, AZ, 85351",+1 623-972-1350,https://local.safeway.com/safeway/az/sun-city/10926-w-bell-rd.html,33.6386573,-112.2922756,,,w_1300627745,"shop=supermarket, brand=Safeway"
+"Wittmann, AZ",,retail,446120,KC's Home Fragrances,"3120 W Carefree HWY, Phoenix, AZ, 85086",480 318 1025,https://kcshomefragrances.com/,33.7997921,-112.1262037,,,w_1303832878,shop=perfumery
+"Wittmann, AZ",,retail,446120,Select Nails & Spa,"3134 W Carefree Hwy, Phoenix, AZ, 85086",623 587 8889,https://selectnailsspa.com/,33.7998752,-112.127499,,,w_1303835595,shop=beauty
+"Wittmann, AZ",,retail,452210,Kohl's,"34830 N North Valley Parkway, Phoenix, AZ, 85086",+16237807600,https://www.kohls.com/,33.7999528,-112.1321736,,,w_1303963262,"shop=department_store, brand=Kohl's"
+"Wittmann, AZ",,retail,446120,Prestige Nails And Lash By Vicky,"34640 N. Valley Parkway, Phoenix, AZ, 85086",623 582 2056,https://prestigenailsandlashbyvickyphoenix.com/,33.7993855,-112.1310077,,,w_1303970517,shop=beauty
+"Wittmann, AZ",,retail,445310,Total Wine,"1416 North Litchfield Road, Goodyear, AZ, 85395",+1 623-547-2109,https://www.totalwine.com/store-info/1008,33.4618834,-112.3613677,,,w_1311588383,"shop=alcohol, brand=Total Wine"
+"Wittmann, AZ",,retail,452210,Ross,"1434 North Litchfield Road, Goodyear, AZ, 85395",+16235357242,,33.4628219,-112.3613223,,,w_1311588386,"shop=department_store, brand=Ross"
+"Wittmann, AZ",,retail,452319,Five Below,"1442 North Litchfield Road, Goodyear, AZ, 85395",,,33.4631503,-112.3611963,,,w_1311588387,"shop=variety_store, brand=Five Below"
+"Wittmann, AZ",,retail,446120,Ulta Beauty,"1450 North Litchfield Road, Goodyear, AZ, 85395",+16239354186,,33.4637752,-112.3612064,,,w_1311588389,"shop=cosmetics, brand=Ulta Beauty"
+"Wittmann, AZ",,retail,452319,Dollar Tree,"19385 West Indian School Road, Buckeye, AZ, 85340",,,33.4922527,-112.4767989,,,w_1356172496,"shop=variety_store, brand=Dollar Tree"
+"Wittmann, AZ",,retail,445110,Fry's Food and Drug,"6625 West Happy Valley Road, Glendale, AZ, 85310",+1 623-561-5092,https://www.frysfood.com/stores/grocery/az/glendale/67th-ave-happy-valley-rd/660/00073,33.7105788,-112.2014985,,,w_1356796072,"shop=supermarket, brand=Fry's Food and Drug"
+"Wittmann, AZ",,retail,445120,Fry's Fuel,"1064 South Sarival Avenue, Goodyear, AZ, 85338",,,33.4368354,-112.4100527,,,w_1367427877,shop=convenience
+"Wittmann, AZ",,retail,445120,Safeway Fuel Station,"480 North Estrella Parkway, Goodyear, AZ, 85338",,,33.4521435,-112.3932843,,,w_1367434212,shop=convenience
+"Wittmann, AZ",,retail,452319,Family Dollar,"1325 West Wickenburg Way, Wickenburg, AZ, 85390",+1-928-588-9302,https://locations.familydollar.com/az/wickenburg/1325-wickenburg-way,33.96265,-112.7570569,,,w_1388861177,"shop=variety_store, brand=Family Dollar"
+"Wittmann, AZ",,retail,452210,Burlington,"595 South Cotton Lane, Goodyear, AZ, 85338",,,33.4413934,-112.4226891,,,w_1420458169,"shop=department_store, brand=Burlington"

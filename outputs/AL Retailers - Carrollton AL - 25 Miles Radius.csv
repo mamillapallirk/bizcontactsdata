@@ -1,0 +1,20 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Carrollton, AL",,retail,445110,Piggly Wiggly,"12205 Highway 96, Millport, AL, 35575",+1 205-662-4920,,33.5609218,-88.073344,,,n_4879633374,"shop=supermarket, brand=Piggly Wiggly"
+"Carrollton, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/millport/7484,33.560913,-88.0727035,,,n_4879633375,"shop=variety_store, brand=Dollar General"
+"Carrollton, AL",,retail,446120,Hair Do's,,,,33.496588,-88.4190044,,,n_5726321134,shop=beauty
+"Carrollton, AL",,retail,446120,,,,,33.4959035,-88.4181488,,,n_5726321135,shop=beauty
+"Carrollton, AL",,retail,446120,Scissors,,,,33.5011564,-88.3893311,,,n_5726321136,shop=beauty
+"Carrollton, AL",,retail,446120,Christina's,,,,33.5117473,-88.3894545,,,n_5726321137,shop=beauty
+"Carrollton, AL",,retail,446120,Nu Look,,,,33.4941342,-88.3781624,,,n_5726321138,shop=beauty
+"Carrollton, AL",,retail,446120,Wild Rose,,,,33.4923269,-88.3294159,,,n_5726321139,shop=beauty
+"Carrollton, AL",,retail,446120,Styles by Steve,,,,33.5002137,-88.3345416,,,n_5726321140,shop=beauty
+"Carrollton, AL",,retail,446120,Studio La Rue,,,,33.5111211,-88.3630267,,,n_5726321141,shop=beauty
+"Carrollton, AL",,retail,446120,A Cut Above,,,,33.5190822,-88.3710331,,,n_5726321142,shop=beauty
+"Carrollton, AL",,retail,453110,Restoration & Co.,"477 Columbus Street, Millport, AL",,,33.5636076,-88.0821258,,,n_12926548570,shop=florist
+"Carrollton, AL",,retail,445120,TJ & J Grocery And Deli,,,,32.9147061,-87.9928945,,,n_13034187121,shop=convenience
+"Carrollton, AL",,retail,452319,The Country Store,,,,32.9875924,-87.9133766,,,n_13052671586,shop=general
+"Carrollton, AL",,retail,452319,Dollar General,,,,33.3842185,-88.0257215,,,w_762393112,"shop=variety_store, brand=Dollar General"
+"Carrollton, AL",,retail,445110,Piggly Wiggly,"841 Industrial Park Boulevard, Gordo, AL, 35466",+1 205-364-7800,,33.3214225,-87.910439,,,w_764329413,"shop=supermarket, brand=Piggly Wiggly"
+"Carrollton, AL",,retail,446110,CVS Pharmacy,"Gordo, AL",,https://www.cvs.com/store-locator/gordo-al-pharmacies/536-hudson-dr-po-box-653-gordo-al-35466/storeid=4969,33.3160815,-87.9003915,,,w_764334068,"shop=chemist, brand=CVS Pharmacy"
+"Carrollton, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ms/columbus/17420,33.4446465,-88.3650434,,,w_1169538783,"shop=variety_store, brand=Dollar General"
+"Carrollton, AL",,retail,445120,Robertson BBQ & Country Store,,,,33.0435767,-87.7661781,,,w_1388333795,shop=convenience

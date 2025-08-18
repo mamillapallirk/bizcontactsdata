@@ -1,0 +1,9 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"McMullen, AL",,retail,445120,TJ & J Grocery And Deli,,,,32.9147061,-87.9928945,,,n_13034187121,shop=convenience
+"McMullen, AL",,retail,452319,The Country Store,,,,32.9875924,-87.9133766,,,n_13052671586,shop=general
+"McMullen, AL",,retail,452319,Dollar General,,,,33.3842185,-88.0257215,,,w_762393112,"shop=variety_store, brand=Dollar General"
+"McMullen, AL",,retail,445110,Piggly Wiggly,"841 Industrial Park Boulevard, Gordo, AL, 35466",+1 205-364-7800,,33.3214225,-87.910439,,,w_764329413,"shop=supermarket, brand=Piggly Wiggly"
+"McMullen, AL",,retail,446110,CVS Pharmacy,"Gordo, AL",,https://www.cvs.com/store-locator/gordo-al-pharmacies/536-hudson-dr-po-box-653-gordo-al-35466/storeid=4969,33.3160815,-87.9003915,,,w_764334068,"shop=chemist, brand=CVS Pharmacy"
+"McMullen, AL",,retail,445120,Love's,,,,32.8664304,-87.9225424,,,w_838828844,"shop=convenience, brand=Love's"
+"McMullen, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ms/columbus/17420,33.4446465,-88.3650434,,,w_1169538783,"shop=variety_store, brand=Dollar General"
+"McMullen, AL",,retail,445120,Robertson BBQ & Country Store,,,,33.0435767,-87.7661781,,,w_1388333795,shop=convenience

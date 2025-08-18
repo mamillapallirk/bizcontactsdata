@@ -1,0 +1,27 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Opp, AL",,retail,445110,Piggly Wiggly,"1130 Martin Luther King Junior Expressway, Andalusia, AL, 35420",+1 334-222-9121,https://pigglywigglyofandalusia.com/,31.3175749,-86.4629008,,,n_8729085715,"shop=supermarket, brand=Piggly Wiggly"
+"Opp, AL",,retail,452319,Dollar Tree,"1138 Martin Luther King Junior Expressway, Andalusia, AL, 36420",+1-334-658-6107,https://www.dollartree.com/locations/al/andalusia/4637/,31.3174122,-86.462469,,,n_8729095560,"shop=variety_store, brand=Dollar Tree"
+"Opp, AL",,retail,445120,Pic-N-Sav,"550 West Bypass, Andalusia, AL, 36420",+1 334 222 1804,https://www.picnsav.com/stores/pic-n-sav-andalusia,31.3043066,-86.5008304,,,n_9385768602,shop=convenience
+"Opp, AL",,retail,445110,Publix,"847 Boll Weevil Circle, Enterprise, AL, 36330-2476",+1 334-348-1489,https://www.publix.com/locations/1402,31.3260852,-85.8380514,,,n_11618396432,"shop=supermarket, brand=Publix"
+"Opp, AL",,retail,445110,Piggly Wiggly,"1020 Geneva Highway, Enterprise, AL, 36330",+1 334-347-9254,http://www.pigglywigglyenterprise.com,31.3009432,-85.8574601,,,n_11618396435,"shop=supermarket, brand=Piggly Wiggly"
+"Opp, AL",,retail,445120,,,,,31.004669,-86.3273474,,,n_11975326156,shop=convenience
+"Opp, AL",,retail,445120,,,,,31.0043561,-86.3273612,,,n_11975326157,shop=convenience
+"Opp, AL",,retail,445110,Grocery Outlet,"505 North Main Street, Enterprise, AL, 36330",,,31.318357,-85.8578046,,,w_785499881,"shop=supermarket, brand=Grocery Outlet"
+"Opp, AL",,retail,445110,Walmart Supercenter,"1991 M.L.K. Jr Expressway, Andalusia, AL, 36420",+1 334-222-6561,https://www.walmart.com/store/1091-andalusia-al,31.3216695,-86.4450417,,,w_1017626922,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Opp, AL",,retail,445120,,,,,31.4954885,-86.3686866,,,w_1035475136,shop=convenience
+"Opp, AL",,retail,452319,Dollar General,,,,31.3075817,-86.4862633,,,w_1193186266,"shop=variety_store, brand=Dollar General"
+"Opp, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/andalusia-al-pharmacies/1204-dr-m-l-k-jr-expy-andalusia-al-36420/storeid=7077,31.3180757,-86.4607448,,,w_1193186276,"shop=chemist, brand=CVS Pharmacy"
+"Opp, AL",,retail,452319,Dollar General,"118 Shelby Street, Andalusia, AL, 36421",,https://www.dollargeneral.com/store-directory/al/andalusia/4027,31.3200407,-86.4622369,,,w_1193186285,"shop=variety_store, brand=Dollar General"
+"Opp, AL",,retail,452319,Dirt Cheap,,,,31.3203283,-86.4575521,,,w_1193186294,shop=variety_store
+"Opp, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/florala/5722,31.0026712,-86.3248027,,,w_1193192880,"shop=variety_store, brand=Dollar General"
+"Opp, AL",,retail,445110,Piggly Wiggly,"981 Second Street, Florala, AL, 36442",+1 334-858-3444,,31.0029934,-86.324574,,,w_1193192881,"shop=supermarket, brand=Piggly Wiggly"
+"Opp, AL",,retail,445120,Gitty Up-N-Go,,,,31.0034031,-86.3267109,,,w_1193237797,shop=convenience
+"Opp, AL",,retail,445110,Hari Grocery,,,,31.0081308,-86.3293599,,,w_1193278595,shop=supermarket
+"Opp, AL",,retail,445110,Dollar General Market,"605 East Main Street, Samson, AL, 36477",,https://www.dollargeneral.com/store-directory/al/samson/4358,31.113552,-86.0401276,,,w_1234948790,"shop=supermarket, brand=Dollar General Market"
+"Opp, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/opp/3297,31.2718786,-86.247215,,,w_1234950178,"shop=variety_store, brand=Dollar General"
+"Opp, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/brantley/11251,31.5789786,-86.2569081,,,w_1235075311,"shop=variety_store, brand=Dollar General"
+"Opp, AL",,retail,445120,Old Gin Creek,"9627 South Main Street, Brantley, AL, 36009",,,31.5796854,-86.2559942,,,w_1316744411,"shop=convenience, amenity=fuel"
+"Opp, AL",,retail,446191,331 Nutrition,,,,31.5815676,-86.257249,,,w_1316744462,shop=health_food
+"Opp, AL",,retail,445110,Dixieland,"17 Monroe Street, Brantley, AL, 36009",,,31.5819415,-86.2561922,,,w_1316744511,shop=supermarket
+"Opp, AL",,retail,445120,Sun Stop,"9415 North Main Street, Brantley, AL, 36009",,,31.5827854,-86.2568204,,,w_1316744535,"shop=convenience, amenity=fuel, brand=Inland"
+"Opp, AL",,retail,445120,Eagle Express,,,,31.581777,-86.2583299,,,w_1316748056,"shop=convenience, amenity=fuel"

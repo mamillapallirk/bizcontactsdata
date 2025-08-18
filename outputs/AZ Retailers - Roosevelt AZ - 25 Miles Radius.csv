@@ -1,0 +1,7 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Roosevelt, AZ",,retail,445120,Spring Creek Store,,,,33.6024074,-111.0063611,,,n_7555729561,shop=convenience
+"Roosevelt, AZ",,retail,445120,Marina Convenience Store,,,,33.6679698,-111.1352572,,,n_9625416617,shop=convenience
+"Roosevelt, AZ",,retail,445110,Walmart Supercenter,"100 South Ragus Road, Claypool, AZ, 85532",+1 928-425-7171,https://www.walmart.com/store/1334-claypool-az,33.4126738,-110.8357487,,,w_365024823,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Roosevelt, AZ",,retail,445110,Fry's Food and Drug,"2115 East Highway 60, Miami, AZ, 85539",+1 928-425-3276,https://www.frysfood.com/stores/grocery/az/miami/hwy-60-hwy-70/660/00109,33.4203812,-110.8167511,,,w_540889290,"shop=supermarket, brand=Fry's Food and Drug"
+"Roosevelt, AZ",,retail,445110,IGA,,,,33.8559203,-111.3114145,,,w_647535680,shop=supermarket
+"Roosevelt, AZ",,retail,445120,,,,,33.3967708,-110.8729224,,,w_1334637480,shop=convenience

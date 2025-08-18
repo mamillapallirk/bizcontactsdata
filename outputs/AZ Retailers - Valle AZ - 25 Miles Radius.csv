@@ -1,0 +1,5 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Valle, AZ",,retail,445292,Grand Canyon Chocolate Factory,"469 State Route 64, Grand Canyon Village, AZ, 86023",+1 928-853-9753,,35.9743521,-112.1253362,,,n_11949134619,shop=chocolate
+"Valle, AZ",,retail,445120,Food Mart,"439 Highway 64, AZ",,,35.9736976,-112.12549,,,w_130078684,shop=convenience
+"Valle, AZ",,retail,452319,,,,,35.9756006,-112.1246546,,,w_130078687,shop=general
+"Valle, AZ",,retail,445120,Chevron,,,,35.6525424,-112.1387881,,,w_323191155,"shop=convenience, amenity=fuel, brand=Chevron"

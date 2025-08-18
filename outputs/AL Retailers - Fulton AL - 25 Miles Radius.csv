@@ -1,0 +1,12 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Fulton, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/leroy/13986,31.5099945,-87.9542172,,,n_2443435609,"shop=variety_store, brand=Dollar General"
+"Fulton, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/jackson/4672/,31.5355313,-87.8899273,,,n_2443447715,"shop=variety_store, brand=Dollar Tree"
+"Fulton, AL",,retail,445110,Ramey's Pic N Sav,,,,31.5361714,-87.8894552,,,n_2443447721,shop=supermarket
+"Fulton, AL",,retail,452319,Dollar General,"4107 North College Avenue, Jackson, AL, 36545",,https://www.dollargeneral.com/store-directory/al/jackson/7714,31.5555073,-87.8775489,,,n_2443519642,"shop=variety_store, brand=Dollar General"
+"Fulton, AL",,retail,445110,Walmart Supercenter,"34301 Highway 43, Thomasville, AL, 36784",+1 334-636-0219,https://www.walmart.com/store/1174-thomasville-al,31.9396079,-87.7389141,,,n_4234468821,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Fulton, AL",,retail,445110,Walmart Supercenter,"4206 North College Avenue, Jackson, AL, 36545",+1 251-247-7101,https://www.walmart.com/store/2760-jackson-al,31.559638,-87.875509,,,n_5315599429,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Fulton, AL",,retail,445120,,,,,31.5495333,-87.879744,,,n_12361248097,shop=convenience
+"Fulton, AL",,retail,445120,,,,,31.6876014,-87.7800067,,,n_12846624496,shop=convenience
+"Fulton, AL",,retail,445120,Saint Stephens Park General Store,,,,31.5594242,-88.0347472,,,w_923006250,shop=convenience
+"Fulton, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/grove-hill/717,31.697696,-87.777366,,,w_1150713821,"shop=variety_store, brand=Dollar General"
+"Fulton, AL",,retail,452319,Family Dollar,"184 North Jackson Street, Grove Hill, AL, 36451",,,31.7031669,-87.776832,,,w_1235143421,"shop=variety_store, brand=Family Dollar"

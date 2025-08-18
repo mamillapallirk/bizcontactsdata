@@ -1,0 +1,33 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Eldridge, AL",,retail,445120,Glen Allen Grocery,,,,33.9114919,-87.7402971,,,n_457277479,shop=convenience
+"Eldridge, AL",,retail,445120,Hubbert's,,,,33.8279541,-87.7396533,,,n_457278644,shop=convenience
+"Eldridge, AL",,retail,445120,B&M Grocery,,,,33.8499883,-87.7336564,,,n_457304243,shop=convenience
+"Eldridge, AL",,retail,445110,Piggly Wiggly,"17884 Highway 18 East, Berry, AL, 35546",+1 205-689-4566,,33.6591541,-87.601334,,,n_3111707533,"shop=supermarket, brand=Piggly Wiggly"
+"Eldridge, AL",,retail,445120,F & G Quick Stop,,,,33.6590668,-87.6026138,,,n_3111712884,shop=convenience
+"Eldridge, AL",,retail,445230,Sandlin Produce,"3403 Airport Road, Jasper, 35504",(205) 387-0320,,33.89635,-87.2694168,,,n_9517526017,shop=greengrocer
+"Eldridge, AL",,retail,453991,Jasper smoke & vape,"151 Highway 78, Jasper, AL",+1 205-512-1077,,33.8490393,-87.275232,,,n_11751898969,shop=tobacco
+"Eldridge, AL",,retail,445210,Sipsey Deer Processing,"3345 County Road 35, Fayette, AL, 35555",+1 205-932-5179,,33.6482599,-87.811858,,,n_11762865708,shop=butcher
+"Eldridge, AL",,retail,445120,,,,,33.8436084,-87.2515669,,,n_12696654479,shop=convenience
+"Eldridge, AL",,retail,445120,Lakeshore Quick Stop,21320 Highway 278,,,34.1447374,-87.3128788,,,w_289937165,shop=convenience
+"Eldridge, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/double-springs/4506,34.1587667,-87.4129029,,,w_289941727,"shop=variety_store, brand=Dollar General"
+"Eldridge, AL",,retail,445110,FoodLand,,,,34.1591978,-87.4156469,,,w_289941729,"shop=supermarket, brand=FoodLand"
+"Eldridge, AL",,retail,445110,Piggly Wiggly,"1009 19th Street, Haleyville, AL, 35565",+1 205-486-3233,,34.2249622,-87.6219004,,,w_468884571,"shop=supermarket, brand=Piggly Wiggly"
+"Eldridge, AL",,retail,445110,Walmart Supercenter,"1801 Highway 78 East, Jasper, AL, 35501",+1 205-384-1100,https://www.walmart.com/store/287-jasper-al,33.8429408,-87.254475,,,w_498085819,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Eldridge, AL",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-100+n+airport+rd-jasper-al-35504/id=9683,33.8491455,-87.267882,,,w_498327530,"shop=chemist, brand=Walgreens"
+"Eldridge, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/jasper-al-pharmacies/101-n-airport-rd-jasper-al-35504/storeid=4834,33.8488835,-87.2669985,,,w_498331667,"shop=chemist, brand=CVS Pharmacy"
+"Eldridge, AL",,retail,452319,Dollar General,"10066 AL 129, Brilliant, AL, 35548",+1-205-465-2587,https://www.dollargeneral.com/store-directory/al/brilliant/8999,34.0275995,-87.7651347,,,w_682821582,"shop=variety_store, brand=Dollar General, operator=Dollar General Corp."
+"Eldridge, AL",,retail,445120,Shell,"7015 SR 129, Winfield, AL, 35594",,,33.9880918,-87.7773746,,,w_682845462,"shop=convenience, brand=Shell, operator=Moore Petroleum"
+"Eldridge, AL",,retail,445120,Chevron,"7016 SR 129, Winfield, AL, 35594",+1-205-487-0113,,33.987572,-87.7756199,,,w_682845464,"shop=convenience, brand=Chevron, operator=Sarafina Network LLC."
+"Eldridge, AL",,retail,445110,Walmart Supercenter,"205 House-Carlson Drive, Batesville, MS, 38606",+1 205-932-5277,https://www.walmart.com/store/1052-fayette-al,33.7316881,-87.8086996,,,w_697187646,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Eldridge, AL",,retail,445110,ALDI,"40 North Walston Bridge Road, Jasper, AL, 35504",+1 833-470-7078,https://stores.aldi.us/al/jasper/40-north-walston-bridge-rd,33.8468258,-87.2578905,,,w_940777296,"shop=supermarket, brand=ALDI"
+"Eldridge, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/lynn/18541,34.0873078,-87.5940489,,,w_1025532487,"shop=variety_store, brand=Dollar General"
+"Eldridge, AL",,retail,445120,Chevron,"5646 State Highway 44, Guin, AL, 35563",+1 205-430-2898,https://www.chevronwithtechron.com/en_us/home/gas-station-near-me.html?/station/5646-AL-HWY-44-GUIN-AL-35563-id381887,34.0105144,-87.8397753,,,w_1113776214,"shop=convenience, brand=Chevron"
+"Eldridge, AL",,retail,445110,Walmart Supercenter,"2575 US Highway 43, Winfield, AL, 35594",+1 205-487-4359,https://www.walmart.com/store/362-winfield-al,33.9352165,-87.8404602,,,w_1116689062,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Eldridge, AL",,retail,445110,FoodLand,"2210 US Hwy 43, Winfield, AL, 35594",+1-205-487-5448,https://gatewayfoodland.com/find-your-store/,33.9388494,-87.8354022,,,w_1184780598,"shop=supermarket, brand=FoodLand"
+"Eldridge, AL",,retail,452319,Dollar General,"2610 US Hwy 43, Winfield, AL, 35594",+1-205-549-0493,https://www.dollargeneral.com/store-directory/al/winfield/3646,33.9386486,-87.8404451,,,w_1184780603,"shop=variety_store, brand=Dollar General"
+"Eldridge, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/jasper/6397,33.8320636,-87.2825996,,,w_1234954486,"shop=variety_store, brand=Dollar General"
+"Eldridge, AL",,retail,445120,Love's,"Jasper, AL",,,33.791036,-87.2424705,,,w_1258811612,"shop=convenience, brand=Love's"
+"Eldridge, AL",,retail,445120,Mobil Mart,,,,33.8477793,-87.2888322,,,w_1304811879,"shop=convenience, brand=Mobil Mart"
+"Eldridge, AL",,retail,445110,Walmart Supercenter,"42466 Highway 195, Haleyville, AL, 35565",+1 205-486-9498,https://www.walmart.com/store/409-haleyville-al,34.240542,-87.5987186,,,w_1311905590,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Eldridge, AL",,retail,445110,Piggly Wiggly,"7270 US Highway 43, Guin, AL, 35563",+1 205-468-3374,,33.9667231,-87.9102879,,,w_1318940203,"shop=supermarket, brand=Piggly Wiggly"
+"Eldridge, AL",,retail,445120,Twin Stop and Go,"6085 State Highway 253, Guin, AL, 35563",,,34.0028026,-87.8578893,,,w_1390881588,"shop=convenience, amenity=fuel"

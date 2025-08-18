@@ -1,0 +1,24 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Avenal, CA",,retail,445120,Chevron FoodMart,27513 Ward Avenue,,,35.9868191,-119.9589376,,,n_2532910831,"shop=convenience, brand=Chevron"
+"Avenal, CA",,retail,445120,Food Mart,,,,35.987518,-119.9588842,,,n_2532910838,"shop=convenience, brand=Shell"
+"Avenal, CA",,retail,445120,FoodMart,,,,35.9886463,-119.960278,,,n_2532910839,shop=convenience
+"Avenal, CA",,retail,445120,Mobil Mart,,,,35.9877196,-119.9592469,,,n_2532910849,"shop=convenience, brand=Mobil Mart"
+"Avenal, CA",,retail,445120,Valero,,,,35.9902434,-119.96028,,,n_2555822674,"shop=convenience, brand=Valero"
+"Avenal, CA",,retail,445110,Save Mart,275 Forest Street,,,36.1351305,-120.360718,,,n_2651172761,"shop=supermarket, brand=Save Mart"
+"Avenal, CA",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ca/coalinga/13673,36.1444654,-120.3554547,,,n_2651173660,"shop=variety_store, brand=Dollar General"
+"Avenal, CA",,retail,445120,E-Z Trip,,,,36.0749865,-120.1031626,,,n_3211646361,shop=convenience
+"Avenal, CA",,retail,445310,Hearst Winery,,,,35.7234486,-120.2970747,,,n_3874088184,shop=wine
+"Avenal, CA",,retail,445120,Chase,,,,36.2548007,-120.2507083,,,n_4345138990,shop=convenience
+"Avenal, CA",,retail,445120,Food Mart,,,,36.1372652,-120.362286,,,n_6363929669,shop=convenience
+"Avenal, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/coalinga/4395/,36.1357737,-120.3660574,,,n_6363929671,"shop=variety_store, brand=Dollar Tree"
+"Avenal, CA",,retail,445120,C,"504 East Polk Street, 93210",5598211488,,36.1362372,-120.3571872,,,n_9643875317,shop=convenience
+"Avenal, CA",,retail,445120,ampm,,,,36.2546362,-120.253168,,,n_10261274327,"shop=convenience, brand=ampm"
+"Avenal, CA",,retail,445120,Stratford Marketplace,"20693 Laurel Avenue, Stratford, CA, 93266",,,36.1891898,-119.8285934,,,n_12610065268,shop=convenience
+"Avenal, CA",,retail,445120,Shell,,,,36.2531218,-120.2389334,,,n_12691775968,shop=convenience
+"Avenal, CA",,retail,445110,,,,,36.1361957,-120.366159,,,w_61201387,shop=supermarket
+"Avenal, CA",,retail,445110,,,,,36.144756,-120.3561225,,,w_195058748,shop=supermarket
+"Avenal, CA",,retail,445120,AMPM,"20033 Sommerville Lane, Coalinga, CA, 93210",,,36.136233,-120.164961,,,w_233272235,"shop=convenience, brand=Arco"
+"Avenal, CA",,retail,445120,Shell,,,,36.1372122,-120.1653488,,,w_1116923470,"shop=convenience, brand=Shell"
+"Avenal, CA",,retail,445110,Hla Hla,"383 Brown Street, Kettleman City, CA, 93239",,,36.0099254,-119.9595725,,,w_1135662165,shop=supermarket
+"Avenal, CA",,retail,445110,Stratford Market,"20374 Main Street, Stratford, CA, 93266",+1 (559) 947-3121,,36.1897926,-119.8236352,,,w_1356160586,shop=supermarket
+"Avenal, CA",,retail,445110,A & M Market,"20510 Main Street, Stratford, CA, 93266",,,36.1896264,-119.8257156,,,w_1361402828,shop=supermarket

@@ -1,0 +1,10 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Mount Ida, AR",,retail,445110,Bob's Food City,"742 Highway 270 East, Mount Ida, AR",,,34.5499204,-93.6238951,,,n_1116320039,shop=supermarket
+"Mount Ida, AR",,retail,445120,Quick Sak,,,,34.5535787,-93.630021,,,n_1116320069,shop=convenience
+"Mount Ida, AR",,retail,445120,Tiger Mart,,,,34.5526835,-93.6294015,,,n_1439902072,"shop=convenience, brand=Tiger Mart"
+"Mount Ida, AR",,retail,452319,Dollar General,"741 Highway 270 East, Mount Ida, AR, 71957-8003",+1 501-781-2612,https://www.dollargeneral.com/store-directory/ar/mount-ida/6843,34.5493546,-93.6248122,,,n_1441563888,"shop=variety_store, brand=Dollar General"
+"Mount Ida, AR",,retail,445120,Big T's General Store,,,,34.619268,-93.7769963,,,n_8729448983,shop=convenience
+"Mount Ida, AR",,retail,452319,Dollar General,"106 East Main Street, Norman, AR, 71960",+1 479-777-5010,https://www.dollargeneral.com/store-directory/ar/norman/18493,34.4580705,-93.6816594,,,w_1201919759,"shop=variety_store, brand=Dollar General"
+"Mount Ida, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/glenwood/2865,34.3236369,-93.5408092,,,w_1201919763,"shop=variety_store, brand=Dollar General"
+"Mount Ida, AR",,retail,452319,Dollar General,"529 West Thompson Street, Amity, AR, 71921",,https://www.dollargeneral.com/store-directory/ar/amity/17326,34.2644292,-93.470179,,,w_1201919766,"shop=variety_store, brand=Dollar General"
+"Mount Ida, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/amity/20077,34.2519326,-93.6411929,,,w_1202054664,"shop=variety_store, brand=Dollar General"

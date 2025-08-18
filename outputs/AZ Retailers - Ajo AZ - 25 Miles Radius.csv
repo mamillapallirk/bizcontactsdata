@@ -1,0 +1,7 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Ajo, AZ",,retail,445110,Olsens Marketplace,"1961 Ajo-Gila Bend Hwy, Ajo, AZ",5203874540,,32.3922553,-112.8728868,,,n_4291786839,shop=supermarket
+"Ajo, AZ",,retail,452319,Dollar Tree,,,,32.3766396,-112.873404,,,n_10722427806,"shop=variety_store, brand=Dollar Tree"
+"Ajo, AZ",,retail,452319,Family Dollar,,,,32.3764538,-112.873415,,,n_10722427905,"shop=variety_store, brand=Family Dollar"
+"Ajo, AZ",,retail,445120,,,,,32.3760853,-112.8720554,,,n_11484027987,"shop=convenience, operator=Circle K"
+"Ajo, AZ",,retail,445120,Texaco,,,,32.3932834,-112.8727686,,,w_295768593,"shop=convenience, brand=Texaco"
+"Ajo, AZ",,retail,445120,Why Not Travel Store,"230 South Sonoyta Highway, Ajo, AZ, 85321",+1 520 387 7783,https://whynottravelstore.com,32.263785,-112.741246,,,w_630396868,shop=convenience

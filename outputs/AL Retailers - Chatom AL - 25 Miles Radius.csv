@@ -1,0 +1,19 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Chatom, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/leroy/13986,31.5099945,-87.9542172,,,n_2443435609,"shop=variety_store, brand=Dollar General"
+"Chatom, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/jackson/4672/,31.5355313,-87.8899273,,,n_2443447715,"shop=variety_store, brand=Dollar Tree"
+"Chatom, AL",,retail,445110,Ramey's Pic N Sav,,,,31.5361714,-87.8894552,,,n_2443447721,shop=supermarket
+"Chatom, AL",,retail,452319,Dollar General,"4107 North College Avenue, Jackson, AL, 36545",,https://www.dollargeneral.com/store-directory/al/jackson/7714,31.5555073,-87.8775489,,,n_2443519642,"shop=variety_store, brand=Dollar General"
+"Chatom, AL",,retail,452319,Family Dollar,,,,31.2649504,-88.0308103,,,n_2443797230,"shop=variety_store, brand=Family Dollar"
+"Chatom, AL",,retail,445110,Food Tiger,,,,31.2657345,-88.0306387,,,n_2443797240,shop=supermarket
+"Chatom, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/mcintosh/9969,31.2658674,-88.0323445,,,n_2443797244,"shop=variety_store, brand=Dollar General"
+"Chatom, AL",,retail,445110,Walmart Supercenter,"4206 North College Avenue, Jackson, AL, 36545",+1 251-247-7101,https://www.walmart.com/store/2760-jackson-al,31.559638,-87.875509,,,n_5315599429,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Chatom, AL",,retail,445120,,,,,31.5495333,-87.879744,,,n_12361248097,shop=convenience
+"Chatom, AL",,retail,452319,Dollar General,"271 Saint Peter Street, State Line, MS, 39362",+1 (601) 848-7240,https://www.dollargeneral.com/store-directory/ms/state-line/11131,31.4341518,-88.4727528,,,w_625863138,"shop=variety_store, brand=Dollar General"
+"Chatom, AL",,retail,445120,Clark's,"279 Saint Peter Street, State Line, MS, 39362",+1 (601) 848-7808,,31.434814,-88.4724835,,,w_625869645,shop=convenience
+"Chatom, AL",,retail,445110,Greer's CashSaver,"200 Main Street, State Line, MS, 39362",+1 (601) 848-7892,https://www.greers.com/,31.4380045,-88.4746935,,,w_625869648,shop=supermarket
+"Chatom, AL",,retail,445120,Rapid Mart,"State Line, MS, 39362",,,31.4363902,-88.4746535,,,w_625869656,shop=convenience
+"Chatom, AL",,retail,445120,,,,,31.5401587,-88.5277648,,,w_635403203,shop=convenience
+"Chatom, AL",,retail,445120,Buckatunna Grocery,"1708 US 45, Buckatunna, MS, 39322",+1 (601) 648-2234,,31.5410094,-88.5283543,,,w_635403205,shop=convenience
+"Chatom, AL",,retail,445120,Crazy K's Food and Fuel,"1873 US 45, Buckatunna, MS, 39322",+1 (601) 648-2455,,31.553075,-88.5308872,,,w_635457667,shop=convenience
+"Chatom, AL",,retail,445120,Saint Stephens Park General Store,,,,31.5594242,-88.0347472,,,w_923006250,shop=convenience
+"Chatom, AL",,retail,452319,Dollar General,"1842 US 45, Buckatunna, MS, 39322",+1 (601) 884-0436,https://www.dollargeneral.com/store-directory/ms/buckatunna/15255,31.549956,-88.5316024,,,w_1012220183,"shop=variety_store, brand=Dollar General"

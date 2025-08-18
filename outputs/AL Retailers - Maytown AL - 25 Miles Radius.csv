@@ -1,0 +1,418 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Maytown, AL",,retail,452210,Belk,,,,33.2327461,-86.8021973,,,n_459390701,"shop=department_store, brand=Belk, operator=Belk"
+"Maytown, AL",,retail,452210,Target,"250 South Colonial Drive, Alabaster, AL, 35007-4657",+1 205-564-2608,https://www.target.com/sl/alabaster/2276,33.2243459,-86.8043602,,,n_459390707,"shop=department_store, brand=Target"
+"Maytown, AL",,retail,445110,Publix,"365 Huntley Parkway, Pelham, AL, 35124-6164",+1 205-620-0102,https://www.publix.com/locations/1202,33.2747947,-86.7925621,,,n_474865135,"shop=supermarket, brand=Publix"
+"Maytown, AL",,retail,445110,Publix,"4730 Highway 17, Helena, AL, 35080-3570",+1 205-620-0199,https://www.publix.com/locations/1074,33.2800438,-86.8538439,,,n_506856058,"shop=supermarket, brand=Publix"
+"Maytown, AL",,retail,445110,Walmart Neighborhood Market,"335 Helena Market Place, Helena, AL, 35080",+1 205-624-1640,https://www.walmart.com/store/4189-helena-al,33.27952,-86.8512003,,,n_506856062,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Maytown, AL",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-2505+john+hawkins+pkwy-hoover-al-35244/id=5072,33.3551247,-86.8460815,,,n_1225845984,"shop=chemist, brand=Walgreens"
+"Maytown, AL",,retail,445110,Publix,"2543 John Hawkins Parkway, Hoover, AL, 35244-3533",+1 205-982-8506,https://www.publix.com/locations/839,33.3559284,-86.8427022,,,n_1225845988,"shop=supermarket, brand=Publix"
+"Maytown, AL",,retail,445110,Foodland,,,,33.6529759,-86.812571,,,n_1399429847,shop=supermarket
+"Maytown, AL",,retail,452210,JCPenney,"3363 Lowery Parkway, Fultondale, AL, 35068",+1-205-994-7330,https://stores.jcpenney.com/al/fultondale/clothing-stores-fultondale-al-2994.html,33.6023692,-86.8051073,,,n_1653905896,"shop=department_store, brand=JCPenney"
+"Maytown, AL",,retail,445110,Winn-Dixie,"150 Chelsea Corners Way, Chelsea, AL, 35043",+1 205-678-8808,https://www.winndixie.com/storedetails/chelsea/al?search=509,33.3462774,-86.6308773,,,n_1740785052,"shop=supermarket, brand=Winn-Dixie"
+"Maytown, AL",,retail,452210,JCPenney,"5060 Pinnacle Square, Trussville, AL, 35173",,https://www.jcpenney.com/,33.6050521,-86.6422259,,,n_2089099510,"shop=department_store, brand=JCPenney, operator=jcpenny"
+"Maytown, AL",,retail,452210,Kohl's,"5900 Chalkville Mountain Road, Birmingham, AL, 35235",+1 205-661-0580,https://www.kohls.com/stores/al/birmingham-658.shtml,33.6455668,-86.627228,,,n_2090005145,"shop=department_store, brand=Kohl's"
+"Maytown, AL",,retail,445110,Winn-Dixie,"465 Main Street, Trussville, AL, 35173",+1 205-661-0026,https://www.winndixie.com/storedetails/trussville/al?search=461,33.6153319,-86.6181014,,,n_2154621848,"shop=supermarket, brand=Winn-Dixie"
+"Maytown, AL",,retail,445110,Save a Lot,,,,33.3910508,-86.9772661,,,n_2159981398,shop=supermarket
+"Maytown, AL",,retail,445110,Fred's,,,,33.3912031,-86.9771213,,,n_2159981405,shop=supermarket
+"Maytown, AL",,retail,445230,Brito's Produce,"455 Finley Ave. W, 35204",,,33.5338602,-86.844841,,,n_2160492079,shop=greengrocer
+"Maytown, AL",,retail,445110,Food Giant,,,,33.6980891,-86.6821978,,,n_2182845287,shop=supermarket
+"Maytown, AL",,retail,445310,ABC Beverage,,,,33.6481904,-86.6321618,,,n_2217000896,shop=alcohol
+"Maytown, AL",,retail,445310,ABC liquor ,,,http://www.abcboard.alabama.gov,33.607475,-86.6287749,,,n_2267416327,shop=alcohol
+"Maytown, AL",,retail,452210,Belk,"5036 Pinnacle Square, Trussville, AL, 35173",,https://www.belk.com/store/belk-trussville-al/?storeid=349,33.6084431,-86.6385161,,,n_2457343889,"shop=department_store, brand=Belk"
+"Maytown, AL",,retail,452210,TJ Maxx,,,,33.6046443,-86.6381253,,,n_2457343902,"shop=department_store, brand=TJ Maxx"
+"Maytown, AL",,retail,445110,Publix,"3014 Allison Bonnett Memorial Drive, Hueytown, AL, 35023-2395",+1 205-497-5366,https://www.publix.com/locations/1065,33.4532639,-86.9782514,,,n_2599308554,"shop=supermarket, brand=Publix"
+"Maytown, AL",,retail,445110,Gordo's Mexican food,,,,33.4721756,-86.8197482,,,n_2726227569,shop=supermarket
+"Maytown, AL",,retail,445110,Publix,"411 Green Springs Highway, Birmingham, AL, 35209-4909",+1 205-944-1101,https://www.publix.com/locations/165,33.465192,-86.819874,,,n_3374912993,"shop=supermarket, brand=Publix"
+"Maytown, AL",,retail,445110,The Fresh Market,,,,33.467953,-86.774025,,,n_3376843197,"shop=supermarket, brand=The Fresh Market"
+"Maytown, AL",,retail,445110,Publix,"3350 Morgan Drive, Vestavia Hills, AL, 35216",+1 205-978-9842,https://www.publix.com/locations/1675,33.4264824,-86.7742867,,,n_3422680475,"shop=supermarket, brand=Publix"
+"Maytown, AL",,retail,446120,L'Occitane,,,,33.4467152,-86.7287987,,,n_3451010453,"shop=cosmetics, brand=L'Occitane"
+"Maytown, AL",,retail,452210,Belk,"221 Summit Boulevard, Birmingham, AL, 35243",+1 205 9684200,https://www.belk.com/store/store_details.jsp?storeid=1408474395188042,33.447926,-86.7284419,,,n_3451010454,"shop=department_store, brand=Belk"
+"Maytown, AL",,retail,445120,Circle K,,,,33.4624378,-86.7308047,,,n_3595026991,"shop=convenience, brand=Circle K"
+"Maytown, AL",,retail,452210,TJ Maxx,,,,33.4218301,-86.6923337,,,n_3763255565,"shop=department_store, brand=TJ Maxx"
+"Maytown, AL",,retail,445110,Publix,"1944 Montgomery Highway South, Birmingham, AL, 35244",+1 205-987-3401,https://www.publix.com/locations/841,33.3469027,-86.7971285,,,n_4232573392,"shop=supermarket, brand=Publix"
+"Maytown, AL",,retail,445110,Target,"5561 Grove Boulevard, Birmingham, AL, 35226",+1 205-747-1654,https://www.target.com/sl/hoover-west/2503,33.361752,-86.8531839,,,n_4232800617,"shop=supermarket, brand=Target"
+"Maytown, AL",,retail,445110,Sprouts Farmers Market,"5250 Medford Drive, Hoover, AL, 35244",+1 205-263-4970,https://www.sprouts.com/store/al/hoover/medford-dr/,33.3559633,-86.8550969,,,n_4232811029,"shop=supermarket, brand=Sprouts Farmers Market"
+"Maytown, AL",,retail,445292,Yogurt Mountain,"3032 John Hawkins Parkway, Hoover, AL, 35244",,,33.3723952,-86.8117394,,,n_4261176378,shop=confectionery
+"Maytown, AL",,retail,445110,Trader Joe's,"205 Summit Boulevard, Birmingham, AL, 35243",+1 205-969-7801,https://locations.traderjoes.com/al/birmingham/737/,33.4465102,-86.7296304,,,n_4836985408,"shop=supermarket, brand=Trader Joe's"
+"Maytown, AL",,retail,445110,Mi Pueblo Supermarket,,+1 205-878-8889,,33.4666753,-86.8244685,,,n_4839222355,shop=supermarket
+"Maytown, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/homewood/160/,33.4663881,-86.8241517,,,n_4839222356,"shop=variety_store, brand=Dollar Tree"
+"Maytown, AL",,retail,446120,Lux Beauty,"248 Green Springs Highway, Homewood, AL, 35209",(205) 502-7636,,33.466112,-86.8225136,,,n_4839233244,shop=beauty
+"Maytown, AL",,retail,452319,Ollie's Bargain Outlet,,,,33.4603722,-86.8194065,,,n_4839324606,"shop=variety_store, brand=Ollie's Bargain Outlet"
+"Maytown, AL",,retail,445110,Mr. Chen's Hometown Supermarket,,,,33.4607443,-86.8193762,,,n_4839324607,shop=supermarket
+"Maytown, AL",,retail,452210,Big Lots,"3550 Pelham Parkway, Pelham, AL, 35124",+1 205-620-5051,https://local.biglots.com/al/pelham/3550-pelham-pkwy,33.2649118,-86.8122851,,,n_4840193224,"shop=department_store, brand=Big Lots"
+"Maytown, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/pelham/12246,33.263938,-86.8124484,,,n_4840193228,"shop=variety_store, brand=Dollar General"
+"Maytown, AL",,retail,445110,Publix,"230 20th Street South, Birmingham, AL, 35233",+1 205-250-7170,https://www.publix.com/locations/1512-20-midtown,33.510055,-86.8030375,,,n_5003171419,"shop=supermarket, brand=Publix"
+"Maytown, AL",,retail,453991,Steampunk Vape,,,,33.8529195,-86.8176457,,,n_5046688851,shop=tobacco
+"Maytown, AL",,retail,445110,Walmart Supercenter,"750 Academy Drive, Bessemer, AL, 35022",+1 205-424-5890,https://www.walmart.com/store/764-bessemer-al,33.361719,-87.001921,,,n_5315596427,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Maytown, AL",,retail,445110,Walmart Supercenter,"9248 Parkway East, Birmingham, AL, 35206",+1 205-833-7676,https://www.walmart.com/store/762-birmingham-al,33.590204,-86.70022,,,n_5315596428,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Maytown, AL",,retail,445110,Walmart Supercenter,"2181 Pelham Parkway, Pelham, AL, 35124",+1 205-987-0108,https://www.walmart.com/store/5262-pelham-al,33.340851,-86.791181,,,n_5315597744,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Maytown, AL",,retail,445110,Walmart Neighborhood Market,"1916 Center Point Parkway, Birmingham, AL, 35215",+1 205-520-0269,https://www.walmart.com/store/5100-birmingham-al,33.637368,-86.684495,,,n_5315597805,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Maytown, AL",,retail,445110,Walmart Supercenter,"209 Lakeshore Parkway, Homewood, AL, 35209",+1 205-945-8692,https://www.walmart.com/store/1481-homewood-al,33.4471,-86.821,,,n_5315601417,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Maytown, AL",,retail,452210,Big Lots,"142 Green Springs Highway, Homewood, AL, 35209",+1 205-941-1278,https://local.biglots.com/al/homewood/142-green-springs-hwy,33.4677006,-86.8252543,,,n_5600120022,"shop=department_store, brand=Big Lots"
+"Maytown, AL",,retail,446120,Sephora,,,,33.4493321,-86.7275066,,,n_5703240078,"shop=cosmetics, brand=Sephora"
+"Maytown, AL",,retail,446120,MAC Cosmetics,,,,33.4488329,-86.7274961,,,n_5703240081,"shop=cosmetics, brand=MAC Cosmetics"
+"Maytown, AL",,retail,445210,Mr. P’s Deli,,,,33.4204874,-86.847067,,,n_5711037854,shop=butcher
+"Maytown, AL",,retail,445110,Piggly Wiggly,"2148 Tyler Road, Hoover, AL, 35226",+1 205-822-5361,,33.4142908,-86.8448869,,,n_5711037858,"shop=supermarket, brand=Piggly Wiggly"
+"Maytown, AL",,retail,445110,Piggly Wiggly,"415 Caldwell Drive, Warrior, AL, 35180",+1 205-647-3241,,33.8072708,-86.8104039,,,n_5713950595,"shop=supermarket, brand=Piggly Wiggly"
+"Maytown, AL",,retail,446120,Oasis Nail Spa,,,,33.4285936,-86.7064594,,,n_5782477615,shop=beauty
+"Maytown, AL",,retail,446120,Halcyon Days,,,,33.4490425,-86.7313341,,,n_5840213932,shop=beauty
+"Maytown, AL",,retail,446191,The Green Door Natural Foods,,,,33.4824415,-86.7720474,,,n_5864649585,shop=health_food
+"Maytown, AL",,retail,453991,Vitola Fine Cigars,,,https://www.vitolafinecigars.com/,33.4819783,-86.7720993,,,n_5864649589,shop=tobacco
+"Maytown, AL",,retail,445110,Piggly Wiggly,"3800 River Run Drive, Mountain Brook, AL, 35243",+1 205-776-8755,,33.4814219,-86.7119523,,,n_5876911856,"shop=supermarket, brand=Piggly Wiggly"
+"Maytown, AL",,retail,445230,Murphree's Market and Garden Center,,,https://murphreesmarket.com/,33.4556096,-86.7376037,,,n_5877090644,shop=greengrocer
+"Maytown, AL",,retail,445120,Sunny Foods,,,,33.344839,-86.7706009,,,n_5886332919,shop=convenience
+"Maytown, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/birmingham/3382/,33.3825451,-86.7385259,,,n_5891792998,"shop=variety_store, brand=Dollar Tree"
+"Maytown, AL",,retail,446120,Nail Tip & Spa,,,,33.385539,-86.7407994,,,n_5897632487,shop=beauty
+"Maytown, AL",,retail,446120,Nail Vogue,,,,33.4449366,-86.7915876,,,n_5915002414,shop=beauty
+"Maytown, AL",,retail,445110,The Fresh Market,"Birmingham, AL",,,33.4215003,-86.7000679,,,n_5925078513,"shop=supermarket, brand=The Fresh Market"
+"Maytown, AL",,retail,445310,ABC Store,"1425 Montgomery Highway, 35216",2058231774,,33.4216016,-86.7967728,,,n_6153881885,shop=alcohol
+"Maytown, AL",,retail,452210,Von Maur,"3000 Riverchase Galleria, Hoover, AL, 35244",+1-205-982-4337,https://www.vonmaur.com/StorePage.aspx?ID=37,33.3788557,-86.8101737,,,n_6156277986,shop=department_store
+"Maytown, AL",,retail,452210,Macy's,,,,33.3776821,-86.8077222,,,n_6156277987,"shop=department_store, brand=Macy's"
+"Maytown, AL",,retail,452210,Belk,,,,33.3803206,-86.8087805,,,n_6156277990,"shop=department_store, brand=Belk"
+"Maytown, AL",,retail,452210,JCPenney,,,,33.3808456,-86.8101007,,,n_6156277991,"shop=department_store, brand=JCPenney"
+"Maytown, AL",,retail,446120,Beauty Trendz,"201 Green Springs Highway, Homewood, AL, 35209",,,33.4670599,-86.8222433,,,n_6172300254,shop=beauty
+"Maytown, AL",,retail,452210,Sears Outlet,"251 Lakeshore Parkway, Homewood, AL, 35209",,,33.4449991,-86.8245517,,,n_6185182223,"shop=department_store, brand=Sears Outlet"
+"Maytown, AL",,retail,452319,Dirt Cheap,"146 Wildwood Parkway, Homewood, AL, 35209",,,33.4497209,-86.8255457,,,n_6185182236,shop=variety_store
+"Maytown, AL",,retail,445110,Restaurant Depot,"126 Wildwood Parkway, Homewood, AL, 35209",,,33.4488057,-86.8268891,,,n_6185182245,shop=supermarket
+"Maytown, AL",,retail,445110,Super Ofertas,"406 West Valley Avenue, Homewood, AL, 35209",,,33.4708132,-86.8263214,,,n_6185182249,shop=supermarket
+"Maytown, AL",,retail,445110,La Hacienda,"118 Green Springs Highway, Homewood, AL, 35209",,,33.4684959,-86.8257972,,,n_6188791403,shop=supermarket
+"Maytown, AL",,retail,452319,Dollar Tree,"233 Lakeshore Parkway, Homewood, AL, 35209",,https://www.dollartree.com/locations/al/homewood/465/,33.4455826,-86.8236914,,,n_6188816195,"shop=variety_store, brand=Dollar Tree"
+"Maytown, AL",,retail,446120,bluemercury,,,https://www.bluemercury.com/pages/store-details?store_number=172176,33.4485404,-86.7319746,,,n_6332131697,"shop=cosmetics, brand=bluemercury"
+"Maytown, AL",,retail,446120,Lush,,,https://www.lushusa.com/shop?StoreID=742,33.4473517,-86.7319356,,,n_6332131698,"shop=cosmetics, brand=Lush"
+"Maytown, AL",,retail,446120,,,,,33.6423283,-86.6238223,,,n_6352909950,shop=beauty
+"Maytown, AL",,retail,446120,Palm Beach Tan,,,https://palmbeachtan.com/locations/AL/Trussville-Frank-Street,33.6424209,-86.6248077,,,n_6352909951,"shop=beauty, brand=Palm Beach Tan"
+"Maytown, AL",,retail,452210,TJ Maxx,"1646 Montgomery Highway, Hoover, AL, 35216",+1-205-822-8255,https://tjmaxx.tjx.com/store/stores/Hoover-AL-35216/242/aboutstore,33.3932499,-86.8077702,,,n_6385943576,"shop=department_store, brand=TJ Maxx"
+"Maytown, AL",,retail,446120,Bath & Body Works,,,,33.334794,-86.990687,,,n_6634058688,"shop=cosmetics, brand=Bath & Body Works"
+"Maytown, AL",,retail,445110,Piggly Wiggly,"4750 Eastern Valley Road, McCalla, AL, 35111",+1 205-230-0142,,33.3288758,-86.9986743,,,n_6634175530,"shop=supermarket, brand=Piggly Wiggly"
+"Maytown, AL",,retail,452319,Family Dollar,"1747 Jefferson Avenue Southwest, Birmingham, AL, 35211",205-929-8285,https://locations.familydollar.com/al/birmingham/23985/,33.479835,-86.8620927,,,n_6786943007,"shop=variety_store, brand=Family Dollar"
+"Maytown, AL",,retail,445120,Circle K,"603 Bessemer Super Highway, Midfield, AL, 35228",205-923-8738,https://www.circlek.com/store-locator/US/midfield/603-bessemer-super-hwy/2723834,33.4634886,-86.9107676,,,n_6936166690,"shop=convenience, brand=Circle K"
+"Maytown, AL",,retail,445110,GreenWise Market at Lane Parke,"1000 Jemison Lane, Mountain Brook, AL, 35223",+1-205-802-9189,https://www.publix.com/locations/1676-greenwise-market-at-lane-parke,33.4862601,-86.7730166,,,n_6945877857,shop=supermarket
+"Maytown, AL",,retail,452319,Dollar General,"701 Montgomery Highway, Vestavia Hills, AL, 35216",+1-205-379-7725,https://www.dollargeneral.com/store-directory/al/vestavia-hills/30424,33.4467122,-86.7900966,,,n_6955775207,"shop=variety_store, brand=Pop Shelf"
+"Maytown, AL",,retail,446110,CVS Pharmacy,"3303 Clairmont Avenue South, Birmingham, AL, 35222",+1-205-322-3055,https://www.cvs.com/store-locator/cvs-pharmacy-address/3303+Clairmont+Plaza+South-Birmingham-AL-35222/storeid=4951,33.5130925,-86.7809328,,,n_6967654317,"shop=chemist, brand=CVS Pharmacy"
+"Maytown, AL",,retail,445110,Piggly Wiggly,"3314 Clairmont Avenue South, Birmingham, AL, 35222",+1 205-252-0684,https://pigglywigglybirmingham.com/locations/clairmont/,33.5132601,-86.7804112,,,n_6967654319,"shop=supermarket, brand=Piggly Wiggly"
+"Maytown, AL",,retail,446120,Nail Time,"3328 Clairmont Avenue South, Birmingham, AL, 35222",+1-205-777-4854,https://nailtimebirmingham.com/,33.5134066,-86.7800772,,,n_6967654320,shop=beauty
+"Maytown, AL",,retail,445120,Love's,,,,33.2787845,-87.0988937,,,n_6996962823,shop=convenience
+"Maytown, AL",,retail,446120,Perfect Nails,"60 Green Springs Highway, Homewood, AL, 35209",+1-205-942-0085,,33.4730952,-86.8264645,,,n_7047311661,shop=beauty
+"Maytown, AL",,retail,452319,Dollar Tree,"9116 Parkway East, Birmingham, AL, 35206-1507",+1-205-421-1521,https://www.dollartree.com/locations/al/birmingham/728/,33.5862638,-86.7033947,,,n_7105978857,"shop=variety_store, brand=Dollar Tree"
+"Maytown, AL",,retail,453110,Bolin-Reeves,"344 6th Avenue Southwest, Birmingham, AL, 35211",+1-205-324-8521,https://www.bolinreevesflorist.com/,33.4904139,-86.8392763,,,n_7118243987,shop=florist
+"Maytown, AL",,retail,445110,ALDI,"5485 Patrick Way, Birmingham, AL, 35235",+1 833-470-7035,https://stores.aldi.us/al/birmingham/5485-patrick-way,33.6104075,-86.6236095,,,n_7122756252,"shop=supermarket, brand=ALDI"
+"Maytown, AL",,retail,446120,Ulta Beauty,"5473 Patrick Way, Birmingham, AL, 35235",+1 205-655-0767,https://www.ulta.com/stores/birmingham-al-1154,33.6099251,-86.6239977,,,n_7122756254,"shop=beauty, brand=Ulta Beauty"
+"Maytown, AL",,retail,452319,Five Below,,+1 205-661-0361,https://locations.fivebelow.com/al/birmingham/5463-patrick-way,33.6097301,-86.62454,,,n_7122756256,"shop=variety_store, brand=Five Below"
+"Maytown, AL",,retail,446120,Nail Palace,"873 Dennison Avenue Southwest, Birmingham, AL, 35211",+1-205-322-8855,,33.4794471,-86.8415389,,,n_7128546527,shop=beauty
+"Maytown, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/trussville/21618,33.6169244,-86.6152504,,,n_7154346032,"shop=variety_store, brand=Dollar General"
+"Maytown, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/trussville/2395/,33.6155715,-86.617434,,,n_7154346048,"shop=variety_store, brand=Dollar Tree"
+"Maytown, AL",,retail,446110,Nelm's Pharmacy,,,,33.6136385,-86.6087843,,,n_7154359484,shop=chemist
+"Maytown, AL",,retail,452319,Ollie's Bargain Outlet,"1715 Montgomery Highway, Hoover, AL, 35244",+1-205-989-7991,https://www.ollies.us/locations/1715-montgomery-highway-hoover-al/,33.3816556,-86.8036208,,,n_7175263940,"shop=variety_store, brand=Ollie's Bargain Outlet"
+"Maytown, AL",,retail,452319,Ollie's Bargain Outlet,"2004 Veterans Memorial Drive, Birmingham, AL, 35214",+1-205-791-5997,https://www.ollies.us/locations/2004-veterans-memorial-dr-birmingham-al/,33.573172,-86.908134,,,n_7176084700,"shop=variety_store, brand=Ollie's Bargain Outlet"
+"Maytown, AL",,retail,445110,Publix,"655 Fieldstown Road, Gardendale, AL, 35071-2411",+1 205-608-4677,https://www.publix.com/locations/1206-magnolia-city-place,33.6512225,-86.8222815,,,n_7198651223,"shop=supermarket, brand=Publix"
+"Maytown, AL",,retail,445110,Piggly Wiggly,"1697 Tuscaloosa Avenue, Birmingham, AL, 35211",+1 205-925-6744,https://www.thepigbham.com/berney-point/,33.4872007,-86.8615923,,,n_7211676931,"shop=supermarket, brand=Piggly Wiggly"
+"Maytown, AL",,retail,452319,Five Below,"3453 Lowery Parkway, Fultondale, AL",+1-205-849-2035,https://locations.fivebelow.com/al/fultondale/3453-lowery-parkway,33.604484,-86.80533,,,n_7213016891,"shop=variety_store, brand=Five Below"
+"Maytown, AL",,retail,452319,Dollar General,"1026 Main Street, Gardendale, AL, 35071",+1-205-285-3995,https://www.dollargeneral.com/store-directory/al/gardendale/4647,33.6540135,-86.8125647,,,n_7217288998,"shop=variety_store, brand=Dollar General"
+"Maytown, AL",,retail,452319,Five Below,"1725 Montgomery Highway, Birmingham, AL, 35244",+1-205-739-5944,https://locations.fivebelow.com/al/birmingham/1725-montgomery-highway,33.3798791,-86.803905,,,n_7217675838,"shop=variety_store, brand=Five Below"
+"Maytown, AL",,retail,446110,Walgreens,"1551 Forestdale Boulevard, Birmingham, AL, 35214",+1-205-798-8360,https://www.walgreens.com/locator/walgreens-1551+forestdale+blvd-birmingham-al-35214/id=5073,33.5681335,-86.8974694,,,n_7254603003,"shop=chemist, brand=Walgreens"
+"Maytown, AL",,retail,446110,Walgreens,"3209 Ensley 5 Points W Avenue, Birmingham, AL, 35208",+1-205-786-3455,https://www.walgreens.com/locator/walgreens-3209+ensley+5+points+w+ave-birmingham-al-35208/id=17052,33.4981785,-86.8759745,,,n_7285448188,"shop=chemist, brand=Walgreens"
+"Maytown, AL",,retail,452210,Ross,"5933 Trussville Crossings Parkway, Trussville, AL, 35235",+1 205-655-4183,https://www.rossstores.com/,33.6392044,-86.62726,,,n_7297923930,"shop=department_store, brand=Ross"
+"Maytown, AL",,retail,452319,Tools & More!,"6200 Grand River Boulevard, Leeds, AL, 35094",+1-205-702-4247,,33.5494027,-86.5961687,,,n_7373007263,shop=variety_store
+"Maytown, AL",,retail,446120,Ross Bridge Nail Spa,,,,33.3967983,-86.8837274,,,n_7524013035,shop=beauty
+"Maytown, AL",,retail,445120,Ross Bridge Grocery,,,,33.3972414,-86.8827136,,,n_7524013040,shop=convenience
+"Maytown, AL",,retail,446120,Beauty & Beyond,"1615 Montgomery Highway, Hoover, AL, 35216",+1-205-834-8503,,33.3972447,-86.8050118,,,n_7626654081,shop=beauty
+"Maytown, AL",,retail,445310,ABC Store,,,,33.386407,-86.7402035,,,n_7689170790,shop=alcohol
+"Maytown, AL",,retail,452319,Bargain Hunt,"3313 Lorna Road, Hoover, AL, 35216",+1-205-978-7215,https://www.bargainhunt.com/,33.3936961,-86.7963103,,,n_7722337795,shop=variety_store
+"Maytown, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/hoover/4302/,33.359762,-86.855167,,,n_7725988508,"shop=variety_store, brand=Dollar Tree"
+"Maytown, AL",,retail,452210,Marshalls,,,,33.360901,-86.8537052,,,n_7725988510,"shop=department_store, brand=Marshalls"
+"Maytown, AL",,retail,445110,Grikey's Meat & Market,"2344 Center Point Parkway, Center Point, AL, 35215",+1-205-326-7462,,33.6478347,-86.6846766,,,n_7729623232,shop=supermarket
+"Maytown, AL",,retail,445120,Circle K,"3101 Shannon Oxmoor Road, Birmingham, AL, 35211",+1-205-945-4717,https://www.circlek.com/store-locator/US/birmingham/3101-shannon-oxmoor-rd/2701611,33.4343382,-86.843585,,,n_7746662198,"shop=convenience, brand=Circle K"
+"Maytown, AL",,retail,446110,Village Drug Co,,,,33.4083771,-86.6313016,,,n_7784313879,shop=chemist
+"Maytown, AL",,retail,446110,Liberty Pharmacy,"3735 Corporate Woods Drive, Vestavia Hills, AL, 35242",+1-205-977-9290,https://libertypharmacyal.com/,33.4804188,-86.7024969,,,n_7792769430,shop=chemist
+"Maytown, AL",,retail,445310,ABC Select Spirits,"3232 Galleria Circle, Hoover, AL, 35244",+1-205-989-3386,https://alabcboard.gov/58,33.3746398,-86.8106234,,,n_7830843734,shop=alcohol
+"Maytown, AL",,retail,445110,Target,"1654 Gadsden Highway, Birmingham, AL, 35235",+1 205-655-6950,https://www.target.com/sl/trussville/1773,33.605437,-86.6372845,,,n_7847374594,"shop=supermarket, brand=Target"
+"Maytown, AL",,retail,452319,Dollar General,"2144 Tyler Road, Hoover, AL, 35226",+1-205-379-8350,https://www.dollargeneral.com/store-directory/al/hoover/9521,33.4166573,-86.8449962,,,n_7857845674,"shop=variety_store, brand=Dollar General"
+"Maytown, AL",,retail,452319,Family Dollar,"3124 Alemeda Avenue Southwest, Birmingham, AL, 35221",+1-205-923-5956,https://www.familydollar.com/locations/al/birmingham/29278/,33.4701045,-86.8843516,,,n_7904749112,"shop=variety_store, brand=Family Dollar"
+"Maytown, AL",,retail,445110,Save-A-Lot,"161 Bessemer Super Highway, Midfield, AL, 35228",+1-205-929-3755,https://savealot.com/grocery-stores/midfield-35228-21665/,33.4633402,-86.913949,,,n_7911205768,"shop=supermarket, brand=Save-A-Lot"
+"Maytown, AL",,retail,446120,Top Ten Nails,"352 Palisades Boulevard, Birmingham, AL, 35209",+1-205-879-1436,,33.4691157,-86.820304,,,n_7934609052,shop=beauty
+"Maytown, AL",,retail,452210,Marshalls,"5929 Trussville Crossings Pkwy, Trussville, AL, 35235",+1-205-655-7743,https://www.marshalls.com/us/store/stores/Trussville-AL-35235/767/aboutstore/,33.6391399,-86.6277568,,,n_7934996184,"shop=department_store, brand=Marshalls"
+"Maytown, AL",,retail,445310,ABC Liqour,,,,33.6135831,-86.7967613,,,n_8235595044,shop=alcohol
+"Maytown, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/center-point/1323/,33.6471746,-86.6852721,,,n_8263205861,"shop=variety_store, brand=Dollar Tree"
+"Maytown, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/birmingham/3118,33.6474681,-86.6852667,,,n_8263205862,"shop=variety_store, brand=Dollar General"
+"Maytown, AL",,retail,452319,Family Dollar,,,,33.6087958,-86.6877429,,,n_8265064886,"shop=variety_store, brand=Family Dollar"
+"Maytown, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/irondale/9390,33.5314767,-86.7056704,,,n_8268622751,"shop=variety_store, brand=Dollar General"
+"Maytown, AL",,retail,452210,Macy's,"3000 Riverchase Galleria, Hoover, AL, 35244",+1-205-985-2600,https://www.macys.com/stores/al/hoover/riverchase-galleria_747.html,33.3776821,-86.8077222,,,n_8297340822,"shop=department_store, brand=Macy's"
+"Maytown, AL",,retail,445110,ALDI,"710 Academy Drive, Bessemer, AL, 35022",+1 833-470-7031,https://stores.aldi.us/al/bessemer/710-academy-dr,33.3588132,-86.9997843,,,n_8713480821,"shop=supermarket, brand=ALDI"
+"Maytown, AL",,retail,445110,Super Oriental Market,"243 West Valley Avenue, Homewood, AL, 35209",+1 205 945 9558,https://superorientalmkt.com/,33.466957,-86.8339633,,,n_8855176546,shop=supermarket
+"Maytown, AL",,retail,445110,Piggly Wiggly,"2500 29th Avenue North, Birmingham, AL, 35207",+1 205-323-5453,https://www.thepigbham.com/north-birmingham/,33.5504063,-86.8201356,,,n_8935293270,"shop=supermarket, brand=Piggly Wiggly"
+"Maytown, AL",,retail,445110,Village Market,"7737 2nd Avenue South, Birmingham, AL, 35206",,,33.560051,-86.7245127,,,n_8935293291,shop=supermarket
+"Maytown, AL",,retail,445110,Food Giant,"1675 Center Point Parkway, Center Point, AL, 35215",,,33.6325231,-86.6827145,,,n_8935293302,shop=supermarket
+"Maytown, AL",,retail,445110,Food Outlet,"2096 Springdale Lane, Birmingham, AL, 35217",+1-205-808-1341,,33.5905144,-86.76684,,,n_8935293303,shop=supermarket
+"Maytown, AL",,retail,445110,Meat Depot,"1127 Huffman Road, Birmingham, AL, 35215",+1 205 202 3718,,33.6096625,-86.6856752,,,n_8937258631,shop=supermarket
+"Maytown, AL",,retail,446110,CVS Pharmacy,"93 Euclid Avenue, Mountain Brook, AL, 35213",+1-205-871-2151,https://www.cvs.com/store-locator/mountain-brook-al-pharmacies/93-euclid-avenue-mountain-brook-al-35213/storeid=2505,33.5029356,-86.7573238,,,n_8937258648,"shop=chemist, brand=CVS Pharmacy"
+"Maytown, AL",,retail,446110,CVS Pharmacy,"2228 Bessemer Road, Birmingham, AL, 35208",205-787-4608,https://www.cvs.com/store-locator/birmingham-al-pharmacies/2228-bessemer-road-birmingham-al-35208/storeid=4898,33.4966429,-86.8788468,,,n_8937258649,"shop=chemist, brand=CVS Pharmacy"
+"Maytown, AL",,retail,445310,Highland Package Store,,,,33.5016259,-86.7906018,,,n_8939998287,shop=alcohol
+"Maytown, AL",,retail,452210,TJ Maxx,,,,33.2236663,-86.8038966,,,n_8941907815,"shop=department_store, brand=TJ Maxx"
+"Maytown, AL",,retail,446120,Ulta Beauty,"100 South Colonial Drive, Alabaster, AL, 35007",+1 205-664-4985,https://www.ulta.com/stores/alabaster-al-1084,33.2257461,-86.8045431,,,n_8941907833,"shop=cosmetics, brand=Ulta Beauty"
+"Maytown, AL",,retail,445310,University Package Store,"1150 11th Avenue South, Birmingham, AL, 35205",+1-205-251-6622,,33.4951969,-86.8088396,,,n_9354689308,shop=alcohol
+"Maytown, AL",,retail,453110,Blakelee's Bouquets,931 Oxmoor Road,+1-205-579-4900,https://www.blakeleesbouquets.com/,33.47353,-86.8087617,,,n_9354700613,shop=florist
+"Maytown, AL",,retail,452319,pOpshelf,"5537 Grove Boulevard, Hoover, AL, 35226",+1-205-502-2206,https://www.popshelf.com/store/24033,33.3622906,-86.8520489,,,n_9514689706,"shop=variety_store, brand=pOpshelf"
+"Maytown, AL",,retail,446110,Walgreens,"1615 Montgomery Highway, Hoover, AL, 35216",+1-205-823-6091,https://www.walgreens.com/locator/walgreens-1615+montgomery+highway-hoover-al-35216/id=17346,33.3977454,-86.8048819,,,n_9642256543,"shop=chemist, brand=Walgreens"
+"Maytown, AL",,retail,446120,Beauty & Beyond Galleria,"1642 Montgomery Highway, Hoover, AL, 35216",+1-205-460-1106,,33.393886,-86.8069558,,,n_9645853330,shop=beauty
+"Maytown, AL",,retail,445110,Giant,,,https://www.myfoodgiant.com/store-locations/food-giant-adamsville/,33.609351,-86.9635436,,,n_9666513436,shop=supermarket
+"Maytown, AL",,retail,446110,Walgreens,"Birmingham, AL, 35242",,https://www.walgreens.com/locator/walgreens-4700+highway+280-hoover-al-35242/id=11651,33.4216186,-86.700532,,,n_9694213735,"shop=chemist, brand=Walgreens"
+"Maytown, AL",,retail,445110,Mediterranean Foods,"430 Green Springs Highway, Homewood, AL, 35209",,,33.463011,-86.8209409,,,n_9848131383,shop=supermarket
+"Maytown, AL",,retail,452210,Burlington,"4835 Promenade Parkway, Bessemer, AL, 35022",+1 659-222-2887,https://www.burlington.com/store-details/bessemer-al-1328,33.3345937,-86.9871926,,,n_9871385715,"shop=department_store, brand=Burlington"
+"Maytown, AL",,retail,445110,Jubilee Groceries,"3321 Lorna Road, Hoover, AL, 35216",+12055822299,,33.3925961,-86.796308,,,n_10126990406,shop=supermarket
+"Maytown, AL",,retail,445310,ABC Select Spirits,,,,33.2790087,-86.85116,,,n_10309244560,shop=alcohol
+"Maytown, AL",,retail,453991,Fifth Earl Cigars,"485 Helena Market Place, Helena, AL, 35080",,,33.2786006,-86.8511573,,,n_10309244563,shop=tobacco
+"Maytown, AL",,retail,446110,Helena Drugs,,,,33.2788203,-86.8511627,,,n_10309244566,shop=chemist
+"Maytown, AL",,retail,445110,Piggly Wiggly,,,,33.4165668,-86.8437131,,,n_10740153965,"shop=supermarket, brand=Piggly Wiggly"
+"Maytown, AL",,retail,445120,Kangaroo Express,,,,33.4728098,-86.8377847,,,n_10749307060,"shop=convenience, brand=Kangaroo Express"
+"Maytown, AL",,retail,452210,Ross,"1616 Montclair Road, Birmingham, AL, 35210",+1 205-951-1563,,33.5280616,-86.7222549,,,n_10751583085,"shop=department_store, brand=Ross"
+"Maytown, AL",,retail,452319,Five Below,,+1 205-564-1043,https://locations.fivebelow.com/al/birmingham/1612-montclair-rd,33.5283658,-86.7219063,,,n_10751583086,"shop=variety_store, brand=Five Below"
+"Maytown, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/birmingham/1130/,33.5271976,-86.7323663,,,n_10751586652,"shop=variety_store, brand=Dollar Tree"
+"Maytown, AL",,retail,452319,Family Dollar,,,,33.6397631,-86.6843447,,,n_10763191696,"shop=variety_store, brand=Family Dollar"
+"Maytown, AL",,retail,446110,Mill's Pharmacy,,,,33.49005,-86.9780723,,,n_10904160128,shop=chemist
+"Maytown, AL",,retail,446120,Elegant Nails,"847 Park Road, Pleasant Grove, AL, 35127",205-744-0792,,33.4900551,-86.9783182,,,n_10904160129,shop=beauty
+"Maytown, AL",,retail,445110,Hill's Foodland,,,,33.4902297,-86.9785398,,,n_10904160130,shop=supermarket
+"Maytown, AL",,retail,446120,Luxe Nails,"3441 Lowery Pkwy, Fultondale, AL, 35068",+1-205-841-1500,https://luxe-nails.com,33.6042617,-86.8055725,,,n_11065116441,"shop=beauty, operator=Jack Bun"
+"Maytown, AL",,retail,446120,Fragrance outlet,,,,33.5488295,-86.595275,,,n_11378280651,shop=perfumery
+"Maytown, AL",,retail,446120,Bath & Body Works,,,,33.5484217,-86.5955647,,,n_11418198799,"shop=cosmetics, brand=Bath & Body Works"
+"Maytown, AL",,retail,452319,Dollar General,"115 Rock Creek Road, Sylvan Springs, AL, 35118",+1-205-277-0300,https://www.dollargeneral.com/store-directory/al/sylvan-springs/14881,33.5093424,-87.0270468,,,n_11432963183,"shop=variety_store, brand=Dollar General"
+"Maytown, AL",,retail,446120,Nail Plus,,,,33.6156678,-86.6172117,,,n_11494914238,shop=beauty
+"Maytown, AL",,retail,445120,Tienda La Hondureñita,"1751 Pinson Valley Parkway, Tarrant, AL, 35217",+1-251-224-7573,,33.585305,-86.7706719,,,n_11650353199,shop=convenience
+"Maytown, AL",,retail,445120,Southeast Meat & Vegetable,"1751 Pinson Valley Parkway, Tarrant, AL, 35217",+1-205-808-9923,,33.5852574,-86.7707687,,,n_11650353200,shop=convenience
+"Maytown, AL",,retail,446120,Sugarplum Kids,,,,33.6060797,-86.6413101,,,n_11688090335,shop=beauty
+"Maytown, AL",,retail,446120,Bath & Body Works,"1628 Gadsden Highway, Trussville, AL, 35173",,https://www.bathandbodyworks.com/?cm_mmc=local_bbw01678,33.6038243,-86.6398671,,,n_11688091981,"shop=cosmetics, brand=Bath & Body Works"
+"Maytown, AL",,retail,446120,Genesis Nail Spa,,,,33.6039018,-86.639803,,,n_11688091983,shop=beauty
+"Maytown, AL",,retail,453991,Tobacco Shop,,,,33.6402163,-86.6306615,,,n_11688484714,shop=tobacco
+"Maytown, AL",,retail,446120,Bath & Body Works,,,,33.640128,-86.6306619,,,n_11688484715,"shop=cosmetics, brand=Bath & Body Works"
+"Maytown, AL",,retail,446120,Vickie Nails,,,,33.6402742,-86.6306613,,,n_11688484716,shop=beauty
+"Maytown, AL",,retail,446120,Vi Nail,"2060 Springdale Lane, Tarrant, AL, 35217",+1-205-841-3311,,33.5900218,-86.7671777,,,n_11760284713,shop=beauty
+"Maytown, AL",,retail,445310,ABC Select Spirits,"2074 Springdale Lane, Tarrant, AL, 35217",+1-205-808-9848,https://alabcboard.gov/,33.5899406,-86.7672389,,,n_11760284714,shop=alcohol
+"Maytown, AL",,retail,446120,Hair Plus,"2072 Springdale Lane, Tarrant, AL, 35217",+1-205-841-2121,,33.5898113,-86.7673299,,,n_11760284715,shop=cosmetics
+"Maytown, AL",,retail,445292,La Fiesta Snack Bar And Dulcería,"410 1st Street Southwest, Alabaster, AL",+1 205-624-3191,,33.2396704,-86.8183735,,,n_11762759252,shop=confectionery
+"Maytown, AL",,retail,453991,Mary Jane's CBD Dispensary - Smoke & Vape Shop Homewood,"231 State Farm Parkway, Homewood, AL, 35209",+1 205-848-2210,https://mjcbdd.com/top-tobacco-cbd-vape-shop-cbd-homewood,33.4462406,-86.8270585,,,n_11765220239,shop=tobacco
+"Maytown, AL",,retail,452319,Dollar Tree,,,,33.6408893,-86.6305104,,,n_11774091566,"shop=variety_store, brand=Dollar Tree"
+"Maytown, AL",,retail,445120,Tienda El Quetzal,"1627 Pinson Valley Parkway, Birmingham, AL, 35217",+1-205-603-0096,,33.5842071,-86.7720339,,,n_11813095074,shop=convenience
+"Maytown, AL",,retail,446120,ACE Beauty Supply,,,,33.3918567,-86.8071277,,,n_11943406698,shop=beauty
+"Maytown, AL",,retail,452319,Ollie's Bargain Outlet,,,,33.6416602,-86.6217383,,,n_12066735267,"shop=variety_store, brand=Ollie's Bargain Outlet"
+"Maytown, AL",,retail,452319,Dollar General,,,,33.5852416,-86.7056007,,,n_12066792807,"shop=variety_store, brand=Dollar General"
+"Maytown, AL",,retail,446120,Nailz,,,,33.5859287,-86.7041769,,,n_12066818441,shop=beauty
+"Maytown, AL",,retail,445120,Circle K,,,,33.5913194,-86.6956784,,,n_12066870258,"shop=convenience, brand=Circle K"
+"Maytown, AL",,retail,445120,,,,,33.2465511,-87.137524,,,n_12175749059,shop=convenience
+"Maytown, AL",,retail,445120,,,,,33.2461503,-87.1378722,,,n_12175749060,shop=convenience
+"Maytown, AL",,retail,445120,,,,,33.2470269,-87.1369223,,,n_12175749061,shop=convenience
+"Maytown, AL",,retail,445120,,,,,33.2809514,-87.0990237,,,n_12175757502,shop=convenience
+"Maytown, AL",,retail,452319,Dollar Tree,"5012 Pinnacle Square, Trussville, AL, 35173",,https://www.dollartree.com/locations/al/birmingham/9310/,33.60785,-86.6394454,,,n_12190351153,"shop=variety_store, brand=Dollar Tree"
+"Maytown, AL",,retail,446120,Tippity Nails,,,,33.5971386,-86.6430735,,,n_12190687990,shop=beauty
+"Maytown, AL",,retail,445120,Circle K,,,,33.6193496,-86.6078692,,,n_12302833532,"shop=convenience, brand=Circle K"
+"Maytown, AL",,retail,445120,,,,,33.551509,-86.7837417,,,n_12361061428,shop=convenience
+"Maytown, AL",,retail,445120,,,,,33.3349519,-86.7817676,,,n_12361107172,shop=convenience
+"Maytown, AL",,retail,445120,,,,,33.3370662,-86.7814685,,,n_12362076799,shop=convenience
+"Maytown, AL",,retail,445120,,,,,33.5414691,-86.8239026,,,n_12362086874,shop=convenience
+"Maytown, AL",,retail,445310,Allen Brew Market,,,,33.3342925,-86.9952177,,,n_12470960962,shop=alcohol
+"Maytown, AL",,retail,445120,Allen Food Mart,,,,33.3341752,-86.995245,,,n_12470960964,shop=convenience
+"Maytown, AL",,retail,445120,Murphy Express,,,,33.6093778,-86.8042016,,,n_12696735613,"shop=convenience, brand=Murphy Express"
+"Maytown, AL",,retail,446120,Gadsen Nails,"5072 Pinnacle Square, Trussville, AL, 35235",,,33.6038646,-86.6432155,,,n_12779070351,shop=beauty
+"Maytown, AL",,retail,446120,Lash & Wax 4U,"5066 Pinnacle Square, Trussville, AL, 35173",,,33.6045822,-86.6428345,,,n_12779070353,shop=beauty
+"Maytown, AL",,retail,446120,Aria Nails,,,,33.6096566,-86.624839,,,n_12779265586,shop=beauty
+"Maytown, AL",,retail,446120,LaserAway,"133 Summit Boulevard, Birmingham, AL, 35243",+1 248-973-1111,https://www.laseraway.com/locations/al/birmingham/,33.4442832,-86.7306865,,,n_12854695768,"shop=beauty, brand=LaserAway"
+"Maytown, AL",,retail,452319,Five Below,"100 South Colonial Drive, Alabaster, AL, 35007",+1 205-564-1095,https://locations.fivebelow.com/al/alabaster/100-s-colonial-dr,33.2259199,-86.8045403,,,n_12861953001,"shop=variety_store, brand=Five Below"
+"Maytown, AL",,retail,445110,Fresh Value,,,,33.617534,-86.6110817,,,n_12878102139,shop=supermarket
+"Maytown, AL",,retail,446120,,,,,33.6176183,-86.6114459,,,n_12878102142,shop=beauty
+"Maytown, AL",,retail,445110,Trader Joe's,"1769 Montgomery Highway, Hoover, AL, 35244",+1-205-202-7715,,33.3792085,-86.803154,,,n_12879762317,"shop=supermarket, brand=Trader Joe's"
+"Maytown, AL",,retail,445120,Circle K,"1008 South Main Street, Graysville, AL",,https://www.circlek.com/store-locator/US/graysville/1008-s-main-st/2723836,33.6156075,-86.9692978,,,n_13004859115,"shop=convenience, brand=Circle K"
+"Maytown, AL",,retail,446120,Nail Star,,,,33.3930091,-86.8076239,,,n_13072870880,shop=beauty
+"Maytown, AL",,retail,445110,Walmart Supercenter,"2780 John Hawkins Parkway, Hoover, AL, 35244",+1 205-733-0303,https://www.walmart.com/store/1229-hoover-al,33.3618236,-86.82463,,,w_40183520,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Maytown, AL",,retail,445230,Andy's Market and Nursery,"124 Mars Hill Road, Hoover, AL, 35244",,,33.3537755,-86.8430812,,,w_106509793,shop=greengrocer
+"Maytown, AL",,retail,453991,JJ's Smoke Shop,"1636 Pinson Valley Parkway, Tarrant, AL, 35217",+1-205-841-4727,,33.5851939,-86.7723654,,,w_124672295,shop=tobacco
+"Maytown, AL",,retail,445120,,,,,33.3675099,-87.0046322,,,w_124673299,shop=convenience
+"Maytown, AL",,retail,445110,Whole Foods Market,"3100 Cahaba Village Plaza, Birmingham, AL, 35243",+1 205-912-8400,https://www.wholefoodsmarket.com/stores/birmingham,33.4600495,-86.7526192,,,w_185563808,"shop=supermarket, brand=Whole Foods Market"
+"Maytown, AL",,retail,445110,Piggly Wiggly,,,,33.4623685,-86.9085439,,,w_187233746,"shop=supermarket, brand=Piggly Wiggly"
+"Maytown, AL",,retail,446110,CVS Pharmacy,"604 Bessemer Super Highway, Midfield, AL, 35228",+1-205-925-0278,https://www.cvs.com/store-locator/cvs-pharmacy-address/604+Bessemer+Super+Highway-Midfield-AL-35228/storeid=4832,33.4642572,-86.9115384,,,w_187233748,"shop=chemist, brand=CVS Pharmacy"
+"Maytown, AL",,retail,453110,Shirley's Florist,,,,33.618783,-86.6102192,,,w_205505474,shop=florist
+"Maytown, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/birmingham-al-pharmacies/5705-chalkville-rd-birmingham-al-35235/storeid=4948,33.6483035,-86.6341352,,,w_211737082,"shop=chemist, brand=CVS Pharmacy"
+"Maytown, AL",,retail,445120,Texaco,,,,33.6484458,-86.6325099,,,w_211737085,"shop=convenience, brand=Texaco"
+"Maytown, AL",,retail,445110,Publix,"5150 Old Springville Road, Pinson, AL, 35126-3635",+1 205-815-5224,https://www.publix.com/locations/1069,33.6558845,-86.6470403,,,w_222555912,"shop=supermarket, brand=Publix"
+"Maytown, AL",,retail,446191,Honey & Spice,,,,33.6463546,-86.6341694,,,w_227350375,shop=health_food
+"Maytown, AL",,retail,445120,,,,,33.6155192,-86.6065282,,,w_230219508,shop=convenience
+"Maytown, AL",,retail,445120,Flying J Travel Center,"224 Daniel Payne Drive, Birmingham, AL, 35207",,,33.5625547,-86.8306808,,,w_230483736,"shop=convenience, brand=Flying J"
+"Maytown, AL",,retail,452210,Saks Fifth Avenue,,,,33.4452927,-86.7309379,,,w_234158797,"shop=department_store, brand=Saks Fifth Avenue"
+"Maytown, AL",,retail,445110,Save-A-Lot,"873 Dennison Avenue Southwest, Birmingham, AL, 35211",+1-205-581-1631,https://savealot.com/grocery-stores/birmingham-35211-584/,33.4794324,-86.8421102,,,w_252203019,"shop=supermarket, brand=Save-A-Lot"
+"Maytown, AL",,retail,452210,Target,"4889 Promenade Parkway, Bessemer, AL, 35022-7305",+1 205-565-3760,https://www.target.com/sl/bessemer/2375,33.3345455,-86.989741,,,w_263997787,"shop=department_store, brand=Target"
+"Maytown, AL",,retail,445110,Publix,"4965 Promenade Parkway, Bessemer, AL, 35022-7304",+1 205-426-7100,https://www.publix.com/locations/1200,33.3352036,-86.993392,,,w_264009713,"shop=supermarket, brand=Publix"
+"Maytown, AL",,retail,452210,Ross,"4909 Promenade Parkway, Bessemer, AL, 35022",+1 205-426-3593,,33.3352768,-86.9909794,,,w_264037431,"shop=department_store, brand=Ross"
+"Maytown, AL",,retail,445110,Walmart Supercenter,"890 Odum Road, Gardendale, AL, 35071",+1 205-631-8110,https://www.walmart.com/store/1201-gardendale-al,33.6468918,-86.8227658,,,w_305932000,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Maytown, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/vestavia-hills-al-pharmacies/4197-crosshaven-dr-vestavia-hills-al-35243/storeid=4851,33.454524,-86.7302825,,,w_338176764,"shop=chemist, brand=CVS Pharmacy"
+"Maytown, AL",,retail,445110,Publix,"3141 Overton Road, Mountain Brook, AL, 35223",+1 205-967-2188,https://www.publix.com/locations/1085-publix-on-overton,33.4657735,-86.7327702,,,w_351676259,"shop=supermarket, brand=Publix"
+"Maytown, AL",,retail,445110,Winn-Dixie,"3925 Crosshaven Drive, Birmingham, AL, 35243",+1 205-969-2307,https://www.winndixie.com/storedetails/vestavia%20hills/al?search=517,33.4630084,-86.730101,,,w_351676262,"shop=supermarket, brand=Winn-Dixie"
+"Maytown, AL",,retail,445110,Winn-Dixie,"4476 Montevallo Road, Birmingham, AL, 35213",+1 205-951-6768,https://www.winndixie.com/storedetails/birmingham/al?search=435,33.5204494,-86.7286637,,,w_364002420,"shop=supermarket, brand=Winn-Dixie"
+"Maytown, AL",,retail,445110,Winn-Dixie,"1721 Decatur Highway, Fultondale, AL, 35068",+1 205-841-2420,https://www.winndixie.com/storedetails/fultondale/al?search=458,33.6125243,-86.7953049,,,w_364002421,"shop=supermarket, brand=Winn-Dixie"
+"Maytown, AL",,retail,445110,Winn-Dixie,"500 Inverness Corners, Birmingham, AL, 35242",+1 205-991-0230,https://www.winndixie.com/storedetails/birmingham/al?search=445,33.4173085,-86.6945429,,,w_364002423,"shop=supermarket, brand=Winn-Dixie"
+"Maytown, AL",,retail,452210,Kohl's,"1100 Inverness Corners, Birmingham, AL, 35242",+1 205-980-4770,https://www.kohls.com/stores/al/birmingham-657.shtml,33.4158879,-86.6966641,,,w_364002425,"shop=department_store, brand=Kohl's"
+"Maytown, AL",,retail,445110,ALDI,"4701 Center Point Road, Pinson, AL, 35126",+1 800-325-7894,https://stores.aldi.us/al/pinson/4701-pinson-blvd,33.6954244,-86.679563,,,w_364002427,"shop=supermarket, brand=ALDI"
+"Maytown, AL",,retail,452210,Target,"4616 Highway 280, Birmingham, AL, 35242-5028",+1 205-408-7687,https://www.target.com/sl/birmingham-280-corridor/1772,33.4253677,-86.7125261,,,w_372771836,"shop=department_store, brand=Target"
+"Maytown, AL",,retail,445110,Walmart Supercenter,"5355 Highway 280, Hoover, AL, 35242",+1 205-980-5156,https://www.walmart.com/store/2111-hoover-al,33.4219449,-86.6758432,,,w_374365342,"shop=supermarket, brand=Walmart"
+"Maytown, AL",,retail,446110,CVS Pharmacy,"1881 Chace Drive, Hoover, AL, 35244",+1-205-987-7286,https://www.cvs.com/store-locator/hoover-al-pharmacies/1881-chace-rd-hoover-al-35244/storeid=4889,33.3697267,-86.800164,,,w_426044111,"shop=chemist, brand=CVS Pharmacy"
+"Maytown, AL",,retail,452210,Kohl's,"5513 Grove Boulevard, Hoover, AL, 35226",+1 205-403-4549,https://www.kohls.com/stores/al/hoover-1331.shtml,33.3631584,-86.851329,,,w_426237190,"shop=department_store, brand=Kohl's"
+"Maytown, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/helena/7175,33.2765502,-86.8518647,,,w_453550722,"shop=variety_store, brand=Dollar General"
+"Maytown, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/cordova/9358,33.7538345,-87.1632805,,,w_479818571,"shop=variety_store, brand=Dollar General"
+"Maytown, AL",,retail,445110,Piggly Wiggly,"79 Mill Street, Cordova, AL, 35550",+1 205-483-9225,,33.7587045,-87.1816684,,,w_479818572,"shop=supermarket, brand=Piggly Wiggly"
+"Maytown, AL",,retail,452319,Dollar General,"3194 New Castle Road, Birmingham, AL, 35217",+1-205-666-1281,https://www.dollargeneral.com/store-directory/al/birmingham/15423,33.6325615,-86.7845715,,,w_493038555,"shop=variety_store, brand=Dollar General"
+"Maytown, AL",,retail,452319,Family Dollar,,,,33.515159,-86.8074808,,,w_567554015,"shop=variety_store, brand=Family Dollar"
+"Maytown, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/hoover-al-pharmacies/5400-hwy-280-hoover-al-35242/storeid=10181,33.4182388,-86.6714245,,,w_592538911,"shop=chemist, brand=CVS Pharmacy"
+"Maytown, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/warrior-al-pharmacies/434-hwy-31-warrior-al-35180/storeid=4843,33.8061109,-86.8117761,,,w_601115127,"shop=chemist, brand=CVS Pharmacy"
+"Maytown, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/warrior/1642,33.8085468,-86.812445,,,w_601116104,"shop=variety_store, brand=Dollar General"
+"Maytown, AL",,retail,445310,Pink Package Store,,,,33.4305626,-86.7097782,,,w_610588837,shop=alcohol
+"Maytown, AL",,retail,445110,Aldi,"4639 Highway 280, Birmingham, AL, 35242",+1 833-470-7072,https://stores.aldi.us/al/birmingham/4639-hwy-280,33.4263503,-86.7029511,,,w_610605475,"shop=supermarket, brand=Aldi"
+"Maytown, AL",,retail,453110,Martin Flowers,"2101 University Boulevard, Birmingham, AL, 35233",+1 205 254 9999,http://www.martinflowers.net,33.5052527,-86.7973829,,,w_612785583,shop=florist
+"Maytown, AL",,retail,445110,Piggly Wiggly,"1324 Dunnavant Valley Road, Birmingham, AL, 35242",+1 205-918-7120,,33.4064498,-86.6317268,,,w_619892086,"shop=supermarket, brand=Piggly Wiggly, operator=Piggly Wiggly"
+"Maytown, AL",,retail,445110,Publix,"410 Doug Baker Boulevard, Hoover, AL, 35242-2682",+1 205-981-7415,https://www.publix.com/locations/882,33.4089505,-86.6685659,,,w_621546648,"shop=supermarket, brand=Publix"
+"Maytown, AL",,retail,446110,Walgreens,"101 Doug Baker Boulevard, Birmingham, AL, 35242",,https://www.walgreens.com/locator/walgreens-101+doug+baker+blvd-hoover-al-35242/id=7791,33.4087669,-86.6653142,,,w_621547404,"shop=chemist, brand=Walgreens"
+"Maytown, AL",,retail,445120,Shell,,,,33.4355106,-86.6635273,,,w_623235121,"shop=convenience, brand=Shell"
+"Maytown, AL",,retail,445110,Piggly Wiggly,"3000 Montgomery Highway, Homewood, AL, 35209",,,33.4781818,-86.7877788,,,w_623588813,"shop=supermarket, brand=Piggly Wiggly"
+"Maytown, AL",,retail,445120,,,,,33.3552451,-86.747251,,,w_623950944,shop=convenience
+"Maytown, AL",,retail,445120,Circle K,,,,33.3835302,-86.7389778,,,w_623950947,"shop=convenience, brand=Circle K"
+"Maytown, AL",,retail,445110,Walmart Neighborhood Market,"2653 Valleydale Road, Hoover, AL, 35244",+1 205-582-6183,https://www.walmart.com/store/3424-birmingham-al,33.3823187,-86.7392069,,,w_623950948,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Maytown, AL",,retail,445120,,,,,33.526669,-86.7626789,,,w_624120803,shop=convenience
+"Maytown, AL",,retail,445120,The Snack Shack,,,,33.5270152,-86.7615167,,,w_624120804,shop=convenience
+"Maytown, AL",,retail,445110,Publix,"5188 Caldwell Mill Road, Hoover, AL, 35244-1915",+1 205-980-7500,https://www.publix.com/locations/838,33.3859038,-86.7405858,,,w_624532376,"shop=supermarket, brand=Publix"
+"Maytown, AL",,retail,445120,,,,,33.4161958,-86.8429708,,,w_625441385,shop=convenience
+"Maytown, AL",,retail,445120,,,,,33.3729884,-86.8106556,,,w_625444025,shop=convenience
+"Maytown, AL",,retail,445120,,,,,33.352505,-86.8750509,,,w_625447671,shop=convenience
+"Maytown, AL",,retail,445120,,,,,33.4941826,-86.8287605,,,w_625450378,shop=convenience
+"Maytown, AL",,retail,445120,,,,,33.509748,-86.8488119,,,w_625452625,shop=convenience
+"Maytown, AL",,retail,445120,Kangaroo Express,,,,33.5267933,-86.7179562,,,w_625453342,"shop=convenience, brand=Kangaroo Express"
+"Maytown, AL",,retail,445110,Publix,"1325 Montclair Road, Birmingham, AL, 35210-2205",+1 205-951-6626,https://www.publix.com/locations/1059,33.5210723,-86.731183,,,w_626530351,"shop=supermarket, brand=Publix"
+"Maytown, AL",,retail,445110,Publix,"784 Montgomery Highway, Vestavia Hills, AL, 35216-1800",+1 205-824-6005,https://www.publix.com/locations/842,33.4447149,-86.7932822,,,w_626535108,"shop=supermarket, brand=Publix"
+"Maytown, AL",,retail,445110,ALDI,"7400 Crestwood Boulevard, Birmingham, AL, 35210",+1 855-955-2534,https://stores.aldi.us/al/birmingham/7400-crestwood-blvd,33.5306929,-86.7272854,,,w_626785370,"shop=supermarket, brand=ALDI"
+"Maytown, AL",,retail,445110,Walmart Supercenter,"1600 Montclair Road, Irondale, AL, 35210",+1 205-956-0416,https://www.walmart.com/store/1711-birmingham-al,33.5289994,-86.720159,,,w_626785374,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Maytown, AL",,retail,452210,Burlington,,,,33.5270212,-86.7345615,,,w_627044273,"shop=department_store, brand=Burlington"
+"Maytown, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/birmingham-al-pharmacies/105-inverness-plaza-hwy-280-birmingham-al-35242/storeid=4864,33.4193551,-86.6956285,,,w_627646968,"shop=chemist, brand=CVS Pharmacy"
+"Maytown, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/vestavia-hills-al-pharmacies/1100-montgomery-hwy-vestavia-hills-al-35216/storeid=4855,33.4370167,-86.7894831,,,w_628729513,"shop=chemist, brand=CVS Pharmacy"
+"Maytown, AL",,retail,445110,Walmart Neighborhood Market,"312 Palisades Boulevard, Birmingham, AL, 35209",+1 205-870-8101,https://www.walmart.com/store/4504-birmingham-al,33.4678591,-86.8215824,,,w_629714345,"shop=supermarket, brand=Walmart"
+"Maytown, AL",,retail,445110,Walmart Neighborhood Market,"3320 Lorna Road, Hoover, AL, 35216",+1 205-909-4306,https://www.walmart.com/store/3184-hoover-al,33.3929994,-86.7993722,,,w_631085601,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Maytown, AL",,retail,445110,Marino's Market,"2415 Avenue E, Birmingham, AL, 35218",(205) 780-0685,https://www.marinosmarket.com/stores/marinos-ensley,33.5084184,-86.9001632,,,w_649730632,shop=supermarket
+"Maytown, AL",,retail,445110,Publix,"1584 Montgomery Highway, Hoover, AL, 35216",+1 205-824-7218,https://www.publix.com/locations/1207,33.4035299,-86.8083774,,,w_651201182,"shop=supermarket, brand=Publix"
+"Maytown, AL",,retail,445110,Walmart Neighborhood Market,"1300 Montgomery Highway, Vestavia Hills, AL, 35216",+1 205-822-9994,https://www.walmart.com/store/4580-vestavia-hills-al,33.4285722,-86.7918464,,,w_678034773,"shop=supermarket, brand=Walmart"
+"Maytown, AL",,retail,446110,Walgreens,"1801 Montgomery Highway, Hoover, 35244",+1 205 988 9118,https://www.walgreens.com/locator/walgreens-1801+montgomery+hwy-hoover-al-35244/id=13937,33.3770393,-86.802583,,,w_678961801,"shop=chemist, brand=Walgreens"
+"Maytown, AL",,retail,445120,,,,,33.4968994,-86.803116,,,w_683793094,shop=convenience
+"Maytown, AL",,retail,445120,,,,,33.4964522,-86.804155,,,w_683793120,shop=convenience
+"Maytown, AL",,retail,452210,JCPenney,,,,33.2226227,-86.8022847,,,w_698363626,"shop=department_store, brand=JCPenney"
+"Maytown, AL",,retail,446110,Walgreens,"3020 Clairmont Avenue South, Birmingham, AL, 35205",,https://www.walgreens.com/locator/walgreens-3020+clairmont+ave+s-birmingham-al-35205/id=15144,33.5118649,-86.7834911,,,w_723913685,"shop=chemist, brand=Walgreens"
+"Maytown, AL",,retail,446110,Walgreens,"101 Bessemer Super Highway, Midfield, AL, 35228",+1-205-421-7887,https://www.walgreens.com/locator/walgreens-101+bessemer+super+hwy-midfield-al-35228/id=15613,33.4632222,-86.9124529,,,w_740863243,"shop=chemist, brand=Walgreens"
+"Maytown, AL",,retail,445110,ALDI,"1025 Marble Terrace, Hoover, AL, 35244",+1 833-470-7027,https://stores.aldi.us/al/hoover/1025-marble-terrace,33.3540635,-86.8470958,,,w_744135860,"shop=supermarket, brand=ALDI"
+"Maytown, AL",,retail,446110,Payless Drug Store,"585 Morris Majestic Road, Morris, AL, 35116",,,33.7474508,-86.8099225,,,w_753563011,shop=chemist
+"Maytown, AL",,retail,453991,Tobacco Express,"1901 Center Point Parkway, Center Point, AL, 35215",+1-205-856-1155,,33.6364129,-86.6835048,,,w_756761764,shop=tobacco
+"Maytown, AL",,retail,445110,Montgomery Grocery,"3148 33rd Terrace North, Birmingham, AL, 35207",+1-205-849-7911,,33.5572326,-86.8037674,,,w_761483028,shop=supermarket
+"Maytown, AL",,retail,445110,Publix,"6219 Tattersall Boulevard, Hoover, AL, 35242",+1 205-981-3995,https://www.publix.com/locations/1687-publix-at-tattersall-park,33.4198104,-86.6675865,,,w_764046010,"shop=supermarket, brand=Publix"
+"Maytown, AL",,retail,445120,Citgo,,,,33.4072443,-86.8049896,,,w_767444349,"shop=convenience, brand=Citgo"
+"Maytown, AL",,retail,445120,Sunoco,,,,33.4093211,-86.8061766,,,w_767444355,"shop=convenience, brand=Sunoco"
+"Maytown, AL",,retail,446110,CVS Pharmacy,"1675 Montclair Road, Birmingham, AL, 35210",+1-205-592-2424,https://www.cvs.com/store-locator/cvs-pharmacy-address/1675+Montclair+Rd-Birmingham-AL-35210/storeid=4936,33.5263274,-86.71882,,,w_778461007,"shop=chemist, brand=CVS Pharmacy"
+"Maytown, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/mccalla-al-pharmacies/4736-eastern-valley-rd-mccalla-al-35111/storeid=7215,33.3302945,-86.9989679,,,w_803093699,"shop=chemist, brand=CVS Pharmacy"
+"Maytown, AL",,retail,446110,CVS Pharmacy,,,,33.3364669,-86.916587,,,w_803104900,"shop=chemist, brand=CVS Pharmacy"
+"Maytown, AL",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-5271+ross+bridge+pkwy-hoover-al-35226/id=12056,33.353269,-86.8740671,,,w_803104901,"shop=chemist, brand=Walgreens"
+"Maytown, AL",,retail,445310,ABC Liquor,,,,33.3676978,-86.9964906,,,w_803124060,shop=alcohol
+"Maytown, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/hoover-al-pharmacies/2301-john-hawkins-pkwy-hoover-al-35244/storeid=2662,33.3498619,-86.8681618,,,w_803149486,"shop=chemist, brand=CVS Pharmacy"
+"Maytown, AL",,retail,445110,Publix,"2860 Lakeshore Parkway, Birmingham, AL, 35211",+1 205-945-2741,https://www.publix.com/locations/1627,33.4229547,-86.8886476,,,w_803149487,"shop=supermarket, brand=Publix"
+"Maytown, AL",,retail,452210,Target,"531 Brookwood Village, Homewood, AL, 35209",+1-205-994-7531,https://www.target.com/sl/homewood/2796,33.467136,-86.7750993,,,w_803149488,"shop=department_store, brand=Target"
+"Maytown, AL",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-9458+helena+rd-pelham-al-35124/id=4589,33.3450475,-86.7970649,,,w_803452920,"shop=chemist, brand=Walgreens"
+"Maytown, AL",,retail,445110,ALDI,"200 Big Mountain Road, Pelham, AL, 35124",+1 833-470-7032,https://stores.aldi.us/al/pelham/200-big-mtn-rd,33.3438559,-86.7950314,,,w_803452921,"shop=supermarket, brand=ALDI"
+"Maytown, AL",,retail,452319,Five Below,,+1 205-216-6926,https://locations.fivebelow.com/al/bessemer/4921-promenade-parkway,33.3355221,-86.9917611,,,w_803517663,"shop=variety_store, brand=Five Below"
+"Maytown, AL",,retail,452210,TJ Maxx,,,,33.3354993,-86.9913224,,,w_803517664,"shop=department_store, brand=TJ Maxx"
+"Maytown, AL",,retail,445120,Circle K,,,,33.3416377,-86.9232787,,,w_803907781,"shop=convenience, brand=Circle K"
+"Maytown, AL",,retail,445310,Celebrates Package Store,,,,33.3359701,-86.9179116,,,w_803907799,shop=alcohol
+"Maytown, AL",,retail,445310,ABC Liquor Store,,,,33.3356127,-86.9196609,,,w_803907804,shop=alcohol
+"Maytown, AL",,retail,445120,Circle K,,,,33.381911,-86.7947657,,,w_808122486,"shop=convenience, brand=Circle K"
+"Maytown, AL",,retail,445120,Shell,,,,33.3173773,-87.0397531,,,w_809280142,"shop=convenience, brand=Shell"
+"Maytown, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/mccalla/15005,33.3097135,-87.0237909,,,w_809280150,"shop=variety_store, brand=Dollar General"
+"Maytown, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/bessemer/9861,33.3530959,-86.9948275,,,w_814648304,"shop=variety_store, brand=Dollar General"
+"Maytown, AL",,retail,445120,Texaco,,,,33.3093554,-87.0228689,,,w_818714745,"shop=convenience, brand=Texaco"
+"Maytown, AL",,retail,445120,Shell,,,,33.4329041,-86.73894,,,w_819549713,"shop=convenience, brand=Shell"
+"Maytown, AL",,retail,445120,Sunoco,,,,33.4188004,-86.8022379,,,w_819970740,"shop=convenience, brand=Sunoco"
+"Maytown, AL",,retail,445120,Chevron,,,,33.5421056,-86.5871601,,,w_821649122,"shop=convenience, brand=Chevron"
+"Maytown, AL",,retail,445120,Marathon,,,,33.5424731,-86.5861517,,,w_821649124,"shop=convenience, amenity=fuel, brand=Marathon"
+"Maytown, AL",,retail,445120,Shell,,,,33.5318333,-86.695207,,,w_821973582,"shop=convenience, brand=Shell"
+"Maytown, AL",,retail,445120,,,,,33.5331167,-86.7045064,,,w_821973587,shop=convenience
+"Maytown, AL",,retail,445110,Publix,"3201 Endeavor Lane, Vestavia Hills, AL, 35242",+1 205-967-5998,https://www.publix.com/locations/1692-the-market-place-at-the-bray,33.4726186,-86.7033285,,,w_823527411,"shop=supermarket, brand=Publix"
+"Maytown, AL",,retail,445120,BP Shop,,,,33.3588571,-86.7710457,,,w_823920498,"shop=convenience, brand=BP Shop"
+"Maytown, AL",,retail,445120,Circle K,,,,33.4274494,-86.7078698,,,w_824652075,"shop=convenience, brand=Circle K"
+"Maytown, AL",,retail,445110,Publix,"3040 Healthy Way, Vestavia Hills, AL, 35243",+1 205-970-7501,https://www.publix.com/locations/1545,33.4293727,-86.7375532,,,w_824652102,"shop=supermarket, brand=Publix"
+"Maytown, AL",,retail,445120,Sunoco,,,,33.3963248,-86.8068493,,,w_824968890,"shop=convenience, brand=Sunoco"
+"Maytown, AL",,retail,446120,Hwy 31 Nails & Spa,,,,33.3965422,-86.8054608,,,w_824968923,shop=beauty
+"Maytown, AL",,retail,452319,Family Dollar,,,,33.3972421,-86.8021841,,,w_824968989,"shop=variety_store, brand=Family Dollar"
+"Maytown, AL",,retail,446120,Cream De La Creme,,,,33.3955101,-86.7952251,,,w_825417457,shop=beauty
+"Maytown, AL",,retail,445120,Everyday convenience/package store,,,,33.4152158,-86.8051513,,,w_827093747,shop=convenience
+"Maytown, AL",,retail,446120,Queen's Beauty Supply,"633 Tuscaloosa Avenue, Birmingham, AL, 35211",+1-205-202-6841,,33.4988283,-86.8434462,,,w_828919031,shop=beauty
+"Maytown, AL",,retail,445120,,,,,33.4673397,-86.7320211,,,w_831560305,shop=convenience
+"Maytown, AL",,retail,446110,Walgreens,"737 Montgomery Highway, Vestavia, AL, 35216",,https://www.walgreens.com/locator/walgreens-737+montgomery+hwy-vestavia+hills-al-35216/id=9701,33.4446613,-86.7902096,,,w_833611655,"shop=chemist, brand=Walgreens"
+"Maytown, AL",,retail,445110,Winn-Dixie,"2910 Morgan Road, Bessemer, AL, 35022",+1 205-425-2121,https://www.winndixie.com/storedetails/bessemer/al?search=595,33.3354164,-86.9191256,,,w_857607144,"shop=supermarket, brand=Winn-Dixie"
+"Maytown, AL",,retail,445110,Walmart Neighborhood Market,"9085 Highway 119, Alabaster, AL, 35007",+1 205-624-6229,https://www.walmart.com/store/4756/alabaster-al,33.2121987,-86.8298012,,,w_870061882,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Maytown, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/alabaster/9539,33.2138347,-86.8248607,,,w_870061889,"shop=variety_store, brand=Dollar General"
+"Maytown, AL",,retail,445110,Publix,"9200 Highway 119, Alabaster, AL, 35007-5344",+1 205-663-3443,https://www.publix.com/locations/1073,33.2127058,-86.8256557,,,w_870061890,"shop=supermarket, brand=Publix"
+"Maytown, AL",,retail,446110,CVS Pharmacy,,,,33.2146532,-86.8278442,,,w_870061893,"shop=chemist, brand=CVS Pharmacy"
+"Maytown, AL",,retail,445110,Walmart Supercenter,"630 Colonial Promenade Parkway, Alabaster, AL, 35007",+1 205-620-0360,https://www.walmart.com/store/423-alabaster-al,33.2354875,-86.8012835,,,w_870236304,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Maytown, AL",,retail,452210,Belk,,,,33.2327608,-86.8021965,,,w_870236314,"shop=department_store, brand=Belk"
+"Maytown, AL",,retail,452210,Ross,"300 Colonial Promenade Parkway, Alabaster, AL, 35007",+1 205-663-1319,,33.2317788,-86.8021313,,,w_870236316,"shop=department_store, brand=Ross"
+"Maytown, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/alabaster/4579/,33.2320907,-86.8022601,,,w_870513407,"shop=variety_store, brand=Dollar Tree"
+"Maytown, AL",,retail,452210,Target,"3489 Lowery Parkway, Fultondale, AL, 35068-1677",+1 205-453-6032,https://www.target.com/sl/fultondale/2355,33.6059761,-86.8055671,,,w_885665703,"shop=department_store, brand=Target"
+"Maytown, AL",,retail,445120,Chevron,,,,33.6096609,-86.8018741,,,w_885665719,"shop=convenience, brand=Chevron"
+"Maytown, AL",,retail,445110,ALDI,"1601 Morris Avenue, Fultondale, AL, 35068",+1 833-470-7037,https://stores.aldi.us/al/fultondale/1601-morris-ave,33.6082047,-86.8016077,,,w_885665735,"shop=supermarket, brand=ALDI"
+"Maytown, AL",,retail,445120,Shell,,,,33.6084982,-86.8033169,,,w_885665738,"shop=convenience, brand=Shell"
+"Maytown, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/fultondale-al-pharmacies/1535-decatur-hwy-fultondale-al-35068/storeid=4882,33.6095159,-86.7961808,,,w_885665741,"shop=chemist, brand=CVS Pharmacy"
+"Maytown, AL",,retail,445120,,,,,33.6110594,-86.796204,,,w_885665742,shop=convenience
+"Maytown, AL",,retail,446110,Walgreens,"1731 US-31 N, Fultondale, AL, 35068",+1-205-841-3815,https://www.walgreens.com/locator/walgreens-1713+us+highway+31+north-fultondale-al-35068/id=19770,33.6116283,-86.7962075,,,w_885665743,"shop=chemist, brand=Walgreens"
+"Maytown, AL",,retail,445120,RaceWay,"917 Decatur Highway, Fultondale, AL, 35068",,,33.6023547,-86.7976671,,,w_885665785,"shop=convenience, brand=RaceWay"
+"Maytown, AL",,retail,446110,Walgreens,"2301 Center Point Parkway, Birmingham, AL, 35215",205-853-8360,https://www.walgreens.com/locator/walgreens-2301+center+point+pkwy-center+point-al-35215/id=4846,33.6464833,-86.6834009,,,w_888787417,"shop=chemist, brand=Walgreens"
+"Maytown, AL",,retail,445110,ALDI,"520 Gene Reed Road, Birmingham, AL, 35215",+1 833-470-7034,https://stores.aldi.us/al/birmingham/520-gene-reed-rd,33.5980492,-86.6943984,,,w_889018368,"shop=supermarket, brand=ALDI"
+"Maytown, AL",,retail,452319,Family Dollar,,,,33.5880206,-86.6922218,,,w_889018397,"shop=variety_store, brand=Family Dollar"
+"Maytown, AL",,retail,445310,,,,,33.5873586,-86.6959708,,,w_889018399,shop=alcohol
+"Maytown, AL",,retail,445120,,,,,33.5313316,-86.7164363,,,w_889398761,shop=convenience
+"Maytown, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/hueytown-al-pharmacies/3022-allison-bonnett-dr-hueytown-al-35023/storeid=4828,33.451906,-86.979057,,,w_891367237,"shop=chemist, brand=CVS Pharmacy"
+"Maytown, AL",,retail,446110,CVS Pharmacy,"205 Fieldstown Road, Gardendale, 35071",+1-205-631-5638,https://www.cvs.com/store-locator/gardendale-al-pharmacies/205-fieldstown-rd-gardendale-al-35071/storeid=4833,33.6513331,-86.8120368,,,w_910077695,"shop=chemist, brand=CVS Pharmacy"
+"Maytown, AL",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-100+fieldstown+rd-gardendale-al-35071/id=6488,33.6514484,-86.8106714,,,w_910077696,"shop=chemist, brand=Walgreens"
+"Maytown, AL",,retail,446110,,,,,33.218775,-86.825569,,,w_921953497,shop=chemist
+"Maytown, AL",,retail,445110,,,,,33.2170917,-86.8264418,,,w_921953510,shop=supermarket
+"Maytown, AL",,retail,445110,ALDI,"428 Green Springs Highway, Homewood, AL, 35209",+1 833-470-7036,https://stores.aldi.us/al/homewood/428-green-springs-hwy,33.4639495,-86.8215417,,,w_940864110,"shop=supermarket, brand=ALDI"
+"Maytown, AL",,retail,445110,ALDI,"113 Simmsville Road, Alabaster, AL, 35007",+1 833-470-7038,https://stores.aldi.us/al/alabaster/113-simmsville-rd,33.2399113,-86.8154814,,,w_940866324,"shop=supermarket, brand=ALDI"
+"Maytown, AL",,retail,445110,ALDI,"2891 Allison-Bonnett Memorial Drive, Hueytown, AL, 35023",+1 833-470-7029,https://stores.aldi.us/al/hueytown/2891-allison-bonnett-memori,33.4523503,-86.9687604,,,w_940871310,"shop=supermarket, brand=ALDI"
+"Maytown, AL",,retail,445120,Southtown Convenience Store,"900 23rd Street South, Birmingham, AL, 35205",,,33.5051255,-86.7941126,,,w_954779855,shop=convenience
+"Maytown, AL",,retail,445120,RaceWay,,,,33.2778545,-86.8125705,,,w_963775252,"shop=convenience, brand=RaceWay"
+"Maytown, AL",,retail,445110,Marino's Market,"1965 Bessemer Road, Birmingham, AL, 35208",(205) 780-0688,https://www.marinosmarket.com/stores/marinos-central-park,33.4925632,-86.8817666,,,w_965869293,shop=supermarket
+"Maytown, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/birmingham/14177,33.5277327,-86.7624698,,,w_965869294,"shop=variety_store, brand=Dollar General"
+"Maytown, AL",,retail,445110,Piggly Wiggly,"6501 1st Avenue North, Birmingham, AL, 35206",+1 205-776-8755,https://www.thepigbham.com/woodlawn/,33.5484373,-86.7407993,,,w_965869296,"shop=supermarket, brand=Piggly Wiggly"
+"Maytown, AL",,retail,446110,CVS Pharmacy,"632 Tuscaloosa Avenue, Birmingham, AL, 35211",205-781-8495,https://www.cvs.com/store-locator/birmingham-al-pharmacies/632-tuscaloosa-avenue-birmingham-al-35211/storeid=4871,33.5001329,-86.8431857,,,w_966069784,"shop=chemist, brand=CVS Pharmacy"
+"Maytown, AL",,retail,446110,CVS Pharmacy,"7501 1st Avenue North, Birmingham, AL, 35206",205-833-2972,,33.5592111,-86.730246,,,w_966069785,"shop=chemist, brand=CVS Pharmacy"
+"Maytown, AL",,retail,445110,Piggly Wiggly,"41 Church Street, Mountain Brook, AL, 35213",+1 205-802-9078,https://www.thepigbham.com/crestline/,33.502488,-86.7547279,,,w_966316434,"shop=supermarket, brand=Piggly Wiggly"
+"Maytown, AL",,retail,445110,Sprouts Farmers Market,"5265 US Highway 280, Birmingham, AL, 35242",+1 205-263-2808,https://www.sprouts.com/store/al/birmingham/us-hwy-280/,33.4201203,-86.683399,,,w_968339835,"shop=supermarket, brand=Sprouts Farmers Market"
+"Maytown, AL",,retail,452319,Five Below,,+1 205-408-5213,https://locations.fivebelow.com/al/birmingham/5267-us-280,33.4197581,-86.6835648,,,w_968339836,"shop=variety_store, brand=Five Below"
+"Maytown, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/warrior/12990,33.852156,-86.8161815,,,w_969983990,"shop=variety_store, brand=Dollar General"
+"Maytown, AL",,retail,445120,,,,,33.4737597,-86.6945022,,,w_1009609521,shop=convenience
+"Maytown, AL",,retail,445110,Walmart Supercenter,"2473 Hackworth Road, Birmingham, AL, 35214",+1 205-798-9721,https://www.walmart.com/store/1158-adamsville-al,33.5791744,-86.9243908,,,w_1017629680,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Maytown, AL",,retail,445310,Hop City,2924 3rd Avenue South,,https://hopcitybeer.com/,33.5166426,-86.7893961,,,w_1070343763,shop=alcohol
+"Maytown, AL",,retail,445120,Buc-ee's,"6900 Buc-ee's Boulevard, Leeds, AL, 35094",(979) 238-6390,https://buc-ees.com,33.5444227,-86.5866156,,,w_1074628131,"shop=convenience, brand=Buc-ee's"
+"Maytown, AL",,retail,445120,,,,,33.4889834,-86.640891,,,w_1084509379,shop=convenience
+"Maytown, AL",,retail,445120,,,,,33.5266071,-86.6643527,,,w_1084509381,shop=convenience
+"Maytown, AL",,retail,445120,,,,,33.7499272,-87.0588985,,,w_1117295828,shop=convenience
+"Maytown, AL",,retail,445120,RaceTrac,"600 Fieldstown Road, Gardendale, AL, 35071",205-631-8203,,33.6530173,-86.8232014,,,w_1140388638,"shop=convenience, brand=RaceTrac"
+"Maytown, AL",,retail,452319,Dollar General,"Municipal Lane, Birmingham, AL, 35214",,https://www.dollargeneral.com/store-directory/al/birmingham/17572,33.62884,-86.9075539,,,w_1147222534,"shop=variety_store, brand=Dollar General"
+"Maytown, AL",,retail,445120,Citgo,"760 Heflin Avenue East, Birmingham, AL, 35214",,,33.5749673,-86.8859202,,,w_1150174268,"shop=convenience, brand=Citgo"
+"Maytown, AL",,retail,445110,Piggly Wiggly,"1619 Forestdale Boulevard, Birmingham, AL, 35214",+1 205-791-1833,,33.5699561,-86.8982846,,,w_1150183252,"shop=supermarket, brand=Piggly Wiggly"
+"Maytown, AL",,retail,445120,,"Walker Chapel Road, Fultondale, AL, 35068",,,33.6124597,-86.8505511,,,w_1151105635,shop=convenience
+"Maytown, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/birmingham/22129,33.4383802,-86.8678934,,,w_1154855778,"shop=variety_store, brand=Dollar General"
+"Maytown, AL",,retail,445120,Marathon,,,,33.54277,-86.825171,,,w_1161366789,"shop=convenience, brand=Marathon"
+"Maytown, AL",,retail,452319,Dollar Tree,,,,33.4997495,-86.9803354,,,w_1171078642,"shop=variety_store, brand=Dollar Tree"
+"Maytown, AL",,retail,445120,,,,,33.4923543,-86.972876,,,w_1173198817,shop=convenience
+"Maytown, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/pleasant-grove-al-pharmacies/108-park-rd-pleasant-grove-al-35127/storeid=4916,33.4912792,-86.9588754,,,w_1173212555,"shop=chemist, brand=CVS Pharmacy"
+"Maytown, AL",,retail,445120,5pts West Food Mart,,,,33.4969083,-86.8772796,,,w_1212008691,shop=convenience
+"Maytown, AL",,retail,445120,Nguyen Hoang,,,,33.5317826,-86.7696742,,,w_1212011843,shop=convenience
+"Maytown, AL",,retail,445110,Walmart Supercenter,"690 Highway 78, Sumiton, AL, 35148",+1 205-648-4100,https://www.walmart.com/store/2723-sumiton-al,33.7454027,-87.0417514,,,w_1215118435,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Maytown, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/mount-olive/10255,33.6723115,-86.8379908,,,w_1234954647,"shop=variety_store, brand=Dollar General"
+"Maytown, AL",,retail,445120,Love's,"Jasper, AL",,,33.791036,-87.2424705,,,w_1258811612,"shop=convenience, brand=Love's"
+"Maytown, AL",,retail,445110,Dollar General Market,"1200 Pinson Valley Parkway, Tarrant, AL, 35217",+1-205-558-6790,https://www.dollargeneral.com/store-directory/al/birmingham/4301,33.5815213,-86.7769856,,,w_1267835972,"shop=supermarket, brand=Dollar General"
+"Maytown, AL",,retail,452319,Family Dollar,"2100 Pinson Valley Parkway, Tarrant, AL, 35217",+1-205-445-9970,https://www.familydollar.com/locations/al/tarrant/20415/,33.5891291,-86.7666224,,,w_1267989582,"shop=variety_store, brand=Family Dollar"
+"Maytown, AL",,retail,445120,RaceWay,,,,33.6057917,-86.7542555,,,w_1287814316,"shop=convenience, brand=RaceWay"
+"Maytown, AL",,retail,445120,Stop & Shop Food Mart,"820 Overton Avenue, Tarrant, AL, 35217",,,33.5751826,-86.7818825,,,w_1305844841,"shop=convenience, amenity=fuel"
+"Maytown, AL",,retail,445110,Winn-Dixie,,,,33.3462256,-86.6312701,,,w_1322310227,"shop=supermarket, brand=Winn-Dixie"
+"Maytown, AL",,retail,445120,Chevron,,,,33.5984876,-86.6443431,,,w_1335706814,"shop=convenience, brand=Chevron"
+"Maytown, AL",,retail,446110,Walgreens,,,,33.4967913,-86.8759061,,,w_1336574212,"shop=chemist, brand=Walgreens"
+"Maytown, AL",,retail,445110,Walmart Supercenter,"5919 Trussville Crossings Parkway, Birmingham, AL, 35235",+1 205-661-1957,https://www.walmart.com/store/2713-birmingham-al,33.6389856,-86.6294761,,,w_1340865815,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Maytown, AL",,retail,445120,,,,,33.5118359,-86.8197456,,,w_1355649386,shop=convenience
+"Maytown, AL",,retail,445110,Walmart Supercenter,"1007 Red Farmer Drive, Hueytown, AL, 35023",+1 205-744-9997,https://www.walmart.com/store/4497-hueytown-al,33.4605834,-86.9682841,,,w_1388698894,"shop=supermarket, brand=Walmart, operator=Walmart"

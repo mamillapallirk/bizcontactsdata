@@ -1,0 +1,20 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Joseph City, AZ",,retail,445120,Flying J,,,,35.0154208,-110.674287,,,n_1578848257,shop=convenience
+"Joseph City, AZ",,retail,445110,Safeway,"702 West Hopi Drive, Holbrook, AZ, 86025",+1 928-524-3313,https://local.safeway.com/safeway/az/holbrook/702-w-hopi-dr.html,34.9033046,-110.1673152,,,n_2882822522,"shop=supermarket, brand=Safeway"
+"Joseph City, AZ",,retail,452319,Family Dollar,"407 West Hopi Drive, Holbrook, AZ, 86025",,,34.90176,-110.1642067,,,n_5129798303,"shop=variety_store, brand=Family Dollar"
+"Joseph City, AZ",,retail,445120,The Route 66 Stop,,,,34.9562653,-110.3325364,,,n_6179214826,shop=convenience
+"Joseph City, AZ",,retail,445120,Super Express Mart,"866 Navajo Boulevard, Holbrook, AZ, 86025",,,34.9078088,-110.1576544,,,n_9139763532,shop=convenience
+"Joseph City, AZ",,retail,445110,Walmart Supercenter,"700 Mikes Pike Street, Winslow, AZ, 86047",+1 928-289-4641,https://www.walmart.com/store/1328-winslow-az,35.0432661,-110.7014075,,,w_51113523,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Joseph City, AZ",,retail,445120,Chevron,,,,35.0405405,-110.6985961,,,w_177517529,"shop=convenience, brand=Chevron"
+"Joseph City, AZ",,retail,445120,,,,,34.9054232,-110.210675,,,w_226825608,shop=convenience
+"Joseph City, AZ",,retail,445120,Maverik,,,,35.0413556,-110.696954,,,w_480105233,"shop=convenience, brand=Maverik, operator=Maverik"
+"Joseph City, AZ",,retail,445120,76,,,,35.0368345,-110.7236496,,,w_532800517,"shop=convenience, brand=76"
+"Joseph City, AZ",,retail,445120,Food Mart,"1300 Navajo Boulevard, Holbrook, AZ, 86025",,,34.915124,-110.1537324,,,w_598409547,shop=convenience
+"Joseph City, AZ",,retail,445120,,"1381 Navajo Boulevard, AZ, 86025",,,34.9160339,-110.1548529,,,w_598412266,shop=convenience
+"Joseph City, AZ",,retail,445120,Food Mart,,,,34.9102474,-110.1584189,,,w_598414092,shop=convenience
+"Joseph City, AZ",,retail,445120,Woody's Food Stores,"950 Navajo Boulevard, Holbrook, AZ, 86025",,,34.9087871,-110.1576027,,,w_598414941,shop=convenience
+"Joseph City, AZ",,retail,445120,Jack Rabbit Trading Post,"3386 Historic US 66, Joseph City, AZ, 86032",,https://www.jackrabbittradingpost.com,34.9681976,-110.4304729,,,w_779833619,shop=convenience
+"Joseph City, AZ",,retail,452319,Dollar General,"1637 Navajo Boulevard, Holbrook, AZ, 86025",,https://www.dollargeneral.com/store-directory/az/holbrook/6739,34.9196287,-110.1513037,,,w_1055116780,"shop=variety_store, brand=Dollar General"
+"Joseph City, AZ",,retail,445120,,,,,34.9548461,-110.3113058,,,w_1086229245,shop=convenience
+"Joseph City, AZ",,retail,445120,,"404 Navajo Boulevard, Holbrook, AZ, 86025",,,34.9040654,-110.157724,,,w_1171775500,shop=convenience
+"Joseph City, AZ",,retail,445120,Package Liquor,"2310 Navajo Boulevard, Holbrook, AZ, 86025",,,34.928981,-110.1398387,,,w_1171783632,shop=convenience

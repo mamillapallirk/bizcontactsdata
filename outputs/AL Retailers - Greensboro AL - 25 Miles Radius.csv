@@ -1,0 +1,21 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Greensboro, AL",,retail,452319,Family Dollar,,,,32.9977066,-87.6225516,,,n_2681643924,"shop=variety_store, brand=Family Dollar"
+"Greensboro, AL",,retail,452210,Biglot's,,,,32.6155847,-87.3192686,,,n_4688067795,shop=department_store
+"Greensboro, AL",,retail,445110,Walmart Supercenter,"969 Us Highway 80 West, Demopolis, AL, 36732",+1 334-289-2385,https://www.walmart.com/store/731-demopolis-al,32.493003,-87.849349,,,n_5315596464,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Greensboro, AL",,retail,453110,Forever Lou's,"1301 Main Street, Greensboro, AL, 36744",+1 334 662 3045,https://www.facebook.com/telenaaiken/,32.7040183,-87.5946439,,,n_8511661701,shop=florist
+"Greensboro, AL",,retail,446120,Irene's Beauty Palace,"1303 Main Street, Greensboro, AL, 36744",+1 334 624 3190,,32.7040241,-87.5947348,,,n_8522730283,shop=beauty
+"Greensboro, AL",,retail,453110,,"1311 Main Street, Greensboro, AL, 36744",,,32.7040254,-87.5949703,,,n_8572639750,shop=florist
+"Greensboro, AL",,retail,446120,,,,,32.7022611,-87.5958328,,,n_8644750353,shop=beauty
+"Greensboro, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/greensboro-al-pharmacies/675-tuscaloosa-street-greensboro-al-36744/storeid=4917,32.7007623,-87.5946795,,,n_9084470062,"shop=chemist, brand=CVS Pharmacy"
+"Greensboro, AL",,retail,445110,Food Outlet,"641 Tuscaloosa Street, Greensboro, AL, 36744",+1 334-624-8338,,32.7004392,-87.5946784,,,n_10084844411,shop=supermarket
+"Greensboro, AL",,retail,452319,Dollar Tree,,,,32.4972621,-87.8499603,,,n_12385189298,"shop=variety_store, brand=Dollar Tree"
+"Greensboro, AL",,retail,445120,Circle K,,,,32.9883135,-87.7887562,,,n_13054180233,"shop=convenience, brand=Circle K"
+"Greensboro, AL",,retail,445120,,,,,32.9883099,-87.7887576,,,w_461647508,shop=convenience
+"Greensboro, AL",,retail,445120,Love's,,,,32.8664304,-87.9225424,,,w_838828844,"shop=convenience, brand=Love's"
+"Greensboro, AL",,retail,446120,Swan Salon,"Main Street, Greensboro, AL",,,32.7039791,-87.5959857,,,w_915660354,shop=beauty
+"Greensboro, AL",,retail,452319,Dollar General,"Tuscaloosa Street, Greensboro, AL, 36744",,,32.7054521,-87.5950983,,,w_915660360,"shop=variety_store, brand=Dollar General"
+"Greensboro, AL",,retail,452319,Family Dollar,"Tuscaloosa Street, Greensboro, AL, 36744",,,32.705067,-87.5950469,,,w_915660361,"shop=variety_store, brand=Family Dollar"
+"Greensboro, AL",,retail,446120,Mission Mark,"1102 Tuscaloosa Street, Greensboro, AL",+1 334 624 0027,https://www.facebook.com/missionmarkbeauty/,32.7054654,-87.5959354,,,w_915660362,shop=cosmetics
+"Greensboro, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/moundville/1075,33.0031734,-87.6174163,,,w_1019605148,"shop=variety_store, brand=Dollar General"
+"Greensboro, AL",,retail,452319,Family Dollar,,,,32.6199004,-87.3170291,,,w_1058041938,"shop=variety_store, brand=Family Dollar"
+"Greensboro, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/uniontown/8392,32.4501115,-87.515229,,,w_1082140821,"shop=variety_store, brand=Dollar General"

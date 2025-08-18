@@ -1,0 +1,16 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Red Lake, AZ",,retail,445120,Parks Store,"12963 Brannigan Park Road, AZ",+1 928 635-4741,,35.260079,-111.9485475,,,n_482811852,shop=convenience
+"Red Lake, AZ",,retail,445120,Parks Feed and Mercantile,,+1 928 635-1310,http://www.parksfeedandmercantile.com,35.2573452,-111.939455,,,n_6180591064,"shop=convenience, amenity=cafe"
+"Red Lake, AZ",,retail,445110,Great Carmania,"732 East Route 66, Williams, AZ, 86046",928-635-5380,,35.2532635,-112.1797229,,,n_12948767751,shop=supermarket
+"Red Lake, AZ",,retail,445120,Pilot,,,,35.2386247,-111.8220409,,,w_264996050,"shop=convenience, brand=Pilot"
+"Red Lake, AZ",,retail,445110,Safeway,"637 West Route 66, Williams, AZ, 86046",+1 928-635-0500,https://local.safeway.com/safeway/az/williams/637-w-route-66.html,35.2480143,-112.1941495,,,w_323011617,"shop=supermarket, brand=Safeway"
+"Red Lake, AZ",,retail,445120,,"1050 North Grand Canyon Boulevard, Williams, AZ, 86040",,,35.2621005,-112.1930845,,,w_323191117,shop=convenience
+"Red Lake, AZ",,retail,445120,Chevron,,,,35.6525424,-112.1387881,,,w_323191155,"shop=convenience, amenity=fuel, brand=Chevron"
+"Red Lake, AZ",,retail,445120,Shell,"93 Lewis Avenue, Ash Fork, AZ, 86320",+1 928-637-2268,https://find.shell.com/us/fuel/10071782-93-lewis-ave/en_US,35.2229746,-112.4791895,,,w_323401773,"shop=convenience, brand=Shell"
+"Red Lake, AZ",,retail,445120,Mobil Mart,,,,35.223503,-112.4788307,,,w_323401776,"shop=convenience, brand=Mobil Mart"
+"Red Lake, AZ",,retail,445120,Circle K,"222 West Route 66, Williams, AZ, 86046",,https://www.circlek.com/store-locator/US/williams/222-w-rt-66/2700817,35.2506416,-112.1890495,,,w_497746939,"shop=convenience, brand=Circle K"
+"Red Lake, AZ",,retail,452319,Family Dollar,"155 West Park Avenue, Ash Fork, AZ, 86320",+1 928-255-5183,https://locations.familydollar.com/az/ash-fork/29385/,35.2222856,-112.4807134,,,w_660307119,"shop=variety_store, brand=Family Dollar"
+"Red Lake, AZ",,retail,445120,Trading Post,,,,35.218577,-112.4989647,,,w_838615628,shop=convenience
+"Red Lake, AZ",,retail,445120,,,,,35.2628065,-112.1943027,,,w_1063712863,shop=convenience
+"Red Lake, AZ",,retail,452319,Family Dollar,"901 West Route 66, Williams, AZ, 86046-2229",+1 928-255-5350,https://locations.familydollar.com/az/williams/901-west-route-66,35.2478273,-112.1966369,,,w_1186899358,"shop=variety_store, brand=Family Dollar"
+"Red Lake, AZ",,retail,445120,Maverik,,,https://maverik.com/,35.2609441,-112.1925916,,,w_1342591714,"shop=convenience, brand=Maverik"

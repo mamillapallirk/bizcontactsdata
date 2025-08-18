@@ -1,0 +1,9 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Leupp, AZ",,retail,445110,Walmart Supercenter,"700 Mikes Pike Street, Winslow, AZ, 86047",+1 928-289-4641,https://www.walmart.com/store/1328-winslow-az,35.0432661,-110.7014075,,,w_51113523,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Leupp, AZ",,retail,445120,Chevron,,,,35.0405405,-110.6985961,,,w_177517529,"shop=convenience, brand=Chevron"
+"Leupp, AZ",,retail,445120,Marathon,,,,35.1054191,-111.0324242,,,w_364257466,"shop=convenience, brand=Marathon"
+"Leupp, AZ",,retail,445120,Shell,"13673 Townsend Winona Road, AZ",,,35.2028062,-111.4087016,,,w_458844488,"shop=convenience, brand=Shell"
+"Leupp, AZ",,retail,445120,Maverik,,,,35.0413556,-110.696954,,,w_480105233,"shop=convenience, brand=Maverik, operator=Maverik"
+"Leupp, AZ",,retail,445120,76,,,,35.0368345,-110.7236496,,,w_532800517,"shop=convenience, brand=76"
+"Leupp, AZ",,retail,445120,Winona Trading Post,"13673 Townsend Winona Road, AZ",,,35.2027332,-111.4082072,,,w_1085728830,shop=convenience
+"Leupp, AZ",,retail,445120,Chevron,,,,35.1664028,-111.2697541,,,w_1086232335,"shop=convenience, brand=Chevron"

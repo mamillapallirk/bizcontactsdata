@@ -1,0 +1,35 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"California City, CA",,retail,445120,Jawbone Canyon Store,,,,35.2958928,-118.006213,,,n_978789049,"shop=convenience, amenity=fuel"
+"California City, CA",,retail,452319,Family Dollar,,,,35.0481568,-118.171098,,,n_3977061531,"shop=variety_store, brand=Family Dollar"
+"California City, CA",,retail,445310,Crain's Market,"12025 Gardiner St, Boron, CA, 93516",,,35.0004267,-117.6567591,,,n_4364199394,shop=alcohol
+"California City, CA",,retail,445110,Boron Food Mart,"27037 Twenty Mule Team Road, Boron, CA, 93516-1645",,,34.9998474,-117.6490823,,,n_4364218558,shop=supermarket
+"California City, CA",,retail,453110,Boron Flowers & Gifts,"26901 Twenty Mule Team Road, Boron, CA, 93516",,,34.9999312,-117.652177,,,n_4365635476,shop=florist
+"California City, CA",,retail,445120,ampm,,,,34.864891,-118.169489,,,n_6176017536,"shop=convenience, brand=ampm"
+"California City, CA",,retail,445120,AM/PM,,,,35.0580438,-118.1749452,,,n_6772533795,shop=convenience
+"California City, CA",,retail,445310,,,,,35.1264383,-117.974017,,,n_7578972261,shop=alcohol
+"California City, CA",,retail,453991,,,,,35.1262889,-117.9740148,,,n_7578972262,shop=tobacco
+"California City, CA",,retail,453991,,,,,35.1262712,-117.9755382,,,n_7578972264,shop=tobacco
+"California City, CA",,retail,445120,Cactus Market,"California City Boulevard, California City, CA",,,35.1262728,-118.002212,,,n_7578972276,shop=convenience
+"California City, CA",,retail,445120,,,,,35.1262321,-117.974937,,,n_7590415683,shop=convenience
+"California City, CA",,retail,445120,,,,,35.0632806,-118.1766293,,,n_9175586356,shop=convenience
+"California City, CA",,retail,445120,Shell Shop,,,,35.054517,-118.1738146,,,n_10015208957,"shop=convenience, brand=Shell Shop"
+"California City, CA",,retail,445110,Stater Bros. Markets,"16920 California 14, Mojave, CA, 93501",+1 661-824-2719,https://www.staterbros.com/stores/102,35.0680665,-118.1736645,,,n_11651078049,"shop=supermarket, brand=Stater Bros."
+"California City, CA",,retail,445120,Edwards AFB Express,,,,34.9195059,-117.9277587,,,n_11891670121,shop=convenience
+"California City, CA",,retail,445110,,,,,35.0145265,-117.8380001,,,w_407052733,shop=supermarket
+"California City, CA",,retail,452210,Edwards AFB Base Exchange (BX),,,,34.9224644,-117.9265399,,,w_450353721,"shop=department_store, operator=AAFES"
+"California City, CA",,retail,445110,Edwards AFB Commissary,,,,34.9223546,-117.9276983,,,w_450353722,"shop=supermarket, operator=DLA"
+"California City, CA",,retail,445110,Dollar General Market,"California City, CA",,https://www.dollargeneral.com/store-directory/ca/california-city/14147,35.1248572,-117.9555434,,,w_471492202,"shop=supermarket, brand=Dollar General"
+"California City, CA",,retail,452319,Family Dollar,,,,35.1264615,-117.9575764,,,w_471492206,"shop=variety_store, brand=Family Dollar"
+"California City, CA",,retail,452319,Dollar General,"3546 West Rosamond Boulevard, Rosamond, CA, 93560",,https://www.dollargeneral.com/store-directory/ca/rosamond/16540,34.8633358,-118.1943542,,,w_664771881,"shop=variety_store, brand=Dollar General"
+"California City, CA",,retail,452319,Family Dollar,"26645 Twenty Mule Team Road, Boron, CA, 93516",,,35.0003799,-117.6560863,,,w_707134558,"shop=variety_store, brand=Family Dollar"
+"California City, CA",,retail,445120,Fastrip,,,,35.047278,-118.1714098,,,w_993169245,shop=convenience
+"California City, CA",,retail,445110,Grocery Outlet,,,,34.8631664,-118.1778071,,,w_1007374950,"shop=supermarket, brand=Grocery Outlet"
+"California City, CA",,retail,445120,7-Eleven,,,https://www.7-eleven.com/locations/ca/rosamond/2536-rosamond-blvd-41317,34.8636178,-118.1765286,,,w_1007374958,"shop=convenience, brand=7-Eleven"
+"California City, CA",,retail,445120,Love's,,,,35.0120159,-117.6444514,,,w_1007487173,"shop=convenience, brand=Love's"
+"California City, CA",,retail,445120,Fastrip,,,https://fastrip.com/,34.8637913,-118.1627287,,,w_1010280694,"shop=convenience, brand=Fastrip"
+"California City, CA",,retail,452319,Family Dollar,,,,34.8648831,-118.1622636,,,w_1010280701,"shop=variety_store, brand=Family Dollar"
+"California City, CA",,retail,445120,Shell,601 California City Boulevard,,https://find.shell.com/us/fuel/12542066-601-california-city-blvd,35.125758,-118.1174233,,,w_1034835075,"shop=convenience, brand=Shell"
+"California City, CA",,retail,446110,Rite Aid,2938 West Rosamond Boulevard,,https://www.riteaid.com/locations/ca/rosamond/2938-west-rosamond-blvd.html,34.8634592,-118.1841064,,,w_1051944347,"shop=chemist, brand=Rite Aid"
+"California City, CA",,retail,452319,Dollar General,"2475 Sierra Highway, Rosamond, CA, 93560",,https://www.dollargeneral.com/store-directory/ca/rosamond/18807,34.8567663,-118.162592,,,w_1051944357,"shop=variety_store, brand=Dollar General"
+"California City, CA",,retail,452319,Randsburg General Store,"35 Butte Avenue, Randsburg, CA, 93554",,http://www.randsburg.com/text/mail.html,35.367975,-117.6562614,,,w_1212669621,shop=general
+"California City, CA",,retail,445110,Albertsons,,,https://local.albertsons.com/ca/rosamond/2547-rosamond.html,34.8655593,-118.1767355,,,r_5687550,"shop=supermarket, brand=Albertsons"

@@ -1,0 +1,15 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Fordyce, AR",,retail,445120,The Corner,,,,33.7233902,-92.6185576,,,n_4501765689,shop=convenience
+"Fordyce, AR",,retail,445120,Littlefield Express,,,,33.6115489,-92.764313,,,n_11134782390,shop=convenience
+"Fordyce, AR",,retail,445120,Missile Mart,,,,33.6095242,-92.0711315,,,n_11135741424,shop=convenience
+"Fordyce, AR",,retail,445110,Mad Butcher,920 West 4th Street,,,33.8134195,-92.4221453,,,n_12000069800,shop=supermarket
+"Fordyce, AR",,retail,452319,Family Dollar,"317 South Martin Street, Warren, AR, 71671",,https://www.familydollar.com/locations/ar/warren/21256,33.6105058,-92.0706021,,,n_12160785667,"shop=variety_store, brand=Family Dollar"
+"Fordyce, AR",,retail,452319,Family Dollar,,,,33.7235109,-92.6192645,,,w_795095924,"shop=variety_store, brand=Family Dollar"
+"Fordyce, AR",,retail,452210,Walmart,"1123 Highway 79 167 Bypass, Fordyce, AR, 71742",+1-870-352-5167,https://www.walmart.com/store/339-fordyce-ar,33.8204634,-92.4355726,,,w_1158558915,"shop=department_store, brand=Walmart, operator=Walmart"
+"Fordyce, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/rison/4939,33.9578179,-92.2009677,,,w_1198544139,"shop=variety_store, brand=Dollar General"
+"Fordyce, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/hampton/3370,33.5310868,-92.4693391,,,w_1200860573,"shop=variety_store, brand=Dollar General"
+"Fordyce, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/camden/16259,33.612082,-92.7607,,,w_1200912863,"shop=variety_store, brand=Dollar General"
+"Fordyce, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/bearden/15002,33.7303387,-92.6259618,,,w_1200912865,"shop=variety_store, brand=Dollar General"
+"Fordyce, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/rison/22759,33.8215744,-92.0033239,,,w_1200994283,"shop=variety_store, brand=Dollar General"
+"Fordyce, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/rison/16551,33.9357348,-92.0296029,,,w_1200994294,"shop=variety_store, brand=Dollar General"
+"Fordyce, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/warren/18224,33.6314804,-92.0627317,,,w_1201022288,"shop=variety_store, brand=Dollar General"

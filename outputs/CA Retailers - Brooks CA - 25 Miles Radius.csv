@@ -1,0 +1,83 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Brooks, CA",,retail,445110,Westlake IGA Market,,,,38.5545359,-121.7870207,,,n_711012114,shop=supermarket
+"Brooks, CA",,retail,445110,Trader Joe's,"885 Russell Boulevard, Davis, CA, 95616",+1 530-757-2693,https://www.traderjoes.com/,38.5467537,-121.7614973,,,n_1052335476,"shop=supermarket, brand=Trader Joe's"
+"Brooks, CA",,retail,445110,Savemart,,,,38.559607,-121.7577404,,,n_2188177617,shop=supermarket
+"Brooks, CA",,retail,445120,Sage Street Market,"201 Sage Street, Davis, 94566",+1 530-759-0663,https://housing.ucdavis.edu/dining/sage-street/,38.5412859,-121.7717517,,,n_2281654814,shop=convenience
+"Brooks, CA",,retail,445110,Raley's,"375 West Main Street, Woodland, CA, 95695",,,38.6766059,-121.8012339,,,n_2551989425,"shop=supermarket, brand=Raley's"
+"Brooks, CA",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ca/arbuckle/14972,39.012402,-122.0569087,,,n_3360384197,"shop=variety_store, brand=Dollar General"
+"Brooks, CA",,retail,445120,ampm,"450 County Road 102, Woodland, CA, 95776",,,38.6760717,-121.7291872,,,n_4047530706,"shop=convenience, brand=ampm"
+"Brooks, CA",,retail,452210,Walmart,"1720 East Main Street, Woodland, CA, 95776",+1 530-668-1060,https://www.walmart.com/store/2190-woodland-ca,38.6756434,-121.7412552,,,n_4047545109,"shop=department_store, brand=Walmart, operator=Walmart"
+"Brooks, CA",,retail,445120,J&J Gas Mart,,,,39.0132479,-122.0568978,,,n_4247961991,shop=convenience
+"Brooks, CA",,retail,445310,st. clement vineyards,,,,38.5188428,-122.4919358,,,n_4343788389,shop=alcohol
+"Brooks, CA",,retail,452319,Family Dollar,,,,38.5543659,-121.7870159,,,n_4356618301,"shop=variety_store, brand=Family Dollar"
+"Brooks, CA",,retail,445310,Saddleback Cellars,"7802 Money Road, 94558",7079441305,,38.4493933,-122.3882718,,,n_4629515789,shop=wine
+"Brooks, CA",,retail,445110,Walmart Neighborhood Market,"1250 East Gibson Road, Woodland, CA, 95776",+1 530-665-4306,https://www.walmart.com/store/5606-woodland-ca,38.661335,-121.763685,,,n_5315597553,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Brooks, CA",,retail,445110,Walmart Neighborhood Market,"215 California Street, Woodland, CA, 95695",+1 530-665-4638,https://www.walmart.com/store/4127-woodland-ca,38.680872,-121.787924,,,n_5315598128,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Brooks, CA",,retail,445110,Grocery Outlet,,,,38.6760568,-121.7587008,,,n_5326270116,"shop=supermarket, brand=Grocery Outlet"
+"Brooks, CA",,retail,452210,Ross,"1388 East Main Street, Woodland, CA, 95776",+1 530-661-4778,,38.6762932,-121.7573109,,,n_5326270120,"shop=department_store, brand=Ross"
+"Brooks, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/woodland/4760/,38.6754712,-121.7454213,,,n_5326303604,"shop=variety_store, brand=Dollar Tree"
+"Brooks, CA",,retail,445110,Food 4 Less,,,,38.6750418,-121.7449944,,,n_5326303605,"shop=supermarket, brand=Food 4 Less"
+"Brooks, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/woodland/1206/,38.679975,-121.7851467,,,n_5326319896,"shop=variety_store, brand=Dollar Tree"
+"Brooks, CA",,retail,445120,Spanish Flat Country Store & Deli,"4318 Knoxville Road, 94558",7079661600,,38.5334367,-122.2273067,,,n_5678599527,shop=convenience
+"Brooks, CA",,retail,445110,Nugget Markets,"157 Main Street, Woodland, CA, 95695",530-662-5479,https://www.nuggetmarket.com/locations/woodland/,38.6782103,-121.7806092,,,n_6262280253,shop=supermarket
+"Brooks, CA",,retail,445120,Food Mart,,,,39.0243043,-122.0647088,,,n_6357137343,shop=convenience
+"Brooks, CA",,retail,446120,Ulta Beauty,"2135 Bronze Star Drive, Woodland, CA, 95776",+1 530-631-0379,https://www.ulta.com/stores/woodland-ca-1397,38.6720477,-121.7273029,,,n_7108490965,"shop=beauty, brand=Ulta Beauty"
+"Brooks, CA",,retail,445120,7-Eleven,"1229 East Main Street, Woodland, CA, 95776-3534",+1 530-666-6288,https://www.7-eleven.com/locations/ca/woodland/1229-east-main-st-21433,38.6778084,-121.7650026,,,n_7108559569,"shop=convenience, brand=7-Eleven"
+"Brooks, CA",,retail,445310,Louis martini vinery,,,,38.4913162,-122.4523637,,,n_7148119485,shop=wine
+"Brooks, CA",,retail,446110,Walgreens,"10 West Main Street, Woodland, CA, 95695",,https://www.walgreens.com/locator/walgreens-10+w+main+st-woodland-ca-95695/id=4107,38.6779505,-121.7845622,,,n_7549480313,"shop=chemist, brand=Walgreens"
+"Brooks, CA",,retail,445120,Chevron,,,,38.6770965,-121.7845426,,,n_7549480315,"shop=convenience, brand=Chevron"
+"Brooks, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/woodland-ca-pharmacies/7-w-main-st-woodland-ca-95695/storeid=9180,38.6761852,-121.7845762,,,n_7549480316,"shop=chemist, brand=CVS Pharmacy"
+"Brooks, CA",,retail,445120,7-Eleven,"301 Cottonwood Street, Woodland, CA, 95695-2920",+1 530-666-2622,https://www.7-eleven.com/locations/ca/woodland/301-cottonwood-street-15758,38.6787234,-121.7928593,,,n_7579900663,"shop=convenience, brand=7-Eleven"
+"Brooks, CA",,retail,445120,ampm,,,,38.5311045,-121.9555392,,,n_7838108711,"shop=convenience, brand=ampm"
+"Brooks, CA",,retail,445120,Woodland Gas Plaza,"454 North East Street, Woodland, CA, 95776",,,38.6905036,-121.7649546,,,n_9027582621,shop=convenience
+"Brooks, CA",,retail,445310,Long Meadow Ranch General Store,,,,38.5011657,-122.4633139,,,n_9178837116,shop=wine
+"Brooks, CA",,retail,445120,ampm,,,,38.863587,-121.9509053,,,n_9898835536,"shop=convenience, brand=ampm"
+"Brooks, CA",,retail,445310,,,,,38.4886223,-122.4487035,,,n_10110630180,shop=wine
+"Brooks, CA",,retail,452210,Marshalls,,,,38.6717796,-121.7273091,,,n_10158556336,"shop=department_store, brand=Marshalls"
+"Brooks, CA",,retail,452210,JCPenney,,,,38.6621012,-121.7632085,,,n_10656645217,"shop=department_store, brand=JCPenney"
+"Brooks, CA",,retail,445110,Bel Air,,,,38.6637765,-121.7398632,,,n_10794426478,"shop=supermarket, brand=Bel Air"
+"Brooks, CA",,retail,445120,Napa Valley Olive Oil Manufacturing Company,,,,38.5034401,-122.4610087,,,n_10896618175,shop=convenience
+"Brooks, CA",,retail,445292,Woodhouse,,,,38.5049669,-122.4700734,,,n_10896898683,shop=chocolate
+"Brooks, CA",,retail,445120,ampm,,,,38.6771448,-121.7984574,,,n_10901127548,"shop=convenience, brand=ampm"
+"Brooks, CA",,retail,445120,Chevron,,,,38.6959195,-121.7648763,,,n_11004963739,"shop=convenience, brand=Chevron"
+"Brooks, CA",,retail,445120,ExtraMile,,,,38.8607048,-121.9557879,,,n_11125652590,"shop=convenience, brand=ExtraMile"
+"Brooks, CA",,retail,445120,Diamond Food Mart,,,,38.881276,-121.9703683,,,n_11520448421,shop=convenience
+"Brooks, CA",,retail,445120,Yolo Market,,,,38.7326172,-121.8062631,,,n_11521258594,shop=convenience
+"Brooks, CA",,retail,452210,Big Lots,"52 West Court Street, Woodland, CA, 95695",+1 530-406-1520,https://local.biglots.com/ca/woodland/52-w-court-st,38.6799917,-121.7865756,,,n_11527326463,"shop=department_store, brand=Big Lots"
+"Brooks, CA",,retail,445110,La Superior Mercados,,,,38.6800122,-121.7858835,,,n_11527326464,shop=supermarket
+"Brooks, CA",,retail,445110,Sprouts Farmers Market,,,,38.6762199,-121.7541648,,,n_12027551471,"shop=supermarket, brand=Sprouts Farmers Market"
+"Brooks, CA",,retail,445120,7-Eleven,,,,38.6767881,-121.7436832,,,n_12760859559,"shop=convenience, brand=7-Eleven"
+"Brooks, CA",,retail,445120,Bob's Food & Liquor,,,,38.6726802,-121.7945574,,,n_12769283078,shop=convenience
+"Brooks, CA",,retail,445120,Chevron,,,,38.6766917,-121.7474879,,,n_12806626082,"shop=convenience, brand=Chevron"
+"Brooks, CA",,retail,445120,Chevron,,,,38.6765859,-121.7272551,,,n_12806838830,"shop=convenience, brand=Chevron"
+"Brooks, CA",,retail,452319,Dollar Tree,,,,38.6762136,-121.8018794,,,n_12844517451,"shop=variety_store, brand=Dollar Tree"
+"Brooks, CA",,retail,445120,,,,,38.6778038,-121.7835779,,,n_12844596111,shop=convenience
+"Brooks, CA",,retail,445310,Romey's Liquors,,,,38.6783862,-121.783445,,,n_12844596126,shop=alcohol
+"Brooks, CA",,retail,446120,Angels Nails,,,,38.6783848,-121.7830202,,,n_12844596127,shop=beauty
+"Brooks, CA",,retail,445110,,,,,38.559598,-121.7577435,,,w_32656558,shop=supermarket
+"Brooks, CA",,retail,445120,,,,,38.7366001,-122.1446562,,,w_34643183,shop=convenience
+"Brooks, CA",,retail,445120,Guinda Corner Store,"7530 State Highway 16, Guinda, CA",,,38.8289718,-122.1929482,,,w_34720160,"shop=convenience, operator=Wyatt family"
+"Brooks, CA",,retail,445120,Circle K,,,,38.560243,-121.7856258,,,w_44468483,"shop=convenience, brand=Circle K"
+"Brooks, CA",,retail,445120,Chevron,"999 East Grant Avenue, Winters, 95694",,,38.5307486,-121.956873,,,w_99823595,"shop=convenience, brand=Chevron"
+"Brooks, CA",,retail,445110,Lorenzo's Town and Country Market,"121 East Grant Avenue, Winters, CA, 95694",(530) 795-3214,http://www.lorenzosmarket.com/,38.5279893,-121.9659191,,,w_99823640,shop=supermarket
+"Brooks, CA",,retail,445310,Silver Oak,,,,38.4404806,-122.3810141,,,w_158820938,shop=wine
+"Brooks, CA",,retail,445120,,,,,38.561477,-121.7697643,,,w_179561538,shop=convenience
+"Brooks, CA",,retail,445120,,,,,38.5603122,-121.7580129,,,w_208527818,shop=convenience
+"Brooks, CA",,retail,445120,ExtraMile,,,,38.5603734,-121.7590328,,,w_208528164,"shop=convenience, brand=ExtraMile"
+"Brooks, CA",,retail,445110,Safeway,"1026 Hunt Avenue, Saint Helena, CA, 94574",+1 707-968-3620,https://local.safeway.com/safeway/ca/saint-helena/1026-hunt-ave.html,38.5059052,-122.468016,,,w_239963987,"shop=supermarket, brand=Safeway"
+"Brooks, CA",,retail,445110,Safeway,"1451 West Covell Boulevard, Davis, CA, 95616",+1 530-757-4540,https://local.safeway.com/safeway/ca/davis/1451-w-covell-blvd.html,38.5620438,-121.7664935,,,w_253731412,"shop=supermarket, brand=Safeway"
+"Brooks, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/davis-ca-pharmacies/1471-w-covell-blvd-davis-ca-95616/storeid=9282,38.5615158,-121.7664762,,,w_253731413,"shop=chemist, brand=CVS Pharmacy"
+"Brooks, CA",,retail,445310,French's Liquor,,,,38.6621619,-121.7653043,,,w_268122713,shop=alcohol
+"Brooks, CA",,retail,445110,Nugget Market,"157 Main Street, Woodland, CA, 95695",,,38.6780364,-121.7808674,,,w_270510695,shop=supermarket
+"Brooks, CA",,retail,445310,Clos Pegase,,,,38.572358,-122.555396,,,w_288264134,shop=wine
+"Brooks, CA",,retail,445120,,CA,,,38.881939,-121.9703892,,,w_399770318,shop=convenience
+"Brooks, CA",,retail,445120,Chevron,"4040 Road 89, CA",,,38.8809564,-121.9711729,,,w_399770323,"shop=convenience, brand=Chevron"
+"Brooks, CA",,retail,445110,Sunshine Foods,"1115 Main Street, St. Helena, CA, 94574",707-963-7070,https://www.sunshinefoodsmarket.com/,38.502723,-122.4676863,,,w_419633525,shop=supermarket
+"Brooks, CA",,retail,452319,Dollar General,"176 East Grant Avenue, Winters, CA, 95694",,https://www.dollargeneral.com/store-directory/ca/winters/14552,38.5263093,-121.9656621,,,w_554616359,"shop=variety_store, brand=Dollar General"
+"Brooks, CA",,retail,445310,The Rhine House,"2000 Main Street, CA",,,38.5101146,-122.4799031,,,w_665716395,shop=wine
+"Brooks, CA",,retail,445110,College Market,,,,38.5708438,-122.4436039,,,w_699523292,"shop=supermarket, operator=Howell Mountain Enterprises"
+"Brooks, CA",,retail,445310,Gary's Wine and Marketplace,,+1 707 5317660,https://garyswine.com/pages/garys-napa-valley,38.4887485,-122.4505325,,,w_766414075,shop=alcohol
+"Brooks, CA",,retail,445120,ExtraMile,,,,38.5056581,-122.4702323,,,w_766794121,"shop=convenience, brand=ExtraMile"
+"Brooks, CA",,retail,445120,ampm,"16435 County Road 99, Woodland, CA, 95695",,,38.6999828,-121.7832874,,,w_930864736,"shop=convenience, brand=ampm"
+"Brooks, CA",,retail,445310,Mumm,"8445 Silverado Trail South, Rutherford, CA, 94573",+1 707 9677700,,38.4791751,-122.3944988,,,w_1139100933,shop=wine
+"Brooks, CA",,retail,452210,Target,"2185 Bronze Star Drive, Woodland, CA, 95776",+1 530-665-4148,https://www.target.com/sl/woodland/2408,38.6726946,-121.724703,,,w_1309901037,"shop=department_store, brand=Target"

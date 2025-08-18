@@ -1,0 +1,53 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Dauphin Island, AL",,retail,445120,Compac Food Stores,,,,30.4943676,-88.3371586,,,n_891155976,shop=convenience
+"Dauphin Island, AL",,retail,445120,Waves,,,,30.2443478,-87.7163479,,,n_1910737664,shop=convenience
+"Dauphin Island, AL",,retail,445110,Publix,"22530 US Highway 98, Fairhope, AL, 36532-6398",+1 251-929-7355,https://www.publix.com/locations/1265,30.555695,-87.890899,,,n_3281357970,"shop=supermarket, brand=Publix"
+"Dauphin Island, AL",,retail,446120,Knu Spa,59 North Section Street,+1 251-929-5099,https://www.facebook.com/Knu-Spa-870406889719318/,30.5250428,-87.9031441,,,n_3855242457,shop=beauty
+"Dauphin Island, AL",,retail,445120,Pierce Street Market,,,,30.5250893,-87.9028319,,,n_3855242458,shop=convenience
+"Dauphin Island, AL",,retail,445110,Walmart Neighborhood Market,"7320 Theodore Dawes Road, Theodore, AL, 36582",+1 251-370-1723,https://www.walmart.com/store/5744-theodore-al,30.5637903,-88.2131224,,,n_5315596708,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Dauphin Island, AL",,retail,445120,,,,,30.5240159,-87.8867914,,,n_9819371793,shop=convenience
+"Dauphin Island, AL",,retail,446110,Walgreens,"2 Greeno Road South, Fairhope, AL, 36532",,https://www.walgreens.com/locator/walgreens-2+greeno+rd+s-fairhope-al-36532/id=6084,30.5232166,-87.8869133,,,n_9819371794,"shop=chemist, brand=Walgreens"
+"Dauphin Island, AL",,retail,445110,Winn-Dixie,"187 Baldwin Square, Fairhope, AL, 36532",+1 251-990-5188,https://www.winndixie.com/storedetails/fairhope/al?search=599,30.5206562,-87.8847345,,,n_9819442098,"shop=supermarket, brand=Winn-Dixie"
+"Dauphin Island, AL",,retail,452210,Big Lots,"150 Eastern Shore Shopping Center, Fairhope, AL, 36532",+1 251-929-3640,https://local.biglots.com/al/fairhope/150-eastern-shore-shopping-ctr,30.5230879,-87.8848106,,,n_9819442101,"shop=department_store, brand=Big Lots"
+"Dauphin Island, AL",,retail,446120,,,,,30.5232916,-87.8848875,,,n_9819442104,shop=beauty
+"Dauphin Island, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/fairhope/2936/,30.5195308,-87.8855019,,,n_9819470330,"shop=variety_store, brand=Dollar Tree"
+"Dauphin Island, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/fairhope/4952,30.5194991,-87.8844444,,,n_9819470331,"shop=variety_store, brand=Dollar General"
+"Dauphin Island, AL",,retail,445120,,,,,30.4751122,-87.7949877,,,n_9928291741,shop=convenience
+"Dauphin Island, AL",,retail,445120,,,,,30.4738156,-87.7945848,,,n_9928291742,shop=convenience
+"Dauphin Island, AL",,retail,445120,,,,,30.5532131,-88.1223126,,,n_11059567671,shop=convenience
+"Dauphin Island, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/bayou-la-batre/6294/,30.4142697,-88.2466734,,,n_11289172640,"shop=variety_store, brand=Dollar Tree"
+"Dauphin Island, AL",,retail,445110,Publix,"18125 Wright Boulevard, Fairhope, AL, 36532-7335",+1 251-279-6442,https://www.publix.com/locations/1809,30.4889799,-87.8887318,,,n_11618396452,"shop=supermarket, brand=Publix"
+"Dauphin Island, AL",,retail,445120,Love's,,,https://www.loves.com/locations/846,30.5318019,-88.2378906,,,n_11711684939,"shop=convenience, brand=Love's"
+"Dauphin Island, AL",,retail,452319,Dollar General,,,,30.5884665,-88.2126584,,,n_11978981391,"shop=variety_store, brand=Dollar General"
+"Dauphin Island, AL",,retail,445120,,,,,30.5553619,-88.1715022,,,n_12361083734,shop=convenience
+"Dauphin Island, AL",,retail,445110,Winn-Dixie,"5440 Highway 90 West, Mobile, AL, 36619",+1 251-602-1818,https://www.winndixie.com/storedetails/mobile/al?search=572,30.586916,-88.1713738,,,w_219856097,"shop=supermarket, brand=Winn-Dixie"
+"Dauphin Island, AL",,retail,445110,Walmart Supercenter,"5245 Rangeline Service Road South, Mobile, AL, 36619",+1 251-666-7972,https://www.walmart.com/store/866-mobile-al,30.5935866,-88.1629069,,,w_219856105,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Dauphin Island, AL",,retail,445120,Pilot,,,,30.5595333,-88.2056345,,,w_236741529,"shop=convenience, brand=Pilot"
+"Dauphin Island, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/theodore/5709,30.5557434,-88.174129,,,w_361430480,"shop=variety_store, brand=Dollar General"
+"Dauphin Island, AL",,retail,445110,Winn-Dixie,"5827 Highway 90 West, Theodore, AL, 36582",+1 251-653-5690,https://www.winndixie.com/storedetails/theodore/al?search=580,30.5538534,-88.1699603,,,w_361433097,"shop=supermarket, brand=Winn-Dixie"
+"Dauphin Island, AL",,retail,446120,Nails,,,,30.5544882,-88.1701348,,,w_361433100,shop=beauty
+"Dauphin Island, AL",,retail,445230,Jimmy Lowe's Fruit Stand,,,,30.5536507,-88.1725994,,,w_361433958,shop=greengrocer
+"Dauphin Island, AL",,retail,445310,Bubba's Package Store,,,,30.5489396,-88.1732769,,,w_361440082,shop=alcohol
+"Dauphin Island, AL",,retail,445120,Pier 33 Grocery,900 West Beach Boulevard,,,30.2461681,-87.7038559,,,w_392885864,shop=convenience
+"Dauphin Island, AL",,retail,445120,Battles Warf Mini-Mart,,,,30.4919019,-87.9263574,,,w_478366553,shop=convenience
+"Dauphin Island, AL",,retail,445310,Red or White Wine Fairborn,,,,30.5224937,-87.9033959,,,w_479310337,shop=wine
+"Dauphin Island, AL",,retail,445110,Greer's Fairhope Market,,,,30.5211976,-87.9025556,,,w_479310363,shop=supermarket
+"Dauphin Island, AL",,retail,445110,Greer's Old Bay Market,"10835 Dauphin Island Parkway, Theodore, AL, 36582",,,30.465486,-88.1138451,,,w_572773733,shop=supermarket
+"Dauphin Island, AL",,retail,452319,Dollar General,"3250 Fowl River Rd, Theodore, AL, 36582",,https://www.dollargeneral.com/store-directory/al/theodore/9096,30.4661814,-88.1151718,,,w_572773734,"shop=variety_store, brand=Dollar General"
+"Dauphin Island, AL",,retail,445310,Seaside Liquor #3,"412 West Beach Boulevard, Gulf Shores, AL, 36542",,,30.2476638,-87.6959052,,,w_605013150,shop=alcohol
+"Dauphin Island, AL",,retail,445110,Piggly Wiggly,"100 Plantation Pointe, Fairhope, AL, 36532",+1 251-928-0239,,30.5250581,-87.8840737,,,w_817088228,"shop=supermarket, brand=Piggly Wiggly"
+"Dauphin Island, AL",,retail,445120,Ship & Shore Supplies Inc.,"401 Le Moyne Drive, Dauphin Island, AL, 36528",,,30.2566119,-88.1131932,,,w_834824295,shop=convenience
+"Dauphin Island, AL",,retail,445120,Circle K,"1001 De Soto Avenue, Dauphin Island, AL, 36528",,,30.2570306,-88.1130534,,,w_834824299,"shop=convenience, brand=Circle K"
+"Dauphin Island, AL",,retail,445120,Chevron,"1000 Bienville Boulevard, Dauphin Island, AL, 36528",,,30.2546531,-88.1130541,,,w_834824306,"shop=convenience, brand=Chevron"
+"Dauphin Island, AL",,retail,445292,Punta Clara Candy Kitchen,"17111 Scenic Highway 98, Fairhope, AL, 36532",,,30.4744135,-87.9196104,,,w_946821182,shop=confectionery
+"Dauphin Island, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/summerdale/11815,30.4733354,-87.7930774,,,w_1083365708,"shop=variety_store, brand=Dollar General"
+"Dauphin Island, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/gulf-shores/20457,30.2388269,-87.8574148,,,w_1105439116,"shop=variety_store, brand=Dollar General"
+"Dauphin Island, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ms/moss-point/16786,30.4171135,-88.4665403,,,w_1106924200,"shop=variety_store, brand=Dollar General"
+"Dauphin Island, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/foley/20146,30.3551098,-87.7178768,,,w_1151416773,"shop=variety_store, brand=Dollar General"
+"Dauphin Island, AL",,retail,452319,Dollar General,,,,30.3624105,-88.1158579,,,w_1157952928,"shop=variety_store, brand=Dollar General"
+"Dauphin Island, AL",,retail,445110,Walmart Supercenter,"10040 County Road 48, Fairhope, AL, 36532",+1 251-990-9006,https://www.walmart.com/store/4333-fairhope-al,30.5222994,-87.8487979,,,w_1222776495,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Dauphin Island, AL",,retail,445110,Aldi,,,,30.5241748,-87.851601,,,w_1222776503,shop=supermarket
+"Dauphin Island, AL",,retail,445120,Circle K,,,,30.5756411,-88.1720548,,,w_1267319083,"shop=convenience, brand=Circle K"
+"Dauphin Island, AL",,retail,445110,Aldi,,,,30.5989623,-88.1616832,,,w_1291892870,"shop=supermarket, brand=Aldi"
+"Dauphin Island, AL",,retail,445120,Circle K,,,,30.5476457,-88.2427514,,,w_1384182487,"shop=convenience, brand=Circle K"
+"Dauphin Island, AL",,retail,445120,,,,,30.5956294,-88.163754,,,r_4786265,"shop=convenience, amenity=fuel, brand=BP"

@@ -1,0 +1,21 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"St. Paul, AR",,retail,445110,,,,,36.0859816,-93.7326477,,,n_1108845109,shop=supermarket
+"St. Paul, AR",,retail,445120,,,,,35.9620894,-93.8042791,,,n_1108845116,"shop=convenience, amenity=fuel"
+"St. Paul, AR",,retail,445120,,248 Brown Street,,,36.1003547,-93.9933464,,,n_1125693378,shop=convenience
+"St. Paul, AR",,retail,445110,,1951 North Center Street,,,36.0264699,-94.022507,,,n_1125859755,shop=supermarket
+"St. Paul, AR",,retail,445120,412 Express,,,,36.112928,-93.7089141,,,n_6468544692,shop=convenience
+"St. Paul, AR",,retail,445310,,,,,36.0299734,-94.0298659,,,n_6977394576,shop=alcohol
+"St. Paul, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/winslow/18973,35.8097852,-94.1301972,,,n_8755719647,"shop=variety_store, brand=Dollar General"
+"St. Paul, AR",,retail,445120,Jam Mart,,,,35.4890695,-93.8414069,,,w_125269282,shop=convenience
+"St. Paul, AR",,retail,452210,Walmart,"1516 North 18th Street, Ozark, AR, 72949",+1 479-667-2143,https://www.walmart.com/store/209-ozark-ar,35.5037192,-93.8438608,,,w_299670456,"shop=department_store, brand=Walmart, operator=Walmart"
+"St. Paul, AR",,retail,445110,Grocery Outlet,,,,36.086439,-93.7324074,,,w_407845644,"shop=supermarket, brand=Grocery Outlet"
+"St. Paul, AR",,retail,445120,On The Way,4450 East Huntsville Road,+1 479 582 1112,https://www.conoco.com/station/CON-ON-THE-WAY-5-0000898609/,36.0489521,-94.0972288,,,w_479976438,"shop=convenience, amenity=fuel, brand=Conoco"
+"St. Paul, AR",,retail,445110,Harps,"266 Three Dog Lane, West Fork, AR, 72774",+1 479 839 3820,https://www.harpsfood.com/StoreLocator/Store?L=126,35.9245268,-94.1943578,,,w_767390971,"shop=supermarket, brand=Harps"
+"St. Paul, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/west-fork/7456,35.9322463,-94.1791676,,,w_767390973,"shop=variety_store, brand=Dollar General"
+"St. Paul, AR",,retail,452319,White Rock General Store,,+1-479-369-4128,https://whiterockmountain.com/,35.689842,-93.9566171,,,w_857588851,shop=general
+"St. Paul, AR",,retail,445310,Red Barn Liquor,"100 West Main Street, Ozark, AR",+1-479-667-3058,,35.4860897,-93.8255433,,,w_1078951271,shop=alcohol
+"St. Paul, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/huntsville/3231,36.0927067,-93.7304958,,,w_1204713368,"shop=variety_store, brand=Dollar General"
+"St. Paul, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/fayetteville/19565,36.1007533,-93.9929376,,,w_1205550362,"shop=variety_store, brand=Dollar General"
+"St. Paul, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/wesley/21900,36.0282655,-93.9347542,,,w_1205550363,"shop=variety_store, brand=Dollar General"
+"St. Paul, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/saint-paul/20830,35.8236504,-93.7692507,,,w_1205565266,"shop=variety_store, brand=Dollar General"
+"St. Paul, AR",,retail,445110,Walmart Supercenter,"157 Gary Hatfield Way, Huntsville, AR, 72740",+1 479-738-2001,https://www.walmart.com/store/373/huntsville-ar,36.1128256,-93.715986,,,w_1311909976,"shop=supermarket, brand=Walmart, operator=Walmart"

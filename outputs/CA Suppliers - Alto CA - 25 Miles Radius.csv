@@ -1,0 +1,18 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Alto, CA",,wholesale,424470,"Choice Meat Market Wholesale Retail Packaging, Restaurant Supplies",,,,37.8400879,-122.2825804,,,n_1489698999,shop=convenience
+"Alto, CA",,wholesale,424490,California Wholesale Florist,,,,37.8027409,-122.277752,,,n_3393110026,shop=florist
+"Alto, CA",,wholesale,424490,Pinnacle Wholesale Delivery,,,,37.7988497,-122.2714613,,,n_3990935832,shop=greengrocer
+"Alto, CA",,wholesale,424490,Frisco Wholesale,2337 Mission Street,,,37.7596189,-122.4189895,,,n_11806415037,shop=tobacco
+"Alto, CA",,wholesale,424480,Veritable Vegetable,,,https://veritablevegetable.com/,37.7505376,-122.3893302,,,n_1221414376,"shop=wholesale, wholesale=greengrocer"
+"Alto, CA",,wholesale,424490,Chanco Housewares and Restaurant Supply,,,,37.7993668,-122.273464,,,n_3990935829,shop=wholesale
+"Alto, CA",,wholesale,424490,Costco,"4801 Central Avenue, Richmond, CA, 94804",+1 510-898-2003,https://www.costco.com/warehouse-locations/richmond-ca-richmond-ca-482.html,37.898842,-122.3201766,,,w_24429747,"shop=wholesale, brand=Costco, operator=Costco"
+"Alto, CA",,wholesale,424490,Costco,"450 10th Street, San Francisco, CA, 94103",+1 415-626-4388,https://www.costco.com/warehouse-locations/san-francisco-ca-144.html,37.7702838,-122.4108614,,,w_43100828,"shop=wholesale, brand=Costco, operator=Costco"
+"Alto, CA",,wholesale,424490,Costco,"198 Plaza Drive, Vallejo, CA, 94591",+1 707-553-6400,https://www.costco.com/warehouse-locations/vallejo-ca-132.html,38.1332241,-122.2133017,,,w_59441261,"shop=wholesale, brand=Costco, operator=Costco"
+"Alto, CA",,wholesale,424490,Costco,"1600 El Camino Real, South San Francisco, CA, 94080",+1 650-757-3003,https://www.costco.com/warehouse-locations/el-camino-south-san-francisco-ca-475.html,37.6654487,-122.4491547,,,w_67472154,"shop=wholesale, brand=Costco, operator=Costco"
+"Alto, CA",,wholesale,424490,Costco,"1900 Davis Street, San Leandro, CA, 94577",+1 510-562-6708,https://www.costco.com/warehouse-locations/san-leandro-ca-118.html,37.7208213,-122.1818535,,,w_83886783,"shop=wholesale, brand=Costco"
+"Alto, CA",,wholesale,424490,Costco,"451 South Airport Boulevard, South San Francisco, CA, 94080-6909",+1 650-872-2021,https://www.costco.com/warehouse-locations/s-san-francisco-south-san-francisco-ca-422.html,37.6424711,-122.4006501,,,w_217040722,"shop=wholesale, brand=Costco, operator=Costco"
+"Alto, CA",,wholesale,424490,Costco Business Center,"900 Dubuque Avenue, South San Francisco, CA, 94080-1805",+1 650-784-4047,https://www.costco.com/warehouse-locations/s-san-francisco-business-center-south-san-francisco-ca-654.html,37.6610387,-122.4015569,,,w_217052097,"shop=wholesale, brand=Costco, operator=Costco"
+"Alto, CA",,wholesale,424460,Alioto Lazio Fish Company,"440 Jefferson Street, San Francisco, CA, 94109",+1 415 6735868,https://crabonline.com,37.8080191,-122.4196825,,,w_229326475,"shop=wholesale, wholesale=seafood"
+"Alto, CA",,wholesale,424490,"James P. McNair Co., Inc.","2236 Irving Street, San Francisco, CA, 94122",,,37.7635406,-122.4821326,,,w_276635967,"shop=wholesale, wholesale=locksmith"
+"Alto, CA",,wholesale,424490,Costco,"300 Vintage Way, Novato, CA, 94945-5007",+1 415-899-1332,https://www.costco.com/warehouse-locations/novato-ca-141.html,38.0874429,-122.550489,,,w_721067069,"shop=wholesale, brand=Costco, operator=Costco"
+"Alto, CA",,wholesale,424480,Oakland Produce Market,,,,37.79617,-122.274903,,,w_1097621739,"amenity=marketplace, wholesale=food"

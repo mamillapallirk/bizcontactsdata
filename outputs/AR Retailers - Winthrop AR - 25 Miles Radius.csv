@@ -1,0 +1,16 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Winthrop, AR",,retail,445110,Walmart Supercenter,"926 East Collin Raye Drive, De Queen, AR, 71832",+1 870-642-2794,https://www.walmart.com/store/279-de-queen-ar,34.043471,-94.319058,,,n_5315599017,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Winthrop, AR",,retail,445110,Brookshire's,"1310 South Constitution Avenue, Ashdown, AR, 71822",+1-870-898-3301,,33.65967,-94.1145408,,,n_6104237267,"shop=supermarket, brand=Brookshire's"
+"Winthrop, AR",,retail,445120,Road Ranger,907 North McCoy Boulevard,,,33.4772574,-94.4104492,,,n_8130663185,"shop=convenience, brand=Road Ranger"
+"Winthrop, AR",,retail,445120,EZ Mart,,,,33.7212098,-94.3914684,,,n_11802447041,"shop=convenience, brand=EZ Mart"
+"Winthrop, AR",,retail,445210,Prime Country Meats,,,,33.9386451,-94.3562303,,,n_11802782909,shop=butcher
+"Winthrop, AR",,retail,445120,Circle K,,,,33.476109,-94.409894,,,n_11802800403,"shop=convenience, brand=Circle K"
+"Winthrop, AR",,retail,445120,,,,,33.4760149,-94.4085351,,,n_12361025572,shop=convenience
+"Winthrop, AR",,retail,445110,Walmart Supercenter,"800 James Bowie Drive, New Boston, TX, 75570",+1 903-628-5557,https://www.walmart.com/store/181-new-boston-tx,33.4707447,-94.4035066,,,w_358513992,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Winthrop, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/ashdown/3579,33.6639238,-94.1187905,,,w_909761689,"shop=variety_store, brand=Dollar General"
+"Winthrop, AR",,retail,445120,Sunshine Travel Plaza,"803 Main Street, Hooks, TX, 75561",,,33.4732233,-94.2897423,,,w_1054098575,shop=convenience
+"Winthrop, AR",,retail,445120,7 Star Travel Plaza,"902 Main Street, Hooks, TX, 75561",,,33.4758868,-94.2886079,,,w_1054098578,shop=convenience
+"Winthrop, AR",,retail,445110,Walmart Supercenter,"297 Highway 32 By-Pass East, Ashdown, AR, 71822",+1 870-898-5126,https://www.walmart.com/store/133-ashdown-ar,33.6571659,-94.1091932,,,w_1199485574,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Winthrop, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/lockesburg/14537,33.966822,-94.1669721,,,w_1202245484,"shop=variety_store, brand=Dollar General"
+"Winthrop, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/horatio/12334,33.9388055,-94.3531853,,,w_1202245503,"shop=variety_store, brand=Dollar General"
+"Winthrop, AR",,retail,452319,Dollar General,"308 South Madden Street, Foreman, AR, 71836",,https://www.dollargeneral.com/store-directory/ar/foreman/9437,33.7159981,-94.3915552,,,w_1202245530,"shop=variety_store, brand=Dollar General"

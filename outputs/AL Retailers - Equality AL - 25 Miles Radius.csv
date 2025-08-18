@@ -1,0 +1,44 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Equality, AL",,retail,445120,Golden Rule C-Store,,,,32.864981,-86.0924207,,,n_1888138690,shop=convenience
+"Equality, AL",,retail,445110,Catherine's Market,"17 Russell Farms Road, Alexander City, AL, 35010",+1-256-215-7070,https://www.catherinesatcrossroads.com/,32.7659486,-85.9449854,,,n_4048358552,shop=supermarket
+"Equality, AL",,retail,445110,Food Outlet,,,,32.515647,-86.3796455,,,n_8051535187,shop=supermarket
+"Equality, AL",,retail,445110,ALDI,"4445 Us 231, Wetumpka, AL, 36092",+1 844-476-1107,https://stores.aldi.us/al/wetumpka/4445-us-hwy-231,32.5057623,-86.2160118,,,n_8712687282,"shop=supermarket, brand=ALDI"
+"Equality, AL",,retail,445110,Super Foods,,,,32.5531013,-85.8308394,,,n_8837252384,shop=supermarket
+"Equality, AL",,retail,445110,Walmart Supercenter,"2190 Gilmer Avenue, Tallassee, AL, 36078",+1 334-283-6841,https://www.walmart.com/store/1057-tallassee-al,32.5661121,-85.9314677,,,n_10701991705,"shop=supermarket, brand=Walmart"
+"Equality, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/alexander-city/4133/,32.9213692,-85.9606432,,,n_10808089409,"shop=variety_store, brand=Dollar Tree"
+"Equality, AL",,retail,445110,Winn-Dixie,"1061 US Highway 280, Alexander City, AL, 35010",+1 256-234-5141,https://www.winndixie.com/storedetails/alexander%20city/al?search=456,32.9219141,-85.9611728,,,n_10808365510,"shop=supermarket, brand=Winn-Dixie"
+"Equality, AL",,retail,445310,Emporium Wine,,,,32.9450197,-85.9527826,,,n_10833092463,shop=wine
+"Equality, AL",,retail,446120,Mini's Nails,,,,32.9449694,-85.9543968,,,n_10833092470,shop=beauty
+"Equality, AL",,retail,446120,A's Beauty Supply,,,,32.9204596,-85.9597227,,,n_10911682369,shop=beauty
+"Equality, AL",,retail,446120,Modern Nails,,,,32.9205341,-85.9597773,,,n_10911682372,shop=beauty
+"Equality, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/tallassee-al-pharmacies/10-gilmer-ave-tallassee-al-36078/storeid=4943,32.5376258,-85.8986725,,,n_10911682373,"shop=chemist, brand=CVS Pharmacy"
+"Equality, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/tallassee/5148/,32.5435696,-85.9036215,,,n_10911682376,"shop=variety_store, brand=Dollar Tree"
+"Equality, AL",,retail,445110,Super Foods,,,,32.5437917,-85.9038221,,,n_10911682380,shop=supermarket
+"Equality, AL",,retail,445310,ABC Spirits,,,,32.5424979,-85.9035888,,,n_10911682395,shop=alcohol
+"Equality, AL",,retail,446120,Super Nails,,,,32.5425304,-85.9038551,,,n_10911682396,shop=beauty
+"Equality, AL",,retail,452319,Dollar General,"1235 Cherokee Road, Alexander City, AL, 35010",+1 256 853 0800,https://www.dollargeneral.com/store-directory/al/alexander-city/1786,32.931329,-85.9479122,,,n_12180095449,"shop=variety_store, brand=Dollar General"
+"Equality, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/alexander-city/10028,32.9550603,-85.9456909,,,w_272981607,"shop=variety_store, brand=Dollar General"
+"Equality, AL",,retail,445120,Corner store,,,,32.4768892,-86.3607858,,,w_317500005,shop=convenience
+"Equality, AL",,retail,453110,Scottish Rose florist,,,,32.4782731,-86.3612619,,,w_317500009,shop=florist
+"Equality, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/millbrook-al-pharmacies/3680-hwy-14-millbrook-al-36054/storeid=4909,32.5157447,-86.3759089,,,w_469436777,"shop=chemist, brand=CVS Pharmacy"
+"Equality, AL",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-3720+highway+14-millbrook-al-36054/id=11389,32.5161823,-86.3746186,,,w_469436779,"shop=chemist, brand=Walgreens"
+"Equality, AL",,retail,445110,Winn Dixie Shopping Center,"3625 Highway 14, Millbrook, AL, 36054",+1 334-285-7997,https://www.winndixie.com/storedetails/millbrook/al?search=451,32.5175984,-86.3771747,,,w_469436781,"shop=supermarket, brand=Winn-Dixie"
+"Equality, AL",,retail,445110,Walmart Supercenter,"2643 Highway 280, Alexander City, AL, 35010",+1 256-234-0316,https://www.walmart.com/store/726-alexander-city-al,32.9413759,-85.9758201,,,w_591918305,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Equality, AL",,retail,445120,,,,,33.0546551,-86.1466357,,,w_592485793,shop=convenience
+"Equality, AL",,retail,452319,Dollar General,"Wetumpka, AL",+1 334-452-3381,https://www.dollargeneral.com/store-directory/al/wetumpka/13654,32.5472968,-86.2249606,,,w_745841405,"shop=variety_store, brand=Dollar General"
+"Equality, AL",,retail,445120,Creek Convenience Store,"89 River Oaks Drive, Wetumpka, AL, 36092",,,32.5257911,-86.2087668,,,w_765779278,shop=convenience
+"Equality, AL",,retail,445110,Walmart Supercenter,"4538 Us Highway 231, Wetumpka, AL, 36092",+1 334-567-3066,https://www.walmart.com/store/1101-wetumpka-al,32.5072038,-86.2119701,,,w_766044526,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Equality, AL",,retail,452319,Family Dollar,,,,32.5129894,-86.3805247,,,w_768387859,shop=variety_store
+"Equality, AL",,retail,445120,Kwik Shop,,,,32.4792147,-86.3623513,,,w_858328304,shop=convenience
+"Equality, AL",,retail,445110,Piggly Wiggly,"61 Jefferson Street, Alexander City, AL, 35010",+1 256-234-3454,,32.9462646,-85.9526186,,,w_978246238,"shop=supermarket, brand=Piggly Wiggly"
+"Equality, AL",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-3140+highway+280-alexander+city-al-35010/id=15614,32.9326562,-85.9718341,,,w_978246240,"shop=chemist, brand=Walgreens"
+"Equality, AL",,retail,445120,BP Shop,,,,33.0660995,-86.0544015,,,w_1098258349,"shop=convenience, brand=BP Shop"
+"Equality, AL",,retail,445120,In-and-Out Market,,,,33.066832,-86.0553456,,,w_1098258352,shop=convenience
+"Equality, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/alexander-city/15795,32.8618592,-85.9606319,,,w_1156795657,"shop=variety_store, brand=Dollar General"
+"Equality, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/kellyton/20945,32.866962,-86.098869,,,w_1157027271,"shop=variety_store, brand=Dollar General"
+"Equality, AL",,retail,452319,Roses,,,,32.932087,-85.9458174,,,w_1162167874,"shop=variety_store, brand=Roses"
+"Equality, AL",,retail,445110,Renfroe's,,,,32.935777,-85.9717885,,,w_1164778105,shop=supermarket
+"Equality, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/alexander-city/655,32.9356979,-85.9703985,,,w_1164778110,"shop=variety_store, brand=Dollar General"
+"Equality, AL",,retail,452319,Dollar General,,,,32.5732127,-86.1013767,,,w_1257679796,"shop=variety_store, brand=Dollar General"
+"Equality, AL",,retail,452319,Dollar General,,,,32.5120869,-86.2115456,,,w_1302413582,"shop=variety_store, brand=Dollar General"
+"Equality, AL",,retail,445120,Redland Market,,,,32.5077785,-86.1279038,,,w_1302892465,shop=convenience

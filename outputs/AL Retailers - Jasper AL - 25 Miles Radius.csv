@@ -1,0 +1,22 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Jasper, AL",,retail,445110,Piggly Wiggly,"17884 Highway 18 East, Berry, AL, 35546",+1 205-689-4566,,33.6591541,-87.601334,,,n_3111707533,"shop=supermarket, brand=Piggly Wiggly"
+"Jasper, AL",,retail,445120,F & G Quick Stop,,,,33.6590668,-87.6026138,,,n_3111712884,shop=convenience
+"Jasper, AL",,retail,445230,Sandlin Produce,"3403 Airport Road, Jasper, 35504",(205) 387-0320,,33.89635,-87.2694168,,,n_9517526017,shop=greengrocer
+"Jasper, AL",,retail,445110,Giant,,,https://www.myfoodgiant.com/store-locations/food-giant-adamsville/,33.609351,-86.9635436,,,n_9666513436,shop=supermarket
+"Jasper, AL",,retail,453991,Jasper smoke & vape,"151 Highway 78, Jasper, AL",+1 205-512-1077,,33.8490393,-87.275232,,,n_11751898969,shop=tobacco
+"Jasper, AL",,retail,445120,,,,,33.8436084,-87.2515669,,,n_12696654479,shop=convenience
+"Jasper, AL",,retail,445120,Circle K,"1008 South Main Street, Graysville, AL",,https://www.circlek.com/store-locator/US/graysville/1008-s-main-st/2723836,33.6156075,-86.9692978,,,n_13004859115,"shop=convenience, brand=Circle K"
+"Jasper, AL",,retail,445120,Lakeshore Quick Stop,21320 Highway 278,,,34.1447374,-87.3128788,,,w_289937165,shop=convenience
+"Jasper, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/double-springs/4506,34.1587667,-87.4129029,,,w_289941727,"shop=variety_store, brand=Dollar General"
+"Jasper, AL",,retail,445110,FoodLand,,,,34.1591978,-87.4156469,,,w_289941729,"shop=supermarket, brand=FoodLand"
+"Jasper, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/cordova/9358,33.7538345,-87.1632805,,,w_479818571,"shop=variety_store, brand=Dollar General"
+"Jasper, AL",,retail,445110,Piggly Wiggly,"79 Mill Street, Cordova, AL, 35550",+1 205-483-9225,,33.7587045,-87.1816684,,,w_479818572,"shop=supermarket, brand=Piggly Wiggly"
+"Jasper, AL",,retail,445110,Walmart Supercenter,"1801 Highway 78 East, Jasper, AL, 35501",+1 205-384-1100,https://www.walmart.com/store/287-jasper-al,33.8429408,-87.254475,,,w_498085819,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Jasper, AL",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-100+n+airport+rd-jasper-al-35504/id=9683,33.8491455,-87.267882,,,w_498327530,"shop=chemist, brand=Walgreens"
+"Jasper, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/jasper-al-pharmacies/101-n-airport-rd-jasper-al-35504/storeid=4834,33.8488835,-87.2669985,,,w_498331667,"shop=chemist, brand=CVS Pharmacy"
+"Jasper, AL",,retail,445110,ALDI,"40 North Walston Bridge Road, Jasper, AL, 35504",+1 833-470-7078,https://stores.aldi.us/al/jasper/40-north-walston-bridge-rd,33.8468258,-87.2578905,,,w_940777296,"shop=supermarket, brand=ALDI"
+"Jasper, AL",,retail,445120,,,,,33.7499272,-87.0588985,,,w_1117295828,shop=convenience
+"Jasper, AL",,retail,445110,Walmart Supercenter,"690 Highway 78, Sumiton, AL, 35148",+1 205-648-4100,https://www.walmart.com/store/2723-sumiton-al,33.7454027,-87.0417514,,,w_1215118435,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Jasper, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/jasper/6397,33.8320636,-87.2825996,,,w_1234954486,"shop=variety_store, brand=Dollar General"
+"Jasper, AL",,retail,445120,Love's,"Jasper, AL",,,33.791036,-87.2424705,,,w_1258811612,"shop=convenience, brand=Love's"
+"Jasper, AL",,retail,445120,Mobil Mart,,,,33.8477793,-87.2888322,,,w_1304811879,"shop=convenience, brand=Mobil Mart"

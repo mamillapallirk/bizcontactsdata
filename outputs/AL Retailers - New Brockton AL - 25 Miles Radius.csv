@@ -1,0 +1,50 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"New Brockton, AL",,retail,445110,Walmart Supercenter,"600 Boll Weevil Circle, Enterprise, AL, 36330",+1 334-347-5353,https://www.walmart.com/store/734-enterprise-al,31.3157087,-85.8265113,,,n_4234468503,"shop=supermarket, brand=Walmart, operator=Walmart"
+"New Brockton, AL",,retail,446120,Palm Beach Tan,,,,31.4413063,-85.6507519,,,n_5072971751,"shop=beauty, brand=Palm Beach Tan"
+"New Brockton, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/ozark/2894/,31.4421961,-85.6524521,,,n_5072971754,"shop=variety_store, brand=Dollar Tree"
+"New Brockton, AL",,retail,445110,Grocery Outlet,,,,31.4470287,-85.6551428,,,n_5072971772,"shop=supermarket, brand=Grocery Outlet"
+"New Brockton, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/ozark/2738,31.4473989,-85.6549834,,,n_5072971773,"shop=variety_store, brand=Dollar General"
+"New Brockton, AL",,retail,452210,Rose's,,,,31.447973,-85.6550188,,,n_5072971774,shop=department_store
+"New Brockton, AL",,retail,452319,Dollar Tree,,,,31.0492585,-85.8970719,,,n_11079745231,"shop=variety_store, brand=Dollar Tree"
+"New Brockton, AL",,retail,445110,Piggly Wiggly,"553 North Main Street, Brundidge, AL, 36010",+1 334-735-3337,,31.7265235,-85.8178782,,,n_11618396430,"shop=supermarket, brand=Piggly Wiggly"
+"New Brockton, AL",,retail,445110,Piggly Wiggly,"288 North Union Avenue, Ozark, AL, 36360",+1 334-774-9333,,31.4624719,-85.6394725,,,n_11618396431,"shop=supermarket, brand=Piggly Wiggly"
+"New Brockton, AL",,retail,445110,Publix,"847 Boll Weevil Circle, Enterprise, AL, 36330-2476",+1 334-348-1489,https://www.publix.com/locations/1402,31.3260852,-85.8380514,,,n_11618396432,"shop=supermarket, brand=Publix"
+"New Brockton, AL",,retail,445110,ALDI,"630 Boll Weevil Circle, Enterprise, AL, 36330",+1 877-482-1088,https://stores.aldi.us/al/enterprise/630-boll-weevil-cir,31.3186656,-85.8286398,,,n_11618396433,"shop=supermarket, brand=ALDI"
+"New Brockton, AL",,retail,445110,Piggly Wiggly,"621 Boll Weevile Circle, Enterprise, AL, 36330",+1 334-709-9000,,31.3193616,-85.832386,,,n_11618396434,"shop=supermarket, brand=Piggly Wiggly"
+"New Brockton, AL",,retail,445110,Piggly Wiggly,"1020 Geneva Highway, Enterprise, AL, 36330",+1 334-347-9254,http://www.pigglywigglyenterprise.com,31.3009432,-85.8574601,,,n_11618396435,"shop=supermarket, brand=Piggly Wiggly"
+"New Brockton, AL",,retail,445110,Piggly Wiggly,"1400 West Maple Avenue, Geneva, AL, 36340",+1 334-684-3224,https://www.foodgiant.com,31.048307,-85.8951291,,,n_11618396436,"shop=supermarket, brand=Piggly Wiggly"
+"New Brockton, AL",,retail,445120,,"980 E Highway 134, Pinckard, AL, 36371",,,31.3135815,-85.5531977,,,w_555844122,shop=convenience
+"New Brockton, AL",,retail,445110,Walmart Supercenter,"1537 South Us Highway 231, Ozark, AL, 36360",+1 334-774-0272,https://www.walmart.com/store/740-ozark-al,31.4452436,-85.6507076,,,w_744532821,"shop=supermarket, brand=Walmart, operator=Walmart"
+"New Brockton, AL",,retail,445110,Grocery Outlet,"505 North Main Street, Enterprise, AL, 36330",,,31.318357,-85.8578046,,,w_785499881,"shop=supermarket, brand=Grocery Outlet"
+"New Brockton, AL",,retail,452319,Tates Mini Mall,"417 East Mill Street, Hartford, AL, 36344",,,31.1035163,-85.6896168,,,w_1031365290,shop=general
+"New Brockton, AL",,retail,452319,Dollar General,"140 AL 123, Newton, AL, 36352",,https://www.dollargeneral.com/store-directory/al/newton/22162,31.2405552,-85.6315015,,,w_1127925820,"shop=variety_store, brand=Dollar General"
+"New Brockton, AL",,retail,445120,Love's,,,https://www.loves.com/locations/566,31.427599,-85.6193735,,,w_1147422696,"shop=convenience, brand=Love's"
+"New Brockton, AL",,retail,445120,Hobo Pantry,,,,31.4480632,-85.6590806,,,w_1161111644,shop=convenience
+"New Brockton, AL",,retail,445120,Marathon,,,,31.6791196,-85.9570642,,,w_1180295467,"shop=convenience, brand=Marathon"
+"New Brockton, AL",,retail,452319,Dollar General,"38 County Road 59, Brundidge, AL, 36010",,https://www.dollargeneral.com/store-directory/al/brundidge/17630,31.6444437,-85.8090141,,,w_1180505570,"shop=variety_store, brand=Dollar General"
+"New Brockton, AL",,retail,445310,Corner Package Store,,,,31.6801089,-85.8251779,,,w_1180505579,shop=alcohol
+"New Brockton, AL",,retail,445120,Marathon,,,,31.7194367,-85.8294441,,,w_1180505631,"shop=convenience, brand=Marathon"
+"New Brockton, AL",,retail,445120,Citgo,,,,31.7208109,-85.8301907,,,w_1180505677,"shop=convenience, brand=Citgo"
+"New Brockton, AL",,retail,445120,Marathon,36360,,,31.3762,-85.568624,,,w_1180554159,"shop=convenience, brand=Marathon"
+"New Brockton, AL",,retail,445120,Kathy's Kountry Korner,36360,,,31.3767922,-85.5706865,,,w_1180554161,shop=convenience
+"New Brockton, AL",,retail,445120,Inland,36360,,,31.4246969,-85.6179547,,,w_1180554204,"shop=convenience, brand=Inland"
+"New Brockton, AL",,retail,445120,Shell,36360,,,31.4394877,-85.642229,,,w_1180554294,"shop=convenience, brand=Shell"
+"New Brockton, AL",,retail,445120,Shell,36360,,,31.447164,-85.6579339,,,w_1180554420,"shop=convenience, brand=Shell"
+"New Brockton, AL",,retail,445120,,,,,31.4477868,-85.6568323,,,w_1180554430,shop=convenience
+"New Brockton, AL",,retail,445120,Martin Farms Convenience,,,,31.0511831,-85.9015336,,,w_1193663397,shop=convenience
+"New Brockton, AL",,retail,452210,Walmart,"1608 West Magnolia Avenue, Geneva, AL, 36340",+1 334-684-3681,https://www.walmart.com/store/1063-geneva-al,31.0514336,-85.8993433,,,w_1193663400,"shop=department_store, brand=Walmart, operator=Walmart"
+"New Brockton, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/geneva/3673,31.0493546,-85.9010468,,,w_1193663407,"shop=variety_store, brand=Dollar General"
+"New Brockton, AL",,retail,452319,Dollar General,"Daleville, AL, 36322",,https://www.dollargeneral.com/store-directory/al/daleville/4680,31.3066544,-85.7176032,,,w_1234915546,"shop=variety_store, brand=Dollar General"
+"New Brockton, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/geneva/13915,31.0502197,-85.85803,,,w_1234947231,"shop=variety_store, brand=Dollar General"
+"New Brockton, AL",,retail,445110,Dollar General Market,"605 East Main Street, Samson, AL, 36477",,https://www.dollargeneral.com/store-directory/al/samson/4358,31.113552,-86.0401276,,,w_1234948790,"shop=supermarket, brand=Dollar General Market"
+"New Brockton, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/opp/3297,31.2718786,-86.247215,,,w_1234950178,"shop=variety_store, brand=Dollar General"
+"New Brockton, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/brantley/11251,31.5789786,-86.2569081,,,w_1235075311,"shop=variety_store, brand=Dollar General"
+"New Brockton, AL",,retail,453110,Adana's Florist & Decor,"105 Mill Street, Hartford, AL, 36344",+1-334-588-2600,,31.1019879,-85.6971004,,,w_1238157953,shop=florist
+"New Brockton, AL",,retail,446120,Lana's Nail Boutique,,+1-334-588-6262,,31.1019895,-85.6969933,,,w_1238157954,shop=beauty
+"New Brockton, AL",,retail,445110,Tate's Supermarket,"300 East Mill Street, Hartford, AL, 36344",+1-334-588-2933,,31.1017132,-85.6934999,,,w_1240293779,shop=supermarket
+"New Brockton, AL",,retail,445110,Piggly Wiggly,"304 West Main Street, Hartford, AL, 36344",+1 334-588-2912,,31.1007069,-85.7007421,,,w_1240878234,"shop=supermarket, brand=Piggly Wiggly"
+"New Brockton, AL",,retail,445120,Old Gin Creek,"9627 South Main Street, Brantley, AL, 36009",,,31.5796854,-86.2559942,,,w_1316744411,"shop=convenience, amenity=fuel"
+"New Brockton, AL",,retail,446191,331 Nutrition,,,,31.5815676,-86.257249,,,w_1316744462,shop=health_food
+"New Brockton, AL",,retail,445110,Dixieland,"17 Monroe Street, Brantley, AL, 36009",,,31.5819415,-86.2561922,,,w_1316744511,shop=supermarket
+"New Brockton, AL",,retail,445120,Sun Stop,"9415 North Main Street, Brantley, AL, 36009",,,31.5827854,-86.2568204,,,w_1316744535,"shop=convenience, amenity=fuel, brand=Inland"
+"New Brockton, AL",,retail,445120,Eagle Express,,,,31.581777,-86.2583299,,,w_1316748056,"shop=convenience, amenity=fuel"

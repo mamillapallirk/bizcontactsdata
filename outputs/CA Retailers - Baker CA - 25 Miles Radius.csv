@@ -1,0 +1,6 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Baker, CA",,retail,445120,Market,,,,35.0730841,-116.4119167,,,n_848733259,shop=convenience
+"Baker, CA",,retail,445110,Baker Market,,,,35.2654997,-116.0752632,,,n_994133224,shop=grocery
+"Baker, CA",,retail,445120,Arco,,,,35.2646088,-116.075161,,,n_994133462,"shop=convenience, amenity=fuel, brand=Arco"
+"Baker, CA",,retail,445120,,,,,35.2684538,-116.0690126,,,w_175488273,shop=convenience
+"Baker, CA",,retail,445120,County Store,"72129 Baker Boulevard, Baker, CA, 92309",,,35.2653445,-116.07446,,,w_175488275,shop=convenience

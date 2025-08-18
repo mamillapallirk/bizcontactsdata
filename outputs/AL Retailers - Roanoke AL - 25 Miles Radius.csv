@@ -1,0 +1,85 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Roanoke, AL",,retail,452210,TJ Maxx,,,,33.0437452,-84.9819875,,,n_4518420964,"shop=department_store, brand=TJ Maxx"
+"Roanoke, AL",,retail,445110,Walmart Neighborhood Market,"955 Lafayette Parkway, Lagrange, GA, 30241",+1 706-443-7059,https://www.walmart.com/store/2773/la-grange-ga,33.0405288,-85.0122579,,,n_5315599423,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Roanoke, AL",,retail,445110,Kroger,"203 Commerce Avenue, LaGrange, GA, 30241",+1 706-882-6114,https://www.kroger.com/stores/grocery/ga/lagrange/commerce-square/011/00339,33.0507209,-85.0218209,,,n_7504549966,"shop=supermarket, brand=Kroger"
+"Roanoke, AL",,retail,445120,,,,,33.1241665,-85.0425269,,,n_9073696715,shop=convenience
+"Roanoke, AL",,retail,445120,,,,,33.4244551,-85.1344878,,,n_9074149154,shop=convenience
+"Roanoke, AL",,retail,445120,,,,,33.4239063,-85.1342686,,,n_9074149155,shop=convenience
+"Roanoke, AL",,retail,445120,Econo's Convenience Store,,,,33.1249379,-85.0426019,,,n_9422790731,shop=convenience
+"Roanoke, AL",,retail,452319,Dollar General,"209 East 10th Street, West Point, GA, 31833",,https://www.dollargeneral.com/store-directory/ga/west-point/7812,32.8784964,-85.1776738,,,n_9614316387,"shop=variety_store, brand=Dollar General"
+"Roanoke, AL",,retail,445110,Piggly Wiggly,"1861 Roanoke Road, Lagrange, GA, 32040",+1 706-845-9102,,33.0321702,-85.0709111,,,n_9614343537,"shop=supermarket, brand=Piggly Wiggly"
+"Roanoke, AL",,retail,452319,Roses,,,,33.3118771,-85.7557742,,,n_10170365873,"shop=variety_store, brand=Roses"
+"Roanoke, AL",,retail,445110,Piggly Wiggly,"88985 Highway 9, Lineville, AL, 36266",+1 256-396-2224,,33.3113644,-85.7517766,,,n_10170365874,"shop=supermarket, brand=Piggly Wiggly"
+"Roanoke, AL",,retail,445110,Kroger,"1401 South Gilmer Avenue, Lanett, AL, 36863",+1 334-642-6888,https://www.kroger.com/stores/grocery/al/lanett/lanett/011/00310,32.8557103,-85.1909374,,,n_10947838615,"shop=supermarket, brand=Kroger"
+"Roanoke, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ga/lagrange/24688,32.9558092,-85.141171,,,n_11046246233,"shop=variety_store, brand=Dollar General"
+"Roanoke, AL",,retail,445120,,,,,32.9864146,-85.0308444,,,n_11992576538,shop=convenience
+"Roanoke, AL",,retail,452319,Dollar General,,,,33.1378777,-85.3561564,,,n_12269309915,"shop=variety_store, brand=Dollar General"
+"Roanoke, AL",,retail,445120,Bucktown Grocery,"2875 GA 100, Bowdon, GA, 30108",,,33.4750618,-85.2909392,,,w_243876140,shop=convenience
+"Roanoke, AL",,retail,445120,,,,,33.4679865,-85.2019345,,,w_244376826,shop=convenience
+"Roanoke, AL",,retail,445110,,,,,32.9009743,-85.4017702,,,w_330177132,shop=supermarket
+"Roanoke, AL",,retail,445120,,,,,33.0320966,-85.0692291,,,w_363659963,shop=convenience
+"Roanoke, AL",,retail,446110,,,,,33.0327611,-85.0687847,,,w_363659964,"shop=chemist, brand=CVS"
+"Roanoke, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ga/lagrange/4656,33.0286873,-85.0695035,,,w_363659984,"shop=variety_store, brand=Dollar General"
+"Roanoke, AL",,retail,445120,,,,,33.0215129,-85.0808741,,,w_363665150,shop=convenience
+"Roanoke, AL",,retail,445120,,,,,33.017274,-85.0882088,,,w_363665539,shop=convenience
+"Roanoke, AL",,retail,445120,Valero,,,,33.041422,-84.9730724,,,w_391119435,"shop=convenience, brand=Valero"
+"Roanoke, AL",,retail,445120,,,,,33.0423649,-84.9847289,,,w_391119436,"shop=convenience, brand=bp"
+"Roanoke, AL",,retail,445120,,,,,33.0425579,-84.9835385,,,w_391119476,"shop=convenience, brand=Circle K"
+"Roanoke, AL",,retail,445120,,,,,33.0029237,-85.0163587,,,w_391119524,shop=convenience
+"Roanoke, AL",,retail,445120,,,,,32.876153,-85.1488251,,,w_391119573,shop=convenience
+"Roanoke, AL",,retail,452210,JCPenney,,,,33.0439419,-84.9828929,,,w_455433534,"shop=department_store, brand=JCPenney"
+"Roanoke, AL",,retail,452210,Belk,,,,33.0441746,-84.9802897,,,w_455433535,"shop=department_store, brand=Belk"
+"Roanoke, AL",,retail,452319,Family Dollar,,,,33.0477526,-85.0133931,,,w_649791161,"shop=variety_store, brand=Family Dollar"
+"Roanoke, AL",,retail,445110,Food Depot,,,,33.0465683,-85.0124584,,,w_649791162,shop=supermarket
+"Roanoke, AL",,retail,445110,Publix,"139 Commerce Avenue, LaGrange, GA, 30241-2337",+1 706-883-1120,https://www.publix.com/locations/540,33.0507457,-85.0242237,,,w_649791163,"shop=supermarket, brand=Publix"
+"Roanoke, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ga/lagrange/2217/,33.0507894,-85.0248969,,,w_649791164,"shop=variety_store, brand=Dollar Tree"
+"Roanoke, AL",,retail,452210,Big Lots,"127 Commerce Avenue, Lagrange, GA, 30241",+1 706-884-7100,https://local.biglots.com/ga/lagrange/127-commerce-ave,33.0509608,-85.0256799,,,w_649791165,"shop=department_store, brand=Big Lots"
+"Roanoke, AL",,retail,445310,Hot Spot Liquor,,,,32.8798577,-85.1565452,,,w_852988107,shop=alcohol
+"Roanoke, AL",,retail,445120,USA Food Mart,,,,32.8799412,-85.1560794,,,w_852988109,shop=convenience
+"Roanoke, AL",,retail,445120,L & S Shoppette,"2423 GA 100, Bowdon, GA, 30108",,,33.4862295,-85.2836766,,,w_873278209,shop=convenience
+"Roanoke, AL",,retail,445110,ALDI,"427 New Franklin Road, LaGrange, GA, 30240",+1 844-476-1029,https://stores.aldi.us/ga/lagrange/427-new-franklin-road,33.0513126,-85.029545,,,w_940877961,"shop=supermarket, brand=ALDI"
+"Roanoke, AL",,retail,445120,,,,,33.045788,-85.029979,,,w_980678707,shop=convenience
+"Roanoke, AL",,retail,445120,Northside Pawn & Discount,,,,33.0500845,-85.029103,,,w_980679180,shop=convenience
+"Roanoke, AL",,retail,445310,Northside Package,,,,33.0507575,-85.0282975,,,w_980679261,shop=alcohol
+"Roanoke, AL",,retail,446120,A1 Beauty and Beyond,,,,33.0496705,-85.0276575,,,w_980679661,shop=beauty
+"Roanoke, AL",,retail,445120,,,,,33.0527785,-85.0290795,,,w_980679761,shop=convenience
+"Roanoke, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ga/lagrange/4837,33.0488165,-85.0206925,,,w_980679950,"shop=variety_store, brand=Dollar General"
+"Roanoke, AL",,retail,445120,,,,,33.0674645,-85.0289775,,,w_980680175,shop=convenience
+"Roanoke, AL",,retail,445120,,,,,33.0565185,-84.9857335,,,w_980680841,shop=convenience
+"Roanoke, AL",,retail,445120,,,,,33.032119,-85.0284335,,,w_980684297,shop=convenience
+"Roanoke, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ga/lagrange/16687,33.0323481,-85.0361013,,,w_980684759,"shop=variety_store, brand=Dollar General"
+"Roanoke, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ga/lagrange/12446,33.027591,-85.022971,,,w_980686138,"shop=variety_store, brand=Dollar General"
+"Roanoke, AL",,retail,445120,,,,,33.0089933,-85.0185347,,,w_980691347,shop=convenience
+"Roanoke, AL",,retail,445110,Walmart Supercenter,"803 New Franklin Road, LaGrange, GA, 30240",+1 706-812-0225,https://www.walmart.com/store/614-lagrange-ga,33.0598941,-85.0314906,,,w_980906803,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Roanoke, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ga/lagrange/14089,33.124809,-85.0455951,,,w_980906829,"shop=variety_store, brand=Dollar General"
+"Roanoke, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ga/franklin/18728,33.3818862,-85.1101415,,,w_980962797,"shop=variety_store, brand=Dollar General"
+"Roanoke, AL",,retail,445120,,,,,32.9289482,-85.1145073,,,w_1007833862,"shop=convenience, brand=76"
+"Roanoke, AL",,retail,445110,Walmart Supercenter,"4180 US Highway 431, Roanoke, AL, 36274",+1 334-863-2147,https://www.walmart.com/store/863-roanoke-al,33.1648823,-85.3644037,,,w_1017014625,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Roanoke, AL",,retail,445120,,,,,32.9107282,-85.4013106,,,w_1017029889,shop=convenience
+"Roanoke, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/lafayette/10254,32.9120939,-85.4013017,,,w_1017029892,"shop=variety_store, brand=Dollar General"
+"Roanoke, AL",,retail,445120,,,,,33.053868,-85.0281605,,,w_1017275711,shop=convenience
+"Roanoke, AL",,retail,445120,,,,,33.0489148,-85.0291413,,,w_1017275714,shop=convenience
+"Roanoke, AL",,retail,445120,,,,,33.0497085,-85.0282345,,,w_1017275715,shop=convenience
+"Roanoke, AL",,retail,445120,Shell,,,,33.004063,-85.0154501,,,w_1017275872,"shop=convenience, amenity=fuel, brand=Shell"
+"Roanoke, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ga/lagrange/15537,33.0162966,-85.0967648,,,w_1044816385,"shop=variety_store, brand=Dollar General"
+"Roanoke, AL",,retail,445120,,,,,32.8767404,-85.1502963,,,w_1051389513,shop=convenience
+"Roanoke, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/lineville/20059,33.3133814,-85.6147413,,,w_1056419919,"shop=variety_store, brand=Dollar General"
+"Roanoke, AL",,retail,445120,,,,,33.278132,-85.0988985,,,w_1063467577,"shop=convenience, brand=Marathon"
+"Roanoke, AL",,retail,445120,,,,,33.248322,-85.0382505,,,w_1063468008,shop=convenience
+"Roanoke, AL",,retail,445110,Piggly Wiggly,"241 East Court Square, Franklin, GA, 30217",+1 706-675-0707,,33.2786637,-85.0977096,,,w_1063468709,"shop=supermarket, brand=Piggly Wiggly"
+"Roanoke, AL",,retail,445110,WM Grocery,,,,33.1527158,-85.3769013,,,w_1151360369,shop=supermarket
+"Roanoke, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/roanoke/6605/,33.1527807,-85.3772757,,,w_1151360370,"shop=variety_store, brand=Dollar Tree"
+"Roanoke, AL",,retail,452319,Dollar General,"2040 Franklin Parkway, Franklin, GA, 30217",,https://www.dollargeneral.com/store-directory/ga/franklin/9422,33.2789994,-85.1035395,,,w_1178167865,"shop=variety_store, brand=Dollar General"
+"Roanoke, AL",,retail,445120,,,,,33.0401968,-84.9649366,,,w_1178204285,shop=convenience
+"Roanoke, AL",,retail,445120,,,,,32.8444113,-85.1818252,,,w_1178477677,"shop=convenience, brand=Circle K"
+"Roanoke, AL",,retail,452319,,,,,32.833323,-85.2295216,,,w_1178477820,"shop=variety_store, brand=Dollar General"
+"Roanoke, AL",,retail,445120,,,,,32.833653,-85.2298173,,,w_1178477821,"shop=convenience, brand=Big Cat Fuels"
+"Roanoke, AL",,retail,452319,Dollar General,"24 Pyne Road, Lagrange, GA, 30240",,,33.0325325,-85.1426144,,,w_1188905003,"shop=variety_store, brand=Dollar General"
+"Roanoke, AL",,retail,445120,Circle K,,,,32.8768864,-85.1765395,,,w_1210165662,"shop=convenience, brand=Circle K"
+"Roanoke, AL",,retail,452319,Family Dollar,,,,33.2782452,-85.0977632,,,w_1217530548,"shop=variety_store, brand=Family Dollar"
+"Roanoke, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/wedowee/505,33.312118,-85.4841154,,,w_1217548980,"shop=variety_store, brand=Dollar General"
+"Roanoke, AL",,retail,452319,Dollar General,,,,32.9538673,-85.0182233,,,w_1294623913,"shop=variety_store, brand=Dollar General"
+"Roanoke, AL",,retail,452319,Dollar General,,,,33.4120386,-85.2556474,,,w_1307361323,"shop=variety_store, brand=Dollar General"
+"Roanoke, AL",,retail,445110,Walmart Supercenter,"3501 20th Avenue, Valley, AL, 36854",+1 334-768-2118,https://www.walmart.com/store/733-valley-al,32.8349999,-85.1787252,,,w_1311905401,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Roanoke, AL",,retail,445120,,,,,33.1766564,-85.3325373,,,w_1415294169,shop=convenience
+"Roanoke, AL",,retail,445120,Bartley Food Mart,,,,32.9219977,-85.0836379,,,w_1416416194,shop=convenience

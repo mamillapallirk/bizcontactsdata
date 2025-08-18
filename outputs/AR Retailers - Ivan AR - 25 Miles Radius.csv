@@ -1,0 +1,13 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Ivan, AR",,retail,445120,The Corner,,,,33.7233902,-92.6185576,,,n_4501765689,shop=convenience
+"Ivan, AR",,retail,445110,Mad Butcher,920 West 4th Street,,,33.8134195,-92.4221453,,,n_12000069800,shop=supermarket
+"Ivan, AR",,retail,452319,Family Dollar,,,,33.7235109,-92.6192645,,,w_795095924,"shop=variety_store, brand=Family Dollar"
+"Ivan, AR",,retail,452210,Walmart,"1123 Highway 79 167 Bypass, Fordyce, AR, 71742",+1-870-352-5167,https://www.walmart.com/store/339-fordyce-ar,33.8204634,-92.4355726,,,w_1158558915,"shop=department_store, brand=Walmart, operator=Walmart"
+"Ivan, AR",,retail,445120,Big Red,"11209 AR-229, Leola, AR, 72084",+1 501-451-7535,,34.17711,-92.5928309,,,w_1185082053,"shop=convenience, brand=Big Red Stores"
+"Ivan, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/leola/23692,34.1762503,-92.5913115,,,w_1185433903,"shop=variety_store, brand=Dollar General"
+"Ivan, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/rison/4939,33.9578179,-92.2009677,,,w_1198544139,"shop=variety_store, brand=Dollar General"
+"Ivan, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/bearden/15002,33.7303387,-92.6259618,,,w_1200912865,"shop=variety_store, brand=Dollar General"
+"Ivan, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/pine-bluff/20887,34.1244716,-92.12649,,,w_1200912874,"shop=variety_store, brand=Dollar General"
+"Ivan, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/rison/22759,33.8215744,-92.0033239,,,w_1200994283,"shop=variety_store, brand=Dollar General"
+"Ivan, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/rison/16551,33.9357348,-92.0296029,,,w_1200994294,"shop=variety_store, brand=Dollar General"
+"Ivan, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/sheridan/20470,34.2405442,-92.4054907,,,w_1201884255,"shop=variety_store, brand=Dollar General"

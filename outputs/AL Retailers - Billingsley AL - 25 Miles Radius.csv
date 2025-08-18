@@ -1,0 +1,71 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Billingsley, AL",,retail,445230,,,,,32.6911199,-86.7957566,,,n_1429046724,shop=greengrocer
+"Billingsley, AL",,retail,445230,,,,,32.8008797,-86.9140101,,,n_1429046726,shop=greengrocer
+"Billingsley, AL",,retail,445120,Food Mart,"2241 7th Street South, Clanton, 35045",,,32.8008634,-86.5765696,,,n_2505394234,"shop=convenience, amenity=fuel"
+"Billingsley, AL",,retail,445120,Jet-Pep,"2261 7th Street South, Clanton, AL, 35045",,,32.8001978,-86.5753002,,,n_2505394238,"shop=convenience, amenity=fuel"
+"Billingsley, AL",,retail,445120,Texaco,"2320 7th Street South, Clanton, AL, 35045",,,32.7996424,-86.5731948,,,n_2505394243,"shop=convenience, amenity=fuel"
+"Billingsley, AL",,retail,445120,Coosa Mart,"1669 Highway 31 North, Pratville, AL, 36022",,,32.547099,-86.4580469,,,n_2505394266,"shop=convenience, amenity=fuel, brand=BP"
+"Billingsley, AL",,retail,452319,Dollar Tree,,,,32.4332707,-87.0103754,,,n_4567912374,"shop=variety_store, brand=Dollar Tree"
+"Billingsley, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/valley-grande/9980,32.4654888,-87.0056223,,,n_4569055928,"shop=variety_store, brand=Dollar General"
+"Billingsley, AL",,retail,452319,Family Dollar,,,,32.438521,-87.0203171,,,n_4569055929,"shop=variety_store, brand=Family Dollar"
+"Billingsley, AL",,retail,453110,,,,,32.4370794,-87.0223376,,,n_4569055937,shop=florist
+"Billingsley, AL",,retail,452319,Maxway,,,,32.4304353,-87.033951,,,n_4573884331,shop=variety_store
+"Billingsley, AL",,retail,446110,CVS Pharmacy,,,,32.4308848,-87.0327519,,,n_4687226574,"shop=chemist, brand=CVS Pharmacy"
+"Billingsley, AL",,retail,445310,,,,,32.4328104,-87.0488002,,,n_4687228839,shop=alcohol
+"Billingsley, AL",,retail,445310,,,,,32.400347,-87.0155575,,,n_4688020188,shop=alcohol
+"Billingsley, AL",,retail,446120,Avon,,,,32.4648743,-86.3960552,,,n_7985722018,"shop=cosmetics, brand=Avon"
+"Billingsley, AL",,retail,452210,Ross,"2760 Legends Parkway, Prattville, AL, 36066",+1 334-285-7237,,32.4574343,-86.3947825,,,n_7989043175,"shop=department_store, brand=Ross"
+"Billingsley, AL",,retail,452210,TJ Maxx,,,,32.4573075,-86.3968867,,,n_7989043180,"shop=department_store, brand=TJ Maxx"
+"Billingsley, AL",,retail,452210,Target,"2754 Legends Parkway, Prattville, AL, 36066-7748",+1 334-290-6000,https://www.target.com/sl/prattville/2274,32.457389,-86.3955161,,,n_7989043181,"shop=department_store, brand=Target"
+"Billingsley, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/prattville/3232,32.465293,-86.4526807,,,n_8004360817,"shop=variety_store, brand=Dollar General"
+"Billingsley, AL",,retail,446191,Fountain City,,,,32.4650706,-86.4502412,,,n_8004360861,shop=health_food
+"Billingsley, AL",,retail,445310,Select Spirits,,,,32.460743,-86.4539708,,,n_8010760224,shop=alcohol
+"Billingsley, AL",,retail,445110,Fred's,,,,32.4612319,-86.4539856,,,n_8010760226,shop=supermarket
+"Billingsley, AL",,retail,446120,Top's Beauty Supply,,,,32.4588341,-86.4553428,,,n_8010782449,shop=beauty
+"Billingsley, AL",,retail,445110,Food Outlet,,,,32.4588295,-86.4558309,,,n_8010782450,shop=supermarket
+"Billingsley, AL",,retail,445120,Kwik Shop,,,,32.4979945,-86.3970543,,,n_8037807503,"shop=convenience, brand=Kwik Shop"
+"Billingsley, AL",,retail,445310,Hill,,,,32.4955886,-86.3982493,,,n_8037807542,shop=alcohol
+"Billingsley, AL",,retail,452319,Dollar Tree,,,,32.4954767,-86.3981071,,,n_8037807543,"shop=variety_store, brand=Dollar Tree"
+"Billingsley, AL",,retail,445110,Food Outlet,,,,32.515647,-86.3796455,,,n_8051535187,shop=supermarket
+"Billingsley, AL",,retail,452319,Family Dollar,,,,32.4157493,-87.0249855,,,n_9084294043,"shop=variety_store, brand=Family Dollar"
+"Billingsley, AL",,retail,445310,ABC Beverages,"2300 Marie Foster Street, Selma, AL, 36701",,,32.4301394,-87.0140086,,,n_9224770889,"shop=alcohol, operator=Aalabama ABC Board"
+"Billingsley, AL",,retail,452319,Family Dollar,"1018 Highland Avenue, Selma, AL, 36701",,,32.4308457,-87.024901,,,n_9811064827,"shop=variety_store, brand=Family Dollar"
+"Billingsley, AL",,retail,452210,Belk,,,,32.4652601,-86.3959681,,,n_11160118305,"shop=department_store, brand=Belk"
+"Billingsley, AL",,retail,446120,Galaxy Nails,,,,32.481288,-86.4196014,,,n_11593095856,shop=beauty
+"Billingsley, AL",,retail,445120,,,,,32.4382295,-86.474762,,,n_12361426508,shop=convenience
+"Billingsley, AL",,retail,445120,,,,,32.8442319,-86.5978016,,,n_12535243385,shop=convenience
+"Billingsley, AL",,retail,445110,Food Outlet,,,,32.415407,-87.0318071,,,n_12555073363,shop=supermarket
+"Billingsley, AL",,retail,452319,Dollar General,"601 South McQueen Smith Road, Prattville, AL, 36066",,,32.4587076,-86.4171219,,,n_12912070186,"shop=variety_store, brand=Dollar General"
+"Billingsley, AL",,retail,445120,Loves' #368,,,,32.844847,-86.5915783,,,w_220383386,shop=convenience
+"Billingsley, AL",,retail,445120,Corner store,,,,32.4768892,-86.3607858,,,w_317500005,shop=convenience
+"Billingsley, AL",,retail,453110,Scottish Rose florist,,,,32.4782731,-86.3612619,,,w_317500009,shop=florist
+"Billingsley, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/millbrook-al-pharmacies/3680-hwy-14-millbrook-al-36054/storeid=4909,32.5157447,-86.3759089,,,w_469436777,"shop=chemist, brand=CVS Pharmacy"
+"Billingsley, AL",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-3720+highway+14-millbrook-al-36054/id=11389,32.5161823,-86.3746186,,,w_469436779,"shop=chemist, brand=Walgreens"
+"Billingsley, AL",,retail,445110,Winn Dixie Shopping Center,"3625 Highway 14, Millbrook, AL, 36054",+1 334-285-7997,https://www.winndixie.com/storedetails/millbrook/al?search=451,32.5175984,-86.3771747,,,w_469436781,"shop=supermarket, brand=Winn-Dixie"
+"Billingsley, AL",,retail,445120,,,,,32.5384279,-86.45591,,,w_534126175,shop=convenience
+"Billingsley, AL",,retail,445110,Walmart Supercenter,"145 Kelley Boulevard, Millbrook, AL, 36054",+1 334-285-0311,https://www.walmart.com/store/4318-millbrook-al,32.4938191,-86.3985052,,,w_534204092,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Billingsley, AL",,retail,445110,Publix,"2451 Cobbs Ford Road, Prattville, AL, 36066-7763",+1 334-285-0227,https://www.publix.com/locations/1228,32.4615021,-86.3982379,,,w_760112796,"shop=supermarket, brand=Publix"
+"Billingsley, AL",,retail,452210,JCPenney,,,,32.4635122,-86.3986333,,,w_760112797,"shop=department_store, brand=JCPenney"
+"Billingsley, AL",,retail,452319,Family Dollar,,,,32.5129894,-86.3805247,,,w_768387859,shop=variety_store
+"Billingsley, AL",,retail,445120,Headley,,,,32.8862102,-86.6245443,,,w_824722010,shop=convenience
+"Billingsley, AL",,retail,452319,Five Below,,+1 334-290-2864,https://locations.fivebelow.com/al/prattville/1472-cotton-exchange,32.4574297,-86.4076318,,,w_854281914,"shop=variety_store, brand=Five Below"
+"Billingsley, AL",,retail,446120,Ulta Beauty,"1466 Cotton Exchange, Prattville, AL, 36066",+1 334-285-7717,https://www.ulta.com/stores/prattville-al-752,32.4576133,-86.4076357,,,w_854281915,"shop=beauty, brand=Ulta Beauty"
+"Billingsley, AL",,retail,452210,Kohl's,"1460 Cotton Exchange, Prattville, AL, 36066",+1 334-285-2491,https://www.kohls.com/stores/al/prattville-1334.shtml,32.4580865,-86.4078149,,,w_854281916,"shop=department_store, brand=Kohl's"
+"Billingsley, AL",,retail,445110,Walmart Supercenter,"1903 Cobbs Ford Road, Prattville, AL, 36066",+1 334-361-2135,https://www.walmart.com/store/483-prattville-al,32.4631145,-86.4164807,,,w_854328981,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Billingsley, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/prattville-al-pharmacies/1904-cobbs-ford-rd-prattville-al-36066/storeid=4944,32.4599057,-86.4175202,,,w_854929730,"shop=chemist, brand=CVS Pharmacy"
+"Billingsley, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/prattville/783/,32.4591134,-86.4158473,,,w_854929760,"shop=variety_store, brand=Dollar Tree"
+"Billingsley, AL",,retail,452319,Ollie's,,,,32.4590599,-86.4154021,,,w_854929761,shop=variety_store
+"Billingsley, AL",,retail,445110,ALDI,"1817 East Main Street, Prattville, AL, 36066",+1 844-476-1103,https://stores.aldi.us/al/prattville/1817-east-main-street,32.4617015,-86.4204665,,,w_854966447,"shop=supermarket, brand=ALDI"
+"Billingsley, AL",,retail,445120,Kwik Shop,,,,32.4792147,-86.3623513,,,w_858328304,shop=convenience
+"Billingsley, AL",,retail,445120,Quick Stop,,,,32.4676471,-86.4503196,,,w_858655138,shop=convenience
+"Billingsley, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/prattville-al-pharmacies/708-e-main-st-prattville-al-36067/storeid=4838,32.459588,-86.4545036,,,w_859406479,"shop=chemist, brand=CVS Pharmacy"
+"Billingsley, AL",,retail,445110,Winn-Dixie,"701 East Main Street, Prattville, AL, 36067",+1 334-365-7015,https://www.winndixie.com/storedetails/prattville/al?search=527,32.4621306,-86.4553854,,,w_859406512,"shop=supermarket, brand=Winn-Dixie"
+"Billingsley, AL",,retail,445110,Walmart Supercenter,"1501 Al Highway 14 East, Selma, AL, 36703",+1 334-874-7793,https://www.walmart.com/store/700-selma-al,32.4341409,-87.0130338,,,w_874838284,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Billingsley, AL",,retail,445110,Piggly Wiggly,"24716 US-31, Jemison, AL, 35085",+1 205-688-2477,,32.9591894,-86.7420219,,,w_1069806466,"shop=supermarket, brand=Piggly Wiggly"
+"Billingsley, AL",,retail,446110,Hayes Drug,"24724 US-31, Jemison, AL, 35085",,,32.9594803,-86.7421703,,,w_1069806470,shop=chemist
+"Billingsley, AL",,retail,452319,Dollar General,"8898 County Road 42 East, Jemison, AL, 35085",,https://www.dollargeneral.com/store-directory/al/jemison/8862,32.9583581,-86.742272,,,w_1069806472,"shop=variety_store, brand=Dollar General"
+"Billingsley, AL",,retail,445110,Dave's Market,"5514 Citizens Parkway, Valley Grande, AL, 36701",,,32.4825296,-87.0007701,,,w_1161544398,shop=supermarket
+"Billingsley, AL",,retail,445110,Maplesville Supermarket,"8331 Alabama Highway 22, Maplesville, AL, 36750",,,32.7736297,-86.8757609,,,w_1161544401,shop=supermarket
+"Billingsley, AL",,retail,452319,Dollar General,"8331 Alabama Highway 22, Maplesville, AL, 36750",,https://www.dollargeneral.com/store-directory/al/maplesville/1000,32.7732405,-86.8761273,,,w_1161544402,"shop=variety_store, brand=Dollar General"
+"Billingsley, AL",,retail,445110,Walmart Supercenter,"1415 7th Street South, Clanton, AL, 35045",+1 205-755-7574,https://www.walmart.com/store/424-clanton-al,32.8167395,-86.6093644,,,w_1311909801,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Billingsley, AL",,retail,445110,,,,,32.415504,-87.0318803,,,w_1356544471,shop=supermarket

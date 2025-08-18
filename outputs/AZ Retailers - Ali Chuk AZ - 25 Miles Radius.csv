@@ -1,0 +1,12 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Ali Chuk, AZ",,retail,445110,,,,,31.8634364,-112.8496458,,,n_700026439,shop=supermarket
+"Ali Chuk, AZ",,retail,445120,Mercado Excelsior,,,,31.8632952,-112.8514978,,,n_700161117,shop=convenience
+"Ali Chuk, AZ",,retail,445120,Oxxo,,,,31.8620687,-112.8495208,,,n_4084634291,shop=convenience
+"Ali Chuk, AZ",,retail,452319,,"175 North Highway 85, Lukeville, AZ, 85341",,,31.8806605,-112.817516,,,n_11436180802,shop=general
+"Ali Chuk, AZ",,retail,445110,Bodega Aurrera,"Boulevard Francisco Eusebio Kino, Sonoyta, 83570",,https://www.bodegaaurrera.com.mx/inicio,31.8593307,-112.8517167,,,w_1094655803,"shop=supermarket, brand=Bodega Aurrera, operator=Walmart"
+"Ali Chuk, AZ",,retail,452210,Coppel,"Sonoyta, 83570",,,31.8642463,-112.8547551,,,w_1094655924,"shop=department_store, brand=Coppel"
+"Ali Chuk, AZ",,retail,445120,Oxxo,Sonoyta,,,31.8641056,-112.8539526,,,w_1094656043,"shop=convenience, brand=Oxxo"
+"Ali Chuk, AZ",,retail,445120,Oxxo,"Boulevard Francisco Eusebio Kino, Sonoyta, 83570",,https://www.oxxo.com/tiendas?cr=50EIV,31.8552429,-112.8553743,,,w_1094656405,"shop=convenience, brand=Oxxo"
+"Ali Chuk, AZ",,retail,445120,Oxxo,Sonoyta,,,31.8730423,-112.8490651,,,w_1094656949,"shop=convenience, brand=Oxxo"
+"Ali Chuk, AZ",,retail,445120,Oxxo,Sonoyta,,,31.878793,-112.8197129,,,w_1094657087,"shop=convenience, brand=Oxxo"
+"Ali Chuk, AZ",,retail,445120,Oxxo,"Calle Benemérito de las Américas, Sonoyta, 83570",,,31.8620434,-112.8494987,,,w_1094973380,"shop=convenience, brand=Oxxo"

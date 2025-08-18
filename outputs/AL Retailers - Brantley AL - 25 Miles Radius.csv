@@ -1,0 +1,40 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Brantley, AL",,retail,445120,Country One Stop,,,,31.8467308,-86.4125184,,,n_1279393174,shop=convenience
+"Brantley, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/troy/3900,31.7857265,-85.9665589,,,n_6544541520,"shop=variety_store, brand=Dollar General"
+"Brantley, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/goshen/19824,31.8086044,-86.145361,,,n_7993989449,"shop=variety_store, brand=Dollar General"
+"Brantley, AL",,retail,445110,Piggly Wiggly,"1130 Martin Luther King Junior Expressway, Andalusia, AL, 35420",+1 334-222-9121,https://pigglywigglyofandalusia.com/,31.3175749,-86.4629008,,,n_8729085715,"shop=supermarket, brand=Piggly Wiggly"
+"Brantley, AL",,retail,452319,Dollar Tree,"1138 Martin Luther King Junior Expressway, Andalusia, AL, 36420",+1-334-658-6107,https://www.dollartree.com/locations/al/andalusia/4637/,31.3174122,-86.462469,,,n_8729095560,"shop=variety_store, brand=Dollar Tree"
+"Brantley, AL",,retail,445120,Pic-N-Sav,"550 West Bypass, Andalusia, AL, 36420",+1 334 222 1804,https://www.picnsav.com/stores/pic-n-sav-andalusia,31.3043066,-86.5008304,,,n_9385768602,shop=convenience
+"Brantley, AL",,retail,445292,Great American Cookie Co,,,,31.8014408,-85.956003,,,n_9411807119,shop=confectionery
+"Brantley, AL",,retail,445110,Publix,"1147 US Highway 231 South, Troy, AL, 36081",+1 334-807-5761,https://www.publix.com/locations/1525,31.7806395,-85.9546251,,,n_12552605030,"shop=supermarket, brand=Publix"
+"Brantley, AL",,retail,445110,Walmart Supercenter,"1991 M.L.K. Jr Expressway, Andalusia, AL, 36420",+1 334-222-6561,https://www.walmart.com/store/1091-andalusia-al,31.3216695,-86.4450417,,,w_1017626922,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Brantley, AL",,retail,445110,Piggly Wiggly,,,,31.8143955,-85.9715958,,,w_1020455133,"shop=supermarket, brand=Piggly Wiggly"
+"Brantley, AL",,retail,446110,Walgreens,,,https://www.walgreens.com/locator/walgreens-100+elba+hwy-troy-al-36079/id=11098,31.7844232,-85.9639911,,,w_1020582620,"shop=chemist, brand=Walgreens"
+"Brantley, AL",,retail,445110,Walmart Supercenter,"1420 Highway 231 South, Troy, AL, 36081",+1 334-566-8012,https://www.walmart.com/store/723-troy-al,31.7808453,-85.9395246,,,w_1020582626,"shop=supermarket, brand=Walmart"
+"Brantley, AL",,retail,445110,Piggly Wiggly,"1235 Highway 231, Troy, AL, 36081",,,31.7799717,-85.9509343,,,w_1020582627,"shop=supermarket, brand=Piggly Wiggly"
+"Brantley, AL",,retail,452210,Ross,"1307 Highway 231, Troy, AL, 36081",+1 334-670-6943,,31.7780148,-85.9456306,,,w_1020582629,"shop=department_store, brand=Ross"
+"Brantley, AL",,retail,452210,TJ Maxx,,,,31.7778376,-85.9452753,,,w_1020582630,"shop=department_store, brand=TJ Maxx"
+"Brantley, AL",,retail,446120,Ulta Beauty,"1307 Highway 231 South, Troy, AL, 36081",+1 334-635-3824,https://www.ulta.com/stores/troy-al-1598,31.7777948,-85.9449271,,,w_1020582631,"shop=beauty, brand=Ulta Beauty"
+"Brantley, AL",,retail,452319,Five Below,,,,31.7777233,-85.9446323,,,w_1020582632,"shop=variety_store, brand=Five Below"
+"Brantley, AL",,retail,452210,Burkes Outlet,,,,31.7795149,-85.9488689,,,w_1020582660,shop=department_store
+"Brantley, AL",,retail,445292,Cakes by Joyce,,,,31.8073325,-85.9692596,,,w_1028085619,shop=confectionery
+"Brantley, AL",,retail,445120,,,,,31.4954885,-86.3686866,,,w_1035475136,shop=convenience
+"Brantley, AL",,retail,445292,bSweet Dessert Boutique,,,,31.8081009,-85.971673,,,w_1063403898,shop=confectionery
+"Brantley, AL",,retail,445120,Z-Tec,"803 U.S. Highway 231 South, Troy, AL, 36081",,,31.7902309,-85.9753839,,,w_1180285476,"shop=convenience, amenity=fuel"
+"Brantley, AL",,retail,445120,Circle K,"101 U.S. Highway 231 South, Troy, AL, 36081",,,31.7913387,-85.9777394,,,w_1180285532,"shop=convenience, brand=Circle K"
+"Brantley, AL",,retail,445120,Sunny South,,,,31.7930405,-85.9789269,,,w_1180285540,shop=convenience
+"Brantley, AL",,retail,445120,Marathon,,,,31.80812,-85.9902793,,,w_1180285586,"shop=convenience, brand=Marathon"
+"Brantley, AL",,retail,445120,Marathon,,,,31.8559064,-85.9977238,,,w_1180285656,"shop=convenience, brand=Marathon"
+"Brantley, AL",,retail,445120,Marathon,,,,31.6791196,-85.9570642,,,w_1180295467,"shop=convenience, brand=Marathon"
+"Brantley, AL",,retail,445120,Z-Tec,"1130 U.S. Highway 231 South, Troy, AL, 36080",,,31.7835065,-85.9548159,,,w_1180331164,shop=convenience
+"Brantley, AL",,retail,452319,Dollar General,,,,31.3075817,-86.4862633,,,w_1193186266,"shop=variety_store, brand=Dollar General"
+"Brantley, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/andalusia-al-pharmacies/1204-dr-m-l-k-jr-expy-andalusia-al-36420/storeid=7077,31.3180757,-86.4607448,,,w_1193186276,"shop=chemist, brand=CVS Pharmacy"
+"Brantley, AL",,retail,452319,Dollar General,"118 Shelby Street, Andalusia, AL, 36421",,https://www.dollargeneral.com/store-directory/al/andalusia/4027,31.3200407,-86.4622369,,,w_1193186285,"shop=variety_store, brand=Dollar General"
+"Brantley, AL",,retail,452319,Dirt Cheap,,,,31.3203283,-86.4575521,,,w_1193186294,shop=variety_store
+"Brantley, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/opp/3297,31.2718786,-86.247215,,,w_1234950178,"shop=variety_store, brand=Dollar General"
+"Brantley, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/brantley/11251,31.5789786,-86.2569081,,,w_1235075311,"shop=variety_store, brand=Dollar General"
+"Brantley, AL",,retail,445120,Old Gin Creek,"9627 South Main Street, Brantley, AL, 36009",,,31.5796854,-86.2559942,,,w_1316744411,"shop=convenience, amenity=fuel"
+"Brantley, AL",,retail,446191,331 Nutrition,,,,31.5815676,-86.257249,,,w_1316744462,shop=health_food
+"Brantley, AL",,retail,445110,Dixieland,"17 Monroe Street, Brantley, AL, 36009",,,31.5819415,-86.2561922,,,w_1316744511,shop=supermarket
+"Brantley, AL",,retail,445120,Sun Stop,"9415 North Main Street, Brantley, AL, 36009",,,31.5827854,-86.2568204,,,w_1316744535,"shop=convenience, amenity=fuel, brand=Inland"
+"Brantley, AL",,retail,445120,Eagle Express,,,,31.581777,-86.2583299,,,w_1316748056,"shop=convenience, amenity=fuel"

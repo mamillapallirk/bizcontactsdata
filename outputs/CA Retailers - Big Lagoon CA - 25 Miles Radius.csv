@@ -1,0 +1,55 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Big Lagoon, CA",,retail,445310,Libation Wine Bar & Shop,"761 8th Street, Arcata, CA, 95521",+1 (707) 499-7335,,40.8680614,-124.0866846,,,n_761654384,shop=wine
+"Big Lagoon, CA",,retail,446120,Soul to Soul Spa Eureka,"601 5th Street, Eureka, 95501",,,40.8022085,-124.1648134,,,n_1467729487,shop=beauty
+"Big Lagoon, CA",,retail,453110,Heuer's Florist,,,,40.8019427,-124.1650379,,,n_1467729489,shop=florist
+"Big Lagoon, CA",,retail,453991,Joe's Smoke Shop,,,,40.8026702,-124.1591116,,,n_1467729513,shop=tobacco
+"Big Lagoon, CA",,retail,445110,Murphy's,"100 Alliance, 95503",,https://www.murphysmarkets.net/,40.8844162,-124.0909244,,,n_1979018863,shop=supermarket
+"Big Lagoon, CA",,retail,445120,Roger's Market,"791 School Road, McKinleyville, CA, 95519",(707) 839-3866,,40.9342246,-124.120388,,,n_2107762096,shop=convenience
+"Big Lagoon, CA",,retail,445120,Shoreline Market,,,,41.2850753,-124.0734816,,,n_2651685984,shop=convenience
+"Big Lagoon, CA",,retail,445310,Cask & Flask Liquors,"1523 City Center Road, McKinleyville, CA, 95519",(707) 839-2048,,40.9438505,-124.1027519,,,n_3793533813,shop=alcohol
+"Big Lagoon, CA",,retail,453991,Thunderbird Intertribal Discount Center,,,,41.064956,-123.6856049,,,n_4270192569,shop=tobacco
+"Big Lagoon, CA",,retail,445110,Ray's Food Place,,,,41.0630259,-123.68692,,,n_4270192572,"shop=supermarket, brand=Ray's Food Place"
+"Big Lagoon, CA",,retail,445110,Eureka Natural Foods,"2165 Central Avenue, McKinleyville, 95519",(707) 839-3636,https://www.eurekanaturalfoods.com,40.9448341,-124.0999683,,,n_4987263453,shop=supermarket
+"Big Lagoon, CA",,retail,445110,Pearson's Grocery,,(530) 625-4173,,41.1846369,-123.705266,,,n_5266338926,shop=supermarket
+"Big Lagoon, CA",,retail,445120,College Creek Marketplace,,,,40.8740161,-124.0798697,,,n_5267116512,shop=convenience
+"Big Lagoon, CA",,retail,445120,Giant’s Cupboard,,,,40.8786764,-124.0785718,,,n_5271013151,shop=convenience
+"Big Lagoon, CA",,retail,445292,Cook N Sugar Candy and Kitchen,,,,40.8698243,-124.0870986,,,n_6298486744,shop=confectionery
+"Big Lagoon, CA",,retail,445310,,,,,40.8033255,-124.1647983,,,n_6582891699,"shop=alcohol, operator=Lost Coast Brewery"
+"Big Lagoon, CA",,retail,445310,Liquor Still,,,,40.9046063,-124.0816616,,,n_7895856992,shop=alcohol
+"Big Lagoon, CA",,retail,452319,Dollar Tree,1111 West Avenue,,https://www.dollartree.com/locations/ca/eureka/1945/,40.7997583,-124.1468493,,,n_7968109918,"shop=variety_store, brand=Dollar Tree"
+"Big Lagoon, CA",,retail,446120,,,,,40.8009502,-124.1485312,,,n_7968110098,shop=beauty
+"Big Lagoon, CA",,retail,446120,Redwood Nails Spa,"1040 Myrtle Avenue, Eureka, CA",,https://redwood-nails-spa.hub.biz/,40.7995001,-124.1484904,,,n_7968193497,shop=beauty
+"Big Lagoon, CA",,retail,445110,Grocery Outlet,,,,40.9338587,-124.100402,,,n_9231441153,"shop=supermarket, brand=Grocery Outlet"
+"Big Lagoon, CA",,retail,453110,Country Living Florist & Fine Gifts,"1309 11th Street, Arcata, CA, 95521",(707) 822-8967,https://countrylivingflorist.com/,40.8716471,-124.0921367,,,n_11976761444,shop=florist
+"Big Lagoon, CA",,retail,445110,Wildberries Marketplace,"747 13th Street, CA",,https://www.wildberries.com/,40.8717172,-124.08534,,,w_42121635,shop=supermarket
+"Big Lagoon, CA",,retail,445110,North Coast Co-op,"811 I Street, Arcata, CA, 95521",(707) 822-5947,https://www.northcoast.coop/,40.8690422,-124.0887834,,,w_42168946,shop=supermarket
+"Big Lagoon, CA",,retail,452210,Target,"2525 4th Street, Eureka, CA, 95501-0823",+1 707-442-0201,https://www.target.com/sl/eureka/1421,40.8056064,-124.1438239,,,w_44076083,"shop=department_store, brand=Target"
+"Big Lagoon, CA",,retail,446110,Rite Aid,,,,40.9332239,-124.1013168,,,w_64932167,"shop=chemist, amenity=pharmacy, brand=Rite Aid"
+"Big Lagoon, CA",,retail,445120,Courthouse Market,"905 4th Street, Eureka, CA",,,40.8036745,-124.1615665,,,w_238219442,shop=convenience
+"Big Lagoon, CA",,retail,445120,Speed Mart,"1125 4th Street, Eureka, CA",,,40.8041415,-124.1589188,,,w_238219463,shop=convenience
+"Big Lagoon, CA",,retail,445292,Dick Taylor Craft Chocolate,"4 4th Street, Eureka, CA",+1 707-798-6010,https://dicktaylorchocolate.com/,40.802246,-124.1718089,,,w_238290507,shop=chocolate
+"Big Lagoon, CA",,retail,445110,North Coast Co-op,"25 4th Street, Eureka, CA, 95501",,https://www.northcoast.coop/,40.8025026,-124.1713286,,,w_238290511,shop=supermarket
+"Big Lagoon, CA",,retail,446110,Humboldt Herbals,"2nd Street, Eureka, 95501",(707) 442-3541,https://www.humboldtherbals.com/,40.8039148,-124.1685228,,,w_238354353,shop=chemist
+"Big Lagoon, CA",,retail,446120,The Spa at Personal Choice,"130 G Street, Eureka, CA, 95501",707-445-2041,http://www.thespaatpersonalchoice.com/,40.8048645,-124.1657501,,,w_238365963,shop=beauty
+"Big Lagoon, CA",,retail,445110,Safeway,"1503 City Center Road, McKinleyville, CA, 95519",+1 707-840-9770,https://local.safeway.com/safeway/ca/mckinleyville/1503-city-ctr-rd.html,40.9436859,-124.1031283,,,w_252695693,"shop=supermarket, brand=Safeway"
+"Big Lagoon, CA",,retail,445110,Murphy's Market,,,https://www.murphysmarkets.net/,41.0608646,-124.140533,,,w_409186947,shop=supermarket
+"Big Lagoon, CA",,retail,445310,Moonstone Crossing Winery,,(707) 845-5492,https://www.moonstonecrossing.com/#modern-organic-thai,41.0590004,-124.1426604,,,w_454607144,shop=wine
+"Big Lagoon, CA",,retail,445120,Aztec Grill,"101 Main Street, Trinidad, CA, 95570",,https://www.yelp.com/biz/aztec-grill-trinidad-5,41.0618713,-124.1406837,,,w_454607254,shop=convenience
+"Big Lagoon, CA",,retail,453991,BigFish Vapor Lab,"774 9th Street, Arcata, CA, 95521",+1 707-672-5255,https://bigfishvaporlab.com/,40.8692072,-124.0864483,,,w_470145059,shop=tobacco
+"Big Lagoon, CA",,retail,445310,Arcata Liquors,"786 9th Street, Arcata, CA, 95521",+1 707-822-0414,,40.8692479,-124.086625,,,w_470145062,shop=alcohol
+"Big Lagoon, CA",,retail,445110,Orick Market,"121175 Highway 101, Orick, CA, 95555",,,41.2905031,-124.0575586,,,w_550433802,shop=supermarket
+"Big Lagoon, CA",,retail,445110,Murphy's Market,"785 Bayside Road, Arcata, CA, 95521",,,40.8583521,-124.0728571,,,w_580609198,shop=supermarket
+"Big Lagoon, CA",,retail,446120,Young Nails,"923 H Street, Arcata, CA, 95521",+1 (707) 840-6068,,40.8693226,-124.0869232,,,w_672450000,shop=beauty
+"Big Lagoon, CA",,retail,445110,4th Street Market,,,,40.8647079,-124.088204,,,w_672464758,shop=supermarket
+"Big Lagoon, CA",,retail,446110,CVS Pharmacy,"600 F Street, Arcata, CA, 95521",+1 (707) 822-2479,https://www.cvs.com/store-locator/arcata-ca-pharmacies/600-f-st-arcata-ca-95521/storeid=9482,40.8657241,-124.0852648,,,w_672472075,"shop=chemist, brand=CVS Pharmacy"
+"Big Lagoon, CA",,retail,445110,Safeway,"600 F Street, Arcata, CA, 95521",+1 707-822-5217,https://local.safeway.com/safeway/ca/arcata/600-f-st.html,40.865909,-124.0839548,,,w_672472077,"shop=supermarket, brand=Safeway"
+"Big Lagoon, CA",,retail,453991,Pacific Paradise Vape Shop,"1087 H Street, Arcata, CA, 95521",+1 (707) 822-7143,,40.8705139,-124.0864648,,,w_672575035,shop=tobacco
+"Big Lagoon, CA",,retail,446110,Barnes Arcata Family Drug,"1080 G Street, Arcata, CA, 95521",+1 (707) 822-1717,,40.8701581,-124.0850205,,,w_672613129,shop=chemist
+"Big Lagoon, CA",,retail,445120,Food Mart,,,,40.873128,-124.0845772,,,w_672613144,"shop=convenience, brand=Shell"
+"Big Lagoon, CA",,retail,445310,The Hutch,,,,40.8747293,-124.0833459,,,w_672613160,shop=alcohol
+"Big Lagoon, CA",,retail,445120,Chevron,"421 Samoa Boulevard, Arcata, CA, 95521",,,40.86597,-124.0906466,,,w_728986104,"shop=convenience, brand=Chevron"
+"Big Lagoon, CA",,retail,445110,Ray's Food Place,,,,40.9032259,-124.0817205,,,w_846292756,"shop=supermarket, brand=Ray's Food Place"
+"Big Lagoon, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/arcata/1845/,40.9038569,-124.081727,,,w_846292758,"shop=variety_store, brand=Dollar Tree"
+"Big Lagoon, CA",,retail,445120,Chevron,,,,40.9045797,-124.0824722,,,w_846309457,"shop=convenience, brand=Chevron"
+"Big Lagoon, CA",,retail,445120,Redwood Market,,,,40.8040648,-124.1441796,,,w_854417338,shop=convenience
+"Big Lagoon, CA",,retail,445120,McKinleyville Mini Mart,"2698 Central Avenue, McKinleyville, CA, 95519",(707) 839-2661,https://www.76.com/station/U76-MCKINLEYVILLE-MINI-MART-0000808405?refer=psx_76,40.9544766,-124.1013392,,,w_872148857,shop=convenience

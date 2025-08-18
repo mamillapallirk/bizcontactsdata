@@ -1,0 +1,112 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Buellton, CA",,retail,445120,The Store at Buchanan,,,,34.4156123,-119.8446974,,,n_448803339,shop=convenience
+"Buellton, CA",,retail,445120,UCSB Campus Store,,+1 (805) 893-8321,https://campusstore.ucsb.edu/home,34.4117597,-119.8482593,,,n_448863568,shop=convenience
+"Buellton, CA",,retail,445120,The Corner Store,,+1 (805) 893-4593,,34.411781,-119.8478257,,,n_451025875,shop=convenience
+"Buellton, CA",,retail,445110,Nielsen's,,,,34.6001435,-120.1268783,,,n_530754630,shop=supermarket
+"Buellton, CA",,retail,445110,Indo China Market,"6831 Hollister Avenue, Goleta, 93117",,,34.4296881,-119.8670757,,,n_648613536,shop=supermarket
+"Buellton, CA",,retail,445310,Orcutt Liquor & Deli,,,,34.8653103,-120.446983,,,n_1193620589,shop=alcohol
+"Buellton, CA",,retail,445110,Old Town Market,,,https://www.oldtownmarket.net/,34.8653609,-120.4431452,,,n_1193620593,shop=supermarket
+"Buellton, CA",,retail,445110,Albertsons,"1120 East Clark Avenue, Orcutt, CA, 93455",+1 805-934-4472,https://local.albertsons.com/ca/orcutt/1120-e-clark-ave.html,34.8635741,-120.41729,,,n_1296806026,"shop=supermarket, brand=Albertsons"
+"Buellton, CA",,retail,445120,7-Eleven,"4975 South Bradley Road, Santa Maria, CA, 93455-5047",+1 805-937-3355,https://www.7-eleven.com/locations/ca/santa-maria/4975-s-bradley-rd-13873,34.8655654,-120.4193289,,,n_1296875498,"shop=convenience, brand=7-Eleven"
+"Buellton, CA",,retail,445110,Spencer's Fresh Markets,,,www.spencersfreshmarkets.com,34.8952856,-120.4358303,,,n_1296875507,shop=supermarket
+"Buellton, CA",,retail,445110,Albertsons,"5811 Calle Real, Goleta, CA, 93117",+1-805-964-2318,https://local.albertsons.com/ca/goleta/5801-calle-real.html,34.4407952,-119.826197,,,n_1348747767,"shop=supermarket, brand=Albertsons"
+"Buellton, CA",,retail,445110,Trader Joe's,"5767 North Calle Real Avenue, Goleta, CA, 93117",+1 805-692-2234,https://locations.traderjoes.com/ca/goleta/110/,34.4407421,-119.8250202,,,n_1348747780,"shop=supermarket, brand=Trader Joe's"
+"Buellton, CA",,retail,445120,Cielo Store,,,,34.5117047,-119.8227506,,,n_1478446826,shop=convenience
+"Buellton, CA",,retail,445110,FoodMaxx,"2440 South Broadway, 93454",,https://www.foodmaxx.com/,34.9152589,-120.434285,,,n_1773962721,"shop=supermarket, brand=FoodMaxx"
+"Buellton, CA",,retail,452210,Kohl's,"2501 South Broadway, Santa Maria, CA, 93455",+1 805-937-3941,https://www.kohls.com/stores/ca/santamaria-477.shtml,34.9148019,-120.4370615,,,n_1773976089,"shop=department_store, brand=Kohl's"
+"Buellton, CA",,retail,445310,Oak Knoll Liquors,,,,34.8662827,-120.4177098,,,n_1779953304,shop=alcohol
+"Buellton, CA",,retail,445120,Melody Mini Market,,,,34.882785,-120.4355393,,,n_1779971314,shop=convenience
+"Buellton, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/santa-maria/4858/,34.8958365,-120.4357993,,,n_1779977744,"shop=variety_store, brand=Dollar Tree"
+"Buellton, CA",,retail,445310,Orcutt Liquor,,,,34.8972532,-120.4356654,,,n_1779977754,shop=alcohol
+"Buellton, CA",,retail,445310,Jalama Wines,"308, Unit C North 9th Street, 93436",,https://www.jalamawines.com,34.6425391,-120.4375316,,,n_1920915046,shop=alcohol
+"Buellton, CA",,retail,453991,Tobacco +,,,,34.921021,-120.4193841,,,n_2125475640,shop=tobacco
+"Buellton, CA",,retail,445120,Collins Market,,,,34.7439541,-120.2815655,,,n_2180326244,shop=convenience
+"Buellton, CA",,retail,446120,Ulta Beauty,"615 North H Street, Lompoc, 93436",,,34.6482374,-120.4591281,,,n_2193276331,"shop=cosmetics, brand=Ulta Beauty"
+"Buellton, CA",,retail,445310,Liquor Emporium,,,,34.638461,-120.443745,,,n_2804447101,shop=alcohol
+"Buellton, CA",,retail,445310,Highway 1 Liquor,"618 North H Street, Lompoc, 93436",,,34.647826,-120.457474,,,n_3085479533,shop=alcohol
+"Buellton, CA",,retail,445110,Village Market,,,,34.700461,-120.467968,,,n_3097569841,shop=supermarket
+"Buellton, CA",,retail,452210,Ross,"7055 Marketplace Drive, Goleta, CA, 93117",+1 805-968-3510,https://www.rossstores.com/,34.4275413,-119.8731328,,,n_3464726755,"shop=department_store, brand=Ross"
+"Buellton, CA",,retail,446120,Lovely Spa & Nails,"7127 Hollister Avenue, Goleta, 93117",+1-805-280-5052,,34.4284972,-119.8766303,,,n_3628098468,shop=beauty
+"Buellton, CA",,retail,445210,Carniceria Jalisco,,,,34.652603,-120.456783,,,n_3863085083,shop=butcher
+"Buellton, CA",,retail,445120,Los Alamos Market,"405 Bell Street, Los Alamos, CA, 93440",,,34.7443244,-120.2793175,,,n_4255107095,shop=convenience
+"Buellton, CA",,retail,445310,Casa Dumetz Wines,"388 Bell Street, Los Alamos, CA, 93440",+1-805-344-1900,https://casadumetzwines.com/,34.7439616,-120.2797716,,,n_4255540114,shop=wine
+"Buellton, CA",,retail,445310,Bedford Winery,"448 Bell Street, Los Alamos, CA, 93440",,,34.7439163,-120.2786684,,,n_4255557818,shop=wine
+"Buellton, CA",,retail,445310,Frequency Wine Company,"448 Bell Street, Los Alamos, CA, 93440",,,34.7439222,-120.2787095,,,n_4255557819,shop=wine
+"Buellton, CA",,retail,446120,Kimberly Nails & Spa,"700 N H St #B, Lompoc, CA, 93436",805-735-4666,http://kimberlynailspalompoc.com,34.6493611,-120.457472,,,n_4459053247,"shop=beauty, operator=Kim Cuc Nguyen"
+"Buellton, CA",,retail,453110,Lompoc Valley Florist & Home Decor,"1026 North H Street, Lompoc, CA, 93436",+1-805-736-2700,https://lompocvalleyflorist.com/,34.6543628,-120.4566237,,,n_4539000443,"shop=florist, operator=Connie"
+"Buellton, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/orcutt/7178/,34.8664624,-120.4194395,,,n_5245239553,"shop=variety_store, brand=Dollar Tree"
+"Buellton, CA",,retail,445310,Koehler Vinyard,,,,34.7307771,-120.129358,,,n_5732880026,shop=alcohol
+"Buellton, CA",,retail,445310,Firestone Vineyard,,,,34.712504,-120.1437345,,,n_5732880721,shop=alcohol
+"Buellton, CA",,retail,445310,Babcock winery,,,,34.6641549,-120.3311829,,,n_5908945785,shop=wine
+"Buellton, CA",,retail,445310,Cheer's Liquor,"7320 Hollister Avenue, Goleta, 93117",,,34.4303872,-119.8823699,,,n_6031493144,shop=alcohol
+"Buellton, CA",,retail,446120,Polished Nail Spa,"7060 Hollister Avenue, Goleta, CA, 93117",+1-805-845-8668,,34.4311362,-119.874114,,,n_6031493365,shop=beauty
+"Buellton, CA",,retail,445310,BevMo!,"7070 Marketplace Drive, Goleta, CA, 93117",,,34.4297187,-119.8738688,,,n_6038093273,"shop=alcohol, brand=BevMo!"
+"Buellton, CA",,retail,446120,Ulta Beauty,"7000 Marketplace Drive, Goleta, CA, 93117",+1 805-685-2060,https://www.ulta.com/stores/goleta-ca-547,34.4295204,-119.87183,,,n_6038093279,"shop=cosmetics, brand=Ulta Beauty"
+"Buellton, CA",,retail,446120,Little Rainbow Foot Spa,"290 Storke Road, Goleta, 93117",+1-805-685-7858,https://www.littlerainbowfootspas.com/goleta.html,34.4283612,-119.8692773,,,n_6038125937,shop=beauty
+"Buellton, CA",,retail,445310,Continental Liquor,"290 Storke Road, Goleta, 93117",+1-805-968-1568,,34.4283586,-119.8691099,,,n_6038125938,shop=alcohol
+"Buellton, CA",,retail,445110,Santa Cruz Market,"5757 Hollister Avenue, Goleta, 93117",+1 (805) 967-9510,https://santacruzmarkets.com/,34.43543,-119.825446,,,n_6070201013,shop=supermarket
+"Buellton, CA",,retail,445110,Grocery Outlet,,,,34.6386353,-120.454502,,,n_6143921093,"shop=supermarket, brand=Grocery Outlet"
+"Buellton, CA",,retail,446120,LaserAway,,,,34.4416961,-119.825563,,,n_6401611931,"shop=beauty, brand=LaserAway"
+"Buellton, CA",,retail,445310,Los Olivos Tasting Room & Wine Shop,,,,34.6657512,-120.1151918,,,n_6486475787,"shop=wine, operator=Chris Benziger"
+"Buellton, CA",,retail,445110,Sprouts Farmers Market,"175 North Fairview Avenue, Goleta, CA, 93117",+1 (805) 979-9589,https://www.sprouts.com/store/ca/goleta/n-fairview-ave/,34.4422916,-119.832381,,,n_6543754886,"shop=supermarket, brand=Sprouts Farmers Market"
+"Buellton, CA",,retail,446120,The B Boutique,"900 Embarcadero del Mar, Isla Vista, 93117",,http://www.thebboutiques.com/,34.4129939,-119.8567549,,,n_7090604661,shop=beauty
+"Buellton, CA",,retail,445292,,1679 Copenhagen Drive,,,34.5948637,-120.1392124,,,n_8819136299,shop=chocolate
+"Buellton, CA",,retail,445120,Speedway,"1000 North H Street, Lompoc, CA, 93436",,,34.6537945,-120.457253,,,n_9178522173,"shop=convenience, brand=Speedway"
+"Buellton, CA",,retail,446120,Famous Nails,"6831 Hollister Avenue, 93117",,,34.4295772,-119.8670824,,,n_9289356551,shop=beauty
+"Buellton, CA",,retail,452319,Dollar Tree,"175 North Fairview Avenue, Goleta, CA, 93117",+1 (805) 770-6515,https://www.dollartree.com/locations/ca/goleta/7714/,34.4420515,-119.832227,,,n_9762077684,"shop=variety_store, brand=Dollar Tree"
+"Buellton, CA",,retail,446120,Elegant Nail & Salon,"5915 Calle Real, Goleta, CA, 93117",+1 (805) 837-4402,https://www.elegantnailsandspagoleta.com/,34.4410532,-119.8283588,,,n_9764794731,shop=beauty
+"Buellton, CA",,retail,445310,Sunstone Winery,,,,34.586731,-120.1033268,,,n_9942446217,shop=wine
+"Buellton, CA",,retail,452319,Five Below,613 North H Street,+1 805-735-3249,https://locations.fivebelow.com/ca/lompoc/613-n-h-street,34.6480456,-120.459121,,,n_10736165765,"shop=variety_store, brand=Five Below"
+"Buellton, CA",,retail,445120,Eagle Energy,,,,34.6191848,-120.1907238,,,n_10816629855,shop=convenience
+"Buellton, CA",,retail,452319,,,,,34.4654011,-120.0225764,,,n_11161991899,shop=general
+"Buellton, CA",,retail,445120,7-Eleven,"5810 Hollister Avenue, Goleta, CA, 93117-3624",+1 805-964-5681,https://www.7-eleven.com/locations/ca/goleta/5810-hollister-18823,34.4361697,-119.8269452,,,n_11899731859,"shop=convenience, brand=7-Eleven"
+"Buellton, CA",,retail,445292,See's Candies,"7044 Marketplace Drive, Goleta, CA, 93117",1-805-617-0885,https://chocolateshops.sees.com/ca/goleta/chocolate_shops_goleta_ca_la-133.html,34.4294423,-119.8730485,,,n_12020546087,"shop=confectionery, brand=See's Candies"
+"Buellton, CA",,retail,445110,Valley Fresh Market,,,,34.6001198,-120.1269741,,,n_12101225057,shop=supermarket
+"Buellton, CA",,retail,452210,Marshalls,"701 North H Street, Lompoc, CA",,,34.6486222,-120.4591458,,,n_12470559838,"shop=department_store, brand=Marshalls"
+"Buellton, CA",,retail,445310,Kalyra Winery,,,https://www.kalyrawinery.com/,34.5937969,-120.1001465,,,n_12750548421,shop=beverages
+"Buellton, CA",,retail,445310,SOS Liquor,"956 Embarcadero del Norte, Isla Vista, CA, 93117",+1-805-968-3565,https://www.facebook.com/Sos-liquor-1387718994889796/,34.4115362,-119.8551912,,,w_42752764,shop=alcohol
+"Buellton, CA",,retail,445120,Isla Vista Food Cooperative,"6575 Seville Road, Isla Vista, 93117",+1-805-968-1401,https://islavistafood.coop/,34.4115706,-119.8576738,,,w_42753934,shop=convenience
+"Buellton, CA",,retail,445310,KNB Market,"915 Embarcadero del Mar, Isla Vista, CA, 93117",+1 (805) 968-1316,https://kegnbottle.com/pages/location-santa-barbara/,34.4126662,-119.857279,,,w_42753963,shop=alcohol
+"Buellton, CA",,retail,453991,Vape & Cigar,"6580 Pardall Road, Isla Vista, 93117",+1-805-770-7105,,34.4132937,-119.8577286,,,w_42753971,shop=tobacco
+"Buellton, CA",,retail,452210,Target,"6865 Hollister Avenue, Goleta, CA, 93117",+1 805-979-3525,https://www.target.com/sl/goleta/2872,34.4285718,-119.8676104,,,w_50865980,"shop=department_store, brand=Target"
+"Buellton, CA",,retail,445110,Dollar General Market,"1124 West Ocean Ave, Lompoc, CA, 93436",+1 805-741-3935,https://www.dollargeneral.com/store-directory/ca/lompoc/14204,34.6380915,-120.4717921,,,w_132312175,"shop=supermarket, brand=Dollar General"
+"Buellton, CA",,retail,445110,Vons,"729 North H Street, 93436",,https://local.vons.com/ca/lompoc-1738.html,34.6496547,-120.4592381,,,w_132312439,"shop=supermarket, brand=Vons"
+"Buellton, CA",,retail,445110,Cielo Store,"5396 East Camino Cielo, Santa Barbara, CA, 93105",,,34.511665,-119.8228032,,,w_134477768,shop=supermarket
+"Buellton, CA",,retail,445120,Mini Mart,,,,34.6110495,-120.1887463,,,w_142867212,shop=convenience
+"Buellton, CA",,retail,445120,Garey Store,"3816 Foxen Canyon Rd, Santa Maria, CA, 93454",,,34.8886194,-120.3147998,,,w_201509315,shop=convenience
+"Buellton, CA",,retail,452210,Walmart,"2220 South Bradley Road, Santa Maria, CA, 93455",+1 805-349-7885,https://www.walmart.com/store/2507-santa-maria-ca,34.9198982,-120.4191589,,,w_202580702,"shop=department_store, brand=Walmart, operator=Walmart"
+"Buellton, CA",,retail,445110,Walmart Neighborhood Market,"2240 South Bradley Road, Santa Maria, CA, 93455",+1 805-348-4951,https://www.walmart.com/store/5658-santa-maria-ca,34.9188774,-120.4190243,,,w_202589651,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Buellton, CA",,retail,452210,TJ Maxx,,,www.tjmaxx.com,34.9184961,-120.4190698,,,w_202589652,"shop=department_store, brand=TJ Maxx"
+"Buellton, CA",,retail,445120,The Arbor,,+1 (805) 893-4164,,34.4141516,-119.8465255,,,w_221404491,shop=convenience
+"Buellton, CA",,retail,445120,7-Eleven,"6545 Trigo Road, Isla Vista, CA, 93117",+1 805-968-0425,https://www.7-eleven.com/locations/ca/isla-vista/6545-trigo-rd-36772,34.4107425,-119.8559745,,,w_230291644,"shop=convenience, brand=7-Eleven"
+"Buellton, CA",,retail,452319,,,,,34.4596916,-120.0259724,,,w_453796945,shop=general
+"Buellton, CA",,retail,445120,Miramar Food Pantry,,,https://dining.ucsb.edu/miramar-food-pantry,34.4200824,-119.8710121,,,w_539925891,shop=convenience
+"Buellton, CA",,retail,446110,CVS Pharmacy,"7030 Hollister Avenue, Goleta, CA, 93117",+1-805-562-1480,https://www.cvs.com/store-locator/goleta-ca-pharmacies/7030-hollister-avenue-goleta-ca-93117/storeid=11216,34.4306785,-119.873037,,,w_550860978,"shop=chemist, brand=CVS Pharmacy"
+"Buellton, CA",,retail,445120,Tenaya Market & Eatery,,+1 805-893-8555,,34.4184867,-119.8694616,,,w_558190391,"shop=convenience, amenity=cafe"
+"Buellton, CA",,retail,445120,Snag Delivery,"913 Embarcadero del Norte, Isla Vista, CA, 93117",,https://snagdelivery.app/,34.4128103,-119.855609,,,w_558220099,shop=convenience
+"Buellton, CA",,retail,445120,ExtraMile,,,,34.4298319,-119.8692336,,,w_561820415,"shop=convenience, brand=ExtraMile"
+"Buellton, CA",,retail,446120,IV Beauty Lounge,"6547 Pardall Road, Isla Vista, CA, 93117",,,34.4129731,-119.8558391,,,w_565867041,shop=beauty
+"Buellton, CA",,retail,445120,Mobil Mart,"49 Glen Annie Road, Goleta, 93117",,,34.4350838,-119.872139,,,w_567357681,"shop=convenience, brand=Mobil Mart"
+"Buellton, CA",,retail,453991,Wild Side Smoke Shop,"6547 Pardall Road, Isla Vista, CA, 93117",+1-805-968-4488,,34.412973,-119.8558834,,,w_579709686,"shop=tobacco, product=bongs"
+"Buellton, CA",,retail,445310,Six Pak,"6580 Pardall Road, Isla Vista, 93117",+1-805-685-4541,,34.4133092,-119.8576307,,,w_579741591,shop=alcohol
+"Buellton, CA",,retail,445120,Valero,"5661 Calle Real, Goleta, 93117",,,34.4408816,-119.8214866,,,w_606462493,"shop=convenience, brand=Valero"
+"Buellton, CA",,retail,445110,Albertsons,"7127 Hollister Avenue, Goleta, CA, 93117",+1 805-968-3558,https://local.albertsons.com/ca/goleta/7127-hollister-ave--27.html,34.4278402,-119.8764676,,,w_613661627,"shop=supermarket, brand=Albertsons"
+"Buellton, CA",,retail,445120,,"5648 Hollister Avenue, Goleta, 93117",,,34.4359895,-119.8220545,,,w_622589417,shop=convenience
+"Buellton, CA",,retail,445110,Smart & Final Extra!,"7090 Hollister Avenue, Goleta, CA, 93117",,,34.430909,-119.8749517,,,w_640232324,"shop=supermarket, brand=Smart & Final"
+"Buellton, CA",,retail,452319,,,,,34.4656012,-120.0250892,,,w_667278893,shop=general
+"Buellton, CA",,retail,445110,Walmart Supercenter,"701 West Central Avenue, Lompoc, CA, 93436",+1 805-735-9088,https://www.walmart.com/store/1989-lompoc-ca,34.6629749,-120.4653564,,,w_731237244,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Buellton, CA",,retail,445120,,"Lompoc, 93436",,,34.6531072,-120.4573022,,,w_812812667,shop=convenience
+"Buellton, CA",,retail,445120,Isla Vista Market,"939 Embarcadero del Mar, Isla Vista, 93117",+1-805-968-3597,https://www.iv-mkt.com/,34.4122789,-119.857324,,,w_823607473,shop=convenience
+"Buellton, CA",,retail,452319,,,,,34.4718724,-120.2282455,,,w_896030948,shop=general
+"Buellton, CA",,retail,452319,,,,,34.4634915,-120.070295,,,w_899676447,shop=general
+"Buellton, CA",,retail,445120,Jalama Beach Store,,,,34.5114801,-120.5019695,,,w_943433763,shop=convenience
+"Buellton, CA",,retail,445120,Los Olivos Grocery,"2621 CA-154, Santa Ynez, CA, 93460",,,34.6584445,-120.1026159,,,w_970322692,shop=convenience
+"Buellton, CA",,retail,446110,Walgreens,"937 North H Street, Lompoc, CA, 93436",,https://www.walgreens.com/locator/walgreens-937+n+h+st-lompoc-ca-93436/id=6290,34.6530212,-120.4586708,,,w_988984202,"shop=chemist, brand=Walgreens"
+"Buellton, CA",,retail,445310,The Sanger Family of Wines,"1584 Mission Drive, Solvang, CA, 93464",,,34.5958404,-120.1425086,,,w_1012969430,shop=alcohol
+"Buellton, CA",,retail,445310,Kaena Wine Co,"2890 Grand Avenue, Los Olivos, CA, 93441",,,34.6653534,-120.1148353,,,w_1012978872,shop=wine
+"Buellton, CA",,retail,445120,Mobil Mart,,,,34.6113063,-120.1893971,,,w_1062348737,"shop=convenience, brand=Mobil Mart"
+"Buellton, CA",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/buellton-ca-pharmacies/218-e-highway-246-bldg-3-buellton-ca-93427/storeid=9970,34.6097586,-120.1889932,,,w_1062348740,"shop=chemist, brand=CVS Pharmacy"
+"Buellton, CA",,retail,445110,Albertsons,"222 East Highway 246, Buellton, CA, 93427",+1 805-693-1069,https://local.albertsons.com/ca/buellton/222-e-hwy-246.html,34.6094919,-120.1884186,,,w_1062348741,"shop=supermarket, brand=Albertsons"
+"Buellton, CA",,retail,452210,Ross,"1408 North H Street, Lompoc, CA, 93436",+1 805-736-4519,,34.6612296,-120.4559685,,,w_1154403461,"shop=department_store, brand=Ross"
+"Buellton, CA",,retail,445110,Albertsons,"1500 North H Street, Lompoc, CA, 93436",+1 805-736-3948,https://local.albertsons.com/ca/lompoc/1500-n-h-st.html,34.6622489,-120.4560346,,,w_1154403463,"shop=supermarket, brand=Albertsons"
+"Buellton, CA",,retail,445310,Carhartt Family Wines,,,,34.6664414,-120.1151962,,,w_1159976295,shop=wine

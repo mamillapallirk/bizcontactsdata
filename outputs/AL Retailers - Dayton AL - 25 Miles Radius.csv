@@ -1,0 +1,16 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Dayton, AL",,retail,445110,Walmart Supercenter,"969 Us Highway 80 West, Demopolis, AL, 36732",+1 334-289-2385,https://www.walmart.com/store/731-demopolis-al,32.493003,-87.849349,,,n_5315596464,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Dayton, AL",,retail,453110,Forever Lou's,"1301 Main Street, Greensboro, AL, 36744",+1 334 662 3045,https://www.facebook.com/telenaaiken/,32.7040183,-87.5946439,,,n_8511661701,shop=florist
+"Dayton, AL",,retail,446120,Irene's Beauty Palace,"1303 Main Street, Greensboro, AL, 36744",+1 334 624 3190,,32.7040241,-87.5947348,,,n_8522730283,shop=beauty
+"Dayton, AL",,retail,453110,,"1311 Main Street, Greensboro, AL, 36744",,,32.7040254,-87.5949703,,,n_8572639750,shop=florist
+"Dayton, AL",,retail,446120,,,,,32.7022611,-87.5958328,,,n_8644750353,shop=beauty
+"Dayton, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/greensboro-al-pharmacies/675-tuscaloosa-street-greensboro-al-36744/storeid=4917,32.7007623,-87.5946795,,,n_9084470062,"shop=chemist, brand=CVS Pharmacy"
+"Dayton, AL",,retail,445110,Food Outlet,"641 Tuscaloosa Street, Greensboro, AL, 36744",+1 334-624-8338,,32.7004392,-87.5946784,,,n_10084844411,shop=supermarket
+"Dayton, AL",,retail,452319,Dollar Tree,,,,32.4972621,-87.8499603,,,n_12385189298,"shop=variety_store, brand=Dollar Tree"
+"Dayton, AL",,retail,452319,Dollar General,103 Miller Avenue,,https://www.dollargeneral.com/store-directory/al/linden/2624,32.2969056,-87.7971028,,,w_508173471,"shop=variety_store, brand=Dollar General"
+"Dayton, AL",,retail,452319,Family Dollar,"303 South Main Street, Linden, AL, 36748",,,32.3039086,-87.797463,,,w_508173489,"shop=variety_store, brand=Family Dollar"
+"Dayton, AL",,retail,446120,Swan Salon,"Main Street, Greensboro, AL",,,32.7039791,-87.5959857,,,w_915660354,shop=beauty
+"Dayton, AL",,retail,452319,Dollar General,"Tuscaloosa Street, Greensboro, AL, 36744",,,32.7054521,-87.5950983,,,w_915660360,"shop=variety_store, brand=Dollar General"
+"Dayton, AL",,retail,452319,Family Dollar,"Tuscaloosa Street, Greensboro, AL, 36744",,,32.705067,-87.5950469,,,w_915660361,"shop=variety_store, brand=Family Dollar"
+"Dayton, AL",,retail,446120,Mission Mark,"1102 Tuscaloosa Street, Greensboro, AL",+1 334 624 0027,https://www.facebook.com/missionmarkbeauty/,32.7054654,-87.5959354,,,w_915660362,shop=cosmetics
+"Dayton, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/uniontown/8392,32.4501115,-87.515229,,,w_1082140821,"shop=variety_store, brand=Dollar General"

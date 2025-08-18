@@ -1,0 +1,155 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Lanett, AL",,retail,445110,Kroger,"300 North Dean Road, Auburn, AL, 36830",+1 334-821-1325,https://www.kroger.com/stores/grocery/al/auburn/corner-village/011/00260,32.6105188,-85.4634465,,,n_2814709689,"shop=supermarket, brand=Kroger"
+"Lanett, AL",,retail,452319,Toomer's Drugs,"100 North College Street, Auburn, AL, 36830",+1-334-887-3488,http://www.toomersdrugs.com/,32.6067044,-85.4815391,,,n_2822078401,shop=general
+"Lanett, AL",,retail,445292,The Auburn Popcorn Company,,,,32.6069051,-85.4815397,,,n_2822078403,shop=confectionery
+"Lanett, AL",,retail,446120,Daffin's Beauty Salon,,,,32.8662256,-84.8546151,,,n_4077106759,shop=beauty
+"Lanett, AL",,retail,445110,Publix,"2900 East University Drive, Auburn, AL, 36830",+1 334-502-2416,https://www.publix.com/locations/1355,32.6381809,-85.4801561,,,n_4243555464,"shop=supermarket, brand=Publix"
+"Lanett, AL",,retail,452210,TJ Maxx,,,,33.0437452,-84.9819875,,,n_4518420964,"shop=department_store, brand=TJ Maxx"
+"Lanett, AL",,retail,445110,Earth Fare,,,,32.6233717,-85.4468207,,,n_4632279320,shop=supermarket
+"Lanett, AL",,retail,452210,Dillard's,,+1 334-821-3900,https://www.dillards.com/stores/alabama/auburn-mall-auburn/0417,32.6281021,-85.4482678,,,n_4635543786,"shop=department_store, brand=Dillard's"
+"Lanett, AL",,retail,452210,Belk,,,,32.6266896,-85.4462421,,,n_4635543787,"shop=department_store, brand=Belk"
+"Lanett, AL",,retail,452210,Big Lots,"1716 Opelika Road, Auburn, AL, 36830",+1 334-826-0050,https://local.biglots.com/al/auburn/1716-opelika-rd,32.6245666,-85.4441526,,,n_4648501646,"shop=department_store, brand=Big Lots"
+"Lanett, AL",,retail,446120,Pretty Please Nail Salon,,,,32.6079663,-85.4819043,,,n_4760950385,shop=beauty
+"Lanett, AL",,retail,445120,Food Mart,,,,32.5686074,-84.9666015,,,n_5077984859,shop=convenience
+"Lanett, AL",,retail,445120,,,,,32.568029,-84.9656611,,,n_5077984861,shop=convenience
+"Lanett, AL",,retail,445110,Walmart Neighborhood Market,"955 Lafayette Parkway, Lagrange, GA, 30241",+1 706-443-7059,https://www.walmart.com/store/2773/la-grange-ga,33.0405288,-85.0122579,,,n_5315599423,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Lanett, AL",,retail,446120,Palm Beach Tan,"814-A Annalue Drive, Auburn, AL, 36830",,https://palmbeachtan.com/locations/AL/Auburn-Annalue-Drive,32.6118895,-85.4640334,,,n_5521304401,"shop=beauty, brand=Palm Beach Tan"
+"Lanett, AL",,retail,446120,Nail Love,300 North Dean Road,+1-334-826-3511,,32.6112381,-85.4634884,,,n_5526720705,shop=beauty
+"Lanett, AL",,retail,446120,Dimensions Salon,,,,32.6063874,-85.4802566,,,n_5553284662,shop=beauty
+"Lanett, AL",,retail,445292,University Doughnut Company,,,,32.606691,-85.4804294,,,n_5553284663,shop=confectionery
+"Lanett, AL",,retail,446120,Luxury Nail Spa,,,,32.6068332,-85.481531,,,n_5575256256,shop=beauty
+"Lanett, AL",,retail,452319,Crazy Cazboy's,"2510 Pepperell Parkway, Opelika, AL, 36801",,,32.6401428,-85.4143667,,,n_5727118086,shop=variety_store
+"Lanett, AL",,retail,446120,Auburn Med Spa,,+1-334-501-2221,https://www.auburnmedspa.com/,32.6062953,-85.4395083,,,n_5727170423,shop=beauty
+"Lanett, AL",,retail,445120,Circle K,,,,32.6440732,-85.3489186,,,n_6390244450,"shop=convenience, brand=Circle K"
+"Lanett, AL",,retail,445120,The Corner Store,,,,32.8527022,-84.8462199,,,n_6545671871,shop=convenience
+"Lanett, AL",,retail,445110,Kroger,"203 Commerce Avenue, LaGrange, GA, 30241",+1 706-882-6114,https://www.kroger.com/stores/grocery/ga/lagrange/commerce-square/011/00339,33.0507209,-85.0218209,,,n_7504549966,"shop=supermarket, brand=Kroger"
+"Lanett, AL",,retail,446120,Bath & Body Works,,,,32.6259914,-85.4471856,,,n_8229262086,"shop=cosmetics, brand=Bath & Body Works"
+"Lanett, AL",,retail,445120,,,,,32.9604996,-84.9519034,,,n_9071659986,shop=convenience
+"Lanett, AL",,retail,445120,,,,,32.9601054,-84.9504484,,,n_9071659987,shop=convenience
+"Lanett, AL",,retail,445120,,,,,33.1241665,-85.0425269,,,n_9073696715,shop=convenience
+"Lanett, AL",,retail,445120,Econo's Convenience Store,,,,33.1249379,-85.0426019,,,n_9422790731,shop=convenience
+"Lanett, AL",,retail,446120,Ulta Beauty,"2690 Enterprise Drive, Opelika, AL, 36801",+1 334-749-2593,https://www.ulta.com/stores/opelika-al-379,32.6166988,-85.4103613,,,n_9451330450,"shop=beauty, brand=Ulta Beauty"
+"Lanett, AL",,retail,452319,Dollar General,"209 East 10th Street, West Point, GA, 31833",,https://www.dollargeneral.com/store-directory/ga/west-point/7812,32.8784964,-85.1776738,,,n_9614316387,"shop=variety_store, brand=Dollar General"
+"Lanett, AL",,retail,445110,Piggly Wiggly,"1861 Roanoke Road, Lagrange, GA, 32040",+1 706-845-9102,,33.0321702,-85.0709111,,,n_9614343537,"shop=supermarket, brand=Piggly Wiggly"
+"Lanett, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/salem/23445,32.5208755,-85.2539168,,,n_9789342357,"shop=variety_store, brand=Dollar General"
+"Lanett, AL",,retail,446120,Nail & Spa,"307 Frederick Road, Opelika, AL",,,32.6195324,-85.4162075,,,n_9820272811,shop=beauty
+"Lanett, AL",,retail,446120,Diversity Salon,"102 Frederick Road, Opelika, AL",,,32.6203137,-85.4157124,,,n_9820324429,shop=beauty
+"Lanett, AL",,retail,445120,Grub Mart,,,,32.6086124,-85.4795,,,n_10093655768,shop=convenience
+"Lanett, AL",,retail,446120,AK Nails,,+1 334-741-1071,,32.6336418,-85.435584,,,n_10136543826,shop=beauty
+"Lanett, AL",,retail,445110,Asian Supermarket,,,,32.63433,-85.4348381,,,n_10136543830,shop=supermarket
+"Lanett, AL",,retail,445110,Publix,"138 South Gay Street, Auburn, AL, 36830",+1 334-502-3616,https://www.publix.com/locations/1822,32.6053305,-85.4808115,,,n_10815623873,"shop=supermarket, brand=Publix"
+"Lanett, AL",,retail,445110,Kroger,"1401 South Gilmer Avenue, Lanett, AL, 36863",+1 334-642-6888,https://www.kroger.com/stores/grocery/al/lanett/lanett/011/00310,32.8557103,-85.1909374,,,n_10947838615,"shop=supermarket, brand=Kroger"
+"Lanett, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ga/lagrange/24688,32.9558092,-85.141171,,,n_11046246233,"shop=variety_store, brand=Dollar General"
+"Lanett, AL",,retail,452319,Dollar General,"2488 Pepperell Parkway, Opelika, AL, 36801",,https://www.dollargeneral.com/store-directory/al/opelika/9240,32.6400006,-85.4133256,,,n_11429270332,"shop=variety_store, brand=Dollar General"
+"Lanett, AL",,retail,452319,Ollie's Bargain Outlet,"2440 Pepperell Parkway, Opelika, AL, 36801",+1-334-741-7764,https://www.ollies.us/locations/2440-pepperell-parkway-opelika-al/,32.6399857,-85.4126773,,,n_11429270333,"shop=variety_store, brand=Ollie's Bargain Outlet"
+"Lanett, AL",,retail,445120,,,,,32.9864146,-85.0308444,,,n_11992576538,shop=convenience
+"Lanett, AL",,retail,445120,Circle K,,,,32.7575891,-84.8746015,,,n_11994635411,"shop=convenience, brand=Circle K"
+"Lanett, AL",,retail,453110,Tiger Lillies Floral,,,,32.7579775,-84.8748177,,,n_11994635416,"shop=florist, amenity=cafe"
+"Lanett, AL",,retail,452319,Dollar General,,,,33.1378777,-85.3561564,,,n_12269309915,"shop=variety_store, brand=Dollar General"
+"Lanett, AL",,retail,445120,,,,,32.6425956,-85.3478211,,,n_12512222337,shop=convenience
+"Lanett, AL",,retail,445120,,,,,32.6427199,-85.3496048,,,n_12512222346,shop=convenience
+"Lanett, AL",,retail,445310,Charred Oak Premium Spirits,"2900 East University Drive, Auburn, AL, 36830",,,32.638019,-85.4793917,,,n_12802928736,shop=alcohol
+"Lanett, AL",,retail,446120,Nail Boutique & Spa,"2900E East University Drive, Auburn, AL, 36830",+1-334-502-5055,,32.6380319,-85.4796641,,,n_12802928738,shop=beauty
+"Lanett, AL",,retail,445310,Z&Z Tobacco & Spirits,"203 Opelika Road, Auburn, AL, 36830",+1-334-209-0078,,32.6124748,-85.4794698,,,n_12815239108,shop=alcohol
+"Lanett, AL",,retail,445120,,,,,32.6604576,-84.9839294,,,w_152285316,shop=convenience
+"Lanett, AL",,retail,445110,Publix,"2415 Moores Mill Road, Auburn, AL, 36830",+1 334-502-8667,https://www.publix.com/locations/1294,32.5853606,-85.4364252,,,w_264338395,"shop=supermarket, brand=Publix"
+"Lanett, AL",,retail,445110,Kroger,"2460 Enterprise Drive, Opelika, AL, 36801",+1 334-737-2643,https://www.kroger.com/stores/grocery/al/opelika/tiger-town/011/00631,32.6207251,-85.4116968,,,w_329515984,"shop=supermarket, brand=Kroger"
+"Lanett, AL",,retail,445110,,,,,32.9009743,-85.4017702,,,w_330177132,shop=supermarket
+"Lanett, AL",,retail,452319,Trading Post,,,,32.8443258,-84.8290665,,,w_337051880,shop=variety_store
+"Lanett, AL",,retail,445120,,,,,33.0320966,-85.0692291,,,w_363659963,shop=convenience
+"Lanett, AL",,retail,446110,,,,,33.0327611,-85.0687847,,,w_363659964,"shop=chemist, brand=CVS"
+"Lanett, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ga/lagrange/4656,33.0286873,-85.0695035,,,w_363659984,"shop=variety_store, brand=Dollar General"
+"Lanett, AL",,retail,445120,,,,,33.0215129,-85.0808741,,,w_363665150,shop=convenience
+"Lanett, AL",,retail,445120,,,,,33.017274,-85.0882088,,,w_363665539,shop=convenience
+"Lanett, AL",,retail,445120,,,,,32.6309737,-85.4985008,,,w_367919515,shop=convenience
+"Lanett, AL",,retail,445120,Valero,,,,33.041422,-84.9730724,,,w_391119435,"shop=convenience, brand=Valero"
+"Lanett, AL",,retail,445120,,,,,33.0423649,-84.9847289,,,w_391119436,"shop=convenience, brand=bp"
+"Lanett, AL",,retail,445120,,,,,33.0425579,-84.9835385,,,w_391119476,"shop=convenience, brand=Circle K"
+"Lanett, AL",,retail,445120,,,,,33.0029237,-85.0163587,,,w_391119524,shop=convenience
+"Lanett, AL",,retail,445120,,,,,32.876153,-85.1488251,,,w_391119573,shop=convenience
+"Lanett, AL",,retail,445120,Circle K,,,,32.8649426,-84.8550327,,,w_405655961,"shop=convenience, brand=Circle K"
+"Lanett, AL",,retail,445110,Supervalu Food Store,31811,,,32.8649455,-84.8534463,,,w_405655967,shop=supermarket
+"Lanett, AL",,retail,452319,Family Dollar,,,,32.8605728,-84.8524379,,,w_405656016,"shop=variety_store, brand=Family Dollar"
+"Lanett, AL",,retail,445120,Summit,,,,32.8677866,-84.8570601,,,w_405656029,shop=convenience
+"Lanett, AL",,retail,452210,JCPenney,,,,33.0439419,-84.9828929,,,w_455433534,"shop=department_store, brand=JCPenney"
+"Lanett, AL",,retail,452210,Belk,,,,33.0441746,-84.9802897,,,w_455433535,"shop=department_store, brand=Belk"
+"Lanett, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/auburn-al-pharmacies/1498-opelika-rd-auburn-al-36830/storeid=8933,32.6230113,-85.449078,,,w_468756660,"shop=chemist, brand=CVS Pharmacy"
+"Lanett, AL",,retail,445110,Walmart Neighborhood Market,"2047 East University Drive, Auburn, AL, 36830",+1-334-539-6214,https://www.walmart.com/store/5062-auburn-al,32.624328,-85.4500464,,,w_470667301,"shop=supermarket, brand=Walmart Neighborhood Market, operator=Walmart"
+"Lanett, AL",,retail,445110,Walmart Supercenter,"2900 Pepperell Parkway, Opelika, AL, 36801",+1 334-745-9333,https://www.walmart.com/store/355-opelika-al,32.6378415,-85.4217639,,,w_482510756,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Lanett, AL",,retail,452319,Family Dollar,,,,32.6104727,-85.4897195,,,w_482716234,"shop=variety_store, brand=Family Dollar"
+"Lanett, AL",,retail,446110,Walgreens,"2015 Pepperell Parkway, Opelika, 36801",+1 334 749 3073,https://www.walgreens.com/locator/walgreens-2015+pepperell+pkwy-opelika-al-36801/id=10947,32.6373743,-85.4063919,,,w_485438780,"shop=chemist, brand=Walgreens"
+"Lanett, AL",,retail,446110,CVS Pharmacy,,,https://www.cvs.com/store-locator/opelika-al-pharmacies/1997-pepperell-pkwy-opelika-al-36801/storeid=4949,32.6374936,-85.4034443,,,w_485438781,"shop=chemist, brand=CVS Pharmacy"
+"Lanett, AL",,retail,445110,,,,,32.6652466,-85.3638553,,,w_548381853,shop=supermarket
+"Lanett, AL",,retail,445310,ABC,"1945 Opelika Road, Auburn, AL, 36830",,,32.6286066,-85.4401256,,,w_580933905,"shop=alcohol, operator=Alabama Alcoholic Beverage Control Board"
+"Lanett, AL",,retail,445110,Givorns Foods,"4515 Fairfax Bypass, Valley, AL, 36854",,,32.7861706,-85.1932173,,,w_583613986,shop=supermarket
+"Lanett, AL",,retail,452319,Dollar General,"4531 Fairfax Bypass, Valley, AL, 36854",,https://www.dollargeneral.com/store-directory/al/valley/8389,32.7868974,-85.1936897,,,w_583614098,"shop=variety_store, brand=Dollar General"
+"Lanett, AL",,retail,445120,,,,,32.8169167,-85.1989495,,,w_585502447,shop=convenience
+"Lanett, AL",,retail,452319,Family Dollar,,,,33.0477526,-85.0133931,,,w_649791161,"shop=variety_store, brand=Family Dollar"
+"Lanett, AL",,retail,445110,Food Depot,,,,33.0465683,-85.0124584,,,w_649791162,shop=supermarket
+"Lanett, AL",,retail,445110,Publix,"139 Commerce Avenue, LaGrange, GA, 30241-2337",+1 706-883-1120,https://www.publix.com/locations/540,33.0507457,-85.0242237,,,w_649791163,"shop=supermarket, brand=Publix"
+"Lanett, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ga/lagrange/2217/,33.0507894,-85.0248969,,,w_649791164,"shop=variety_store, brand=Dollar Tree"
+"Lanett, AL",,retail,452210,Big Lots,"127 Commerce Avenue, Lagrange, GA, 30241",+1 706-884-7100,https://local.biglots.com/ga/lagrange/127-commerce-ave,33.0509608,-85.0256799,,,w_649791165,"shop=department_store, brand=Big Lots"
+"Lanett, AL",,retail,445110,Billy's Super Market,"3740 US Highway 27, Cataula, GA, 31807",+17063244622,http://billyssupermarket.com/,32.6490645,-84.8738533,,,w_696548856,shop=supermarket
+"Lanett, AL",,retail,445110,Geo Food Mart,"1612 US Highway 27, Cataula, GA, 31804",+17066609907,,32.6272646,-84.8980337,,,w_696548859,shop=supermarket
+"Lanett, AL",,retail,445120,Shell,"871 US Highway 27, Cataula, GA, 31804",+17066530949,https://find.shell.com/us/fuel/10071694-871-us-highway-27/en_US,32.6187344,-84.9060607,,,w_696548861,"shop=convenience, brand=Shell"
+"Lanett, AL",,retail,452319,Dollar General,"2000 Marvyn Parkway, Opelika, AL, 36804",,https://www.dollargeneral.com/store-directory/al/opelika/9600,32.6294429,-85.3722368,,,w_744701024,"shop=variety_store, brand=Dollar General"
+"Lanett, AL",,retail,452319,Dollar General,"55 North Uniroyal Road, Opelika, AL, 36804",,https://www.dollargeneral.com/store-directory/al/opelika/15353,32.643403,-85.3402466,,,w_750235096,"shop=variety_store, brand=Dollar General"
+"Lanett, AL",,retail,445310,Hot Spot Liquor,,,,32.8798577,-85.1565452,,,w_852988107,shop=alcohol
+"Lanett, AL",,retail,445120,USA Food Mart,,,,32.8799412,-85.1560794,,,w_852988109,shop=convenience
+"Lanett, AL",,retail,452319,Dollar General,"9932 Veterans Parkway, Midland, GA, 31820",,https://www.dollargeneral.com/store-directory/ga/midland/20169,32.5973174,-84.9082413,,,w_854263214,"shop=variety_store, brand=Dollar General"
+"Lanett, AL",,retail,446110,Bubba's Medicine Shop,"512 2nd Avenue, Opelika, AL, 36801",,https://www.bubbasonline.com/,32.6522181,-85.3789697,,,w_916457621,shop=chemist
+"Lanett, AL",,retail,445110,ALDI,"2400 Frederick Road, Opelika, AL, 36801",+1 844-476-1046,https://stores.aldi.us/al/opelika/2400-frederick-road,32.6227779,-85.4118403,,,w_940787355,"shop=supermarket, brand=ALDI"
+"Lanett, AL",,retail,445110,ALDI,"427 New Franklin Road, LaGrange, GA, 30240",+1 844-476-1029,https://stores.aldi.us/ga/lagrange/427-new-franklin-road,33.0513126,-85.029545,,,w_940877961,"shop=supermarket, brand=ALDI"
+"Lanett, AL",,retail,445110,Walmart Neighborhood Market,"1810 Shug Jordan Parkway, Auburn, AL, 36830",+1 334-539-6318,https://www.walmart.com/store/4673/auburn-al,32.63039,-85.495511,,,w_959595778,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Lanett, AL",,retail,452210,Kohl's,"2774 Enterprise Drive, Opelika, AL, 36801",+1 334-745-2259,https://www.kohls.com/stores/al/opelika-1284.shtml,32.6154488,-85.4098917,,,w_962534920,"shop=department_store, brand=Kohl's"
+"Lanett, AL",,retail,452210,Target,"2640 Enterprise Drive, Opelika, AL, 36801-1511",+1 334-705-0152,https://www.target.com/sl/opelika/1499,32.6175026,-85.4109548,,,w_962534923,"shop=department_store, brand=Target"
+"Lanett, AL",,retail,452210,Ross,"2087 Tiger Town Parkway, Opelika, AL, 36801",+1 334-737-0156,,32.618393,-85.4045945,,,w_962534928,"shop=department_store, brand=Ross"
+"Lanett, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ga/cataula/11214,32.6557245,-84.8692419,,,w_980611559,"shop=variety_store, brand=Dollar General"
+"Lanett, AL",,retail,452319,Dollar General,"28 Mountain Creek Drive, Hamilton, GA, 31811",,https://www.dollargeneral.com/store-directory/ga/hamilton/6483,32.756003,-84.8909138,,,w_980635853,"shop=variety_store, brand=Dollar General, operator=Dollar General"
+"Lanett, AL",,retail,445120,,,,,32.981364,-84.992393,,,w_980677119,shop=convenience
+"Lanett, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ga/lagrange/13793,32.979919,-84.9929545,,,w_980677379,"shop=variety_store, brand=Dollar General"
+"Lanett, AL",,retail,445120,,,,,33.045788,-85.029979,,,w_980678707,shop=convenience
+"Lanett, AL",,retail,445120,Northside Pawn & Discount,,,,33.0500845,-85.029103,,,w_980679180,shop=convenience
+"Lanett, AL",,retail,445310,Northside Package,,,,33.0507575,-85.0282975,,,w_980679261,shop=alcohol
+"Lanett, AL",,retail,446120,A1 Beauty and Beyond,,,,33.0496705,-85.0276575,,,w_980679661,shop=beauty
+"Lanett, AL",,retail,445120,,,,,33.0527785,-85.0290795,,,w_980679761,shop=convenience
+"Lanett, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ga/lagrange/4837,33.0488165,-85.0206925,,,w_980679950,"shop=variety_store, brand=Dollar General"
+"Lanett, AL",,retail,445120,,,,,33.0674645,-85.0289775,,,w_980680175,shop=convenience
+"Lanett, AL",,retail,445120,,,,,33.0565185,-84.9857335,,,w_980680841,shop=convenience
+"Lanett, AL",,retail,445120,,,,,33.032119,-85.0284335,,,w_980684297,shop=convenience
+"Lanett, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ga/lagrange/16687,33.0323481,-85.0361013,,,w_980684759,"shop=variety_store, brand=Dollar General"
+"Lanett, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ga/lagrange/12446,33.027591,-85.022971,,,w_980686138,"shop=variety_store, brand=Dollar General"
+"Lanett, AL",,retail,445120,,,,,33.0089933,-85.0185347,,,w_980691347,shop=convenience
+"Lanett, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ga/pine-mountain/9785,32.8705449,-84.8629117,,,w_980692376,"shop=variety_store, brand=Dollar General"
+"Lanett, AL",,retail,445110,Walmart Supercenter,"803 New Franklin Road, LaGrange, GA, 30240",+1 706-812-0225,https://www.walmart.com/store/614-lagrange-ga,33.0598941,-85.0314906,,,w_980906803,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Lanett, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ga/lagrange/14089,33.124809,-85.0455951,,,w_980906829,"shop=variety_store, brand=Dollar General"
+"Lanett, AL",,retail,445120,,,,,32.9289482,-85.1145073,,,w_1007833862,"shop=convenience, brand=76"
+"Lanett, AL",,retail,445110,Walmart Supercenter,"4180 US Highway 431, Roanoke, AL, 36274",+1 334-863-2147,https://www.walmart.com/store/863-roanoke-al,33.1648823,-85.3644037,,,w_1017014625,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Lanett, AL",,retail,445120,,,,,32.9107282,-85.4013106,,,w_1017029889,shop=convenience
+"Lanett, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/lafayette/10254,32.9120939,-85.4013017,,,w_1017029892,"shop=variety_store, brand=Dollar General"
+"Lanett, AL",,retail,445120,,,,,33.053868,-85.0281605,,,w_1017275711,shop=convenience
+"Lanett, AL",,retail,445120,,,,,33.0489148,-85.0291413,,,w_1017275714,shop=convenience
+"Lanett, AL",,retail,445120,,,,,33.0497085,-85.0282345,,,w_1017275715,shop=convenience
+"Lanett, AL",,retail,445120,Shell,,,,33.004063,-85.0154501,,,w_1017275872,"shop=convenience, amenity=fuel, brand=Shell"
+"Lanett, AL",,retail,445120,,,,,32.8132858,-85.0241487,,,w_1025132715,shop=convenience
+"Lanett, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ga/lagrange/15537,33.0162966,-85.0967648,,,w_1044816385,"shop=variety_store, brand=Dollar General"
+"Lanett, AL",,retail,445120,,,,,32.8767404,-85.1502963,,,w_1051389513,shop=convenience
+"Lanett, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ga/west-point/17573,32.8149434,-85.0256524,,,w_1065182679,"shop=variety_store, brand=Dollar General"
+"Lanett, AL",,retail,452319,Dollar General,"Valley, AL",+1 205-858-0440,https://www.dollargeneral.com/store-directory/al/valley/13949,32.7120371,-85.1867102,,,w_1065986716,"shop=variety_store, brand=Dollar General"
+"Lanett, AL",,retail,445110,WM Grocery,,,,33.1527158,-85.3769013,,,w_1151360369,shop=supermarket
+"Lanett, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/roanoke/6605/,33.1527807,-85.3772757,,,w_1151360370,"shop=variety_store, brand=Dollar Tree"
+"Lanett, AL",,retail,445120,,,,,33.0401968,-84.9649366,,,w_1178204285,shop=convenience
+"Lanett, AL",,retail,445120,Chevron,,,,32.8568812,-84.975544,,,w_1178233188,shop=convenience
+"Lanett, AL",,retail,445120,,,,,32.8444113,-85.1818252,,,w_1178477677,"shop=convenience, brand=Circle K"
+"Lanett, AL",,retail,452319,,,,,32.833323,-85.2295216,,,w_1178477820,"shop=variety_store, brand=Dollar General"
+"Lanett, AL",,retail,445120,,,,,32.833653,-85.2298173,,,w_1178477821,"shop=convenience, brand=Big Cat Fuels"
+"Lanett, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ga/lagrange/13969,33.0378654,-84.9002699,,,w_1185610031,"shop=variety_store, brand=Dollar General"
+"Lanett, AL",,retail,452319,Dollar General,"24 Pyne Road, Lagrange, GA, 30240",,,33.0325325,-85.1426144,,,w_1188905003,"shop=variety_store, brand=Dollar General"
+"Lanett, AL",,retail,445120,Circle K,,,,32.8768864,-85.1765395,,,w_1210165662,"shop=convenience, brand=Circle K"
+"Lanett, AL",,retail,445120,J&J Food Mart,"1205 US Hwy 27, Cataula, GA, 31804",+17063221009,,32.6229855,-84.9026376,,,w_1226638203,shop=convenience
+"Lanett, AL",,retail,452319,Dollar General,,,,32.9538673,-85.0182233,,,w_1294623913,"shop=variety_store, brand=Dollar General"
+"Lanett, AL",,retail,445110,Walmart Supercenter,"3501 20th Avenue, Valley, AL, 36854",+1 334-768-2118,https://www.walmart.com/store/733-valley-al,32.8349999,-85.1787252,,,w_1311905401,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Lanett, AL",,retail,445120,Marathon,,,,32.6672053,-84.9570098,,,w_1372362528,"shop=convenience, brand=Marathon"
+"Lanett, AL",,retail,452319,Roses,"2580 Pepperell Parkway, Opelika, AL, 36801",+1-334-744-5298,https://www.rosesdiscountstores.com/,32.6385755,-85.4155122,,,w_1382761744,"shop=variety_store, brand=Roses"
+"Lanett, AL",,retail,445120,,,,,33.1766564,-85.3325373,,,w_1415294169,shop=convenience
+"Lanett, AL",,retail,445120,Bartley Food Mart,,,,32.9219977,-85.0836379,,,w_1416416194,shop=convenience

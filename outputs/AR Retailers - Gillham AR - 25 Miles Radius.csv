@@ -1,0 +1,10 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Gillham, AR",,retail,445120,Scotty's Deli,,,,34.4326212,-94.4121642,,,n_359024173,shop=convenience
+"Gillham, AR",,retail,445110,Walmart Supercenter,"926 East Collin Raye Drive, De Queen, AR, 71832",+1 870-642-2794,https://www.walmart.com/store/279-de-queen-ar,34.043471,-94.319058,,,n_5315599017,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Gillham, AR",,retail,452319,My Dollar Plus,,,,34.1482151,-94.7495583,,,n_8941980062,shop=variety_store
+"Gillham, AR",,retail,445210,Prime Country Meats,,,,33.9386451,-94.3562303,,,n_11802782909,shop=butcher
+"Gillham, AR",,retail,452319,Dollar General,"4736 US 71, Hatfield, AR, 71945-7111",+1 479-326-8920,https://www.dollargeneral.com/store-directory/ar/hatfield/23932,34.4872249,-94.377367,,,w_1155424292,"shop=variety_store, brand=Dollar General"
+"Gillham, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/cove/11586,34.4342013,-94.4108872,,,w_1202224989,"shop=variety_store, brand=Dollar General"
+"Gillham, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/wickes/16209,34.2973734,-94.3400417,,,w_1202224990,"shop=variety_store, brand=Dollar General"
+"Gillham, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/lockesburg/14537,33.966822,-94.1669721,,,w_1202245484,"shop=variety_store, brand=Dollar General"
+"Gillham, AR",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ar/horatio/12334,33.9388055,-94.3531853,,,w_1202245503,"shop=variety_store, brand=Dollar General"

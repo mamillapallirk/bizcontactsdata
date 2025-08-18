@@ -1,0 +1,38 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Barstow, CA",,retail,445120,Food Mart,Sunrise Canyon Road,,,34.9195654,-116.7697924,,,n_4344728792,shop=convenience
+"Barstow, CA",,retail,445110,Buzz's Mini Market,"100 East Main Street, Barstow, CA, 92311",,,34.8983983,-117.0274895,,,n_6342600089,shop=supermarket
+"Barstow, CA",,retail,445110,Food Mart,,,,34.9040506,-116.8871547,,,n_6410616887,shop=supermarket
+"Barstow, CA",,retail,452319,Dollar General,"300 West Main Street, Barstow, CA, 92311",,https://www.dollargeneral.com/store-directory/ca/barstow/13578,34.8979292,-117.0314613,,,n_6419941877,"shop=variety_store, brand=Dollar General"
+"Barstow, CA",,retail,452319,99 Cents Only Stores,,,https://locations.99only.com/ca/barstow/discount-store-291.html,34.895088,-117.0075107,,,n_6440087165,"shop=variety_store, brand=99 Cents Only Stores"
+"Barstow, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/barstow/6811/,34.8964252,-117.005222,,,n_6444398122,"shop=variety_store, brand=Dollar Tree"
+"Barstow, CA",,retail,445310,7 Days Liquor,,,,34.8980553,-117.0137086,,,n_6453717261,shop=alcohol
+"Barstow, CA",,retail,446120,Head To Toe Beauty Salon,,,,34.8980308,-117.0144091,,,n_6456744614,shop=beauty
+"Barstow, CA",,retail,445292,Num Nums,,,,34.8977075,-117.0190922,,,n_6456776469,shop=confectionery
+"Barstow, CA",,retail,445210,Morgan Meat Co.,,,,34.9098514,-117.0226879,,,n_7875716622,shop=butcher
+"Barstow, CA",,retail,452210,Marshalls,,,,34.8872131,-117.0203772,,,n_12029650823,"shop=department_store, brand=Marshalls"
+"Barstow, CA",,retail,446120,Bath & Body Works,"2796 Tanger Way, Barstow, CA, 92311",,,34.8474579,-117.0845646,,,n_12229047698,"shop=cosmetics, brand=Bath & Body Works"
+"Barstow, CA",,retail,446120,The Cosmetics Company,"2796 Tanger Way, Barstow, CA, 92311",,,34.847406,-117.0844796,,,n_12229047699,shop=cosmetics
+"Barstow, CA",,retail,445110,Silver Lakes Market,,,,34.7441984,-117.3351752,,,n_13049136450,shop=supermarket
+"Barstow, CA",,retail,445120,Flying J,,,,34.8545139,-117.0814369,,,w_99616271,shop=convenience
+"Barstow, CA",,retail,445310,,,,,34.8482029,-117.0822512,,,w_99616280,shop=alcohol
+"Barstow, CA",,retail,445110,,,,,34.886971,-117.0181899,,,w_103256021,shop=supermarket
+"Barstow, CA",,retail,445310,Jacks Liquior,,,,34.8858437,-116.9934648,,,w_103256038,shop=alcohol
+"Barstow, CA",,retail,445110,Walmart Supercenter,"301 Montara Road, Barstow, CA, 92311",+1 760-252-5000,https://www.walmart.com/store/1879-barstow-ca,34.8847505,-116.9920426,,,w_173390973,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Barstow, CA",,retail,445120,Chevron,,,,34.8515288,-117.0845102,,,w_175482023,"shop=convenience, brand=Chevron"
+"Barstow, CA",,retail,445120,ampm,,,,34.8487888,-117.0837106,,,w_175482042,"shop=convenience, brand=ampm"
+"Barstow, CA",,retail,445120,76,,,,34.8908052,-116.9998478,,,w_221153152,"shop=convenience, brand=76"
+"Barstow, CA",,retail,445120,Shell,,,,34.894431,-117.0053499,,,w_221153160,"shop=convenience, brand=Shell"
+"Barstow, CA",,retail,445120,Pilot,,,,34.8549122,-117.087527,,,w_223416539,"shop=convenience, brand=Pilot"
+"Barstow, CA",,retail,445120,Food Mart,,,,34.8940222,-117.0047936,,,w_315488386,shop=convenience
+"Barstow, CA",,retail,445110,Desert Market,,,,34.8636933,-116.8848247,,,w_422584641,shop=supermarket
+"Barstow, CA",,retail,445120,,,,,34.8852898,-116.9941876,,,w_560263648,shop=convenience
+"Barstow, CA",,retail,445110,Uptons General Market,,,,34.903754,-116.8264017,,,w_594726890,shop=supermarket
+"Barstow, CA",,retail,445120,Terrible's,"2596 Commerce Parkway, Barstow, CA, 92311",,,34.8554793,-117.0884493,,,w_825289767,"shop=convenience, brand=Terrible's"
+"Barstow, CA",,retail,445120,EddieWorld,"36017 Calico Boulevard, Yermo, CA, 92398",,,34.9078393,-116.8350938,,,w_949849797,shop=convenience
+"Barstow, CA",,retail,445120,Helendale Market,"26428 National Trails Highway, Helendale, CA",,,34.7304123,-117.3275806,,,w_1017858366,shop=convenience
+"Barstow, CA",,retail,445120,,,,,34.8924524,-117.0565864,,,w_1088054306,shop=convenience
+"Barstow, CA",,retail,445120,,,,,34.7318197,-117.327431,,,w_1185616345,shop=convenience
+"Barstow, CA",,retail,452319,Dollar General,"East Rimrock Road, Barstow, CA, 92311",,https://www.dollargeneral.com/store-directory/ca/barstow/12942,34.8775207,-117.0246907,,,w_1224933461,"shop=variety_store, brand=Dollar General"
+"Barstow, CA",,retail,446110,Rite Aid,,,https://www.riteaid.com/locations/ca/barstow/1380-barstow-road.html,34.8774435,-117.0235394,,,w_1224933463,"shop=chemist, brand=Rite Aid"
+"Barstow, CA",,retail,445120,Terrible's,"1700 East Main Street, Barstow, CA, 92311",,,34.8897657,-116.9981571,,,w_1245123253,shop=convenience
+"Barstow, CA",,retail,445120,7-Eleven,,,,34.8846179,-117.0235261,,,w_1345148675,"shop=convenience, brand=7-Eleven"

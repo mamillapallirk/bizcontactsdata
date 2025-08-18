@@ -1,0 +1,95 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Santa Cruz, AZ",,retail,445120,Parker Canyon Lake Store,"9000 South Parker Canyon Road, Elgin, AZ, 85611",+1-520-331-3318,http://www.parkercanyonlake.com/,31.4244289,-110.4487992,,,n_1962792657,shop=convenience
+"Santa Cruz, AZ",,retail,445310,Dos Cabezas Wineworks,,,https://www.doscabezas.com/,31.6800595,-110.6535201,,,n_3473590780,shop=alcohol
+"Santa Cruz, AZ",,retail,445310,Village of Elgin Winery,,,,31.6608268,-110.5261304,,,n_3473590785,shop=alcohol
+"Santa Cruz, AZ",,retail,445120,Oxxo,,,,31.2627665,-110.948128,,,n_3865129965,"shop=convenience, brand=Oxxo"
+"Santa Cruz, AZ",,retail,445110,Super del Norte,,,,31.2618483,-110.9491908,,,n_3865138521,"shop=supermarket, brand=Super del Norte"
+"Santa Cruz, AZ",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50VUO,31.1618349,-110.9531097,,,n_3865138644,"shop=convenience, brand=Oxxo"
+"Santa Cruz, AZ",,retail,445120,Six,,,,31.3294016,-110.9641264,,,n_4158735528,shop=convenience
+"Santa Cruz, AZ",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50KNA,31.3143935,-110.959714,,,n_4158735739,"shop=convenience, brand=Oxxo"
+"Santa Cruz, AZ",,retail,445120,,,,,31.3148335,-110.9591133,,,n_4158735740,"shop=convenience, operator=Six"
+"Santa Cruz, AZ",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50FIM,31.3242464,-110.9626968,,,n_4158735741,"shop=convenience, brand=Oxxo"
+"Santa Cruz, AZ",,retail,445120,Six,,,,31.3004702,-110.9373222,,,n_4159105496,shop=convenience
+"Santa Cruz, AZ",,retail,445310,Oxxo,,,,31.2959854,-110.9291588,,,n_4512979393,shop=wine
+"Santa Cruz, AZ",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50TMR,31.296406,-110.927656,,,n_4512979395,"shop=convenience, brand=Oxxo"
+"Santa Cruz, AZ",,retail,445110,Super del Norte,,,,31.298407,-110.9352777,,,n_4512979396,"shop=supermarket, brand=Super del Norte"
+"Santa Cruz, AZ",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50IHY,31.1833161,-110.9712363,,,n_4769018922,"shop=convenience, brand=Oxxo"
+"Santa Cruz, AZ",,retail,445110,Safeway,"465 West Mariposa Road, Nogales, AZ, 85621",+1 520-281-4929,https://local.safeway.com/safeway/az/nogales/465-w-mariposa-rd.html,31.3644261,-110.940515,,,n_5104316731,"shop=supermarket, brand=Safeway"
+"Santa Cruz, AZ",,retail,452319,Family Dollar,"1321 North Grand Avenue, Nogales, AZ, 85621-1346",+1 520-355-57221,https://locations.familydollar.com/az/nogales/1321-n-grand-ave,31.3560066,-110.9304089,,,n_5268885178,"shop=variety_store, brand=Family Dollar"
+"Santa Cruz, AZ",,retail,452210,Bebidas Refrescantes de Nogales SA de CV,,,,31.2833292,-110.9395994,,,n_5334368347,shop=department_store
+"Santa Cruz, AZ",,retail,452319,Family Dollar,"400 North Grand Court Plaza, Nogales, AZ, 85621-2735",+1 520-860-4563,https://locations.familydollar.com/az/nogales/400-n-grand-ave,31.3386754,-110.9376945,,,n_5608316376,"shop=variety_store, brand=Family Dollar"
+"Santa Cruz, AZ",,retail,452319,One Dollar Store,"251 North Grand Court Plaza, Nogales, AZ",+1 520-287-6050,,31.3389945,-110.9376104,,,n_5608316377,shop=variety_store
+"Santa Cruz, AZ",,retail,452319,Global Trading Solutions LLC,,,,31.3449999,-110.9399815,,,n_5608385541,shop=variety_store
+"Santa Cruz, AZ",,retail,445210,Dulcería Cananea,,,,31.3409797,-110.9371399,,,n_5608385582,shop=butcher
+"Santa Cruz, AZ",,retail,452319,Silver Clouds Smoke Shop,,,,31.3391765,-110.9390688,,,n_5608408636,shop=variety_store
+"Santa Cruz, AZ",,retail,452319,Dollar Tree,"254 West Mariposa Road, Nogales, AZ, 85621-1041",+1 520-924-8616,https://www.dollartree.com/locations/az/nogales/2629/,31.3694171,-110.9345455,,,n_9085345107,"shop=variety_store, brand=Dollar Tree"
+"Santa Cruz, AZ",,retail,445310,Sonoita Vineyards,"290 Elgin Canelo Road, Elgin, AZ, 85611",,https://www.sonoitavineyards.com/,31.6234484,-110.5483086,,,n_9248352978,shop=wine
+"Santa Cruz, AZ",,retail,445310,Callaghan Vineyards,"336 Elgin Road, Elgin, AZ, 85611",,https://www.callaghanvineyards.com/,31.659424,-110.5502221,,,n_9248376820,shop=wine
+"Santa Cruz, AZ",,retail,453110,AccyFlor,,+52 631 209 9404,https://www.accyflor.mx/,31.3121777,-110.9455637,,,n_9945846142,shop=florist
+"Santa Cruz, AZ",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50FFS,31.2487385,-110.9506371,,,n_11121044369,"shop=convenience, brand=Oxxo"
+"Santa Cruz, AZ",,retail,445120,Oxxo,,,,31.2584828,-110.9518924,,,n_11121044397,"shop=convenience, brand=Oxxo"
+"Santa Cruz, AZ",,retail,445110,Bodega Aurrera,,,,31.2653581,-110.9486016,,,n_11121046431,"shop=supermarket, brand=Bodega Aurrera"
+"Santa Cruz, AZ",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50NCO,31.2665655,-110.9419814,,,n_11121046434,"shop=convenience, brand=Oxxo"
+"Santa Cruz, AZ",,retail,452210,Coppel,"256 Avenida de los Nogales, Nogales, SO, 84090",+52  631-209-0966,https://www.coppel.com/ubicacion-de-tiendas-coppel/sonora/nogales/coppel-san-antonio-ii,31.2735937,-110.9304062,,,n_11121046445,"shop=department_store, brand=Coppel"
+"Santa Cruz, AZ",,retail,445110,Super del Norte,,,,31.2737884,-110.9307103,,,n_11121046447,"shop=supermarket, brand=Super del Norte"
+"Santa Cruz, AZ",,retail,445120,Oxxo,,,,31.2561345,-110.9584163,,,n_11121046482,"shop=convenience, brand=Oxxo"
+"Santa Cruz, AZ",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50ZEU,31.2440516,-110.9713004,,,n_11121046484,"shop=convenience, brand=Oxxo"
+"Santa Cruz, AZ",,retail,452210,Woolworth,"45 Boulevard El Greco, Nogales, SO",+52 800 375 5260,https://www.delsol.com.mx/,31.2908931,-110.9399806,,,n_12599089447,"shop=department_store, brand=Del Sol"
+"Santa Cruz, AZ",,retail,452210,Liverpool,"45 Boulevard El Greco, Nogales, SO, 84066",+52 631 104 3792,https://www.liverpool.com.mx,31.2904691,-110.9398057,,,n_12599089452,"shop=department_store, brand=Liverpool"
+"Santa Cruz, AZ",,retail,445120,Tencha's,,,,31.3321999,-110.945626,,,n_12628468403,shop=convenience
+"Santa Cruz, AZ",,retail,446120,Beauty Bar by J. S.,"31 Avenida Alvaro Obregon, Nogales",+52 631 110 8145,,31.3322815,-110.945614,,,n_12628468406,shop=beauty
+"Santa Cruz, AZ",,retail,446120,Sarai,,,,31.3274807,-110.9452921,,,n_12628468412,shop=beauty
+"Santa Cruz, AZ",,retail,445120,Oxxo,,,,31.3268003,-110.9471045,,,n_12628468416,"shop=convenience, brand=Oxxo"
+"Santa Cruz, AZ",,retail,446120,Salon Charlotte,"84 Calle Vázquez, Nogales, SO",+52 631 303 1694,,31.327753,-110.945241,,,n_12628468430,shop=beauty
+"Santa Cruz, AZ",,retail,445120,Oxxo,,,,31.328589,-110.9448947,,,n_12628468433,"shop=convenience, brand=Oxxo"
+"Santa Cruz, AZ",,retail,453110,Floreria Jessica,"202 Calle Aguirre, Heroica Nogales, SO",+52 631 101 3808,https://floreriajessica.com/,31.3285156,-110.9459561,,,n_12629265344,shop=florist
+"Santa Cruz, AZ",,retail,445120,Lunfat,,,,31.3281176,-110.9458964,,,n_12629265346,shop=convenience
+"Santa Cruz, AZ",,retail,445110,AhorraMart,,,,31.325434,-110.9468571,,,n_12629265350,shop=supermarket
+"Santa Cruz, AZ",,retail,446120,,,,,31.3278071,-110.945904,,,n_12629265359,shop=perfumery
+"Santa Cruz, AZ",,retail,446120,Butterfly,,+52 631 312 0856,,31.3281725,-110.945653,,,n_12629265360,shop=beauty
+"Santa Cruz, AZ",,retail,445120,,,,,31.4309097,-110.9620041,,,w_226827511,shop=convenience
+"Santa Cruz, AZ",,retail,452319,Sonoita Mercantile,"3235 Highway 82, Elgin, AZ, 85611",,,31.678631,-110.6554862,,,w_280794462,shop=general
+"Santa Cruz, AZ",,retail,452319,Sonoita Mini Mart,"3160 Highway 83, Sonoita, AZ, 85637",,,31.6788022,-110.6561018,,,w_342833741,shop=general
+"Santa Cruz, AZ",,retail,452319,UETA Duty Free,"21 North Terrace Avenue, Nogales, AZ, 85621",+1 520-287-2741,https://ueta.com/locations/location/nogales-21-north-terrace-avenue,31.333412,-110.9429555,,,w_397702586,shop=variety_store
+"Santa Cruz, AZ",,retail,452210,Walmart,"47 Boulevard El Greco, Nogales, SO, 84066",,,31.2892777,-110.94162,,,w_414746393,"shop=department_store, brand=Walmart"
+"Santa Cruz, AZ",,retail,452210,Ross,"340 West Mariposa Road, Nogales, AZ, 85621",+1 520-377-2780,,31.3682739,-110.9374303,,,w_439633738,"shop=department_store, brand=Ross"
+"Santa Cruz, AZ",,retail,445110,Soriana Híper,"2700 Periférico Luis Donaldo Colosio Murrieta, Heroica Nogales, SO, 84065",,,31.2903946,-110.9462138,,,w_477968341,"shop=supermarket, brand=Soriana"
+"Santa Cruz, AZ",,retail,445110,Bodega Aurrera,"320 Calle Las Chimeneas, Nogales, SO",,,31.2898162,-110.9615663,,,w_477968349,"shop=supermarket, brand=Bodega Aurrera"
+"Santa Cruz, AZ",,retail,445110,Walmart Supercenter,"100 West White Park Drive, Nogales, AZ, 85621",+1 520-281-4974,https://www.walmart.com/store/1324-nogales-az,31.3602985,-110.9324271,,,w_478952881,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Santa Cruz, AZ",,retail,452210,JCPenney,"220 West Mariposa Road, Nogales, AZ, 85621",+1 520-281-4891,https://www.jcpenney.com/locations/az/nogales/clothing-stores-nogales-az-1052.html,31.3683696,-110.933578,,,w_478952885,"shop=department_store, brand=JCPenney"
+"Santa Cruz, AZ",,retail,445110,Supermercado Ley San Miguel,"220 Avenida de los Nogales, Nogales, SO, 84090",+52 631 209 5245,,31.2752422,-110.9299022,,,w_515724117,shop=supermarket
+"Santa Cruz, AZ",,retail,446110,Walgreens,"1959 North Grand Avenue, Nogales, AZ, 85621",+1 520-281-4398,https://www.walgreens.com/locator/walgreens-1959+n+grand+ave-nogales-az-85621/id=7623,31.3680957,-110.9317501,,,w_549981065,"shop=chemist, brand=Walgreens"
+"Santa Cruz, AZ",,retail,445110,Ley,,,,31.2913383,-110.9383871,,,w_552517510,shop=supermarket
+"Santa Cruz, AZ",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50YZY,31.2830155,-110.9385159,,,w_552517522,"shop=convenience, brand=Oxxo"
+"Santa Cruz, AZ",,retail,445110,Economax,,,,31.2794121,-110.9393716,,,w_552517525,shop=supermarket
+"Santa Cruz, AZ",,retail,445110,Food City,"450 North Grand Court Plaza, Nogales, AZ, 85621",+1 520-287-4675,https://www.mifoodcity.com/store/60,31.3390382,-110.9373115,,,w_587065268,"shop=supermarket, brand=Food City"
+"Santa Cruz, AZ",,retail,445110,Northern Valley Produce,,,,31.3443208,-110.9432026,,,w_587070156,shop=supermarket
+"Santa Cruz, AZ",,retail,445110,Via Brokerage,,,,31.3447081,-110.9426071,,,w_587070157,shop=supermarket
+"Santa Cruz, AZ",,retail,445110,Quality Experience Produce,,,,31.3448292,-110.9426431,,,w_587070158,shop=supermarket
+"Santa Cruz, AZ",,retail,446120,Armstrong Mc Call Beauty Supply,,,,31.3404933,-110.9375682,,,w_587075590,shop=cosmetics
+"Santa Cruz, AZ",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50OOJ,31.2983364,-110.9422204,,,w_743464144,"shop=convenience, brand=Oxxo"
+"Santa Cruz, AZ",,retail,452210,Coppel,"1770 Avenida Álvaro Obregón, Nogales, SO, 84066",+52  631-313-3444,https://www.coppel.com/ubicacion-de-tiendas-coppel/sonora/nogales/coppel-obregon-iii,31.3007983,-110.9390997,,,w_744779845,"shop=department_store, brand=Coppel"
+"Santa Cruz, AZ",,retail,452210,Coppel,,,,31.291115,-110.9457991,,,w_744779846,"shop=department_store, brand=Coppel"
+"Santa Cruz, AZ",,retail,445210,,,,,31.2907436,-110.9429229,,,w_755580983,shop=butcher
+"Santa Cruz, AZ",,retail,445120,Oxxo,,,,31.2647403,-110.9646678,,,w_759234726,"shop=convenience, brand=Oxxo"
+"Santa Cruz, AZ",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50YJU,31.2644266,-110.9485193,,,w_759236022,"shop=convenience, brand=Oxxo"
+"Santa Cruz, AZ",,retail,445120,Oxxo,,,,31.3027483,-110.9393769,,,w_760082021,"shop=convenience, brand=Oxxo"
+"Santa Cruz, AZ",,retail,445120,Oxxo,,,,31.2945834,-110.9488431,,,w_931891570,"shop=convenience, brand=Oxxo"
+"Santa Cruz, AZ",,retail,452210,Marshalls,"300 West Mariposa Road, Nogales, AZ, 85621",+1 520-375-6529,https://www.marshalls.com/us/store/stores/Nogales-AZ-85621/1398/aboutstore,31.3685221,-110.936622,,,w_982378260,"shop=department_store, brand=Marshalls"
+"Santa Cruz, AZ",,retail,445120,Oxxo,,,,31.3061796,-110.9421851,,,w_984796083,"shop=convenience, brand=Oxxo"
+"Santa Cruz, AZ",,retail,445120,Circle K,"360 East Patagonia Highway, Nogales, AZ, 85621",,,31.3530558,-110.9209159,,,w_999276359,"shop=convenience, brand=Circle K"
+"Santa Cruz, AZ",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=50NGR,31.2912633,-110.9399065,,,w_1009217211,"shop=convenience, brand=Oxxo"
+"Santa Cruz, AZ",,retail,445120,Oxxo,,,https://www.oxxo.com/tiendas?cr=505J8,31.3015491,-110.9478546,,,w_1009217212,"shop=convenience, brand=Oxxo"
+"Santa Cruz, AZ",,retail,445120,Abarrey,"630 Calle Hermosillo, Heroica Nogales, SO, 84063",,,31.298076,-110.9509063,,,w_1009217219,shop=convenience
+"Santa Cruz, AZ",,retail,452210,Sears Hometown,,,,31.3547559,-110.9294049,,,w_1022676309,"shop=department_store, brand=Sears Hometown"
+"Santa Cruz, AZ",,retail,445120,Red Mountian Foods,"347 McKeown Avenue, Patagonia, AZ, 85624",,,31.5393251,-110.7543307,,,w_1041082792,shop=convenience
+"Santa Cruz, AZ",,retail,445120,Oxxo,"440 Calle Reforma, Nogales, SO",,https://www.sucursales24.com.mx/nogales/oxxo/c-reforma-440-17/,31.3284012,-110.9583976,,,w_1058425760,"shop=convenience, brand=Oxxo"
+"Santa Cruz, AZ",,retail,452319,Dollar General,"3165 Highway 83, Elgin, AZ, 85611",,https://www.dollargeneral.com/store-directory/az/sonoita/17334,31.6801636,-110.6550248,,,w_1071393804,"shop=variety_store, brand=Dollar General"
+"Santa Cruz, AZ",,retail,445120,,,,,31.8276095,-111.0132092,,,w_1076177673,shop=convenience
+"Santa Cruz, AZ",,retail,445120,Circle K,"1680 Shell Loop, Nogales, AZ, 85621",,,31.3646425,-110.9486298,,,w_1232091394,"shop=convenience, brand=Circle K"
+"Santa Cruz, AZ",,retail,445120,MiniSuper ChulaVista,"Doctor Alejandro Silva H., Nogales, 84830",,,31.3191676,-110.9487278,,,w_1237587479,shop=convenience
+"Santa Cruz, AZ",,retail,445120,Royal Road Market,,,,31.3620584,-110.906476,,,w_1242326283,shop=convenience
+"Santa Cruz, AZ",,retail,453110,Los Girasaroles,,,,31.3504773,-110.9273598,,,w_1290081695,shop=florist
+"Santa Cruz, AZ",,retail,445120,Oxxo,,,,31.2819627,-110.9623158,,,w_1375377898,"shop=convenience, brand=Oxxo"
+"Santa Cruz, AZ",,retail,445110,,,,,31.2856996,-110.9632857,,,w_1375377902,shop=supermarket
+"Santa Cruz, AZ",,retail,446110,,,,,31.2852257,-110.9629709,,,w_1375377903,shop=chemist

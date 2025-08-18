@@ -1,0 +1,21 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Kenai, AK",,retail,445120,Kasilof Mercantile,,,,60.3210274,-151.2593519,,,n_2305717077,shop=convenience
+"Kenai, AK",,retail,445310,,,,,60.3181208,-151.2618162,,,n_2305759455,shop=alcohol
+"Kenai, AK",,retail,445120,TJ Seggy's,,,,60.4041018,-151.1657542,,,n_3567709611,shop=convenience
+"Kenai, AK",,retail,445310,TJ's Liquor Store,,,,60.4043153,-151.1656548,,,n_3567709612,shop=alcohol
+"Kenai, AK",,retail,445120,Big John's,,,,60.5010993,-150.9820652,,,n_3591309698,shop=convenience
+"Kenai, AK",,retail,445310,,,,,60.5010943,-150.9822697,,,n_3591309703,shop=alcohol
+"Kenai, AK",,retail,453991,Raven Tobacco,,,,60.5065845,-151.0838771,,,n_4927901042,shop=tobacco
+"Kenai, AK",,retail,445310,,,,,60.5107861,-150.9128112,,,n_6654003563,shop=alcohol
+"Kenai, AK",,retail,445120,,,,,60.5107518,-150.9130096,,,n_6654003564,shop=convenience
+"Kenai, AK",,retail,445110,Three Bears Alaska,,,,60.5323243,-150.7380974,,,n_10968052729,shop=supermarket
+"Kenai, AK",,retail,445110,Safeway,"44428 Sterling Highway South, Soldotna, AK, 99669",+1 907-714-5400,https://local.safeway.com/safeway/ak/soldotna/44428-sterling-hwy.html,60.4840564,-151.0710917,,,w_129385605,"shop=supermarket, brand=Safeway, operator=Safeway 0548"
+"Kenai, AK",,retail,445110,Fred Meyer,"43843 Sterling Highway, Soldotna, AK, 99669",+1 907-260-2200,https://www.fredmeyer.com/stores/details/701/00017,60.4894213,-151.0488858,,,w_221515693,"shop=supermarket, brand=Fred Meyer"
+"Kenai, AK",,retail,445120,Kasilof Riverview,,,,60.3180605,-151.2617764,,,w_221548316,shop=convenience
+"Kenai, AK",,retail,445110,Safeway,"10576 Kenai Spur Highway, Kenai, AK, 99611",+1 907-283-6300,https://local.safeway.com/safeway/ak/kenai/10576-kenai-spur-hwy.html,60.5602218,-151.2408587,,,w_264694677,"shop=supermarket, brand=Safeway"
+"Kenai, AK",,retail,445110,Walmart Supercenter,"10096 Kenai Spur Highway, Kenai, AK, 99611",+1-907-395-0971,https://www.walmart.com/store/4474-kenai-ak,60.5641786,-151.2250025,,,w_264694678,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Kenai, AK",,retail,445110,Three Bears,,,,60.5580144,-151.2374561,,,w_424612087,shop=supermarket
+"Kenai, AK",,retail,445120,2 Go,,,,60.4947188,-151.0680833,,,w_426645056,shop=convenience
+"Kenai, AK",,retail,445110,IGA,"140 South Willow Street, Kenai, AK, 99611",+1 906-486-4900,,60.5575279,-151.2527785,,,w_729729594,"shop=supermarket, brand=IGA"
+"Kenai, AK",,retail,445310,Hunger Hut Liquor Store,,,,60.7303179,-151.3032662,,,w_859887471,shop=alcohol
+"Kenai, AK",,retail,445110,Lucy's Market,,,,60.4854482,-151.054433,,,w_1206769923,shop=supermarket

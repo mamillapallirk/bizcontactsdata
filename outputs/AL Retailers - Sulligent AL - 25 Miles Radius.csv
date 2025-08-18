@@ -1,0 +1,46 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Sulligent, AL",,retail,445120,Glen Allen Grocery,,,,33.9114919,-87.7402971,,,n_457277479,shop=convenience
+"Sulligent, AL",,retail,445120,Hubbert's,,,,33.8279541,-87.7396533,,,n_457278644,shop=convenience
+"Sulligent, AL",,retail,445120,B&M Grocery,,,,33.8499883,-87.7336564,,,n_457304243,shop=convenience
+"Sulligent, AL",,retail,445110,Piggly Wiggly,"12205 Highway 96, Millport, AL, 35575",+1 205-662-4920,,33.5609218,-88.073344,,,n_4879633374,"shop=supermarket, brand=Piggly Wiggly"
+"Sulligent, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/millport/7484,33.560913,-88.0727035,,,n_4879633375,"shop=variety_store, brand=Dollar General"
+"Sulligent, AL",,retail,446120,Mirror Mirror,,,,33.6785711,-88.3240542,,,n_5726321155,shop=beauty
+"Sulligent, AL",,retail,446120,Studio 737,,,,33.6831634,-88.324718,,,n_5726321156,shop=beauty
+"Sulligent, AL",,retail,446120,,,,,33.6829871,-88.3241601,,,n_5726321158,shop=beauty
+"Sulligent, AL",,retail,446120,Elaine's,,,,33.7377577,-88.4445365,,,n_5726321176,shop=beauty
+"Sulligent, AL",,retail,452319,Family Dollar,,,,33.9777482,-88.469769,,,n_10891126012,"shop=variety_store, brand=Family Dollar"
+"Sulligent, AL",,retail,445110,Piggly Wiggly,"202 South Maple, Aberdeen, MS, 39730",+1 662-369-8272,,33.8234381,-88.5416971,,,n_11802569681,"shop=supermarket, brand=Piggly Wiggly"
+"Sulligent, AL",,retail,445110,Shop & Save,"5730 Cal Kolola Road, Caledonia, MS, 39740",,,33.6895922,-88.3391984,,,n_12421826488,shop=supermarket
+"Sulligent, AL",,retail,445110,Dollar General Market,"5679 Cal Kolola Road, Caledonia, MS, 39740",,,33.6902151,-88.3400195,,,n_12421826489,"shop=supermarket, brand=Dollar General Market"
+"Sulligent, AL",,retail,445120,,,,,33.8038601,-88.4653361,,,n_12827732405,shop=convenience
+"Sulligent, AL",,retail,452319,Dirt Cheap,,,,33.9768033,-88.4693532,,,n_12831240880,shop=variety_store
+"Sulligent, AL",,retail,445110,Food Giant,,,,33.9814957,-88.4773233,,,n_12831244496,shop=supermarket
+"Sulligent, AL",,retail,446120,Top Nails,,,,33.9818911,-88.4860076,,,n_12831599044,shop=beauty
+"Sulligent, AL",,retail,445310,The Depot Wine And Spirits,,,,33.977024,-88.4725722,,,n_12832974819,shop=alcohol
+"Sulligent, AL",,retail,453110,Restoration & Co.,"477 Columbus Street, Millport, AL",,,33.5636076,-88.0821258,,,n_12926548570,shop=florist
+"Sulligent, AL",,retail,445110,Walmart Supercenter,"1515 Highway 278 East, Amory, MS, 38821",+1 662-256-1590,https://www.walmart.com/store/118-amory-ms,33.9686756,-88.45697,,,w_533486886,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Sulligent, AL",,retail,445120,Chevron,,,,33.9762282,-88.4905593,,,w_592223283,"shop=convenience, brand=Chevron"
+"Sulligent, AL",,retail,452319,Dollar General,"10066 AL 129, Brilliant, AL, 35548",+1-205-465-2587,https://www.dollargeneral.com/store-directory/al/brilliant/8999,34.0275995,-87.7651347,,,w_682821582,"shop=variety_store, brand=Dollar General, operator=Dollar General Corp."
+"Sulligent, AL",,retail,445120,Shell,"7015 SR 129, Winfield, AL, 35594",,,33.9880918,-87.7773746,,,w_682845462,"shop=convenience, brand=Shell, operator=Moore Petroleum"
+"Sulligent, AL",,retail,445120,Chevron,"7016 SR 129, Winfield, AL, 35594",+1-205-487-0113,,33.987572,-87.7756199,,,w_682845464,"shop=convenience, brand=Chevron, operator=Sarafina Network LLC."
+"Sulligent, AL",,retail,445110,Walmart Supercenter,"205 House-Carlson Drive, Batesville, MS, 38606",+1 205-932-5277,https://www.walmart.com/store/1052-fayette-al,33.7316881,-87.8086996,,,w_697187646,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Sulligent, AL",,retail,445110,Walmart Supercenter,"1706 Military Street South, Hamilton, AL, 35570",+1 205-921-3090,https://www.walmart.com/store/1100-hamilton-al,34.119646,-87.9923475,,,w_955089196,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Sulligent, AL",,retail,445120,Chevron,"5646 State Highway 44, Guin, AL, 35563",+1 205-430-2898,https://www.chevronwithtechron.com/en_us/home/gas-station-near-me.html?/station/5646-AL-HWY-44-GUIN-AL-35563-id381887,34.0105144,-87.8397753,,,w_1113776214,"shop=convenience, brand=Chevron"
+"Sulligent, AL",,retail,445110,Walmart Supercenter,"2575 US Highway 43, Winfield, AL, 35594",+1 205-487-4359,https://www.walmart.com/store/362-winfield-al,33.9352165,-87.8404602,,,w_1116689062,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Sulligent, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ms/steens/16840,33.5962288,-88.3340834,,,w_1169538811,"shop=variety_store, brand=Dollar General"
+"Sulligent, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ms/aberdeen/17605,33.8155957,-88.5446194,,,w_1171709840,"shop=variety_store, brand=Dollar General"
+"Sulligent, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ms/hamilton/7301,33.7406828,-88.4382749,,,w_1171709843,"shop=variety_store, brand=Dollar General"
+"Sulligent, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ms/caledonia/8886,33.6788726,-88.3258016,,,w_1171709875,"shop=variety_store, brand=Dollar General"
+"Sulligent, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ms/amory/21102,33.9233232,-88.4770221,,,w_1172171167,"shop=variety_store, brand=Dollar General"
+"Sulligent, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ms/amory/804,33.9773395,-88.4729202,,,w_1172171187,"shop=variety_store, brand=Dollar General"
+"Sulligent, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ms/nettleton/21110,34.0739449,-88.5149547,,,w_1172221219,"shop=variety_store, brand=Dollar General"
+"Sulligent, AL",,retail,445120,Marathon,,,,33.9803978,-88.4845114,,,w_1178722084,"shop=convenience, brand=Marathon"
+"Sulligent, AL",,retail,445120,,,,,33.9780135,-88.4719664,,,w_1178722100,"shop=convenience, brand=Shell"
+"Sulligent, AL",,retail,445110,FoodLand,"2210 US Hwy 43, Winfield, AL, 35594",+1-205-487-5448,https://gatewayfoodland.com/find-your-store/,33.9388494,-87.8354022,,,w_1184780598,"shop=supermarket, brand=FoodLand"
+"Sulligent, AL",,retail,452319,Dollar General,"2610 US Hwy 43, Winfield, AL, 35594",+1-205-549-0493,https://www.dollargeneral.com/store-directory/al/winfield/3646,33.9386486,-87.8404451,,,w_1184780603,"shop=variety_store, brand=Dollar General"
+"Sulligent, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ms/amory/17646,33.9775906,-88.4131995,,,w_1234867433,"shop=variety_store, brand=Dollar General"
+"Sulligent, AL",,retail,445120,Food Mart,,,,34.1404248,-87.9887959,,,w_1312111204,"shop=convenience, amenity=marketplace"
+"Sulligent, AL",,retail,445120,Dollar General,,,,34.1274848,-87.989109,,,w_1312111208,"shop=convenience, amenity=marketplace"
+"Sulligent, AL",,retail,445120,Love's,"1126 Co Rd 35, Hamilton, AL",+1-205-754-3100,https://www.loves.com/,34.0928535,-88.0049146,,,w_1312114739,"shop=convenience, brand=Love's"
+"Sulligent, AL",,retail,445110,Piggly Wiggly,"7270 US Highway 43, Guin, AL, 35563",+1 205-468-3374,,33.9667231,-87.9102879,,,w_1318940203,"shop=supermarket, brand=Piggly Wiggly"
+"Sulligent, AL",,retail,445120,Twin Stop and Go,"6085 State Highway 253, Guin, AL, 35563",,,34.0028026,-87.8578893,,,w_1390881588,"shop=convenience, amenity=fuel"

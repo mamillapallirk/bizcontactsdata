@@ -1,0 +1,9 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Memphis, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ms/scooba/17578,32.830472,-88.4641992,,,n_4989023363,"shop=variety_store, brand=Dollar General"
+"Memphis, AL",,retail,446120,Wild Rose,,,,33.4923269,-88.3294159,,,n_5726321139,shop=beauty
+"Memphis, AL",,retail,445120,TJ & J Grocery And Deli,,,,32.9147061,-87.9928945,,,n_13034187121,shop=convenience
+"Memphis, AL",,retail,452319,The Country Store,,,,32.9875924,-87.9133766,,,n_13052671586,shop=general
+"Memphis, AL",,retail,445120,,,,,32.8299879,-88.4632047,,,w_509705004,shop=convenience
+"Memphis, AL",,retail,445120,,,,,32.8314078,-88.4638699,,,w_509705009,shop=convenience
+"Memphis, AL",,retail,452319,Dollar General,,,,33.3842185,-88.0257215,,,w_762393112,"shop=variety_store, brand=Dollar General"
+"Memphis, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/ms/columbus/17420,33.4446465,-88.3650434,,,w_1169538783,"shop=variety_store, brand=Dollar General"

@@ -1,0 +1,22 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Fayette, AL",,retail,445120,Glen Allen Grocery,,,,33.9114919,-87.7402971,,,n_457277479,shop=convenience
+"Fayette, AL",,retail,445120,Hubbert's,,,,33.8279541,-87.7396533,,,n_457278644,shop=convenience
+"Fayette, AL",,retail,445120,B&M Grocery,,,,33.8499883,-87.7336564,,,n_457304243,shop=convenience
+"Fayette, AL",,retail,445110,Piggly Wiggly,"17884 Highway 18 East, Berry, AL, 35546",+1 205-689-4566,,33.6591541,-87.601334,,,n_3111707533,"shop=supermarket, brand=Piggly Wiggly"
+"Fayette, AL",,retail,445120,F & G Quick Stop,,,,33.6590668,-87.6026138,,,n_3111712884,shop=convenience
+"Fayette, AL",,retail,445110,Piggly Wiggly,"12205 Highway 96, Millport, AL, 35575",+1 205-662-4920,,33.5609218,-88.073344,,,n_4879633374,"shop=supermarket, brand=Piggly Wiggly"
+"Fayette, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/millport/7484,33.560913,-88.0727035,,,n_4879633375,"shop=variety_store, brand=Dollar General"
+"Fayette, AL",,retail,445120,Marathon,,,,33.4659137,-87.6271769,,,n_6554212585,"shop=convenience, brand=Marathon"
+"Fayette, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/northport/6314,33.4650668,-87.6276959,,,n_6554212586,"shop=variety_store, brand=Dollar General"
+"Fayette, AL",,retail,445210,Sipsey Deer Processing,"3345 County Road 35, Fayette, AL, 35555",+1 205-932-5179,,33.6482599,-87.811858,,,n_11762865708,shop=butcher
+"Fayette, AL",,retail,453110,Restoration & Co.,"477 Columbus Street, Millport, AL",,,33.5636076,-88.0821258,,,n_12926548570,shop=florist
+"Fayette, AL",,retail,452319,Dollar General,"10066 AL 129, Brilliant, AL, 35548",+1-205-465-2587,https://www.dollargeneral.com/store-directory/al/brilliant/8999,34.0275995,-87.7651347,,,w_682821582,"shop=variety_store, brand=Dollar General, operator=Dollar General Corp."
+"Fayette, AL",,retail,445120,Shell,"7015 SR 129, Winfield, AL, 35594",,,33.9880918,-87.7773746,,,w_682845462,"shop=convenience, brand=Shell, operator=Moore Petroleum"
+"Fayette, AL",,retail,445120,Chevron,"7016 SR 129, Winfield, AL, 35594",+1-205-487-0113,,33.987572,-87.7756199,,,w_682845464,"shop=convenience, brand=Chevron, operator=Sarafina Network LLC."
+"Fayette, AL",,retail,445110,Walmart Supercenter,"205 House-Carlson Drive, Batesville, MS, 38606",+1 205-932-5277,https://www.walmart.com/store/1052-fayette-al,33.7316881,-87.8086996,,,w_697187646,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Fayette, AL",,retail,445120,Chevron,"5646 State Highway 44, Guin, AL, 35563",+1 205-430-2898,https://www.chevronwithtechron.com/en_us/home/gas-station-near-me.html?/station/5646-AL-HWY-44-GUIN-AL-35563-id381887,34.0105144,-87.8397753,,,w_1113776214,"shop=convenience, brand=Chevron"
+"Fayette, AL",,retail,445110,Walmart Supercenter,"2575 US Highway 43, Winfield, AL, 35594",+1 205-487-4359,https://www.walmart.com/store/362-winfield-al,33.9352165,-87.8404602,,,w_1116689062,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Fayette, AL",,retail,445110,FoodLand,"2210 US Hwy 43, Winfield, AL, 35594",+1-205-487-5448,https://gatewayfoodland.com/find-your-store/,33.9388494,-87.8354022,,,w_1184780598,"shop=supermarket, brand=FoodLand"
+"Fayette, AL",,retail,452319,Dollar General,"2610 US Hwy 43, Winfield, AL, 35594",+1-205-549-0493,https://www.dollargeneral.com/store-directory/al/winfield/3646,33.9386486,-87.8404451,,,w_1184780603,"shop=variety_store, brand=Dollar General"
+"Fayette, AL",,retail,445110,Piggly Wiggly,"7270 US Highway 43, Guin, AL, 35563",+1 205-468-3374,,33.9667231,-87.9102879,,,w_1318940203,"shop=supermarket, brand=Piggly Wiggly"
+"Fayette, AL",,retail,445120,Twin Stop and Go,"6085 State Highway 253, Guin, AL, 35563",,,34.0028026,-87.8578893,,,w_1390881588,"shop=convenience, amenity=fuel"

@@ -1,6 +1,2 @@
 Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
-"Ashland, AL",wholesale,wholesale,424490,Astro Wholesale LLC,"470 Joseph St, Alexander City, AL 35010, USA",(618) 510-9185,https://www.astrowholesale.com/,32.9329073,-85.9584309,,,ChIJ87_xiEQLjIgRMwcSavSj46M,"point_of_interest, establishment"
-"Ashland, AL",wholesale,wholesale,424490,Wholesale Surplus,"104 Greenbrier Dear Rd, Anniston, AL 36201, USA",(256) 237-6830,,33.6368411,-85.8266672,,,ChIJr9jSit-zi4gRdZEj7pPv8Yc,"point_of_interest, establishment"
-"Ashland, AL",wholesale,wholesale,424490,RGB Wholesale,"590 Cheaha Rd, Munford, AL 36268, USA",,,33.4901229,-85.9475598,,,ChIJwzp2a2zHi4gROvxpxz_Azqo,"point_of_interest, establishment"
-"Ashland, AL",distributor,wholesale,424490,Distributor Supply Co,"3220 Miller Ln, Anniston, AL 36207, USA",(256) 831-4900,http://prohose.com/,33.62229,-85.7891836,5.0,5.0,ChIJ__xO-pKxi4gRoyqmPW86Ak0,"point_of_interest, establishment"
-"Ashland, AL",distributor,wholesale,424490,"Rainbow Distributor, Air and Water INC.","829 Snow St, Oxford, AL 36203, USA",(256) 831-2737,http://doitandgetit.com/,33.6153512,-85.8206847,3.0,9.0,ChIJ-erRJ22xi4gRYCVU1T5P_YY,"point_of_interest, establishment"
+"Ashland, AL",,wholesale,424490,Sam's Club,"1900 Oxford Exchange Boulevard, Oxford, AL, 36203",+1 256-342-0125,https://www.samsclub.com/club/oxford-al-sams-club/4836,33.6093344,-85.7761141,,,w_415184471,"shop=wholesale, brand=Sam's Club"

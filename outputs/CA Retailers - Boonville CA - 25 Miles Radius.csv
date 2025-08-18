@@ -1,0 +1,83 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Boonville, CA",,retail,445110,Redwood Valley Market,,,,39.2648392,-123.2043748,,,n_290364717,shop=supermarket
+"Boonville, CA",,retail,445110,Lucky,,,,39.1523364,-123.2015312,,,n_314507874,"shop=supermarket, brand=Lucky"
+"Boonville, CA",,retail,445120,Quest Mart,,,,39.1595488,-123.2083563,,,n_322989276,shop=convenience
+"Boonville, CA",,retail,445110,S & B Market,,,,38.9702317,-123.6872112,,,n_541343525,shop=supermarket
+"Boonville, CA",,retail,445110,Gualala Supermarket,,,,38.7675963,-123.5282011,,,n_877478422,shop=supermarket
+"Boonville, CA",,retail,452210,Ross,"550 East Perkins Street, Ukiah, CA, 95482",+1 707-472-0512,,39.1530442,-123.1995403,,,n_2072176804,"shop=department_store, brand=Ross"
+"Boonville, CA",,retail,445310,Greenwood Ridge Vineyards Tasting Room,,,,39.0977809,-123.4842674,,,n_3722245757,shop=alcohol
+"Boonville, CA",,retail,445120,Talmage Market,,,,39.1333951,-123.1664551,,,n_5127710511,shop=convenience
+"Boonville, CA",,retail,445210,Contreras Meat Market,,,,39.1328824,-123.1719539,,,n_5127710512,shop=butcher
+"Boonville, CA",,retail,445120,Point Arena General Store,,,,38.9090709,-123.6920838,,,n_5827885885,shop=convenience
+"Boonville, CA",,retail,445110,FoodMaxx,"1235 Airport Park Boulevard, Ukiah, CA, 95482",+1 707-467-9007,https://luckysupermarkets.com/stores/95940da7-d5ec-4d99-9106-648fa9a3786b/UKIAH/473/UKIAH,39.131269,-123.196676,,,n_5912324337,"shop=supermarket, brand=FoodMaxx"
+"Boonville, CA",,retail,446120,La Belle Nails & Spa,,,,39.1285897,-123.1992199,,,n_5914710047,shop=beauty
+"Boonville, CA",,retail,446120,1st Nails,,,,39.1530523,-123.2005828,,,n_5918874068,shop=beauty
+"Boonville, CA",,retail,452319,Navarro General Store,,,,39.1528248,-123.5435225,,,n_6164833196,shop=general
+"Boonville, CA",,retail,445120,Yorkville market,,,,38.8997462,-123.2178296,,,n_6164833663,shop=convenience
+"Boonville, CA",,retail,446120,U.S. Nails,,,,39.048143,-122.9247737,,,n_9951744742,shop=beauty
+"Boonville, CA",,retail,445310,McFaddens's Blue Quail,,,,38.9739767,-123.1157996,,,n_9953320066,shop=alcohol
+"Boonville, CA",,retail,445310,Graziano Family of Wines,,,,38.9740727,-123.1157633,,,n_9953329126,shop=alcohol
+"Boonville, CA",,retail,445310,Baxter Tasting Room,,,,39.0653207,-123.4405193,,,n_9953786479,shop=wine
+"Boonville, CA",,retail,445110,Grocery Outlet,,,,39.0342514,-122.9167417,,,n_10160413197,"shop=supermarket, brand=Grocery Outlet"
+"Boonville, CA",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/ca/lakeport/1242/,39.0334014,-122.9166076,,,n_10160413198,"shop=variety_store, brand=Dollar Tree"
+"Boonville, CA",,retail,445110,Bruno's Shop Smart,,,,39.0338629,-122.9181453,,,n_10160413200,shop=supermarket
+"Boonville, CA",,retail,452319,Dollar Tree,1230 Airport Park Boulevard,,https://www.dollartree.com/locations/ca/ukiah/8577/,39.1314856,-123.199812,,,n_10813783248,"shop=variety_store, brand=Dollar Tree"
+"Boonville, CA",,retail,445120,Prime Market,,,,39.1451877,-123.2083293,,,n_10857431601,shop=convenience
+"Boonville, CA",,retail,445120,Quick Pick Liquors,,,,38.7835827,-123.0111474,,,n_10892501789,shop=convenience
+"Boonville, CA",,retail,445120,Redwood Market,,,,38.7836292,-123.012806,,,n_10892571137,shop=convenience
+"Boonville, CA",,retail,446120,TJ Nail & Spa,,,,39.1675367,-123.2117505,,,n_10901079899,shop=beauty
+"Boonville, CA",,retail,453110,Rain Forest Fantasy,,,,39.150461,-123.2075346,,,n_10901082400,shop=florist
+"Boonville, CA",,retail,452319,Elk Store,,,,39.1294781,-123.7165654,,,n_10902819193,shop=general
+"Boonville, CA",,retail,452319,Anchor Bay Store,,,,38.803327,-123.5779494,,,n_11479314783,shop=general
+"Boonville, CA",,retail,452319,Comptche Store,,,,39.2649454,-123.5915315,,,n_12555036084,shop=general
+"Boonville, CA",,retail,445120,The Superette Market,,,,39.2333073,-123.2022953,,,n_12597079983,shop=convenience
+"Boonville, CA",,retail,452319,Stewarts Point Store,,,,38.6519576,-123.3998266,,,w_169498120,"shop=general, amenity=cafe"
+"Boonville, CA",,retail,452210,Kohl's,"437 North Orchard Avenue, Ukiah, CA, 95482",+1 707-462-2694,https://www.kohls.com/stores/ca/ukiah-1383.shtml,39.1555981,-123.1983802,,,w_196928632,"shop=department_store, brand=Kohl's"
+"Boonville, CA",,retail,445110,Safeway,"653 South State Street, Ukiah, CA, 95482",+1 707-467-2700,https://local.safeway.com/safeway/ca/ukiah/653-s-state-st.html,39.1445578,-123.2059803,,,w_238689705,"shop=supermarket, brand=Safeway"
+"Boonville, CA",,retail,445120,Hopland Farms Gas and Mart,"Hopland, CA, 95449",,,38.9708043,-123.1162621,,,w_241709060,shop=convenience
+"Boonville, CA",,retail,445120,Lemons' Market,,,,39.0652919,-123.439734,,,w_242899471,shop=convenience
+"Boonville, CA",,retail,445310,Witching Stick Tasting Room,,,,39.0654313,-123.4400827,,,w_242899472,shop=wine
+"Boonville, CA",,retail,445110,Safeway,"1071 11th Street, Lakeport, CA, 95453",+1 707-263-8072,https://local.safeway.com/safeway/ca/lakeport/1071-11th-st.html,39.0484648,-122.9257152,,,w_252727178,"shop=supermarket, brand=Safeway"
+"Boonville, CA",,retail,445120,Chevron,"1165 South Cloverdale Boulevard, Cloverdale, CA, 95425",,,38.7837347,-123.012653,,,w_271946206,"shop=convenience, amenity=fuel, brand=Chevron"
+"Boonville, CA",,retail,445310,Kwik Pik Market,,,,39.1513107,-123.1931734,,,w_461267043,shop=alcohol
+"Boonville, CA",,retail,445120,Speedway,"1301 North State Street, Ukiah, CA, 95482",,https://www.speedway.com/locations/CA/Ukiah/1301-N-STATE-ST,39.168037,-123.2105955,,,w_461287534,"shop=convenience, brand=Speedway"
+"Boonville, CA",,retail,452210,Walmart,"1155 Airport Park Boulevard, Ukiah, CA, 95482",+1 707-468-0258,https://www.walmart.com/store/2052-ukiah-ca,39.1336,-123.196977,,,w_461612585,"shop=department_store, brand=Walmart, operator=Walmart"
+"Boonville, CA",,retail,445110,Grocery Outlet,,,,39.1664413,-123.2102766,,,w_462261441,"shop=supermarket, brand=Grocery Outlet"
+"Boonville, CA",,retail,445120,Express Mart,"998 South State Street, Ukiah, CA, 95482",,,39.1383982,-123.2062858,,,w_626279830,shop=convenience
+"Boonville, CA",,retail,445120,Speedway,,,https://www.speedway.com/locations/CA/Ukiah/1105-South-State-Street,39.1360028,-123.2047945,,,w_626279843,"shop=convenience, brand=Speedway"
+"Boonville, CA",,retail,445120,Quik Stop,,,,39.1352478,-123.198284,,,w_626461106,"shop=convenience, brand=Quik Stop"
+"Boonville, CA",,retail,445120,Redwood Market,,,,39.1366639,-123.2050405,,,w_626527085,shop=convenience
+"Boonville, CA",,retail,445310,Ukiah Food & Liquor,,,,39.1338249,-123.2058621,,,w_626680374,shop=alcohol
+"Boonville, CA",,retail,446120,Rose's Nails & Spa,,,,39.1398899,-123.2057422,,,w_626680381,shop=beauty
+"Boonville, CA",,retail,445310,Anderson Valley Market and Liquor,,,,39.0082321,-123.3659644,,,w_673712835,shop=alcohol
+"Boonville, CA",,retail,445310,Foursight Wines,,,,39.0047953,-123.3628233,,,w_673712837,shop=wine
+"Boonville, CA",,retail,445310,Pic n Pay Liquor Store and Market,,,,39.0089038,-123.3666487,,,w_673923699,shop=alcohol
+"Boonville, CA",,retail,445120,Redwood Market,,,,39.1511433,-123.198336,,,w_702166263,shop=convenience
+"Boonville, CA",,retail,445120,Chevron,,,,39.1696504,-123.2125689,,,w_709826331,"shop=convenience, brand=Chevron"
+"Boonville, CA",,retail,445120,ampm,,,,39.135588,-123.1926188,,,w_710385717,"shop=convenience, brand=ampm"
+"Boonville, CA",,retail,445110,Raley's,"1315 North State Street, Ukiah, CA, 95482",,,39.1684323,-123.2088918,,,w_710599275,"shop=supermarket, brand=Raley's"
+"Boonville, CA",,retail,445120,Redwood Market,,,,39.1914197,-123.2083436,,,w_710759360,shop=convenience
+"Boonville, CA",,retail,445120,Express Mart,,,,39.1916888,-123.2064594,,,w_710759361,shop=convenience
+"Boonville, CA",,retail,445110,Ukiah Natural Foods Co-op,"721 S State St, Ukiah, CA, 95482",+1 707-462-4778,,39.1431922,-123.2050818,,,w_710759362,shop=supermarket
+"Boonville, CA",,retail,445120,Speedway,,,https://www.speedway.com/locations/CA/Ukiah/585-East-Perkins-Street,39.151043,-123.1996137,,,w_711177881,"shop=convenience, brand=Speedway"
+"Boonville, CA",,retail,452319,Dollar Tree,"1395 North State Street, Ukiah, CA, 95482-3476",+1 707-472-5992,https://www.dollartree.com/locations/ca/ukiah/4060/,39.1692934,-123.2097299,,,w_715631277,"shop=variety_store, brand=Dollar Tree"
+"Boonville, CA",,retail,446120,Ukiah Nail & Spa,,,,39.1690759,-123.2093596,,,w_715631281,shop=beauty
+"Boonville, CA",,retail,453991,Discount Cigarettes,,,,39.1679714,-123.208815,,,w_715631289,shop=tobacco
+"Boonville, CA",,retail,445210,Contreras Meat Market,Talmage Road,,,39.1327679,-123.1720634,,,w_724617781,shop=butcher
+"Boonville, CA",,retail,445310,South Side Store,"22 Oak Knoll Road, Ukiah, CA, 95482",,,39.1173509,-123.2010506,,,w_732170542,shop=alcohol
+"Boonville, CA",,retail,445120,Coyote Valley Convience Store,"Coyote Valley Boulevard, Redwood Valley, CA",,,39.2562484,-123.2138354,,,w_736365137,shop=convenience
+"Boonville, CA",,retail,445120,Westside Renaissance Market,"1003 West Clay Street, CA",,,39.1464594,-123.2157183,,,w_741155682,shop=convenience
+"Boonville, CA",,retail,445110,Boont berry farm,"13981 State Route 128, Boonville, CA, 95415",+1 (707) 895-3576,https://boont-berry-farm-store.business.site/,39.0104501,-123.3689935,,,w_753164274,"shop=supermarket, amenity=restaurant"
+"Boonville, CA",,retail,445110,Surf Market,,,,38.7667968,-123.5296419,,,w_836709521,shop=supermarket
+"Boonville, CA",,retail,452210,Big Daddy,,,,39.1682201,-123.2043946,,,w_952784622,shop=department_store
+"Boonville, CA",,retail,452319,Dollar General,"465 South Cloverdale Boulevard, Cloverdale, CA, 95425-4003",+1 707-404-3495,https://www.dollargeneral.com/store-directory/ca/cloverdale/16271,38.7988026,-123.0182841,,,w_1006861744,"shop=variety_store, brand=Dollar General"
+"Boonville, CA",,retail,445110,Grocery Outlet,"111 Treadway Drive, Cloverdale, CA, 95425",+1 707-894-6254,,38.7832427,-123.0133799,,,w_1006862141,"shop=supermarket, brand=Grocery Outlet"
+"Boonville, CA",,retail,445120,Quik Stop,"601 North Cloverdale Boulevard, Cloverdale, CA",,,38.8123958,-123.0229691,,,w_1160094857,"shop=convenience, brand=Quik Stop"
+"Boonville, CA",,retail,446120,Exotic Nail & Spa,,,,39.150677,-123.2080148,,,w_1180557371,shop=beauty
+"Boonville, CA",,retail,453110,W/E Flowers,,,,39.1515451,-123.2083609,,,w_1196887906,shop=florist
+"Boonville, CA",,retail,446120,Mama's Medicinals,,,,39.1514246,-123.2083308,,,w_1196887908,shop=beauty
+"Boonville, CA",,retail,445120,Dino Mart,,,,39.1249381,-123.2049537,,,w_1196887941,shop=convenience
+"Boonville, CA",,retail,445110,Forks Ranch Market,,,,39.1918255,-123.2073623,,,w_1196887952,shop=supermarket
+"Boonville, CA",,retail,445120,,,,,39.1931332,-123.2063836,,,w_1213891923,shop=convenience
+"Boonville, CA",,retail,446120,Pro Salon Nails & Spa,,,,39.1666717,-123.2114197,,,w_1347259506,shop=beauty
+"Boonville, CA",,retail,445120,Express Mart,"390 East Gobbi Street, Ukiah, CA, 95482",,,39.1446817,-123.2013843,,,w_1408939561,shop=convenience

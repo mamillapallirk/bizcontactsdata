@@ -1,0 +1,8 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Delta Junction, AK",,retail,445210,Delta Meat and Sausage,mile 1413 Alaska Highway,+1 907 895-4006,,63.9706546,-145.4995772,,,n_4277458090,shop=butcher
+"Delta Junction, AK",,retail,445310,Beverage Cellar,,,,64.042642,-145.7378268,,,n_4941398911,shop=alcohol
+"Delta Junction, AK",,retail,445120,Delta Petro Food Mart,"1229 Richardson Highway, Delta Junction, AK",,,64.0305894,-145.7313479,,,w_479370736,shop=convenience
+"Delta Junction, AK",,retail,445120,Delta Country Store,,,,64.0319602,-145.7319644,,,w_479370741,shop=convenience
+"Delta Junction, AK",,retail,445110,Food Cache IGA,"Delta Junction, AK, 99737",+1 907-822-3334,,64.0429536,-145.7385066,,,w_479379113,shop=supermarket
+"Delta Junction, AK",,retail,445120,Bufflao Center Service,,,,64.0409567,-145.7336593,,,w_479382014,"shop=convenience, amenity=fuel"
+"Delta Junction, AK",,retail,445310,"Big ""D"" Bar - Package Store",,,,64.1467188,-145.8310002,,,w_479426480,"shop=alcohol, amenity=bar"

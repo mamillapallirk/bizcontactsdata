@@ -1,0 +1,15 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"Malcolm, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/leroy/13986,31.5099945,-87.9542172,,,n_2443435609,"shop=variety_store, brand=Dollar General"
+"Malcolm, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/jackson/4672/,31.5355313,-87.8899273,,,n_2443447715,"shop=variety_store, brand=Dollar Tree"
+"Malcolm, AL",,retail,445110,Ramey's Pic N Sav,,,,31.5361714,-87.8894552,,,n_2443447721,shop=supermarket
+"Malcolm, AL",,retail,452319,Family Dollar,,,,31.2649504,-88.0308103,,,n_2443797230,"shop=variety_store, brand=Family Dollar"
+"Malcolm, AL",,retail,445110,Food Tiger,,,,31.2657345,-88.0306387,,,n_2443797240,shop=supermarket
+"Malcolm, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/mcintosh/9969,31.2658674,-88.0323445,,,n_2443797244,"shop=variety_store, brand=Dollar General"
+"Malcolm, AL",,retail,445110,Piggly Wiggly,"19180 Highway 43 North, Mount Vernon, AL, 36560",+1 251-829-6977,https://wedigthepig.com/,31.091173,-88.0146153,,,n_11618396408,"shop=supermarket, brand=Piggly Wiggly"
+"Malcolm, AL",,retail,445120,Circle K,,,,30.951717,-87.8559649,,,n_11972178000,"shop=convenience, brand=Circle K"
+"Malcolm, AL",,retail,445110,Creola Food Market,,,,30.9013831,-88.0385237,,,n_12013132223,shop=supermarket
+"Malcolm, AL",,retail,445110,Walmart Supercenter,"701 McMeans Ave;McMeans Avenue, Bay Minette, AL, 36507",+1 251-937-5558,https://www.walmart.com/store/2739-bay-minette-al,30.8860509,-87.7900853,,,w_397647967,"shop=supermarket, brand=Walmart, operator=Walmart"
+"Malcolm, AL",,retail,452319,Dollar General,"Creola, AL, 36525",,,30.8965295,-88.0396458,,,w_1296448030,"shop=variety_store, brand=Dollar General"
+"Malcolm, AL",,retail,445310,ABC Select Spirits,,,,31.1272455,-88.0106567,,,w_1333597196,shop=alcohol
+"Malcolm, AL",,retail,445120,Powell's Grocery,"52825 Highway 59, Stockton, AL, 36579",+1 251-937-8495,,30.9946112,-87.8583306,,,w_1391770091,shop=convenience
+"Malcolm, AL",,retail,452319,Dollar General,"52755 Highway 59, Stockton, AL, 36579",,,30.9933924,-87.8584846,,,w_1391770096,"shop=variety_store, brand=Dollar General"

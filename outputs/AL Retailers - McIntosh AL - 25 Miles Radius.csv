@@ -1,0 +1,16 @@
+Location,Search Keyword,Segment,NAICS Code,Business Name,Address,Phone Number,Website,Latitude,Longitude,Rating,User Ratings,Place ID,Types
+"McIntosh, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/leroy/13986,31.5099945,-87.9542172,,,n_2443435609,"shop=variety_store, brand=Dollar General"
+"McIntosh, AL",,retail,452319,Dollar Tree,,,https://www.dollartree.com/locations/al/jackson/4672/,31.5355313,-87.8899273,,,n_2443447715,"shop=variety_store, brand=Dollar Tree"
+"McIntosh, AL",,retail,445110,Ramey's Pic N Sav,,,,31.5361714,-87.8894552,,,n_2443447721,shop=supermarket
+"McIntosh, AL",,retail,452319,Dollar General,"4107 North College Avenue, Jackson, AL, 36545",,https://www.dollargeneral.com/store-directory/al/jackson/7714,31.5555073,-87.8775489,,,n_2443519642,"shop=variety_store, brand=Dollar General"
+"McIntosh, AL",,retail,452319,Family Dollar,,,,31.2649504,-88.0308103,,,n_2443797230,"shop=variety_store, brand=Family Dollar"
+"McIntosh, AL",,retail,445110,Food Tiger,,,,31.2657345,-88.0306387,,,n_2443797240,shop=supermarket
+"McIntosh, AL",,retail,452319,Dollar General,,,https://www.dollargeneral.com/store-directory/al/mcintosh/9969,31.2658674,-88.0323445,,,n_2443797244,"shop=variety_store, brand=Dollar General"
+"McIntosh, AL",,retail,445110,Walmart Supercenter,"4206 North College Avenue, Jackson, AL, 36545",+1 251-247-7101,https://www.walmart.com/store/2760-jackson-al,31.559638,-87.875509,,,n_5315599429,"shop=supermarket, brand=Walmart, operator=Walmart"
+"McIntosh, AL",,retail,445110,Piggly Wiggly,"19180 Highway 43 North, Mount Vernon, AL, 36560",+1 251-829-6977,https://wedigthepig.com/,31.091173,-88.0146153,,,n_11618396408,"shop=supermarket, brand=Piggly Wiggly"
+"McIntosh, AL",,retail,445120,Circle K,,,,30.951717,-87.8559649,,,n_11972178000,"shop=convenience, brand=Circle K"
+"McIntosh, AL",,retail,445120,,,,,31.5495333,-87.879744,,,n_12361248097,shop=convenience
+"McIntosh, AL",,retail,445120,Saint Stephens Park General Store,,,,31.5594242,-88.0347472,,,w_923006250,shop=convenience
+"McIntosh, AL",,retail,445310,ABC Select Spirits,,,,31.1272455,-88.0106567,,,w_1333597196,shop=alcohol
+"McIntosh, AL",,retail,445120,Powell's Grocery,"52825 Highway 59, Stockton, AL, 36579",+1 251-937-8495,,30.9946112,-87.8583306,,,w_1391770091,shop=convenience
+"McIntosh, AL",,retail,452319,Dollar General,"52755 Highway 59, Stockton, AL, 36579",,,30.9933924,-87.8584846,,,w_1391770096,"shop=variety_store, brand=Dollar General"
