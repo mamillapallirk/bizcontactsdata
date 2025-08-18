@@ -49,7 +49,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add outputs/*.csv cursor.json state_dedupe.jsonl || true
+          git add outputs/**/*.csv outputs/*.csv cursor.json state_dedupe.jsonl || true
           git commit -m "OSM batch $(date -u +'%Y-%m-%d %H:%M:%S') UTC" || echo "Nothing to commit"
           git push
 
