@@ -1,14 +1,3 @@
-name: OSM Places Scan
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"   # every 6 hours; adjust if you like
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-# Prevent overlapping runs (never cancel an in-progress job)
 concurrency:
   group: osm-places-scan
   cancel-in-progress: false
@@ -16,11 +5,10 @@ concurrency:
 jobs:
   scan:
     runs-on: ubuntu-latest
-    timeout-minutes: 330           # ~5.5 hours per job window
+    timeout-minutes: 330   # ~5.5h job window
     env:
-      # Run-by-time window: job processes until MAX_JOB_SECONDS then exits cleanly.
-      MAX_JOB_SECONDS: "18000"     # 5 hours; remaining 30 min for install/commit
-      BATCH_SIZE: "1000000"        # effectively ignored because time window rules
+      MAX_JOB_SECONDS: "16200"   # 4.5h; leaves ~1h for setup + commit/push
+      BATCH_SIZE: "1000000"
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -35,14 +23,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # Optional: auto-build locations.csv from Census places each run
-      # - name: Build full USA locations.csv (Census places)
-      #   run: |
-      #     python build_locations_from_census_places.py
-      #     head -n 5 locations.csv
-      #     wc -l locations.csv
-
-      - name: Run batch (cursor-aware, with ETA + summary)
+      - name: Run batch (cursor-aware, timed)
         run: python3 runner_local.py
 
       - name: Commit outputs, cursor, and dedupe
@@ -52,11 +33,3 @@ jobs:
           git add outputs/**/*.csv outputs/*.csv cursor.json state_dedupe.jsonl || true
           git commit -m "OSM batch $(date -u +'%Y-%m-%d %H:%M:%S') UTC" || echo "Nothing to commit"
           git push
-
-      - name: Upload outputs (artifact, always)
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: outputs-${{ github.run_id }}
-          path: outputs/*.csv
-          if-no-files-found: warn
