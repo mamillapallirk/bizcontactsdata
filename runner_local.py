@@ -19,14 +19,9 @@ LOCATIONS_CSV = PROJECT_DIR / "locations.csv"
 
 DEDUPE_FILE = PROJECT_DIR / "state_dedupe.jsonl"     # persists Place IDs across runs
 CURSOR_FILE = PROJECT_DIR / "cursor.json"            # remembers next row index to process
+OUTPUT_DIR = PROJECT_DIR / "outputs"
 
-# --- outputs: per-run subfolder ---
-OUTPUT_ROOT = PROJECT_DIR / "outputs"
-OUTPUT_ROOT.mkdir(exist_ok=True)
-_ts = datetime.utcnow().strftime("%Y%m%d-%H%M%S")
-_run_id = os.getenv("GITHUB_RUN_ID") or "local"
-RUN_DIR = OUTPUT_ROOT / f"run-{_ts}-{_run_id}"
-RUN_DIR.mkdir(parents=True, exist_ok=True)
+OUTPUT_DIR.mkdir(exist_ok=True)
 
 # ---------- Utilities ----------
 def load_seen_ids(path: Path) -> Set[str]:
@@ -143,7 +138,7 @@ def save_cursor(index: int, total_count: int) -> None:
 
 def run_one(location: str, radius: float) -> Set[str]:
     """
-    Calls the OSM one-location script, moves created CSVs to this run's subfolder, and returns new Place IDs.
+    Calls the OSM one-location script, moves created CSVs to outputs/, and returns new Place IDs.
     """
     patch_config_osm(location, radius)
 
@@ -152,11 +147,11 @@ def run_one(location: str, radius: float) -> Set[str]:
         print(f"Run failed for {location} ({radius} mi)")
         return set()
 
-    # Move any "* Miles Radius.csv" from repo root -> RUN_DIR
+    # Move any "* Miles Radius.csv" to outputs/
     created = []
     for p in PROJECT_DIR.glob("* Miles Radius.csv"):
         created.append(p)
-        shutil.move(str(p), RUN_DIR / p.name)
+        shutil.move(str(p), OUTPUT_DIR / p.name)
 
     if not created:
         print("No CSVs found in project root after run.")
@@ -164,7 +159,7 @@ def run_one(location: str, radius: float) -> Set[str]:
     # harvest place_ids from moved CSVs
     new_ids: Set[str] = set()
     for p in created:
-        moved = RUN_DIR / p.name
+        moved = OUTPUT_DIR / p.name
         new_ids |= extract_place_ids_from_csv(moved)
 
     time.sleep(1.0)  # be polite
@@ -198,24 +193,22 @@ def write_job_summary(markdown: str) -> None:
 
 # ---------- Main ----------
 def main():
-    # how many locations per run
-    BATCH_SIZE = int(os.getenv("BATCH_SIZE", "5"))
+    # Controls:
+    # - MAX_JOB_SECONDS caps run time so we always finish before workflow timeout and reach commit step
+    # - BATCH_SIZE remains as a secondary guard; if MAX_JOB_SECONDS>0, time window is primary
+    MAX_JOB_SECONDS = int(os.getenv("MAX_JOB_SECONDS", "16200"))  # default 4.5h
+    BATCH_SIZE = int(os.getenv("BATCH_SIZE", "1000000"))          # effectively unlimited when time window in use
 
-    # Announce per-run folder
-    print(f"[OUTPUT_DIR] {RUN_DIR}")
-    write_job_summary(f"**Output folder:** `{RUN_DIR}`")
-
-    # Load locations and cursor
     locations = load_locations()
     total = len(locations)
     if total == 0:
-        print("locations.csv is empty or malformed.")
+        print("**OSM Places Scan:** locations.csv is empty or malformed.")
         write_job_summary("**OSM Places Scan:** locations.csv is empty or malformed.")
         sys.exit(0)
 
     start_idx = load_cursor(total)
 
-    print(f"Total locations: {total}. Starting at index: {start_idx}. Batch size: {BATCH_SIZE}")
+    print(f"Total locations: {total}. Starting at index: {start_idx}. Batch size: {BATCH_SIZE}, Time window: {MAX_JOB_SECONDS}s")
     approx_batches_left = (total - start_idx + BATCH_SIZE - 1) // BATCH_SIZE
     print(f"Approx. batches left in this pass: {approx_batches_left}")
 
@@ -229,7 +222,18 @@ def main():
     run_start = datetime.utcnow()
     per_loc_times: List[float] = []
 
-    while processed < BATCH_SIZE:
+    while True:
+        # Respect time window (primary)
+        if MAX_JOB_SECONDS:
+            elapsed = (datetime.utcnow() - run_start).total_seconds()
+            if elapsed >= MAX_JOB_SECONDS:
+                print(f"Time window reached ({int(elapsed)}s). Saving cursor and exiting.")
+                break
+
+        # Respect batch size (secondary)
+        if not MAX_JOB_SECONDS and processed >= BATCH_SIZE:
+            break
+
         loc, radius = locations[idx]
         tick_start = datetime.utcnow()
         print(f"=== [{idx+1}/{total}] {loc} ({radius} mi) ===")
@@ -242,8 +246,9 @@ def main():
         processed += 1
         new_ids_total += len(new_unique)
 
-        # advance cursor
+        # advance cursor & SAVE IMMEDIATELY so we don't lose progress if the job stops
         idx = (idx + 1) % total
+        save_cursor(idx, total)
 
         # ETA calc
         tick_elapsed = (datetime.utcnow() - tick_start).total_seconds()
@@ -257,22 +262,19 @@ def main():
         pct = completed / total * 100.0
         print(f"Progress: {pct:.2f}% | Avg/loc: {avg_per:.1f}s | ETA for full pass: {eta_td}")
 
-    # Save next start index
-    save_cursor(idx, total)
-
     # Final summary
     run_elapsed = (datetime.utcnow() - run_start).total_seconds()
     completed = (idx if idx != 0 else total)
     pct = completed / total * 100.0
 
     summary_md = f"""## OSM Places Scan — Batch Summary
-- **Batch size:** {BATCH_SIZE}
 - **Processed this run:** {processed} locations
 - **New unique Place IDs added:** {new_ids_total}
 - **Elapsed:** {int(run_elapsed)}s
 - **Cursor:** {completed} / {total}  (_{pct:.2f}% of list_)
 - **Next start index:** {idx}
-- **Output folder:** `{RUN_DIR}`
+- **Time window used:** {MAX_JOB_SECONDS}s
+- **Outputs:** committed under `outputs/`
 """
     print("\n--- Batch Summary ---")
     print(summary_md)
