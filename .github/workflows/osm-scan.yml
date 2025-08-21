@@ -20,6 +20,8 @@ jobs:
     env:
       MAX_JOB_SECONDS: "16200"   # 4.5h; leaves ~1h for setup + commit/push
       BATCH_SIZE: "1000000"
+      CURSOR_CHECKPOINT_EVERY: "10"         # commit every 10 locations
+      CURSOR_CHECKPOINT_SECONDS: "600"      # or every 10 minutes
     steps:
       - name: Checkout
         uses: actions/checkout@v4
