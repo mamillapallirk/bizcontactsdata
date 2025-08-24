@@ -46,3 +46,11 @@ jobs:
           git add outputs/**/*.csv outputs/*.csv cursor.json state_dedupe.jsonl || true
           git commit -m "OSM batch $(date -u +'%Y-%m-%d %H:%M:%S') UTC" || echo "Nothing to commit"
           git push
+        
+      - name: Upload outputs as artifact (always)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: outputs-${{ github.run_id }}
+          path: outputs/**/*.csv
+          if-no-files-found: warn
